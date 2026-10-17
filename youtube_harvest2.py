@@ -24,6 +24,11 @@ import sys
 import time
 import urllib.request
 from pathlib import Path
+try:
+    from exclude import EXCLUDED, filter_ids
+except ImportError:
+    EXCLUDED = set()
+    def filter_ids(x): return x
 
 HERE = Path(__file__).parent
 COMEDIANS = HERE / "comedians"
@@ -217,6 +222,7 @@ def main() -> None:
         raise SystemExit("no YOUTUBE_DATA_API_KEY")
 
     targets = []
+    _reg_skip = EXCLUDED
     if args.only:
         for cid in args.only.split(","):
             cid = cid.strip()
@@ -244,6 +250,7 @@ def main() -> None:
         ap.print_help()
         return
 
+    targets = [t for t in targets if t not in EXCLUDED]
     print(f"{len(targets)} targets (uploads playlists, ~1 unit/50 vids)")
     for cid in targets:
         try:

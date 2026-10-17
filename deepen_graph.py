@@ -17,6 +17,10 @@ import json
 import re
 from collections import Counter
 from pathlib import Path
+try:
+    from exclude import EXCLUDED
+except ImportError:
+    EXCLUDED = set()
 
 HERE = Path(__file__).parent
 COMEDIANS = HERE / "comedians"
@@ -502,6 +506,8 @@ def main() -> None:
     n = 0
     for d in sorted(COMEDIANS.iterdir()):
         if not (d / "comedian-graph.json").exists():
+            continue
+        if d.name in EXCLUDED:
             continue
         if deepen(d.name):
             n += 1

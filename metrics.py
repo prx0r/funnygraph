@@ -11,6 +11,10 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
+try:
+    from exclude import EXCLUDED
+except ImportError:
+    EXCLUDED = set()
 
 HERE = Path(__file__).parent
 COMEDIANS = HERE / "comedians"
@@ -82,6 +86,8 @@ def main() -> None:
         try:
             j = json.loads(g.read_text())
         except json.JSONDecodeError:
+            continue
+        if d.name in EXCLUDED:
             continue
         h = (j.get("netflix_viewership") or {}).get("hours", 0)
         if h:

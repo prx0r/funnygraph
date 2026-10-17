@@ -27,6 +27,10 @@ import json
 import re
 import sys
 from pathlib import Path
+try:
+    from exclude import EXCLUDED
+except ImportError:
+    EXCLUDED = set()
 
 HERE = Path(__file__).parent
 COMEDIANS = HERE / "comedians"
@@ -148,6 +152,8 @@ def _blank_indie(cid: str) -> dict:
 def seed_lists() -> None:
     n = 0
     for cid, meta in CURATED.items():
+        if cid in EXCLUDED:
+            continue
         d = COMEDIANS / cid
         d.mkdir(exist_ok=True)
         gpath = d / "comedian-graph.json"

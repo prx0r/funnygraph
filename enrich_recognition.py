@@ -17,6 +17,10 @@ import re
 import time
 import urllib.request
 from pathlib import Path
+try:
+    from exclude import EXCLUDED
+except ImportError:
+    EXCLUDED = set()
 
 HERE = Path(__file__).parent
 COMEDIANS = HERE / "comedians"
@@ -114,6 +118,8 @@ def main() -> None:
     for d in sorted(COMEDIANS.iterdir()):
         g = d / "comedian-graph.json"
         if not g.exists():
+            continue
+        if d.name in EXCLUDED:
             continue
         j = json.loads(g.read_text())
         name = j.get("name", d.name)

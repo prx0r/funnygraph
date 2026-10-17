@@ -20,6 +20,10 @@ import json
 import re
 import urllib.request
 from pathlib import Path
+try:
+    from exclude import EXCLUDED
+except ImportError:
+    EXCLUDED = set()
 
 HERE = Path(__file__).parent
 COMEDIANS = HERE / "comedians"
@@ -44,6 +48,8 @@ def comic_names() -> dict:
     for d in sorted(COMEDIANS.iterdir()):
         g = d / "comedian-graph.json"
         if not g.exists():
+            continue
+        if d.name in EXCLUDED:
             continue
         try:
             name = json.loads(g.read_text()).get("name", "")
