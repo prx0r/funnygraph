@@ -83,6 +83,11 @@ def week_id() -> str:
     return f"{y}-W{w:02d}"
 
 
+def snap_id() -> str:
+    import datetime as _dt
+    return _dt.datetime.now().strftime("%Y-W%W-%m%d-%H%M")
+
+
 def all_tracked() -> list[dict]:
     vids = []
     for p in sorted(DATA.glob("*.json")):
@@ -118,9 +123,9 @@ def snapshot() -> Path:
     vids = all_tracked()
     print(f"{len(vids)} tracked videos")
     stats = fetch_stats([v["videoId"] for v in vids], key)
-    snap = {"week": week_id(), "date": str(datetime.date.today()),
+    snap = {"week": week_id(), "taken": snap_id(), "date": str(datetime.date.today()),
             "videos": {vid: stats.get(vid, {}) for vid in stats}}
-    p = PULSE / f"snap-{week_id()}.json"
+    p = PULSE / f"snap-{snap_id()}.json"
     p.write_text(json.dumps(snap, indent=0))
     print(f"snapshot {p} ({len(snap['videos'])} videos)")
     return p

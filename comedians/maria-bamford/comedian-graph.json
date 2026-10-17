@@ -386,7 +386,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "character",
-    "signature_title": null,
+    "signature_title": "character vault",
     "repertoire": {
       "character": 0.54,
       "dark-confessional": 0.27,

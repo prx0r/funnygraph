@@ -139,3 +139,18 @@ Needs audio access decisions.
 ### P3 — Xiaoguo subtitled harvest (China proof)
 Registered channel + tlang pipeline = first non-English theory graphs.
 Validates the global thesis.
+
+---
+
+## Addendum — autonomous session (10 threads, same day)
+
+1. **41 signature titles** added (Burr rage auditor, Mulaney anxiety architect...).
+2. **Pulse snapshot #2** (540 videos) + versioned snap IDs (velocity-ready).
+3. **Xiaoguo harvest**: 100 clips/159k views, EN-titled taboo-adjacent sets. Captions unavailable (no tracks) — recorded, whisper path noted.
+4. **Basketmouth harvest**: 100 clips/12.5M views (Nigeria's digital footprint).
+5. **BALLOT_2026.md**: critic survey design (top-20 + breakout + underrated + best special + pairwise, anti-brigading rules, Nov 30 deadline).
+6. **ARENA_BALLOT.md**: blind A/B battles → Bradley-Terry, 3-phase pairing, integration spec.
+7. **First episode draft**: episodes/why-shane-gillis-funny.md (thesis + numbers + 3 bits + sources).
+8. **5 auto-draft reviews**: Gaffigan, Norton, Maron, Iglesias, Cummings → curated identity/theses.
+9. **Pulse snap versioning** fix (multiple snapshots per week).
+10. **This log update.**

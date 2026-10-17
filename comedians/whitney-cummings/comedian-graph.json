@@ -7,7 +7,7 @@
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
-    "deal": "Stand-up voice with 26,087 words of specials in the corpus. Top distinctive vocabulary: guys, your, think, about, because.",
+    "deal": "Ambition engineer who treats relationships like systems to be debugged and herself as both the bug and the patch.",
     "premise": "Auto-drafted from 26,087 transcript words \u2014 needs human review for the engine thesis.",
     "archetype": "auto_draft",
     "awareness": "unknown",
@@ -28,7 +28,7 @@
         "auto-draft \u2014 needs human review"
       ]
     },
-    "misinterpretation_rule": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+    "misinterpretation_rule": "Takes a dating disaster and reverse-engineers it like an engineer with a grudge \u2014 flowcharts optional, fury mandatory.",
     "contradictions": [],
     "status_model": {
       "desired_status": "auto-draft",
@@ -58,19 +58,19 @@
     },
     "preferred_theories": [],
     "threads": [
-      "guys",
-      "your",
-      "think",
-      "about",
-      "because",
-      "there"
+      "relationships as systems",
+      "ambition without apology",
+      "the engineer brain on dating",
+      "codependency autopsy",
+      "horse-girl energy"
     ],
     "problem_space": [
       "women",
       "want",
       "okay",
       "feel"
-    ]
+    ],
+    "style_thesis": "Systems-analyst engine: applies engineering rigor to emotional chaos. The room laughs because the analysis is both wrong and exactly right."
   },
   "engine": {
     "voice_clone_id": null,
@@ -169,7 +169,8 @@
       "transcripts/whitney-cummings/hitney-ummings-okes-2022-ranscript.txt"
     ],
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "reviewed": "2026-10-17 human-review pass (from auto-draft)"
   },
   "theory_links": {
     "internal": [
@@ -283,10 +284,13 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "ambition engineer",
     "repertoire": {
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Rapid analysis, personal counterexample, furious tag. Speed is the intelligence made audible."
   }
 }

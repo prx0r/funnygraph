@@ -7,8 +7,8 @@
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
-    "deal": "Stand-up voice with 39,615 words of specials in the corpus. Top distinctive vocabulary: your, there, here, people, said.",
-    "premise": "Auto-drafted from 39,615 transcript words \u2014 needs human review for the engine thesis.",
+    "deal": "Fluffy storyteller who turns every life event into a sound-effects epic performed at full volume with total sweetness.",
+    "premise": "A man who proves clean-ish storytelling at arena scale works when the commitment is total and the sound effects are load-bearing.",
     "archetype": "auto_draft",
     "awareness": "unknown",
     "awareness_note": "auto-draft \u2014 needs human review",
@@ -28,7 +28,7 @@
         "auto-draft \u2014 needs human review"
       ]
     },
-    "misinterpretation_rule": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+    "misinterpretation_rule": "Takes a normal story and performs every character, vehicle, and sound effect in it \u2014 the story becomes a one-man movie.",
     "contradictions": [],
     "status_model": {
       "desired_status": "auto-draft",
@@ -58,19 +58,19 @@
     },
     "preferred_theories": [],
     "threads": [
-      "your",
-      "there",
-      "here",
-      "people",
-      "said",
-      "some"
+      "sound effects as punchlines",
+      "fluffy as identity armor",
+      "family stories at arena scale",
+      "the bus driver saga",
+      "sweetness as strategy"
     ],
     "problem_space": [
       "then",
       "laughter",
       "about",
       "guys"
-    ]
+    ],
+    "style_thesis": "Fluffy-epic engine: one-man movie performances where the sound effects do half the laughing. Sweetness disarms; scale impresses."
   },
   "engine": {
     "voice_clone_id": null,
@@ -169,7 +169,8 @@
       "transcripts/gabriel-iglesias/abriel-glesias-tadium-luffy-2022-ranscript.txt"
     ],
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "reviewed": "2026-10-17 human-review pass (from auto-draft)"
   },
   "theory_links": {
     "internal": [
@@ -298,10 +299,13 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "fluffy storyteller",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Story sprint, sound-effect punctuation, sweet landing. The effects are timed like drum hits."
   }
 }

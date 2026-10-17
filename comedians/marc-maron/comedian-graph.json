@@ -7,7 +7,7 @@
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
-    "deal": "Stand-up voice with 37,629 words of specials in the corpus. Top distinctive vocabulary: there, think, audience, laughing, about.",
+    "deal": "Garage confessor who turned his neuroses into a shovel and dug straight down through himself on mic for fifteen years.",
     "premise": "Auto-drafted from 37,629 transcript words \u2014 needs human review for the engine thesis.",
     "archetype": "auto_draft",
     "awareness": "unknown",
@@ -28,7 +28,7 @@
         "auto-draft \u2014 needs human review"
       ]
     },
-    "misinterpretation_rule": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+    "misinterpretation_rule": "Treats every personal failing as material for the garage autopsy \u2014 names the cats, the exes, the father, the fear, then keeps digging.",
     "contradictions": [],
     "status_model": {
       "desired_status": "auto-draft",
@@ -58,19 +58,19 @@
     },
     "preferred_theories": [],
     "threads": [
-      "there",
-      "think",
-      "audience",
-      "laughing",
-      "about",
-      "then"
+      "the garage as confessional",
+      "cats as emotional support",
+      "father as origin story",
+      "anxiety as content",
+      "the interview as therapy"
     ],
     "problem_space": [
       "your",
       "people",
       "want",
       "fuck"
-    ]
+    ],
+    "style_thesis": "Garage-autopsy engine: WTF proved vulnerability scales. The monologue before the guest IS the act \u2014 the interview is just where he catches his breath."
   },
   "engine": {
     "voice_clone_id": null,
@@ -169,7 +169,8 @@
       "transcripts/marc-maron/arc-aron-rom-leak-to-ark-2023-ranscript.txt"
     ],
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "reviewed": "2026-10-17 human-review pass (from auto-draft)"
   },
   "theory_links": {
     "internal": [
@@ -306,10 +307,13 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "garage confessor",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Ranty build, sudden raw admission, nervous laugh. The admission lands harder because the rant earned it."
   }
 }

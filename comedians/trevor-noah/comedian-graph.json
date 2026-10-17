@@ -323,7 +323,7 @@
   "continent": "africa",
   "modes": {
     "signature": "storytelling",
-    "signature_title": null,
+    "signature_title": "accent diplomat",
     "repertoire": {
       "storytelling": 0.4,
       "observational": 0.27,

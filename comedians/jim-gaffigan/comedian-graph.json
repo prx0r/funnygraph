@@ -7,7 +7,7 @@
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
-    "deal": "Stand-up voice with 30,210 words of specials in the corpus. Top distinctive vocabulary: there, people, audience, laughs, some.",
+    "deal": "Clean machine who treats food like a hostile foreign power and himself as its most enthusiastic collaborator.",
     "premise": "Auto-drafted from 30,210 transcript words \u2014 needs human review for the engine thesis.",
     "archetype": "auto_draft",
     "awareness": "unknown",
@@ -28,7 +28,7 @@
         "auto-draft \u2014 needs human review"
       ]
     },
-    "misinterpretation_rule": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+    "misinterpretation_rule": "Takes any food situation and escalates it to a Hot Pocket emergency, narrated in a whispered aside to the audience like a co-conspirator.",
     "contradictions": [],
     "status_model": {
       "desired_status": "auto-draft",
@@ -58,19 +58,19 @@
     },
     "preferred_theories": [],
     "threads": [
-      "there",
-      "people",
-      "audience",
-      "laughs",
-      "some",
-      "your"
+      "Hot Pockets as cosmology",
+      "food as a hostile power",
+      "the whisper aside",
+      "Catholic dad energy",
+      "tour-bus gluttony"
     ],
     "problem_space": [
       "look",
       "even",
       "about",
       "then"
-    ]
+    ],
+    "style_thesis": "Clean-machine engine: full commitment to food bits with zero profanity needed. The whisper aside ('hot pocket...') is the signature device \u2014 the room becomes his accomplice."
   },
   "engine": {
     "voice_clone_id": null,
@@ -169,7 +169,8 @@
       "transcripts/jim-gaffigan/im-affigan-uality-ime-2019-ull-ranscript.txt"
     ],
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "reviewed": "2026-10-17 human-review pass (from auto-draft)"
   },
   "theory_links": {
     "internal": [
@@ -297,10 +298,13 @@
   "continent": "north-america",
   "modes": {
     "signature": "clean-everyman",
-    "signature_title": null,
+    "signature_title": "clean machine",
     "repertoire": {
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Setup in full voice, punchline in a stage whisper. The volume drop IS the timing \u2014 the room leans in."
   }
 }

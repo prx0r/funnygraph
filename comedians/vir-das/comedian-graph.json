@@ -302,7 +302,7 @@
   ],
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "bridge translator",
     "repertoire": {
       "observational": 1.0
     },

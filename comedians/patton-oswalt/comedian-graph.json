@@ -301,7 +301,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "storytelling",
-    "signature_title": null,
+    "signature_title": "nerd professor",
     "repertoire": {
       "storytelling": 0.4,
       "observational": 0.32,
