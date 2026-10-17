@@ -62,6 +62,8 @@ def build():
             j = json.loads(g.read_text())
         except json.JSONDecodeError:
             continue
+        if j.get("tier", "king") != "king":
+            continue  # indies matched separately via indie.py
         t = doc_of(j)
         if len(t.split()) < 10:
             continue
