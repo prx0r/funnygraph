@@ -282,5 +282,16 @@
     "kt_appearances": 3
   },
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "observational",
+    "signature_title": null,
+    "repertoire": {
+      "observational": 0.47,
+      "absurdist": 0.27,
+      "rant": 0.2,
+      "roast": 0.07
+    },
+    "n_modes": 3
+  }
 }

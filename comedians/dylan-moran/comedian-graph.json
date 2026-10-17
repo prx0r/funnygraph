@@ -311,5 +311,16 @@
   },
   "tier": "king",
   "region": "ireland",
-  "continent": "europe"
+  "continent": "europe",
+  "modes": {
+    "signature": "rant",
+    "signature_title": null,
+    "repertoire": {
+      "rant": 0.37,
+      "storytelling": 0.37,
+      "roast": 0.13,
+      "observational": 0.13
+    },
+    "n_modes": 4
+  }
 }

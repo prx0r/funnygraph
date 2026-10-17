@@ -397,5 +397,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "one-liner",
+    "signature_title": "joke designer",
+    "repertoire": {
+      "one-liner": 0.27,
+      "storytelling": 0.27,
+      "meta": 0.27,
+      "absurdist": 0.09,
+      "observational": 0.09
+    },
+    "n_modes": 3
+  }
 }

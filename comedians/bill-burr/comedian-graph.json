@@ -585,5 +585,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "storytelling",
+    "signature_title": "rage auditor",
+    "repertoire": {
+      "storytelling": 0.35,
+      "rant": 0.33,
+      "observational": 0.17,
+      "dark-confessional": 0.1,
+      "roast": 0.05
+    },
+    "n_modes": 3
+  }
 }

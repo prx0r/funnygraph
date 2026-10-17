@@ -759,5 +759,16 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "storytelling",
+    "signature_title": "story god",
+    "repertoire": {
+      "storytelling": 0.58,
+      "character": 0.27,
+      "surreal": 0.08,
+      "roast": 0.08
+    },
+    "n_modes": 2
+  }
 }

@@ -744,5 +744,15 @@
   },
   "tier": "king",
   "region": "canada",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "absurdist",
+    "signature_title": "shaggy-dog saint",
+    "repertoire": {
+      "absurdist": 0.65,
+      "dark-confessional": 0.25,
+      "one-liner": 0.1
+    },
+    "n_modes": 2
+  }
 }

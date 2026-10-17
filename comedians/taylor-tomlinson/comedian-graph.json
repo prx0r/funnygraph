@@ -401,5 +401,15 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "dark-confessional",
+    "signature_title": null,
+    "repertoire": {
+      "dark-confessional": 0.66,
+      "roast": 0.17,
+      "observational": 0.17
+    },
+    "n_modes": 3
+  }
 }

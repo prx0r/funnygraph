@@ -495,5 +495,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "meta",
+    "signature_title": "meta architect",
+    "repertoire": {
+      "meta": 0.35,
+      "surreal": 0.24,
+      "rant": 0.18,
+      "dark-confessional": 0.18,
+      "roast": 0.06
+    },
+    "n_modes": 4
+  }
 }

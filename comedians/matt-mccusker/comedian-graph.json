@@ -351,5 +351,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "surreal",
+    "signature_title": null,
+    "repertoire": {
+      "surreal": 0.33,
+      "rant": 0.25,
+      "clean-everyman": 0.25,
+      "absurdist": 0.08,
+      "observational": 0.08
+    },
+    "n_modes": 3
+  }
 }

@@ -394,5 +394,16 @@
   },
   "tier": "king",
   "region": "uk",
-  "continent": "europe"
+  "continent": "europe",
+  "modes": {
+    "signature": "one-liner",
+    "signature_title": "dark surgeon",
+    "repertoire": {
+      "one-liner": 0.37,
+      "meta": 0.37,
+      "observational": 0.13,
+      "dark-confessional": 0.13
+    },
+    "n_modes": 4
+  }
 }

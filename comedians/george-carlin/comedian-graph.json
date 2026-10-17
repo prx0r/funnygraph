@@ -794,5 +794,15 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "rant",
+    "signature_title": "rant prophet",
+    "repertoire": {
+      "rant": 0.77,
+      "meta": 0.12,
+      "absurdist": 0.12
+    },
+    "n_modes": 3
+  }
 }

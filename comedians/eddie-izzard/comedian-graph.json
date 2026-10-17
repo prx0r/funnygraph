@@ -462,5 +462,16 @@
         "garden_path"
       ]
     }
-  ]
+  ],
+  "modes": {
+    "signature": "character",
+    "signature_title": null,
+    "repertoire": {
+      "character": 0.43,
+      "surreal": 0.29,
+      "storytelling": 0.21,
+      "observational": 0.07
+    },
+    "n_modes": 3
+  }
 }

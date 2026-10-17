@@ -355,5 +355,16 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "absurdist",
+    "signature_title": "one-liner mystic",
+    "repertoire": {
+      "absurdist": 0.58,
+      "dark-confessional": 0.25,
+      "surreal": 0.08,
+      "meta": 0.08
+    },
+    "n_modes": 2
+  }
 }

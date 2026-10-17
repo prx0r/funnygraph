@@ -453,5 +453,16 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "storytelling",
+    "signature_title": null,
+    "repertoire": {
+      "storytelling": 0.54,
+      "clean-everyman": 0.31,
+      "dark-confessional": 0.08,
+      "observational": 0.08
+    },
+    "n_modes": 2
+  }
 }

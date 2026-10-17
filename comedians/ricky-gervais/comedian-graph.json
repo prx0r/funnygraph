@@ -369,5 +369,16 @@
   },
   "tier": "king",
   "region": "uk",
-  "continent": "europe"
+  "continent": "europe",
+  "modes": {
+    "signature": "provocateur",
+    "signature_title": null,
+    "repertoire": {
+      "provocateur": 0.44,
+      "roast": 0.28,
+      "storytelling": 0.2,
+      "dark-confessional": 0.08
+    },
+    "n_modes": 3
+  }
 }

@@ -322,5 +322,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "surreal",
+    "signature_title": null,
+    "repertoire": {
+      "surreal": 0.39,
+      "roast": 0.21,
+      "storytelling": 0.21,
+      "dark-confessional": 0.12,
+      "absurdist": 0.06
+    },
+    "n_modes": 4
+  }
 }

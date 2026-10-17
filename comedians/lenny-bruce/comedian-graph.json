@@ -369,5 +369,16 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "modes": {
+    "signature": "rant",
+    "signature_title": null,
+    "repertoire": {
+      "rant": 0.37,
+      "storytelling": 0.37,
+      "absurdist": 0.13,
+      "roast": 0.13
+    },
+    "n_modes": 4
+  }
 }

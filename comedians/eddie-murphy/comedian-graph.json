@@ -343,5 +343,13 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "modes": {
+    "signature": "dark-confessional",
+    "signature_title": null,
+    "repertoire": {
+      "dark-confessional": 1.0
+    },
+    "n_modes": 1
+  }
 }

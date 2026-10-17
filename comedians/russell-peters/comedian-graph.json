@@ -314,5 +314,13 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "modes": {
+    "signature": "observational",
+    "signature_title": null,
+    "repertoire": {
+      "observational": 1.0
+    },
+    "n_modes": 1
+  }
 }

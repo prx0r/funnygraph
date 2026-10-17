@@ -525,5 +525,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "storytelling",
+    "signature_title": "anxiety architect",
+    "repertoire": {
+      "storytelling": 0.53,
+      "character": 0.18,
+      "crowd-improv": 0.18,
+      "observational": 0.06,
+      "dark-confessional": 0.06
+    },
+    "n_modes": 3
+  }
 }

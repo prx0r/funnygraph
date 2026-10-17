@@ -354,5 +354,16 @@
   },
   "tier": "king",
   "region": "australia",
-  "continent": "oceania"
+  "continent": "oceania",
+  "modes": {
+    "signature": "roast",
+    "signature_title": null,
+    "repertoire": {
+      "roast": 0.37,
+      "storytelling": 0.29,
+      "rant": 0.25,
+      "meta": 0.08
+    },
+    "n_modes": 3
+  }
 }

@@ -485,5 +485,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "dark-confessional",
+    "signature_title": "confession firestorm",
+    "repertoire": {
+      "dark-confessional": 0.36,
+      "character": 0.25,
+      "storytelling": 0.25,
+      "roast": 0.07,
+      "observational": 0.07
+    },
+    "n_modes": 3
+  }
 }

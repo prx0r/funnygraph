@@ -468,5 +468,16 @@
   },
   "tier": "king",
   "region": "uk",
-  "continent": "europe"
+  "continent": "europe",
+  "modes": {
+    "signature": "meta",
+    "signature_title": null,
+    "repertoire": {
+      "meta": 0.58,
+      "observational": 0.27,
+      "surreal": 0.08,
+      "roast": 0.08
+    },
+    "n_modes": 2
+  }
 }

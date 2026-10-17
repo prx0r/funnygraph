@@ -276,5 +276,13 @@
   },
   "tier": "king",
   "region": "australia",
-  "continent": "oceania"
+  "continent": "oceania",
+  "modes": {
+    "signature": "observational",
+    "signature_title": null,
+    "repertoire": {
+      "observational": 1.0
+    },
+    "n_modes": 1
+  }
 }

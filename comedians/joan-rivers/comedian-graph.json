@@ -307,5 +307,15 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "roast",
+    "signature_title": "roast assassin",
+    "repertoire": {
+      "roast": 0.66,
+      "dark-confessional": 0.17,
+      "observational": 0.17
+    },
+    "n_modes": 3
+  }
 }

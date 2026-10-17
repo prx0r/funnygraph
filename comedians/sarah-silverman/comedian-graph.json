@@ -471,5 +471,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "provocateur",
+    "signature_title": "sweetness bomb",
+    "repertoire": {
+      "provocateur": 0.43,
+      "storytelling": 0.21,
+      "rant": 0.21,
+      "observational": 0.07,
+      "dark-confessional": 0.07
+    },
+    "n_modes": 3
+  }
 }

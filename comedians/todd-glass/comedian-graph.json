@@ -225,5 +225,13 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "observational",
+    "signature_title": null,
+    "repertoire": {
+      "observational": 1.0
+    },
+    "n_modes": 1
+  }
 }

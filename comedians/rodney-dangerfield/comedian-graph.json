@@ -333,5 +333,15 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "one-liner",
+    "signature_title": "self-own engine",
+    "repertoire": {
+      "one-liner": 0.6,
+      "roast": 0.2,
+      "dark-confessional": 0.2
+    },
+    "n_modes": 3
+  }
 }

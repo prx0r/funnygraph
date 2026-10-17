@@ -292,5 +292,13 @@
         "status_reversal"
       ]
     }
-  ]
+  ],
+  "modes": {
+    "signature": "clean-everyman",
+    "signature_title": null,
+    "repertoire": {
+      "clean-everyman": 1.0
+    },
+    "n_modes": 1
+  }
 }

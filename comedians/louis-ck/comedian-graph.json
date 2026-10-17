@@ -1217,5 +1217,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "dark-confessional",
+    "signature_title": "shame evangelist",
+    "repertoire": {
+      "dark-confessional": 0.35,
+      "storytelling": 0.24,
+      "absurdist": 0.18,
+      "rant": 0.18,
+      "surreal": 0.06
+    },
+    "n_modes": 4
+  }
 }

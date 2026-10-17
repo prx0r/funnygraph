@@ -298,5 +298,16 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "crowd-improv",
+    "signature_title": null,
+    "repertoire": {
+      "crowd-improv": 0.43,
+      "roast": 0.29,
+      "storytelling": 0.21,
+      "dark-confessional": 0.07
+    },
+    "n_modes": 3
+  }
 }

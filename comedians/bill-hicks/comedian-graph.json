@@ -472,5 +472,16 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "rant",
+    "signature_title": "anger prophet",
+    "repertoire": {
+      "rant": 0.54,
+      "storytelling": 0.29,
+      "meta": 0.08,
+      "roast": 0.08
+    },
+    "n_modes": 2
+  }
 }

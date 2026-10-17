@@ -444,5 +444,17 @@
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "character",
+    "signature_title": "character flood",
+    "repertoire": {
+      "character": 0.39,
+      "surreal": 0.21,
+      "storytelling": 0.21,
+      "dark-confessional": 0.12,
+      "observational": 0.06
+    },
+    "n_modes": 4
+  }
 }

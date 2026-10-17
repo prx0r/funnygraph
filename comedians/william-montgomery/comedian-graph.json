@@ -324,5 +324,16 @@
     "kt_appearances": 7
   },
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "modes": {
+    "signature": "crowd-improv",
+    "signature_title": null,
+    "repertoire": {
+      "crowd-improv": 0.37,
+      "absurdist": 0.37,
+      "dark-confessional": 0.13,
+      "observational": 0.13
+    },
+    "n_modes": 4
+  }
 }
