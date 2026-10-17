@@ -223,7 +223,8 @@ def main() -> None:
         for gen, members in groups.items():
             vals = [leg[c] for c in members if leg[c] > 0]
             if len(vals) >= 5:
-                mu = statistics.mean(vals)
+                # median, not mean: three giants shouldn't crater a good comic
+                mu = statistics.median(vals)
                 sd = statistics.pstdev(vals) or 1.0
             else:
                 mu, sd = g_mu, g_sd or 1.0
