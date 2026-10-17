@@ -1,325 +1,327 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "william-montgomery",
- "name": "William Montgomery",
- "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
- "version": 2,
- "created": "2026-10-16",
- "annotator": "mimo-v2.5",
- "identity": {
-  "deal": "The Big Red Machine: a chaotic force of nature who treats every Kill Tony set like a fire alarm he's answering in the wrong outfit.",
-  "premise": "A man who treats the stage as a crime scene he's both investigating and committing.",
-  "archetype": "chaos_regular",
-  "awareness": "constructed",
-  "awareness_note": "The persona is a constructed chaos engine: commitment over coherence, energy over craft.",
-  "philosophy": {
-   "ontology": "The set is a dare and the dare is the point.",
-   "epistemology": "If it lands, it was planned; if it doesn't, it was still the right move.",
-   "axiology": "Commitment beats polish; the room remembers the energy.",
-   "causality": "One committed absurd turn can outrun three clean jokes.",
-   "agency": "Anyone can be weird; almost nobody commits this hard."
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "william-montgomery",
+  "name": "William Montgomery",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "The Big Red Machine: a chaotic force of nature who treats every Kill Tony set like a fire alarm he's answering in the wrong outfit.",
+    "premise": "A man who treats the stage as a crime scene he's both investigating and committing.",
+    "archetype": "chaos_regular",
+    "awareness": "constructed",
+    "awareness_note": "The persona is a constructed chaos engine: commitment over coherence, energy over craft.",
+    "philosophy": {
+      "ontology": "The set is a dare and the dare is the point.",
+      "epistemology": "If it lands, it was planned; if it doesn't, it was still the right move.",
+      "axiology": "Commitment beats polish; the room remembers the energy.",
+      "causality": "One committed absurd turn can outrun three clean jokes.",
+      "agency": "Anyone can be weird; almost nobody commits this hard."
+    },
+    "dramatic_core": {
+      "want": "to leave the room with no idea what happened but knowing they were there",
+      "fear": "the polite nod \u2014 the death of chaos",
+      "need": "the room to come with him into the absurd",
+      "self_model": "a machine that was built wrong and runs better for it",
+      "blind_spots": [
+        "chaos without a closer burns the room",
+        "the persona can become a gimmick"
+      ]
+    },
+    "misinterpretation_rule": "Treats the set as a controlled demolition of normal comedy rules, and the demolition IS the act.",
+    "contradictions": [
+      "the chaos with a cult following",
+      "the wrongness that is somehow right",
+      "the regular who became the main character"
+    ],
+    "status_model": {
+      "desired_status": "the chaos agent",
+      "felt_status": "a man permanently mid-demolition"
+    },
+    "expression": {
+      "default_register": "chaos-machine",
+      "emotional_restraint": "zero",
+      "tells": [
+        "the sudden commitment to a bad idea",
+        "the energy that never drops",
+        "the laugh that is also a dare"
+      ]
+    },
+    "modulator_range": [
+      "chaos",
+      "escalation",
+      "absurdist",
+      "wild-ride",
+      "closer-chaos"
+    ],
+    "profile": {
+      "energy": 0.9,
+      "pace": "torrential",
+      "gesture_frequency": 0.85,
+      "punchline_hold_ms": 400
+    },
+    "operator_priors": {
+      "rigidify": 0.2,
+      "literalize": 0.3,
+      "double_interpret": 0.4,
+      "status_invert": 0.6,
+      "character_violation": 0.75,
+      "status": "measured from KT scribe (517w, 190wpm)"
+    },
+    "preferred_theories": [
+      "benign_violation",
+      "incongruity",
+      "character_violation"
+    ],
+    "threads": [
+      "chaos as a strategy",
+      "the set as a dare",
+      "commitment over polish",
+      "the wrongness that works",
+      "the regular as a force of nature"
+    ],
+    "problem_space": [
+      "live comedy as demolition",
+      "the persona as a machine",
+      "the room as a co-conspirator"
+    ],
+    "style_thesis": "Chaos-machine engine: treats the set as a controlled demolition of normal comedy rules, and the demolition IS the act. character_violation at max: every social stop sign is walked past with total commitment. The room stays because they don't know what's coming next \u2014 and neither does he."
   },
-  "dramatic_core": {
-   "want": "to leave the room with no idea what happened but knowing they were there",
-   "fear": "the polite nod \u2014 the death of chaos",
-   "need": "the room to come with him into the absurd",
-   "self_model": "a machine that was built wrong and runs better for it",
-   "blind_spots": [
-    "chaos without a closer burns the room",
-    "the persona can become a gimmick"
-   ]
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "chaos_regular",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
   },
-  "misinterpretation_rule": "Treats the set as a controlled demolition of normal comedy rules, and the demolition IS the act.",
-  "contradictions": [
-   "the chaos with a cult following",
-   "the wrongness that is somehow right",
-   "the regular who became the main character"
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "william-montgomery-essay-01",
+      "title": "Why is William Montgomery funny? The chaos regular engine",
+      "thesis": "Chaos-machine engine: treats the set as a controlled demolition of normal comedy rules, and the demolition IS the act. character_violation at max: every social stop sign is walked past with total commitment. The room stays because they don't know what's coming next \u2014 and neither does he.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "william-montgomery-essay-02",
+      "title": "William Montgomery: 'The committed bad idea' \u2014 how the bit works",
+      "thesis": "Takes a premise that shouldn't work and commits to it so hard that the commitment becomes the joke. The room laughs at the audacity of the commitment, not the content. benign_violation: the violation is the bad premise; the benign frame is the obvious joy of the performance.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "william-montgomery-essay-03",
+      "title": "William Montgomery: 'The KT regular as a force of nature' \u2014 how the bit works",
+      "thesis": "The persona has accumulated meta-status from appearing repeatedly. Each set is not just a set \u2014 it's an episode in the ongoing saga of William Montgomery. The room is laughing at the character as much as the bits.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "william-montgomery-bit-01",
+      "title": "William Montgomery: 'The committed bad idea' \u2014 how the bit works",
+      "thesis": "Takes a premise that shouldn't work and commits to it so hard that the commitment becomes the joke. The room laughs at the audacity of the commitment, not the content. benign_violation: the violation is the bad premise; the benign frame is the obvious joy of the performance.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "william-montgomery-bit-02",
+      "title": "William Montgomery: 'The KT regular as a force of nature' \u2014 how the bit works",
+      "thesis": "The persona has accumulated meta-status from appearing repeatedly. Each set is not just a set \u2014 it's an episode in the ongoing saga of William Montgomery. The room is laughing at the character as much as the bits.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
   ],
-  "status_model": {
-   "desired_status": "the chaos agent",
-   "felt_status": "a man permanently mid-demolition"
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
   },
-  "expression": {
-   "default_register": "chaos-machine",
-   "emotional_restraint": "zero",
-   "tells": [
-    "the sudden commitment to a bad idea",
-    "the energy that never drops",
-    "the laugh that is also a dare"
-   ]
+  "timing_profile": {
+    "doctrine_hypothesis": "Torrential, sudden freezes. The energy never drops until the freeze \u2014 and the freeze IS the punchline. The commitment to a bad idea is the timing device.",
+    "status": "hypothesis until word-timed sets measured"
   },
-  "modulator_range": [
-   "chaos",
-   "escalation",
-   "absurdist",
-   "wild-ride",
-   "closer-chaos"
+  "known_bits": [
+    {
+      "title": "The committed bad idea",
+      "why_it_works": "Takes a premise that shouldn't work and commits to it so hard that the commitment becomes the joke. The room laughs at the audacity of the commitment, not the content. benign_violation: the violation is the bad premise; the benign frame is the obvious joy of the performance.",
+      "theory_links": [
+        "benign_violation",
+        "character_violation"
+      ]
+    },
+    {
+      "title": "The KT regular as a force of nature",
+      "why_it_works": "The persona has accumulated meta-status from appearing repeatedly. Each set is not just a set \u2014 it's an episode in the ongoing saga of William Montgomery. The room is laughing at the character as much as the bits.",
+      "theory_links": [
+        "status_reversal",
+        "split_knowledge"
+      ]
+    }
   ],
-  "profile": {
-   "energy": 0.9,
-   "pace": "torrential",
-   "gesture_frequency": 0.85,
-   "punchline_hold_ms": 400
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
   },
-  "operator_priors": {
-   "rigidify": 0.2,
-   "literalize": 0.3,
-   "double_interpret": 0.4,
-   "status_invert": 0.6,
-   "character_violation": 0.75,
-   "status": "measured from KT scribe (517w, 190wpm)"
+  "generation": {
+    "id": "twenties",
+    "label": "Twenties KT/streaming",
+    "span": "2020s",
+    "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
+    "scene": "kill-tony",
+    "breakthrough": "2020s Kill Tony regular"
   },
-  "preferred_theories": [
-   "benign_violation",
-   "incongruity",
-   "character_violation"
-  ],
-  "threads": [
-   "chaos as a strategy",
-   "the set as a dare",
-   "commitment over polish",
-   "the wrongness that works",
-   "the regular as a force of nature"
-  ],
-  "problem_space": [
-   "live comedy as demolition",
-   "the persona as a machine",
-   "the room as a co-conspirator"
-  ],
-  "style_thesis": "Chaos-machine engine: treats the set as a controlled demolition of normal comedy rules, and the demolition IS the act. character_violation at max: every social stop sign is walked past with total commitment. The room stays because they don't know what's coming next \u2014 and neither does he."
- },
- "engine": {
-  "voice_clone_id": null,
-  "delivery_archetype": "chaos_regular",
-  "jev_state": {
-   "status": "NOT RUN"
-  }
- },
- "sets": [],
- "set_queue": {
-  "note": "harvest captions or link transcript for measured depth",
-  "blocked_on": "captions/audio"
- },
- "essay_seeds": [
-  {
-   "id": "william-montgomery-essay-01",
-   "title": "Why is William Montgomery funny? The chaos regular engine",
-   "thesis": "Chaos-machine engine: treats the set as a controlled demolition of normal comedy rules, and the demolition IS the act. character_violation at max: every social stop sign is walked past with total commitment. The room stays because they don't know what's coming next \u2014 and neither does he.",
-   "evidence": [
-    "identity.misinterpretation_rule",
-    "known_bits",
-    "identity.operator_priors",
-    "timing_profile.doctrine_hypothesis"
-   ],
-   "outline": [
-    "the deal in one sentence",
-    "the misinterpretation rule as engine",
-    "2-3 signature bits dissected",
-    "timing doctrine",
-    "what makes this persona impossible to copy"
-   ],
-   "status": "seed \u2014 ready to draft"
+  "humor_type": {
+    "primary": "crowd-improv",
+    "secondary": "dark-confessional",
+    "scores": {
+      "crowd-improv": 0.5,
+      "dark-confessional": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories"
   },
-  {
-   "id": "william-montgomery-essay-02",
-   "title": "William Montgomery: 'The committed bad idea' \u2014 how the bit works",
-   "thesis": "Takes a premise that shouldn't work and commits to it so hard that the commitment becomes the joke. The room laughs at the audacity of the commitment, not the content. benign_violation: the violation is the bad premise; the benign frame is the obvious joy of the performance.",
-   "evidence": [
-    "known_bits[0]",
-    "theory_links"
-   ],
-   "outline": [
-    "the setup",
-    "the mechanism",
-    "why the room laughs",
-    "the theory link",
-    "what this reveals about the engine"
-   ],
-   "status": "seed"
+  "metrics": {
+    "canon": 0.6,
+    "canon_era": 25.7,
+    "crowd": null,
+    "pull": 71.4,
+    "craft": 62.5,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
   },
-  {
-   "id": "william-montgomery-essay-03",
-   "title": "William Montgomery: 'The KT regular as a force of nature' \u2014 how the bit works",
-   "thesis": "The persona has accumulated meta-status from appearing repeatedly. Each set is not just a set \u2014 it's an episode in the ongoing saga of William Montgomery. The room is laughing at the character as much as the bits.",
-   "evidence": [
-    "known_bits[1]",
-    "theory_links"
-   ],
-   "outline": [
-    "the setup",
-    "the mechanism",
-    "why the room laughs",
-    "the theory link",
-    "what this reveals about the engine"
-   ],
-   "status": "seed"
+  "tier": "king",
+  "discovery": {
+    "discovered_from": [
+      "kill-tony-minutes"
+    ],
+    "kt_appearances": 7
   },
-  {
-   "id": "william-montgomery-bit-01",
-   "title": "William Montgomery: 'The committed bad idea' \u2014 how the bit works",
-   "thesis": "Takes a premise that shouldn't work and commits to it so hard that the commitment becomes the joke. The room laughs at the audacity of the commitment, not the content. benign_violation: the violation is the bad premise; the benign frame is the obvious joy of the performance.",
-   "evidence": [
-    "known_bits[0]",
-    "theory_links"
-   ],
-   "outline": [
-    "the setup",
-    "the mechanism",
-    "why the room laughs",
-    "the theory link",
-    "what this reveals about the engine"
-   ],
-   "status": "seed"
-  },
-  {
-   "id": "william-montgomery-bit-02",
-   "title": "William Montgomery: 'The KT regular as a force of nature' \u2014 how the bit works",
-   "thesis": "The persona has accumulated meta-status from appearing repeatedly. Each set is not just a set \u2014 it's an episode in the ongoing saga of William Montgomery. The room is laughing at the character as much as the bits.",
-   "evidence": [
-    "known_bits[1]",
-    "theory_links"
-   ],
-   "outline": [
-    "the setup",
-    "the mechanism",
-    "why the room laughs",
-    "the theory link",
-    "what this reveals about the engine"
-   ],
-   "status": "seed"
-  }
- ],
- "provenance": {
-  "persona": "authored from public reputation (no verbatim bits)",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines",
-   "hypothesis until measured"
-  ],
-  "sets_observed": 0,
-  "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
-  "theory_applied": true,
-  "deepened": "2026-10-16"
- },
- "timing_profile": {
-  "doctrine_hypothesis": "Torrential, sudden freezes. The energy never drops until the freeze \u2014 and the freeze IS the punchline. The commitment to a bad idea is the timing device.",
-  "status": "hypothesis until word-timed sets measured"
- },
- "known_bits": [
-  {
-   "title": "The committed bad idea",
-   "why_it_works": "Takes a premise that shouldn't work and commits to it so hard that the commitment becomes the joke. The room laughs at the audacity of the commitment, not the content. benign_violation: the violation is the bad premise; the benign frame is the obvious joy of the performance.",
-   "theory_links": [
-    "benign_violation",
-    "character_violation"
-   ]
-  },
-  {
-   "title": "The KT regular as a force of nature",
-   "why_it_works": "The persona has accumulated meta-status from appearing repeatedly. Each set is not just a set \u2014 it's an episode in the ongoing saga of William Montgomery. The room is laughing at the character as much as the bits.",
-   "theory_links": [
-    "status_reversal",
-    "split_knowledge"
-   ]
-  }
- ],
- "theory_links": {
-  "internal": [
-   {
-    "id": "gtvh",
-    "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
-    "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "attardo-pause-taxonomy",
-    "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
-    "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "dpv",
-    "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
-    "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "incongruity",
-    "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
-    "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "benign_violation",
-    "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
-    "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "status_reversal",
-    "cite": "Roger & Duffy / status theory of humor",
-    "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "split_knowledge",
-    "cite": "Veatch 1978 \u2014 theory of joking relationships",
-    "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "escalation",
-    "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
-    "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
-    "applies_to": "primary move / timing / structure"
-   }
-  ],
-  "external": [
-   {
-    "id": "standup4ai",
-    "cite": "StandUp4AI dataset (EMNLP 2025)",
-    "use": "future laugh-position ground truth"
-   },
-   {
-    "id": "tic-talk",
-    "cite": "TIC-TALK (CHum 2026)",
-    "use": "future cross-comedian timing normalization"
-   }
-  ]
- },
- "generation": {
-  "id": "twenties",
-  "label": "Twenties KT/streaming",
-  "span": "2020s",
-  "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
-  "scene": "kill-tony",
-  "breakthrough": "2020s Kill Tony regular"
- },
- "humor_type": {
-  "primary": "crowd-improv",
-  "secondary": "dark-confessional",
-  "scores": {
-   "crowd-improv": 0.5,
-   "dark-confessional": 0.17,
-   "observational": 0.17
-  },
-  "method": "archetype+theories"
- },
- "metrics": {
-  "canon": 0.6,
-  "canon_era": 27.4,
-  "crowd": null,
-  "pull": null,
-  "craft": 62.5,
-  "heat": null,
-  "gap": null,
-  "canon_lag": null
- },
- "tier": "king",
- "discovery": {
-  "discovered_from": [
-   "kill-tony-minutes"
-  ],
-  "kt_appearances": 7
- }
+  "region": "us",
+  "continent": "north-america"
 }

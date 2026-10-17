@@ -456,14 +456,14 @@
     }
   },
   "metrics": {
-    "canon": 86.6,
-    "canon_era": 86.0,
+    "canon": 84.9,
+    "canon_era": 85.5,
     "crowd": 87.5,
-    "pull": 17.5,
+    "pull": 23.2,
     "craft": 50.0,
     "heat": null,
-    "gap": -0.7,
-    "canon_lag": 0.009
+    "gap": -0.643,
+    "canon_lag": 0.026
   },
   "tier": "king",
   "region": "uk",

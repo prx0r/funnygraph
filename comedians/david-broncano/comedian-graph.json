@@ -39,5 +39,15 @@
   "provenance": {
     "tier": "indie"
   },
-  "continent": "europe"
+  "continent": "europe",
+  "metrics": {
+    "canon": null,
+    "canon_era": null,
+    "crowd": null,
+    "pull": null,
+    "craft": 0.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
+  }
 }

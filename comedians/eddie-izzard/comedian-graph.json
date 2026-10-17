@@ -281,6 +281,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "eddie-izzard-bit-01",
+      "title": "Eddie Izzard: 'History as a bad sitcom' \u2014 how the bit works",
+      "thesis": "Treats historical events as gossip performed in character voices. The room learns AND laughs \u2014 the education is smuggled inside the silliness. Dress to Kill's 8.6 proves the formula.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "eddie-izzard-bit-02",
+      "title": "Eddie Izzard: 'The transatlantic surrealist' \u2014 how the bit works",
+      "thesis": "British surrealism delivered at American pace. The culture-clash IS the engine \u2014 neither audience quite knows what's coming. The running is the bit.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -401,13 +435,31 @@
     "canon": 91.6,
     "canon_era": 95.5,
     "crowd": 90.0,
-    "pull": 40.0,
-    "craft": 0.0,
+    "pull": 51.8,
+    "craft": 37.5,
     "heat": null,
-    "gap": -0.5,
+    "gap": -0.382,
     "canon_lag": -0.016
   },
   "tier": "king",
   "region": "uk",
-  "continent": "europe"
+  "continent": "europe",
+  "known_bits": [
+    {
+      "title": "History as a bad sitcom",
+      "why_it_works": "Treats historical events as gossip performed in character voices. The room learns AND laughs \u2014 the education is smuggled inside the silliness. Dress to Kill's 8.6 proves the formula.",
+      "theory_links": [
+        "bisociation",
+        "persona_gap"
+      ]
+    },
+    {
+      "title": "The transatlantic surrealist",
+      "why_it_works": "British surrealism delivered at American pace. The culture-clash IS the engine \u2014 neither audience quite knows what's coming. The running is the bit.",
+      "theory_links": [
+        "incongruity",
+        "garden_path"
+      ]
+    }
+  ]
 }

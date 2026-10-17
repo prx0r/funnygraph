@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "dick-gregory-bit-01",
+      "title": "Dick Gregory: 'The civil-rights punchline' \u2014 how the bit works",
+      "thesis": "Made white rooms laugh at their own racism in the 1960s \u2014 the most dangerous room-work ever attempted. The calm IS the weapon; the facts are the punchlines.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -263,16 +280,26 @@
     }
   },
   "metrics": {
-    "canon": 85.5,
-    "canon_era": 21.8,
+    "canon": 86.6,
+    "canon_era": 21.2,
     "crowd": null,
-    "pull": 2.5,
-    "craft": 0.0,
+    "pull": 3.6,
+    "craft": 25.0,
     "heat": null,
     "gap": null,
     "canon_lag": null
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The civil-rights punchline",
+      "why_it_works": "Made white rooms laugh at their own racism in the 1960s \u2014 the most dangerous room-work ever attempted. The calm IS the weapon; the facts are the punchlines.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    }
+  ]
 }

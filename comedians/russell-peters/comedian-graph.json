@@ -139,6 +139,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "russell-peters-bit-01",
+      "title": "Russell Peters: 'The accent arsenal' \u2014 how the bit works",
+      "thesis": "Becomes every ethnicity in the room \u2014 Indian dad, Chinese shopkeeper, Italian mother. The room laughs at the accuracy AND the audacity. Post-racial by way of pre-racial: everybody gets it.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -275,14 +292,26 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 78.2,
-    "canon_era": 24.6,
+    "canon": 79.3,
+    "canon_era": 19.6,
     "crowd": 47.5,
-    "pull": 51.1,
-    "craft": 0.0,
+    "pull": 53.6,
+    "craft": 25.0,
     "heat": null,
-    "gap": 0.036,
-    "canon_lag": -0.307
+    "gap": 0.061,
+    "canon_lag": -0.318
   },
-  "tier": "king"
+  "tier": "king",
+  "region": "canada",
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The accent arsenal",
+      "why_it_works": "Becomes every ethnicity in the room \u2014 Indian dad, Chinese shopkeeper, Italian mother. The room laughs at the accuracy AND the audacity. Post-racial by way of pre-racial: everybody gets it.",
+      "theory_links": [
+        "persona_gap",
+        "benign_violation"
+      ]
+    }
+  ]
 }

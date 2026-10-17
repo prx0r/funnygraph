@@ -246,12 +246,12 @@
   },
   "metrics": {
     "canon": 71.0,
-    "canon_era": 73.7,
+    "canon_era": 80.5,
     "crowd": 30.0,
-    "pull": null,
+    "pull": 21.4,
     "craft": 0.0,
     "heat": null,
-    "gap": null,
+    "gap": -0.086,
     "canon_lag": -0.41
   },
   "tier": "king",

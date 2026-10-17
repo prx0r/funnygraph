@@ -127,6 +127,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "bill-maher-bit-01",
+      "title": "Bill Maher: 'The political cross-examination' \u2014 how the bit works",
+      "thesis": "Treats every pieties-of-the-week as a witness, then New-Rules them into confession. The smugness is the delivery system; the research is the weapon.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -270,16 +287,26 @@
     }
   },
   "metrics": {
-    "canon": 91.1,
-    "canon_era": 94.4,
+    "canon": 89.9,
+    "canon_era": 95.0,
     "crowd": null,
-    "pull": 35.0,
-    "craft": 0.0,
+    "pull": 46.4,
+    "craft": 25.0,
     "heat": null,
     "gap": null,
     "canon_lag": null
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The political cross-examination",
+      "why_it_works": "Treats every pieties-of-the-week as a witness, then New-Rules them into confession. The smugness is the delivery system; the research is the weapon.",
+      "theory_links": [
+        "rigidify",
+        "status_reversal"
+      ]
+    }
+  ]
 }

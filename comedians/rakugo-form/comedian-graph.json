@@ -41,5 +41,15 @@
     "tier": "indie"
   },
   "format": "form-entry",
-  "continent": "asia"
+  "continent": "asia",
+  "metrics": {
+    "canon": null,
+    "canon_era": null,
+    "crowd": null,
+    "pull": null,
+    "craft": 0.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
+  }
 }

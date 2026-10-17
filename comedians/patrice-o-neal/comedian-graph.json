@@ -288,14 +288,14 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "canon": 59.2,
-    "canon_era": 4.5,
+    "canon": 64.2,
+    "canon_era": 2.8,
     "crowd": 10.0,
     "pull": null,
     "craft": 25.0,
     "heat": null,
     "gap": null,
-    "canon_lag": -0.492
+    "canon_lag": -0.542
   },
   "tier": "king",
   "region": "us",

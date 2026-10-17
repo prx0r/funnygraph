@@ -175,6 +175,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "kevin-hart-bit-01",
+      "title": "Kevin Hart: 'The small man with big energy' \u2014 how the bit works",
+      "thesis": "Height as engine: every story is David-vs-Goliath with himself as David. The physical commitment sells what the writing doesn't have to. Energy IS the bit.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "kevin-hart-bit-02",
+      "title": "Kevin Hart: 'The arena anecdote' \u2014 how the bit works",
+      "thesis": "Family stories scaled to 15,000 seats \u2014 the intimacy performed at stadium volume. The gap between the small story and the huge room is the spectacle.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -385,16 +419,34 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 84.9,
-    "canon_era": 96.1,
+    "canon": 86.0,
+    "canon_era": 94.4,
     "crowd": 47.5,
     "pull": 100.0,
-    "craft": 0.0,
+    "craft": 37.5,
     "heat": null,
     "gap": 0.525,
-    "canon_lag": -0.374
+    "canon_lag": -0.385
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The small man with big energy",
+      "why_it_works": "Height as engine: every story is David-vs-Goliath with himself as David. The physical commitment sells what the writing doesn't have to. Energy IS the bit.",
+      "theory_links": [
+        "status_reversal",
+        "persona_gap"
+      ]
+    },
+    {
+      "title": "The arena anecdote",
+      "why_it_works": "Family stories scaled to 15,000 seats \u2014 the intimacy performed at stadium volume. The gap between the small story and the huge room is the spectacle.",
+      "theory_links": [
+        "escalation",
+        "benign_violation"
+      ]
+    }
+  ]
 }

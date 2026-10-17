@@ -222,6 +222,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "lenny-bruce-bit-01",
+      "title": "Lenny Bruce: 'The dirty word as a constitutional question' \u2014 how the bit works",
+      "thesis": "Treats every social convention as a coded law, then performs the law's absurdity by breaking it live. The bit is the defense; the trial is the bit. The room is the jury.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "lenny-bruce-bit-02",
+      "title": "Lenny Bruce: 'The courtroom as a stage' \u2014 how the bit works",
+      "thesis": "Turns obscenity trials into material in real time. The persecution IS the act \u2014 every arrest proves the thesis. The room laughs because the state proved him right.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -305,16 +339,34 @@
     }
   },
   "metrics": {
-    "canon": 96.7,
-    "canon_era": 93.3,
+    "canon": 96.1,
+    "canon_era": 92.7,
     "crowd": 32.5,
-    "pull": 5.0,
-    "craft": 0.0,
+    "pull": 7.1,
+    "craft": 37.5,
     "heat": null,
-    "gap": -0.275,
-    "canon_lag": -0.642
+    "gap": -0.254,
+    "canon_lag": -0.636
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The dirty word as a constitutional question",
+      "why_it_works": "Treats every social convention as a coded law, then performs the law's absurdity by breaking it live. The bit is the defense; the trial is the bit. The room is the jury.",
+      "theory_links": [
+        "literalise",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "The courtroom as a stage",
+      "why_it_works": "Turns obscenity trials into material in real time. The persecution IS the act \u2014 every arrest proves the thesis. The room laughs because the state proved him right.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

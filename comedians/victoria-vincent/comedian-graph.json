@@ -1,59 +1,69 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "victoria-vincent",
- "name": "Victoria Vincent",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "Time Out 12 to watch 2026",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "timeout-2026"
-  ],
-  "discovery_note": "Time Out 12 to watch 2026"
- },
- "theory_score": null,
- "nearest_greats": [
-  {
-   "comedian_id": "tom-papa",
-   "shared_terms": 1
-  },
-  {
-   "comedian_id": "roy-wood-jr",
-   "shared_terms": 1
-  },
-  {
-   "comedian_id": "nate-bargatze",
-   "shared_terms": 1
-  }
- ],
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "victoria-vincent",
+  "name": "Victoria Vincent",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- }
+  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "Time Out 12 to watch 2026",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "timeout-2026"
+    ],
+    "discovery_note": "Time Out 12 to watch 2026"
+  },
+  "theory_score": null,
+  "nearest_greats": [
+    {
+      "comedian_id": "tom-papa",
+      "shared_terms": 1
+    },
+    {
+      "comedian_id": "roy-wood-jr",
+      "shared_terms": 1
+    },
+    {
+      "comedian_id": "nate-bargatze",
+      "shared_terms": 1
+    }
+  ],
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "canon": null,
+    "canon_era": null,
+    "crowd": null,
+    "pull": null,
+    "craft": 0.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
+  }
 }

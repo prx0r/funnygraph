@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "adam-sandler-bit-01",
+      "title": "Adam Sandler: 'The man-child opera' \u2014 how the bit works",
+      "thesis": "Goat-boy voices, Thanksgiving Song, Chanukah Song \u2014 silliness with total commitment. The songs smuggle real sweetness inside the stupid. The audience that grew up on him can't hear the voices ironically.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -259,16 +276,26 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 84.4,
-    "canon_era": 16.8,
+    "canon": 85.5,
+    "canon_era": 17.9,
     "crowd": null,
-    "pull": 63.6,
-    "craft": 0.0,
+    "pull": 67.7,
+    "craft": 25.0,
     "heat": null,
     "gap": null,
     "canon_lag": null
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The man-child opera",
+      "why_it_works": "Goat-boy voices, Thanksgiving Song, Chanukah Song \u2014 silliness with total commitment. The songs smuggle real sweetness inside the stupid. The audience that grew up on him can't hear the voices ironically.",
+      "theory_links": [
+        "persona_gap",
+        "benign_violation"
+      ]
+    }
+  ]
 }

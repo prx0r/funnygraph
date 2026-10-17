@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "ray-romano-bit-01",
+      "title": "Ray Romano: 'The put-upon husband as everyman' \u2014 how the bit works",
+      "thesis": "Reports marriage with the energy of a man filing a complaint he knows he'll lose. The room recognizes the dynamic before the joke \u2014 recognition IS the laugh.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -253,16 +270,26 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 89.9,
-    "canon_era": 37.4,
+    "canon": 91.1,
+    "canon_era": 36.9,
     "crowd": null,
-    "pull": 14.6,
-    "craft": 0.0,
+    "pull": 15.3,
+    "craft": 25.0,
     "heat": null,
     "gap": null,
     "canon_lag": null
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The put-upon husband as everyman",
+      "why_it_works": "Reports marriage with the energy of a man filing a complaint he knows he'll lose. The room recognizes the dynamic before the joke \u2014 recognition IS the laugh.",
+      "theory_links": [
+        "benign_violation",
+        "status_reversal"
+      ]
+    }
+  ]
 }

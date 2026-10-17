@@ -127,6 +127,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "ron-white-bit-01",
+      "title": "Ron White: 'The scotch philosopher' \u2014 how the bit works",
+      "thesis": "Drunk wisdom delivered with a glass in hand \u2014 the Tater Salad stories work because the teller clearly lived them. The drawl is the benign frame for genuine outlaw energy.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -273,16 +290,26 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 90.5,
-    "canon_era": 88.8,
+    "canon": 80.5,
+    "canon_era": 82.7,
     "crowd": 60.0,
-    "pull": 57.4,
-    "craft": 0.0,
+    "pull": 60.8,
+    "craft": 25.0,
     "heat": null,
-    "gap": -0.026,
-    "canon_lag": -0.305
+    "gap": 0.008,
+    "canon_lag": -0.205
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The scotch philosopher",
+      "why_it_works": "Drunk wisdom delivered with a glass in hand \u2014 the Tater Salad stories work because the teller clearly lived them. The drawl is the benign frame for genuine outlaw energy.",
+      "theory_links": [
+        "storytelling",
+        "persona_gap"
+      ]
+    }
+  ]
 }

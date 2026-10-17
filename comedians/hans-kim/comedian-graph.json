@@ -1,283 +1,285 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "hans-kim",
- "name": "Hans Kim",
- "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
- "version": 2,
- "created": "2026-10-16",
- "annotator": "mimo-v2.5",
- "identity": {
-  "deal": "Kill Tony regular who turns the immigrant-son lens on American absurdity with clean setups and a quiet kill.",
-  "premise": "A man who treats the American way of life as a strange customs office and files the paperwork out loud.",
-  "archetype": "immigrant_observer",
-  "awareness": "semi",
-  "awareness_note": "Semi: the outsider lens is the act; the craft is getting tighter.",
-  "philosophy": {
-   "ontology": "America is a series of rituals nobody explains to newcomers.",
-   "epistemology": "If you describe the ritual precisely, the absurdity appears.",
-   "axiology": "The outsider sees the room better than the room sees itself.",
-   "causality": "One precise observation about a custom becomes a whole worldview.",
-   "agency": "Anyone can be foreign; almost nobody uses it as a scalpel."
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "hans-kim",
+  "name": "Hans Kim",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Kill Tony regular who turns the immigrant-son lens on American absurdity with clean setups and a quiet kill.",
+    "premise": "A man who treats the American way of life as a strange customs office and files the paperwork out loud.",
+    "archetype": "immigrant_observer",
+    "awareness": "semi",
+    "awareness_note": "Semi: the outsider lens is the act; the craft is getting tighter.",
+    "philosophy": {
+      "ontology": "America is a series of rituals nobody explains to newcomers.",
+      "epistemology": "If you describe the ritual precisely, the absurdity appears.",
+      "axiology": "The outsider sees the room better than the room sees itself.",
+      "causality": "One precise observation about a custom becomes a whole worldview.",
+      "agency": "Anyone can be foreign; almost nobody uses it as a scalpel."
+    },
+    "dramatic_core": {
+      "want": "to name the ritual nobody names",
+      "fear": "becoming part of the ritual and losing the lens",
+      "need": "the room to see itself through his eyes",
+      "self_model": "a man holding a clipboard at the door of American life",
+      "blind_spots": [
+        "the outsider lens can thin out",
+        "the craft is still building"
+      ]
+    },
+    "misinterpretation_rule": "Treats American customs as alien ceremonies and describes them with the precision of an ethnographer who's also a little offended.",
+    "contradictions": [
+      "the outsider who became an insider",
+      "the clean setup with the dark turn",
+      "the regular who grew into the stage"
+    ],
+    "status_model": {
+      "desired_status": "the one who sees it clearly",
+      "felt_status": "a man permanently at the door of the room"
+    },
+    "expression": {
+      "default_register": "ethnographer-deadpan",
+      "emotional_restraint": "high",
+      "tells": [
+        "the precise description of a normal thing",
+        "the quiet turn",
+        "the pause that lets the room catch up"
+      ]
+    },
+    "modulator_range": [
+      "observer",
+      "deadpan",
+      "dark-turn",
+      "immigrant-lens",
+      "quiet-kill"
+    ],
+    "profile": {
+      "energy": 0.55,
+      "pace": "even, clean setup, sudden kill",
+      "gesture_frequency": 0.35,
+      "punchline_hold_ms": 800
+    },
+    "operator_priors": {
+      "rigidify": 0.45,
+      "literalize": 0.55,
+      "double_interpret": 0.5,
+      "status_invert": 0.4,
+      "character_violation": 0.3,
+      "status": "hypothesis from KT clips"
+    },
+    "preferred_theories": [
+      "literalise",
+      "incongruity",
+      "status_reversal"
+    ],
+    "threads": [
+      "America as a strange customs office",
+      "the immigrant lens",
+      "rituals nobody explains",
+      "the clean setup, dark turn",
+      "the outsider who sees clearly"
+    ],
+    "problem_space": [
+      "belonging",
+      "American absurdity",
+      "the family as a cultural translation"
+    ],
+    "style_thesis": "Immigrant-observer engine: treats American customs as alien ceremonies and describes them with the precision of an ethnographer who's also a little offended. The outsider lens is the misinterpretation rule: the room sees itself through his eyes, and the eyes are clearer because they're outside."
   },
-  "dramatic_core": {
-   "want": "to name the ritual nobody names",
-   "fear": "becoming part of the ritual and losing the lens",
-   "need": "the room to see itself through his eyes",
-   "self_model": "a man holding a clipboard at the door of American life",
-   "blind_spots": [
-    "the outsider lens can thin out",
-    "the craft is still building"
-   ]
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "immigrant_observer",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
   },
-  "misinterpretation_rule": "Treats American customs as alien ceremonies and describes them with the precision of an ethnographer who's also a little offended.",
-  "contradictions": [
-   "the outsider who became an insider",
-   "the clean setup with the dark turn",
-   "the regular who grew into the stage"
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "hans-kim-essay-01",
+      "title": "Why is Hans Kim funny? The immigrant observer engine",
+      "thesis": "Immigrant-observer engine: treats American customs as alien ceremonies and describes them with the precision of an ethnographer who's also a little offended. The outsider lens is the misinterpretation rule: the room sees itself through his eyes, and the eyes are clearer because they're outside.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "hans-kim-essay-02",
+      "title": "Hans Kim: 'America as a strange customs office' \u2014 how the bit works",
+      "thesis": "Describes a normal American ritual with the precision of someone who wasn't raised in it. literalize: treats the ritual as if it were literally as strange as it sounds when described fresh. The room recognizes the absurdity they'd stopped seeing.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "hans-kim-bit-01",
+      "title": "Hans Kim: 'America as a strange customs office' \u2014 how the bit works",
+      "thesis": "Describes a normal American ritual with the precision of someone who wasn't raised in it. literalize: treats the ritual as if it were literally as strange as it sounds when described fresh. The room recognizes the absurdity they'd stopped seeing.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
   ],
-  "status_model": {
-   "desired_status": "the one who sees it clearly",
-   "felt_status": "a man permanently at the door of the room"
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
   },
-  "expression": {
-   "default_register": "ethnographer-deadpan",
-   "emotional_restraint": "high",
-   "tells": [
-    "the precise description of a normal thing",
-    "the quiet turn",
-    "the pause that lets the room catch up"
-   ]
+  "timing_profile": {
+    "doctrine_hypothesis": "Even, clean setup, sudden kill. The pause after the setup is the ethnographer's beat \u2014 he's describing the ritual, and the pause is the room recognizing themselves in the description.",
+    "status": "hypothesis until word-timed sets measured"
   },
-  "modulator_range": [
-   "observer",
-   "deadpan",
-   "dark-turn",
-   "immigrant-lens",
-   "quiet-kill"
+  "known_bits": [
+    {
+      "title": "America as a strange customs office",
+      "why_it_works": "Describes a normal American ritual with the precision of someone who wasn't raised in it. literalize: treats the ritual as if it were literally as strange as it sounds when described fresh. The room recognizes the absurdity they'd stopped seeing.",
+      "theory_links": [
+        "literalise",
+        "incongruity"
+      ]
+    }
   ],
-  "profile": {
-   "energy": 0.55,
-   "pace": "even, clean setup, sudden kill",
-   "gesture_frequency": 0.35,
-   "punchline_hold_ms": 800
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
   },
-  "operator_priors": {
-   "rigidify": 0.45,
-   "literalize": 0.55,
-   "double_interpret": 0.5,
-   "status_invert": 0.4,
-   "character_violation": 0.3,
-   "status": "hypothesis from KT clips"
+  "generation": {
+    "id": "twenties",
+    "label": "Twenties KT/streaming",
+    "span": "2020s",
+    "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
+    "scene": "kill-tony",
+    "breakthrough": "2020s Kill Tony regular"
   },
-  "preferred_theories": [
-   "literalise",
-   "incongruity",
-   "status_reversal"
-  ],
-  "threads": [
-   "America as a strange customs office",
-   "the immigrant lens",
-   "rituals nobody explains",
-   "the clean setup, dark turn",
-   "the outsider who sees clearly"
-  ],
-  "problem_space": [
-   "belonging",
-   "American absurdity",
-   "the family as a cultural translation"
-  ],
-  "style_thesis": "Immigrant-observer engine: treats American customs as alien ceremonies and describes them with the precision of an ethnographer who's also a little offended. The outsider lens is the misinterpretation rule: the room sees itself through his eyes, and the eyes are clearer because they're outside."
- },
- "engine": {
-  "voice_clone_id": null,
-  "delivery_archetype": "immigrant_observer",
-  "jev_state": {
-   "status": "NOT RUN"
-  }
- },
- "sets": [],
- "set_queue": {
-  "note": "harvest captions or link transcript for measured depth",
-  "blocked_on": "captions/audio"
- },
- "essay_seeds": [
-  {
-   "id": "hans-kim-essay-01",
-   "title": "Why is Hans Kim funny? The immigrant observer engine",
-   "thesis": "Immigrant-observer engine: treats American customs as alien ceremonies and describes them with the precision of an ethnographer who's also a little offended. The outsider lens is the misinterpretation rule: the room sees itself through his eyes, and the eyes are clearer because they're outside.",
-   "evidence": [
-    "identity.misinterpretation_rule",
-    "known_bits",
-    "identity.operator_priors",
-    "timing_profile.doctrine_hypothesis"
-   ],
-   "outline": [
-    "the deal in one sentence",
-    "the misinterpretation rule as engine",
-    "2-3 signature bits dissected",
-    "timing doctrine",
-    "what makes this persona impossible to copy"
-   ],
-   "status": "seed \u2014 ready to draft"
+  "humor_type": {
+    "primary": "observational",
+    "secondary": "absurdist",
+    "scores": {
+      "observational": 0.67,
+      "absurdist": 0.17,
+      "roast": 0.17
+    },
+    "method": "archetype+theories"
   },
-  {
-   "id": "hans-kim-essay-02",
-   "title": "Hans Kim: 'America as a strange customs office' \u2014 how the bit works",
-   "thesis": "Describes a normal American ritual with the precision of someone who wasn't raised in it. literalize: treats the ritual as if it were literally as strange as it sounds when described fresh. The room recognizes the absurdity they'd stopped seeing.",
-   "evidence": [
-    "known_bits[0]",
-    "theory_links"
-   ],
-   "outline": [
-    "the setup",
-    "the mechanism",
-    "why the room laughs",
-    "the theory link",
-    "what this reveals about the engine"
-   ],
-   "status": "seed"
+  "metrics": {
+    "canon": 25.7,
+    "canon_era": 53.1,
+    "crowd": null,
+    "pull": null,
+    "craft": 37.5,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
   },
-  {
-   "id": "hans-kim-bit-01",
-   "title": "Hans Kim: 'America as a strange customs office' \u2014 how the bit works",
-   "thesis": "Describes a normal American ritual with the precision of someone who wasn't raised in it. literalize: treats the ritual as if it were literally as strange as it sounds when described fresh. The room recognizes the absurdity they'd stopped seeing.",
-   "evidence": [
-    "known_bits[0]",
-    "theory_links"
-   ],
-   "outline": [
-    "the setup",
-    "the mechanism",
-    "why the room laughs",
-    "the theory link",
-    "what this reveals about the engine"
-   ],
-   "status": "seed"
-  }
- ],
- "provenance": {
-  "persona": "authored from public reputation (no verbatim bits)",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines",
-   "hypothesis until measured"
-  ],
-  "sets_observed": 0,
-  "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
-  "theory_applied": true,
-  "deepened": "2026-10-16"
- },
- "timing_profile": {
-  "doctrine_hypothesis": "Even, clean setup, sudden kill. The pause after the setup is the ethnographer's beat \u2014 he's describing the ritual, and the pause is the room recognizing themselves in the description.",
-  "status": "hypothesis until word-timed sets measured"
- },
- "known_bits": [
-  {
-   "title": "America as a strange customs office",
-   "why_it_works": "Describes a normal American ritual with the precision of someone who wasn't raised in it. literalize: treats the ritual as if it were literally as strange as it sounds when described fresh. The room recognizes the absurdity they'd stopped seeing.",
-   "theory_links": [
-    "literalise",
-    "incongruity"
-   ]
-  }
- ],
- "theory_links": {
-  "internal": [
-   {
-    "id": "gtvh",
-    "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
-    "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "attardo-pause-taxonomy",
-    "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
-    "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "dpv",
-    "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
-    "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "incongruity",
-    "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
-    "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "benign_violation",
-    "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
-    "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "status_reversal",
-    "cite": "Roger & Duffy / status theory of humor",
-    "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "split_knowledge",
-    "cite": "Veatch 1978 \u2014 theory of joking relationships",
-    "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
-    "applies_to": "primary move / timing / structure"
-   },
-   {
-    "id": "escalation",
-    "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
-    "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
-    "applies_to": "primary move / timing / structure"
-   }
-  ],
-  "external": [
-   {
-    "id": "standup4ai",
-    "cite": "StandUp4AI dataset (EMNLP 2025)",
-    "use": "future laugh-position ground truth"
-   },
-   {
-    "id": "tic-talk",
-    "cite": "TIC-TALK (CHum 2026)",
-    "use": "future cross-comedian timing normalization"
-   }
-  ]
- },
- "generation": {
-  "id": "twenties",
-  "label": "Twenties KT/streaming",
-  "span": "2020s",
-  "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
-  "scene": "kill-tony",
-  "breakthrough": "2020s Kill Tony regular"
- },
- "humor_type": {
-  "primary": "observational",
-  "secondary": "absurdist",
-  "scores": {
-   "observational": 0.67,
-   "absurdist": 0.17,
-   "roast": 0.17
+  "tier": "king",
+  "discovery": {
+    "discovered_from": [
+      "kill-tony-minutes"
+    ],
+    "kt_appearances": 3
   },
-  "method": "archetype+theories"
- },
- "metrics": {
-  "canon": 24.0,
-  "canon_era": 53.1,
-  "crowd": null,
-  "pull": null,
-  "craft": 37.5,
-  "heat": null,
-  "gap": null,
-  "canon_lag": null
- },
- "tier": "king",
- "discovery": {
-  "discovered_from": [
-   "kill-tony-minutes"
-  ],
-  "kt_appearances": 3
- }
+  "region": "us",
+  "continent": "north-america"
 }

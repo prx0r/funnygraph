@@ -299,14 +299,14 @@
     }
   },
   "metrics": {
-    "canon": 78.8,
-    "canon_era": 82.1,
+    "canon": 76.5,
+    "canon_era": 81.0,
     "crowd": 47.5,
-    "pull": 15.0,
+    "pull": 19.6,
     "craft": 0.0,
     "heat": null,
-    "gap": -0.325,
-    "canon_lag": -0.313
+    "gap": -0.279,
+    "canon_lag": -0.29
   },
   "tier": "king",
   "region": "ireland",

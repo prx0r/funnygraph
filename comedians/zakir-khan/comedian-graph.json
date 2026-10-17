@@ -39,5 +39,15 @@
     ],
     "discovery_note": "India's biggest stand-up: 960M+ YT views, 6 specials, MSG sellout. Storyteller of a generation."
   },
-  "continent": "asia"
+  "continent": "asia",
+  "metrics": {
+    "canon": null,
+    "canon_era": null,
+    "crowd": null,
+    "pull": null,
+    "craft": 0.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
+  }
 }

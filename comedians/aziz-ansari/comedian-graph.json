@@ -175,6 +175,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "aziz-ansari-bit-01",
+      "title": "Aziz Ansari: 'The food voice' \u2014 how the bit works",
+      "thesis": "Treats food opinions with religious intensity \u2014 the gap between the stakes (low) and the passion (total) is the joke. The 'treat yo self' energy made flesh.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -321,16 +338,26 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 53.1,
-    "canon_era": 2.8,
+    "canon": 78.8,
+    "canon_era": 15.1,
     "crowd": 30.0,
     "pull": 16.5,
-    "craft": 0.0,
+    "craft": 25.0,
     "heat": null,
     "gap": -0.135,
-    "canon_lag": -0.231
+    "canon_lag": -0.488
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The food voice",
+      "why_it_works": "Treats food opinions with religious intensity \u2014 the gap between the stakes (low) and the passion (total) is the joke. The 'treat yo self' energy made flesh.",
+      "theory_links": [
+        "escalation",
+        "incongruity"
+      ]
+    }
+  ]
 }

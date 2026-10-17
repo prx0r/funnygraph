@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "jeff-foxworthy-bit-01",
+      "title": "Jeff Foxworthy: 'You might be a redneck' \u2014 how the bit works",
+      "thesis": "The list as folk taxonomy \u2014 every line is a recognition test the room takes together. 'You might be' is the gentlest possible roast frame: confessed from inside the group.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -263,16 +280,26 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 83.8,
-    "canon_era": 5.6,
+    "canon": 84.4,
+    "canon_era": 6.7,
     "crowd": 47.5,
-    "pull": 47.1,
-    "craft": 0.0,
+    "pull": 53.2,
+    "craft": 25.0,
     "heat": null,
-    "gap": -0.004,
-    "canon_lag": -0.363
+    "gap": 0.057,
+    "canon_lag": -0.369
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "You might be a redneck",
+      "why_it_works": "The list as folk taxonomy \u2014 every line is a recognition test the room takes together. 'You might be' is the gentlest possible roast frame: confessed from inside the group.",
+      "theory_links": [
+        "repetition_variation",
+        "split_knowledge"
+      ]
+    }
+  ]
 }

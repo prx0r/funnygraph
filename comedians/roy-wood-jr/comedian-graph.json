@@ -226,8 +226,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "canon": 7.8,
-    "canon_era": 35.8,
+    "canon": 8.9,
+    "canon_era": 35.2,
     "crowd": null,
     "pull": null,
     "craft": 0.0,
@@ -235,5 +235,7 @@
     "gap": null,
     "canon_lag": null
   },
-  "tier": "king"
+  "tier": "king",
+  "region": "us",
+  "continent": "north-america"
 }

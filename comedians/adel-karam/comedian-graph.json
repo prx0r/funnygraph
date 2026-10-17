@@ -220,8 +220,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "canon": 42.5,
-    "canon_era": 71.5,
+    "canon": 46.4,
+    "canon_era": 74.3,
     "crowd": null,
     "pull": null,
     "craft": 0.0,
@@ -229,5 +229,7 @@
     "gap": null,
     "canon_lag": null
   },
-  "tier": "king"
+  "tier": "king",
+  "region": "lebanon",
+  "continent": "asia"
 }

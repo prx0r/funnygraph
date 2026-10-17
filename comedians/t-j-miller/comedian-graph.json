@@ -220,7 +220,7 @@
   },
   "metrics": {
     "canon": 4.5,
-    "canon_era": 32.4,
+    "canon_era": 30.7,
     "crowd": null,
     "pull": 87.0,
     "craft": 0.0,
@@ -228,5 +228,7 @@
     "gap": null,
     "canon_lag": null
   },
-  "tier": "king"
+  "tier": "king",
+  "region": "us",
+  "continent": "north-america"
 }

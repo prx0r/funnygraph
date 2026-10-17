@@ -37,5 +37,15 @@
     ],
     "discovery_note": "East India Comedy founder, 250+ shows, Vir Das opener lineage."
   },
-  "continent": "asia"
+  "continent": "asia",
+  "metrics": {
+    "canon": null,
+    "canon_era": null,
+    "crowd": null,
+    "pull": null,
+    "craft": 0.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
+  }
 }

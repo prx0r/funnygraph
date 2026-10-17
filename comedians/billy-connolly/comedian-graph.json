@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "billy-connolly-bit-01",
+      "title": "Billy Connolly: 'The Big Yin story sermon' \u2014 how the bit works",
+      "thesis": "Banjaxed anecdotes told at length with musical timing \u2014 the story IS the engine, punchlines arrive like grace notes. The accent is the delivery system; the warmth is the benign frame.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -265,16 +282,26 @@
     }
   },
   "metrics": {
-    "canon": 88.8,
-    "canon_era": 22.9,
+    "canon": 90.5,
+    "canon_era": 22.4,
     "crowd": null,
-    "pull": 27.5,
-    "craft": 0.0,
+    "pull": 33.9,
+    "craft": 25.0,
     "heat": null,
     "gap": null,
     "canon_lag": null
   },
   "tier": "king",
   "region": "uk",
-  "continent": "europe"
+  "continent": "europe",
+  "known_bits": [
+    {
+      "title": "The Big Yin story sermon",
+      "why_it_works": "Banjaxed anecdotes told at length with musical timing \u2014 the story IS the engine, punchlines arrive like grace notes. The accent is the delivery system; the warmth is the benign frame.",
+      "theory_links": [
+        "storytelling",
+        "persona_gap"
+      ]
+    }
+  ]
 }

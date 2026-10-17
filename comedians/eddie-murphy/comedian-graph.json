@@ -127,6 +127,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "eddie-murphy-bit-01",
+      "title": "Eddie Murphy: 'The character as a universe' \u2014 how the bit works",
+      "thesis": "Becomes Buckwheat, Gumby, Mr. Robinson fully \u2014 voice, body, soul. The room isn't watching impressions, they're visiting people. The character is the benign frame foranything.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "eddie-murphy-bit-02",
+      "title": "Eddie Murphy: 'Raw as a coronation' \u2014 how the bit works",
+      "thesis": "Delirious/Raw: the biggest rooms, the filthiest material, total command. The scale IS the joke \u2014 nobody had done it that big. Status: the king proving the crown fits.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -280,15 +314,33 @@
   },
   "metrics": {
     "canon": 94.4,
-    "canon_era": 89.9,
+    "canon_era": 93.3,
     "crowd": 77.5,
-    "pull": 70.4,
-    "craft": 0.0,
+    "pull": 70.6,
+    "craft": 37.5,
     "heat": null,
-    "gap": -0.071,
+    "gap": -0.069,
     "canon_lag": -0.169
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The character as a universe",
+      "why_it_works": "Becomes Buckwheat, Gumby, Mr. Robinson fully \u2014 voice, body, soul. The room isn't watching impressions, they're visiting people. The character is the benign frame foranything.",
+      "theory_links": [
+        "persona_gap",
+        "incongruity"
+      ]
+    },
+    {
+      "title": "Raw as a coronation",
+      "why_it_works": "Delirious/Raw: the biggest rooms, the filthiest material, total command. The scale IS the joke \u2014 nobody had done it that big. Status: the king proving the crown fits.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    }
+  ]
 }

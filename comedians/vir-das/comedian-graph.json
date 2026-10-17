@@ -127,6 +127,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "vir-das-bit-01",
+      "title": "Vir Das: 'India for outsiders, outsiders for India' \u2014 how the bit works",
+      "thesis": "Translates Indian absurdity for the world and world absurdity for India \u2014 the bridge runs both ways. The accent-switch is the timing device.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -261,15 +278,25 @@
   },
   "metrics": {
     "canon": 89.4,
-    "canon_era": 91.6,
+    "canon_era": 89.9,
     "crowd": 85.0,
-    "pull": 44.0,
-    "craft": 0.0,
+    "pull": 49.3,
+    "craft": 25.0,
     "heat": null,
-    "gap": -0.41,
+    "gap": -0.357,
     "canon_lag": -0.044
   },
   "tier": "king",
   "region": "india",
-  "continent": "asia"
+  "continent": "asia",
+  "known_bits": [
+    {
+      "title": "India for outsiders, outsiders for India",
+      "why_it_works": "Translates Indian absurdity for the world and world absurdity for India \u2014 the bridge runs both ways. The accent-switch is the timing device.",
+      "theory_links": [
+        "bisociation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

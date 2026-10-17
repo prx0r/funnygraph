@@ -342,14 +342,14 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 74.9,
-    "canon_era": 81.0,
+    "canon": 54.8,
+    "canon_era": 2.2,
     "crowd": 35.0,
-    "pull": 84.3,
+    "pull": 69.0,
     "craft": 0.0,
     "heat": null,
-    "gap": 0.493,
-    "canon_lag": -0.399
+    "gap": 0.34,
+    "canon_lag": -0.198
   },
   "tier": "king",
   "region": "australia",

@@ -431,14 +431,14 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 98.3,
+    "canon": 97.2,
     "canon_era": 93.8,
     "crowd": 70.0,
-    "pull": 60.7,
+    "pull": 63.6,
     "craft": 50.0,
     "heat": null,
-    "gap": -0.093,
-    "canon_lag": -0.283
+    "gap": -0.064,
+    "canon_lag": -0.272
   },
   "tier": "king",
   "region": "us",

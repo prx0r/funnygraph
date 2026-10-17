@@ -127,6 +127,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "ellen-degeneres-bit-01",
+      "title": "Ellen Degeneres: 'The observational dance' \u2014 how the bit works",
+      "thesis": "Physicalizes the mundane observation \u2014 becomes the thing she's describing. The body is the punchline. Clean as doctrine: the constraint forces better observation.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -267,15 +284,25 @@
   },
   "metrics": {
     "canon": 92.7,
-    "canon_era": 75.4,
+    "canon_era": 79.3,
     "crowd": null,
-    "pull": 81.9,
-    "craft": 0.0,
+    "pull": 83.0,
+    "craft": 25.0,
     "heat": null,
     "gap": null,
     "canon_lag": null
   },
   "tier": "king",
   "region": "us",
-  "continent": "north-america"
+  "continent": "north-america",
+  "known_bits": [
+    {
+      "title": "The observational dance",
+      "why_it_works": "Physicalizes the mundane observation \u2014 becomes the thing she's describing. The body is the punchline. Clean as doctrine: the constraint forces better observation.",
+      "theory_links": [
+        "literalise",
+        "incongruity"
+      ]
+    }
+  ]
 }
