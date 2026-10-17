@@ -265,5 +265,6 @@
     "gap": 0.464,
     "canon_lag": -0.285
   },
-  "tier": "king"
+  "tier": "king",
+  "region": "us"
 }

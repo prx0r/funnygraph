@@ -1,9 +1,30 @@
-{"_note": "comedian_id -> [official YouTube channel IDs]. Curated, never searched. Add confirmed IDs only.",
- "casey-rocket": ["UCe4B7qdCr1POcqrng3Tdcsw"],
- "kill-tony": ["UCwzCMiicL-hBUzyjWiJaseg"],
- "louis-ck": ["UCf7G_gKaSEn_8xMr-ldZvHA"],
- "mark-normand": ["UCGmMFJB36GBXTgaLtfGd6Jg"],
- "netflix-is-a-joke": ["UCObk_g1hQBy0RKKriVX_zOQ"],
- "norm-macdonald": ["UCWiHJYoHWyO56dlo_vjTleA"],
- "team-coco": ["UCi7GJNg51C3jgmYTUwqoUXA"],
- "tonight-show": ["UC8-Th83bH_thdKZDJCrn88g"]}
+{
+ "_note": "comedian_id -> [official YouTube channel IDs]. Curated, never searched. Add confirmed IDs only.",
+ "casey-rocket": [
+  "UCe4B7qdCr1POcqrng3Tdcsw"
+ ],
+ "kill-tony": [
+  "UCwzCMiicL-hBUzyjWiJaseg"
+ ],
+ "louis-ck": [
+  "UCf7G_gKaSEn_8xMr-ldZvHA"
+ ],
+ "mark-normand": [
+  "UCGmMFJB36GBXTgaLtfGd6Jg"
+ ],
+ "netflix-is-a-joke": [
+  "UCObk_g1hQBy0RKKriVX_zOQ"
+ ],
+ "norm-macdonald": [
+  "UCWiHJYoHWyO56dlo_vjTleA"
+ ],
+ "team-coco": [
+  "UCi7GJNg51C3jgmYTUwqoUXA"
+ ],
+ "tonight-show": [
+  "UC8-Th83bH_thdKZDJCrn88g"
+ ],
+ "xiaoguo": [
+  "UCfEpdNBbHUMwqk_ffAdHNVg"
+ ]
+}

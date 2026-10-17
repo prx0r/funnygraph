@@ -238,5 +238,6 @@
     "gap": null,
     "canon_lag": null
   },
-  "tier": "king"
+  "tier": "king",
+  "region": "us"
 }

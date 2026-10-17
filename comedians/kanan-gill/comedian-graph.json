@@ -1,0 +1,41 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "kanan-gill",
+  "name": "Kanan Gill",
+  "tier": "indie",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "region": "india",
+  "discovery": {
+    "discovered_from": [
+      "youtube-native",
+      "pretentious-movie-reviews"
+    ],
+    "discovery_note": "Pretentious Movie Reviews \u2192 Keep It Real (Prime) \u2192 Netflix Yours Sincerely. Ex-software engineer."
+  }
+}
