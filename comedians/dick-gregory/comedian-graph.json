@@ -280,11 +280,11 @@
     }
   },
   "metrics": {
-    "canon": 86.6,
-    "canon_era": 21.2,
-    "crowd": null,
-    "pull": 3.6,
-    "craft": 25.0,
+    "legacy": 86.6,
+    "legacy_era": 21.2,
+    "audience": null,
+    "popularity": 3.6,
+    "theory": 25.0,
     "heat": null,
     "gap": null,
     "canon_lag": null

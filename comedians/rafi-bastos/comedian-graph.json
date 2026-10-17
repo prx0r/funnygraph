@@ -49,11 +49,11 @@
     ]
   },
   "metrics": {
-    "canon": null,
-    "canon_era": null,
-    "crowd": null,
-    "pull": null,
-    "craft": 0.0,
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
     "heat": null,
     "gap": null,
     "canon_lag": null

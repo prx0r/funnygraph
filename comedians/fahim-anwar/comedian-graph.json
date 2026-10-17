@@ -227,11 +227,11 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "canon": 29.0,
-    "canon_era": 56.4,
-    "crowd": null,
-    "pull": null,
-    "craft": 0.0,
+    "legacy": 29.0,
+    "legacy_era": 56.4,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
     "heat": null,
     "gap": null,
     "canon_lag": null

@@ -249,11 +249,11 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "canon": 37.4,
-    "canon_era": 64.8,
-    "crowd": null,
-    "pull": 40.9,
-    "craft": 0.0,
+    "legacy": 37.4,
+    "legacy_era": 64.8,
+    "audience": null,
+    "popularity": 40.9,
+    "theory": 0.0,
     "heat": null,
     "gap": null,
     "canon_lag": null

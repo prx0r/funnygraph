@@ -432,11 +432,11 @@
     }
   },
   "metrics": {
-    "canon": 91.6,
-    "canon_era": 95.5,
-    "crowd": 90.0,
-    "pull": 51.8,
-    "craft": 37.5,
+    "legacy": 91.6,
+    "legacy_era": 95.5,
+    "audience": 90.0,
+    "popularity": 51.8,
+    "theory": 37.5,
     "heat": null,
     "gap": -0.382,
     "canon_lag": -0.016

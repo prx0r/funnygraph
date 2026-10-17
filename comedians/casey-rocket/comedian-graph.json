@@ -264,11 +264,11 @@
     "method": "archetype+theories"
   },
   "metrics": {
-    "canon": 38.6,
-    "canon_era": 65.9,
-    "crowd": null,
-    "pull": 5.4,
-    "craft": 37.5,
+    "legacy": 38.6,
+    "legacy_era": 65.9,
+    "audience": null,
+    "popularity": 5.4,
+    "theory": 37.5,
     "heat": null,
     "gap": null,
     "canon_lag": null

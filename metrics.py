@@ -101,14 +101,14 @@ def main() -> None:
         depth += 1 if (j.get("timing_profile") or {}).get("doctrine_hypothesis") else 0
         craft = round(depth / 8 * 100, 1)
 
-        m = {"canon": round(canon * 100, 1) if canon is not None else None,
-             "canon_era": round(canon_z * 100, 1) if canon_z is not None else None,
-             "crowd": crowd, "pull": pull, "craft": craft,
+        m = {"legacy": round(canon * 100, 1) if canon is not None else None,
+             "legacy_era": round(canon_z * 100, 1) if canon_z is not None else None,
+             "audience": crowd, "popularity": pull, "theory": craft,
              "heat": None}  # heat needs pulse velocity (2+ snapshots)
         # differentials (percentile gaps)
         def _pct100(v):
             return v / 100 if v is not None else None
-        cp, cr, pu = _pct100(m["canon"]), _pct100(crowd), _pct100(pull)
+        cp, cr, pu = _pct100(m["legacy"]), _pct100(crowd), _pct100(pull)
         m["gap"] = round(pu - cr, 3) if pu is not None and cr is not None else None
         m["canon_lag"] = round(cr - cp, 3) if cr is not None and cp is not None else None
         j["metrics"] = m
@@ -123,12 +123,12 @@ def main() -> None:
         rows.sort(key=lambda c: -c[key] if rev else c[key])
         return rows[:k]
 
-    print("=== CANON (top 8) ===")
-    for c in top("canon", 8):
-        print(f"  {c['canon']:>5}  {c['name'][:26]}")
-    print("=== CROWD (top 8) ===")
-    for c in top("crowd", 8):
-        print(f"  {c['crowd']:>5}  {c['name'][:26]}")
+    print("=== LEGACY (top 8) ===")
+    for c in top("legacy", 8):
+        print(f"  {c['legacy']:>5}  {c['name'][:26]}")
+    print("=== AUDIENCE (top 8) ===")
+    for c in top("audience", 8):
+        print(f"  {c['audience']:>5}  {c['name'][:26]}")
     print("=== OVERRATED (gap, top 8) ===")
     for c in top("gap", 8):
         print(f"  {c['gap']:+.2f}  {c['name'][:26]}")
