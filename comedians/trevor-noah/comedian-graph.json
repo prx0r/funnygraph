@@ -318,5 +318,6 @@
     "canon_lag": -0.298
   },
   "tier": "king",
-  "region": "south-africa"
+  "region": "south-africa",
+  "continent": "africa"
 }

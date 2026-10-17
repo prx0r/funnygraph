@@ -274,5 +274,6 @@
     "canon_lag": -0.136
   },
   "tier": "king",
-  "region": "australia"
+  "region": "australia",
+  "continent": "oceania"
 }

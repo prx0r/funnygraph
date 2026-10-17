@@ -1,41 +1,42 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "ross-noble",
- "name": "Ross Noble",
- "tier": "indie",
- "region": "uk",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-eu-pacific"
-  ],
-  "discovery_note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- }
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "ross-noble",
+  "name": "Ross Noble",
+  "tier": "indie",
+  "region": "uk",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "curated-eu-pacific"
+    ],
+    "discovery_note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "europe"
 }

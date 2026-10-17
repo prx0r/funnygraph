@@ -243,5 +243,6 @@
     "canon_lag": null
   },
   "tier": "king",
-  "region": "malaysia"
+  "region": "malaysia",
+  "continent": "asia"
 }

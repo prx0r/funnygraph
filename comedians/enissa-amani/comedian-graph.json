@@ -237,5 +237,6 @@
     "canon_lag": null
   },
   "tier": "king",
-  "region": "germany"
+  "region": "germany",
+  "continent": "europe"
 }

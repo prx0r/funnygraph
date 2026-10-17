@@ -466,5 +466,6 @@
     "canon_lag": 0.009
   },
   "tier": "king",
-  "region": "uk"
+  "region": "uk",
+  "continent": "europe"
 }

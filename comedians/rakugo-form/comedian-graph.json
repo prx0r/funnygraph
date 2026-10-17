@@ -1,44 +1,45 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "rakugo-form",
- "name": "Rakugo (form)",
- "tier": "indie",
- "region": "japan",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Solo seated storytelling, kimono, fan+cloth. Puns + wordplay. 'Broadly similar to English humor' (Terada). Directly analyzable with our pipeline.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "academic",
-   "wikipedia",
-   "japan-times"
-  ],
-  "discovery_note": "Solo seated storytelling, kimono, fan+cloth. Puns + wordplay. 'Broadly similar to English humor' (Terada). Directly analyzable with our pipeline."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "format": "form-entry"
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "rakugo-form",
+  "name": "Rakugo (form)",
+  "tier": "indie",
+  "region": "japan",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Solo seated storytelling, kimono, fan+cloth. Puns + wordplay. 'Broadly similar to English humor' (Terada). Directly analyzable with our pipeline.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "academic",
+      "wikipedia",
+      "japan-times"
+    ],
+    "discovery_note": "Solo seated storytelling, kimono, fan+cloth. Puns + wordplay. 'Broadly similar to English humor' (Terada). Directly analyzable with our pipeline."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "format": "form-entry",
+  "continent": "asia"
 }

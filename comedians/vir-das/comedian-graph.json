@@ -270,5 +270,6 @@
     "canon_lag": -0.044
   },
   "tier": "king",
-  "region": "india"
+  "region": "india",
+  "continent": "asia"
 }

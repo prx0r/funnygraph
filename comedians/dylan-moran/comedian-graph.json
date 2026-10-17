@@ -309,5 +309,6 @@
     "canon_lag": -0.313
   },
   "tier": "king",
-  "region": "ireland"
+  "region": "ireland",
+  "continent": "europe"
 }

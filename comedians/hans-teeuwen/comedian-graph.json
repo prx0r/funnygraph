@@ -1,41 +1,42 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "hans-teeuwen",
- "name": "Hans Teeuwen",
- "tier": "indie",
- "region": "netherlands",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Dutch legend, does English shows. Absurdist + confrontational, Amsterdam underground lineage.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-eu-pacific"
-  ],
-  "discovery_note": "Dutch legend, does English shows. Absurdist + confrontational, Amsterdam underground lineage."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- }
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "hans-teeuwen",
+  "name": "Hans Teeuwen",
+  "tier": "indie",
+  "region": "netherlands",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Dutch legend, does English shows. Absurdist + confrontational, Amsterdam underground lineage.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "curated-eu-pacific"
+    ],
+    "discovery_note": "Dutch legend, does English shows. Absurdist + confrontational, Amsterdam underground lineage."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "europe"
 }

@@ -229,5 +229,6 @@
     "canon_lag": null
   },
   "tier": "king",
-  "region": "new-zealand"
+  "region": "new-zealand",
+  "continent": "oceania"
 }

@@ -237,5 +237,6 @@
     "canon_lag": null
   },
   "tier": "king",
-  "region": "china"
+  "region": "china",
+  "continent": "asia"
 }

@@ -1215,5 +1215,6 @@
     "canon_lag": -0.058
   },
   "tier": "king",
-  "region": "us"
+  "region": "us",
+  "continent": "north-america"
 }

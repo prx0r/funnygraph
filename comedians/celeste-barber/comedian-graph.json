@@ -1,41 +1,42 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "celeste-barber",
- "name": "Celeste Barber",
- "tier": "indie",
- "region": "australia",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-eu-pacific"
-  ],
-  "discovery_note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- }
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "celeste-barber",
+  "name": "Celeste Barber",
+  "tier": "indie",
+  "region": "australia",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "curated-eu-pacific"
+    ],
+    "discovery_note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "oceania"
 }
