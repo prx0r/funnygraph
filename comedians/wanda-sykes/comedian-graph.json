@@ -241,8 +241,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 70.8,
-    "legacy_era": 26.4,
+    "legacy": 70.2,
+    "legacy_era": 27.5,
     "audience": null,
     "popularity": 78.1,
     "theory": 37.5,
@@ -296,5 +296,19 @@
       "vicks",
       "okay"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q237194",
+    "dob": "1964-03-07",
+    "dod": null,
+    "birthplace": "Portsmouth",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "writer",
+      "television actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

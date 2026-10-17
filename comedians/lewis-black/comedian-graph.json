@@ -222,7 +222,8 @@
     "breakthrough": "1990s"
   },
   "recognition": {
-    "comedy_central_2004": 51
+    "comedy_central_2004": 51,
+    "awards": []
   },
   "bio": {
     "wikidata_id": "Q180252",
@@ -247,7 +248,7 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 79.2,
+    "legacy": 78.6,
     "legacy_era": 83.2,
     "audience": null,
     "popularity": 38.6,

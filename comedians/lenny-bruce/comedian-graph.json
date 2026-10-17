@@ -284,7 +284,8 @@
   "recognition": {
     "comedy_central_2004": 3,
     "rolling_stone_2017": 3,
-    "trajectory_2004_2017": "stable"
+    "trajectory_2004_2017": "stable",
+    "awards": []
   },
   "specials_rated": [
     {
@@ -339,15 +340,15 @@
     }
   },
   "metrics": {
-    "legacy": 96.1,
-    "legacy_era": 91.6,
+    "legacy": 95.5,
+    "legacy_era": 92.1,
     "audience": 32.5,
     "popularity": 8.8,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.237,
     "overrated": "underrated",
-    "canon_lag": -0.636
+    "canon_lag": -0.63
   },
   "tier": "king",
   "region": "us",

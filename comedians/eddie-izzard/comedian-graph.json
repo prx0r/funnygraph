@@ -345,7 +345,17 @@
   "recognition": {
     "comedy_central_2004": 75,
     "rolling_stone_2017": 24,
-    "trajectory_2004_2017": "rise"
+    "trajectory_2004_2017": "rise",
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Variety Series",
+        "year": 2000
+      },
+      {
+        "award": "Primetime Emmy Award for Individual Performance in a Variety or Music Program",
+        "year": 2000
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -432,15 +442,15 @@
     }
   },
   "metrics": {
-    "legacy": 92.1,
-    "legacy_era": 94.9,
+    "legacy": 94.4,
+    "legacy_era": 94.4,
     "audience": 90.0,
     "popularity": 54.4,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.356,
     "overrated": "underrated",
-    "canon_lag": -0.021
+    "canon_lag": -0.044
   },
   "tier": "king",
   "region": "uk",

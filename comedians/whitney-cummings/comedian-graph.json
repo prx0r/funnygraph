@@ -341,5 +341,19 @@
       "their",
       "time"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q3298525",
+    "dob": "1982-09-04",
+    "dod": null,
+    "birthplace": "Washington, D.C.",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "film producer",
+      "model"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

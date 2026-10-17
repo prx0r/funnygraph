@@ -234,7 +234,7 @@
   },
   "metrics": {
     "legacy": 20.2,
-    "legacy_era": 46.6,
+    "legacy_era": 47.8,
     "audience": null,
     "popularity": 18.4,
     "theory": 0.0,
@@ -275,5 +275,8 @@
       "world",
       "canada"
     ]
+  },
+  "recognition": {
+    "awards": []
   }
 }

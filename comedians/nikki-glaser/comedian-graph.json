@@ -247,7 +247,7 @@
   },
   "metrics": {
     "legacy": 12.9,
-    "legacy_era": 39.3,
+    "legacy_era": 40.5,
     "audience": null,
     "popularity": 39.5,
     "theory": 0.0,
@@ -287,6 +287,14 @@
       "didn",
       "time",
       "thing"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Time 100",
+        "year": 2025
+      }
     ]
   }
 }

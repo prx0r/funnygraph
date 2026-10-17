@@ -292,7 +292,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 80.9,
+    "legacy": 80.3,
     "legacy_era": 19.1,
     "audience": 47.5,
     "popularity": 54.8,
@@ -300,7 +300,7 @@
     "heat": null,
     "gap_value": 0.073,
     "overrated": "accurately rated",
-    "canon_lag": -0.334
+    "canon_lag": -0.328
   },
   "tier": "king",
   "region": "canada",
@@ -347,5 +347,19 @@
       "want",
       "look"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q470906",
+    "dob": "1970-09-29",
+    "dod": null,
+    "birthplace": "Toronto",
+    "citizenship": "Canada",
+    "occupations": [
+      "comedian",
+      "actor",
+      "disc jockey",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

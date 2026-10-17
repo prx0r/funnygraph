@@ -228,7 +228,7 @@
   },
   "metrics": {
     "legacy": 17.4,
-    "legacy_era": 43.8,
+    "legacy_era": 44.9,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -269,5 +269,8 @@
       "said",
       "fuck"
     ]
+  },
+  "recognition": {
+    "awards": []
   }
 }

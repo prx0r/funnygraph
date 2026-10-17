@@ -272,7 +272,7 @@
     "method": "archetype+theories"
   },
   "metrics": {
-    "legacy": 31.5,
+    "legacy": 30.9,
     "legacy_era": 58.4,
     "audience": null,
     "popularity": null,
@@ -295,5 +295,8 @@
       "observational": 0.08
     },
     "n_modes": 2
+  },
+  "recognition": {
+    "awards": []
   }
 }

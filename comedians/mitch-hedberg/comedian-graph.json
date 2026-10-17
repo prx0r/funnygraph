@@ -305,7 +305,8 @@
     "breakthrough": "1990s club \u2192 Letterman 1996"
   },
   "recognition": {
-    "rolling_stone_2017": 20
+    "rolling_stone_2017": 20,
+    "awards": []
   },
   "specials_rated": [
     {
@@ -343,15 +344,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 79.8,
-    "legacy_era": 10.1,
+    "legacy": 79.2,
+    "legacy_era": 9.6,
     "audience": 0,
     "popularity": 40.4,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.404,
     "overrated": "overrated",
-    "canon_lag": -0.798
+    "canon_lag": -0.792
   },
   "tier": "king",
   "region": "us",

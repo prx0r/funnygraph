@@ -346,7 +346,17 @@
   "recognition": {
     "comedy_central_2004": 12,
     "rolling_stone_2017": 7,
-    "trajectory_2004_2017": "rise"
+    "trajectory_2004_2017": "rise",
+    "awards": [
+      {
+        "award": "Golden Globe Award for Best Actor \u2013 Television Series Musical or Comedy",
+        "year": 1994
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Comedy Series",
+        "year": 1992
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -431,15 +441,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 97.2,
-    "legacy_era": 93.8,
+    "legacy": 98.3,
+    "legacy_era": 93.3,
     "audience": 70.0,
     "popularity": 64.9,
     "theory": 50.0,
     "heat": null,
     "gap_value": -0.051,
     "overrated": "accurately rated",
-    "canon_lag": -0.272
+    "canon_lag": -0.283
   },
   "tier": "king",
   "region": "us",

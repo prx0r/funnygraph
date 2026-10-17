@@ -214,7 +214,7 @@
   },
   "metrics": {
     "legacy": 2.2,
-    "legacy_era": 28.1,
+    "legacy_era": 29.2,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -255,5 +255,18 @@
       "their",
       "talk"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q7812382",
+    "dob": "1964-12-16",
+    "dod": null,
+    "birthplace": "Philadelphia",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "podcaster"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

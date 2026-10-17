@@ -68,5 +68,17 @@
       "comedian_id": "sean-lock",
       "sim": 0.032
     }
-  ]
+  ],
+  "recognition": {
+    "awards": [
+      {
+        "award": "Moli\u00e8re Award for Best Humour",
+        "year": 2018
+      },
+      {
+        "award": "Moli\u00e8re Award for Best Humour",
+        "year": 2019
+      }
+    ]
+  }
 }

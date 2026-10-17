@@ -247,7 +247,7 @@
   },
   "metrics": {
     "legacy": 20.8,
-    "legacy_era": 47.2,
+    "legacy_era": 48.3,
     "audience": null,
     "popularity": 81.6,
     "theory": 0.0,
@@ -287,6 +287,18 @@
       "want",
       "make",
       "time"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Time 100",
+        "year": 2022
+      },
+      {
+        "award": "Time 100",
+        "year": 2025
+      }
     ]
   }
 }

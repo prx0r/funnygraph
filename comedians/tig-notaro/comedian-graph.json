@@ -240,7 +240,7 @@
   },
   "metrics": {
     "legacy": 60.1,
-    "legacy_era": 29.2,
+    "legacy_era": 30.3,
     "audience": null,
     "popularity": 14.0,
     "theory": 37.5,
@@ -294,5 +294,19 @@
       "show",
       "time"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q7801308",
+    "dob": "1971-03-24",
+    "dod": null,
+    "birthplace": "Jackson",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "comedian",
+      "podcaster",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

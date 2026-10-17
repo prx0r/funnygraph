@@ -221,7 +221,7 @@
   },
   "metrics": {
     "legacy": 6.7,
-    "legacy_era": 33.1,
+    "legacy_era": 34.3,
     "audience": null,
     "popularity": 17.5,
     "theory": 0.0,
@@ -262,5 +262,18 @@
       "fucking",
       "love"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q4967403",
+    "dob": "1975-05-29",
+    "dod": null,
+    "birthplace": "South Shields",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "stand-up comedian",
+      "autobiographer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

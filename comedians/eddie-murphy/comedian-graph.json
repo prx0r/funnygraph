@@ -254,7 +254,29 @@
   "recognition": {
     "comedy_central_2004": 10,
     "rolling_stone_2017": 25,
-    "trajectory_2004_2017": "fall"
+    "trajectory_2004_2017": "fall",
+    "awards": [
+      {
+        "award": "Mark Twain Prize for American Humor",
+        "year": 2015
+      },
+      {
+        "award": "Grammy Awards",
+        "year": 2007
+      },
+      {
+        "award": "Golden Globe Award for Best Supporting Actor \u2013 Motion Picture",
+        "year": 2007
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series",
+        "year": 2020
+      },
+      {
+        "award": "Golden Globe Cecil B. DeMille Award",
+        "year": null
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -313,15 +335,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 94.4,
-    "legacy_era": 92.7,
+    "legacy": 96.1,
+    "legacy_era": 95.5,
     "audience": 77.5,
     "popularity": 71.9,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.056,
     "overrated": "accurately rated",
-    "canon_lag": -0.169
+    "canon_lag": -0.186
   },
   "tier": "king",
   "region": "us",

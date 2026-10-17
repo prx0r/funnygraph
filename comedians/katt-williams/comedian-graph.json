@@ -273,15 +273,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 76.4,
-    "legacy_era": 79.8,
+    "legacy": 75.8,
+    "legacy_era": 76.4,
     "audience": 47.5,
     "popularity": 93.4,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.459,
     "overrated": "overrated",
-    "canon_lag": -0.289
+    "canon_lag": -0.283
   },
   "tier": "king",
   "region": "us",
@@ -327,6 +327,14 @@
       "bitch",
       "good",
       "cause"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series",
+        "year": 2018
+      }
     ]
   }
 }

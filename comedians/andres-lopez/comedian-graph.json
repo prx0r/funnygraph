@@ -80,5 +80,8 @@
       "comedian_id": "michael-che",
       "sim": 0.051
     }
-  ]
+  ],
+  "recognition": {
+    "awards": []
+  }
 }

@@ -221,7 +221,7 @@
   },
   "metrics": {
     "legacy": 8.4,
-    "legacy_era": 34.8,
+    "legacy_era": 36.0,
     "audience": null,
     "popularity": 3.5,
     "theory": 0.0,
@@ -262,5 +262,19 @@
       "someone",
       "their"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q296609",
+    "dob": "1975-06-04",
+    "dod": null,
+    "birthplace": "Grays",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "columnist",
+      "comedian",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

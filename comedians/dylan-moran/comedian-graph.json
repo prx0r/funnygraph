@@ -317,7 +317,7 @@
     }
   },
   "metrics": {
-    "legacy": 77.0,
+    "legacy": 76.4,
     "legacy_era": 80.9,
     "audience": 47.5,
     "popularity": 21.1,
@@ -325,7 +325,7 @@
     "heat": null,
     "gap_value": -0.264,
     "overrated": "underrated",
-    "canon_lag": -0.295
+    "canon_lag": -0.289
   },
   "tier": "king",
   "region": "ireland",
@@ -371,6 +371,14 @@
       "other",
       "want",
       "something"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Chortle Awards",
+        "year": null
+      }
     ]
   }
 }

@@ -1096,7 +1096,17 @@
   "recognition": {
     "comedy_central_2004": 98,
     "rolling_stone_2017": 4,
-    "trajectory_2004_2017": "rise"
+    "trajectory_2004_2017": "rise",
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Comedy Series",
+        "year": 2012
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Comedy Series",
+        "year": 2014
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -1205,7 +1215,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 92.7,
+    "legacy": 94.9,
     "legacy_era": 96.6,
     "audience": 87.5,
     "popularity": 54.8,
@@ -1213,7 +1223,7 @@
     "heat": null,
     "gap_value": -0.327,
     "overrated": "underrated",
-    "canon_lag": -0.052
+    "canon_lag": -0.074
   },
   "tier": "king",
   "region": "us",

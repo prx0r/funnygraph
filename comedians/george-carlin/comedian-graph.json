@@ -617,7 +617,37 @@
   "recognition": {
     "comedy_central_2004": 2,
     "rolling_stone_2017": 2,
-    "trajectory_2004_2017": "stable"
+    "trajectory_2004_2017": "stable",
+    "awards": [
+      {
+        "award": "Grammy Hall of Fame",
+        "year": 2009
+      },
+      {
+        "award": "Mark Twain Prize for American Humor",
+        "year": 2008
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1972
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 2008
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 2000
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 2001
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1993
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -782,15 +812,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 99.4,
-    "legacy_era": 98.9,
+    "legacy": 100.0,
+    "legacy_era": 99.4,
     "audience": 85.0,
     "popularity": 52.6,
     "theory": 62.5,
     "heat": null,
     "gap_value": -0.324,
     "overrated": "underrated",
-    "canon_lag": -0.144
+    "canon_lag": -0.15
   },
   "tier": "king",
   "region": "us",

@@ -459,7 +459,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 84.3,
+    "legacy": 86.0,
     "legacy_era": 75.3,
     "audience": 47.5,
     "popularity": 37.7,
@@ -467,7 +467,7 @@
     "heat": null,
     "gap_value": -0.098,
     "overrated": "accurately rated",
-    "canon_lag": -0.368
+    "canon_lag": -0.385
   },
   "tier": "king",
   "region": "us",
@@ -505,5 +505,19 @@
       "feel",
       "time"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q229013",
+    "dob": "1970-12-01",
+    "dod": null,
+    "birthplace": "Bedford",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "singer",
+      "voice actor",
+      "television producer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

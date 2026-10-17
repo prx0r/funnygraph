@@ -301,5 +301,17 @@
       "these",
       "ever"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q24053456",
+    "dob": "1986-09-00",
+    "dod": null,
+    "birthplace": "United States",
+    "citizenship": null,
+    "occupations": [
+      "actor",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

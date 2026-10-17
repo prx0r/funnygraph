@@ -220,7 +220,7 @@
   },
   "metrics": {
     "legacy": 1.7,
-    "legacy_era": 27.5,
+    "legacy_era": 28.6,
     "audience": null,
     "popularity": 21.1,
     "theory": 0.0,
@@ -261,5 +261,17 @@
       "chuckles",
       "take"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q62057888",
+    "dob": "1976-02-15",
+    "dod": null,
+    "birthplace": "Johannesburg",
+    "citizenship": "New Zealand",
+    "occupations": [
+      "comedian",
+      "dub actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

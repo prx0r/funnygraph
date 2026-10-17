@@ -220,7 +220,7 @@
   },
   "metrics": {
     "legacy": 2.8,
-    "legacy_era": 28.6,
+    "legacy_era": 29.8,
     "audience": null,
     "popularity": 13.2,
     "theory": 0.0,
@@ -261,5 +261,19 @@
       "said",
       "coffee"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q7812258",
+    "dob": "1964-03-26",
+    "dod": null,
+    "birthplace": "The Bronx",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "television actor",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

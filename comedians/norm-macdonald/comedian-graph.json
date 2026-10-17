@@ -656,7 +656,8 @@
     "breakthrough": "SNL 1993-98 Weekend Update"
   },
   "recognition": {
-    "comedy_central_2004": 83
+    "comedy_central_2004": 83,
+    "awards": []
   },
   "specials_rated": [
     {
@@ -732,7 +733,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 83.7,
+    "legacy": 85.4,
     "legacy_era": 75.8,
     "audience": 62.5,
     "popularity": 33.8,
@@ -740,7 +741,7 @@
     "heat": null,
     "gap_value": -0.287,
     "overrated": "underrated",
-    "canon_lag": -0.212
+    "canon_lag": -0.229
   },
   "tier": "king",
   "region": "canada",

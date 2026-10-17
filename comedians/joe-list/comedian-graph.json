@@ -344,7 +344,7 @@
   },
   "metrics": {
     "legacy": 67.4,
-    "legacy_era": 24.2,
+    "legacy_era": 25.3,
     "audience": 30.0,
     "popularity": null,
     "theory": 62.5,
@@ -388,5 +388,8 @@
       "laughs",
       "because"
     ]
+  },
+  "recognition": {
+    "awards": []
   }
 }

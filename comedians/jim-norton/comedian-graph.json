@@ -273,8 +273,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 23.0,
-    "legacy_era": 49.4,
+    "legacy": 47.8,
+    "legacy_era": 21.9,
     "audience": null,
     "popularity": 10.5,
     "theory": 12.5,
@@ -317,6 +317,14 @@
       "didn",
       "said",
       "girl"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Tony Award for Best Featured Actor in a Play",
+        "year": 2008
+      }
     ]
   }
 }

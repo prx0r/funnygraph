@@ -241,7 +241,7 @@
   },
   "metrics": {
     "legacy": 18.0,
-    "legacy_era": 44.4,
+    "legacy_era": 45.5,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -281,6 +281,14 @@
       "great",
       "good",
       "well"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Chortle Award for Best Comp\u00e8re",
+        "year": 2002
+      }
     ]
   }
 }

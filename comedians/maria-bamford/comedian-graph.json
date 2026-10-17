@@ -372,7 +372,7 @@
   },
   "metrics": {
     "legacy": 55.6,
-    "legacy_era": 14.0,
+    "legacy_era": 13.5,
     "audience": 62.5,
     "popularity": null,
     "theory": 50.0,
@@ -416,5 +416,8 @@
       "because",
       "something"
     ]
+  },
+  "recognition": {
+    "awards": []
   }
 }

@@ -245,7 +245,7 @@
   },
   "metrics": {
     "legacy": 14.0,
-    "legacy_era": 40.5,
+    "legacy_era": 41.6,
     "audience": null,
     "popularity": 63.2,
     "theory": 0.0,
@@ -286,5 +286,8 @@
       "woman",
       "even"
     ]
+  },
+  "recognition": {
+    "awards": []
   }
 }

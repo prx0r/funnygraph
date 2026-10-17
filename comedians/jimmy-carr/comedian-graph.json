@@ -383,7 +383,7 @@
   },
   "metrics": {
     "legacy": 22.5,
-    "legacy_era": 48.9,
+    "legacy_era": 50.0,
     "audience": null,
     "popularity": 80.7,
     "theory": 62.5,
@@ -426,6 +426,14 @@
       "because",
       "some",
       "woman"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "British Comedy Awards",
+        "year": null
+      }
     ]
   }
 }

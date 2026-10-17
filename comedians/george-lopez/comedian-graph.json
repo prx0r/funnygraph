@@ -233,7 +233,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 27.5,
+    "legacy": 27.0,
     "legacy_era": 54.5,
     "audience": null,
     "popularity": 49.1,
@@ -274,6 +274,14 @@
       "cheering",
       "come",
       "back"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "star on Hollywood Walk of Fame",
+        "year": null
+      }
     ]
   }
 }

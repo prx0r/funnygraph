@@ -220,7 +220,7 @@
   },
   "metrics": {
     "legacy": 7.9,
-    "legacy_era": 34.3,
+    "legacy_era": 35.4,
     "audience": null,
     "popularity": 42.1,
     "theory": 0.0,
@@ -261,5 +261,19 @@
       "thing",
       "thank"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q5814891",
+    "dob": "1980-03-23",
+    "dod": null,
+    "birthplace": "Bristol",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "stand-up comedian",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

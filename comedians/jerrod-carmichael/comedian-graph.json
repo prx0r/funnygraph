@@ -246,15 +246,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 68.5,
-    "legacy_era": 50.0,
+    "legacy": 70.8,
+    "legacy_era": 23.0,
     "audience": 30.0,
     "popularity": null,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.385
+    "canon_lag": -0.408
   },
   "tier": "king",
   "region": "us",
@@ -300,6 +300,18 @@
       "said",
       "time",
       "brother"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Variety Special",
+        "year": 2022
+      },
+      {
+        "award": "Writers Guild of America Award for Television: Best Comedy/Variety \u2013 Specials",
+        "year": 2022
+      }
     ]
   }
 }

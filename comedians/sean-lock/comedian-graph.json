@@ -313,7 +313,7 @@
   },
   "metrics": {
     "legacy": 6.2,
-    "legacy_era": 32.6,
+    "legacy_era": 33.7,
     "audience": null,
     "popularity": 9.6,
     "theory": 62.5,
@@ -335,5 +335,19 @@
       "observational": 0.09
     },
     "n_modes": 2
+  },
+  "bio": {
+    "wikidata_id": "Q1911052",
+    "dob": "1963-04-22",
+    "dod": "2021-08-16",
+    "birthplace": "Chertsey",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "stand-up comedian",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

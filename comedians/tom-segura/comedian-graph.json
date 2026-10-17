@@ -487,15 +487,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 86.0,
-    "legacy_era": 90.5,
+    "legacy": 83.7,
+    "legacy_era": 91.0,
     "audience": 72.5,
     "popularity": 88.2,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.157,
     "overrated": "accurately rated",
-    "canon_lag": -0.135
+    "canon_lag": -0.112
   },
   "tier": "king",
   "region": "us",
@@ -533,5 +533,18 @@
       "fuck",
       "some"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q17087888",
+    "dob": "1979-04-16",
+    "dod": null,
+    "birthplace": "Cincinnati",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "podcaster",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

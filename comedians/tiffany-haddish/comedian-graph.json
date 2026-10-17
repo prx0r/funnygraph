@@ -220,7 +220,7 @@
   },
   "metrics": {
     "legacy": 3.4,
-    "legacy_era": 29.8,
+    "legacy_era": 30.9,
     "audience": null,
     "popularity": 25.4,
     "theory": 0.0,
@@ -261,5 +261,19 @@
       "shit",
       "continued"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q11835264",
+    "dob": "1979-12-03",
+    "dod": null,
+    "birthplace": "South Los Angeles",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "actor",
+      "film actor",
+      "writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

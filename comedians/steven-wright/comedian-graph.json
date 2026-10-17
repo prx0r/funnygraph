@@ -304,8 +304,8 @@
     }
   },
   "metrics": {
-    "legacy": 94.9,
-    "legacy_era": 92.1,
+    "legacy": 93.3,
+    "legacy_era": 92.7,
     "audience": null,
     "popularity": 33.3,
     "theory": 50.0,
@@ -326,5 +326,19 @@
       "observational": 0.07
     },
     "n_modes": 2
+  },
+  "bio": {
+    "wikidata_id": "Q1969967",
+    "dob": "1955-12-06",
+    "dod": null,
+    "birthplace": "Cambridge",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "writer",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

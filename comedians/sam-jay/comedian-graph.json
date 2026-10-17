@@ -301,5 +301,18 @@
       "dick",
       "these"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q41694232",
+    "dob": "1982-01-12",
+    "dod": null,
+    "birthplace": "Atlanta",
+    "citizenship": "United States",
+    "occupations": [
+      "writer",
+      "stand-up comedian",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -233,7 +233,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 28.6,
+    "legacy": 28.1,
     "legacy_era": 55.6,
     "audience": null,
     "popularity": 0.9,
@@ -275,5 +275,8 @@
       "thing",
       "people"
     ]
+  },
+  "recognition": {
+    "awards": []
   }
 }

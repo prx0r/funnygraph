@@ -276,7 +276,13 @@
   "recognition": {
     "comedy_central_2004": 44,
     "rolling_stone_2017": 6,
-    "trajectory_2004_2017": "rise"
+    "trajectory_2004_2017": "rise",
+    "awards": [
+      {
+        "award": "Daytime Emmy Award for Outstanding Talk Show Host",
+        "year": 1990
+      }
+    ]
   },
   "bio": {
     "wikidata_id": "Q240933",
@@ -320,8 +326,8 @@
     }
   },
   "metrics": {
-    "legacy": 95.5,
-    "legacy_era": 93.3,
+    "legacy": 93.8,
+    "legacy_era": 91.6,
     "audience": null,
     "popularity": 31.6,
     "theory": 50.0,

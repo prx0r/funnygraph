@@ -259,7 +259,7 @@
   },
   "metrics": {
     "legacy": 21.3,
-    "legacy_era": 47.8,
+    "legacy_era": 48.9,
     "audience": null,
     "popularity": 87.7,
     "theory": 0.0,
@@ -299,6 +299,14 @@
       "because",
       "dick",
       "back"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Asia's Most Influential Philippines",
+        "year": 2021
+      }
     ]
   }
 }

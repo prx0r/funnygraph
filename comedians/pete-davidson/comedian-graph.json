@@ -247,7 +247,7 @@
   },
   "metrics": {
     "legacy": 12.4,
-    "legacy_era": 38.8,
+    "legacy_era": 39.9,
     "audience": null,
     "popularity": 64.9,
     "theory": 0.0,
@@ -287,6 +287,14 @@
       "fuck",
       "think",
       "fuckin"
+    ]
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Time 100",
+        "year": 2022
+      }
     ]
   }
 }

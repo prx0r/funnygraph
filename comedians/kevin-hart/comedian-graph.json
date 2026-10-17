@@ -304,7 +304,13 @@
     "breakthrough": "2000s"
   },
   "recognition": {
-    "rolling_stone_2017": 18
+    "rolling_stone_2017": 18,
+    "awards": [
+      {
+        "award": "Mark Twain Prize for American Humor",
+        "year": 2024
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -419,15 +425,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 88.2,
-    "legacy_era": 94.4,
+    "legacy": 91.0,
+    "legacy_era": 93.8,
     "audience": 47.5,
     "popularity": 100.0,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.525,
     "overrated": "massively overrated",
-    "canon_lag": -0.407
+    "canon_lag": -0.435
   },
   "tier": "king",
   "region": "us",

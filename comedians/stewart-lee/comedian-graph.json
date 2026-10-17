@@ -456,7 +456,7 @@
     }
   },
   "metrics": {
-    "legacy": 85.4,
+    "legacy": 83.2,
     "legacy_era": 85.4,
     "audience": 87.5,
     "popularity": 26.3,
@@ -464,7 +464,7 @@
     "heat": null,
     "gap_value": -0.612,
     "overrated": "massively underrated",
-    "canon_lag": 0.021
+    "canon_lag": 0.043
   },
   "tier": "king",
   "region": "uk",
@@ -501,5 +501,19 @@
       "down",
       "thought"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q7615848",
+    "dob": "1968-04-05",
+    "dod": null,
+    "birthplace": "Wellington",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "writer",
+      "comedian",
+      "actor",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

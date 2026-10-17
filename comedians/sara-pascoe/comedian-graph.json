@@ -214,7 +214,7 @@
   },
   "metrics": {
     "legacy": 7.3,
-    "legacy_era": 33.7,
+    "legacy_era": 34.8,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -255,5 +255,19 @@
       "means",
       "things"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q7421735",
+    "dob": "1981-05-22",
+    "dod": null,
+    "birthplace": "Dagenham",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "stand-up comedian",
+      "screenwriter",
+      "writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

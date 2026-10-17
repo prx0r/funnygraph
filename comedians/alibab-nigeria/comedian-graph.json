@@ -80,5 +80,13 @@
       "comedian_id": "marc-maron",
       "sim": 0.069
     }
-  ]
+  ],
+  "recognition": {
+    "awards": [
+      {
+        "award": "City People Entertainment Awards",
+        "year": null
+      }
+    ]
+  }
 }

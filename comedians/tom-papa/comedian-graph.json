@@ -340,5 +340,19 @@
       "back",
       "life"
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q7817154",
+    "dob": "1968-11-10",
+    "dod": null,
+    "birthplace": "Passaic",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "film producer",
+      "screenwriter",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

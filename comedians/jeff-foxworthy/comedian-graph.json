@@ -222,7 +222,8 @@
     "breakthrough": "1980s club \u2192 Blue Collar 2000s peak"
   },
   "recognition": {
-    "comedy_central_2004": 60
+    "comedy_central_2004": 60,
+    "awards": []
   },
   "specials_rated": [
     {
@@ -280,7 +281,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 84.8,
+    "legacy": 86.5,
     "legacy_era": 9.0,
     "audience": 47.5,
     "popularity": 54.8,
@@ -288,7 +289,7 @@
     "heat": null,
     "gap_value": 0.073,
     "overrated": "accurately rated",
-    "canon_lag": -0.373
+    "canon_lag": -0.39
   },
   "tier": "king",
   "region": "us",
