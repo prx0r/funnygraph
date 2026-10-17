@@ -1,0 +1,1878 @@
+[
+ {
+  "bit": "The seven dirty words",
+  "why": "Treats a language taboo as a constitutional question. rigidify: applies the rules of 'obscene' literally until the category collapses. The bit is jurisprudence \u2014 the courtroom is the stage, the audience is the jury.",
+  "theories": [
+   "rigidify",
+   "literalise",
+   "status_reversal"
+  ],
+  "comedian": "George Carlin",
+  "comedian_id": "george-carlin",
+  "comedian_rank": 1,
+  "score": 97.0,
+  "quote_rate": null,
+  "bit_rank": 1
+ },
+ {
+  "bit": "Euphemism execution (soft language)",
+  "why": "Takes a soft phrase ('passed away', 'persons of substance') and holds it to its literal meaning until the euphemism confesses. The list accelerates like a sermon; the key word lands like a gavel. The room laughs at the r",
+  "theories": [
+   "rigidify",
+   "literalise"
+  ],
+  "comedian": "George Carlin",
+  "comedian_id": "george-carlin",
+  "comedian_rank": 1,
+  "score": 97.0,
+  "quote_rate": null,
+  "bit_rank": 2
+ },
+ {
+  "bit": "The list as sermon form",
+  "why": "Lists are rhetorical acceleration devices \u2014 the room is carried forward by the rhythm, the key word is the amen. The list is not a collection of jokes; it's a rhetorical structure that makes the final word inevitable and",
+  "theories": [
+   "escalation",
+   "repetition_variation"
+  ],
+  "comedian": "George Carlin",
+  "comedian_id": "george-carlin",
+  "comedian_rank": 1,
+  "score": 97.0,
+  "quote_rate": null,
+  "bit_rank": 3
+ },
+ {
+  "bit": "Advertising as a war on consciousness",
+  "why": "Treats every ad as an assault on awareness and deconstructs it live. rigidify: applies the logic of the ad literally until the absurdity appears. The room recognizes the assault they've been enduring; the anger is the re",
+  "theories": [
+   "rigidify",
+   "status_reversal"
+  ],
+  "comedian": "Bill Hicks",
+  "comedian_id": "bill-hicks",
+  "comedian_rank": 7,
+  "score": 95.1,
+  "quote_rate": null,
+  "bit_rank": 4
+ },
+ {
+  "bit": "Going to the fear",
+  "why": "His own doctrine: go to the fear, that's where the material is. The bit works because he goes there first \u2014 the room follows because he's already in the dark place and he's not flinching.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Bill Hicks",
+  "comedian_id": "bill-hicks",
+  "comedian_rank": 7,
+  "score": 95.1,
+  "quote_rate": null,
+  "bit_rank": 5
+ },
+ {
+  "bit": "The story that turns",
+  "why": "Tells a story with the cadence of a folktale, then the turn reveals the story was about something larger (race, power, America). garden_path: the room thinks it's a story, it's actually a thesis. The hold after the turn ",
+  "theories": [
+   "garden_path",
+   "two_stories"
+  ],
+  "comedian": "Dave Chappelle",
+  "comedian_id": "dave-chappelle",
+  "comedian_rank": 6,
+  "score": 95.0,
+  "quote_rate": null,
+  "bit_rank": 6
+ },
+ {
+  "bit": "The character as a shield and a weapon",
+  "why": "Becomes a character to say the thing he couldn't say as himself. The character is the benign frame; the content is the violation. The room laughs at the character and absorbs the thesis at the same time.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Dave Chappelle",
+  "comedian_id": "dave-chappelle",
+  "comedian_rank": 6,
+  "score": 95.0,
+  "quote_rate": null,
+  "bit_rank": 7
+ },
+ {
+  "bit": "The fire as origin story",
+  "why": "Tells the story of his own worst night with the cadence of a survival narrative. The room is crying laughing at a crime scene he's still standing in. benign_violation: the violation is extreme; the benign frame is that h",
+  "theories": [
+   "benign_violation",
+   "status_reversal"
+  ],
+  "comedian": "Richard Pryor",
+  "comedian_id": "richard-pryor",
+  "comedian_rank": 2,
+  "score": 94.6,
+  "quote_rate": null,
+  "bit_rank": 8
+ },
+ {
+  "bit": "Characters as escape hatches",
+  "why": "Becomes a character to say the thing he couldn't say as himself. The character is the benign frame; the content is the violation. The room laughs at the character and absorbs the confession at the same time.",
+  "theories": [
+   "persona_gap",
+   "benign_violation"
+  ],
+  "comedian": "Richard Pryor",
+  "comedian_id": "richard-pryor",
+  "comedian_rank": 2,
+  "score": 94.6,
+  "quote_rate": null,
+  "bit_rank": 9
+ },
+ {
+  "bit": "The contradiction nobody names",
+  "why": "Names a thing everyone knows but nobody says. split_knowledge: the room has the knowledge; he's the one who says it out loud. The laugh is the alliance signal \u2014 'yes, that's true, and I'm glad someone said it.'",
+  "theories": [
+   "split_knowledge",
+   "status_reversal"
+  ],
+  "comedian": "Chris Rock",
+  "comedian_id": "chris-rock",
+  "comedian_rank": 3,
+  "score": 94.2,
+  "quote_rate": null,
+  "bit_rank": 10
+ },
+ {
+  "bit": "History as a bad sitcom",
+  "why": "Treats historical events as gossip performed in character voices. The room learns AND laughs \u2014 the education is smuggled inside the silliness. Dress to Kill's 8.6 proves the formula.",
+  "theories": [
+   "bisociation",
+   "persona_gap"
+  ],
+  "comedian": "Eddie Izzard",
+  "comedian_id": "eddie-izzard",
+  "comedian_rank": 11,
+  "score": 94.1,
+  "quote_rate": null,
+  "bit_rank": 11
+ },
+ {
+  "bit": "The transatlantic surrealist",
+  "why": "British surrealism delivered at American pace. The culture-clash IS the engine \u2014 neither audience quite knows what's coming. The running is the bit.",
+  "theories": [
+   "incongruity",
+   "garden_path"
+  ],
+  "comedian": "Eddie Izzard",
+  "comedian_id": "eddie-izzard",
+  "comedian_rank": 11,
+  "score": 94.1,
+  "quote_rate": null,
+  "bit_rank": 12
+ },
+ {
+  "bit": "Road Rage / the van",
+  "why": "The 8.16s hold after the deflationary turn is the longest silence \u2014 the room metabolizes the whole story in that gap. The closer drops the story entirely and confesses the mechanism: he says terrible things because the a",
+  "theories": [
+   "dpv",
+   "status_reversal",
+   "split_knowledge"
+  ],
+  "comedian": "Louis C.K.",
+  "comedian_id": "louis-ck",
+  "comedian_rank": 10,
+  "score": 93.9,
+  "quote_rate": null,
+  "bit_rank": 13
+ },
+ {
+  "bit": "The character as a universe",
+  "why": "Becomes Buckwheat, Gumby, Mr. Robinson fully \u2014 voice, body, soul. The room isn't watching impressions, they're visiting people. The character is the benign frame foranything.",
+  "theories": [
+   "persona_gap",
+   "incongruity"
+  ],
+  "comedian": "Eddie Murphy",
+  "comedian_id": "eddie-murphy",
+  "comedian_rank": 8,
+  "score": 92.8,
+  "quote_rate": null,
+  "bit_rank": 14
+ },
+ {
+  "bit": "Raw as a coronation",
+  "why": "Delirious/Raw: the biggest rooms, the filthiest material, total command. The scale IS the joke \u2014 nobody had done it that big. Status: the king proving the crown fits.",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Eddie Murphy",
+  "comedian_id": "eddie-murphy",
+  "comedian_rank": 8,
+  "score": 92.8,
+  "quote_rate": null,
+  "bit_rank": 15
+ },
+ {
+  "bit": "The noticing engine",
+  "why": "Finds the one detail in a normal situation that nobody has named, then names it with the precision of a scientist. The room recognizes the detail before they recognize the joke \u2014 the recognition IS the laugh.",
+  "theories": [
+   "incongruity",
+   "garden_path"
+  ],
+  "comedian": "Jerry Seinfeld",
+  "comedian_id": "jerry-seinfeld",
+  "comedian_rank": 4,
+  "score": 92.8,
+  "quote_rate": null,
+  "bit_rank": 16
+ },
+ {
+  "bit": "The word as seed",
+  "why": "A word's sound and meaning connect across synapses that aren't supposed to cross. The joke is built from the word, not around it. The economy is the craft \u2014 the word is the load-bearing wall.",
+  "theories": [
+   "literalise",
+   "two_stories"
+  ],
+  "comedian": "Jerry Seinfeld",
+  "comedian_id": "jerry-seinfeld",
+  "comedian_rank": 4,
+  "score": 92.8,
+  "quote_rate": null,
+  "bit_rank": 17
+ },
+ {
+  "bit": "The song that diagnoses the room",
+  "why": "The song is funny AND it names the mechanism of why the room is laughing. The meta-turn is the second punch \u2014 the room laughs at the song, then laughs at themselves for laughing. split_knowledge: everyone knows the manip",
+  "theories": [
+   "split_knowledge",
+   "persona_gap"
+  ],
+  "comedian": "Bo Burnham",
+  "comedian_id": "bo-burnham",
+  "comedian_rank": 18,
+  "score": 91.3,
+  "quote_rate": null,
+  "bit_rank": 18
+ },
+ {
+  "bit": "The apology from inside the machine",
+  "why": "Performs the critique of performance while performing. The contradiction IS the content \u2014 the room can't resolve whether he's sincere or performing sincerity, and the unresolvability is the point.",
+  "theories": [
+   "persona_gap",
+   "incongruity"
+  ],
+  "comedian": "Bo Burnham",
+  "comedian_id": "bo-burnham",
+  "comedian_rank": 18,
+  "score": 91.3,
+  "quote_rate": null,
+  "bit_rank": 19
+ },
+ {
+  "bit": "The stammer-build",
+  "why": "The stammer is not a flaw \u2014 it's the windup. The room leans in because he seems to be losing his train of thought; the hard-stop punch arrives where they didn't expect. garden_path: the stammer is the misdirection.",
+  "theories": [
+   "garden_path"
+  ],
+  "comedian": "Chris Rock",
+  "comedian_id": "chris-rock",
+  "comedian_rank": 3,
+  "score": 89.2,
+  "quote_rate": null,
+  "bit_rank": 20
+ },
+ {
+  "bit": "The rant that audits itself",
+  "why": "The rant escalates to an absurd conclusion, then he catches himself ('I'm not saying...'). The self-check is the benign frame that makes the rage acceptable \u2014 the room knows he knows. split_knowledge: everyone shares the",
+  "theories": [
+   "split_knowledge",
+   "benign_violation"
+  ],
+  "comedian": "Bill Burr",
+  "comedian_id": "bill-burr",
+  "comedian_rank": 16,
+  "score": 89.1,
+  "quote_rate": null,
+  "bit_rank": 21
+ },
+ {
+  "bit": "Anger as a love language",
+  "why": "The rage is real even when the bit is craft. The room laughs because they feel it too \u2014 the laugh is the alliance signal. The self-deprecation after the rant is the release valve: the anger was the setup, the self-awaren",
+  "theories": [
+   "split_knowledge",
+   "status_reversal"
+  ],
+  "comedian": "Bill Burr",
+  "comedian_id": "bill-burr",
+  "comedian_rank": 16,
+  "score": 89.1,
+  "quote_rate": null,
+  "bit_rank": 22
+ },
+ {
+  "bit": "The character flood",
+  "why": "A cascade of impressions and voices on a single premise. The room is laughing at the speed and the accuracy, but the flood is also a defense mechanism \u2014 the real feeling arrives in the freeze after the cascade. incongrui",
+  "theories": [
+   "incongruity",
+   "escalation"
+  ],
+  "comedian": "Robin Williams",
+  "comedian_id": "robin-williams",
+  "comedian_rank": 5,
+  "score": 89.0,
+  "quote_rate": null,
+  "bit_rank": 23
+ },
+ {
+  "bit": "The sudden stillness",
+  "why": "After the cascade, he stops. The stillness is where the real thing catches up. The room laughs AND feels \u2014 the dual response is the signature. This is the vulnerability engine: the chaos was buying time for the truth.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Robin Williams",
+  "comedian_id": "robin-williams",
+  "comedian_rank": 5,
+  "score": 89.0,
+  "quote_rate": null,
+  "bit_rank": 24
+ },
+ {
+  "bit": "The intrusive thought",
+  "why": "Shifts from storytelling to live intrusive thought. The 5.32s hold is the second-longest. He never resolves it; the discomfort IS the payload. Awareness of the thought's ugliness is stated before the room can reject it.",
+  "theories": [
+   "benign_violation"
+  ],
+  "comedian": "Louis C.K.",
+  "comedian_id": "louis-ck",
+  "comedian_rank": 10,
+  "score": 88.9,
+  "quote_rate": null,
+  "bit_rank": 25
+ },
+ {
+  "bit": "India for outsiders, outsiders for India",
+  "why": "Translates Indian absurdity for the world and world absurdity for India \u2014 the bridge runs both ways. The accent-switch is the timing device.",
+  "theories": [
+   "bisociation",
+   "persona_gap"
+  ],
+  "comedian": "Vir Das",
+  "comedian_id": "vir-das",
+  "comedian_rank": 22,
+  "score": 88.7,
+  "quote_rate": null,
+  "bit_rank": 26
+ },
+ {
+  "bit": "The social federal case",
+  "why": "Takes a small social error and treats it as a matter of law. rigidify: applies the rules of social life as if they were constitutional law. The room recognizes the anxiety; the polish makes it funny instead of sad.",
+  "theories": [
+   "rigidify",
+   "benign_violation"
+  ],
+  "comedian": "John Mulaney",
+  "comedian_id": "john-mulaney",
+  "comedian_rank": 19,
+  "score": 87.4,
+  "quote_rate": null,
+  "bit_rank": 27
+ },
+ {
+  "bit": "The callback architecture",
+  "why": "A detail from early in the hour returns as the punchline at the end. The room's delayed recognition is the second laugh. repetition_variation: the callback is a variation that recontextualizes the original.",
+  "theories": [
+   "repetition_variation",
+   "two_stories"
+  ],
+  "comedian": "John Mulaney",
+  "comedian_id": "john-mulaney",
+  "comedian_rank": 19,
+  "score": 87.4,
+  "quote_rate": null,
+  "bit_rank": 28
+ },
+ {
+  "bit": "The comedy special as a hostile novel",
+  "why": "Treats the special as a text to be annotated, and the audience as co-readers of a hostile text. The meta-awareness is the material \u2014 the bit is about being a bit.",
+  "theories": [
+   "persona_gap",
+   "split_knowledge"
+  ],
+  "comedian": "Stewart Lee",
+  "comedian_id": "stewart-lee",
+  "comedian_rank": 31,
+  "score": 85.7,
+  "quote_rate": null,
+  "bit_rank": 29
+ },
+ {
+  "bit": "Repetition as a weapon",
+  "why": "Repeats a phrase until it becomes sludge, then uses the sludge as the punch. The room is waiting for the phrase to break, and the break is the laugh.",
+  "theories": [
+   "repetition_variation",
+   "rigidify"
+  ],
+  "comedian": "Stewart Lee",
+  "comedian_id": "stewart-lee",
+  "comedian_rank": 31,
+  "score": 85.7,
+  "quote_rate": null,
+  "bit_rank": 30
+ },
+ {
+  "bit": "Ambition as a love language",
+  "why": "Says she wants to be the breadwinner with the directness of a business plan. The room laughs because the ambition is stated without apology \u2014 the violation is wanting it openly; the benign frame is the obvious love for t",
+  "theories": [
+   "benign_violation",
+   "status_reversal"
+  ],
+  "comedian": "Ali Wong",
+  "comedian_id": "ali-wong",
+  "comedian_rank": 23,
+  "score": 83.8,
+  "quote_rate": null,
+  "bit_rank": 31
+ },
+ {
+  "bit": "The domestic as a war crime",
+  "why": "Treats marriage and motherhood as a battlefield with casualties. The hyperbole is the engine \u2014 every domestic detail escalates to war-crime status. The room recognizes the feeling; the exaggeration makes it funny instead",
+  "theories": [
+   "escalation",
+   "incongruity"
+  ],
+  "comedian": "Ali Wong",
+  "comedian_id": "ali-wong",
+  "comedian_rank": 23,
+  "score": 83.8,
+  "quote_rate": null,
+  "bit_rank": 32
+ },
+ {
+  "bit": "The dirty word as a constitutional question",
+  "why": "Treats every social convention as a coded law, then performs the law's absurdity by breaking it live. The bit is the defense; the trial is the bit. The room is the jury.",
+  "theories": [
+   "literalise",
+   "status_reversal"
+  ],
+  "comedian": "Lenny Bruce",
+  "comedian_id": "lenny-bruce",
+  "comedian_rank": 9,
+  "score": 83.3,
+  "quote_rate": null,
+  "bit_rank": 33
+ },
+ {
+  "bit": "The courtroom as a stage",
+  "why": "Turns obscenity trials into material in real time. The persecution IS the act \u2014 every arrest proves the thesis. The room laughs because the state proved him right.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Lenny Bruce",
+  "comedian_id": "lenny-bruce",
+  "comedian_rank": 9,
+  "score": 83.3,
+  "quote_rate": null,
+  "bit_rank": 34
+ },
+ {
+  "bit": "The small man with big energy",
+  "why": "Height as engine: every story is David-vs-Goliath with himself as David. The physical commitment sells what the writing doesn't have to. Energy IS the bit.",
+  "theories": [
+   "status_reversal",
+   "persona_gap"
+  ],
+  "comedian": "Kevin Hart",
+  "comedian_id": "kevin-hart",
+  "comedian_rank": 17,
+  "score": 83.2,
+  "quote_rate": null,
+  "bit_rank": 35
+ },
+ {
+  "bit": "The arena anecdote",
+  "why": "Family stories scaled to 15,000 seats \u2014 the intimacy performed at stadium volume. The gap between the small story and the huge room is the spectacle.",
+  "theories": [
+   "escalation",
+   "benign_violation"
+  ],
+  "comedian": "Kevin Hart",
+  "comedian_id": "kevin-hart",
+  "comedian_rank": 17,
+  "score": 83.2,
+  "quote_rate": null,
+  "bit_rank": 36
+ },
+ {
+  "bit": "The weather report of doom",
+  "why": "Describes a terrible situation with the calm of a weather forecast. The contrast between content valence (dark) and delivery valence (calm) is the engine \u2014 the room doesn't know how to feel, and the not-knowing is the la",
+  "theories": [
+   "incongruity",
+   "benign_violation"
+  ],
+  "comedian": "Tom Segura",
+  "comedian_id": "tom-segura",
+  "comedian_rank": 30,
+  "score": 83.1,
+  "quote_rate": null,
+  "bit_rank": 37
+ },
+ {
+  "bit": "The moth joke",
+  "why": "The digression BEFORE the punch carries the room into the wrong frame; the punch ('because the light was on') arrives clean, no tag. false_analogy: moth-to-flame, not moth-to-foot.",
+  "theories": [
+   "false_analogy",
+   "garden_path",
+   "bogus_logic"
+  ],
+  "comedian": "Norm Macdonald",
+  "comedian_id": "norm-macdonald",
+  "comedian_rank": 27,
+  "score": 82.3,
+  "quote_rate": null,
+  "bit_rank": 38
+ },
+ {
+  "bit": "The long winding journey",
+  "why": "A 12-minute story told with calm practical tone. 'The progression is completely natural' \u2014 faux-logical escalation, each step reasonable from the last. The punchline is non-negotiable \u2014 the digression SERVES it, never re",
+  "theories": [
+   "bogus_logic",
+   "escalation"
+  ],
+  "comedian": "Norm Macdonald",
+  "comedian_id": "norm-macdonald",
+  "comedian_rank": 27,
+  "score": 82.3,
+  "quote_rate": null,
+  "bit_rank": 39
+ },
+ {
+  "bit": "You might be a redneck",
+  "why": "The list as folk taxonomy \u2014 every line is a recognition test the room takes together. 'You might be' is the gentlest possible roast frame: confessed from inside the group.",
+  "theories": [
+   "repetition_variation",
+   "split_knowledge"
+  ],
+  "comedian": "Jeff Foxworthy",
+  "comedian_id": "jeff-foxworthy",
+  "comedian_rank": 25,
+  "score": 80.0,
+  "quote_rate": null,
+  "bit_rank": 40
+ },
+ {
+  "bit": "Normal life as a mild hazard",
+  "why": "Takes the most mundane modern experience (airports, coffee orders) and treats it as a series of small emergencies. The room has all felt this; he names it with enough urgency to make the shared feeling funny. The wholeso",
+  "theories": [
+   "benign_violation",
+   "incongruity"
+  ],
+  "comedian": "Nate Bargatze",
+  "comedian_id": "nate-bargatze",
+  "comedian_rank": 34,
+  "score": 80.0,
+  "quote_rate": null,
+  "bit_rank": 41
+ },
+ {
+  "bit": "The dad as a confused narrator",
+  "why": "Reports fatherhood with the energy of a man who wandered into it by accident. The gap between the responsibility and the confusion is the joke. The room laughs WITH him because the confusion is honest.",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Nate Bargatze",
+  "comedian_id": "nate-bargatze",
+  "comedian_rank": 34,
+  "score": 80.0,
+  "quote_rate": null,
+  "bit_rank": 42
+ },
+ {
+  "bit": "Therapy as a comic form",
+  "why": "Reports emotional events as case studies in her own psychology, presented like book reports. The clinical frame makes the mess discussable. The room laughs because they've all been in the session.",
+  "theories": [
+   "benign_violation",
+   "split_knowledge"
+  ],
+  "comedian": "Taylor Tomlinson",
+  "comedian_id": "taylor-tomlinson",
+  "comedian_rank": 32,
+  "score": 79.8,
+  "quote_rate": null,
+  "bit_rank": 43
+ },
+ {
+  "bit": "Grief as a tight five",
+  "why": "Takes the heaviest material (loss, depression) and gives it the tightest structure. The economy is the respect \u2014 the grief is honored by the craft, not exploited by it. The freeze on the real thing is where the room feel",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Taylor Tomlinson",
+  "comedian_id": "taylor-tomlinson",
+  "comedian_rank": 32,
+  "score": 79.8,
+  "quote_rate": null,
+  "bit_rank": 44
+ },
+ {
+  "bit": "Innocence as a delivery system",
+  "why": "The toddler voice makes the taboo thought land as a surprise \u2014 the room wasn't braced because the voice said 'safe.' The contrast IS the mechanism. benign_violation at max contrast: violation extreme, benign frame total ",
+  "theories": [
+   "benign_violation",
+   "incongruity"
+  ],
+  "comedian": "Sarah Silverman",
+  "comedian_id": "sarah-silverman",
+  "comedian_rank": 26,
+  "score": 79.7,
+  "quote_rate": null,
+  "bit_rank": 45
+ },
+ {
+  "bit": "The shock as a door",
+  "why": "The shock opens the room; the heart walks through. After the detonation, the real feeling arrives \u2014 and the room is open because the shock broke the defenses. The two-beat structure (shock \u2192 heart) is the signature.",
+  "theories": [
+   "two_stories",
+   "persona_gap"
+  ],
+  "comedian": "Sarah Silverman",
+  "comedian_id": "sarah-silverman",
+  "comedian_rank": 26,
+  "score": 79.7,
+  "quote_rate": null,
+  "bit_rank": 46
+ },
+ {
+  "bit": "The palindromes and charts",
+  "why": "Visual aids as punchlines \u2014 the chart IS the joke, not illustration. The room laughs at the rigor AND the silliness simultaneously. Precision as a comic position.",
+  "theories": [
+   "literalise",
+   "bisociation"
+  ],
+  "comedian": "Demetri Martin",
+  "comedian_id": "demetri-martin",
+  "comedian_rank": 33,
+  "score": 79.4,
+  "quote_rate": null,
+  "bit_rank": 47
+ },
+ {
+  "bit": "The Machine story",
+  "why": "A true(ish) story of a bad decision escalated to mythic proportions. The room knows it's exaggerated; the exaggeration IS the joke. escalation + repetition_variation: each telling adds a detail, the myth grows, the truth",
+  "theories": [
+   "escalation",
+   "repetition_variation"
+  ],
+  "comedian": "Bert Kreischer",
+  "comedian_id": "bert-kreischer",
+  "comedian_rank": 35,
+  "score": 78.1,
+  "quote_rate": null,
+  "bit_rank": 48
+ },
+ {
+  "bit": "The shirtless truth",
+  "why": "The shirtless delivery is a status move: he's so comfortable in his mess that he's literally exposed. The body is the benign frame that makes the violations (bad decisions, chaos) acceptable. status_reversal: the man-chi",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Bert Kreischer",
+  "comedian_id": "bert-kreischer",
+  "comedian_rank": 35,
+  "score": 78.1,
+  "quote_rate": null,
+  "bit_rank": 49
+ },
+ {
+  "bit": "Tater Salad aftermath",
+  "why": "The arrest story told like a war medal ceremony. Drunk wisdom delivered sober \u2014 the gap between the teller (composed) and the tale (chaos) is the engine.",
+  "theories": [
+   "storytelling",
+   "persona_gap"
+  ],
+  "comedian": "Ron White",
+  "comedian_id": "ron-white",
+  "comedian_rank": 40,
+  "score": 76.7,
+  "quote_rate": null,
+  "bit_rank": 50
+ },
+ {
+  "bit": "Can we talk? (the dressed insult)",
+  "why": "Opens with faux-intimacy, then delivers the surgical insult in couture. The glamour is the benign frame; the cruelty is precise, never sloppy. The room laughs at the annotation AND the audacity.",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Joan Rivers",
+  "comedian_id": "joan-rivers",
+  "comedian_rank": 12,
+  "score": 75.7,
+  "quote_rate": null,
+  "bit_rank": 51
+ },
+ {
+  "bit": "Age as a battlefield",
+  "why": "Turns her own face/life into the primary text, annotated live. Self-targeting first buys the license to target everyone else. The workaholism is the engine; the stage is where it pays.",
+  "theories": [
+   "split_knowledge",
+   "status_reversal"
+  ],
+  "comedian": "Joan Rivers",
+  "comedian_id": "joan-rivers",
+  "comedian_rank": 12,
+  "score": 75.7,
+  "quote_rate": null,
+  "bit_rank": 52
+ },
+ {
+  "bit": "Somebody gonna get a hurt real bad",
+  "why": "The dad-voice catchphrase that became a global meme before memes. Becomes every ethnicity in the room \u2014 the accuracy disarms the audacity. Post-racial by way of pre-racial.",
+  "theories": [
+   "persona_gap",
+   "benign_violation"
+  ],
+  "comedian": "Russell Peters",
+  "comedian_id": "russell-peters",
+  "comedian_rank": 36,
+  "score": 75.7,
+  "quote_rate": null,
+  "bit_rank": 53
+ },
+ {
+  "bit": "Pop culture as scripture",
+  "why": "Treats franchises with theological seriousness, then finds the human truth inside. Star Wars theory that ends in grief counseling. The reference is the door; the heart is the room.",
+  "theories": [
+   "bisociation",
+   "persona_gap"
+  ],
+  "comedian": "Patton Oswalt",
+  "comedian_id": "patton-oswalt",
+  "comedian_rank": 28,
+  "score": 75.4,
+  "quote_rate": null,
+  "bit_rank": 54
+ },
+ {
+  "bit": "Impossible objects",
+  "why": "Reports objects with impossible properties as fact ('I have a map of the United States... actual size'). The deadpan is the benign frame; the half-second of belief is the joke. Literalise at max.",
+  "theories": [
+   "literalise",
+   "incongruity"
+  ],
+  "comedian": "Steven Wright",
+  "comedian_id": "steven-wright",
+  "comedian_rank": 13,
+  "score": 75.3,
+  "quote_rate": null,
+  "bit_rank": 55
+ },
+ {
+  "bit": "The news as a comedy writers' room",
+  "why": "Treats every headline as a joke the culture is already telling, and reads it back in a friendly voice. The room laughs because the absurdity was already there \u2014 he just said it out loud. The grin is the benign frame.",
+  "theories": [
+   "benign_violation",
+   "status_reversal"
+  ],
+  "comedian": "Michael Che",
+  "comedian_id": "michael-che",
+  "comedian_rank": 41,
+  "score": 75.2,
+  "quote_rate": null,
+  "bit_rank": 56
+ },
+ {
+  "bit": "The dangerous thing in a friendly voice",
+  "why": "The contrast between content (dangerous) and delivery (friendly) is the engine. The room doesn't know how to feel, and the not-knowing is the laugh. The shrug after says 'I just work here.'",
+  "theories": [
+   "incongruity",
+   "benign_violation"
+  ],
+  "comedian": "Michael Che",
+  "comedian_id": "michael-che",
+  "comedian_rank": 41,
+  "score": 75.2,
+  "quote_rate": null,
+  "bit_rank": 57
+ },
+ {
+  "bit": "The self-own ladder",
+  "why": "Each setup ends in another self-own, each self-own is lower than the last. The room laughs at the descent. status_reversal: the man who loses everything can say anything.",
+  "theories": [
+   "status_reversal",
+   "escalation"
+  ],
+  "comedian": "Rodney Dangerfield",
+  "comedian_id": "rodney-dangerfield",
+  "comedian_rank": 14,
+  "score": 74.9,
+  "quote_rate": null,
+  "bit_rank": 58
+ },
+ {
+  "bit": "'No respect' as a cosmology",
+  "why": "The catchphrase is not a tag \u2014 it's an ontology. The whole act is organized around the fact that he gets no respect. The room recognizes the feeling; the exaggeration makes it funny instead of sad.",
+  "theories": [
+   "rigidify",
+   "benign_violation"
+  ],
+  "comedian": "Rodney Dangerfield",
+  "comedian_id": "rodney-dangerfield",
+  "comedian_rank": 14,
+  "score": 74.9,
+  "quote_rate": null,
+  "bit_rank": 59
+ },
+ {
+  "bit": "New Rules as verdicts",
+  "why": "Treats weekly pieties as defendants, delivers verdicts with total certainty. The research is the weapon; the smugness is the delivery system. The room laughs at the sentence being passed.",
+  "theories": [
+   "rigidify",
+   "status_reversal"
+  ],
+  "comedian": "Bill Maher",
+  "comedian_id": "bill-maher",
+  "comedian_rank": 15,
+  "score": 74.5,
+  "quote_rate": null,
+  "bit_rank": 60
+ },
+ {
+  "bit": "Elder Millennial autopsy",
+  "why": "Dissects her own generation's rituals (weddings, Instagram, dating) with anthropologist energy + party-girl characters. The double position (inside AND above it) is the engine.",
+  "theories": [
+   "status_reversal",
+   "persona_gap"
+  ],
+  "comedian": "Iliza Shlesinger",
+  "comedian_id": "iliza-shlesinger",
+  "comedian_rank": 42,
+  "score": 74.4,
+  "quote_rate": null,
+  "bit_rank": 61
+ },
+ {
+  "bit": "Modernity as a bad houseguest",
+  "why": "Treats every innovation as a personal insult to the order of things. The curmudgeonry is warm \u2014 he loves the world he's yelling at. The sprawl IS the form; editing would kill it.",
+  "theories": [
+   "rigidify",
+   "persona_gap"
+  ],
+  "comedian": "Dylan Moran",
+  "comedian_id": "dylan-moran",
+  "comedian_rank": 43,
+  "score": 73.0,
+  "quote_rate": null,
+  "bit_rank": 62
+ },
+ {
+  "bit": "The Pimp Chronicles sermon",
+  "why": "Street knowledge delivered with rhetorical genius \u2014 every anecdote has a moral, every moral has a laugh. The pimp persona is the benign frame for genuinely radical observation.",
+  "theories": [
+   "status_reversal",
+   "persona_gap"
+  ],
+  "comedian": "Katt Williams",
+  "comedian_id": "katt-williams",
+  "comedian_rank": 44,
+  "score": 72.6,
+  "quote_rate": null,
+  "bit_rank": 63
+ },
+ {
+  "bit": "Marriage as a complaint department",
+  "why": "Reports domestic life as a series of small defeats he walked into with eyes open. The room recognizes the dynamic before the joke \u2014 recognition IS the laugh. Everybody loves Raymond because everybody IS Raymond.",
+  "theories": [
+   "benign_violation",
+   "split_knowledge"
+  ],
+  "comedian": "Ray Romano",
+  "comedian_id": "ray-romano",
+  "comedian_rank": 20,
+  "score": 72.5,
+  "quote_rate": null,
+  "bit_rank": 64
+ },
+ {
+  "bit": "The shaggy story sermon",
+  "why": "Ten-minute stories that earn every laugh twice \u2014 once for the telling, once for the landing. The warmth is the benign frame for genuinely filthy content. The Big Yin energy makes rudeness feel like love.",
+  "theories": [
+   "storytelling",
+   "persona_gap"
+  ],
+  "comedian": "Billy Connolly",
+  "comedian_id": "billy-connolly",
+  "comedian_rank": 21,
+  "score": 72.2,
+  "quote_rate": null,
+  "bit_rank": 65
+ },
+ {
+  "bit": "The food voice",
+  "why": "Treats food opinions with religious intensity. The gap between stakes (low) and passion (total) is the joke. Raaaandy-level commitment to the bit about nothing.",
+  "theories": [
+   "escalation",
+   "incongruity"
+  ],
+  "comedian": "Aziz Ansari",
+  "comedian_id": "aziz-ansari",
+  "comedian_rank": 37,
+  "score": 71.9,
+  "quote_rate": null,
+  "bit_rank": 66
+ },
+ {
+  "bit": "The calm indictment",
+  "why": "Made white rooms laugh at their own racism in the 1960s \u2014 the most dangerous room-work ever attempted. The facts do the violating; the calm provides the benign frame. Nobody else could have survived the rooms he played.",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Dick Gregory",
+  "comedian_id": "dick-gregory",
+  "comedian_rank": 24,
+  "score": 71.0,
+  "quote_rate": null,
+  "bit_rank": 67
+ },
+ {
+  "bit": "The one-liner as haiku with a trapdoor",
+  "why": "Short setup, short punch, no fat. Every word pays rent. The restart is the timing device \u2014 the room is still laughing when the next one arrives.",
+  "theories": [
+   "two_stories"
+  ],
+  "comedian": "Steven Wright",
+  "comedian_id": "steven-wright",
+  "comedian_rank": 13,
+  "score": 70.3,
+  "quote_rate": null,
+  "bit_rank": 68
+ },
+ {
+  "bit": "The Chanukah Song as Trojan horse",
+  "why": "A silly list song that smuggles genuine belonging to Jewish kids who'd never heard themselves in pop culture. The joke is the delivery system; the inclusion is the payload.",
+  "theories": [
+   "persona_gap",
+   "split_knowledge"
+  ],
+  "comedian": "Adam Sandler",
+  "comedian_id": "adam-sandler",
+  "comedian_rank": 29,
+  "score": 69.0,
+  "quote_rate": null,
+  "bit_rank": 69
+ },
+ {
+  "bit": "The full-body mundane",
+  "why": "Becomes the thing he's describing with total physical commitment. Clean as doctrine: no shock available, so the observation must be perfect. The face IS the punchline.",
+  "theories": [
+   "literalise",
+   "incongruity"
+  ],
+  "comedian": "Brian Regan",
+  "comedian_id": "brian-regan",
+  "comedian_rank": 48,
+  "score": 67.5,
+  "quote_rate": null,
+  "bit_rank": 70
+ },
+ {
+  "bit": "Says the impolite thing with vodka confidence. The bluntness",
+  "why": "Says the impolite thing with vodka confidence. The bluntness is the brand; the privilege is the target she includes herself in.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Chelsea Handler",
+  "comedian_id": "chelsea-handler",
+  "comedian_rank": 50,
+  "score": 66.8,
+  "quote_rate": null,
+  "bit_rank": 71
+ },
+ {
+  "bit": "Conan-writer precision with silky delivery. The absurdism ar",
+  "why": "Conan-writer precision with silky delivery. The absurdism arrives so smoothly the room laughs a beat late.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Deon Cole",
+  "comedian_id": "deon-cole",
+  "comedian_rank": 51,
+  "score": 66.3,
+  "quote_rate": null,
+  "bit_rank": 72
+ },
+ {
+  "bit": "Rothaniel confessional",
+  "why": "Came out on stage in real time with no jokes as shield. The bravest hour in modern comedy \u2014 vulnerability with zero punchline protection. The room didn't laugh; it witnessed. Then it laughed.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Jerrod Carmichael",
+  "comedian_id": "jerrod-carmichael",
+  "comedian_rank": 53,
+  "score": 65.6,
+  "quote_rate": null,
+  "bit_rank": 73
+ },
+ {
+  "bit": "The object with a secret life",
+  "why": "Treats a normal object as having hidden properties and reports them with total sincerity. literalize: the object literally has the property he describes. The deadpan delivery is the benign frame \u2014 the room believes him f",
+  "theories": [
+   "literalise",
+   "incongruity"
+  ],
+  "comedian": "Mitch Hedberg",
+  "comedian_id": "mitch-hedberg",
+  "comedian_rank": 38,
+  "score": 65.4,
+  "quote_rate": null,
+  "bit_rank": 74
+ },
+ {
+  "bit": "The finger-shake indictment",
+  "why": "Takes a news absurdity and performs a man having a stroke about it. The apoplexy is choreographed \u2014 every sputter placed. The room laughs at the performance of losing it, safely.",
+  "theories": [
+   "escalation",
+   "status_reversal"
+  ],
+  "comedian": "Lewis Black",
+  "comedian_id": "lewis-black",
+  "comedian_rank": 39,
+  "score": 65.0,
+  "quote_rate": null,
+  "bit_rank": 75
+ },
+ {
+  "bit": "Posh vs lad split",
+  "why": "Performs the war between upbringing and appetite. The room laughs at the posh delivery of unposh content \u2014 the contrast never gets old because the commitment never wavers.",
+  "theories": [
+   "persona_gap",
+   "status_reversal"
+  ],
+  "comedian": "Jack Whitehall",
+  "comedian_id": "jack-whitehall",
+  "comedian_rank": 57,
+  "score": 63.9,
+  "quote_rate": null,
+  "bit_rank": 76
+ },
+ {
+  "bit": "The airport as a philosophy course",
+  "why": "Takes the most mundane modern experience (airport) and treats it as a series of small emergencies. The room has all felt this; he names it with enough urgency to make the shared feeling funny. status_reversal: the powerf",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Joe List",
+  "comedian_id": "joe-list",
+  "comedian_rank": 59,
+  "score": 63.2,
+  "quote_rate": null,
+  "bit_rank": 77
+ },
+ {
+  "bit": "Health anxiety as a comic form",
+  "why": "Reports bodily sensations with the gravity of a medical drama. The gap between the severity of the telling and the triviality of the event is the joke. garden_path: the room thinks it's a medical story, it's actually a c",
+  "theories": [
+   "garden_path",
+   "benign_violation"
+  ],
+  "comedian": "Joe List",
+  "comedian_id": "joe-list",
+  "comedian_rank": 59,
+  "score": 63.2,
+  "quote_rate": null,
+  "bit_rank": 78
+ },
+ {
+  "bit": "Under Rated survivor stories",
+  "why": "Hood anecdotes told with survivor's pride and comedian's timing. The room gets the tour of a world they don't know, guided by someone who loves it. Authenticity as engine.",
+  "theories": [
+   "storytelling",
+   "persona_gap"
+  ],
+  "comedian": "Mike Epps",
+  "comedian_id": "mike-epps",
+  "comedian_rank": 61,
+  "score": 62.4,
+  "quote_rate": null,
+  "bit_rank": 79
+ },
+ {
+  "bit": "Original Kings anchor",
+  "why": "Original Kings anchor: race, politics, and family with veteran polish. The anchor slot Das proof of reliability.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "D L Hughley",
+  "comedian_id": "d-l-hughley",
+  "comedian_rank": 46,
+  "score": 62.3,
+  "quote_rate": null,
+  "bit_rank": 80
+ },
+ {
+  "bit": "Awkward as weapon",
+  "why": "Performs discomfort so precisely the room feels it physically. The irony has layers \u2014 is he awkward, playing awkward, or playing someone playing awkward? The unresolvability IS the bit.",
+  "theories": [
+   "persona_gap",
+   "garden_path"
+  ],
+  "comedian": "Donald Glover",
+  "comedian_id": "donald-glover",
+  "comedian_rank": 52,
+  "score": 62.0,
+  "quote_rate": null,
+  "bit_rank": 81
+ },
+ {
+  "bit": "Tough Crowd constitutional",
+  "why": "Tough Crowd constitutional: working-class intellectualism delivered standing up. The barstool is the pulpit.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Colin Quinn",
+  "comedian_id": "colin-quinn",
+  "comedian_rank": 47,
+  "score": 61.9,
+  "quote_rate": null,
+  "bit_rank": 82
+ },
+ {
+  "bit": "The self as a cast",
+  "why": "Gives each internal voice a distinct character. The room laughs at the accuracy of the voices AND feels the reality of the chorus. The character is the benign frame; the illness is the content. The meeting of the voices ",
+  "theories": [
+   "persona_gap",
+   "benign_violation"
+  ],
+  "comedian": "Maria Bamford",
+  "comedian_id": "maria-bamford",
+  "comedian_rank": 80,
+  "score": 61.4,
+  "quote_rate": null,
+  "bit_rank": 83
+ },
+ {
+  "bit": "The ad in the head",
+  "why": "Performs the intrusive commercial jingle voice that lives in everyone's head. The room recognizes the voice before they recognize the joke \u2014 the recognition IS the laugh. The specificity of the voice is the craft.",
+  "theories": [
+   "incongruity",
+   "split_knowledge"
+  ],
+  "comedian": "Maria Bamford",
+  "comedian_id": "maria-bamford",
+  "comedian_rank": 80,
+  "score": 61.4,
+  "quote_rate": null,
+  "bit_rank": 84
+ },
+ {
+  "bit": "The one-liner as a haiku with a trapdoor",
+  "why": "Short setup, short punch, no fat. The economy is the craft \u2014 every word pays rent. The restart is the timing device: the room is still laughing when the next one arrives, and the overlap is the form.",
+  "theories": [
+   "two_stories"
+  ],
+  "comedian": "Mitch Hedberg",
+  "comedian_id": "mitch-hedberg",
+  "comedian_rank": 38,
+  "score": 60.4,
+  "quote_rate": null,
+  "bit_rank": 85
+ },
+ {
+  "bit": "Empire politeness autopsy",
+  "why": "Dissects British-Malaysian identity with exquisite manners and a knife. The courtesy makes the cuts land deeper \u2014 you don't see them coming.",
+  "theories": [
+   "garden_path",
+   "status_reversal"
+  ],
+  "comedian": "Phil Wang",
+  "comedian_id": "phil-wang",
+  "comedian_rank": 69,
+  "score": 59.3,
+  "quote_rate": null,
+  "bit_rank": 86
+ },
+ {
+  "bit": "The flat verdict",
+  "why": "States the obvious truth about race, marriage, politics with total flatness. No escalation needed \u2014 the truth stated plainly IS the punch. The eye-roll does the work of ten tags.",
+  "theories": [
+   "rigidify",
+   "status_reversal"
+  ],
+  "comedian": "Wanda Sykes",
+  "comedian_id": "wanda-sykes",
+  "comedian_rank": 54,
+  "score": 59.1,
+  "quote_rate": null,
+  "bit_rank": 87
+ },
+ {
+  "bit": "3 in the Morning excavation",
+  "why": "Late-night honesty about race, relationships, and self \u2014 delivered like texts to a friend. The intimacy is the engine; the flatness is the trust mechanism.",
+  "theories": [
+   "benign_violation",
+   "split_knowledge"
+  ],
+  "comedian": "Sam Jay",
+  "comedian_id": "sam-jay",
+  "comedian_rank": 70,
+  "score": 58.8,
+  "quote_rate": null,
+  "bit_rank": 88
+ },
+ {
+  "bit": "The dry anecdote",
+  "why": "Tells wild stories with zero affect \u2014 the gap between content (insane) and delivery (bored) is the whole joke. The withheld energy makes the room lean in.",
+  "theories": [
+   "incongruity",
+   "garden_path"
+  ],
+  "comedian": "Sam Morril",
+  "comedian_id": "sam-morril",
+  "comedian_rank": 71,
+  "score": 58.5,
+  "quote_rate": null,
+  "bit_rank": 89
+ },
+ {
+  "bit": "The quietly insane detail",
+  "why": "Reports a normal situation with one detail that's quietly insane, without comment. The room does the work \u2014 the flat delivery is the trust mechanism. The detail is the joke; the flatness is the delivery system.",
+  "theories": [
+   "literalise",
+   "incongruity"
+  ],
+  "comedian": "Hannibal Buress",
+  "comedian_id": "hannibal-buress",
+  "comedian_rank": 78,
+  "score": 57.7,
+  "quote_rate": null,
+  "bit_rank": 90
+ },
+ {
+  "bit": "How to medical",
+  "why": "Lip-syncing Trump suggesting disinfectant, deadpan. The verbatim reproduction is the whole joke \u2014 no commentary needed when the source material convicts itself.",
+  "theories": [
+   "literalise",
+   "persona_gap"
+  ],
+  "comedian": "Sarah Cooper",
+  "comedian_id": "sarah-cooper",
+  "comedian_rank": 73,
+  "score": 57.7,
+  "quote_rate": null,
+  "bit_rank": 91
+ },
+ {
+  "bit": "DysFunktional Family values",
+  "why": "DysFunktional Family values: chaos narrated with love. The family IS the material and the wound.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Eddie Griffin",
+  "comedian_id": "eddie-griffin",
+  "comedian_rank": 63,
+  "score": 57.6,
+  "quote_rate": null,
+  "bit_rank": 92
+ },
+ {
+  "bit": "Bread and marriage",
+  "why": "Finds existential dread in carbs and commitment, delivered with a smile. The gap between the sunny delivery and the spiraling content is the engine.",
+  "theories": [
+   "benign_violation",
+   "incongruity"
+  ],
+  "comedian": "Tom Papa",
+  "comedian_id": "tom-papa",
+  "comedian_rank": 74,
+  "score": 57.3,
+  "quote_rate": null,
+  "bit_rank": 93
+ },
+ {
+  "bit": "The social lie as an enemy",
+  "why": "Treats every social lie as a challenge, then follows it until the room confesses. The room laughs because the lie is exposed AND because the exposure is done with love. The bully is the benign frame.",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Patrice O Neal",
+  "comedian_id": "patrice-o-neal",
+  "comedian_rank": 64,
+  "score": 57.2,
+  "quote_rate": null,
+  "bit_rank": 94
+ },
+ {
+  "bit": "Codependency autopsy",
+  "why": "Reverse-engineers her own relationships like systems with bugs. The engineer brain on dating chaos \u2014 flowcharts optional, fury mandatory. Smart women recognize the debugger.",
+  "theories": [
+   "rigidify",
+   "persona_gap"
+  ],
+  "comedian": "Whitney Cummings",
+  "comedian_id": "whitney-cummings",
+  "comedian_rank": 76,
+  "score": 56.5,
+  "quote_rate": null,
+  "bit_rank": 95
+ },
+ {
+  "bit": "Girl-you-know voice delivering the least girl-next-door cont",
+  "why": "Girl-you-know voice delivering the least girl-next-door content. The contrast between delivery (rom-com) and content (filthy) is the engine.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Amy Schumer",
+  "comedian_id": "amy-schumer",
+  "comedian_rank": 65,
+  "score": 54.8,
+  "quote_rate": null,
+  "bit_rank": 96
+ },
+ {
+  "bit": "Kings-of-Comedy polish",
+  "why": "Kings-of-Comedy polish: every story lands clean, every character voiced. The smoothness IS the craft \u2014 no rough edges by design.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Cedric The Entertainer",
+  "comedian_id": "cedric-the-entertainer",
+  "comedian_rank": 68,
+  "score": 53.7,
+  "quote_rate": null,
+  "bit_rank": 97
+ },
+ {
+  "bit": "Hello, I have cancer",
+  "why": "Opened with the diagnosis, no preamble. The bravest cold open ever \u2014 the room didn't know whether to laugh, and that not-knowing became the most famous set of the decade.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Tig Notaro",
+  "comedian_id": "tig-notaro",
+  "comedian_rank": 72,
+  "score": 52.1,
+  "quote_rate": null,
+  "bit_rank": 98
+ },
+ {
+  "bit": "The race verdict",
+  "why": "States Hollywood's racial truth baldly from forty years inside the rooms. The authority is the engine \u2014 he was there. Negrodamus sees.",
+  "theories": [
+   "status_reversal",
+   "split_knowledge"
+  ],
+  "comedian": "Paul Mooney",
+  "comedian_id": "paul-mooney",
+  "comedian_rank": 77,
+  "score": 50.1,
+  "quote_rate": null,
+  "bit_rank": 99
+ },
+ {
+  "bit": "Mr. Show brain applied to standup",
+  "why": "Mr. Show brain applied to standup: hates everything including himself for hating it. The contrarianism has footnotes.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "David Cross",
+  "comedian_id": "david-cross",
+  "comedian_rank": 79,
+  "score": 49.3,
+  "quote_rate": null,
+  "bit_rank": 100
+ },
+ {
+  "bit": "Midwest Catholic autopsy",
+  "why": "Dissects family, faith, and drinking with insider precision. The room trusts her because she's clearly from the world she's roasting. Authenticity as armor.",
+  "theories": [
+   "split_knowledge",
+   "benign_violation"
+  ],
+  "comedian": "Kathleen Madigan",
+  "comedian_id": "kathleen-madigan",
+  "comedian_rank": 89,
+  "score": 47.4,
+  "quote_rate": null,
+  "bit_rank": 101
+ },
+ {
+  "bit": "Church Lady and 100 voices",
+  "why": "Church Lady and 100 voices: the most technically gifted mimic of the SNL era. Impressions as both bit and delivery system.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Dana Carvey",
+  "comedian_id": "dana-carvey",
+  "comedian_rank": 87,
+  "score": 46.2,
+  "quote_rate": null,
+  "bit_rank": 102
+ },
+ {
+  "bit": "Crowd work as co-writing",
+  "why": "Takes a crowd member's response and turns it into a bit in real time. The room is both the material and the audience \u2014 the meta-awareness is part of the joke. split_knowledge: everyone knows the content engine is running",
+  "theories": [
+   "split_knowledge",
+   "status_reversal"
+  ],
+  "comedian": "Andrew Schulz",
+  "comedian_id": "andrew-schulz",
+  "comedian_rank": 100,
+  "score": 41.1,
+  "quote_rate": null,
+  "bit_rank": 103
+ },
+ {
+  "bit": "Story A builds sympathy; the punch reveals story B (he's wor",
+  "why": "Story A builds sympathy; the punch reveals story B (he's worse). The turn has no tell \u2014 flatness IS the misdirection.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Anthony Jeselnik",
+  "comedian_id": "anthony-jeselnik",
+  "comedian_rank": 103,
+  "score": 39.9,
+  "quote_rate": null,
+  "bit_rank": 104
+ },
+ {
+  "bit": "The everyday fight",
+  "why": "Takes a normal annoyance and treats it as a fight he's going to win on volume and commitment alone. The room is drawn into the fight because the energy is contagious. status_reversal: the person who was losing (to the si",
+  "theories": [
+   "status_reversal",
+   "benign_violation"
+  ],
+  "comedian": "Cam Patterson",
+  "comedian_id": "cam-patterson",
+  "comedian_rank": 110,
+  "score": 37.2,
+  "quote_rate": null,
+  "bit_rank": 105
+ },
+ {
+  "bit": "The strange image cascade",
+  "why": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to whe",
+  "theories": [
+   "incongruity",
+   "benign_violation"
+  ],
+  "comedian": "Casey Rocket",
+  "comedian_id": "casey-rocket",
+  "comedian_rank": 111,
+  "score": 36.7,
+  "quote_rate": null,
+  "bit_rank": 106
+ },
+ {
+  "bit": "Performs the guy every woman has met \u2014 total confidence, zer",
+  "why": "Performs the guy every woman has met \u2014 total confidence, zero self-awareness. The commitment to the creep is the comedy.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Chris D Elia",
+  "comedian_id": "chris-d-elia",
+  "comedian_rank": 113,
+  "score": 36.0,
+  "quote_rate": null,
+  "bit_rank": 107
+ },
+ {
+  "bit": "Career Suicide honesty",
+  "why": "Career Suicide honesty: depression, failure, and hope performed with traveler energy. The vulnerability has a passport.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Chris Gethard",
+  "comedian_id": "chris-gethard",
+  "comedian_rank": 114,
+  "score": 35.5,
+  "quote_rate": null,
+  "bit_rank": 108
+ },
+ {
+  "bit": "Rush Hour energy applied to standup",
+  "why": "Rush Hour energy applied to standup: 100mph anecdotes with voices for everyone. Speed IS the joke \u2014 nobody else talks that fast that funny.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Chris Tucker",
+  "comedian_id": "chris-tucker",
+  "comedian_rank": 115,
+  "score": 35.2,
+  "quote_rate": null,
+  "bit_rank": 109
+ },
+ {
+  "bit": "Tore up the talk-show format nightly \u2014 no guests, puppets, c",
+  "why": "Tore up the talk-show format nightly \u2014 no guests, puppets, cold opens. The format-breaking IS the comedy.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Craig Ferguson",
+  "comedian_id": "craig-ferguson",
+  "comedian_rank": 117,
+  "score": 34.4,
+  "quote_rate": null,
+  "bit_rank": 110
+ },
+ {
+  "bit": "Buffalo Catholic energy",
+  "why": "Buffalo Catholic energy: porn, parents, and bodily functions with lovable-dirttbag charm. The likability disarms the filth.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Dan Soder",
+  "comedian_id": "dan-soder",
+  "comedian_rank": 119,
+  "score": 33.6,
+  "quote_rate": null,
+  "bit_rank": 111
+ },
+ {
+  "bit": "Booty Call to Power",
+  "why": "Booty Call to Power: street wisdom with comic timing. The philosophy arrives in jokes the street already told.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Deray Davis",
+  "comedian_id": "deray-davis",
+  "comedian_rank": 122,
+  "score": 32.4,
+  "quote_rate": null,
+  "bit_rank": 112
+ },
+ {
+  "bit": "The self as a bad tour guide",
+  "why": "Reports his own confusion with the energy of a tour guide who's lost the group. The room laughs at the accuracy of the confusion \u2014 they've all been the bad tour guide of their own brain.",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "comedian": "Emo Philips",
+  "comedian_id": "emo-philips",
+  "comedian_rank": 124,
+  "score": 31.6,
+  "quote_rate": null,
+  "bit_rank": 113
+ },
+ {
+  "bit": "The ordinary as a cathedral",
+  "why": "Looks at an ordinary thing long enough that it becomes beautiful. The room laughs AND feels \u2014 the dual response is the signature. The craft is the delivery system: the observation is too precise to be accidental.",
+  "theories": [
+   "incongruity",
+   "persona_gap"
+  ],
+  "comedian": "Gary Gulman",
+  "comedian_id": "gary-gulman",
+  "comedian_rank": 130,
+  "score": 29.2,
+  "quote_rate": null,
+  "bit_rank": 114
+ },
+ {
+  "bit": "The punchline as a window",
+  "why": "The punch doesn't close the bit \u2014 it opens it. The room sees through the joke to something real. The economy is the respect: every word pays rent, and the rent is the feeling.",
+  "theories": [
+   "two_stories",
+   "benign_violation"
+  ],
+  "comedian": "Gary Gulman",
+  "comedian_id": "gary-gulman",
+  "comedian_rank": 130,
+  "score": 29.2,
+  "quote_rate": null,
+  "bit_rank": 115
+ },
+ {
+  "bit": "The cultural claim as a witness",
+  "why": "Treats every cultural claim as a witness with something to hide, then cross-examines it until it confesses. The room is the jury. The logic is airtight; the conclusion is devastating.",
+  "theories": [
+   "rigidify",
+   "bogus_logic"
+  ],
+  "comedian": "Greg Giraldo",
+  "comedian_id": "greg-giraldo",
+  "comedian_rank": 133,
+  "score": 28.1,
+  "quote_rate": null,
+  "bit_rank": 116
+ },
+ {
+  "bit": "America as a strange customs office",
+  "why": "Describes a normal American ritual with the precision of someone who wasn't raised in it. literalize: treats the ritual as if it were literally as strange as it sounds when described fresh. The room recognizes the absurd",
+  "theories": [
+   "literalise",
+   "incongruity"
+  ],
+  "comedian": "Hans Kim",
+  "comedian_id": "hans-kim",
+  "comedian_rank": 134,
+  "score": 27.7,
+  "quote_rate": null,
+  "bit_rank": 117
+ },
+ {
+  "bit": "The absurd premise as a legal case",
+  "why": "Starts with a stupid observation, then builds a complete logical framework around it as if it were a matter of law. The room is drawn into the logic before they notice they're in an absurd world. rigidify: every step fol",
+  "theories": [
+   "rigidify",
+   "bogus_logic"
+  ],
+  "comedian": "James Acaster",
+  "comedian_id": "james-acaster",
+  "comedian_rank": 137,
+  "score": 26.5,
+  "quote_rate": null,
+  "bit_rank": 118
+ },
+ {
+  "bit": "The callback architecture",
+  "why": "A detail from 10 minutes ago returns as the punchline. The room's delayed recognition ('OH \u2014 that was the joke all along') is the second laugh. repetition_variation: the callback is a variation that recontextualizes the ",
+  "theories": [
+   "repetition_variation",
+   "two_stories"
+  ],
+  "comedian": "James Acaster",
+  "comedian_id": "james-acaster",
+  "comedian_rank": 137,
+  "score": 26.5,
+  "quote_rate": null,
+  "bit_rank": 119
+ },
+ {
+  "bit": "The dark turn on a normal premise",
+  "why": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with ",
+  "theories": [
+   "two_stories",
+   "benign_violation"
+  ],
+  "comedian": "Jimmy Carr",
+  "comedian_id": "jimmy-carr",
+  "comedian_rank": 139,
+  "score": 25.8,
+  "quote_rate": null,
+  "bit_rank": 120
+ },
+ {
+  "bit": "Self-aware shock comedy",
+  "why": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
+  "theories": [
+   "split_knowledge",
+   "benign_violation"
+  ],
+  "comedian": "Jimmy Carr",
+  "comedian_id": "jimmy-carr",
+  "comedian_rank": 139,
+  "score": 25.8,
+  "quote_rate": null,
+  "bit_rank": 121
+ },
+ {
+  "bit": "The joke as a live animal",
+  "why": "Tests the premise live, reads the reaction, commits or flips. The room is watching the process AND the product \u2014 the transparency is the charm. The flip (when it works) is funnier than the original because the room saw t",
+  "theories": [
+   "garden_path",
+   "benign_violation"
+  ],
+  "comedian": "Mark Normand",
+  "comedian_id": "mark-normand",
+  "comedian_rank": 149,
+  "score": 21.8,
+  "quote_rate": null,
+  "bit_rank": 122
+ },
+ {
+  "bit": "The flip as a first-class move",
+  "why": "When the jealous-angle stalls, flip to the opposite stance. The room laughs at the audacity of the flip as much as the new angle. The process is visible; the visibility is the trust mechanism.",
+  "theories": [
+   "status_reversal",
+   "incongruity"
+  ],
+  "comedian": "Mark Normand",
+  "comedian_id": "mark-normand",
+  "comedian_rank": 149,
+  "score": 21.8,
+  "quote_rate": null,
+  "bit_rank": 123
+ },
+ {
+  "bit": "Apps as metaphysics",
+  "why": "Treats DoorDash/Uber/etc. as literal cosmological systems, not services. literalize: the app's incentives ARE the laws of physics in this universe. The room recognizes the truth of the metaphor before they recognize the ",
+  "theories": [
+   "literalise",
+   "incongruity"
+  ],
+  "comedian": "Matt McCusker",
+  "comedian_id": "matt-mccusker",
+  "comedian_rank": 151,
+  "score": 21.0,
+  "quote_rate": null,
+  "bit_rank": 124
+ },
+ {
+  "bit": "Stoned epistemology",
+  "why": "The stoner-philosopher persona gives him license to follow a thought past the point where normal conversation would stop. The room stays because he commits to the bit of following it ALL the way. false_analogy: connects ",
+  "theories": [
+   "false_analogy",
+   "benign_violation"
+  ],
+  "comedian": "Matt McCusker",
+  "comedian_id": "matt-mccusker",
+  "comedian_rank": 151,
+  "score": 21.0,
+  "quote_rate": null,
+  "bit_rank": 125
+ },
+ {
+  "bit": "The object with an agenda",
+  "why": "Takes a mundane annoyance (kettle, remote, supermarket) and treats it as evidence in a larger case against the design of modern life. rigidify: applies the logic of a national emergency to a domestic inconvenience. The r",
+  "theories": [
+   "rigidify",
+   "incongruity"
+  ],
+  "comedian": "Sean Lock",
+  "comedian_id": "sean-lock",
+  "comedian_rank": 168,
+  "score": 14.3,
+  "quote_rate": null,
+  "bit_rank": 126
+ },
+ {
+  "bit": "The domestic as national epic",
+  "why": "Escalates a small complaint into a full narrative with stakes, characters, and a climax. The gap between the scale of the telling and the scale of the event IS the joke. garden_path: the room thinks it's a complaint, it'",
+  "theories": [
+   "garden_path",
+   "escalation"
+  ],
+  "comedian": "Sean Lock",
+  "comedian_id": "sean-lock",
+  "comedian_rank": 168,
+  "score": 14.3,
+  "quote_rate": null,
+  "bit_rank": 127
+ },
+ {
+  "bit": "Local advertising / small-business voice",
+  "why": "He adopts the voice and worldview of a specific regional type (the confident local ad guy, the Wawa philosopher) and never winks. rigidify: applies the dumb logic as if it were law. The room laughs at the type they recog",
+  "theories": [
+   "rigidify",
+   "benign_violation",
+   "status_reversal"
+  ],
+  "comedian": "Shane Gillis",
+  "comedian_id": "shane-gillis",
+  "comedian_rank": 170,
+  "score": 13.6,
+  "quote_rate": null,
+  "bit_rank": 128
+ },
+ {
+  "bit": "The roast as a love language",
+  "why": "Roast-mode bits work because the violation (cruelty) is framed as affiliative (the boys). benign_violation at max: the joke is mean AND the room knows everyone involved is in on it.",
+  "theories": [
+   "benign_violation",
+   "split_knowledge"
+  ],
+  "comedian": "Shane Gillis",
+  "comedian_id": "shane-gillis",
+  "comedian_rank": 170,
+  "score": 13.6,
+  "quote_rate": null,
+  "bit_rank": 129
+ },
+ {
+  "bit": "Cancellation / culture-war bits",
+  "why": "He treats the culture war as a series of guys being wrong out loud. status_reversal: the powerful (cancelers) are made to look stupid; the low-status (the idiot) is made to look free. The engine transfers because the top",
+  "theories": [
+   "status_reversal",
+   "rigidify"
+  ],
+  "comedian": "Shane Gillis",
+  "comedian_id": "shane-gillis",
+  "comedian_rank": 170,
+  "score": 13.6,
+  "quote_rate": null,
+  "bit_rank": 130
+ },
+ {
+  "bit": "The road story / small-town parable",
+  "why": "One small road story becomes a cosmology if you let it. The structure is parable: concrete image \u2192 unexpected universal. The drawl sells the sincerity; the observation is too precise to be accidental.",
+  "theories": [
+   "garden_path",
+   "incongruity"
+  ],
+  "comedian": "Theo Von",
+  "comedian_id": "theo-von",
+  "comedian_rank": 172,
+  "score": 12.7,
+  "quote_rate": null,
+  "bit_rank": 131
+ },
+ {
+  "bit": "Animals in people clothes",
+  "why": "Treats people as animals wearing costumes (literalise) and describes the animal behavior with deadpan precision. The room recognizes the animal first, the person second \u2014 that order is the joke.",
+  "theories": [
+   "literalise",
+   "status_reversal"
+  ],
+  "comedian": "Theo Von",
+  "comedian_id": "theo-von",
+  "comedian_rank": 172,
+  "score": 12.7,
+  "quote_rate": null,
+  "bit_rank": 132
+ },
+ {
+  "bit": "The committed bad idea",
+  "why": "Takes a premise that shouldn't work and commits to it so hard that the commitment becomes the joke. The room laughs at the audacity of the commitment, not the content. benign_violation: the violation is the bad premise; ",
+  "theories": [
+   "benign_violation",
+   "character_violation"
+  ],
+  "comedian": "William Montgomery",
+  "comedian_id": "william-montgomery",
+  "comedian_rank": 178,
+  "score": 10.4,
+  "quote_rate": null,
+  "bit_rank": 133
+ },
+ {
+  "bit": "The KT regular as a force of nature",
+  "why": "The persona has accumulated meta-status from appearing repeatedly. Each set is not just a set \u2014 it's an episode in the ongoing saga of William Montgomery. The room is laughing at the character as much as the bits.",
+  "theories": [
+   "status_reversal",
+   "split_knowledge"
+  ],
+  "comedian": "William Montgomery",
+  "comedian_id": "william-montgomery",
+  "comedian_rank": 178,
+  "score": 10.4,
+  "quote_rate": null,
+  "bit_rank": 134
+ }
+]
