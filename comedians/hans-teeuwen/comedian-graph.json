@@ -1,13 +1,13 @@
 {
  "schema": "pogtown.comedian.v1",
- "comedian_id": "two-beats",
- "name": "Two Beats (Kitano Takeshi)",
+ "comedian_id": "hans-teeuwen",
+ "name": "Hans Teeuwen",
  "tier": "indie",
- "region": "japan",
+ "region": "netherlands",
  "version": 1,
  "created": "2026-10-17",
  "annotator": "regions.py/global",
- "note": "1970s manzai duo incl. Beat Takeshi. Bridge between manzai and film/TV comedy.",
+ "note": "Dutch legend, does English shows. Absurdist + confrontational, Amsterdam underground lineage.",
  "identity": {
   "deal": "",
   "premise": "",
@@ -29,16 +29,13 @@
  },
  "discovery": {
   "discovered_from": [
-   "academic",
-   "wikipedia",
-   "japan-times"
+   "curated-eu-pacific"
   ],
-  "discovery_note": "1970s manzai duo incl. Beat Takeshi. Bridge between manzai and film/TV comedy."
+  "discovery_note": "Dutch legend, does English shows. Absurdist + confrontational, Amsterdam underground lineage."
  },
  "sets": [],
  "essay_seeds": [],
  "provenance": {
   "tier": "indie"
- },
- "format": "duo (boke+tsukkomi)"
+ }
 }

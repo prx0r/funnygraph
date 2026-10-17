@@ -1,0 +1,41 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "felix-lobrecht",
+ "name": "Felix Lobrecht",
+ "tier": "indie",
+ "region": "germany",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/global",
+ "note": "Biggest German comic right now. Gemischtes Hack podcast empire, Sonne und Beton. Berlin working-class voice.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-eu-pacific"
+  ],
+  "discovery_note": "Biggest German comic right now. Gemischtes Hack podcast empire, Sonne und Beton. Berlin working-class voice."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ }
+}

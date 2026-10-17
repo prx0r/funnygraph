@@ -1,13 +1,13 @@
 {
  "schema": "pogtown.comedian.v1",
- "comedian_id": "nonstyle-duo",
- "name": "NONSTYLE",
+ "comedian_id": "dara-obriain",
+ "name": "Dara \u00d3 Briain",
  "tier": "indie",
- "region": "japan",
+ "region": "ireland",
  "version": 1,
  "created": "2026-10-17",
  "annotator": "regions.py/global",
- "note": "Manzai duo, quick smooth style. M-1 champions.",
+ "note": "Mock the Week host, science-comedy. Irish export to UK panel.",
  "identity": {
   "deal": "",
   "premise": "",
@@ -29,16 +29,13 @@
  },
  "discovery": {
   "discovered_from": [
-   "academic",
-   "wikipedia",
-   "japan-times"
+   "curated-eu-pacific"
   ],
-  "discovery_note": "Manzai duo, quick smooth style. M-1 champions."
+  "discovery_note": "Mock the Week host, science-comedy. Irish export to UK panel."
  },
  "sets": [],
  "essay_seeds": [],
  "provenance": {
   "tier": "indie"
- },
- "format": "duo (boke+tsukkomi)"
+ }
 }

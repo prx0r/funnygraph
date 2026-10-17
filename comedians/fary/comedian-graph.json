@@ -1,13 +1,13 @@
 {
  "schema": "pogtown.comedian.v1",
- "comedian_id": "audrey-duo",
- "name": "Audrey (Odori)",
+ "comedian_id": "fary",
+ "name": "Fary",
  "tier": "indie",
- "region": "japan",
+ "region": "france",
  "version": 1,
  "created": "2026-10-17",
  "annotator": "regions.py/global",
- "note": "Manzai duo: Kasuga (boke, narcissist in pink vest) + Wakabayashi (tsukkomi). Standard-form masters.",
+ "note": "French-Moroccan, Netflix Hexagone. Identity + religion material, Jamel Comedy Club lineage.",
  "identity": {
   "deal": "",
   "premise": "",
@@ -29,16 +29,13 @@
  },
  "discovery": {
   "discovered_from": [
-   "academic",
-   "wikipedia",
-   "japan-times"
+   "curated-eu-pacific"
   ],
-  "discovery_note": "Manzai duo: Kasuga (boke, narcissist in pink vest) + Wakabayashi (tsukkomi). Standard-form masters."
+  "discovery_note": "French-Moroccan, Netflix Hexagone. Identity + religion material, Jamel Comedy Club lineage."
  },
  "sets": [],
  "essay_seeds": [],
  "provenance": {
   "tier": "indie"
- },
- "format": "duo (boke+tsukkomi)"
+ }
 }

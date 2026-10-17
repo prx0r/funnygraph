@@ -1,13 +1,13 @@
 {
  "schema": "pogtown.comedian.v1",
- "comedian_id": "manzai-form",
- "name": "Manzai (form)",
+ "comedian_id": "aunty-donna",
+ "name": "Aunty Donna",
  "tier": "indie",
- "region": "japan",
+ "region": "australia",
  "version": 1,
  "created": "2026-10-17",
  "annotator": "regions.py/global",
- "note": "1000-yr duo form: boke (fool) + tsukkomi (straight man who EXPLAINS the joke). High-speed wordplay, avoids politics/sex. M-1 contest. Format entry, not a person.",
+ "note": "Sketch-troupe-to-standup pipeline, Netflix series. Trio energy, keep as troupe note.",
  "identity": {
   "deal": "",
   "premise": "",
@@ -29,16 +29,13 @@
  },
  "discovery": {
   "discovered_from": [
-   "academic",
-   "wikipedia",
-   "japan-times"
+   "curated-eu-pacific"
   ],
-  "discovery_note": "1000-yr duo form: boke (fool) + tsukkomi (straight man who EXPLAINS the joke). High-speed wordplay, avoids politics/sex. M-1 contest. Format entry, not a person."
+  "discovery_note": "Sketch-troupe-to-standup pipeline, Netflix series. Trio energy, keep as troupe note."
  },
  "sets": [],
  "essay_seeds": [],
  "provenance": {
   "tier": "indie"
- },
- "format": "form-entry"
+ }
 }
