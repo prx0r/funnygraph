@@ -147,6 +147,54 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "bill-hicks_.txt",
+      "title": ".Txt",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-hicks/.txt",
+        "format": "plain txt",
+        "words": 1134
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-hicks_1991-ranscript",
+      "title": "1991 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-hicks/1991-ranscript.txt",
+        "format": "plain txt",
+        "words": 5322
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-hicks_1993-ull-ranscript",
+      "title": "1993 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-hicks/1993-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6909
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-hicks_1993",
+      "title": "1993",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-hicks/1993.txt",
+        "format": "plain txt",
+        "words": 6487
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -295,10 +343,10 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-censored-seven-minutes-late-show-with-david-letterman.txt",
-      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca.txt",
-      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-relentless.txt",
-      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-revelations.txt"
+      "transcripts/bill-hicks/.txt",
+      "transcripts/bill-hicks/1991-ranscript.txt",
+      "transcripts/bill-hicks/1993-ull-ranscript.txt",
+      "transcripts/bill-hicks/1993.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

@@ -135,6 +135,42 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "ali-wong_2016-ull-ranscript",
+      "title": "2016 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/ali-wong/2016-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 5537
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "ali-wong_li-ong-ard-nock-ife-2018-ranscript",
+      "title": "Li Ong Ard Nock Ife 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/ali-wong/li-ong-ard-nock-ife-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 4982
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "ali-wong_li-ong-on-ong-2022-ranscript",
+      "title": "Li Ong On Ong 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/ali-wong/li-ong-on-ong-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 4182
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -286,7 +322,10 @@
     "transcripts_linked": [
       "transcripts/ali-wong/ali-wong-baby-cobra-2016-full-transcript.txt",
       "transcripts/ali-wong/ali-wong-don-wong-2022-transcript.txt",
-      "transcripts/ali-wong/ali-wong-hard-knock-wife-2018-transcript.txt"
+      "transcripts/ali-wong/ali-wong-hard-knock-wife-2018-transcript.txt",
+      "transcripts/ali-wong/2016-ull-ranscript.txt",
+      "transcripts/ali-wong/li-ong-ard-nock-ife-2018-ranscript.txt",
+      "transcripts/ali-wong/li-ong-on-ong-2022-ranscript.txt"
     ]
   },
   "known_bits": [

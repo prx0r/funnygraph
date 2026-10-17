@@ -145,6 +145,42 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "eddie-izzard_2009-ull-ranscript",
+      "title": "2009 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/eddie-izzard/2009-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 11295
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "eddie-izzard_ddie-zzard-nrepeatable-1994-ranscript",
+      "title": "Ddie Zzard Nrepeatable 1994 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/eddie-izzard/ddie-zzard-nrepeatable-1994-ranscript.txt",
+        "format": "plain txt",
+        "words": 9231
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "eddie-izzard_ddie-zzard-ress-o-ill-1999-ranscript",
+      "title": "Ddie Zzard Ress O Ill 1999 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/eddie-izzard/ddie-zzard-ress-o-ill-1999-ranscript.txt",
+        "format": "plain txt",
+        "words": 10358
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -257,10 +293,9 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/eddie-izzard/eddie-izzard-dress-to-kill.txt",
-      "/root/characters2/theory/transcripts/eddie-izzard/eddie-izzard-eddie-izzard-glorious.txt",
-      "/root/characters2/theory/transcripts/eddie-izzard/eddie-izzard-stripped.txt",
-      "/root/characters2/theory/transcripts/eddie-izzard/eddie-izzard-unrepeatable.txt"
+      "transcripts/eddie-izzard/2009-ull-ranscript.txt",
+      "transcripts/eddie-izzard/ddie-zzard-nrepeatable-1994-ranscript.txt",
+      "transcripts/eddie-izzard/ddie-zzard-ress-o-ill-1999-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

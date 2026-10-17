@@ -1,0 +1,238 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "patton-oswalt",
+  "name": "Patton Oswalt",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Nerd-culture professor who treats comic books, movies, and grief with the same rigorous, reference-dense, unexpectedly moving craft.",
+    "premise": "A man who built a career on being the smartest fan in the room, then proved the smart fan could also break your heart.",
+    "archetype": "nerd_professor",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the references are the delivery system; the feeling is the payload.",
+    "philosophy": {
+      "ontology": "Pop culture is mythology; mythology is how we process grief.",
+      "epistemology": "If you reference it precisely enough, the room feels it.",
+      "axiology": "The nerd lens is a legitimate way to see the world.",
+      "causality": "One perfect reference unlocks a whole emotional register.",
+      "agency": "Anyone can reference; almost nobody makes the reference cry."
+    },
+    "dramatic_core": {
+      "want": "to make the reference land AND matter",
+      "fear": "the reference for its own sake \u2014 nerd trivia without heart",
+      "need": "the room to feel the thing behind the joke",
+      "self_model": "a professor whose syllabus is pop culture and grief",
+      "blind_spots": [
+        "the references can date",
+        "the craft can hide the risk"
+      ]
+    },
+    "misinterpretation_rule": "Treats every pop-culture artifact as worthy of serious analysis, then finds the human truth inside the analysis.",
+    "contradictions": [
+      "the nerd with the biggest heart",
+      "the reference-dense comic who lands the emotional punch"
+    ],
+    "status_model": {
+      "desired_status": "the smartest fan",
+      "felt_status": "a professor permanently mid-lecture he loves giving"
+    },
+    "expression": {
+      "default_register": "nerd-professor",
+      "emotional_restraint": "medium",
+      "tells": [
+        "the reference cascade",
+        "the sudden sincere turn",
+        "the voice crack on the real thing"
+      ]
+    },
+    "modulator_range": [
+      "professor",
+      "nerd-rage",
+      "story-mode",
+      "grief-adjacent",
+      "tender"
+    ],
+    "profile": {
+      "energy": 0.65,
+      "pace": "reference-dense, sincere landings",
+      "gesture_frequency": 0.5,
+      "punchline_hold_ms": 800
+    },
+    "operator_priors": {
+      "rigidify": 0.4,
+      "literalize": 0.5,
+      "double_interpret": 0.6,
+      "status_invert": 0.4,
+      "character_violation": 0.3,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "bisociation"
+    ],
+    "threads": [
+      "pop culture as mythology",
+      "the reference as a delivery system",
+      "grief inside the nerd hour",
+      "the smart fan's revenge",
+      "craft as care"
+    ],
+    "problem_space": [
+      "fandom as identity",
+      "grief and comedy",
+      "the reference economy"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "nerd_professor",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "patton-oswalt_2017-ull-ranscript",
+      "title": "2017 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/patton-oswalt/2017-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6970
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "patton-oswalt_2020",
+      "title": "2020",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/patton-oswalt/2020.txt",
+        "format": "plain txt",
+        "words": 6463
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "patton-oswalt_atton-swalt-e-ll-cream-2022-ranscript",
+      "title": "Atton Swalt E Ll Cream 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/patton-oswalt/atton-swalt-e-ll-cream-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 6335
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "patton-oswalt-essay-01",
+      "title": "Why is Patton Oswalt funny?",
+      "thesis": "Treats every pop-culture artifact as worthy of serious analysis, then finds the human truth inside the analysis.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/patton-oswalt/2017-ull-ranscript.txt",
+      "transcripts/patton-oswalt/2020.txt",
+      "transcripts/patton-oswalt/atton-swalt-e-ll-cream-2022-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

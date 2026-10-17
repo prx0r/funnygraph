@@ -143,6 +143,54 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bert-kreischer_ert-reischer-azzle-azzle-2023-ranscript",
+      "title": "Ert Reischer Azzle Azzle 2023 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/ert-reischer-azzle-azzle-2023-ranscript.txt",
+        "format": "plain txt",
+        "words": 6748
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bert-kreischer_ert-reischer-ecret-ime-2018-ranscript",
+      "title": "Ert Reischer Ecret Ime 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/ert-reischer-ecret-ime-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 6332
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bert-kreischer_ert-reischer-ey-ig-oy-2020-ranscript",
+      "title": "Ert Reischer Ey Ig Oy 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/ert-reischer-ey-ig-oy-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 6645
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bert-kreischer_ert-reischer-ighting-ear-ranscript",
+      "title": "Ert Reischer Ighting Ear Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/ert-reischer-ighting-ear-ranscript.txt",
+        "format": "plain txt",
+        "words": 807
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -253,7 +301,11 @@
       "transcripts/bert-kreischer/bert-kreischer-fighting-a-bear-transcript.txt",
       "transcripts/bert-kreischer/bert-kreischer-hey-big-boy-2020-transcript.txt",
       "transcripts/bert-kreischer/bert-kreischer-razzle-dazzle-2023-transcript.txt",
-      "transcripts/bert-kreischer/bert-kreischer-secret-time-2018-transcript.txt"
+      "transcripts/bert-kreischer/bert-kreischer-secret-time-2018-transcript.txt",
+      "transcripts/bert-kreischer/ert-reischer-azzle-azzle-2023-ranscript.txt",
+      "transcripts/bert-kreischer/ert-reischer-ecret-ime-2018-ranscript.txt",
+      "transcripts/bert-kreischer/ert-reischer-ey-ig-oy-2020-ranscript.txt",
+      "transcripts/bert-kreischer/ert-reischer-ighting-ear-ranscript.txt"
     ]
   },
   "timing_profile": {

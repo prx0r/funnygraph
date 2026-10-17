@@ -146,6 +146,54 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sarah-silverman_2013-ull-ranscript",
+      "title": "2013 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/2013-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 4273
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sarah-silverman_2017-ull-ranscript",
+      "title": "2017 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/2017-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6603
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sarah-silverman_arah-ilverman-aturday-ight-ive-onologue-40-2-10-04",
+      "title": "Arah Ilverman Aturday Ight Ive Onologue 40 2 10 04 2014 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/arah-ilverman-aturday-ight-ive-onologue-40-2-10-04-2014-ranscript.txt",
+        "format": "plain txt",
+        "words": 845
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sarah-silverman_arah-ilverman-esus-s-agic-2005-ranscript",
+      "title": "Arah Ilverman Esus S Agic 2005 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/arah-ilverman-esus-s-agic-2005-ranscript.txt",
+        "format": "plain txt",
+        "words": 5248
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -298,7 +346,11 @@
       "transcripts/sarah-silverman/sarah-silverman-a-speck-of-dust-2017-full-transcript.txt",
       "transcripts/sarah-silverman/sarah-silverman-jesus-is-magic-2005-transcript.txt",
       "transcripts/sarah-silverman/sarah-silverman-saturday-night-live-monologue-season-40-episode-2-10-0.txt",
-      "transcripts/sarah-silverman/sarah-silverman-we-are-miracles-2013-full-transcript.txt"
+      "transcripts/sarah-silverman/sarah-silverman-we-are-miracles-2013-full-transcript.txt",
+      "transcripts/sarah-silverman/2013-ull-ranscript.txt",
+      "transcripts/sarah-silverman/2017-ull-ranscript.txt",
+      "transcripts/sarah-silverman/arah-ilverman-aturday-ight-ive-onologue-40-2-10-04-2014-ranscript.txt",
+      "transcripts/sarah-silverman/arah-ilverman-esus-s-agic-2005-ranscript.txt"
     ]
   },
   "known_bits": [

@@ -122,6 +122,18 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "mark-normand_ark-ormand-on-t-e-ourself-2017-ranscript",
+      "title": "Ark Ormand On T E Ourself 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/mark-normand/ark-ormand-on-t-e-ourself-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 6664
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -272,7 +284,8 @@
     "deepened": "2026-10-16",
     "transcripts_linked": [
       "transcripts/mark-normand/mark-normand-don-t-be-yourself-2017-transcript.txt",
-      "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt"
+      "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt",
+      "transcripts/mark-normand/ark-ormand-on-t-e-ourself-2017-ranscript.txt"
     ]
   },
   "known_bits": [

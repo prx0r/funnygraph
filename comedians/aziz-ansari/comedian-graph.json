@@ -1,0 +1,263 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "aziz-ansari",
+  "name": "Aziz Ansari",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Millennial anthropologist who treats dating, food, and modern etiquette as field research he's reporting with increasing panic.",
+    "premise": "A man who turned his own generation's anxieties into tightly constructed bits with the energy of a grad student defending a thesis.",
+    "archetype": "millennial_anthropologist",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the panic is performed; the research is real.",
+    "philosophy": {
+      "ontology": "Modern life is a series of choices nobody is equipped to make.",
+      "epistemology": "If you research it hard enough, the anxiety becomes the bit.",
+      "axiology": "Overthinking is a form of care.",
+      "causality": "One small modern dilemma compounds into an existential crisis.",
+      "agency": "Anyone can be anxious; almost nobody footnotes it."
+    },
+    "dramatic_core": {
+      "want": "to make the right choice",
+      "fear": "the wrong text, the wrong order, the wrong life",
+      "need": "the room to feel less alone in the overthinking",
+      "self_model": "a man with 47 tabs open in his brain",
+      "blind_spots": [
+        "the research can become the cage"
+      ]
+    },
+    "misinterpretation_rule": "Treats every modern micro-decision as worthy of full anthropological study, then reports the findings with escalating panic.",
+    "contradictions": [
+      "the anxious one with the tightest construction",
+      "the millennial voice with old-school joke craft"
+    ],
+    "status_model": {
+      "desired_status": "the one who figured it out",
+      "felt_status": "a man permanently mid-decision"
+    },
+    "expression": {
+      "default_register": "anxious-researcher",
+      "emotional_restraint": "low",
+      "tells": [
+        "the escalation into panic",
+        "the food voice",
+        "the sudden sincere turn"
+      ]
+    },
+    "modulator_range": [
+      "anxious",
+      "researcher",
+      "food-evangelist",
+      "relationship-spar",
+      "tender"
+    ],
+    "profile": {
+      "energy": 0.8,
+      "pace": "fast, escalating",
+      "gesture_frequency": 0.7,
+      "punchline_hold_ms": 600
+    },
+    "operator_priors": {
+      "rigidify": 0.4,
+      "literalize": 0.4,
+      "double_interpret": 0.55,
+      "status_invert": 0.4,
+      "character_violation": 0.3,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "escalation"
+    ],
+    "threads": [
+      "dating as field research",
+      "food as identity",
+      "the paradox of choice",
+      "immigrant parents as a lens",
+      "the panic as a form"
+    ],
+    "problem_space": [
+      "millennial anxiety",
+      "modern etiquette",
+      "the self as a research subject"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "millennial_anthropologist",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "aziz-ansari_2010-ull-ranscript",
+      "title": "2010 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/aziz-ansari/2010-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 7216
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "aziz-ansari_2013-ull-ranscript",
+      "title": "2013 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/aziz-ansari/2013-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 9627
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "aziz-ansari_2015-ull-ranscript",
+      "title": "2015 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/aziz-ansari/2015-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 7646
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "aziz-ansari_ziz-nsari-ight-ow-2019-ranscript",
+      "title": "Ziz Nsari Ight Ow 2019 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/aziz-ansari/ziz-nsari-ight-ow-2019-ranscript.txt",
+        "format": "plain txt",
+        "words": 7246
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "aziz-ansari_ziz-nsari-ightclub-omedian-2022-ranscript",
+      "title": "Ziz Nsari Ightclub Omedian 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/aziz-ansari/ziz-nsari-ightclub-omedian-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 3664
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "aziz-ansari-essay-01",
+      "title": "Why is Aziz Ansari funny?",
+      "thesis": "Treats every modern micro-decision as worthy of full anthropological study, then reports the findings with escalating panic.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/aziz-ansari/2010-ull-ranscript.txt",
+      "transcripts/aziz-ansari/2013-ull-ranscript.txt",
+      "transcripts/aziz-ansari/2015-ull-ranscript.txt",
+      "transcripts/aziz-ansari/ziz-nsari-ight-ow-2019-ranscript.txt",
+      "transcripts/aziz-ansari/ziz-nsari-ightclub-omedian-2022-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

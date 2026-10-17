@@ -160,6 +160,246 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "george-carlin_.txt",
+      "title": ".Txt",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/.txt",
+        "format": "plain txt",
+        "words": 1197
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_1975",
+      "title": "1975",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/1975.txt",
+        "format": "plain txt",
+        "words": 356
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_1978-ull-ranscript",
+      "title": "1978 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/1978-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 8662
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_1984-ull-ranscript",
+      "title": "1984 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/1984-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6283
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_1986-ull-ranscript",
+      "title": "1986 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/1986-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6062
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_1992-esto-italiano-completo",
+      "title": "1992 Esto Italiano Completo",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/1992-esto-italiano-completo.txt",
+        "format": "plain txt",
+        "words": 5921
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_1996-ull-transcript",
+      "title": "1996 Ull Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/1996-ull-transcript.txt",
+        "format": "plain txt",
+        "words": 6608
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_1999-esto-italiano-completo",
+      "title": "1999 Esto Italiano Completo",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/1999-esto-italiano-completo.txt",
+        "format": "plain txt",
+        "words": 6734
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_2001",
+      "title": "2001",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/2001.txt",
+        "format": "plain txt",
+        "words": 6399
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_2008-esto-italiano-completo",
+      "title": "2008 Esto Italiano Completo",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/2008-esto-italiano-completo.txt",
+        "format": "plain txt",
+        "words": 6969
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-amming-in-ew-ork-1992-ranscript",
+      "title": "Eorge Arlin Amming In Ew Ork 1992 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-amming-in-ew-ork-1992-ranscript.txt",
+        "format": "plain txt",
+        "words": 6474
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-even-ords-ou-an-ever-ay-on-elevision",
+      "title": "Eorge Arlin Even Ords Ou An Ever Ay On Elevision",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-even-ords-ou-an-ever-ay-on-elevision.txt",
+        "format": "plain txt",
+        "words": 824
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-hat-m-oing-in-ew-ersey-1988-ull-ranscr",
+      "title": "Eorge Arlin Hat M Oing In Ew Ersey 1988 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-hat-m-oing-in-ew-ersey-1988-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 5546
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-he-ndian-rill-ergeant-ranscript",
+      "title": "Eorge Arlin He Ndian Rill Ergeant Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-he-ndian-rill-ergeant-ranscript.txt",
+        "format": "plain txt",
+        "words": 821
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-ife-s-orth-osing-2006-ranscript",
+      "title": "Eorge Arlin Ife S Orth Osing 2006 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-ife-s-orth-osing-2006-ranscript.txt",
+        "format": "plain txt",
+        "words": 9679
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-oin-t-gain-1990-ranscript",
+      "title": "Eorge Arlin Oin T Gain 1990 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-oin-t-gain-1990-ranscript.txt",
+        "format": "plain txt",
+        "words": 6275
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-olitically-orrect-anguage",
+      "title": "Eorge Arlin Olitically Orrect Anguage",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-olitically-orrect-anguage.txt",
+        "format": "plain txt",
+        "words": 1196
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-ou-re-ll-iseased-1999-ranscript",
+      "title": "Eorge Arlin Ou Re Ll Iseased 1999 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-ou-re-ll-iseased-1999-ranscript.txt",
+        "format": "plain txt",
+        "words": 7165
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-t-s-ad-or-a-2008-ull-transcript",
+      "title": "Eorge Arlin T S Ad Or A 2008 Ull Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-t-s-ad-or-a-2008-ull-transcript.txt",
+        "format": "plain txt",
+        "words": 7818
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "george-carlin_eorge-arlin-umb-mericans-2006-ull-ranscript",
+      "title": "Eorge Arlin Umb Mericans 2006 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/george-carlin/eorge-arlin-umb-mericans-2006-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 1881
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -315,11 +555,26 @@
     "sets_observed": 0,
     "next": "ingest language-prophet era set; the list-sermon timing is the thing to measure",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/george-carlin/george-carlin-1978-full-transcript.txt",
-      "/root/characters2/theory/transcripts/george-carlin/george-carlin-at-usc-1977-full-transcript.txt",
-      "/root/characters2/theory/transcripts/george-carlin/george-carlin-back-town-1996-full-transcript.txt",
-      "/root/characters2/theory/transcripts/george-carlin/george-carlin-carlin-campus-1984-full-transcript.txt",
-      "/root/characters2/theory/transcripts/george-carlin/george-carlin-complaints-grievances.txt"
+      "transcripts/george-carlin/.txt",
+      "transcripts/george-carlin/1975.txt",
+      "transcripts/george-carlin/1978-ull-ranscript.txt",
+      "transcripts/george-carlin/1984-ull-ranscript.txt",
+      "transcripts/george-carlin/1986-ull-ranscript.txt",
+      "transcripts/george-carlin/1992-esto-italiano-completo.txt",
+      "transcripts/george-carlin/1996-ull-transcript.txt",
+      "transcripts/george-carlin/1999-esto-italiano-completo.txt",
+      "transcripts/george-carlin/2001.txt",
+      "transcripts/george-carlin/2008-esto-italiano-completo.txt",
+      "transcripts/george-carlin/eorge-arlin-amming-in-ew-ork-1992-ranscript.txt",
+      "transcripts/george-carlin/eorge-arlin-even-ords-ou-an-ever-ay-on-elevision.txt",
+      "transcripts/george-carlin/eorge-arlin-hat-m-oing-in-ew-ersey-1988-ull-ranscript.txt",
+      "transcripts/george-carlin/eorge-arlin-he-ndian-rill-ergeant-ranscript.txt",
+      "transcripts/george-carlin/eorge-arlin-ife-s-orth-osing-2006-ranscript.txt",
+      "transcripts/george-carlin/eorge-arlin-oin-t-gain-1990-ranscript.txt",
+      "transcripts/george-carlin/eorge-arlin-olitically-orrect-anguage.txt",
+      "transcripts/george-carlin/eorge-arlin-ou-re-ll-iseased-1999-ranscript.txt",
+      "transcripts/george-carlin/eorge-arlin-t-s-ad-or-a-2008-ull-transcript.txt",
+      "transcripts/george-carlin/eorge-arlin-umb-mericans-2006-ull-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

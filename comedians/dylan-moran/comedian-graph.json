@@ -97,7 +97,32 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "dylan-moran_2006-ull-ranscript",
+      "title": "2006 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dylan-moran/2006-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 8304
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dylan-moran_ylan-oran-ff-he-ook-2015-ranscript",
+      "title": "Ylan Oran Ff He Ook 2015 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dylan-moran/ylan-oran-ff-he-ook-2015-ranscript.txt",
+        "format": "plain txt",
+        "words": 9620
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
@@ -208,6 +233,10 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/dylan-moran/2006-ull-ranscript.txt",
+      "transcripts/dylan-moran/ylan-oran-ff-he-ook-2015-ranscript.txt"
+    ]
   }
 }

@@ -95,7 +95,56 @@
       "status": "NOT RUN"
     }
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "jimmy-carr_2011-ull-ranscript",
+      "title": "2011 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jimmy-carr/2011-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 10461
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jimmy-carr_2016-ull-ranscript",
+      "title": "2016 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jimmy-carr/2016-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 7463
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jimmy-carr_immy-arr-aughing-and-oking-2013-ranscript",
+      "title": "Immy Arr Aughing And Oking 2013 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jimmy-carr/immy-arr-aughing-and-oking-2013-ranscript.txt",
+        "format": "plain txt",
+        "words": 10972
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jimmy-carr_immy-arr-he-est-of-ltimate-old-reatest-its-2019-ul",
+      "title": "Immy Arr He Est Of Ltimate Old Reatest Its 2019 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jimmy-carr/immy-arr-he-est-of-ltimate-old-reatest-its-2019-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6216
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "harvest captions or link transcript for measured depth",
     "blocked_on": "captions/audio"
@@ -199,7 +248,13 @@
     "sets_observed": 0,
     "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/jimmy-carr/2011-ull-ranscript.txt",
+      "transcripts/jimmy-carr/2016-ull-ranscript.txt",
+      "transcripts/jimmy-carr/immy-arr-aughing-and-oking-2013-ranscript.txt",
+      "transcripts/jimmy-carr/immy-arr-he-est-of-ltimate-old-reatest-its-2019-ull-ranscript.txt"
+    ]
   },
   "timing_profile": {
     "doctrine_hypothesis": "Even setup-punch-reload. The pause before the kill is surgical \u2014 always long enough for the room to see it coming, never long enough for them to escape. The grin after the kill is punctuation.",

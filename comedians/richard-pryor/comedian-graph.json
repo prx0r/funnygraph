@@ -147,6 +147,54 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "richard-pryor_1982-ull-ranscript",
+      "title": "1982 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/richard-pryor/1982-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 7147
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "richard-pryor_1983-ull-ranscript",
+      "title": "1983 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/richard-pryor/1983-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 8289
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "richard-pryor_ichard-ryor-ive-in-oncert-1979-ranscript",
+      "title": "Ichard Ryor Ive In Oncert 1979 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/richard-pryor/ichard-ryor-ive-in-oncert-1979-ranscript.txt",
+        "format": "plain txt",
+        "words": 7992
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "richard-pryor_ichard-ryor-ive-nd-mokin-1971-ranscript",
+      "title": "Ichard Ryor Ive Nd Mokin 1971 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/richard-pryor/ichard-ryor-ive-nd-mokin-1971-ranscript.txt",
+        "format": "plain txt",
+        "words": 4080
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -295,10 +343,10 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/richard-pryor/richard-pryor-here-now.txt",
-      "/root/characters2/theory/transcripts/richard-pryor/richard-pryor-live-concert.txt",
-      "/root/characters2/theory/transcripts/richard-pryor/richard-pryor-live-smokin.txt",
-      "/root/characters2/theory/transcripts/richard-pryor/richard-pryor-live-sunset-strip.txt"
+      "transcripts/richard-pryor/1982-ull-ranscript.txt",
+      "transcripts/richard-pryor/1983-ull-ranscript.txt",
+      "transcripts/richard-pryor/ichard-ryor-ive-in-oncert-1979-ranscript.txt",
+      "transcripts/richard-pryor/ichard-ryor-ive-nd-mokin-1971-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

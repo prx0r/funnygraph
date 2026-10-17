@@ -108,6 +108,18 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "robin-williams_obin-illiams-eapons-of-elf-estruction-2009-ull-ran",
+      "title": "Obin Illiams Eapons Of Elf Estruction 2009 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/robin-williams/obin-illiams-eapons-of-elf-estruction-2009-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 11099
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -213,7 +225,7 @@
     "sets_observed": 0,
     "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/robin-williams/robin-williams-weapons-self-destruction.txt"
+      "transcripts/robin-williams/obin-illiams-eapons-of-elf-estruction-2009-ull-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

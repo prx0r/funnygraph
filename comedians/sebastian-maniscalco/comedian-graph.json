@@ -1,0 +1,237 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "sebastian-maniscalco",
+  "name": "Sebastian Maniscalco",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Exasperated traditionalist who treats modern manners as a personal insult and the audience as fellow sufferers.",
+    "premise": "A man who performs the death of common courtesy as a one-man show with an Italian father's timing.",
+    "archetype": "exasperated_traditionalist",
+    "awareness": "semi",
+    "awareness_note": "Semi: the exasperation is real enough; the craft is the escalation.",
+    "philosophy": {
+      "ontology": "Manners died and nobody sent flowers.",
+      "epistemology": "If it annoys you, it's material.",
+      "axiology": "The old way was better and it's funny that it's gone.",
+      "causality": "One small rudeness observed precisely becomes an epic.",
+      "agency": "Anyone can complain; almost nobody escalates like this."
+    },
+    "dramatic_core": {
+      "want": "one day where people act right",
+      "fear": "becoming the thing he's yelling about",
+      "need": "the room to nod with him at the decline",
+      "self_model": "the last man with manners, performing the autopsy",
+      "blind_spots": [
+        "the nostalgia can become the cage"
+      ]
+    },
+    "misinterpretation_rule": "Treats every modern rudeness as evidence in the case against the present, and prosecutes with escalating physicality.",
+    "contradictions": [
+      "the traditionalist who sells out arenas",
+      "the complainer the crowd loves"
+    ],
+    "status_model": {
+      "desired_status": "the man who remembers",
+      "felt_status": "a traditionalist permanently mid-rant"
+    },
+    "expression": {
+      "default_register": "exasperated-physical",
+      "emotional_restraint": "low",
+      "tells": [
+        "the physical escalation",
+        "the 'are you kidding me' face",
+        "the impression of the offender"
+      ]
+    },
+    "modulator_range": [
+      "exasperated",
+      "physical",
+      "impression",
+      "story-mode",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.85,
+      "pace": "escalating physical rants",
+      "gesture_frequency": 0.85,
+      "punchline_hold_ms": 500
+    },
+    "operator_priors": {
+      "rigidify": 0.5,
+      "literalize": 0.4,
+      "double_interpret": 0.4,
+      "status_invert": 0.4,
+      "character_violation": 0.4,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "incongruity"
+    ],
+    "threads": [
+      "manners as a lost art",
+      "the physical escalation",
+      "the offender impression",
+      "nostalgia as comedy",
+      "the everyman's revenge"
+    ],
+    "problem_space": [
+      "modern rudeness",
+      "generational change",
+      "the body as an exclamation point"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "exasperated_traditionalist",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "sebastian-maniscalco_ebastian-aniscalco-hat-s-rong-with-eople-2012-ull-",
+      "title": "Ebastian Aniscalco Hat S Rong With Eople 2012 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sebastian-maniscalco/ebastian-aniscalco-hat-s-rong-with-eople-2012-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6303
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sebastian-maniscalco_ebastian-aniscalco-ren-t-ou-mbarrassed-2014-ull-ra",
+      "title": "Ebastian Aniscalco Ren T Ou Mbarrassed 2014 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sebastian-maniscalco/ebastian-aniscalco-ren-t-ou-mbarrassed-2014-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 5038
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sebastian-maniscalco_ebastian-aniscalco-tay-ungry-2019-ull-ranscript",
+      "title": "Ebastian Aniscalco Tay Ungry 2019 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sebastian-maniscalco/ebastian-aniscalco-tay-ungry-2019-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 5523
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "sebastian-maniscalco-essay-01",
+      "title": "Why is Sebastian Maniscalco funny?",
+      "thesis": "Treats every modern rudeness as evidence in the case against the present, and prosecutes with escalating physicality.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/sebastian-maniscalco/ebastian-aniscalco-hat-s-rong-with-eople-2012-ull-ranscript.txt",
+      "transcripts/sebastian-maniscalco/ebastian-aniscalco-ren-t-ou-mbarrassed-2014-ull-ranscript.txt",
+      "transcripts/sebastian-maniscalco/ebastian-aniscalco-tay-ungry-2019-ull-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

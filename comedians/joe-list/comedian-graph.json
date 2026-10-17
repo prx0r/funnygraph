@@ -95,7 +95,20 @@
       "status": "NOT RUN"
     }
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "joe-list_oe-ist-ate-yself-2020-ranscript",
+      "title": "Oe Ist Ate Yself 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/joe-list/oe-ist-ate-yself-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 7782
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "harvest captions or link transcript for measured depth",
     "blocked_on": "captions/audio"
@@ -199,7 +212,10 @@
     "sets_observed": 0,
     "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/joe-list/oe-ist-ate-yself-2020-ranscript.txt"
+    ]
   },
   "timing_profile": {
     "doctrine_hypothesis": "Fast, no wasted breath. The self-deprecating pivot is a beat, not a pause \u2014 he doesn't stop to be anxious, he speeds up into it. The 'anyway' resets the room.",

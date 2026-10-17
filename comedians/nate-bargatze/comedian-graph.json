@@ -134,6 +134,42 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "nate-bargatze_ate-argatze-he-ennessee-id-2019-ull-ranscript",
+      "title": "Ate Argatze He Ennessee Id 2019 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/nate-bargatze/ate-argatze-he-ennessee-id-2019-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 7386
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "nate-bargatze_ate-argatze-he-reatest-verage-merican-2021-ranscri",
+      "title": "Ate Argatze He Reatest Verage Merican 2021 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/nate-bargatze/ate-argatze-he-reatest-verage-merican-2021-ranscript.txt",
+        "format": "plain txt",
+        "words": 8012
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "nate-bargatze_ate-argatze-ull-ime-agic-2015-ull-ranscript",
+      "title": "Ate Argatze Ull Ime Agic 2015 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/nate-bargatze/ate-argatze-ull-ime-agic-2015-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 5276
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -285,7 +321,10 @@
     "transcripts_linked": [
       "transcripts/nate-bargatze/nate-bargatze-full-time-magic-2015-full-transcript.txt",
       "transcripts/nate-bargatze/nate-bargatze-the-greatest-average-american-2021-transcript.txt",
-      "transcripts/nate-bargatze/nate-bargatze-the-tennessee-kid-2019-full-transcript.txt"
+      "transcripts/nate-bargatze/nate-bargatze-the-tennessee-kid-2019-full-transcript.txt",
+      "transcripts/nate-bargatze/ate-argatze-he-ennessee-id-2019-ull-ranscript.txt",
+      "transcripts/nate-bargatze/ate-argatze-he-reatest-verage-merican-2021-ranscript.txt",
+      "transcripts/nate-bargatze/ate-argatze-ull-ime-agic-2015-ull-ranscript.txt"
     ]
   },
   "known_bits": [

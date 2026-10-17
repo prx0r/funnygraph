@@ -147,6 +147,54 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bo-burnham_o-urnham-ake-appy-2016-ranscript",
+      "title": "O Urnham Ake Appy 2016 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/o-urnham-ake-appy-2016-ranscript.txt",
+        "format": "plain txt",
+        "words": 5711
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bo-burnham_o-urnham-hat-2013-ranscript",
+      "title": "O Urnham Hat 2013 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/o-urnham-hat-2013-ranscript.txt",
+        "format": "plain txt",
+        "words": 5462
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bo-burnham_o-urnham-nside-2021-ranscript",
+      "title": "O Urnham Nside 2021 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/o-urnham-nside-2021-ranscript.txt",
+        "format": "plain txt",
+        "words": 5655
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bo-burnham_o-urnham-ords-ords-ords-2010-ranscript",
+      "title": "O Urnham Ords Ords Ords 2010 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/o-urnham-ords-ords-ords-2010-ranscript.txt",
+        "format": "plain txt",
+        "words": 6011
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -299,7 +347,11 @@
       "transcripts/bo-burnham/bo-burnham-inside-2021-transcript.txt",
       "transcripts/bo-burnham/bo-burnham-make-happy-2016-transcript.txt",
       "transcripts/bo-burnham/bo-burnham-what-2013-transcript.txt",
-      "transcripts/bo-burnham/bo-burnham-words-words-words-2010-transcript.txt"
+      "transcripts/bo-burnham/bo-burnham-words-words-words-2010-transcript.txt",
+      "transcripts/bo-burnham/o-urnham-ake-appy-2016-ranscript.txt",
+      "transcripts/bo-burnham/o-urnham-hat-2013-ranscript.txt",
+      "transcripts/bo-burnham/o-urnham-nside-2021-ranscript.txt",
+      "transcripts/bo-burnham/o-urnham-ords-ords-ords-2010-ranscript.txt"
     ]
   },
   "known_bits": [

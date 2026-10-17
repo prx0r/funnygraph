@@ -123,6 +123,30 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "taylor-tomlinson_aylor-omlinson-ook-at-ou-2022-ranscript",
+      "title": "Aylor Omlinson Ook At Ou 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/taylor-tomlinson/aylor-omlinson-ook-at-ou-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 7921
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "taylor-tomlinson_aylor-omlinson-uarter-ife-risis-2020-ranscript",
+      "title": "Aylor Omlinson Uarter Ife Risis 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/taylor-tomlinson/aylor-omlinson-uarter-ife-risis-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 6703
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -273,7 +297,9 @@
     "deepened": "2026-10-16",
     "transcripts_linked": [
       "transcripts/taylor-tomlinson/taylor-tomlinson-look-at-you-2022-transcript.txt",
-      "transcripts/taylor-tomlinson/taylor-tomlinson-quarter-life-crisis-2020-transcript.txt"
+      "transcripts/taylor-tomlinson/taylor-tomlinson-quarter-life-crisis-2020-transcript.txt",
+      "transcripts/taylor-tomlinson/aylor-omlinson-ook-at-ou-2022-ranscript.txt",
+      "transcripts/taylor-tomlinson/aylor-omlinson-uarter-ife-risis-2020-ranscript.txt"
     ]
   },
   "known_bits": [

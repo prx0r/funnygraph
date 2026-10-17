@@ -129,6 +129,30 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "jerry-seinfeld_erry-einfeld-23-ours-o-ill-2020-ranscript",
+      "title": "Erry Einfeld 23 Ours O Ill 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jerry-seinfeld/erry-einfeld-23-ours-o-ill-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 6058
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jerry-seinfeld_erry-einfeld-m-elling-ou-for-the-ast-ime-1998-rans",
+      "title": "Erry Einfeld M Elling Ou For The Ast Ime 1998 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jerry-seinfeld/erry-einfeld-m-elling-ou-for-the-ast-ime-1998-ranscript.txt",
+        "format": "plain txt",
+        "words": 6682
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -287,8 +311,8 @@
     "sets_observed": 0,
     "next": "ingest first word-timed set \u2192 measure timing \u2192 falsify or confirm the surgical-hold hypothesis \u2192 recompute priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/jerry-seinfeld/jerry-seinfeld-23-hours-to-kill-transcript.txt",
-      "/root/characters2/theory/transcripts/jerry-seinfeld/jerry-seinfeld-im-telling-you-for-the-last-time-full-transcript.txt"
+      "transcripts/jerry-seinfeld/erry-einfeld-23-ours-o-ill-2020-ranscript.txt",
+      "transcripts/jerry-seinfeld/erry-einfeld-m-elling-ou-for-the-ast-ime-1998-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

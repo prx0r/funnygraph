@@ -109,6 +109,18 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "mitch-hedberg_1999-ull-ranscript",
+      "title": "1999 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/mitch-hedberg/1999-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 3138
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -262,7 +274,7 @@
     "sets_observed": 0,
     "next": "ingest one-liner-chain set; the chain rhythm is the thing to measure",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/mitch-hedberg/mitch-hedberg-comedy-central-special1999-full-transcript.txt"
+      "transcripts/mitch-hedberg/1999-ull-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

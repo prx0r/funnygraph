@@ -166,6 +166,186 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "dave-chappelle_1998-raduzione-italiana",
+      "title": "1998 Raduzione Italiana",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/1998-raduzione-italiana.txt",
+        "format": "plain txt",
+        "words": 2079
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_2017-ranscripci-n-completa",
+      "title": "2017 Ranscripci N Completa",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/2017-ranscripci-n-completa.txt",
+        "format": "plain txt",
+        "words": 3677
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-8-46-ranscript",
+      "title": "Ave Happelle 8 46 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-8-46-ranscript.txt",
+        "format": "plain txt",
+        "words": 2705
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-bo-omedy-alf-our-1998-ranscript",
+      "title": "Ave Happelle Bo Omedy Alf Our 1998 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-bo-omedy-alf-our-1998-ranscript.txt",
+        "format": "plain txt",
+        "words": 2399
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-eep-in-the-eart-of-exas-2017-ranscrip",
+      "title": "Ave Happelle Eep In The Eart Of Exas 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-eep-in-the-eart-of-exas-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 7135
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-hat-s-in-a-ame-2022-ranscript",
+      "title": "Ave Happelle Hat S In A Ame 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-hat-s-in-a-ame-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 4419
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-he-ge-of-pin-2017-ranscript",
+      "title": "Ave Happelle He Ge Of Pin 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-he-ge-of-pin-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 6864
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-he-ird-evelation-2017-ranscript",
+      "title": "Ave Happelle He Ird Evelation 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-he-ird-evelation-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 5219
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-he-loser-2021-ranscript",
+      "title": "Ave Happelle He Loser 2021 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-he-loser-2021-ranscript.txt",
+        "format": "plain txt",
+        "words": 7489
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-illin-hem-oftly-2000-ranscript",
+      "title": "Ave Happelle Illin Hem Oftly 2000 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-illin-hem-oftly-2000-ranscript.txt",
+        "format": "plain txt",
+        "words": 5697
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-onologue-2020-ranscript",
+      "title": "Ave Happelle Onologue 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-onologue-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 1742
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-or-hat-t-s-orth-2004-ranscript",
+      "title": "Ave Happelle Or Hat T S Orth 2004 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-or-hat-t-s-orth-2004-ranscript.txt",
+        "format": "plain txt",
+        "words": 5987
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-quanimity-2017-ranscript",
+      "title": "Ave Happelle Quanimity 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-quanimity-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 6250
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-ticks-tones-2019-ranscript",
+      "title": "Ave Happelle Ticks Tones 2019 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-ticks-tones-2019-ranscript.txt",
+        "format": "plain txt",
+        "words": 5946
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "dave-chappelle_ave-happelle-ticks-tones-pilogue-he-unchline-ransc",
+      "title": "Ave Happelle Ticks Tones Pilogue He Unchline Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/dave-chappelle/ave-happelle-ticks-tones-pilogue-he-unchline-ranscript.txt",
+        "format": "plain txt",
+        "words": 2487
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -324,11 +504,21 @@
     "sets_observed": 0,
     "next": "ingest first word-timed set \u2192 measure the hold-after-point hypothesis \u2192 recompute priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/dave-chappelle/dave-chappelle-846-transcript.txt",
-      "/root/characters2/theory/transcripts/dave-chappelle/dave-chappelle-acceptance-speech-2019-mark-twain-prize.txt",
-      "/root/characters2/theory/transcripts/dave-chappelle/dave-chappelle-age-spin-2017-full-transcript.txt",
-      "/root/characters2/theory/transcripts/dave-chappelle/dave-chappelle-deep-heart-texas-2017-full-transcript.txt",
-      "/root/characters2/theory/transcripts/dave-chappelle/dave-chappelle-equanimity-2017-full-transcript.txt"
+      "transcripts/dave-chappelle/1998-raduzione-italiana.txt",
+      "transcripts/dave-chappelle/2017-ranscripci-n-completa.txt",
+      "transcripts/dave-chappelle/ave-happelle-8-46-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-bo-omedy-alf-our-1998-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-eep-in-the-eart-of-exas-2017-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-hat-s-in-a-ame-2022-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-he-ge-of-pin-2017-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-he-ird-evelation-2017-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-he-loser-2021-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-illin-hem-oftly-2000-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-onologue-2020-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-or-hat-t-s-orth-2004-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-quanimity-2017-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-ticks-tones-2019-ranscript.txt",
+      "transcripts/dave-chappelle/ave-happelle-ticks-tones-pilogue-he-unchline-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

@@ -1,0 +1,236 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "anthony-jeselnik",
+  "name": "Anthony Jeselnik",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Controlled-confession machine: setup establishes sympathy, punch reveals he's worse than you thought. Deadpan total control, never apologize.",
+    "premise": "A man who perfected the darkest two-story structure in comedy and delivers it like a funeral director.",
+    "archetype": "controlled_confessor",
+    "awareness": "aware",
+    "awareness_note": "Total awareness; the control IS the act.",
+    "philosophy": {
+      "ontology": "Story A is sympathy; story B is damnation.",
+      "epistemology": "The audience's comfort is the setup; their shock is the punch.",
+      "axiology": "Precision over warmth, always.",
+      "causality": "One perfectly placed confession collapses the room's moral frame.",
+      "agency": "Anyone can be dark; almost nobody is surgical about it."
+    },
+    "dramatic_core": {
+      "want": "the perfect dark turn",
+      "fear": "the warm laugh \u2014 it means he missed",
+      "need": "to be the darkest precise voice in the room",
+      "self_model": "a man with a scalpel where the heart should be",
+      "blind_spots": [
+        "the formula can become visible"
+      ]
+    },
+    "misinterpretation_rule": "Setup tells story A (sympathy/mundane); punch reveals story B \u2014 and story B is always that he's worse than believed.",
+    "contradictions": [
+      "the most controlled delivery of the most uncontrolled content"
+    ],
+    "status_model": {
+      "desired_status": "the darkest precise voice",
+      "felt_status": "a man permanently holding the scalpel"
+    },
+    "expression": {
+      "default_register": "deadpan-confession",
+      "emotional_restraint": "total",
+      "tells": [
+        "the flat setup",
+        "the turn with no tell",
+        "the hold while the room gasps"
+      ]
+    },
+    "modulator_range": [
+      "deadpan",
+      "confession",
+      "dark-turn",
+      "roast-adjacent",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.4,
+      "pace": "flat setup, devastating turn",
+      "gesture_frequency": 0.2,
+      "punchline_hold_ms": 1200
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.3,
+      "double_interpret": 0.7,
+      "status_invert": 0.5,
+      "character_violation": 0.8,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "two_stories",
+      "benign_violation"
+    ],
+    "threads": [
+      "the confession as a weapon",
+      "story A vs story B",
+      "deadpan as a force field",
+      "the turn with no tell",
+      "darkness with precision"
+    ],
+    "problem_space": [
+      "taboo as structure",
+      "the audience's comfort as setup",
+      "control as comedy"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "controlled_confessor",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "anthony-jeselnik_2013-ull-ranscript",
+      "title": "2013 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/anthony-jeselnik/2013-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 4403
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "anthony-jeselnik_nthony-eselnik-houghts-nd-rayers-2015-ull-ranscrip",
+      "title": "Nthony Eselnik Houghts Nd Rayers 2015 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/anthony-jeselnik/nthony-eselnik-houghts-nd-rayers-2015-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 4955
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "anthony-jeselnik_nthony-eselnik-ire-in-the-aternity-ard-2019-ranscr",
+      "title": "Nthony Eselnik Ire In The Aternity Ard 2019 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/anthony-jeselnik/nthony-eselnik-ire-in-the-aternity-ard-2019-ranscript.txt",
+        "format": "plain txt",
+        "words": 4091
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "anthony-jeselnik-essay-01",
+      "title": "Why is Anthony Jeselnik funny?",
+      "thesis": "Setup tells story A (sympathy/mundane); punch reveals story B \u2014 and story B is always that he's worse than believed.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/anthony-jeselnik/2013-ull-ranscript.txt",
+      "transcripts/anthony-jeselnik/nthony-eselnik-houghts-nd-rayers-2015-ull-ranscript.txt",
+      "transcripts/anthony-jeselnik/nthony-eselnik-ire-in-the-aternity-ard-2019-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

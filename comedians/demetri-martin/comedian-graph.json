@@ -122,6 +122,30 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "demetri-martin_emetri-artin-he-verthinker-2018-ranscript",
+      "title": "Emetri Artin He Verthinker 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/demetri-martin/emetri-artin-he-verthinker-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 6390
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "demetri-martin_emetri-artin-ive-t-he-ime-2015-ranscript",
+      "title": "Emetri Artin Ive T He Ime 2015 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/demetri-martin/emetri-artin-ive-t-he-ime-2015-ranscript.txt",
+        "format": "plain txt",
+        "words": 6277
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -255,7 +279,9 @@
     "deepened": "2026-10-16",
     "transcripts_linked": [
       "transcripts/demetri-martin/demetri-martin-live-at-the-time-2015-transcript.txt",
-      "transcripts/demetri-martin/demetri-martin-the-overthinker-2018-transcript.txt"
+      "transcripts/demetri-martin/demetri-martin-the-overthinker-2018-transcript.txt",
+      "transcripts/demetri-martin/emetri-artin-he-verthinker-2018-ranscript.txt",
+      "transcripts/demetri-martin/emetri-artin-ive-t-he-ime-2015-ranscript.txt"
     ]
   },
   "known_bits": [

@@ -1,0 +1,303 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "jim-jefferies",
+  "name": "Jim Jefferies",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Aussie gun-control prophet who treats American absurdity as a contact sport and wins on logic delivered with a pint in hand.",
+    "premise": "An Australian who moved to America and found the whole country to be material \u2014 then built the tightest argument-comedy on the circuit.",
+    "archetype": "argument_brawler",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the logic is the weapon; the charm is the delivery system.",
+    "philosophy": {
+      "ontology": "America is an argument waiting to be won.",
+      "epistemology": "If the logic holds, the room has to come with you.",
+      "axiology": "Winning the argument IS the joke.",
+      "causality": "One airtight case collapses a whole room's priors.",
+      "agency": "Anyone can be angry; almost nobody builds the case."
+    },
+    "dramatic_core": {
+      "want": "to win the argument",
+      "fear": "the heckler with a better point",
+      "need": "the room to concede and laugh at the same time",
+      "self_model": "a man with a watertight case and a beer",
+      "blind_spots": [
+        "the win can become the whole act"
+      ]
+    },
+    "misinterpretation_rule": "Treats every cultural debate as a courtroom case, builds the airtight argument, then delivers the verdict as a punchline.",
+    "contradictions": [
+      "the brawler with the best-constructed bits",
+      "the drunk persona with the sober logic"
+    ],
+    "status_model": {
+      "desired_status": "the man who won",
+      "felt_status": "an Aussie permanently prosecuting America"
+    },
+    "expression": {
+      "default_register": "argument-brawler",
+      "emotional_restraint": "medium",
+      "tells": [
+        "the logical windup",
+        "the pint as punctuation",
+        "the grin after the verdict"
+      ]
+    },
+    "modulator_range": [
+      "brawler",
+      "logic-engine",
+      "story-mode",
+      "roast-adjacent",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.75,
+      "pace": "case-build, verdict-punch",
+      "gesture_frequency": 0.6,
+      "punchline_hold_ms": 700
+    },
+    "operator_priors": {
+      "rigidify": 0.6,
+      "literalize": 0.5,
+      "double_interpret": 0.55,
+      "status_invert": 0.6,
+      "character_violation": 0.4,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "rigidity",
+      "status_reversal",
+      "incongruity"
+    ],
+    "threads": [
+      "gun control as a logic problem",
+      "America as a defendant",
+      "the airtight case as a form",
+      "religion as a debate opponent",
+      "the pint as a prop"
+    ],
+    "problem_space": [
+      "American absurdity",
+      "logic as a weapon",
+      "the expat lens"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "argument_brawler",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "jim-jefferies_2008-ull-ranscript",
+      "title": "2008 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/2008-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 7743
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-jefferies_2009",
+      "title": "2009",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/2009.txt",
+        "format": "plain txt",
+        "words": 5682
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-jefferies_2014-ull-ranscript",
+      "title": "2014 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/2014-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 8369
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-jefferies_2016-ull-ranscript",
+      "title": "2016 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/2016-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 8676
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-jefferies_2018-ull-transcript",
+      "title": "2018 Ull Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/2018-ull-transcript.txt",
+        "format": "plain txt",
+        "words": 7151
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-jefferies_2020",
+      "title": "2020",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/2020.txt",
+        "format": "plain txt",
+        "words": 7162
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-jefferies_im-efferies-igh-n-ry-2023-ranscript",
+      "title": "Im Efferies Igh N Ry 2023 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/im-efferies-igh-n-ry-2023-ranscript.txt",
+        "format": "plain txt",
+        "words": 5704
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-jefferies_im-efferies-lcoholocaust-2010-ranscript",
+      "title": "Im Efferies Lcoholocaust 2010 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-jefferies/im-efferies-lcoholocaust-2010-ranscript.txt",
+        "format": "plain txt",
+        "words": 6161
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "jim-jefferies-essay-01",
+      "title": "Why is Jim Jefferies funny?",
+      "thesis": "Treats every cultural debate as a courtroom case, builds the airtight argument, then delivers the verdict as a punchline.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/jim-jefferies/2008-ull-ranscript.txt",
+      "transcripts/jim-jefferies/2009.txt",
+      "transcripts/jim-jefferies/2014-ull-ranscript.txt",
+      "transcripts/jim-jefferies/2016-ull-ranscript.txt",
+      "transcripts/jim-jefferies/2018-ull-transcript.txt",
+      "transcripts/jim-jefferies/2020.txt",
+      "transcripts/jim-jefferies/im-efferies-igh-n-ry-2023-ranscript.txt",
+      "transcripts/jim-jefferies/im-efferies-lcoholocaust-2010-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

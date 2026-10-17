@@ -159,6 +159,114 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "bill-burr_2008-esto-italiano-completo",
+      "title": "2008 Esto Italiano Completo",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/2008-esto-italiano-completo.txt",
+        "format": "plain txt",
+        "words": 5627
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_2010",
+      "title": "2010",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/2010.txt",
+        "format": "plain txt",
+        "words": 5951
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_2012-ull-ranscript",
+      "title": "2012 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/2012-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 9485
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_2014-ull-ranscript",
+      "title": "2014 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/2014-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 9362
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_2017-ull-ranscript",
+      "title": "2017 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/2017-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 9692
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_ill-urr-aper-iger-2019-ranscript",
+      "title": "Ill Urr Aper Iger 2019 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/ill-urr-aper-iger-2019-ranscript.txt",
+        "format": "plain txt",
+        "words": 8584
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_ill-urr-he-hiladelphia-ncident-2006-ranscript",
+      "title": "Ill Urr He Hiladelphia Ncident 2006 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/ill-urr-he-hiladelphia-ncident-2006-ranscript.txt",
+        "format": "plain txt",
+        "words": 1620
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_ill-urr-ive-at-ed-ocks-2022-ranscript",
+      "title": "Ill Urr Ive At Ed Ocks 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/ill-urr-ive-at-ed-ocks-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 9774
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bill-burr_ill-urr-nl-onologue-2020-ranscript",
+      "title": "Ill Urr Nl Onologue 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bill-burr/ill-urr-nl-onologue-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 800
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -307,11 +415,15 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/bill-burr/bill-burr-i-m-sorry-you-feel-that-way.txt",
-      "/root/characters2/theory/transcripts/bill-burr/bill-burr-let-go.txt",
-      "/root/characters2/theory/transcripts/bill-burr/bill-burr-live-at-red-rocks.txt",
-      "/root/characters2/theory/transcripts/bill-burr/bill-burr-paper-tiger.txt",
-      "/root/characters2/theory/transcripts/bill-burr/bill-burr-philadelphia-incident.txt"
+      "transcripts/bill-burr/2008-esto-italiano-completo.txt",
+      "transcripts/bill-burr/2010.txt",
+      "transcripts/bill-burr/2012-ull-ranscript.txt",
+      "transcripts/bill-burr/2014-ull-ranscript.txt",
+      "transcripts/bill-burr/2017-ull-ranscript.txt",
+      "transcripts/bill-burr/ill-urr-aper-iger-2019-ranscript.txt",
+      "transcripts/bill-burr/ill-urr-he-hiladelphia-ncident-2006-ranscript.txt",
+      "transcripts/bill-burr/ill-urr-ive-at-ed-ocks-2022-ranscript.txt",
+      "transcripts/bill-burr/ill-urr-nl-onologue-2020-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

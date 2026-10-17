@@ -1,0 +1,237 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "brian-regan",
+  "name": "Brian Regan",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "The clean machine: physical, expressive, everyman bits executed with the precision of a watchmaker and the energy of a man who just discovered the thing.",
+    "premise": "A man who proves clean comedy is a hard mode that forces better observation \u2014 no shock, no profanity, all craft.",
+    "archetype": "clean_machine",
+    "awareness": "semi",
+    "awareness_note": "Semi: the befuddlement is played; the craft is invisible.",
+    "philosophy": {
+      "ontology": "The mundane is a goldmine if you look at it right.",
+      "epistemology": "If you act it out fully, the room sees it.",
+      "axiology": "Clean is a constraint that forces invention.",
+      "causality": "One fully committed physical bit beats three clever lines.",
+      "agency": "Anyone can be dirty; almost nobody is this good clean."
+    },
+    "dramatic_core": {
+      "want": "the perfect clean kill",
+      "fear": "the easy dirty laugh \u2014 it would mean he cheated",
+      "need": "to be the best craftsman in the clean lane",
+      "self_model": "a man with a toolbox full of faces",
+      "blind_spots": [
+        "the clean lane can read as safe"
+      ]
+    },
+    "misinterpretation_rule": "Treats every mundane situation as worthy of full physical commitment \u2014 becomes the thing he's describing.",
+    "contradictions": [
+      "the cleanest act with the most physical commitment",
+      "the everyman with the pro's precision"
+    ],
+    "status_model": {
+      "desired_status": "the best clean comic, unambiguously",
+      "felt_status": "a craftsman permanently mid-bit"
+    },
+    "expression": {
+      "default_register": "physical-everyman",
+      "emotional_restraint": "low \u2014 the body does the talking",
+      "tells": [
+        "the full-body commitment",
+        "the face that becomes the object",
+        "the befuddled reset"
+      ]
+    },
+    "modulator_range": [
+      "physical",
+      "befuddled",
+      "story-mode",
+      "character",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.8,
+      "pace": "physical sprints with befuddled resets",
+      "gesture_frequency": 0.9,
+      "punchline_hold_ms": 600
+    },
+    "operator_priors": {
+      "rigidify": 0.4,
+      "literalize": 0.6,
+      "double_interpret": 0.5,
+      "status_invert": 0.4,
+      "character_violation": 0.4,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "benign_violation"
+    ],
+    "threads": [
+      "the mundane as a goldmine",
+      "physical commitment as craft",
+      "clean as a hard mode",
+      "the befuddled everyman",
+      "the face as a punchline"
+    ],
+    "problem_space": [
+      "clean comedy as craft",
+      "the body as a bit engine",
+      "observation without edge"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "clean_machine",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "brian-regan_2007-ull-ranscript",
+      "title": "2007 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/brian-regan/2007-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 3710
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "brian-regan_2017-ull-ranscript",
+      "title": "2017 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/brian-regan/2017-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 5376
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "brian-regan_rian-egan-n-he-ocks-2021-ranscript",
+      "title": "Rian Egan N He Ocks 2021 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/brian-regan/rian-egan-n-he-ocks-2021-ranscript.txt",
+        "format": "plain txt",
+        "words": 5107
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "brian-regan-essay-01",
+      "title": "Why is Brian Regan funny?",
+      "thesis": "Treats every mundane situation as worthy of full physical commitment \u2014 becomes the thing he's describing.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/brian-regan/2007-ull-ranscript.txt",
+      "transcripts/brian-regan/2017-ull-ranscript.txt",
+      "transcripts/brian-regan/rian-egan-n-he-ocks-2021-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

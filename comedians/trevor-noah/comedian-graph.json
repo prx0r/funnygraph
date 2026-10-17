@@ -1,0 +1,276 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "trevor-noah",
+  "name": "Trevor Noah",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Multilingual bridge-comic who treats every accent as a character and every culture as a bit waiting to be translated.",
+    "premise": "A South African who grew up between worlds and turned the between-ness into the act.",
+    "archetype": "bridge_translator",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the translation is the act; the accents are the delivery system.",
+    "philosophy": {
+      "ontology": "Every culture is absurd from the outside.",
+      "epistemology": "If you can do the accent, you can tell the truth about the culture.",
+      "axiology": "Translation is a form of love.",
+      "causality": "One good accent unlocks a whole worldview.",
+      "agency": "Anyone can imitate; almost nobody translates."
+    },
+    "dramatic_core": {
+      "want": "to make every room feel like home",
+      "fear": "the accent becoming the whole act",
+      "need": "to be the bridge, not the tourist",
+      "self_model": "a man with a passport full of voices",
+      "blind_spots": [
+        "the smoothness can hide the edge"
+      ]
+    },
+    "misinterpretation_rule": "Treats every cultural norm as material for translation \u2014 performs the culture back to itself in its own accent.",
+    "contradictions": [
+      "the smoothest delivery with the sharpest observations",
+      "the outsider who became the insider"
+    ],
+    "status_model": {
+      "desired_status": "the bridge",
+      "felt_status": "a man permanently between worlds"
+    },
+    "expression": {
+      "default_register": "translator",
+      "emotional_restraint": "high",
+      "tells": [
+        "the accent switch",
+        "the smile that includes the room",
+        "the story that lands in three cultures at once"
+      ]
+    },
+    "modulator_range": [
+      "translator",
+      "character",
+      "story-mode",
+      "political",
+      "tender"
+    ],
+    "profile": {
+      "energy": 0.65,
+      "pace": "story with accent pivots",
+      "gesture_frequency": 0.55,
+      "punchline_hold_ms": 800
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.4,
+      "double_interpret": 0.6,
+      "status_invert": 0.4,
+      "character_violation": 0.5,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "bisociation"
+    ],
+    "threads": [
+      "accents as characters",
+      "translation as comedy",
+      "the between-ness as a position",
+      "America from the outside",
+      "the smooth delivery of sharp things"
+    ],
+    "problem_space": [
+      "identity as material",
+      "language as a character engine",
+      "the global comic"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "bridge_translator",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "trevor-noah_2-2018",
+      "title": "2 2018",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/trevor-noah/2-2018.txt",
+        "format": "plain txt",
+        "words": 1110
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "trevor-noah_2013-ranscript",
+      "title": "2013 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/trevor-noah/2013-ranscript.txt",
+        "format": "plain txt",
+        "words": 1004
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "trevor-noah_revor-oah-fraid-f-he-ark-2017-ranscript",
+      "title": "Revor Oah Fraid F He Ark 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/trevor-noah/revor-oah-fraid-f-he-ark-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 7584
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "trevor-noah_revor-oah-ish-ou-ould-2022-ranscript",
+      "title": "Revor Oah Ish Ou Ould 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/trevor-noah/revor-oah-ish-ou-ould-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 7640
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "trevor-noah_revor-oah-on-of-atricia-2018-ranscript",
+      "title": "Revor Oah On Of Atricia 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/trevor-noah/revor-oah-on-of-atricia-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 8007
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "trevor-noah_revor-oah-ost-n-ranslation-2015-ranscript",
+      "title": "Revor Oah Ost N Ranslation 2015 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/trevor-noah/revor-oah-ost-n-ranslation-2015-ranscript.txt",
+        "format": "plain txt",
+        "words": 7500
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "trevor-noah-essay-01",
+      "title": "Why is Trevor Noah funny?",
+      "thesis": "Treats every cultural norm as material for translation \u2014 performs the culture back to itself in its own accent.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/trevor-noah/2-2018.txt",
+      "transcripts/trevor-noah/2013-ranscript.txt",
+      "transcripts/trevor-noah/revor-oah-fraid-f-he-ark-2017-ranscript.txt",
+      "transcripts/trevor-noah/revor-oah-ish-ou-ould-2022-ranscript.txt",
+      "transcripts/trevor-noah/revor-oah-on-of-atricia-2018-ranscript.txt",
+      "transcripts/trevor-noah/revor-oah-ost-n-ranslation-2015-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

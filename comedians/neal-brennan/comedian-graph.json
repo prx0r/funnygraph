@@ -1,0 +1,237 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "neal-brennan",
+  "name": "Neal Brennan",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Co-creator brain doing solo autopsy: treats his own depression, success, and Chappelle-adjacent history as material for the most honest hour on the circuit.",
+    "premise": "A man who helped invent modern comedy's biggest voice, then turned the lens on himself with uncomfortable precision.",
+    "archetype": "honest_autopsy",
+    "awareness": "aware",
+    "awareness_note": "Brutally aware; the honesty is the act and the wound.",
+    "philosophy": {
+      "ontology": "Success doesn't fix the brain; it gives the brain better material.",
+      "epistemology": "If it hurts to say, it's probably the bit.",
+      "axiology": "Honesty over comfort, even when the honesty is about yourself.",
+      "causality": "One uncomfortable truth told well frees the room.",
+      "agency": "Anyone can confess; almost nobody autopsies."
+    },
+    "dramatic_core": {
+      "want": "to say the true thing even when it costs",
+      "fear": "the comfortable lie \u2014 his own most of all",
+      "need": "the room to sit in the discomfort with him",
+      "self_model": "a man doing surgery on himself in public",
+      "blind_spots": [
+        "the honesty can become a performance of honesty"
+      ]
+    },
+    "misinterpretation_rule": "Treats his own life as a case study, applies the same rigor he'd apply to someone else's, reports the findings without flinching.",
+    "contradictions": [
+      "the architect dissecting his own building",
+      "the funny one doing the sad hour"
+    ],
+    "status_model": {
+      "desired_status": "the honest one",
+      "felt_status": "a man permanently mid-autopsy"
+    },
+    "expression": {
+      "default_register": "honest-autopsy",
+      "emotional_restraint": "low",
+      "tells": [
+        "the uncomfortable pause",
+        "the laugh that covers the crack",
+        "the direct address"
+      ]
+    },
+    "modulator_range": [
+      "honest",
+      "dark-turn",
+      "story-mode",
+      "confrontational",
+      "tender"
+    ],
+    "profile": {
+      "energy": 0.6,
+      "pace": "deliberate, confessional",
+      "gesture_frequency": 0.4,
+      "punchline_hold_ms": 900
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.3,
+      "double_interpret": 0.5,
+      "status_invert": 0.6,
+      "character_violation": 0.5,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "benign_violation",
+      "persona_gap"
+    ],
+    "threads": [
+      "depression as material",
+      "the co-creator stepping out",
+      "honesty as a weapon and a wound",
+      "success that doesn't fix",
+      "the uncomfortable truth"
+    ],
+    "problem_space": [
+      "mental health as content",
+      "the industry from inside",
+      "masculinity and vulnerability"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "honest_autopsy",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "neal-brennan_3-2017",
+      "title": "3 2017",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/neal-brennan/3-2017.txt",
+        "format": "plain txt",
+        "words": 6884
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "neal-brennan_eal-rennan-locks-2022-ranscript",
+      "title": "Eal Rennan Locks 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/neal-brennan/eal-rennan-locks-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 6505
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "neal-brennan_eal-rennan-omen-nd-lack-udes-2014-ranscript",
+      "title": "Eal Rennan Omen Nd Lack Udes 2014 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/neal-brennan/eal-rennan-omen-nd-lack-udes-2014-ranscript.txt",
+        "format": "plain txt",
+        "words": 6740
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "neal-brennan-essay-01",
+      "title": "Why is Neal Brennan funny?",
+      "thesis": "Treats his own life as a case study, applies the same rigor he'd apply to someone else's, reports the findings without flinching.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/neal-brennan/3-2017.txt",
+      "transcripts/neal-brennan/eal-rennan-locks-2022-ranscript.txt",
+      "transcripts/neal-brennan/eal-rennan-omen-nd-lack-udes-2014-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

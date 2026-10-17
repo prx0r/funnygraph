@@ -159,6 +159,90 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "chris-rock_hris-ock-amborine-2018-ranscript",
+      "title": "Hris Ock Amborine 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/chris-rock/hris-ock-amborine-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 5566
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "chris-rock_hris-ock-elective-utrage-2023-ranscript",
+      "title": "Hris Ock Elective Utrage 2023 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/chris-rock/hris-ock-elective-utrage-2023-ranscript.txt",
+        "format": "plain txt",
+        "words": 6319
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "chris-rock_hris-ock-ever-cared-2004-ranscript",
+      "title": "Hris Ock Ever Cared 2004 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/chris-rock/hris-ock-ever-cared-2004-ranscript.txt",
+        "format": "plain txt",
+        "words": 9165
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "chris-rock_hris-ock-igger-lacker-1999-ranscript",
+      "title": "Hris Ock Igger Lacker 1999 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/chris-rock/hris-ock-igger-lacker-1999-ranscript.txt",
+        "format": "plain txt",
+        "words": 6314
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "chris-rock_hris-ock-ill-he-essenger-ondon-ew-ork-ohannesburg-",
+      "title": "Hris Ock Ill He Essenger Ondon Ew Ork Ohannesburg 2008 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/chris-rock/hris-ock-ill-he-essenger-ondon-ew-ork-ohannesburg-2008-ranscript.txt",
+        "format": "plain txt",
+        "words": 7919
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "chris-rock_hris-ock-onologue-2020-ranscript",
+      "title": "Hris Ock Onologue 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/chris-rock/hris-ock-onologue-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 907
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "chris-rock_hris-ock-ring-the-ain-1996-ranscript",
+      "title": "Hris Ock Ring The Ain 1996 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/chris-rock/hris-ock-ring-the-ain-1996-ranscript.txt",
+        "format": "plain txt",
+        "words": 6051
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -314,11 +398,13 @@
     "sets_observed": 0,
     "next": "ingest prosecutor-rhythm set; the stammer-build and hold-length are the things to measure",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/chris-rock/chris-rock-bigger-blacker-1999-full-transcript.txt",
-      "/root/characters2/theory/transcripts/chris-rock/chris-rock-bring-pain-transcript.txt",
-      "/root/characters2/theory/transcripts/chris-rock/chris-rock-kill-the-messenger-london-new-york-johannesburg-2008-movie-script.txt",
-      "/root/characters2/theory/transcripts/chris-rock/chris-rock-never-scared-2004-full-transcript.txt",
-      "/root/characters2/theory/transcripts/chris-rock/chris-rock-selective-outrage-transcript.txt"
+      "transcripts/chris-rock/hris-ock-amborine-2018-ranscript.txt",
+      "transcripts/chris-rock/hris-ock-elective-utrage-2023-ranscript.txt",
+      "transcripts/chris-rock/hris-ock-ever-cared-2004-ranscript.txt",
+      "transcripts/chris-rock/hris-ock-igger-lacker-1999-ranscript.txt",
+      "transcripts/chris-rock/hris-ock-ill-he-essenger-ondon-ew-ork-ohannesburg-2008-ranscript.txt",
+      "transcripts/chris-rock/hris-ock-onologue-2020-ranscript.txt",
+      "transcripts/chris-rock/hris-ock-ring-the-ain-1996-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

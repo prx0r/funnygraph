@@ -122,6 +122,30 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "maria-bamford_2017",
+      "title": "2017",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/maria-bamford/2017.txt",
+        "format": "plain txt",
+        "words": 5951
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "maria-bamford_2020",
+      "title": "2020",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/maria-bamford/2020.txt",
+        "format": "plain txt",
+        "words": 6595
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -272,7 +296,9 @@
     "deepened": "2026-10-16",
     "transcripts_linked": [
       "transcripts/maria-bamford/maria-bamford-old-baby-2017-full-transcript.txt",
-      "transcripts/maria-bamford/maria-bamford-weakness-is-the-brand-2020-full-transcript.txt"
+      "transcripts/maria-bamford/maria-bamford-weakness-is-the-brand-2020-full-transcript.txt",
+      "transcripts/maria-bamford/2017.txt",
+      "transcripts/maria-bamford/2020.txt"
     ]
   },
   "known_bits": [

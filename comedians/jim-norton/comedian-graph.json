@@ -1,0 +1,238 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "jim-norton",
+  "name": "Jim Norton",
+  "note": "AUTO-DRAFT from transcript stats \u2014 needs human review for identity/style thesis. Threads and vocabulary are measured.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Stand-up voice with 26,139 words of specials in the corpus. Top distinctive vocabulary: because, your, about, people, want.",
+    "premise": "Auto-drafted from 26,139 transcript words \u2014 needs human review for the engine thesis.",
+    "archetype": "auto_draft",
+    "awareness": "unknown",
+    "awareness_note": "auto-draft \u2014 needs human review",
+    "philosophy": {
+      "ontology": "Top topics suggest: because, your, about, people.",
+      "epistemology": "auto-draft",
+      "axiology": "auto-draft",
+      "causality": "auto-draft",
+      "agency": "auto-draft"
+    },
+    "dramatic_core": {
+      "want": "auto-draft",
+      "fear": "auto-draft",
+      "need": "auto-draft",
+      "self_model": "auto-draft",
+      "blind_spots": [
+        "auto-draft \u2014 needs human review"
+      ]
+    },
+    "misinterpretation_rule": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+    "contradictions": [],
+    "status_model": {
+      "desired_status": "auto-draft",
+      "felt_status": "auto-draft"
+    },
+    "expression": {
+      "default_register": "auto-draft",
+      "emotional_restraint": "high",
+      "tells": [
+        "top words: because, your, about, people, want"
+      ]
+    },
+    "modulator_range": [],
+    "profile": {
+      "energy": 0.5,
+      "pace": "auto-draft",
+      "gesture_frequency": 0.5,
+      "punchline_hold_ms": 800
+    },
+    "operator_priors": {
+      "rigidify": 0.5,
+      "literalize": 0.5,
+      "double_interpret": 0.5,
+      "status_invert": 0.5,
+      "character_violation": 0.5,
+      "status": "auto-draft from transcript stats"
+    },
+    "preferred_theories": [],
+    "threads": [
+      "because",
+      "your",
+      "about",
+      "people",
+      "want",
+      "then"
+    ],
+    "problem_space": [
+      "there",
+      "think",
+      "little",
+      "fucking"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "auto_draft",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [
+    {
+      "set_id": "jim-norton_2013",
+      "title": "2013",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-norton/2013.txt",
+        "format": "plain txt",
+        "words": 6133
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-norton_im-orton-onster-ain-2007-ranscript",
+      "title": "Im Orton Onster Ain 2007 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-norton/im-orton-onster-ain-2007-ranscript.txt",
+        "format": "plain txt",
+        "words": 6021
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-norton_im-orton-ontextually-nadequate-2015-ranscript",
+      "title": "Im Orton Ontextually Nadequate 2015 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-norton/im-orton-ontextually-nadequate-2015-ranscript.txt",
+        "format": "plain txt",
+        "words": 6737
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "jim-norton_im-orton-outhful-f-hame-2017-ranscript",
+      "title": "Im Orton Outhful F Hame 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/jim-norton/im-orton-outhful-f-hame-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 7248
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "jim-norton-essay-01",
+      "title": "Why is Jim Norton funny?",
+      "thesis": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal",
+        "the engine",
+        "the priors",
+        "three threads",
+        "why it can't be copied"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "transcripts_linked": [
+      "transcripts/jim-norton/2013.txt",
+      "transcripts/jim-norton/im-orton-onster-ain-2007-ranscript.txt",
+      "transcripts/jim-norton/im-orton-ontextually-nadequate-2015-ranscript.txt",
+      "transcripts/jim-norton/im-orton-outhful-f-hame-2017-ranscript.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

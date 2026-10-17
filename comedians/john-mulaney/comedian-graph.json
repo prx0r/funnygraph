@@ -158,6 +158,78 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "john-mulaney_ohn-ulaney-aby-2023-ranscript",
+      "title": "Ohn Ulaney Aby 2023 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/john-mulaney/ohn-ulaney-aby-2023-ranscript.txt",
+        "format": "plain txt",
+        "words": 7304
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "john-mulaney_ohn-ulaney-ew-n-own-2012-ranscript",
+      "title": "Ohn Ulaney Ew N Own 2012 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/john-mulaney/ohn-ulaney-ew-n-own-2012-ranscript.txt",
+        "format": "plain txt",
+        "words": 9515
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "john-mulaney_ohn-ulaney-he-omeback-id-2015-ranscript",
+      "title": "Ohn Ulaney He Omeback Id 2015 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/john-mulaney/ohn-ulaney-he-omeback-id-2015-ranscript.txt",
+        "format": "plain txt",
+        "words": 7102
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "john-mulaney_ohn-ulaney-id-orgeous-t-adio-ity-2018-ranscript",
+      "title": "Ohn Ulaney Id Orgeous T Adio Ity 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/john-mulaney/ohn-ulaney-id-orgeous-t-adio-ity-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 6966
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "john-mulaney_ohn-ulaney-nl-onologue-2018-ranscript",
+      "title": "Ohn Ulaney Nl Onologue 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/john-mulaney/ohn-ulaney-nl-onologue-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 778
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "john-mulaney_ohn-ulaney-onologue-2020-ranscript",
+      "title": "Ohn Ulaney Onologue 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/john-mulaney/ohn-ulaney-onologue-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 1183
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -306,11 +378,12 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/john-mulaney/john-mulaney-baby-j.txt",
-      "/root/characters2/theory/transcripts/john-mulaney/john-mulaney-comeback-kid.txt",
-      "/root/characters2/theory/transcripts/john-mulaney/john-mulaney-kid-gorgeous-at-radio-city.txt",
-      "/root/characters2/theory/transcripts/john-mulaney/john-mulaney-new-town.txt",
-      "/root/characters2/theory/transcripts/john-mulaney/john-mulaney-snl-monologue.txt"
+      "transcripts/john-mulaney/ohn-ulaney-aby-2023-ranscript.txt",
+      "transcripts/john-mulaney/ohn-ulaney-ew-n-own-2012-ranscript.txt",
+      "transcripts/john-mulaney/ohn-ulaney-he-omeback-id-2015-ranscript.txt",
+      "transcripts/john-mulaney/ohn-ulaney-id-orgeous-t-adio-ity-2018-ranscript.txt",
+      "transcripts/john-mulaney/ohn-ulaney-nl-onologue-2018-ranscript.txt",
+      "transcripts/john-mulaney/ohn-ulaney-onologue-2020-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

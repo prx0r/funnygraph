@@ -366,6 +366,42 @@
           ]
         }
       ]
+    },
+    {
+      "set_id": "norm-macdonald_1991-ull-ranscript",
+      "title": "1991 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/norm-macdonald/1991-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 2777
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "norm-macdonald_orm-acdonald-itler-s-og-ossip-rickery-2017-ranscri",
+      "title": "Orm Acdonald Itler S Og Ossip Rickery 2017 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/norm-macdonald/orm-acdonald-itler-s-og-ossip-rickery-2017-ranscript.txt",
+        "format": "plain txt",
+        "words": 5710
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "norm-macdonald_orm-acdonald-othing-pecial-2022-ranscript",
+      "title": "Orm Acdonald Othing Pecial 2022 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/norm-macdonald/orm-acdonald-othing-pecial-2022-ranscript.txt",
+        "format": "plain txt",
+        "words": 9758
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -581,7 +617,12 @@
     "sets_observed": 1,
     "next": "clean ASR pass on moth audio if available; ingest 2+ more sets (Weekend Update era + late-night story) \u2192 recompute operator_priors \u2192 essay drafts; engine-lane: add suspension_deadpan to mary_model modulators + consider wrong_expert as LM option",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/norm-macdonald/1991-ull-ranscript.txt",
+      "transcripts/norm-macdonald/orm-acdonald-itler-s-og-ossip-rickery-2017-ranscript.txt",
+      "transcripts/norm-macdonald/orm-acdonald-othing-pecial-2022-ranscript.txt"
+    ]
   },
   "timing_profile": {
     "doctrine_hypothesis": "THE never-stop engine: 6 pauses in 2 minutes, none shorter than 1.16s \u2014 rare and hard, punctuation not breathing. The refusal to give the room a reset IS the timing doctrine.",

@@ -97,7 +97,68 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "doug-stanhope_.txt",
+      "title": ".Txt",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/doug-stanhope/.txt",
+        "format": "plain txt",
+        "words": 1316
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "doug-stanhope_2004-ranscript",
+      "title": "2004 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/doug-stanhope/2004-ranscript.txt",
+        "format": "plain txt",
+        "words": 8543
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "doug-stanhope_2007-rascrizione-italiana",
+      "title": "2007 Rascrizione Italiana",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/doug-stanhope/2007-rascrizione-italiana.txt",
+        "format": "plain txt",
+        "words": 5935
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "doug-stanhope_2012-ranscript",
+      "title": "2012 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/doug-stanhope/2012-ranscript.txt",
+        "format": "plain txt",
+        "words": 6792
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "doug-stanhope_oug-tanhope-eer-all-utsch-2013-ranscript",
+      "title": "Oug Tanhope Eer All Utsch 2013 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/doug-stanhope/oug-tanhope-eer-all-utsch-2013-ranscript.txt",
+        "format": "plain txt",
+        "words": 6857
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
@@ -208,6 +269,13 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/doug-stanhope/.txt",
+      "transcripts/doug-stanhope/2004-ranscript.txt",
+      "transcripts/doug-stanhope/2007-rascrizione-italiana.txt",
+      "transcripts/doug-stanhope/2012-ranscript.txt",
+      "transcripts/doug-stanhope/oug-tanhope-eer-all-utsch-2013-ranscript.txt"
+    ]
   }
 }

@@ -147,6 +147,54 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "stewart-lee_90s-2006-ull-ranscript",
+      "title": "90S 2006 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/stewart-lee/90s-2006-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 7686
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "stewart-lee_tewart-ee-arpet-emnant-orld-2012-ull-ranscript",
+      "title": "Tewart Ee Arpet Emnant Orld 2012 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/stewart-lee/tewart-ee-arpet-emnant-orld-2012-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 11603
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "stewart-lee_tewart-ee-ontent-rovider-2018-ranscript",
+      "title": "Tewart Ee Ontent Rovider 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/stewart-lee/tewart-ee-ontent-rovider-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 12007
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "stewart-lee_tewart-ee-tand-p-omedian-2005-ranscript",
+      "title": "Tewart Ee Tand P Omedian 2005 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/stewart-lee/tewart-ee-tand-p-omedian-2005-ranscript.txt",
+        "format": "plain txt",
+        "words": 8263
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -295,10 +343,10 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-90s-comedian.txt",
-      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-carpet-remnant-world.txt",
-      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-content-provider.txt",
-      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-stand-up-comedian.txt"
+      "transcripts/stewart-lee/90s-2006-ull-ranscript.txt",
+      "transcripts/stewart-lee/tewart-ee-arpet-emnant-orld-2012-ull-ranscript.txt",
+      "transcripts/stewart-lee/tewart-ee-ontent-rovider-2018-ranscript.txt",
+      "transcripts/stewart-lee/tewart-ee-tand-p-omedian-2005-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"

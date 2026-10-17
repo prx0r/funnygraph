@@ -167,6 +167,54 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_om-egura-all-og-2020-ranscript",
+      "title": "Om Egura All Og 2020 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/om-egura-all-og-2020-ranscript.txt",
+        "format": "plain txt",
+        "words": 7255
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_om-egura-isgraceful-2018-ranscript",
+      "title": "Om Egura Isgraceful 2018 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/om-egura-isgraceful-2018-ranscript.txt",
+        "format": "plain txt",
+        "words": 8191
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_om-egura-ompletely-ormal-2014-ranscript",
+      "title": "Om Egura Ompletely Ormal 2014 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/om-egura-ompletely-ormal-2014-ranscript.txt",
+        "format": "plain txt",
+        "words": 8750
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_om-egura-ostly-tories-2016-ranscript",
+      "title": "Om Egura Ostly Tories 2016 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/om-egura-ostly-tories-2016-ranscript.txt",
+        "format": "plain txt",
+        "words": 7696
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -245,7 +293,11 @@
       "transcripts/tom-segura/tom-segura-completely-normal-2014-transcript.txt",
       "transcripts/tom-segura/tom-segura-disgraceful-2018-transcript.txt",
       "transcripts/tom-segura/tom-segura-mostly-stories-2016-transcript.txt",
-      "transcripts/tom-segura/tom-segura-overdoses-this-is-not-happening-transcript.txt"
+      "transcripts/tom-segura/tom-segura-overdoses-this-is-not-happening-transcript.txt",
+      "transcripts/tom-segura/om-egura-all-og-2020-ranscript.txt",
+      "transcripts/tom-segura/om-egura-isgraceful-2018-ranscript.txt",
+      "transcripts/tom-segura/om-egura-ompletely-ormal-2014-ranscript.txt",
+      "transcripts/tom-segura/om-egura-ostly-tories-2016-ranscript.txt"
     ]
   },
   "timing_profile": {

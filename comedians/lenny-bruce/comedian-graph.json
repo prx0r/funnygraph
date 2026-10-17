@@ -110,6 +110,18 @@
       },
       "timing_measured": null,
       "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "lenny-bruce_enny-ruce-he-erkeley-oncert-1965-ranscript",
+      "title": "Enny Ruce He Erkeley Oncert 1965 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/lenny-bruce/enny-ruce-he-erkeley-oncert-1965-ranscript.txt",
+        "format": "plain txt",
+        "words": 9440
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -222,7 +234,7 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "transcripts_linked": [
-      "/root/characters2/theory/transcripts/lenny-bruce/lenny-bruce-berkeley-concert.txt"
+      "transcripts/lenny-bruce/enny-ruce-he-erkeley-oncert-1965-ranscript.txt"
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"
