@@ -269,5 +269,15 @@
       "roast": 0.17
     },
     "method": "archetype+theories"
+  },
+  "metrics": {
+    "canon": 24.6,
+    "canon_era": 53.6,
+    "crowd": null,
+    "pull": null,
+    "craft": 37.5,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
   }
 }

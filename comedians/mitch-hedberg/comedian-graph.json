@@ -341,5 +341,15 @@
       "meta": 0.17
     },
     "method": "archetype+theories+transcript"
+  },
+  "metrics": {
+    "canon": 77.1,
+    "canon_era": 11.7,
+    "crowd": 0,
+    "pull": null,
+    "craft": 50.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": -0.771
   }
 }

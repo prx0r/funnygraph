@@ -286,5 +286,15 @@
       "observational": 1.0
     },
     "method": "archetype+theories+transcript"
+  },
+  "metrics": {
+    "canon": 59.2,
+    "canon_era": 4.5,
+    "crowd": 10.0,
+    "pull": null,
+    "craft": 25.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": -0.492
   }
 }

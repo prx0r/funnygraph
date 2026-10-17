@@ -265,5 +265,15 @@
       "dark-confessional": 1.0
     },
     "method": "archetype+theories+transcript"
+  },
+  "metrics": {
+    "canon": 68.2,
+    "canon_era": 8.9,
+    "crowd": 10.0,
+    "pull": null,
+    "craft": 0.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": -0.582
   }
 }

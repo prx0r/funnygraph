@@ -304,5 +304,15 @@
       "observational": 0.17
     },
     "method": "archetype+theories"
+  },
+  "metrics": {
+    "canon": 0.6,
+    "canon_era": 27.4,
+    "crowd": null,
+    "pull": null,
+    "craft": 62.5,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
   }
 }

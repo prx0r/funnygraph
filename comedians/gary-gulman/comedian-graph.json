@@ -284,5 +284,15 @@
       "surreal": 0.17
     },
     "method": "archetype+theories"
+  },
+  "metrics": {
+    "canon": 26.3,
+    "canon_era": 55.3,
+    "crowd": null,
+    "pull": null,
+    "craft": 50.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
   }
 }

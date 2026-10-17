@@ -429,5 +429,15 @@
     "views": 2200000,
     "specials": 4,
     "source": "What We Watched 2023H1-2026H1"
+  },
+  "metrics": {
+    "canon": 98.3,
+    "canon_era": 93.8,
+    "crowd": 70.0,
+    "pull": 60.7,
+    "craft": 50.0,
+    "heat": null,
+    "gap": -0.093,
+    "canon_lag": -0.283
   }
 }

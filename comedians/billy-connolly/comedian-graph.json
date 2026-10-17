@@ -263,5 +263,15 @@
       "comments": 2521,
       "duration_s": 347
     }
+  },
+  "metrics": {
+    "canon": 88.8,
+    "canon_era": 22.9,
+    "crowd": null,
+    "pull": 27.5,
+    "craft": 0.0,
+    "heat": null,
+    "gap": null,
+    "canon_lag": null
   }
 }
