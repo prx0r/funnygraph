@@ -1,0 +1,427 @@
+{
+ "note": "climb = raw_rank - era_rank. Positive climb = ranked BETTER era-adjusted (underrated by raw cross-era comparison). Negative = ranked WORSE era-adjusted (benefits from raw comparison, i.e. era advantage).",
+ "biggest_climbers": [
+  {
+   "rank": 43,
+   "comedian_id": "donald-glover",
+   "name": "Donald Glover",
+   "zscore": 0.337,
+   "zlegs": {
+    "critics": 0.0,
+    "audience": -0.903,
+    "awards": 2.143
+   },
+   "generation": "aughts",
+   "raw_rank": 60,
+   "climb": 17
+  },
+  {
+   "rank": 12,
+   "comedian_id": "kevin-hart",
+   "name": "Kevin Hart",
+   "zscore": 4.178,
+   "zlegs": {
+    "critics": 0.974,
+    "audience": 0.628,
+    "awards": 0.0
+   },
+   "generation": "aughts",
+   "raw_rank": 28,
+   "climb": 16
+  },
+  {
+   "rank": 6,
+   "comedian_id": "bill-burr",
+   "name": "Bill Burr",
+   "zscore": 6.607,
+   "zlegs": {
+    "critics": 1.139,
+    "audience": 1.595,
+    "awards": 0.0
+   },
+   "generation": "aughts",
+   "raw_rank": 22,
+   "climb": 16
+  },
+  {
+   "rank": 10,
+   "comedian_id": "eddie-izzard",
+   "name": "Eddie Izzard",
+   "zscore": 4.658,
+   "zlegs": {
+    "critics": 0.564,
+    "audience": 1.483,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 16,
+   "climb": 6
+  },
+  {
+   "rank": 8,
+   "comedian_id": "louis-ck",
+   "name": "Louis C.K.",
+   "zscore": 6.096,
+   "zlegs": {
+    "critics": 1.068,
+    "audience": 1.446,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 13,
+   "climb": 5
+  },
+  {
+   "rank": 3,
+   "comedian_id": "bill-hicks",
+   "name": "Bill Hicks",
+   "zscore": 9.306,
+   "zlegs": {
+    "critics": 2.236,
+    "audience": 1.299,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 8,
+   "climb": 5
+  },
+  {
+   "rank": 1,
+   "comedian_id": "dave-chappelle",
+   "name": "Dave Chappelle",
+   "zscore": 9.927,
+   "zlegs": {
+    "critics": 2.076,
+    "audience": 1.372,
+    "awards": 0.955
+   },
+   "generation": "nineties",
+   "raw_rank": 6,
+   "climb": 5
+  },
+  {
+   "rank": 13,
+   "comedian_id": "bill-maher",
+   "name": "Bill Maher",
+   "zscore": 3.671,
+   "zlegs": {
+    "critics": 1.272,
+    "audience": 0.0,
+    "awards": -0.145
+   },
+   "generation": "aughts",
+   "raw_rank": 17,
+   "climb": 4
+  },
+  {
+   "rank": 32,
+   "comedian_id": "demetri-martin",
+   "name": "Demetri Martin",
+   "zscore": 1.476,
+   "zlegs": {
+    "critics": 0.0,
+    "audience": 1.192,
+    "awards": -0.908
+   },
+   "generation": "aughts",
+   "raw_rank": 34,
+   "climb": 2
+  },
+  {
+   "rank": 5,
+   "comedian_id": "robin-williams",
+   "name": "Robin Williams",
+   "zscore": 7.832,
+   "zlegs": {
+    "critics": 1.337,
+    "audience": 0.722,
+    "awards": 2.377
+   },
+   "generation": "seventies",
+   "raw_rank": 5,
+   "climb": 0
+  },
+  {
+   "rank": 27,
+   "comedian_id": "ali-wong",
+   "name": "Ali Wong",
+   "zscore": 1.875,
+   "zlegs": {
+    "critics": 0.0,
+    "audience": 1.218,
+    "awards": -0.561
+   },
+   "generation": "tens",
+   "raw_rank": 26,
+   "climb": -1
+  },
+  {
+   "rank": 16,
+   "comedian_id": "bo-burnham",
+   "name": "Bo Burnham",
+   "zscore": 3.253,
+   "zlegs": {
+    "critics": 0.0,
+    "audience": 1.917,
+    "awards": -0.581
+   },
+   "generation": "aughts",
+   "raw_rank": 15,
+   "climb": -1
+  },
+  {
+   "rank": 2,
+   "comedian_id": "george-carlin",
+   "name": "George Carlin",
+   "zscore": 9.376,
+   "zlegs": {
+    "critics": 2.122,
+    "audience": 1.505,
+    "awards": 0.0
+   },
+   "generation": "seventies",
+   "raw_rank": 1,
+   "climb": -1
+  },
+  {
+   "rank": 4,
+   "comedian_id": "richard-pryor",
+   "name": "Richard Pryor",
+   "zscore": 8.334,
+   "zlegs": {
+    "critics": 2.242,
+    "audience": 0.804,
+    "awards": 0.0
+   },
+   "generation": "seventies",
+   "raw_rank": 2,
+   "climb": -2
+  },
+  {
+   "rank": 14,
+   "comedian_id": "eddie-murphy",
+   "name": "Eddie Murphy",
+   "zscore": 3.609,
+   "zlegs": {
+    "critics": 0.831,
+    "audience": 0.558,
+    "awards": 0.0
+   },
+   "generation": "eighties-boom",
+   "raw_rank": 11,
+   "climb": -3
+  }
+ ],
+ "biggest_fallers": [
+  {
+   "rank": 179,
+   "comedian_id": "d-l-hughley",
+   "name": "D L Hughley",
+   "zscore": -5.798,
+   "zlegs": {
+    "critics": -0.644,
+    "audience": -1.933,
+    "awards": 0.0
+   },
+   "generation": "eighties-boom",
+   "raw_rank": 48,
+   "climb": -131
+  },
+  {
+   "rank": 160,
+   "comedian_id": "jeff-foxworthy",
+   "name": "Jeff Foxworthy",
+   "zscore": -2.286,
+   "zlegs": {
+    "critics": -0.762,
+    "audience": 0.0,
+    "awards": 0.0
+   },
+   "generation": "eighties-boom",
+   "raw_rank": 30,
+   "climb": -130
+  },
+  {
+   "rank": 156,
+   "comedian_id": "adam-sandler",
+   "name": "Adam Sandler",
+   "zscore": -2.042,
+   "zlegs": {
+    "critics": -0.525,
+    "audience": 0.0,
+    "awards": -0.467
+   },
+   "generation": "eighties-boom",
+   "raw_rank": 29,
+   "climb": -127
+  },
+  {
+   "rank": 169,
+   "comedian_id": "mitch-hedberg",
+   "name": "Mitch Hedberg",
+   "zscore": -3.17,
+   "zlegs": {
+    "critics": -0.032,
+    "audience": -1.537,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 42,
+   "climb": -127
+  },
+  {
+   "rank": 163,
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "zscore": -2.53,
+   "zlegs": {
+    "critics": -0.678,
+    "audience": -0.248,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 41,
+   "climb": -122
+  },
+  {
+   "rank": 172,
+   "comedian_id": "eddie-griffin",
+   "name": "Eddie Griffin",
+   "zscore": -3.579,
+   "zlegs": {
+    "critics": -0.463,
+    "audience": -1.095,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 58,
+   "climb": -114
+  },
+  {
+   "rank": 153,
+   "comedian_id": "russell-peters",
+   "name": "Russell Peters",
+   "zscore": -1.886,
+   "zlegs": {
+    "critics": -0.954,
+    "audience": 0.488,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 40,
+   "climb": -113
+  },
+  {
+   "rank": 171,
+   "comedian_id": "amy-schumer",
+   "name": "Amy Schumer",
+   "zscore": -3.48,
+   "zlegs": {
+    "critics": -0.68,
+    "audience": -0.702,
+    "awards": -0.036
+   },
+   "generation": "aughts",
+   "raw_rank": 59,
+   "climb": -112
+  },
+  {
+   "rank": 132,
+   "comedian_id": "sarah-silverman",
+   "name": "Sarah Silverman",
+   "zscore": -0.649,
+   "zlegs": {
+    "critics": -0.493,
+    "audience": 0.415,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 31,
+   "climb": -101
+  },
+  {
+   "rank": 133,
+   "comedian_id": "norm-macdonald",
+   "name": "Norm Macdonald",
+   "zscore": -0.819,
+   "zlegs": {
+    "critics": -0.893,
+    "audience": 0.93,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 32,
+   "climb": -101
+  },
+  {
+   "rank": 175,
+   "comedian_id": "patrice-o-neal",
+   "name": "Patrice O Neal",
+   "zscore": -4.318,
+   "zlegs": {
+    "critics": -0.586,
+    "audience": -1.28,
+    "awards": 0.0
+   },
+   "generation": "nineties",
+   "raw_rank": 74,
+   "climb": -101
+  },
+  {
+   "rank": 178,
+   "comedian_id": "aziz-ansari",
+   "name": "Aziz Ansari",
+   "zscore": -5.567,
+   "zlegs": {
+    "critics": -1.177,
+    "audience": -0.782,
+    "awards": -0.472
+   },
+   "generation": "aughts",
+   "raw_rank": 85,
+   "climb": -93
+  },
+  {
+   "rank": 173,
+   "comedian_id": "david-cross",
+   "name": "David Cross",
+   "zscore": -3.688,
+   "zlegs": {
+    "critics": -0.979,
+    "audience": 0.0,
+    "awards": -0.751
+   },
+   "generation": "nineties",
+   "raw_rank": 86,
+   "climb": -87
+  },
+  {
+   "rank": 176,
+   "comedian_id": "dana-carvey",
+   "name": "Dana Carvey",
+   "zscore": -4.639,
+   "zlegs": {
+    "critics": -1.296,
+    "audience": 0.0,
+    "awards": -0.751
+   },
+   "generation": "eighties-boom",
+   "raw_rank": 94,
+   "climb": -82
+  },
+  {
+   "rank": 9,
+   "comedian_id": "jerry-seinfeld",
+   "name": "Jerry Seinfeld",
+   "zscore": 5.485,
+   "zlegs": {
+    "critics": 1.407,
+    "audience": 0.632,
+    "awards": 0.0
+   },
+   "generation": "eighties-boom",
+   "raw_rank": 4,
+   "climb": -5
+  }
+ ]
+}

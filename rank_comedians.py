@@ -203,6 +203,74 @@ def main() -> None:
             byg.setdefault(gen, []).append(c)
     (out / "by_generation.json").write_text(json.dumps(byg, indent=1))
 
+    # ── era-normalized board: within-generation z-scores per leg ──
+    # Rules: missing leg data = neutral (z=0), never negative. Generations
+    # with <5 scored members fall back to global stats (tiny groups give
+    # extreme z-scores from single outliers).
+    import statistics
+    zlegs = {}
+    for leg_name, leg in (("critics", critics), ("audience", audience),
+                          ("awards", awards)):
+        zlegs[leg_name] = {}
+        groups: dict[str, list[str]] = {}
+        for cid, j in comics.items():
+            gen = (j.get("generation") or {}).get("id", "unknown")
+            groups.setdefault(gen, []).append(cid)
+        # global fallback stats
+        all_vals = [leg[c] for c in comics if leg[c] > 0]
+        g_mu = statistics.mean(all_vals) if all_vals else 0.0
+        g_sd = statistics.pstdev(all_vals) if len(all_vals) > 1 else 1.0
+        for gen, members in groups.items():
+            vals = [leg[c] for c in members if leg[c] > 0]
+            if len(vals) >= 5:
+                mu = statistics.mean(vals)
+                sd = statistics.pstdev(vals) or 1.0
+            else:
+                mu, sd = g_mu, g_sd or 1.0
+            for c in members:
+                if leg[c] <= 0:
+                    zlegs[leg_name][c] = 0.0  # missing = neutral
+                else:
+                    zlegs[leg_name][c] = round((leg[c] - mu) / sd, 3)
+
+    def ztotal(cid):
+        return wc * zlegs["critics"][cid] + wa * zlegs["audience"][cid] + \
+            waw * zlegs["awards"][cid]
+
+    zboard = sorted(comics, key=lambda c: -ztotal(c))
+    era_adjusted = []
+    for i, cid in enumerate(zboard, 1):
+        j = comics[cid]
+        era_adjusted.append({
+            "rank": i,
+            "comedian_id": cid,
+            "name": j.get("name", cid),
+            "zscore": round(ztotal(cid), 3),
+            "zlegs": {k: zlegs[k][cid] for k in zlegs},
+            "generation": (j.get("generation") or {}).get("id"),
+            "raw_rank": next((c["rank"] for c in consensus
+                              if c["comedian_id"] == cid), None),
+        })
+    (out / "era_adjusted.json").write_text(json.dumps(era_adjusted, indent=1))
+
+    # era-benefit gap: climb = raw_rank - new_rank (positive = moved UP)
+    # Gate to comics with ≥2 scored legs — sparse comics tie at zero and
+    # their rank gaps are noise, not signal (stated limitation, §7).
+    def n_legs(cid):
+        return sum(1 for leg in (critics, audience, awards) if leg[cid] > 0)
+
+    gap = sorted([c for c in era_adjusted if n_legs(c["comedian_id"]) >= 2],
+                 key=lambda c: (c["raw_rank"] or 999) - c["rank"])
+    (out / "era_gap.json").write_text(json.dumps({
+        "note": "climb = raw_rank - era_rank. Positive climb = ranked BETTER era-adjusted "
+                "(underrated by raw cross-era comparison). Negative = ranked WORSE "
+                "era-adjusted (benefits from raw comparison, i.e. era advantage).",
+        "biggest_climbers": [
+            {**c, "climb": (c["raw_rank"] or 999) - c["rank"]} for c in gap[-15:][::-1]],
+        "biggest_fallers": [
+            {**c, "climb": (c["raw_rank"] or 999) - c["rank"]} for c in gap[:15]],
+    }, indent=1))
+
     # disagreement board (most fought-over first)
     fight = sorted([c for c in consensus if c["disagreement"] > 0],
                    key=lambda c: -c["disagreement"])[:30]
