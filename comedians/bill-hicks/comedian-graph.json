@@ -429,7 +429,34 @@
       "imdb_id": "tt0068152",
       "imdb_rating": 6.3,
       "imdb_votes": 3141,
-      "transcript": ".txt"
+      "transcript": "bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "rant",
+    "secondary": "meta",
+    "scores": {
+      "rant": 0.43,
+      "meta": 0.14,
+      "roast": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 8419938,
+    "total_likes": 141497,
+    "avg_views": 1403323,
+    "like_rate": 0.0168,
+    "top_clip": {
+      "videoId": "Emlq_4imaik",
+      "title": "Bill Hicks - Good Drugs, Coincidentally Taxed Drugs",
+      "channel": "Infinite Flow",
+      "publishedAt": "2019-05-17",
+      "views": 2725892,
+      "likes": 64674,
+      "comments": 4925,
+      "duration_s": 1061
+    }
+  }
 }

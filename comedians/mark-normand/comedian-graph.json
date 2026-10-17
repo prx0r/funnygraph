@@ -313,5 +313,29 @@
     "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
     "scene": "club",
     "breakthrough": "2010s club \u2192 Soup to Nuts 2017"
+  },
+  "bio": {
+    "wikidata_id": "Q58062048",
+    "dob": "1983-09-18",
+    "dod": null,
+    "birthplace": "New Orleans",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "stand-up comedian",
+      "television actor",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "crowd-improv",
+    "secondary": "observational",
+    "scores": {
+      "crowd-improv": 0.5,
+      "observational": 0.17,
+      "roast": 0.17
+    },
+    "method": "archetype+theories+transcript"
   }
 }

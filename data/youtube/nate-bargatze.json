@@ -1,0 +1,81 @@
+{
+ "comedian_id": "nate-bargatze",
+ "name": "Nate Bargatze",
+ "clips": 6,
+ "total_views": 182327782,
+ "total_likes": 2449724,
+ "avg_views": 30387963,
+ "like_rate": 0.01344,
+ "top_clip": {
+  "videoId": "zKUpf1Vx0vs",
+  "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+  "channel": "Gilly and Keeves",
+  "publishedAt": "2021-09-07",
+  "views": 58739350,
+  "likes": 695021,
+  "comments": 32750,
+  "duration_s": 2885
+ },
+ "rows": [
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "publishedAt": "2021-09-07",
+   "views": 58739350,
+   "likes": 695021,
+   "comments": 32750,
+   "duration_s": 2885
+  },
+  {
+   "videoId": "19PLc6hpTvA",
+   "title": "THE BREADWINNER - Official Trailer (HD)",
+   "channel": "Sony Pictures Entertainment",
+   "publishedAt": "2025-12-19",
+   "views": 39836841,
+   "likes": 8127,
+   "comments": 1965,
+   "duration_s": 152
+  },
+  {
+   "videoId": "JYqfVE-fykk",
+   "title": "Washington's Dream - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2023-10-29",
+   "views": 33544912,
+   "likes": 364887,
+   "comments": 12929,
+   "duration_s": 291
+  },
+  {
+   "videoId": "cpbplNlSo4w",
+   "title": "Airports really be like that\ud83e\udd28\ud83e\udd23 \ud83c\udfa4: Nate Bargatze #standup #comedy #standupcomedy #natebargatze",
+   "channel": "Stand - up",
+   "publishedAt": "2022-04-16",
+   "views": 17202722,
+   "likes": 1058180,
+   "comments": 3259,
+   "duration_s": 60
+  },
+  {
+   "videoId": "VJ62EfUKI3w",
+   "title": "Washington's Dream 2 - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2024-10-06",
+   "views": 16689382,
+   "likes": 202225,
+   "comments": 6404,
+   "duration_s": 334
+  },
+  {
+   "videoId": "pGUhBzSgOxw",
+   "title": "21 Minutes of Nate Bargatze | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2022-04-11",
+   "views": 16314575,
+   "likes": 121284,
+   "comments": 3124,
+   "duration_s": 1307
+  }
+ ]
+}

@@ -233,5 +233,30 @@
       "television presenter"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 259389864,
+    "total_likes": 5447894,
+    "avg_views": 43231644,
+    "like_rate": 0.021,
+    "top_clip": {
+      "videoId": "G2PNAo_MlJM",
+      "title": "Adorable 6-Year-Old Kid Expert Teaches Ellen About Famous Scientists",
+      "channel": "TheEllenShow",
+      "publishedAt": "2023-05-31",
+      "views": 83387168,
+      "likes": 2380647,
+      "comments": 10045,
+      "duration_s": 57
+    }
   }
 }

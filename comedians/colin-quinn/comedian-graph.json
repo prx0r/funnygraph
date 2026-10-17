@@ -221,5 +221,13 @@
   "recognition": {
     "comedy_central_2004": 56,
     "awards": []
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

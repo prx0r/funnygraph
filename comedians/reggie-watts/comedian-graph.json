@@ -206,5 +206,27 @@
   },
   "recognition": {
     "rolling_stone_2017": 46
+  },
+  "bio": {
+    "wikidata_id": "Q3423441",
+    "dob": "1972-03-23",
+    "dod": null,
+    "birthplace": "Stuttgart",
+    "citizenship": "United States",
+    "occupations": [
+      "singer",
+      "voice actor",
+      "musician",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

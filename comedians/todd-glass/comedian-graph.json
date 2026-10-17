@@ -203,5 +203,13 @@
     "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
     "scene": "club",
     "breakthrough": "1990s"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

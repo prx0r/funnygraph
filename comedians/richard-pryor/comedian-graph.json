@@ -384,13 +384,37 @@
   },
   "specials_rated": [
     {
+      "title": "Richard Pryor: Live in Concert",
+      "year": 1979,
+      "imdb_id": "tt0079807",
+      "imdb_rating": 8.0,
+      "imdb_votes": 6262,
+      "transcript": "richard-pryor-live-concert.txt",
+      "standout": true
+    },
+    {
+      "title": "Richard Pryor: Live on the Sunset Strip",
+      "year": 1982,
+      "imdb_id": "tt0084597",
+      "imdb_rating": 7.6,
+      "imdb_votes": 4821,
+      "transcript": "richard-pryor-live-sunset-strip.txt"
+    },
+    {
       "title": "Richard Pryor... Here and Now",
       "year": 1983,
       "imdb_id": "tt0086194",
       "imdb_rating": 7.2,
       "imdb_votes": 2598,
-      "transcript": "richard-pryor-here-now.txt",
-      "standout": true
+      "transcript": "richard-pryor-here-now.txt"
+    },
+    {
+      "title": "Richard Pryor: Live and Smokin'",
+      "year": 1971,
+      "imdb_id": "tt0089918",
+      "imdb_rating": 6.4,
+      "imdb_votes": 1233,
+      "transcript": "richard-pryor-live-smokin.txt"
     },
     {
       "title": "$",
@@ -399,14 +423,47 @@
       "imdb_rating": 6.3,
       "imdb_votes": 3141,
       "transcript": "ichard-ryor-ive-nd-mokin-1971-ranscript.txt"
-    },
-    {
-      "title": "Sunset",
-      "year": 1988,
-      "imdb_id": "tt0096193",
-      "imdb_rating": 5.7,
-      "imdb_votes": 5125,
-      "transcript": "richard-pryor-live-sunset-strip.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q294912",
+    "dob": "1940-12-01",
+    "dod": "2005-12-10",
+    "birthplace": "Peoria",
+    "citizenship": "United States",
+    "occupations": [
+      "television actor",
+      "film actor",
+      "comedian",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": "roast",
+    "scores": {
+      "dark-confessional": 0.71,
+      "roast": 0.14,
+      "observational": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 60227745,
+    "total_likes": 1283504,
+    "avg_views": 10037957,
+    "like_rate": 0.02131,
+    "top_clip": {
+      "videoId": "3TQ2z4L3Ni4",
+      "title": "Eddie Murphy Does Hilarious and Spot On Impression of Charlie Murphy",
+      "channel": "Ashley White",
+      "publishedAt": "2017-04-18",
+      "views": 14119859,
+      "likes": 535500,
+      "comments": 7153,
+      "duration_s": 60
+    }
+  }
 }

@@ -423,14 +423,33 @@
       "imdb_rating": 6.1,
       "imdb_votes": 174,
       "transcript": "arah-ilverman-esus-s-agic-2005-ranscript.txt"
-    },
-    {
-      "title": "L",
-      "year": 2012,
-      "imdb_id": "tt2095684",
-      "imdb_rating": 5.4,
-      "imdb_votes": 830,
-      "transcript": "2013-ull-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "provocateur",
+    "secondary": "observational",
+    "scores": {
+      "provocateur": 0.5,
+      "observational": 0.17,
+      "dark-confessional": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 13053362,
+    "total_likes": 179330,
+    "avg_views": 2175560,
+    "like_rate": 0.01374,
+    "top_clip": {
+      "videoId": "liIPcSOL6LI",
+      "title": "A fun fact I learned #sarahsilverman #standupcomedy #comedy #squirrel",
+      "channel": "Sarah Silverman",
+      "publishedAt": "2024-05-30",
+      "views": 4819316,
+      "likes": 94494,
+      "comments": 2905,
+      "duration_s": 51
+    }
+  }
 }

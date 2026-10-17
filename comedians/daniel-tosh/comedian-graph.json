@@ -257,5 +257,13 @@
       "transcript": "aniel-osh-appy-houghts-2011-ranscript.txt",
       "standout": true
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

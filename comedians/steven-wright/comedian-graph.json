@@ -251,5 +251,32 @@
     "comedy_central_2004": 23,
     "rolling_stone_2017": 15,
     "trajectory_2004_2017": "rise"
+  },
+  "humor_type": {
+    "primary": "absurdist",
+    "secondary": "observational",
+    "scores": {
+      "absurdist": 0.67,
+      "observational": 0.17,
+      "surreal": 0.17
+    },
+    "method": "archetype+theories"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 23301790,
+    "total_likes": 266977,
+    "avg_views": 3883631,
+    "like_rate": 0.01146,
+    "top_clip": {
+      "videoId": "prbGlOhB7Ss",
+      "title": "Classic Steve Martin Appearance From 1975 | Carson Tonight Show",
+      "channel": "Johnny Carson",
+      "publishedAt": "2020-03-23",
+      "views": 5170852,
+      "likes": 43877,
+      "comments": 2930,
+      "duration_s": 550
+    }
   }
 }

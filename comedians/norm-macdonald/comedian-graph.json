@@ -684,5 +684,45 @@
       "imdb_votes": 13129,
       "transcript": "orm-acdonald-othing-pecial-2022-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q1371229",
+    "dob": "1959-10-17",
+    "dod": "2021-09-14",
+    "birthplace": "Quebec City",
+    "citizenship": "Canada",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "film actor",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "absurdist",
+    "secondary": "one-liner",
+    "scores": {
+      "absurdist": 0.8,
+      "one-liner": 0.2
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 53289689,
+    "total_likes": 1182337,
+    "avg_views": 8881614,
+    "like_rate": 0.02219,
+    "top_clip": {
+      "videoId": "L7K-kaelQEs",
+      "title": "Norm Macdonald Is Married To A Real Battle-Axe | CONAN on TBS",
+      "channel": "Team Coco",
+      "publishedAt": "2016-10-06",
+      "views": 10392583,
+      "likes": 158935,
+      "comments": 7314,
+      "duration_s": 309
+    }
+  }
 }

@@ -206,5 +206,13 @@
   },
   "recognition": {
     "rolling_stone_2017": 35
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

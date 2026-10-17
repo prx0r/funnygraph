@@ -1,0 +1,81 @@
+{
+ "comedian_id": "lenny-bruce",
+ "name": "Lenny Bruce",
+ "clips": 6,
+ "total_views": 3293350,
+ "total_likes": 52316,
+ "avg_views": 548891,
+ "like_rate": 0.01589,
+ "top_clip": {
+  "videoId": "G3QgxmiBfNY",
+  "title": "Lenny Bruce on the Steve Allen Show April 5, 1959",
+  "channel": "Historic Films Stock Footage Archive",
+  "publishedAt": "2016-11-02",
+  "views": 2067088,
+  "likes": 25526,
+  "comments": 2390,
+  "duration_s": 785
+ },
+ "rows": [
+  {
+   "videoId": "G3QgxmiBfNY",
+   "title": "Lenny Bruce on the Steve Allen Show April 5, 1959",
+   "channel": "Historic Films Stock Footage Archive",
+   "publishedAt": "2016-11-02",
+   "views": 2067088,
+   "likes": 25526,
+   "comments": 2390,
+   "duration_s": 785
+  },
+  {
+   "videoId": "LcN_7xlJnYY",
+   "title": "Lenny  Bruce: Are There Any Niggers Here Tonight? (From \"Lenny 1974 Dustin Hoffman)",
+   "channel": "Jason Robo: Nomadic comedian, firespinner & Yarnbi",
+   "publishedAt": "2023-02-01",
+   "views": 327525,
+   "likes": 9249,
+   "comments": 1672,
+   "duration_s": 109
+  },
+  {
+   "videoId": "9wuNKs1_gC8",
+   "title": "Lenny Bruce - Complete Live Standup (Rare, 1965)",
+   "channel": "Max",
+   "publishedAt": "2019-10-30",
+   "views": 303699,
+   "likes": 4753,
+   "comments": 428,
+   "duration_s": 3604
+  },
+  {
+   "videoId": "QsXQFUvuzdE",
+   "title": "Ah, Lenny and Midge: we'll miss you \u2764\ufe0f #MrsMaisel",
+   "channel": "Prime Video Canada",
+   "publishedAt": "2023-05-27",
+   "views": 227169,
+   "likes": 8098,
+   "comments": 44,
+   "duration_s": 37
+  },
+  {
+   "videoId": "IRsECHRYhUU",
+   "title": "Lenny and Midge at Carnegie Hall | The Marvelous Mrs. Maisel | Prime Video",
+   "channel": "Prime Video",
+   "publishedAt": "2022-10-04",
+   "views": 187757,
+   "likes": 2296,
+   "comments": 98,
+   "duration_s": 313
+  },
+  {
+   "videoId": "ImVZLsJ4lIY",
+   "title": "The Very Best of Lenny Bruce | The Marvelous Mrs. Maisel | Prime Video",
+   "channel": "Amazon Prime Video UK & IE",
+   "publishedAt": "2020-05-13",
+   "views": 180112,
+   "likes": 2394,
+   "comments": 83,
+   "duration_s": 241
+  }
+ ]
+}

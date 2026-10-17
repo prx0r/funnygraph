@@ -1,0 +1,81 @@
+{
+ "comedian_id": "dick-gregory",
+ "name": "Dick Gregory",
+ "clips": 6,
+ "total_views": 2316533,
+ "total_likes": 59484,
+ "avg_views": 386088,
+ "like_rate": 0.02568,
+ "top_clip": {
+  "videoId": "0aV8LuK4A20",
+  "title": "Dick Gregory: Understanding (Part 1)  | One Hour  Special",
+  "channel": "Reelblack Two",
+  "publishedAt": "2022-03-29",
+  "views": 569630,
+  "likes": 12967,
+  "comments": 1346,
+  "duration_s": 3782
+ },
+ "rows": [
+  {
+   "videoId": "0aV8LuK4A20",
+   "title": "Dick Gregory: Understanding (Part 1)  | One Hour  Special",
+   "channel": "Reelblack Two",
+   "publishedAt": "2022-03-29",
+   "views": 569630,
+   "likes": 12967,
+   "comments": 1346,
+   "duration_s": 3782
+  },
+  {
+   "videoId": "082Z9w1BeqU",
+   "title": "Walk In My Shoes - feat. Dick Gregory's First TV Appearance (1961)",
+   "channel": "Reelblack One",
+   "publishedAt": "2017-01-04",
+   "views": 558000,
+   "likes": 9449,
+   "comments": 988,
+   "duration_s": 3134
+  },
+  {
+   "videoId": "ej5FwzhUDcM",
+   "title": "Martin Lawrence 1st Amendment Stand Up: Dick Gregory",
+   "channel": "STARZ",
+   "publishedAt": "2009-08-05",
+   "views": 424397,
+   "likes": 4524,
+   "comments": 184,
+   "duration_s": 113
+  },
+  {
+   "videoId": "euWo5M3ZFV4",
+   "title": "Dick Gregory - Magic Glasses (2015) | theancestralplane.com meme",
+   "channel": "Reelblack One",
+   "publishedAt": "2021-07-26",
+   "views": 354353,
+   "likes": 19108,
+   "comments": 726,
+   "duration_s": 20
+  },
+  {
+   "videoId": "6QOB1GClb3Q",
+   "title": "Killer Mike on the Time Dick Gregory Cursed Him Out | Joe Rogan",
+   "channel": "JRE Clips",
+   "publishedAt": "2019-01-24",
+   "views": 253975,
+   "likes": 3811,
+   "comments": 426,
+   "duration_s": 190
+  },
+  {
+   "videoId": "_q__OT4TK2c",
+   "title": "Do Not Hope, Be 100% Committed | Dick Gregory",
+   "channel": "Wealthy Pot",
+   "publishedAt": "2022-07-17",
+   "views": 156178,
+   "likes": 9625,
+   "comments": 220,
+   "duration_s": 60
+  }
+ ]
+}

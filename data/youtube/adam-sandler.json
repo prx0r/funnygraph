@@ -1,0 +1,81 @@
+{
+ "comedian_id": "adam-sandler",
+ "name": "Adam Sandler",
+ "clips": 6,
+ "total_views": 62679088,
+ "total_likes": 750573,
+ "avg_views": 10446514,
+ "like_rate": 0.01197,
+ "top_clip": {
+  "videoId": "Tp2qkhHU0Mw",
+  "title": "Adam Sandler: 100% Fresh | Chris Farley Tribute [HD] | Netflix Is A Joke",
+  "channel": "Netflix Is A Joke",
+  "publishedAt": "2018-12-18",
+  "views": 16432723,
+  "likes": 221971,
+  "comments": 16229,
+  "duration_s": 405
+ },
+ "rows": [
+  {
+   "videoId": "Tp2qkhHU0Mw",
+   "title": "Adam Sandler: 100% Fresh | Chris Farley Tribute [HD] | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2018-12-18",
+   "views": 16432723,
+   "likes": 221971,
+   "comments": 16229,
+   "duration_s": 405
+  },
+  {
+   "videoId": "VY14zcUM9SI",
+   "title": "Adam Sandler: Lunch Lady Land - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2013-09-25",
+   "views": 10727180,
+   "likes": 85141,
+   "comments": 4563,
+   "duration_s": 291
+  },
+  {
+   "videoId": "4T_0Tcts6aM",
+   "title": "Joe Rogan Experience #2187 - Adam Sandler",
+   "channel": "PowerfulJRE",
+   "publishedAt": "2024-08-13",
+   "views": 10654266,
+   "likes": 166273,
+   "comments": 17975,
+   "duration_s": 8262
+  },
+  {
+   "videoId": "3yY4ai2L2BA",
+   "title": "Oscars 2025: Host Conan O'Brien gives Adam Sandler a hard time over his choice of outfit",
+   "channel": "ABC News",
+   "publishedAt": "2025-03-03",
+   "views": 9555211,
+   "likes": 123049,
+   "comments": 8082,
+   "duration_s": 108
+  },
+  {
+   "videoId": "KX5Z-HpHH9g",
+   "title": "Weekend Update: Adam Sandler on Hanukkah - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2013-08-06",
+   "views": 8426569,
+   "likes": 89009,
+   "comments": 3389,
+   "duration_s": 257
+  },
+  {
+   "videoId": "rMitjMTi__4",
+   "title": "Gaps Girls at the Foodcourt - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2013-09-25",
+   "views": 6883139,
+   "likes": 65130,
+   "comments": 3876,
+   "duration_s": 402
+  }
+ ]
+}

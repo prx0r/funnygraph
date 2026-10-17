@@ -712,5 +712,32 @@
       "imdb_votes": 1747,
       "transcript": "dave-chappelle-deep-heart-texas-2017-full-transcript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "storytelling",
+    "secondary": "surreal",
+    "scores": {
+      "storytelling": 0.57,
+      "surreal": 0.14,
+      "roast": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 201552449,
+    "total_likes": 2203002,
+    "avg_views": 33592074,
+    "like_rate": 0.01093,
+    "top_clip": {
+      "videoId": "R4SYIfhzMmU",
+      "title": "Dave Chappelle Describes His First Encounter with Kanye West",
+      "channel": "The Tonight Show Starring Jimmy Fallon",
+      "publishedAt": "2014-06-14",
+      "views": 38167213,
+      "likes": 227268,
+      "comments": 10765,
+      "duration_s": 391
+    }
+  }
 }

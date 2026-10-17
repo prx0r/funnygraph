@@ -203,5 +203,13 @@
     "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
     "scene": "club",
     "breakthrough": "2000s"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

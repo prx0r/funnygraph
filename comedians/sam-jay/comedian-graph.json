@@ -213,5 +213,13 @@
       "imdb_votes": 220,
       "transcript": "am-ay-3-in-the-orning-2020-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

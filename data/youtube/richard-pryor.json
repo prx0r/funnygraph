@@ -1,0 +1,81 @@
+{
+ "comedian_id": "richard-pryor",
+ "name": "Richard Pryor",
+ "clips": 6,
+ "total_views": 60227745,
+ "total_likes": 1283504,
+ "avg_views": 10037957,
+ "like_rate": 0.02131,
+ "top_clip": {
+  "videoId": "3TQ2z4L3Ni4",
+  "title": "Eddie Murphy Does Hilarious and Spot On Impression of Charlie Murphy",
+  "channel": "Ashley White",
+  "publishedAt": "2017-04-18",
+  "views": 14119859,
+  "likes": 535500,
+  "comments": 7153,
+  "duration_s": 60
+ },
+ "rows": [
+  {
+   "videoId": "3TQ2z4L3Ni4",
+   "title": "Eddie Murphy Does Hilarious and Spot On Impression of Charlie Murphy",
+   "channel": "Ashley White",
+   "publishedAt": "2017-04-18",
+   "views": 14119859,
+   "likes": 535500,
+   "comments": 7153,
+   "duration_s": 60
+  },
+  {
+   "videoId": "FrOzU48vCjY",
+   "title": "Robin Williams Roasting Richard Pryor #richardpryor #robinwilliams #comedian",
+   "channel": "Official Richard Pryor",
+   "publishedAt": "2025-02-19",
+   "views": 12427285,
+   "likes": 325406,
+   "comments": 4558,
+   "duration_s": 64
+  },
+  {
+   "videoId": "iqdSagycCWc",
+   "title": "Full Appearance - Robin Williams is Hilarious | Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2011-03-08",
+   "views": 10835842,
+   "likes": 54510,
+   "comments": 3268,
+   "duration_s": 661
+  },
+  {
+   "videoId": "Txp8B4ek_kk",
+   "title": "Richard Pryor: PRISON",
+   "channel": "jro211",
+   "publishedAt": "2006-07-24",
+   "views": 7802970,
+   "likes": 49560,
+   "comments": 2787,
+   "duration_s": 382
+  },
+  {
+   "videoId": "uVyey8HFZWg",
+   "title": "Robin Williams on Signs of Alcoholism | Stand Up Comedy #shorts",
+   "channel": "F#CK THE STIGMA",
+   "publishedAt": "2023-07-27",
+   "views": 7689372,
+   "likes": 242555,
+   "comments": 1758,
+   "duration_s": 53
+  },
+  {
+   "videoId": "B8dKnFU5LUE",
+   "title": "The Exorcist 2 (ft. Richard Pryor) - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2013-10-10",
+   "views": 7352417,
+   "likes": 75973,
+   "comments": 4571,
+   "duration_s": 291
+  }
+ ]
+}

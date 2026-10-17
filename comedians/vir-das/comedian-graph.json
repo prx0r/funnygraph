@@ -227,5 +227,30 @@
       "transcript": "ir-as-utside-in-he-ockdown-pecial-2020-ranscript.txt",
       "standout": true
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 48226452,
+    "total_likes": 2540257,
+    "avg_views": 8037742,
+    "like_rate": 0.05267,
+    "top_clip": {
+      "videoId": "8rE5PSLJOYY",
+      "title": "Dreams of Sorbet | Vir Das: Landing #standupcomedy #jokes #funny",
+      "channel": "Vir Das COMEDY",
+      "publishedAt": "2023-11-08",
+      "views": 14687386,
+      "likes": 1055416,
+      "comments": 3235,
+      "duration_s": 56
+    }
+  }
 }

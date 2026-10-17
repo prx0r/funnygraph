@@ -396,5 +396,32 @@
       "film producer"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": "clean-everyman",
+    "scores": {
+      "observational": 0.38,
+      "clean-everyman": 0.25,
+      "meta": 0.12
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 103943664,
+    "total_likes": 1611177,
+    "avg_views": 17323944,
+    "like_rate": 0.0155,
+    "top_clip": {
+      "videoId": "UM-Q_zpuJGU",
+      "title": "Comedians in Cars Getting Coffee: \"Just Tell Him You\u2019re The President\u201d (Season 7, Episode 1)",
+      "channel": "blacktreetv",
+      "publishedAt": "2015-12-31",
+      "views": 54392735,
+      "likes": 829714,
+      "comments": 64358,
+      "duration_s": 1156
+    }
   }
 }

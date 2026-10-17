@@ -213,5 +213,24 @@
       "imdb_votes": 128,
       "transcript": "ablo-rancisco-uch-ive-rom-an-ose-2006-ull-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q1041825",
+    "dob": "1974-01-05",
+    "dod": null,
+    "birthplace": "Tucson",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

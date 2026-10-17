@@ -203,5 +203,13 @@
     "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
     "scene": "club",
     "breakthrough": "spoken word 1980s hardcore scene"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

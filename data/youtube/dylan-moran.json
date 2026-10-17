@@ -1,0 +1,81 @@
+{
+ "comedian_id": "dylan-moran",
+ "name": "Dylan Moran",
+ "clips": 6,
+ "total_views": 10826819,
+ "total_likes": 98516,
+ "avg_views": 1804469,
+ "like_rate": 0.0091,
+ "top_clip": {
+  "videoId": "7ox6d1cKru8",
+  "title": "Dylan Moran - Like, Totally (VOSTFR)",
+  "channel": "J\u00e9r\u00f4me K",
+  "publishedAt": "2014-04-09",
+  "views": 3449105,
+  "likes": 28079,
+  "comments": 1447,
+  "duration_s": 3970
+ },
+ "rows": [
+  {
+   "videoId": "7ox6d1cKru8",
+   "title": "Dylan Moran - Like, Totally (VOSTFR)",
+   "channel": "J\u00e9r\u00f4me K",
+   "publishedAt": "2014-04-09",
+   "views": 3449105,
+   "likes": 28079,
+   "comments": 1447,
+   "duration_s": 3970
+  },
+  {
+   "videoId": "IoLIU2NI66w",
+   "title": "Dylan Moran on Germany",
+   "channel": "Pea Bee",
+   "publishedAt": "2007-01-02",
+   "views": 2708199,
+   "likes": 12000,
+   "comments": 1795,
+   "duration_s": 201
+  },
+  {
+   "videoId": "kUH34iqK7cI",
+   "title": "Dylan Moran - Women have no feelings",
+   "channel": "dzaeny",
+   "publishedAt": "2007-10-08",
+   "views": 1562580,
+   "likes": 10497,
+   "comments": 707,
+   "duration_s": 77
+  },
+  {
+   "videoId": "zmwv3Ujwpac",
+   "title": "Dylan Moran On American Stupid People | Universal Comedy",
+   "channel": "Universal Comedy",
+   "publishedAt": "2020-04-17",
+   "views": 1398210,
+   "likes": 26523,
+   "comments": 2189,
+   "duration_s": 432
+  },
+  {
+   "videoId": "ceROVTVVCF8",
+   "title": "Dylan Moran Stand Up   Dylan Moran What It Is Full Show",
+   "channel": "gamers best",
+   "publishedAt": "2016-02-14",
+   "views": 1071477,
+   "likes": 6890,
+   "comments": 495,
+   "duration_s": 5835
+  },
+  {
+   "videoId": "uXF-xbMguMc",
+   "title": "Why Some Americans Are More Irritating than Others | Dylan Moran: Yeah Yeah Yeah | Universal Comedy",
+   "channel": "Universal Comedy",
+   "publishedAt": "2023-05-19",
+   "views": 637248,
+   "likes": 14527,
+   "comments": 1270,
+   "duration_s": 432
+  }
+ ]
+}

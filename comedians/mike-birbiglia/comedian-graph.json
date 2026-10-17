@@ -252,5 +252,29 @@
       "transcript": "ike-irbiglia-y-irlfriend-s-oyfriend-2013-ranscript.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q5576465",
+    "dob": "1978-06-20",
+    "dod": null,
+    "birthplace": "Shrewsbury",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "comedian",
+      "screenwriter",
+      "executive producer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "storytelling",
+    "secondary": "clean-everyman",
+    "scores": {
+      "storytelling": 0.43,
+      "clean-everyman": 0.29,
+      "dark-confessional": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

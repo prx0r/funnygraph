@@ -427,5 +427,32 @@
       "imdb_votes": 830,
       "transcript": "tewart-ee-arpet-emnant-orld-2012-ull-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": "meta",
+    "scores": {
+      "clean-everyman": 0.4,
+      "meta": 0.2,
+      "surreal": 0.2
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 12951478,
+    "total_likes": 106156,
+    "avg_views": 2158579,
+    "like_rate": 0.0082,
+    "top_clip": {
+      "videoId": "IGPpaKReRho",
+      "title": "David close to tears laughing at Lee is peak #wilty! #davidmitchell #leemack #britishcomedy",
+      "channel": "Would I Lie To You?",
+      "publishedAt": "2023-10-07",
+      "views": 4023164,
+      "likes": 51042,
+      "comments": 324,
+      "duration_s": 59
+    }
+  }
 }

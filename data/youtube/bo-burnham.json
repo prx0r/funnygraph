@@ -1,0 +1,81 @@
+{
+ "comedian_id": "bo-burnham",
+ "name": "Bo Burnham",
+ "clips": 6,
+ "total_views": 340293087,
+ "total_likes": 6177095,
+ "avg_views": 56715514,
+ "like_rate": 0.01815,
+ "top_clip": {
+  "videoId": "k1BneeJTDcU",
+  "title": "Welcome to the Internet - Bo Burnham (from \"Inside\" -- ALBUM OUT NOW)",
+  "channel": "boburnham",
+  "publishedAt": "2021-06-04",
+  "views": 173103593,
+  "likes": 3284123,
+  "comments": 126136,
+  "duration_s": 281
+ },
+ "rows": [
+  {
+   "videoId": "k1BneeJTDcU",
+   "title": "Welcome to the Internet - Bo Burnham (from \"Inside\" -- ALBUM OUT NOW)",
+   "channel": "boburnham",
+   "publishedAt": "2021-06-04",
+   "views": 173103593,
+   "likes": 3284123,
+   "comments": 126136,
+   "duration_s": 281
+  },
+  {
+   "videoId": "1Rx_p3NW7gQ",
+   "title": "All Eyes On Me -- Bo Burnham (from \"Inside\" - album out now)",
+   "channel": "boburnham",
+   "publishedAt": "2021-06-16",
+   "views": 50579019,
+   "likes": 832058,
+   "comments": 41182,
+   "duration_s": 294
+  },
+  {
+   "videoId": "rYy0o-J0x20",
+   "title": "Bo Burnham - Can't Handle This (Kanye Rant) - MAKE HAPPY Netflix [HD]",
+   "channel": "boburnham",
+   "publishedAt": "2016-06-14",
+   "views": 45275988,
+   "likes": 630472,
+   "comments": 37078,
+   "duration_s": 445
+  },
+  {
+   "videoId": "ejc5zic4q2A",
+   "title": "what. (Bo Burnham FULL SHOW HD)",
+   "channel": "boburnham",
+   "publishedAt": "2013-12-17",
+   "views": 26627620,
+   "likes": 567618,
+   "comments": 40209,
+   "duration_s": 3616
+  },
+  {
+   "videoId": "Zxc20saM8DA",
+   "title": "From God's Perspective. (FULL SHOW on YouTube/Netflix)",
+   "channel": "boburnham",
+   "publishedAt": "2013-12-10",
+   "views": 23352887,
+   "likes": 369356,
+   "comments": 15835,
+   "duration_s": 262
+  },
+  {
+   "videoId": "llGvsgN17CQ",
+   "title": "Bo Burnham's Lower Your Expectations Song | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2020-03-30",
+   "views": 21353980,
+   "likes": 493468,
+   "comments": 7761,
+   "duration_s": 212
+  }
+ ]
+}

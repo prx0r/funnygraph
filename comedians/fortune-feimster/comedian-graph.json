@@ -225,5 +225,13 @@
       "television actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

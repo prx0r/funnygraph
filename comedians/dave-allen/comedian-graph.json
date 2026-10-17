@@ -221,15 +221,13 @@
   "recognition": {
     "awards": []
   },
-  "specials_rated": [
-    {
-      "title": "$",
-      "year": 1971,
-      "imdb_id": "tt0068152",
-      "imdb_rating": 6.3,
-      "imdb_votes": 3141,
-      "transcript": ".txt",
-      "standout": true
-    }
-  ]
+  "specials_rated": [],
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

@@ -226,5 +226,26 @@
       "imdb_votes": 220,
       "transcript": "o-mer-ohammed-in-exas-2021-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q6892966",
+    "dob": "1981-07-24",
+    "dod": null,
+    "birthplace": "Kuwait",
+    "citizenship": "United States",
+    "occupations": [
+      "writer",
+      "actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

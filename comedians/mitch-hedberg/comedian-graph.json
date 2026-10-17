@@ -309,14 +309,6 @@
   },
   "specials_rated": [
     {
-      "title": "N\u00f4",
-      "year": 1998,
-      "imdb_id": "tt0128370",
-      "imdb_rating": 6.9,
-      "imdb_votes": 456,
-      "transcript": "1999-ull-ranscript.txt"
-    },
-    {
       "title": "Ed",
       "year": 1996,
       "imdb_id": "tt0116165",
@@ -325,5 +317,29 @@
       "transcript": "mitch-hedberg-comedy-central-special1999-full-transcript.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q2314865",
+    "dob": "1968-02-24",
+    "dod": "2005-03-29",
+    "birthplace": "Saint Paul",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "actor",
+      "film director"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "absurdist",
+    "secondary": "surreal",
+    "scores": {
+      "absurdist": 0.67,
+      "surreal": 0.17,
+      "meta": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

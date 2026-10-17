@@ -206,5 +206,27 @@
   },
   "recognition": {
     "comedy_central_2004": 51
+  },
+  "bio": {
+    "wikidata_id": "Q180252",
+    "dob": "1948-08-30",
+    "dod": null,
+    "birthplace": "Silver Spring",
+    "citizenship": "United States",
+    "occupations": [
+      "television actor",
+      "comedian",
+      "film actor",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

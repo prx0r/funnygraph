@@ -1,0 +1,81 @@
+{
+ "comedian_id": "kevin-hart",
+ "name": "Kevin Hart",
+ "clips": 6,
+ "total_views": 524883834,
+ "total_likes": 8592284,
+ "avg_views": 87480639,
+ "like_rate": 0.01637,
+ "top_clip": {
+  "videoId": "OPdbdjctx2I",
+  "title": "Jimmy and Kevin Hart Ride a Roller Coaster",
+  "channel": "The Tonight Show Starring Jimmy Fallon",
+  "publishedAt": "2014-06-18",
+  "views": 132340718,
+  "likes": 1187745,
+  "comments": 31856,
+  "duration_s": 271
+ },
+ "rows": [
+  {
+   "videoId": "OPdbdjctx2I",
+   "title": "Jimmy and Kevin Hart Ride a Roller Coaster",
+   "channel": "The Tonight Show Starring Jimmy Fallon",
+   "publishedAt": "2014-06-18",
+   "views": 132340718,
+   "likes": 1187745,
+   "comments": 31856,
+   "duration_s": 271
+  },
+  {
+   "videoId": "1Za8BtLgKv8",
+   "title": "Ice Cube, Kevin Hart And Conan Help A Student Driver | CONAN on TBS",
+   "channel": "Team Coco",
+   "publishedAt": "2016-01-06",
+   "views": 108824924,
+   "likes": 1425954,
+   "comments": 40771,
+   "duration_s": 707
+  },
+  {
+   "videoId": "VNM7Z7hir_I",
+   "title": "Ice Cube, Kevin Hart, And Conan Share A Lyft Car | CONAN on TBS",
+   "channel": "Team Coco",
+   "publishedAt": "2013-12-12",
+   "views": 88483077,
+   "likes": 946962,
+   "comments": 24634,
+   "duration_s": 573
+  },
+  {
+   "videoId": "DO9U_XxN-Kc",
+   "title": "Kevin Hart Is Terrified of Robert Irwin's Animals",
+   "channel": "The Tonight Show Starring Jimmy Fallon",
+   "publishedAt": "2018-09-20",
+   "views": 76391969,
+   "likes": 1133891,
+   "comments": 48056,
+   "duration_s": 892
+  },
+  {
+   "videoId": "xXkuP_Rx8M0",
+   "title": "Kevin Hart Went Through His Son's Phone \ud83d\ude02",
+   "channel": "Contemporary Shorts",
+   "publishedAt": "2022-12-09",
+   "views": 60103796,
+   "likes": 3202711,
+   "comments": 10257,
+   "duration_s": 60
+  },
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "publishedAt": "2021-09-07",
+   "views": 58739350,
+   "likes": 695021,
+   "comments": 32750,
+   "duration_s": 2885
+  }
+ ]
+}

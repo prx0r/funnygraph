@@ -333,5 +333,15 @@
   },
   "recognition": {
     "awards": []
+  },
+  "humor_type": {
+    "primary": "storytelling",
+    "secondary": "roast",
+    "scores": {
+      "storytelling": 0.5,
+      "roast": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories"
   }
 }

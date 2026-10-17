@@ -236,5 +236,30 @@
         "year": 1993
       }
     ]
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 2316533,
+    "total_likes": 59484,
+    "avg_views": 386088,
+    "like_rate": 0.02568,
+    "top_clip": {
+      "videoId": "0aV8LuK4A20",
+      "title": "Dick Gregory: Understanding (Part 1)  | One Hour  Special",
+      "channel": "Reelblack Two",
+      "publishedAt": "2022-03-29",
+      "views": 569630,
+      "likes": 12967,
+      "comments": 1346,
+      "duration_s": 3782
+    }
   }
 }

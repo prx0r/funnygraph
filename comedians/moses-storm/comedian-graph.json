@@ -213,5 +213,26 @@
       "imdb_votes": 220,
       "transcript": "oses-torm-rash-hite-2022-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q57274435",
+    "dob": "1990-05-06",
+    "dod": null,
+    "birthplace": "Kalamazoo",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

@@ -395,5 +395,43 @@
       "imdb_votes": 109,
       "transcript": "ate-argatze-ull-ime-agic-2015-ull-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q18704890",
+    "dob": "1979-03-25",
+    "dod": null,
+    "birthplace": "Old Hickory",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": "dark-confessional",
+    "scores": {
+      "clean-everyman": 0.62,
+      "dark-confessional": 0.12,
+      "observational": 0.12
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 182327782,
+    "total_likes": 2449724,
+    "avg_views": 30387963,
+    "like_rate": 0.01344,
+    "top_clip": {
+      "videoId": "zKUpf1Vx0vs",
+      "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+      "channel": "Gilly and Keeves",
+      "publishedAt": "2021-09-07",
+      "views": 58739350,
+      "likes": 695021,
+      "comments": 32750,
+      "duration_s": 2885
+    }
+  }
 }

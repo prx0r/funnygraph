@@ -350,5 +350,32 @@
       "imdb_votes": 339,
       "transcript": "emetri-artin-ive-t-he-ime-2015-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "one-liner",
+    "secondary": "absurdist",
+    "scores": {
+      "one-liner": 0.5,
+      "absurdist": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 4896558,
+    "total_likes": 51844,
+    "avg_views": 816093,
+    "like_rate": 0.01059,
+    "top_clip": {
+      "videoId": "VdLh0lW2v00",
+      "title": "Demetri Martin Shares His Early Comedy Drawings",
+      "channel": "The Late Show with Stephen Colbert",
+      "publishedAt": "2017-05-20",
+      "views": 1137700,
+      "likes": 16660,
+      "comments": 706,
+      "duration_s": 408
+    }
+  }
 }

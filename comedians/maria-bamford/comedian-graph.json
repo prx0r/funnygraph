@@ -345,5 +345,29 @@
       "transcript": "maria-bamford-old-baby-2017-full-transcript.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q3396317",
+    "dob": "1970-09-03",
+    "dod": null,
+    "birthplace": "Port Hueneme",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "voice actor",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "character",
+    "secondary": "provocateur",
+    "scores": {
+      "character": 0.5,
+      "provocateur": 0.17,
+      "surreal": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

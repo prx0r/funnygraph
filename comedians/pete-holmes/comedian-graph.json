@@ -203,5 +203,27 @@
     "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
     "scene": "club",
     "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q3701432",
+    "dob": "1979-03-30",
+    "dod": null,
+    "birthplace": "Lexington",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "writer",
+      "podcaster",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

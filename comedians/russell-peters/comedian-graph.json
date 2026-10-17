@@ -242,5 +242,30 @@
       "imdb_votes": 128,
       "transcript": "2006-ull-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 105334971,
+    "total_likes": 3115348,
+    "avg_views": 17555828,
+    "like_rate": 0.02958,
+    "top_clip": {
+      "videoId": "ldrsKtyS8As",
+      "title": "RUSSEL PETERS on Hardcore African Names! \ud83d\ude02 #shorts",
+      "channel": "ShortsTalk",
+      "publishedAt": "2022-09-30",
+      "views": 25174196,
+      "likes": 2295550,
+      "comments": 4762,
+      "duration_s": 60
+    }
+  }
 }

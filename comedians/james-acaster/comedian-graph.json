@@ -316,5 +316,15 @@
         "year": 2015
       }
     ]
+  },
+  "humor_type": {
+    "primary": "meta",
+    "secondary": "absurdist",
+    "scores": {
+      "meta": 0.67,
+      "absurdist": 0.17,
+      "surreal": 0.17
+    },
+    "method": "archetype+theories"
   }
 }

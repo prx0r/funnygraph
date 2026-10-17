@@ -230,5 +230,13 @@
       "imdb_votes": 220,
       "transcript": "atherine-ohen-he-wist-he-s-orgeous-2022-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

@@ -331,5 +331,15 @@
       "comedian"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": "dark-confessional",
+    "scores": {
+      "clean-everyman": 0.5,
+      "dark-confessional": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories+transcript"
   }
 }

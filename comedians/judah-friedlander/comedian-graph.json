@@ -203,5 +203,27 @@
     "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
     "scene": "nyc-alt",
     "breakthrough": "1990s"
+  },
+  "bio": {
+    "wikidata_id": "Q71130",
+    "dob": "1969-03-16",
+    "dod": null,
+    "birthplace": "Gaithersburg",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "writer",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

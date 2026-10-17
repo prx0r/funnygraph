@@ -110,7 +110,11 @@ def match_special(title: str, year: int, comic_norm: str,
     nt = re.sub(r"\b(full transcript|transcript|full|special|live|uncut)\b", "", nt).strip()
     if len(nt) < 4:
         return None
+    # short titles MUST contain the comedian's name (kills "Up", "Live", "Raw" false hits)
+    comic_words = [w for w in comic_norm.split() if len(w) > 3]
+    needs_name = len(nt) < 15
     cands = []
+    nt_words = [w for w in nt.split() if len(w) > 3]
     for e in idx:
         hit = nt in e["n_primary"] or nt in e["n_original"] or \
             e["n_primary"] in nt or e["n_original"] in nt
@@ -120,7 +124,15 @@ def match_special(title: str, year: int, comic_norm: str,
         if year and e["year"] and abs(e["year"] - year) > 1:
             continue
         # comedian name should appear in the IMDb title (most specials are "Name: Special")
-        cn_hit = any(w in e["n_primary"] for w in comic_norm.split() if len(w) > 3)
+        cn_hit = any(w in e["n_primary"] for w in comic_words)
+        if needs_name and not cn_hit:
+            continue
+        # matched IMDb title must share ≥2 distinctive words with parsed title,
+        # OR contain the comedian name (kills 'Up', 'Live', single-word collisions)
+        imdb_words = set((e["n_primary"] + " " + e["n_original"]).split())
+        overlap = sum(1 for w in nt_words if w in imdb_words)
+        if overlap < 2 and not cn_hit:
+            continue
         score = e["votes"] + (100000 if cn_hit else 0)
         cands.append((score, e))
     if not cands:

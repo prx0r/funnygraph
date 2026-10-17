@@ -219,29 +219,51 @@
   },
   "specials_rated": [
     {
-      "title": "Up",
-      "year": 2009,
-      "imdb_id": "tt1049413",
-      "imdb_rating": 8.3,
-      "imdb_votes": 1260034,
-      "transcript": "ron-white-if-you-quit-listening-i-ll-shut-up.txt",
-      "standout": true
-    },
-    {
       "title": "Ron White: A Little Unprofessional",
       "year": 2012,
       "imdb_id": "tt2980086",
       "imdb_rating": 7.4,
       "imdb_votes": 702,
       "transcript": "ron-white-little-unprofessional.txt"
-    },
-    {
-      "title": "L",
-      "year": 2012,
-      "imdb_id": "tt2095684",
-      "imdb_rating": 5.4,
-      "imdb_votes": 830,
-      "transcript": "2012-ull-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q3441473",
+    "dob": "1956-12-18",
+    "dod": null,
+    "birthplace": "Fritch",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "politician",
+      "songwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 76350405,
+    "total_likes": 889068,
+    "avg_views": 12725067,
+    "like_rate": 0.01164,
+    "top_clip": {
+      "videoId": "hxBzR6iZ0hE",
+      "title": "\u201cNO PANTS PARTY\u201d?! \ud83e\udd23\ud83d\ude02 | First Date ft. Ron White",
+      "channel": "Comedy Clips Central",
+      "publishedAt": "2024-01-21",
+      "views": 20016978,
+      "likes": 310079,
+      "comments": 1531,
+      "duration_s": 30
+    }
+  }
 }

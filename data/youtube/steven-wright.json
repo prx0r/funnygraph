@@ -1,0 +1,81 @@
+{
+ "comedian_id": "steven-wright",
+ "name": "Steven Wright",
+ "clips": 6,
+ "total_views": 23301790,
+ "total_likes": 266977,
+ "avg_views": 3883631,
+ "like_rate": 0.01146,
+ "top_clip": {
+  "videoId": "prbGlOhB7Ss",
+  "title": "Classic Steve Martin Appearance From 1975 | Carson Tonight Show",
+  "channel": "Johnny Carson",
+  "publishedAt": "2020-03-23",
+  "views": 5170852,
+  "likes": 43877,
+  "comments": 2930,
+  "duration_s": 550
+ },
+ "rows": [
+  {
+   "videoId": "prbGlOhB7Ss",
+   "title": "Classic Steve Martin Appearance From 1975 | Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2020-03-23",
+   "views": 5170852,
+   "likes": 43877,
+   "comments": 2930,
+   "duration_s": 550
+  },
+  {
+   "videoId": "mBUqOhWLT7k",
+   "title": "Matt Rife | Matthew Steven Rife (Full Comedy Special)",
+   "channel": "800 Pound Gorilla Media",
+   "publishedAt": "2024-04-12",
+   "views": 4684207,
+   "likes": 64075,
+   "comments": 2229,
+   "duration_s": 4127
+  },
+  {
+   "videoId": "4GGyQNMPDkk",
+   "title": "Steven Wright Delivers In This Fantastic First Appearance - Carson Tonight Show - 08/06/1982",
+   "channel": "Johnny Carson",
+   "publishedAt": "2021-04-01",
+   "views": 3812656,
+   "likes": 39952,
+   "comments": 2522,
+   "duration_s": 503
+  },
+  {
+   "videoId": "VVpbu49dFoU",
+   "title": "The Artful Codger | Andy Huggins | Stand Up Comedy Special",
+   "channel": "Don't Tell Comedy",
+   "publishedAt": "2025-05-16",
+   "views": 3673551,
+   "likes": 76098,
+   "comments": 2226,
+   "duration_s": 1133
+  },
+  {
+   "videoId": "eJCMjJwIGxY",
+   "title": "Steven Wright Hysteria stand up",
+   "channel": "laughingstocklabel",
+   "publishedAt": "2009-03-06",
+   "views": 3218317,
+   "likes": 21609,
+   "comments": 1232,
+   "duration_s": 421
+  },
+  {
+   "videoId": "nfbIPOi7AF4",
+   "title": "Classic Steven Wright Has Everyone Rolling | Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2023-06-06",
+   "views": 2742207,
+   "likes": 21366,
+   "comments": 980,
+   "duration_s": 520
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "comedian_id": "eddie-izzard",
+ "name": "Eddie Izzard",
+ "clips": 6,
+ "total_views": 51716595,
+ "total_likes": 228791,
+ "avg_views": 8619432,
+ "like_rate": 0.00442,
+ "top_clip": {
+  "videoId": "Sv5iEK-IEzw",
+  "title": "Suzy Eddie Izzard- Death Star Canteen",
+  "channel": "Thorn2200",
+  "publishedAt": "2007-06-30",
+  "views": 29895289,
+  "likes": 107048,
+  "comments": 5447,
+  "duration_s": 175
+ },
+ "rows": [
+  {
+   "videoId": "Sv5iEK-IEzw",
+   "title": "Suzy Eddie Izzard- Death Star Canteen",
+   "channel": "Thorn2200",
+   "publishedAt": "2007-06-30",
+   "views": 29895289,
+   "likes": 107048,
+   "comments": 5447,
+   "duration_s": 175
+  },
+  {
+   "videoId": "x1sQkEfAdfY",
+   "title": "Eddie Izzard - Learning French",
+   "channel": "RumblePak_5",
+   "publishedAt": "2006-04-12",
+   "views": 7020546,
+   "likes": 31167,
+   "comments": 1363,
+   "duration_s": 391
+  },
+  {
+   "videoId": "TjC3R6jOtUo",
+   "title": "Brit vs. U.S. Movies - Eddie Izzard",
+   "channel": "RumblePak_5",
+   "publishedAt": "2006-06-03",
+   "views": 4114859,
+   "likes": 19066,
+   "comments": 585,
+   "duration_s": 335
+  },
+  {
+   "videoId": "PVH0gZO5lq0",
+   "title": "Eddie Izzard \"Cake or Death\" Sketch From Dress to Kill",
+   "channel": "Eddie Izzard",
+   "publishedAt": "2010-03-30",
+   "views": 3923670,
+   "likes": 45075,
+   "comments": 2190,
+   "duration_s": 409
+  },
+  {
+   "videoId": "DiFq_nk8pE0",
+   "title": "Eddie Izzard - Stonehenge",
+   "channel": "RumblePak_5",
+   "publishedAt": "2006-04-11",
+   "views": 3690128,
+   "likes": 15059,
+   "comments": 462,
+   "duration_s": 187
+  },
+  {
+   "videoId": "9IzDbNFDdP4",
+   "title": "Eddie Izzard - Being Bilingual",
+   "channel": "RumblePak_5",
+   "publishedAt": "2006-04-12",
+   "views": 3072103,
+   "likes": 11376,
+   "comments": 312,
+   "duration_s": 205
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "comedian_id": "jeff-foxworthy",
+ "name": "Jeff Foxworthy",
+ "clips": 6,
+ "total_views": 38509768,
+ "total_likes": 340515,
+ "avg_views": 6418294,
+ "like_rate": 0.00884,
+ "top_clip": {
+  "videoId": "neUaSTSKFZc",
+  "title": "Official Ron White - I Got Thrown Out of a Bar",
+  "channel": "Ron White Official",
+  "publishedAt": "2011-12-05",
+  "views": 12906038,
+  "likes": 72914,
+  "comments": 2118,
+  "duration_s": 325
+ },
+ "rows": [
+  {
+   "videoId": "neUaSTSKFZc",
+   "title": "Official Ron White - I Got Thrown Out of a Bar",
+   "channel": "Ron White Official",
+   "publishedAt": "2011-12-05",
+   "views": 12906038,
+   "likes": 72914,
+   "comments": 2118,
+   "duration_s": 325
+  },
+  {
+   "videoId": "ZqHPqTDHxJs",
+   "title": "Blue Collar Comedy Tour: The Guys' Favorite Jokes",
+   "channel": "Pablo Hermes",
+   "publishedAt": "2008-06-25",
+   "views": 9933549,
+   "likes": 47607,
+   "comments": 1739,
+   "duration_s": 564
+  },
+  {
+   "videoId": "Dv1xvCts3q4",
+   "title": "Kids Versus Old Folks",
+   "channel": "Jeff Foxworthy",
+   "publishedAt": "2014-02-24",
+   "views": 4049390,
+   "likes": 34678,
+   "comments": 504,
+   "duration_s": 340
+  },
+  {
+   "videoId": "k6Bt-q_pRh8",
+   "title": "Drew Carey Kills It In His First Appearance on The Tonight Show Starring Johnny Carson - 11/08/1991",
+   "channel": "Johnny Carson",
+   "publishedAt": "2020-04-13",
+   "views": 4017688,
+   "likes": 45241,
+   "comments": 3538,
+   "duration_s": 496
+  },
+  {
+   "videoId": "LkJoIyIlnr4",
+   "title": "The \"I Believe Song\"",
+   "channel": "Jeff Foxworthy",
+   "publishedAt": "2014-02-24",
+   "views": 3834890,
+   "likes": 27097,
+   "comments": 661,
+   "duration_s": 382
+  },
+  {
+   "videoId": "wAN_7x_QVIM",
+   "title": "Living with my Mother in Law | Jeff Foxworthy",
+   "channel": "Erupted Laughs",
+   "publishedAt": "2022-12-11",
+   "views": 3768213,
+   "likes": 112978,
+   "comments": 495,
+   "duration_s": 60
+  }
+ ]
+}

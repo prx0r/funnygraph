@@ -266,5 +266,32 @@
       "screenwriter"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "roast",
+    "secondary": "dark-confessional",
+    "scores": {
+      "roast": 0.67,
+      "dark-confessional": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 19314643,
+    "total_likes": 263138,
+    "avg_views": 3219107,
+    "like_rate": 0.01362,
+    "top_clip": {
+      "videoId": "-lEX6HI4Mew",
+      "title": "Joan Rivers is Hilarious on Carson Tonight Show",
+      "channel": "Johnny Carson",
+      "publishedAt": "2014-03-02",
+      "views": 5019523,
+      "likes": 27817,
+      "comments": 2688,
+      "duration_s": 731
+    }
   }
 }

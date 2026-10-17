@@ -1,0 +1,81 @@
+{
+ "comedian_id": "taylor-tomlinson",
+ "name": "Taylor Tomlinson",
+ "clips": 6,
+ "total_views": 181782075,
+ "total_likes": 8427018,
+ "avg_views": 30297012,
+ "like_rate": 0.04636,
+ "top_clip": {
+  "videoId": "pFI3hVpV9S8",
+  "title": "THE HAVE IT ALL TOUR STARTS TOMORROW! \ud83e\udd29 #shorts #funny #standupcomedy #comedy #comedian #dating",
+  "channel": "Taylor Tomlinson",
+  "publishedAt": "2022-10-07",
+  "views": 68202061,
+  "likes": 3562568,
+  "comments": 15856,
+  "duration_s": 60
+ },
+ "rows": [
+  {
+   "videoId": "pFI3hVpV9S8",
+   "title": "THE HAVE IT ALL TOUR STARTS TOMORROW! \ud83e\udd29 #shorts #funny #standupcomedy #comedy #comedian #dating",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2022-10-07",
+   "views": 68202061,
+   "likes": 3562568,
+   "comments": 15856,
+   "duration_s": 60
+  },
+  {
+   "videoId": "JlXNGprnjYs",
+   "title": "Older men\u2026 #funny #comedy #shorts #standupcomedy #comedian #parents",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2023-01-29",
+   "views": 28184268,
+   "likes": 1097568,
+   "comments": 9071,
+   "duration_s": 61
+  },
+  {
+   "videoId": "JxZA-c6chcs",
+   "title": "Happy World #FriendshipDay hopefully you have better friends than this girl \ud83e\udd26\u200d\u2640\ufe0f #friends #dating",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2025-07-30",
+   "views": 22515741,
+   "likes": 635496,
+   "comments": 7521,
+   "duration_s": 135
+  },
+  {
+   "videoId": "kuRnN7l5dbw",
+   "title": "Happy #NationalSiblingsDay \u2764\ufe0f #Comedy #Funny #Siblings #StandUpComedy #Comedian #shorts",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2024-04-10",
+   "views": 22077352,
+   "likes": 961187,
+   "comments": 2259,
+   "duration_s": 47
+  },
+  {
+   "videoId": "WOYh-KfB7s8",
+   "title": "Trauma + time = content #Mothersday #shorts #standupcomedy #comedian",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2024-05-12",
+   "views": 21204826,
+   "likes": 992337,
+   "comments": 1812,
+   "duration_s": 39
+  },
+  {
+   "videoId": "q0jQPfiLiWg",
+   "title": "Birth control... #shorts #comedy #standupcomedy #birthcontrol #funny",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2022-08-10",
+   "views": 19597827,
+   "likes": 1177862,
+   "comments": 10916,
+   "duration_s": 43
+  }
+ ]
+}

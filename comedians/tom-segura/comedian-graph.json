@@ -452,5 +452,32 @@
       "imdb_votes": 9164,
       "transcript": "comedy-central-presents-tom-segura-s15e01-transcript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": "observational",
+    "scores": {
+      "dark-confessional": 0.5,
+      "observational": 0.25,
+      "roast": 0.25
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 113143021,
+    "total_likes": 1920345,
+    "avg_views": 18857170,
+    "like_rate": 0.01697,
+    "top_clip": {
+      "videoId": "zKUpf1Vx0vs",
+      "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+      "channel": "Gilly and Keeves",
+      "publishedAt": "2021-09-07",
+      "views": 58739247,
+      "likes": 695021,
+      "comments": 32750,
+      "duration_s": 2885
+    }
+  }
 }

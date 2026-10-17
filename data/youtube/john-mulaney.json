@@ -1,0 +1,81 @@
+{
+ "comedian_id": "john-mulaney",
+ "name": "John Mulaney",
+ "clips": 6,
+ "total_views": 56913709,
+ "total_likes": 2213947,
+ "avg_views": 9485618,
+ "like_rate": 0.0389,
+ "top_clip": {
+  "videoId": "1MBjJMMKASQ",
+  "title": "(Some of) The Best of John Mulaney",
+  "channel": "Comedy Central",
+  "publishedAt": "2019-10-12",
+  "views": 11240405,
+  "likes": 285857,
+  "comments": 4506,
+  "duration_s": 846
+ },
+ "rows": [
+  {
+   "videoId": "1MBjJMMKASQ",
+   "title": "(Some of) The Best of John Mulaney",
+   "channel": "Comedy Central",
+   "publishedAt": "2019-10-12",
+   "views": 11240405,
+   "likes": 285857,
+   "comments": 4506,
+   "duration_s": 846
+  },
+  {
+   "videoId": "qEfR1Mz2j_w",
+   "title": "John Mulaney I Started Doing Drugs When i Was 14 #shorts #short #comedy",
+   "channel": "BestComedians",
+   "publishedAt": "2023-05-12",
+   "views": 10868185,
+   "likes": 711514,
+   "comments": 2247,
+   "duration_s": 60
+  },
+  {
+   "videoId": "vHgca_fb3TU",
+   "title": "John Mulaney Got in Trouble in Rehab\ud83d\udc8a part 3 #shorts #short #comedy",
+   "channel": "BestComedians",
+   "publishedAt": "2023-05-07",
+   "views": 10025314,
+   "likes": 611171,
+   "comments": 1681,
+   "duration_s": 60
+  },
+  {
+   "videoId": "aiqKK4ysI7g",
+   "title": "John Mulaney Got Cheated Out of $120K | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2019-08-14",
+   "views": 9584500,
+   "likes": 229850,
+   "comments": 4438,
+   "duration_s": 302
+  },
+  {
+   "videoId": "JhkZMxgPxXU",
+   "title": "There's a Horse In The Hospital | John Mulaney | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2019-07-03",
+   "views": 8112249,
+   "likes": 209060,
+   "comments": 8103,
+   "duration_s": 251
+  },
+  {
+   "videoId": "lWOSc42Ga5g",
+   "title": "Best of: John Mulaney | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2019-06-29",
+   "views": 7083056,
+   "likes": 166495,
+   "comments": 2144,
+   "duration_s": 436
+  }
+ ]
+}

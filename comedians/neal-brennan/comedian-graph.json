@@ -259,5 +259,28 @@
       "imdb_votes": 109,
       "transcript": "eal-rennan-omen-nd-lack-udes-2014-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q6984068",
+    "dob": "1973-10-19",
+    "dod": null,
+    "birthplace": "Villanova",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "film director",
+      "podcaster",
+      "television director"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": "character",
+    "scores": {
+      "dark-confessional": 0.8,
+      "character": 0.2
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

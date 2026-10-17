@@ -1,0 +1,81 @@
+{
+ "comedian_id": "joan-rivers",
+ "name": "Joan Rivers",
+ "clips": 6,
+ "total_views": 19314643,
+ "total_likes": 263138,
+ "avg_views": 3219107,
+ "like_rate": 0.01362,
+ "top_clip": {
+  "videoId": "-lEX6HI4Mew",
+  "title": "Joan Rivers is Hilarious on Carson Tonight Show",
+  "channel": "Johnny Carson",
+  "publishedAt": "2014-03-02",
+  "views": 5019523,
+  "likes": 27817,
+  "comments": 2688,
+  "duration_s": 731
+ },
+ "rows": [
+  {
+   "videoId": "-lEX6HI4Mew",
+   "title": "Joan Rivers is Hilarious on Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2014-03-02",
+   "views": 5019523,
+   "likes": 27817,
+   "comments": 2688,
+   "duration_s": 731
+  },
+  {
+   "videoId": "srtES-HebG0",
+   "title": "Joan Rivers Returns to The Tonight Show",
+   "channel": "The Tonight Show Starring Jimmy Fallon",
+   "publishedAt": "2014-03-28",
+   "views": 3880617,
+   "likes": 33656,
+   "comments": 3076,
+   "duration_s": 426
+  },
+  {
+   "videoId": "NDJp79D__L4",
+   "title": "Betty White and Joan Rivers Lay Into Each Other | Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2022-06-20",
+   "views": 3548896,
+   "likes": 49851,
+   "comments": 2166,
+   "duration_s": 716
+  },
+  {
+   "videoId": "EJPGBCeB9MM",
+   "title": "Ranking Funniest Joan Rivers Moments \ud83d\ude02",
+   "channel": "Joan Forever",
+   "publishedAt": "2025-01-30",
+   "views": 3115972,
+   "likes": 108665,
+   "comments": 1303,
+   "duration_s": 84
+  },
+  {
+   "videoId": "JtIWhc632XA",
+   "title": "Brits Always Bring The Best Laughs On The Graham Norton Show",
+   "channel": "The Graham Norton Show",
+   "publishedAt": "2025-05-23",
+   "views": 1932805,
+   "likes": 15382,
+   "comments": 421,
+   "duration_s": 1878
+  },
+  {
+   "videoId": "VVnXQX0OS6Y",
+   "title": "Roast\u2019s Legendary Ladies of Comedy \u2013 Comedy Central Roast",
+   "channel": "Comedy Central",
+   "publishedAt": "2022-02-01",
+   "views": 1816830,
+   "likes": 27767,
+   "comments": 1245,
+   "duration_s": 1110
+  }
+ ]
+}

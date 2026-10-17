@@ -1,0 +1,81 @@
+{
+ "comedian_id": "stewart-lee",
+ "name": "Stewart Lee",
+ "clips": 6,
+ "total_views": 12951478,
+ "total_likes": 106156,
+ "avg_views": 2158579,
+ "like_rate": 0.0082,
+ "top_clip": {
+  "videoId": "IGPpaKReRho",
+  "title": "David close to tears laughing at Lee is peak #wilty! #davidmitchell #leemack #britishcomedy",
+  "channel": "Would I Lie To You?",
+  "publishedAt": "2023-10-07",
+  "views": 4023164,
+  "likes": 51042,
+  "comments": 324,
+  "duration_s": 59
+ },
+ "rows": [
+  {
+   "videoId": "IGPpaKReRho",
+   "title": "David close to tears laughing at Lee is peak #wilty! #davidmitchell #leemack #britishcomedy",
+   "channel": "Would I Lie To You?",
+   "publishedAt": "2023-10-07",
+   "views": 4023164,
+   "likes": 51042,
+   "comments": 324,
+   "duration_s": 59
+  },
+  {
+   "videoId": "K7CnMQ4L9Pc",
+   "title": "Stewart Lee and Top Gear",
+   "channel": "richardc1975",
+   "publishedAt": "2011-02-06",
+   "views": 2941471,
+   "likes": 23176,
+   "comments": 3756,
+   "duration_s": 841
+  },
+  {
+   "videoId": "VxN8PhKzZgY",
+   "title": "Stewart Lee - Stand up Comedian  (FULL)",
+   "channel": "L LL",
+   "publishedAt": "2013-09-11",
+   "views": 2543611,
+   "likes": 11783,
+   "comments": 1918,
+   "duration_s": 4698
+  },
+  {
+   "videoId": "U1H913UqQ6w",
+   "title": "Stewart Lee - Princess Diana",
+   "channel": "InaudibleWhisper",
+   "publishedAt": "2008-06-24",
+   "views": 1201101,
+   "likes": 6299,
+   "comments": 983,
+   "duration_s": 505
+  },
+  {
+   "videoId": "2tYAeTGYNXA",
+   "title": "You WONT Hear This ON TV! Over 1 HOUR Of Mock The Week!",
+   "channel": "Mock The Week",
+   "publishedAt": "2026-01-15",
+   "views": 1153742,
+   "likes": 6944,
+   "comments": 425,
+   "duration_s": 4504
+  },
+  {
+   "videoId": "78Puggk5MCA",
+   "title": "Stewart Lee - Internet Comments",
+   "channel": "KeyboardKramer",
+   "publishedAt": "2013-08-25",
+   "views": 1088389,
+   "likes": 6912,
+   "comments": 930,
+   "duration_s": 286
+  }
+ ]
+}

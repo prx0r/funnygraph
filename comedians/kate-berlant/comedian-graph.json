@@ -213,5 +213,27 @@
       "imdb_votes": 220,
       "transcript": "ate-erlant-innamon-in-the-ind-2022-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q22957978",
+    "dob": "1987-07-16",
+    "dod": null,
+    "birthplace": "Los Angeles",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "comedian",
+      "voice actor",
+      "comedy writer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

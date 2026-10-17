@@ -1,0 +1,81 @@
+{
+ "comedian_id": "michael-che",
+ "name": "Michael Che",
+ "clips": 6,
+ "total_views": 59808893,
+ "total_likes": 927994,
+ "avg_views": 9968148,
+ "like_rate": 0.01552,
+ "top_clip": {
+  "videoId": "iQScE5ADOc8",
+  "title": "He black as hell #snl #comedy #shorts",
+  "channel": "Best Comedy Clips",
+  "publishedAt": "2025-08-20",
+  "views": 16985624,
+  "likes": 278977,
+  "comments": 2101,
+  "duration_s": 60
+ },
+ "rows": [
+  {
+   "videoId": "iQScE5ADOc8",
+   "title": "He black as hell #snl #comedy #shorts",
+   "channel": "Best Comedy Clips",
+   "publishedAt": "2025-08-20",
+   "views": 16985624,
+   "likes": 278977,
+   "comments": 2101,
+   "duration_s": 60
+  },
+  {
+   "videoId": "r7drK5-sMns",
+   "title": "Weekend Update: Colin Jost and Michael Che Swap Jokes for Season 46 Finale - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2021-05-23",
+   "views": 13375099,
+   "likes": 235753,
+   "comments": 6009,
+   "duration_s": 224
+  },
+  {
+   "videoId": "iTWA6mVSCkk",
+   "title": "Barber Shop Talk - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2022-11-13",
+   "views": 8027551,
+   "likes": 138046,
+   "comments": 5746,
+   "duration_s": 237
+  },
+  {
+   "videoId": "HPH0HgotIE4",
+   "title": "Weekend Update: Colin Jost and Michael Che Swap Jokes for Season 49 Finale - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2024-05-19",
+   "views": 7216857,
+   "likes": 119351,
+   "comments": 3443,
+   "duration_s": 323
+  },
+  {
+   "videoId": "6NE_kbJQ8r8",
+   "title": "Weekend Update: Christmas Joke Swap 2023 - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2023-12-17",
+   "views": 7155353,
+   "likes": 123852,
+   "comments": 4408,
+   "duration_s": 272
+  },
+  {
+   "videoId": "Vm_hhD9QQbg",
+   "title": "Memorable Weekend Update Moments | Season 48 | Saturday Night Live",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2023-06-24",
+   "views": 7048409,
+   "likes": 32015,
+   "comments": 1208,
+   "duration_s": 3441
+  }
+ ]
+}

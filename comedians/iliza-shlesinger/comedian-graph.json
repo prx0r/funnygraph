@@ -309,5 +309,30 @@
       "film actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 75557433,
+    "total_likes": 2840171,
+    "avg_views": 12592905,
+    "like_rate": 0.03759,
+    "top_clip": {
+      "videoId": "JlXNGprnjYs",
+      "title": "Older men\u2026 #funny #comedy #shorts #standupcomedy #comedian #parents",
+      "channel": "Taylor Tomlinson",
+      "publishedAt": "2023-01-29",
+      "views": 28184268,
+      "likes": 1097568,
+      "comments": 9071,
+      "duration_s": 61
+    }
   }
 }

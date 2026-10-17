@@ -1,0 +1,81 @@
+{
+ "comedian_id": "tom-segura",
+ "name": "Tom Segura",
+ "clips": 6,
+ "total_views": 113143021,
+ "total_likes": 1920345,
+ "avg_views": 18857170,
+ "like_rate": 0.01697,
+ "top_clip": {
+  "videoId": "zKUpf1Vx0vs",
+  "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+  "channel": "Gilly and Keeves",
+  "publishedAt": "2021-09-07",
+  "views": 58739247,
+  "likes": 695021,
+  "comments": 32750,
+  "duration_s": 2885
+ },
+ "rows": [
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "publishedAt": "2021-09-07",
+   "views": 58739247,
+   "likes": 695021,
+   "comments": 32750,
+   "duration_s": 2885
+  },
+  {
+   "videoId": "GNRnrKUEnCQ",
+   "title": "29 Minutes of Tom Segura",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2022-04-27",
+   "views": 15756580,
+   "likes": 158039,
+   "comments": 3933,
+   "duration_s": 1768
+  },
+  {
+   "videoId": "isNRZJ6icwc",
+   "title": "Steven Seagal Is Out Of His Mind | Tom Segura Stand Up Comedy | \"Completely Normal\" on Netflix",
+   "channel": "Tom Segura",
+   "publishedAt": "2021-06-25",
+   "views": 13544849,
+   "likes": 192984,
+   "comments": 9016,
+   "duration_s": 363
+  },
+  {
+   "videoId": "vbKWPVz8mjs",
+   "title": "Tom Segura on when he got fired",
+   "channel": "EliteCut",
+   "publishedAt": "2022-11-07",
+   "views": 9935239,
+   "likes": 461562,
+   "comments": 3851,
+   "duration_s": 37
+  },
+  {
+   "videoId": "FlqbgEM56t8",
+   "title": "Tom Segura Visited a Gloryhole and Lived to Tell the Story | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2020-08-04",
+   "views": 7733024,
+   "likes": 130039,
+   "comments": 2010,
+   "duration_s": 479
+  },
+  {
+   "videoId": "bRb-Uu-ImNY",
+   "title": "Tom Segura Unreleased Joke",
+   "channel": "Comedy Top Plays",
+   "publishedAt": "2023-07-10",
+   "views": 7434082,
+   "likes": 282700,
+   "comments": 3281,
+   "duration_s": 59
+  }
+ ]
+}

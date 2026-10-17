@@ -226,5 +226,27 @@
       "imdb_votes": 128,
       "transcript": "att-illiams-ive-2006-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q557948",
+    "dob": "1973-09-02",
+    "dod": null,
+    "birthplace": "Cincinnati",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "musician",
+      "rapper",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

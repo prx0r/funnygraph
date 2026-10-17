@@ -1,0 +1,81 @@
+{
+ "comedian_id": "vir-das",
+ "name": "Vir Das",
+ "clips": 6,
+ "total_views": 48226452,
+ "total_likes": 2540257,
+ "avg_views": 8037742,
+ "like_rate": 0.05267,
+ "top_clip": {
+  "videoId": "8rE5PSLJOYY",
+  "title": "Dreams of Sorbet | Vir Das: Landing #standupcomedy #jokes #funny",
+  "channel": "Vir Das COMEDY",
+  "publishedAt": "2023-11-08",
+  "views": 14687386,
+  "likes": 1055416,
+  "comments": 3235,
+  "duration_s": 56
+ },
+ "rows": [
+  {
+   "videoId": "8rE5PSLJOYY",
+   "title": "Dreams of Sorbet | Vir Das: Landing #standupcomedy #jokes #funny",
+   "channel": "Vir Das COMEDY",
+   "publishedAt": "2023-11-08",
+   "views": 14687386,
+   "likes": 1055416,
+   "comments": 3235,
+   "duration_s": 56
+  },
+  {
+   "videoId": "xU-zhajzad4",
+   "title": "INDIANS ARE RACIST-ISH | Vir Das | Stand-Up Comedy",
+   "channel": "Vir Das COMEDY",
+   "publishedAt": "2017-06-16",
+   "views": 10610228,
+   "likes": 371591,
+   "comments": 7656,
+   "duration_s": 300
+  },
+  {
+   "videoId": "1KWTFxS6BPI",
+   "title": "Ananya Panday 's SAVAGE REPLY Shocks Vir Das in Call Me Bae \ud83d\ude31 | #primevideoindia #webseries",
+   "channel": "Prime Video India",
+   "publishedAt": "2026-01-17",
+   "views": 7811420,
+   "likes": 138343,
+   "comments": 646,
+   "duration_s": 39
+  },
+  {
+   "videoId": "5A-F9qu6c_4",
+   "title": "Vir Das | I COME FROM TWO INDIAS",
+   "channel": "Vir Das COMEDY",
+   "publishedAt": "2021-11-15",
+   "views": 6958918,
+   "likes": 626363,
+   "comments": 82874,
+   "duration_s": 414
+  },
+  {
+   "videoId": "ufHrTI_E4Kk",
+   "title": "Why Parle-G Is The Best Biscuit In The World | @virdas Stand-Up Comedy | Netflix India",
+   "channel": "Netflix India",
+   "publishedAt": "2020-01-28",
+   "views": 4559241,
+   "likes": 175725,
+   "comments": 2298,
+   "duration_s": 415
+  },
+  {
+   "videoId": "C66xdt2cfzM",
+   "title": "How Vir Das Got Delhi Belly #shorts",
+   "channel": "Best Of TRS | English",
+   "publishedAt": "2023-01-12",
+   "views": 3599259,
+   "likes": 172819,
+   "comments": 912,
+   "duration_s": 53
+  }
+ ]
+}

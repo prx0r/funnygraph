@@ -274,5 +274,15 @@
       "comedian"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "storytelling",
+    "secondary": "observational",
+    "scores": {
+      "storytelling": 0.5,
+      "observational": 0.17,
+      "surreal": 0.17
+    },
+    "method": "archetype+theories"
   }
 }

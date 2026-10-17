@@ -243,5 +243,30 @@
         "year": 2026
       }
     ]
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 40611808,
+    "total_likes": 565062,
+    "avg_views": 6768634,
+    "like_rate": 0.01391,
+    "top_clip": {
+      "videoId": "6dMOfwUP0F0",
+      "title": "New Rule: The United States of Dumb-merica | Real Time with Bill Maher (HBO)",
+      "channel": "Real Time with Bill Maher",
+      "publishedAt": "2022-06-04",
+      "views": 10920938,
+      "likes": 135801,
+      "comments": 24811,
+      "duration_s": 656
+    }
   }
 }

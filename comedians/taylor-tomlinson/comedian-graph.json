@@ -354,5 +354,32 @@
       "imdb_votes": 220,
       "transcript": "aylor-omlinson-ook-at-ou-2022-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": "roast",
+    "scores": {
+      "dark-confessional": 0.67,
+      "roast": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 181782075,
+    "total_likes": 8427018,
+    "avg_views": 30297012,
+    "like_rate": 0.04636,
+    "top_clip": {
+      "videoId": "pFI3hVpV9S8",
+      "title": "THE HAVE IT ALL TOUR STARTS TOMORROW! \ud83e\udd29 #shorts #funny #standupcomedy #comedy #comedian #dating",
+      "channel": "Taylor Tomlinson",
+      "publishedAt": "2022-10-07",
+      "views": 68202061,
+      "likes": 3562568,
+      "comments": 15856,
+      "duration_s": 60
+    }
+  }
 }

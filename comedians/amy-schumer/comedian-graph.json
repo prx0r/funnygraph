@@ -278,15 +278,13 @@
       }
     ]
   },
-  "specials_rated": [
-    {
-      "title": "L",
-      "year": 2012,
-      "imdb_id": "tt2095684",
-      "imdb_rating": 5.4,
-      "imdb_votes": 830,
-      "transcript": "2012-ull-ranscript.txt",
-      "standout": true
-    }
-  ]
+  "specials_rated": [],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

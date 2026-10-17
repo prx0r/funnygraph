@@ -311,5 +311,15 @@
   },
   "recognition": {
     "awards": []
+  },
+  "humor_type": {
+    "primary": "surreal",
+    "secondary": "absurdist",
+    "scores": {
+      "surreal": 0.5,
+      "absurdist": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories"
   }
 }

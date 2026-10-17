@@ -414,5 +414,32 @@
         "year": 2023
       }
     ]
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": "roast",
+    "scores": {
+      "dark-confessional": 0.71,
+      "roast": 0.14,
+      "observational": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 27194777,
+    "total_likes": 608427,
+    "avg_views": 4532462,
+    "like_rate": 0.02237,
+    "top_clip": {
+      "videoId": "wka-o2V71CM",
+      "title": "\u201cAll I Want Is a Kind 6\u201d Ali Wong #standup #comedian",
+      "channel": "Off the Cuff Comedy",
+      "publishedAt": "2024-10-15",
+      "views": 6084635,
+      "likes": 186001,
+      "comments": 4112,
+      "duration_s": 57
+    }
   }
 }

@@ -441,22 +441,6 @@
       "transcript": "john-mulaney-baby-j.txt"
     },
     {
-      "title": "W.",
-      "year": 2008,
-      "imdb_id": "tt1175491",
-      "imdb_rating": 6.3,
-      "imdb_votes": 51788,
-      "transcript": "john-mulaney-new-town.txt"
-    },
-    {
-      "title": "$",
-      "year": 1971,
-      "imdb_id": "tt0068152",
-      "imdb_rating": 6.3,
-      "imdb_votes": 3141,
-      "transcript": "john-mulaney-snl-monologue.txt"
-    },
-    {
       "title": "N\u00f6",
       "year": 2021,
       "imdb_id": "tt9409660",
@@ -494,5 +478,32 @@
       "screenwriter"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "storytelling",
+    "secondary": "observational",
+    "scores": {
+      "storytelling": 0.5,
+      "observational": 0.17,
+      "dark-confessional": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 56913709,
+    "total_likes": 2213947,
+    "avg_views": 9485618,
+    "like_rate": 0.0389,
+    "top_clip": {
+      "videoId": "1MBjJMMKASQ",
+      "title": "(Some of) The Best of John Mulaney",
+      "channel": "Comedy Central",
+      "publishedAt": "2019-10-12",
+      "views": 11240405,
+      "likes": 285857,
+      "comments": 4506,
+      "duration_s": 846
+    }
   }
 }

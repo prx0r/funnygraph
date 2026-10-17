@@ -213,5 +213,13 @@
       "imdb_votes": 220,
       "transcript": "arah-ooper-verything-s-ine-2020-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

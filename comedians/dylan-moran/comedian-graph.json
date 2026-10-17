@@ -270,5 +270,32 @@
       "television actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "rant",
+    "secondary": "roast",
+    "scores": {
+      "rant": 0.5,
+      "roast": 0.17,
+      "observational": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 10826819,
+    "total_likes": 98516,
+    "avg_views": 1804469,
+    "like_rate": 0.0091,
+    "top_clip": {
+      "videoId": "7ox6d1cKru8",
+      "title": "Dylan Moran - Like, Totally (VOSTFR)",
+      "channel": "J\u00e9r\u00f4me K",
+      "publishedAt": "2014-04-09",
+      "views": 3449105,
+      "likes": 28079,
+      "comments": 1447,
+      "duration_s": 3970
+    }
   }
 }

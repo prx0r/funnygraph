@@ -203,5 +203,27 @@
     "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
     "scene": "club",
     "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q18164079",
+    "dob": "1985-11-21",
+    "dod": null,
+    "birthplace": "Johor Bahru",
+    "citizenship": "Malaysia",
+    "occupations": [
+      "social worker",
+      "comedian",
+      "lawyer",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

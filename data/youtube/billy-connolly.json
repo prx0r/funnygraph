@@ -1,0 +1,81 @@
+{
+ "comedian_id": "billy-connolly",
+ "name": "Billy Connolly",
+ "clips": 6,
+ "total_views": 25691275,
+ "total_likes": 168001,
+ "avg_views": 4281879,
+ "like_rate": 0.00654,
+ "top_clip": {
+  "videoId": "t7nsAMwl1T4",
+  "title": "Billy Connolly - Dwarf on a bus - Live in London 2010",
+  "channel": "Billy Connolly",
+  "publishedAt": "2021-09-10",
+  "views": 7860411,
+  "likes": 56871,
+  "comments": 2521,
+  "duration_s": 347
+ },
+ "rows": [
+  {
+   "videoId": "t7nsAMwl1T4",
+   "title": "Billy Connolly - Dwarf on a bus - Live in London 2010",
+   "channel": "Billy Connolly",
+   "publishedAt": "2021-09-10",
+   "views": 7860411,
+   "likes": 56871,
+   "comments": 2521,
+   "duration_s": 347
+  },
+  {
+   "videoId": "BoPkq-G0s1c",
+   "title": "BILLY CONNOLLY - BEST JOKES EVER",
+   "channel": "MyTalkShowHeroes",
+   "publishedAt": "2016-04-19",
+   "views": 4554351,
+   "likes": 14805,
+   "comments": 865,
+   "duration_s": 729
+  },
+  {
+   "videoId": "Bi7EDbuMH4E",
+   "title": "Graham Norton LOVES The Scottish! | The Graham Norton Show | Part Two",
+   "channel": "The Graham Norton Show",
+   "publishedAt": "2020-07-28",
+   "views": 4074503,
+   "likes": 33923,
+   "comments": 1000,
+   "duration_s": 942
+  },
+  {
+   "videoId": "nvrzUngEQRw",
+   "title": "Billy Connolly - Colonoscopy - World Tour of New Zealand",
+   "channel": "Billy Connolly",
+   "publishedAt": "2021-11-16",
+   "views": 3191754,
+   "likes": 28820,
+   "comments": 1411,
+   "duration_s": 284
+  },
+  {
+   "videoId": "uPxKW7RR7h0",
+   "title": "Billy Connolly HBO",
+   "channel": "ScottishDex",
+   "publishedAt": "2018-04-02",
+   "views": 3058282,
+   "likes": 18938,
+   "comments": 1272,
+   "duration_s": 3265
+  },
+  {
+   "videoId": "QFTBPZdk6ac",
+   "title": "Is Billy Connolly Parkinson\u2019s FUNNIEST guest? | Parkinson",
+   "channel": "The Michael Parkinson Channel",
+   "publishedAt": "2024-10-17",
+   "views": 2951974,
+   "likes": 14644,
+   "comments": 890,
+   "duration_s": 448
+  }
+ ]
+}

@@ -338,5 +338,44 @@
       "imdb_votes": 830,
       "transcript": "evin-art-et-e-xplain-2013-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q618352",
+    "dob": "1979-07-06",
+    "dod": null,
+    "birthplace": "United States",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "actor",
+      "voice actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 524883834,
+    "total_likes": 8592284,
+    "avg_views": 87480639,
+    "like_rate": 0.01637,
+    "top_clip": {
+      "videoId": "OPdbdjctx2I",
+      "title": "Jimmy and Kevin Hart Ride a Roller Coaster",
+      "channel": "The Tonight Show Starring Jimmy Fallon",
+      "publishedAt": "2014-06-18",
+      "views": 132340718,
+      "likes": 1187745,
+      "comments": 31856,
+      "duration_s": 271
+    }
+  }
 }

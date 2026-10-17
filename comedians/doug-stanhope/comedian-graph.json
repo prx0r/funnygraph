@@ -305,29 +305,23 @@
   },
   "specials_rated": [
     {
-      "title": "American Dream?",
-      "year": 2005,
-      "imdb_id": "tt0775413",
-      "imdb_rating": 6.9,
-      "imdb_votes": 128,
-      "transcript": "2004-ranscript.txt"
-    },
-    {
-      "title": "$",
-      "year": 1971,
-      "imdb_id": "tt0068152",
-      "imdb_rating": 6.3,
-      "imdb_votes": 3141,
-      "transcript": ".txt",
-      "standout": true
-    },
-    {
       "title": "L",
       "year": 2012,
       "imdb_id": "tt2095684",
       "imdb_rating": 5.4,
       "imdb_votes": 830,
-      "transcript": "oug-tanhope-eer-all-utsch-2013-ranscript.txt"
+      "transcript": "oug-tanhope-eer-all-utsch-2013-ranscript.txt",
+      "standout": true
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "rant",
+    "secondary": "roast",
+    "scores": {
+      "rant": 0.43,
+      "roast": 0.14,
+      "meta": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

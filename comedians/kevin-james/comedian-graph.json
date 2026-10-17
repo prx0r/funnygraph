@@ -206,5 +206,27 @@
   },
   "recognition": {
     "comedy_central_2004": 89
+  },
+  "bio": {
+    "wikidata_id": "Q44561",
+    "dob": "1965-04-26",
+    "dod": null,
+    "birthplace": "Mineola",
+    "citizenship": "United States",
+    "occupations": [
+      "film producer",
+      "voice actor",
+      "screenwriter",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

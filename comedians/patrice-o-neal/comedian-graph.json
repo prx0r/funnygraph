@@ -264,5 +264,27 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q4145",
+    "dob": "1969-12-07",
+    "dod": "2011-11-29",
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "film actor",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

@@ -1,0 +1,81 @@
+{
+ "comedian_id": "demetri-martin",
+ "name": "Demetri Martin",
+ "clips": 6,
+ "total_views": 4896558,
+ "total_likes": 51844,
+ "avg_views": 816093,
+ "like_rate": 0.01059,
+ "top_clip": {
+  "videoId": "VdLh0lW2v00",
+  "title": "Demetri Martin Shares His Early Comedy Drawings",
+  "channel": "The Late Show with Stephen Colbert",
+  "publishedAt": "2017-05-20",
+  "views": 1137700,
+  "likes": 16660,
+  "comments": 706,
+  "duration_s": 408
+ },
+ "rows": [
+  {
+   "videoId": "VdLh0lW2v00",
+   "title": "Demetri Martin Shares His Early Comedy Drawings",
+   "channel": "The Late Show with Stephen Colbert",
+   "publishedAt": "2017-05-20",
+   "views": 1137700,
+   "likes": 16660,
+   "comments": 706,
+   "duration_s": 408
+  },
+  {
+   "videoId": "uW6DgGRqgBo",
+   "title": "Demetri Martin on Rove.",
+   "channel": "nizmoesis",
+   "publishedAt": "2007-08-27",
+   "views": 1125938,
+   "likes": 4036,
+   "comments": 336,
+   "duration_s": 263
+  },
+  {
+   "videoId": "-4LUjBLmfMM",
+   "title": "Demetri Martin - short Jokes",
+   "channel": "richard hopkins",
+   "publishedAt": "2019-08-21",
+   "views": 787712,
+   "likes": 9115,
+   "comments": 306,
+   "duration_s": 443
+  },
+  {
+   "videoId": "rrPBE0nylss",
+   "title": "Demetri Martin - These Are Jokes(Full)",
+   "channel": "TheOfficialRandybob",
+   "publishedAt": "2014-07-26",
+   "views": 685460,
+   "likes": 3842,
+   "comments": 267,
+   "duration_s": 4262
+  },
+  {
+   "videoId": "8OPOWwR3GNs",
+   "title": "Camouflage Doesn\u2019t Always Do What It\u2019s Supposed To - Demetri Martin",
+   "channel": "Comedy Central Stand-Up",
+   "publishedAt": "2020-08-25",
+   "views": 633665,
+   "likes": 10678,
+   "comments": 382,
+   "duration_s": 400
+  },
+  {
+   "videoId": "B6Y7KQXHh58",
+   "title": "Demetri Martin Stand-Up",
+   "channel": "The Late Late Show with James Corden",
+   "publishedAt": "2018-09-07",
+   "views": 526083,
+   "likes": 7513,
+   "comments": 264,
+   "duration_s": 323
+  }
+ ]
+}

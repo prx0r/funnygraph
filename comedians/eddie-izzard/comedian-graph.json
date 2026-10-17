@@ -369,5 +369,32 @@
       "comedian"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "character",
+    "secondary": "observational",
+    "scores": {
+      "character": 0.5,
+      "observational": 0.17,
+      "surreal": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 51716595,
+    "total_likes": 228791,
+    "avg_views": 8619432,
+    "like_rate": 0.00442,
+    "top_clip": {
+      "videoId": "Sv5iEK-IEzw",
+      "title": "Suzy Eddie Izzard- Death Star Canteen",
+      "channel": "Thorn2200",
+      "publishedAt": "2007-06-30",
+      "views": 29895289,
+      "likes": 107048,
+      "comments": 5447,
+      "duration_s": 175
+    }
   }
 }

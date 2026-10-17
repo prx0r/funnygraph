@@ -425,20 +425,20 @@
       "transcript": "bo-burnham-make-happy-2016-transcript.txt"
     },
     {
+      "title": "Bo Burnham: what.",
+      "year": 2013,
+      "imdb_id": "tt3210258",
+      "imdb_rating": 8.2,
+      "imdb_votes": 13815,
+      "transcript": "bo-burnham-what-2013-transcript.txt"
+    },
+    {
       "title": "Bo Burnham: Words, Words, Words",
       "year": 2010,
       "imdb_id": "tt1747960",
       "imdb_rating": 8.0,
       "imdb_votes": 4630,
       "transcript": "bo-burnham-words-words-words-2010-transcript.txt"
-    },
-    {
-      "title": "What We Do in the Shadows",
-      "year": 2014,
-      "imdb_id": "tt3416742",
-      "imdb_rating": 7.6,
-      "imdb_votes": 216367,
-      "transcript": "bo-burnham-what-2013-transcript.txt"
     },
     {
       "title": "N\u00f6",
@@ -448,5 +448,32 @@
       "imdb_votes": 220,
       "transcript": "o-urnham-nside-2021-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "meta",
+    "secondary": "surreal",
+    "scores": {
+      "meta": 0.5,
+      "surreal": 0.17,
+      "roast": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 340293087,
+    "total_likes": 6177095,
+    "avg_views": 56715514,
+    "like_rate": 0.01815,
+    "top_clip": {
+      "videoId": "k1BneeJTDcU",
+      "title": "Welcome to the Internet - Bo Burnham (from \"Inside\" -- ALBUM OUT NOW)",
+      "channel": "boburnham",
+      "publishedAt": "2021-06-04",
+      "views": 173103593,
+      "likes": 3284123,
+      "comments": 126136,
+      "duration_s": 281
+    }
+  }
 }

@@ -213,5 +213,26 @@
       "imdb_votes": 220,
       "transcript": "hil-ang-hilly-hilly-ang-ang-2021-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q25189753",
+    "dob": "1990-01-22",
+    "dod": null,
+    "birthplace": "Stoke-on-Trent",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "stand-up comedian",
+      "writer",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

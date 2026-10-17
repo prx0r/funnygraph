@@ -262,5 +262,46 @@
       "transcript": "lenny-bruce-berkeley-concert.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q460876",
+    "dob": "1925-10-13",
+    "dod": "1966-08-03",
+    "birthplace": "Mineola",
+    "citizenship": "United States",
+    "occupations": [
+      "writer",
+      "actor",
+      "screenwriter",
+      "journalist"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "rant",
+    "secondary": "absurdist",
+    "scores": {
+      "rant": 0.5,
+      "absurdist": 0.17,
+      "roast": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 3293350,
+    "total_likes": 52316,
+    "avg_views": 548891,
+    "like_rate": 0.01589,
+    "top_clip": {
+      "videoId": "G3QgxmiBfNY",
+      "title": "Lenny Bruce on the Steve Allen Show April 5, 1959",
+      "channel": "Historic Films Stock Footage Archive",
+      "publishedAt": "2016-11-02",
+      "views": 2067088,
+      "likes": 25526,
+      "comments": 2390,
+      "duration_s": 785
+    }
+  }
 }

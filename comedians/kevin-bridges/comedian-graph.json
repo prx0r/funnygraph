@@ -240,5 +240,25 @@
       "transcript": "evin-ridges-he-tory-ontinues-2012-ull-ranscript.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q6395897",
+    "dob": "1986-11-13",
+    "dod": null,
+    "birthplace": "Clydebank",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

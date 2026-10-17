@@ -268,5 +268,15 @@
   },
   "recognition": {
     "awards": []
+  },
+  "humor_type": {
+    "primary": "crowd-improv",
+    "secondary": "roast",
+    "scores": {
+      "crowd-improv": 0.5,
+      "roast": 0.17,
+      "dark-confessional": 0.17
+    },
+    "method": "archetype+theories"
   }
 }

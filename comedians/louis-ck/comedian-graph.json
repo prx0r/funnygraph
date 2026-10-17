@@ -1100,21 +1100,29 @@
   },
   "specials_rated": [
     {
+      "title": "Louis C.K.: Chewed Up",
+      "year": 2008,
+      "imdb_id": "tt1190722",
+      "imdb_rating": 8.5,
+      "imdb_votes": 11507,
+      "transcript": "louis-c-k-chewed-up-transcript.txt",
+      "standout": true
+    },
+    {
       "title": "Louis C.K.: Shameless",
       "year": 2007,
       "imdb_id": "tt0927619",
       "imdb_rating": 8.5,
       "imdb_votes": 9409,
-      "transcript": "louis-c-k-shameless-2007-full-transcript.txt",
-      "standout": true
+      "transcript": "louis-c-k-shameless-2007-full-transcript.txt"
     },
     {
-      "title": "Up",
-      "year": 2009,
-      "imdb_id": "tt1049413",
+      "title": "Louis C.K.: Hilarious",
+      "year": 2010,
+      "imdb_id": "tt1421373",
       "imdb_rating": 8.3,
-      "imdb_votes": 1260034,
-      "transcript": "louis-c-k-chewed-up-transcript.txt"
+      "imdb_votes": 13405,
+      "transcript": "louis-c-k-hilarious-2010-full-transcript.txt"
     },
     {
       "title": "Louis C.K.: Live at the Comedy Store",
@@ -1141,69 +1149,53 @@
       "transcript": "louis-ck-oh-my-god-full-transcript.txt"
     },
     {
-      "title": "Rio",
-      "year": 2011,
-      "imdb_id": "tt1436562",
-      "imdb_rating": 6.9,
-      "imdb_votes": 278628,
-      "transcript": "louis-c-k-hilarious-2010-full-transcript.txt"
-    },
-    {
-      "title": "Mono",
-      "year": 2016,
-      "imdb_id": "tt4872896",
-      "imdb_rating": 5.6,
-      "imdb_votes": 1064,
-      "transcript": "louis-c-k-snl-monologue-2015-transcript.txt"
-    },
-    {
       "title": "L",
       "year": 2012,
       "imdb_id": "tt2095684",
       "imdb_rating": 5.4,
       "imdb_votes": 830,
-      "transcript": "louis-c-k-live-at-the-beacon-theatre-2011-full-transcript.txt"
-    },
-    {
-      "title": "29",
-      "year": 2026,
-      "imdb_id": "tt37737315",
-      "imdb_rating": 7.7,
-      "imdb_votes": 6568,
-      "transcript": "ouis-onologue-39-16-03-29-14-ull-ranscript.txt",
-      "standout": true
-    },
-    {
-      "title": "Tully",
-      "year": 2018,
-      "imdb_id": "tt5610554",
-      "imdb_rating": 6.9,
-      "imdb_votes": 67138,
-      "transcript": "2017-ull-transcript.txt"
-    },
-    {
-      "title": "3",
-      "year": 2010,
-      "imdb_id": "tt1517177",
-      "imdb_rating": 6.7,
-      "imdb_votes": 5575,
-      "transcript": "ouis-onologue-38-06-11-03-12-ull-ranscript.txt"
-    },
-    {
-      "title": "W.",
-      "year": 2008,
-      "imdb_id": "tt1175491",
-      "imdb_rating": 6.3,
-      "imdb_votes": 51788,
-      "transcript": "ouis-hewed-p-2008-ranscript.txt"
-    },
-    {
-      "title": "N\u00f6",
-      "year": 2021,
-      "imdb_id": "tt9409660",
-      "imdb_rating": 6.2,
-      "imdb_votes": 220,
-      "transcript": "ouis-orry-2021-ranscript.txt"
+      "transcript": "louis-ck-snl-monologue-s38e06-2012-transcript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q15079",
+    "dob": "1967-09-12",
+    "dod": null,
+    "birthplace": "Washington, D.C.",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "actor",
+      "film director",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": "surreal",
+    "scores": {
+      "dark-confessional": 0.5,
+      "surreal": 0.17,
+      "storytelling": 0.17
+    },
+    "method": "archetype+theories"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 132321318,
+    "total_likes": 1878063,
+    "avg_views": 22053553,
+    "like_rate": 0.01419,
+    "top_clip": {
+      "videoId": "zKUpf1Vx0vs",
+      "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+      "channel": "Gilly and Keeves",
+      "publishedAt": "2021-09-07",
+      "views": 58739247,
+      "likes": 695021,
+      "comments": 32750,
+      "duration_s": 2885
+    }
+  }
 }

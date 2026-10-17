@@ -1,0 +1,81 @@
+{
+ "comedian_id": "bill-maher",
+ "name": "Bill Maher",
+ "clips": 6,
+ "total_views": 40611808,
+ "total_likes": 565062,
+ "avg_views": 6768634,
+ "like_rate": 0.01391,
+ "top_clip": {
+  "videoId": "6dMOfwUP0F0",
+  "title": "New Rule: The United States of Dumb-merica | Real Time with Bill Maher (HBO)",
+  "channel": "Real Time with Bill Maher",
+  "publishedAt": "2022-06-04",
+  "views": 10920938,
+  "likes": 135801,
+  "comments": 24811,
+  "duration_s": 656
+ },
+ "rows": [
+  {
+   "videoId": "6dMOfwUP0F0",
+   "title": "New Rule: The United States of Dumb-merica | Real Time with Bill Maher (HBO)",
+   "channel": "Real Time with Bill Maher",
+   "publishedAt": "2022-06-04",
+   "views": 10920938,
+   "likes": 135801,
+   "comments": 24811,
+   "duration_s": 656
+  },
+  {
+   "videoId": "p-c2eUltH58",
+   "title": "Explaining Jokes to Idiots: Oscars Edition | Real Time with Bill Maher (HBO)",
+   "channel": "Real Time with Bill Maher",
+   "publishedAt": "2022-04-09",
+   "views": 9361564,
+   "likes": 166506,
+   "comments": 13258,
+   "duration_s": 581
+  },
+  {
+   "videoId": "L-98RjrmqO4",
+   "title": "Jim Jefferies - Donald Trump - Full Length Official Clip -- From Freedumb Netflix Special",
+   "channel": "Jim Jefferies",
+   "publishedAt": "2016-08-10",
+   "views": 7163160,
+   "likes": 0,
+   "comments": 6735,
+   "duration_s": 384
+  },
+  {
+   "videoId": "BtCK-dMb-F8",
+   "title": "New Rule: Tough Love Dems | Real Time with Bill Maher (HBO)",
+   "channel": "Real Time with Bill Maher",
+   "publishedAt": "2024-11-16",
+   "views": 4422945,
+   "likes": 88862,
+   "comments": 15685,
+   "duration_s": 478
+  },
+  {
+   "videoId": "RxlopbcfXpQ",
+   "title": "Mr. Maher Goes to Washington | Real Time with Bill Maher (HBO)",
+   "channel": "Real Time with Bill Maher",
+   "publishedAt": "2025-04-12",
+   "views": 4402900,
+   "likes": 124505,
+   "comments": 39462,
+   "duration_s": 794
+  },
+  {
+   "videoId": "mfjnDLbCroQ",
+   "title": "15 Minutes of Bill Burr Stand-Up Comedy | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2023-10-21",
+   "views": 4340301,
+   "likes": 49388,
+   "comments": 1481,
+   "duration_s": 959
+  }
+ ]
+}

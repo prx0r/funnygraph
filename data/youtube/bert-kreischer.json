@@ -1,0 +1,81 @@
+{
+ "comedian_id": "bert-kreischer",
+ "name": "Bert Kreischer",
+ "clips": 6,
+ "total_views": 93913715,
+ "total_likes": 1942456,
+ "avg_views": 15652285,
+ "like_rate": 0.02068,
+ "top_clip": {
+  "videoId": "zKUpf1Vx0vs",
+  "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+  "channel": "Gilly and Keeves",
+  "publishedAt": "2021-09-07",
+  "views": 58739350,
+  "likes": 695021,
+  "comments": 32750,
+  "duration_s": 2885
+ },
+ "rows": [
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "publishedAt": "2021-09-07",
+   "views": 58739350,
+   "likes": 695021,
+   "comments": 32750,
+   "duration_s": 2885
+  },
+  {
+   "videoId": "EWge7dihrRY",
+   "title": "Brad Williams \"Starfish\" 2024 FULL COMEDY SPECIAL",
+   "channel": "Brad Williams",
+   "publishedAt": "2024-04-20",
+   "views": 9495410,
+   "likes": 203939,
+   "comments": 7678,
+   "duration_s": 3397
+  },
+  {
+   "videoId": "NIftibBAH_s",
+   "title": "Tony Hinchcliffe of Kill Tony with one of the best jokes of the night #TomBradyRoast",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2024-05-06",
+   "views": 7859407,
+   "likes": 286627,
+   "comments": 3911,
+   "duration_s": 14
+  },
+  {
+   "videoId": "7EuKibmlll4",
+   "title": "\"Burn The Boats\" is a Funeral for Joe Rogan's Comedy Career",
+   "channel": "The Elephant Graveyard",
+   "publishedAt": "2024-08-11",
+   "views": 6621610,
+   "likes": 203467,
+   "comments": 45926,
+   "duration_s": 2165
+  },
+  {
+   "videoId": "w0OLYmcFw-M",
+   "title": "Bert Kreischer Drinks A Gallon of Kool-Aid A day?",
+   "channel": "YMH Studios",
+   "publishedAt": "2022-06-30",
+   "views": 5975015,
+   "likes": 310140,
+   "comments": 5924,
+   "duration_s": 59
+  },
+  {
+   "videoId": "KFDjLEU6dfo",
+   "title": "Bert Kreischer: Cops hate this #shorts #standup #comedy",
+   "channel": "Comedy Time",
+   "publishedAt": "2023-05-27",
+   "views": 5222923,
+   "likes": 243262,
+   "comments": 2185,
+   "duration_s": 57
+  }
+ ]
+}

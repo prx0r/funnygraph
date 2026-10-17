@@ -403,5 +403,32 @@
       "transcript": "robin-williams-weapons-self-destruction.txt",
       "standout": true
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "character",
+    "secondary": "dark-confessional",
+    "scores": {
+      "character": 0.43,
+      "dark-confessional": 0.29,
+      "observational": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 80872946,
+    "total_likes": 1343502,
+    "avg_views": 13478824,
+    "like_rate": 0.01661,
+    "top_clip": {
+      "videoId": "_NqEKvk9F4I",
+      "title": "Jonathan Winters & Robin Williams in Funniest Moments on Carson Tonight Show",
+      "channel": "Johnny Carson",
+      "publishedAt": "2013-04-13",
+      "views": 17972630,
+      "likes": 54296,
+      "comments": 2419,
+      "duration_s": 457
+    }
+  }
 }

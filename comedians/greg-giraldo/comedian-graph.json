@@ -259,5 +259,15 @@
       "comedian"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "rant",
+    "secondary": "meta",
+    "scores": {
+      "rant": 0.5,
+      "meta": 0.17,
+      "roast": 0.17
+    },
+    "method": "archetype+theories"
   }
 }

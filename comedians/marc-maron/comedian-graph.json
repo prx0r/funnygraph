@@ -261,5 +261,27 @@
       "transcript": "arc-aron-rom-leak-to-ark-2023-ranscript.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q3288246",
+    "dob": "1963-09-27",
+    "dod": null,
+    "birthplace": "Jersey City",
+    "citizenship": "United States",
+    "occupations": [
+      "radio personality",
+      "podcaster",
+      "stand-up comedian",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

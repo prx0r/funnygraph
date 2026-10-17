@@ -252,5 +252,14 @@
       "transcript": "ebastian-aniscalco-hat-s-rong-with-eople-2012-ull-ranscript.txt",
       "standout": true
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "roast",
+    "secondary": "observational",
+    "scores": {
+      "roast": 0.5,
+      "observational": 0.5
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

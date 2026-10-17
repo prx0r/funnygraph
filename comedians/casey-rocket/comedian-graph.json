@@ -252,5 +252,15 @@
     "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
     "scene": "kill-tony",
     "breakthrough": "2020s Kill Tony regular"
+  },
+  "humor_type": {
+    "primary": "absurdist",
+    "secondary": "observational",
+    "scores": {
+      "absurdist": 0.5,
+      "observational": 0.17,
+      "surreal": 0.17
+    },
+    "method": "archetype+theories"
   }
 }

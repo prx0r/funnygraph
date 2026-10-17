@@ -238,5 +238,30 @@
         "year": null
       }
     ]
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 25691275,
+    "total_likes": 168001,
+    "avg_views": 4281879,
+    "like_rate": 0.00654,
+    "top_clip": {
+      "videoId": "t7nsAMwl1T4",
+      "title": "Billy Connolly - Dwarf on a bus - Live in London 2010",
+      "channel": "Billy Connolly",
+      "publishedAt": "2021-09-10",
+      "views": 7860411,
+      "likes": 56871,
+      "comments": 2521,
+      "duration_s": 347
+    }
   }
 }

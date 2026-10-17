@@ -1,0 +1,81 @@
+{
+ "comedian_id": "bill-burr",
+ "name": "Bill Burr",
+ "clips": 6,
+ "total_views": 146279008,
+ "total_likes": 1945847,
+ "avg_views": 24379834,
+ "like_rate": 0.0133,
+ "top_clip": {
+  "videoId": "4eZnWEOmdsc",
+  "title": "What IS Autism w/ Bill Burr (from \u201cTake Your Shoes Off\u201d podcast - ep #187)",
+  "channel": "Rick Glassman",
+  "publishedAt": "2023-01-26",
+  "views": 37837165,
+  "likes": 0,
+  "comments": 20039,
+  "duration_s": 61
+ },
+ "rows": [
+  {
+   "videoId": "4eZnWEOmdsc",
+   "title": "What IS Autism w/ Bill Burr (from \u201cTake Your Shoes Off\u201d podcast - ep #187)",
+   "channel": "Rick Glassman",
+   "publishedAt": "2023-01-26",
+   "views": 37837165,
+   "likes": 0,
+   "comments": 20039,
+   "duration_s": 61
+  },
+  {
+   "videoId": "2z3wUD3AZg4",
+   "title": "Chappelle's Show - The Racial Draft (ft. Bill Burr, RZA, and GZA) - Uncensored",
+   "channel": "Comedy Central",
+   "publishedAt": "2017-12-31",
+   "views": 33091355,
+   "likes": 404155,
+   "comments": 18753,
+   "duration_s": 443
+  },
+  {
+   "videoId": "rksKvZoUCPQ",
+   "title": "Bill Burr - no reason to hit a woman - how women argue (FULL) from You People are all the Same",
+   "channel": "mcnyregrus",
+   "publishedAt": "2016-01-29",
+   "views": 22554473,
+   "likes": 325541,
+   "comments": 14380,
+   "duration_s": 735
+  },
+  {
+   "videoId": "GAmvYDknyWA",
+   "title": "Bill Burr On Dark Funny Story!!\ud83e\udd23",
+   "channel": "Comedic Liberation",
+   "publishedAt": "2024-08-02",
+   "views": 18615417,
+   "likes": 747215,
+   "comments": 3479,
+   "duration_s": 60
+  },
+  {
+   "videoId": "lW2pXu97Yvo",
+   "title": "Bill Burr Thinks Women Are Overrated | CONAN on TBS",
+   "channel": "Team Coco",
+   "publishedAt": "2018-08-23",
+   "views": 17477290,
+   "likes": 299714,
+   "comments": 18888,
+   "duration_s": 310
+  },
+  {
+   "videoId": "VgRvFoLMgCQ",
+   "title": "Top 10 Bill Burr Moments on Conan",
+   "channel": "Clip Master",
+   "publishedAt": "2019-12-03",
+   "views": 16703308,
+   "likes": 169222,
+   "comments": 7630,
+   "duration_s": 986
+  }
+ ]
+}

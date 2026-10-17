@@ -208,5 +208,13 @@
     "comedy_central_2004": 70,
     "rolling_stone_2017": 50,
     "trajectory_2004_2017": "rise"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

@@ -1,0 +1,81 @@
+{
+ "comedian_id": "russell-peters",
+ "name": "Russell Peters",
+ "clips": 6,
+ "total_views": 105334971,
+ "total_likes": 3115348,
+ "avg_views": 17555828,
+ "like_rate": 0.02958,
+ "top_clip": {
+  "videoId": "ldrsKtyS8As",
+  "title": "RUSSEL PETERS on Hardcore African Names! \ud83d\ude02 #shorts",
+  "channel": "ShortsTalk",
+  "publishedAt": "2022-09-30",
+  "views": 25174196,
+  "likes": 2295550,
+  "comments": 4762,
+  "duration_s": 60
+ },
+ "rows": [
+  {
+   "videoId": "ldrsKtyS8As",
+   "title": "RUSSEL PETERS on Hardcore African Names! \ud83d\ude02 #shorts",
+   "channel": "ShortsTalk",
+   "publishedAt": "2022-09-30",
+   "views": 25174196,
+   "likes": 2295550,
+   "comments": 4762,
+   "duration_s": 60
+  },
+  {
+   "videoId": "uTXemscTJWM",
+   "title": "\"Terrorists vs Indians\" | Russell Peters - Outsourced",
+   "channel": "Russell Peters",
+   "publishedAt": "2016-11-01",
+   "views": 20300990,
+   "likes": 177545,
+   "comments": 6150,
+   "duration_s": 337
+  },
+  {
+   "videoId": "Xh0-x1RFEOY",
+   "title": "\"Indian Doctors\" | Russell Peters - Almost Famous",
+   "channel": "Russell Peters",
+   "publishedAt": "2017-07-13",
+   "views": 18246608,
+   "likes": 175188,
+   "comments": 6830,
+   "duration_s": 307
+  },
+  {
+   "videoId": "KCQwe_AMo74",
+   "title": "\"Arab Men\" | Russell Peters - Notorious",
+   "channel": "Russell Peters",
+   "publishedAt": "2016-11-01",
+   "views": 14652097,
+   "likes": 160991,
+   "comments": 4728,
+   "duration_s": 401
+  },
+  {
+   "videoId": "goMsCPQYhlQ",
+   "title": "\"Louis Vuitton\" | Russell Peters - Red, White, and Brown",
+   "channel": "Russell Peters",
+   "publishedAt": "2016-10-24",
+   "views": 13902387,
+   "likes": 126413,
+   "comments": 2880,
+   "duration_s": 376
+  },
+  {
+   "videoId": "BtMd6PbscwE",
+   "title": "\"Russians\" |  Russell Peters - Almost Famous",
+   "channel": "Russell Peters",
+   "publishedAt": "2017-06-22",
+   "views": 13058693,
+   "likes": 179661,
+   "comments": 6012,
+   "duration_s": 232
+  }
+ ]
+}

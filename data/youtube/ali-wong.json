@@ -1,0 +1,81 @@
+{
+ "comedian_id": "ali-wong",
+ "name": "Ali Wong",
+ "clips": 6,
+ "total_views": 27194777,
+ "total_likes": 608427,
+ "avg_views": 4532462,
+ "like_rate": 0.02237,
+ "top_clip": {
+  "videoId": "wka-o2V71CM",
+  "title": "\u201cAll I Want Is a Kind 6\u201d Ali Wong #standup #comedian",
+  "channel": "Off the Cuff Comedy",
+  "publishedAt": "2024-10-15",
+  "views": 6084635,
+  "likes": 186001,
+  "comments": 4112,
+  "duration_s": 57
+ },
+ "rows": [
+  {
+   "videoId": "wka-o2V71CM",
+   "title": "\u201cAll I Want Is a Kind 6\u201d Ali Wong #standup #comedian",
+   "channel": "Off the Cuff Comedy",
+   "publishedAt": "2024-10-15",
+   "views": 6084635,
+   "likes": 186001,
+   "comments": 4112,
+   "duration_s": 57
+  },
+  {
+   "videoId": "wY5-8kvMEh0",
+   "title": "Best of: Ali Wong | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2019-06-07",
+   "views": 6026337,
+   "likes": 112643,
+   "comments": 3297,
+   "duration_s": 579
+  },
+  {
+   "videoId": "t5q5KMc4Yho",
+   "title": "Ryan Davis: UNDER-RATED {FULL COMEDY SPECIAL} Presented by Ali Siddiq",
+   "channel": "Ali Siddiq",
+   "publishedAt": "2025-10-12",
+   "views": 5065130,
+   "likes": 139045,
+   "comments": 6317,
+   "duration_s": 3009
+  },
+  {
+   "videoId": "pQ7m5BMkf2A",
+   "title": "Ali Wong Wants To Be Mexican In Her Next Life | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2020-01-11",
+   "views": 4596089,
+   "likes": 89894,
+   "comments": 3187,
+   "duration_s": 311
+  },
+  {
+   "videoId": "QxxLmgleW1s",
+   "title": "15 Minutes of Ali Wong",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2021-03-31",
+   "views": 3706715,
+   "likes": 71889,
+   "comments": 2326,
+   "duration_s": 933
+  },
+  {
+   "videoId": "XY9h-0x1Oao",
+   "title": "Ali Wong: Baby Cobra - The Pregnant Female Comedian | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2016-05-05",
+   "views": 1715871,
+   "likes": 8955,
+   "comments": 352,
+   "duration_s": 80
+  }
+ ]
+}

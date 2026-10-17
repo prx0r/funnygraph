@@ -255,5 +255,28 @@
       "imdb_votes": 220,
       "transcript": "atton-swalt-e-ll-cream-2022-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q374065",
+    "dob": "1969-01-27",
+    "dod": null,
+    "birthplace": "Portsmouth",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "film producer",
+      "writer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": "surreal",
+    "scores": {
+      "observational": 0.8,
+      "surreal": 0.2
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

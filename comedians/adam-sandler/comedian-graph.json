@@ -226,5 +226,30 @@
         "year": 2023
       }
     ]
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 62679088,
+    "total_likes": 750573,
+    "avg_views": 10446514,
+    "like_rate": 0.01197,
+    "top_clip": {
+      "videoId": "Tp2qkhHU0Mw",
+      "title": "Adam Sandler: 100% Fresh | Chris Farley Tribute [HD] | Netflix Is A Joke",
+      "channel": "Netflix Is A Joke",
+      "publishedAt": "2018-12-18",
+      "views": 16432723,
+      "likes": 221971,
+      "comments": 16229,
+      "duration_s": 405
+    }
   }
 }

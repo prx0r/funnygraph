@@ -1,0 +1,81 @@
+{
+ "comedian_id": "ray-romano",
+ "name": "Ray Romano",
+ "clips": 6,
+ "total_views": 3870474,
+ "total_likes": 37690,
+ "avg_views": 645079,
+ "like_rate": 0.00974,
+ "top_clip": {
+  "videoId": "0qWMjgpIECA",
+  "title": "Eminem Hates Raymond - Funny People (9/10) Movie CLIP (2009) HD",
+  "channel": "Movieclips",
+  "publishedAt": "2011-06-16",
+  "views": 1387987,
+  "likes": 14109,
+  "comments": 1037,
+  "duration_s": 114
+ },
+ "rows": [
+  {
+   "videoId": "0qWMjgpIECA",
+   "title": "Eminem Hates Raymond - Funny People (9/10) Movie CLIP (2009) HD",
+   "channel": "Movieclips",
+   "publishedAt": "2011-06-16",
+   "views": 1387987,
+   "likes": 14109,
+   "comments": 1037,
+   "duration_s": 114
+  },
+  {
+   "videoId": "lppN70IWgs4",
+   "title": "Everybody Loves The Barone Boys | Everybody Loves Raymond",
+   "channel": "Everybody Loves Raymond",
+   "publishedAt": "2025-07-05",
+   "views": 1045923,
+   "likes": 5011,
+   "comments": 233,
+   "duration_s": 3530
+  },
+  {
+   "videoId": "1VcdnqH0PJc",
+   "title": "Ray Romano's Hilarious First Appearance | Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2020-08-26",
+   "views": 824306,
+   "likes": 7153,
+   "comments": 608,
+   "duration_s": 399
+  },
+  {
+   "videoId": "6qBqjU8yn6g",
+   "title": "Ray Romano Ranks His Kids and Dishes on Somewhere in Queens (Extended) | The Tonight Show",
+   "channel": "The Tonight Show Starring Jimmy Fallon",
+   "publishedAt": "2023-04-21",
+   "views": 285229,
+   "likes": 3520,
+   "comments": 232,
+   "duration_s": 596
+  },
+  {
+   "videoId": "YqfBeyze_Fs",
+   "title": "Ray Romano's Best Advice for Getting Older | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2020-10-10",
+   "views": 184093,
+   "likes": 3794,
+   "comments": 159,
+   "duration_s": 200
+  },
+  {
+   "videoId": "3gB_MP4ORqI",
+   "title": "Painting the House | Everybody Loves Raymond",
+   "channel": "Everybody Loves Raymond",
+   "publishedAt": "2024-06-13",
+   "views": 142936,
+   "likes": 4103,
+   "comments": 33,
+   "duration_s": 37
+  }
+ ]
+}

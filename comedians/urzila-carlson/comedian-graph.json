@@ -203,5 +203,13 @@
     "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
     "scene": "club",
     "breakthrough": "2010s"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

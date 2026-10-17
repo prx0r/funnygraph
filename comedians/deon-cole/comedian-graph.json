@@ -221,5 +221,13 @@
       "imdb_votes": 220,
       "transcript": "eon-ole-harleen-s-oy-2022-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

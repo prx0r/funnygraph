@@ -1,0 +1,81 @@
+{
+ "comedian_id": "iliza-shlesinger",
+ "name": "Iliza Shlesinger",
+ "clips": 6,
+ "total_views": 75557433,
+ "total_likes": 2840171,
+ "avg_views": 12592905,
+ "like_rate": 0.03759,
+ "top_clip": {
+  "videoId": "JlXNGprnjYs",
+  "title": "Older men\u2026 #funny #comedy #shorts #standupcomedy #comedian #parents",
+  "channel": "Taylor Tomlinson",
+  "publishedAt": "2023-01-29",
+  "views": 28184268,
+  "likes": 1097568,
+  "comments": 9071,
+  "duration_s": 61
+ },
+ "rows": [
+  {
+   "videoId": "JlXNGprnjYs",
+   "title": "Older men\u2026 #funny #comedy #shorts #standupcomedy #comedian #parents",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2023-01-29",
+   "views": 28184268,
+   "likes": 1097568,
+   "comments": 9071,
+   "duration_s": 61
+  },
+  {
+   "videoId": "2m2520TuUdk",
+   "title": "Matt Rife | Only Fans (Full Comedy Special)",
+   "channel": "800 Pound Gorilla Media",
+   "publishedAt": "2023-01-20",
+   "views": 18774600,
+   "likes": 312681,
+   "comments": 9899,
+   "duration_s": 3820
+  },
+  {
+   "videoId": "BZmdG_e3xSc",
+   "title": "Any other self-fulfilling prophecies here? #comedy #funny #standupcomedy  #therapy #shorts",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2023-09-15",
+   "views": 13113997,
+   "likes": 755005,
+   "comments": 3877,
+   "duration_s": 60
+  },
+  {
+   "videoId": "DnSddOyXeIA",
+   "title": "Love the honesty. #comedian #standupcomedy #shorts  #funny #relatable #comedy",
+   "channel": "Taylor Tomlinson",
+   "publishedAt": "2023-07-19",
+   "views": 7693264,
+   "likes": 463950,
+   "comments": 2050,
+   "duration_s": 58
+  },
+  {
+   "videoId": "1_yZHp9xiTo",
+   "title": "Taylor Tomlinson Judges Your Wedding Choices | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2020-03-31",
+   "views": 4871976,
+   "likes": 126785,
+   "comments": 2193,
+   "duration_s": 226
+  },
+  {
+   "videoId": "8kpL8C9r_GI",
+   "title": "Katherine Ryan Stand-Up | The Problem With Hamilton | Netflix",
+   "channel": "Still Watching Netflix",
+   "publishedAt": "2019-07-05",
+   "views": 2919328,
+   "likes": 84182,
+   "comments": 3521,
+   "duration_s": 290
+  }
+ ]
+}

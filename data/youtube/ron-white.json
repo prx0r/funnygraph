@@ -1,0 +1,81 @@
+{
+ "comedian_id": "ron-white",
+ "name": "Ron White",
+ "clips": 6,
+ "total_views": 76350405,
+ "total_likes": 889068,
+ "avg_views": 12725067,
+ "like_rate": 0.01164,
+ "top_clip": {
+  "videoId": "hxBzR6iZ0hE",
+  "title": "\u201cNO PANTS PARTY\u201d?! \ud83e\udd23\ud83d\ude02 | First Date ft. Ron White",
+  "channel": "Comedy Clips Central",
+  "publishedAt": "2024-01-21",
+  "views": 20016978,
+  "likes": 310079,
+  "comments": 1531,
+  "duration_s": 30
+ },
+ "rows": [
+  {
+   "videoId": "hxBzR6iZ0hE",
+   "title": "\u201cNO PANTS PARTY\u201d?! \ud83e\udd23\ud83d\ude02 | First Date ft. Ron White",
+   "channel": "Comedy Clips Central",
+   "publishedAt": "2024-01-21",
+   "views": 20016978,
+   "likes": 310079,
+   "comments": 1531,
+   "duration_s": 30
+  },
+  {
+   "videoId": "EuPDb9r4Gqw",
+   "title": "Your Fav TV Show Is WHAT?!?!\ud83e\udd23\ud83d\ude02 | First Date fr. Ron White",
+   "channel": "Comedy Clips Central",
+   "publishedAt": "2024-01-12",
+   "views": 14582189,
+   "likes": 237597,
+   "comments": 1925,
+   "duration_s": 30
+  },
+  {
+   "videoId": "neUaSTSKFZc",
+   "title": "Official Ron White - I Got Thrown Out of a Bar",
+   "channel": "Ron White Official",
+   "publishedAt": "2011-12-05",
+   "views": 12906038,
+   "likes": 72914,
+   "comments": 2118,
+   "duration_s": 325
+  },
+  {
+   "videoId": "8Ampk-nAx54",
+   "title": "Top 100 Roast Moments \ud83d\udd25 Comedy Central Roast",
+   "channel": "Comedy Central",
+   "publishedAt": "2021-12-28",
+   "views": 12585958,
+   "likes": 80020,
+   "comments": 3423,
+   "duration_s": 4537
+  },
+  {
+   "videoId": "R0pfZygi2t8",
+   "title": "Why White People Like Country Music - Shane Gillis - Up Next",
+   "channel": "Comedy Central Stand-Up",
+   "publishedAt": "2019-07-23",
+   "views": 9840675,
+   "likes": 152712,
+   "comments": 5284,
+   "duration_s": 393
+  },
+  {
+   "videoId": "ClQuI8ds_dg",
+   "title": "Official Ron White - 'Coupins'",
+   "channel": "Ron White Official",
+   "publishedAt": "2011-03-29",
+   "views": 6418567,
+   "likes": 35746,
+   "comments": 997,
+   "duration_s": 426
+  }
+ ]
+}

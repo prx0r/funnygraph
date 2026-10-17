@@ -292,5 +292,15 @@
       "actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": "absurdist",
+    "scores": {
+      "dark-confessional": 0.5,
+      "absurdist": 0.25,
+      "observational": 0.25
+    },
+    "method": "archetype+theories+transcript"
   }
 }

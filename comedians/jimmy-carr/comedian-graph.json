@@ -350,17 +350,7 @@
     "scene": "uk-panel",
     "breakthrough": "2000s"
   },
-  "specials_rated": [
-    {
-      "title": "L",
-      "year": 2012,
-      "imdb_id": "tt2095684",
-      "imdb_rating": 5.4,
-      "imdb_votes": 830,
-      "transcript": "2011-ull-ranscript.txt",
-      "standout": true
-    }
-  ],
+  "specials_rated": [],
   "bio": {
     "wikidata_id": "Q964454",
     "dob": "1972-09-15",
@@ -374,5 +364,15 @@
       "film actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "one-liner",
+    "secondary": "observational",
+    "scores": {
+      "one-liner": 0.5,
+      "observational": 0.17,
+      "dark-confessional": 0.17
+    },
+    "method": "archetype+theories+transcript"
   }
 }

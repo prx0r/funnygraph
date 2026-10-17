@@ -325,5 +325,29 @@
       "transcript": "icky-ervais-2011-olden-lobes-pening-onologue.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q23517",
+    "dob": "1961-06-25",
+    "dod": null,
+    "birthplace": "Reading",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "writer",
+      "musician",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "provocateur",
+    "secondary": "dark-confessional",
+    "scores": {
+      "provocateur": 0.6,
+      "dark-confessional": 0.2,
+      "roast": 0.2
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

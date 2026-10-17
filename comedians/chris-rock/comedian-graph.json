@@ -530,14 +530,6 @@
       "transcript": "hris-ock-ill-he-essenger-ondon-ew-ork-ohannesburg-2008-ranscript.txt"
     },
     {
-      "title": "$",
-      "year": 1971,
-      "imdb_id": "tt0068152",
-      "imdb_rating": 6.3,
-      "imdb_votes": 3141,
-      "transcript": "chris-rock-bring-pain-transcript.txt"
-    },
-    {
       "title": "N\u00f6",
       "year": 2021,
       "imdb_id": "tt9409660",
@@ -545,5 +537,32 @@
       "imdb_votes": 220,
       "transcript": "hris-ock-onologue-2020-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": "surreal",
+    "scores": {
+      "observational": 0.5,
+      "surreal": 0.17,
+      "roast": 0.17
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 331136253,
+    "total_likes": 7114820,
+    "avg_views": 55189375,
+    "like_rate": 0.02149,
+    "top_clip": {
+      "videoId": "myjEoDypUD8",
+      "title": "Watch the uncensored moment Will Smith smacks Chris Rock on stage at the Oscars, drops F-bomb",
+      "channel": "Guardian News",
+      "publishedAt": "2022-03-28",
+      "views": 147401134,
+      "likes": 1946934,
+      "comments": 258355,
+      "duration_s": 84
+    }
+  }
 }

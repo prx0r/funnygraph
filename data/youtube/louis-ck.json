@@ -1,0 +1,81 @@
+{
+ "comedian_id": "louis-ck",
+ "name": "Louis C.K.",
+ "clips": 6,
+ "total_views": 132321318,
+ "total_likes": 1878063,
+ "avg_views": 22053553,
+ "like_rate": 0.01419,
+ "top_clip": {
+  "videoId": "zKUpf1Vx0vs",
+  "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+  "channel": "Gilly and Keeves",
+  "publishedAt": "2021-09-07",
+  "views": 58739247,
+  "likes": 695021,
+  "comments": 32750,
+  "duration_s": 2885
+ },
+ "rows": [
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "publishedAt": "2021-09-07",
+   "views": 58739247,
+   "likes": 695021,
+   "comments": 32750,
+   "duration_s": 2885
+  },
+  {
+   "videoId": "f8PXvqYpGCM",
+   "title": "This Is How I Talk - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2015-05-17",
+   "views": 25621631,
+   "likes": 338365,
+   "comments": 11948,
+   "duration_s": 291
+  },
+  {
+   "videoId": "R1SJgZi6Ajk",
+   "title": "Louis C.K: Every single person has masturbated [Louie, 2011] {Full video Link in Description}",
+   "channel": "Super_Shorts",
+   "publishedAt": "2022-06-03",
+   "views": 15670152,
+   "likes": 490578,
+   "comments": 11600,
+   "duration_s": 60
+  },
+  {
+   "videoId": "OKY6BGcx37k",
+   "title": "Talking Funny - HBO",
+   "channel": "Ken Jones",
+   "publishedAt": "2012-12-30",
+   "views": 12557440,
+   "likes": 108588,
+   "comments": 19490,
+   "duration_s": 2973
+  },
+  {
+   "videoId": "yzh7RtIJKZk",
+   "title": "Louis C.K. Monologue - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2015-05-17",
+   "views": 11882287,
+   "likes": 131400,
+   "comments": 10262,
+   "duration_s": 568
+  },
+  {
+   "videoId": "X-XuT5qKt00",
+   "title": "Birthday Clown - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2017-04-09",
+   "views": 7850561,
+   "likes": 114111,
+   "comments": 3668,
+   "duration_s": 212
+  }
+ ]
+}

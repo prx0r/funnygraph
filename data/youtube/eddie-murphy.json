@@ -1,0 +1,81 @@
+{
+ "comedian_id": "eddie-murphy",
+ "name": "Eddie Murphy",
+ "clips": 6,
+ "total_views": 134537717,
+ "total_likes": 1788686,
+ "avg_views": 22422952,
+ "like_rate": 0.0133,
+ "top_clip": {
+  "videoId": "-uafjYJHfFo",
+  "title": "MICHAEL JACKSON WITH EDDIE MURPHY HILARIOUS MOMENT | HE WASNT EXPECTING THAT ANSWER \ud83d\ude02",
+  "channel": "SLY",
+  "publishedAt": "2025-08-14",
+  "views": 38386686,
+  "likes": 629978,
+  "comments": 10918,
+  "duration_s": 22
+ },
+ "rows": [
+  {
+   "videoId": "-uafjYJHfFo",
+   "title": "MICHAEL JACKSON WITH EDDIE MURPHY HILARIOUS MOMENT | HE WASNT EXPECTING THAT ANSWER \ud83d\ude02",
+   "channel": "SLY",
+   "publishedAt": "2025-08-14",
+   "views": 38386686,
+   "likes": 629978,
+   "comments": 10918,
+   "duration_s": 22
+  },
+  {
+   "videoId": "4trBQseIkkc",
+   "title": "Charlie Murphy\u2019s True Hollywood Stories: Rick James & Prince - Chappelle\u2019s Show",
+   "channel": "Comedy Central",
+   "publishedAt": "2018-10-04",
+   "views": 30253317,
+   "likes": 309973,
+   "comments": 13265,
+   "duration_s": 854
+  },
+  {
+   "videoId": "whfQf3Pd5bU",
+   "title": "Mister Robinson's Neighborhood: Gentrification - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2019-12-22",
+   "views": 16803823,
+   "likes": 288033,
+   "comments": 14315,
+   "duration_s": 263
+  },
+  {
+   "videoId": "WLGXxk29cxg",
+   "title": "Mike Epps Roasts Steph Curry and Draymond Green *MUST WATCH*",
+   "channel": "Boogie's Comedy Slam",
+   "publishedAt": "2020-12-15",
+   "views": 16732479,
+   "likes": 183945,
+   "comments": 3487,
+   "duration_s": 181
+  },
+  {
+   "videoId": "ff8LEx9Mw54",
+   "title": "Chappelle's Show - Charlie Murphy's True Hollywood Stories - Prince - Uncensored",
+   "channel": "Comedy Central",
+   "publishedAt": "2017-12-31",
+   "views": 16550309,
+   "likes": 167775,
+   "comments": 7080,
+   "duration_s": 365
+  },
+  {
+   "videoId": "SQq4C7NluwY",
+   "title": "15 More Minutes of Katt Williams",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2022-05-22",
+   "views": 15811103,
+   "likes": 208982,
+   "comments": 5872,
+   "duration_s": 929
+  }
+ ]
+}

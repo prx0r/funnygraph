@@ -491,12 +491,12 @@
       "transcript": "bill-burr-philadelphia-incident.txt"
     },
     {
-      "title": "Go",
-      "year": 1999,
-      "imdb_id": "tt0139239",
-      "imdb_rating": 7.2,
-      "imdb_votes": 81324,
-      "transcript": "bill-burr-let-go.txt"
+      "title": "Bill Burr: Live at Red Rocks",
+      "year": 2022,
+      "imdb_id": "tt21106500",
+      "imdb_rating": 7.6,
+      "imdb_votes": 8026,
+      "transcript": "bill-burr-live-at-red-rocks.txt"
     },
     {
       "title": "Bill Burr: Walk Your Way Out",
@@ -505,14 +505,6 @@
       "imdb_rating": 7.2,
       "imdb_votes": 8642,
       "transcript": "bill-burr-walk-your-way-out.txt"
-    },
-    {
-      "title": "RED",
-      "year": 2010,
-      "imdb_id": "tt1245526",
-      "imdb_rating": 7.0,
-      "imdb_votes": 341534,
-      "transcript": "bill-burr-live-at-red-rocks.txt"
     },
     {
       "title": "American Dream?",
@@ -531,14 +523,6 @@
       "transcript": "bill-burr-i-m-sorry-you-feel-that-way.txt"
     },
     {
-      "title": "$",
-      "year": 1971,
-      "imdb_id": "tt0068152",
-      "imdb_rating": 6.3,
-      "imdb_votes": 3141,
-      "transcript": "bill-burr-snl-monologue.txt"
-    },
-    {
       "title": "N\u00f6",
       "year": 2021,
       "imdb_id": "tt9409660",
@@ -553,14 +537,33 @@
       "imdb_rating": 5.5,
       "imdb_votes": 68184,
       "transcript": "bill-burr-you-people-are-all-same.txt"
-    },
-    {
-      "title": "L",
-      "year": 2012,
-      "imdb_id": "tt2095684",
-      "imdb_rating": 5.4,
-      "imdb_votes": 830,
-      "transcript": "2012-ull-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "rant",
+    "secondary": "dark-confessional",
+    "scores": {
+      "rant": 0.43,
+      "dark-confessional": 0.29,
+      "roast": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 146279008,
+    "total_likes": 1945847,
+    "avg_views": 24379834,
+    "like_rate": 0.0133,
+    "top_clip": {
+      "videoId": "4eZnWEOmdsc",
+      "title": "What IS Autism w/ Bill Burr (from \u201cTake Your Shoes Off\u201d podcast - ep #187)",
+      "channel": "Rick Glassman",
+      "publishedAt": "2023-01-26",
+      "views": 37837165,
+      "likes": 0,
+      "comments": 20039,
+      "duration_s": 61
+    }
+  }
 }

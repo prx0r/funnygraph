@@ -298,5 +298,46 @@
       "transcript": "michael-che-matters-2016-transcript.txt",
       "standout": true
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q16736692",
+    "dob": "1983-05-19",
+    "dod": null,
+    "birthplace": "Manhattan",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "actor",
+      "screenwriter",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "roast",
+    "secondary": "dark-confessional",
+    "scores": {
+      "roast": 0.57,
+      "dark-confessional": 0.29,
+      "observational": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 59808893,
+    "total_likes": 927994,
+    "avg_views": 9968148,
+    "like_rate": 0.01552,
+    "top_clip": {
+      "videoId": "iQScE5ADOc8",
+      "title": "He black as hell #snl #comedy #shorts",
+      "channel": "Best Comedy Clips",
+      "publishedAt": "2025-08-20",
+      "views": 16985624,
+      "likes": 278977,
+      "comments": 2101,
+      "duration_s": 60
+    }
+  }
 }

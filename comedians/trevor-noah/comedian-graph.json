@@ -290,5 +290,15 @@
       "imdb_votes": 220,
       "transcript": "revor-oah-ish-ou-ould-2022-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": "clean-everyman",
+    "scores": {
+      "observational": 0.57,
+      "clean-everyman": 0.29,
+      "surreal": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

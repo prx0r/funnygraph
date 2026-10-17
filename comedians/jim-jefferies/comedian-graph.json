@@ -302,21 +302,13 @@
   },
   "specials_rated": [
     {
-      "title": "Tully",
-      "year": 2018,
-      "imdb_id": "tt5610554",
-      "imdb_rating": 6.9,
-      "imdb_votes": 67138,
-      "transcript": "2018-ull-transcript.txt",
-      "standout": true
-    },
-    {
       "title": "Lo",
       "year": 2009,
       "imdb_id": "tt1047490",
       "imdb_rating": 6.4,
       "imdb_votes": 3120,
-      "transcript": "im-efferies-lcoholocaust-2010-ranscript.txt"
+      "transcript": "im-efferies-lcoholocaust-2010-ranscript.txt",
+      "standout": true
     }
   ],
   "bio": {
@@ -332,5 +324,15 @@
       "writer"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "meta",
+    "secondary": "roast",
+    "scores": {
+      "meta": 0.25,
+      "roast": 0.25,
+      "observational": 0.25
+    },
+    "method": "archetype+theories+transcript"
   }
 }

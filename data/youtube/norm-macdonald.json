@@ -1,0 +1,81 @@
+{
+ "comedian_id": "norm-macdonald",
+ "name": "Norm Macdonald",
+ "clips": 6,
+ "total_views": 53289689,
+ "total_likes": 1182337,
+ "avg_views": 8881614,
+ "like_rate": 0.02219,
+ "top_clip": {
+  "videoId": "L7K-kaelQEs",
+  "title": "Norm Macdonald Is Married To A Real Battle-Axe | CONAN on TBS",
+  "channel": "Team Coco",
+  "publishedAt": "2016-10-06",
+  "views": 10392583,
+  "likes": 158935,
+  "comments": 7314,
+  "duration_s": 309
+ },
+ "rows": [
+  {
+   "videoId": "L7K-kaelQEs",
+   "title": "Norm Macdonald Is Married To A Real Battle-Axe | CONAN on TBS",
+   "channel": "Team Coco",
+   "publishedAt": "2016-10-06",
+   "views": 10392583,
+   "likes": 158935,
+   "comments": 7314,
+   "duration_s": 309
+  },
+  {
+   "videoId": "BG8u1EIqC-I",
+   "title": "Norm Macdonald on the perfect joke",
+   "channel": "Tyler G Branch",
+   "publishedAt": "2021-09-15",
+   "views": 9016658,
+   "likes": 320202,
+   "comments": 2681,
+   "duration_s": 59
+  },
+  {
+   "videoId": "d5kpXhq5nHM",
+   "title": "Norm Macdonald at the White House Correspondants Dinner 1/2",
+   "channel": "HopeForTheDead",
+   "publishedAt": "2009-02-11",
+   "views": 8663848,
+   "likes": 37818,
+   "comments": 6565,
+   "duration_s": 639
+  },
+  {
+   "videoId": "JF1ReSx8g_w",
+   "title": "Norm MacDonald: Deeply Closeted",
+   "channel": "TheNormExperience",
+   "publishedAt": "2024-02-13",
+   "views": 8547654,
+   "likes": 321630,
+   "comments": 2382,
+   "duration_s": 37
+  },
+  {
+   "videoId": "AQwtMmzdlhI",
+   "title": "Norm Macdonald Compilation",
+   "channel": "SportsGamingCubing",
+   "publishedAt": "2018-06-13",
+   "views": 8424625,
+   "likes": 90853,
+   "comments": 3840,
+   "duration_s": 1182
+  },
+  {
+   "videoId": "t9mUbY3N3p8",
+   "title": "Norm Macdonald gives his time to Johnny Two Feathers",
+   "channel": "Norm Shorts ",
+   "publishedAt": "2022-09-14",
+   "views": 8244321,
+   "likes": 252899,
+   "comments": 10625,
+   "duration_s": 60
+  }
+ ]
+}

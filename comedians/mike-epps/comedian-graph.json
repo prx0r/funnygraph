@@ -252,5 +252,27 @@
       "imdb_votes": 220,
       "transcript": "ike-pps-ndiana-ike-2022-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q311962",
+    "dob": "1970-11-18",
+    "dod": null,
+    "birthplace": "Indianapolis",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "film producer",
+      "director",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

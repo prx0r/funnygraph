@@ -230,5 +230,30 @@
       "children's writer"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 38509768,
+    "total_likes": 340515,
+    "avg_views": 6418294,
+    "like_rate": 0.00884,
+    "top_clip": {
+      "videoId": "neUaSTSKFZc",
+      "title": "Official Ron White - I Got Thrown Out of a Bar",
+      "channel": "Ron White Official",
+      "publishedAt": "2011-12-05",
+      "views": 12906038,
+      "likes": 72914,
+      "comments": 2118,
+      "duration_s": 325
+    }
   }
 }

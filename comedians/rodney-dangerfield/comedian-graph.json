@@ -278,5 +278,46 @@
     "comedy_central_2004": 7,
     "rolling_stone_2017": 26,
     "trajectory_2004_2017": "fall"
+  },
+  "bio": {
+    "wikidata_id": "Q436386",
+    "dob": "1921-11-22",
+    "dod": "2004-10-05",
+    "birthplace": "Babylon",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "television actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "one-liner",
+    "secondary": "roast",
+    "scores": {
+      "one-liner": 0.6,
+      "roast": 0.2,
+      "dark-confessional": 0.2
+    },
+    "method": "archetype+theories"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 89922455,
+    "total_likes": 691786,
+    "avg_views": 14987075,
+    "like_rate": 0.00769,
+    "top_clip": {
+      "videoId": "c2gw-asbBIM",
+      "title": "Carson Can\u2019t Keep Up with Rodney Dangerfield\u2019s Non-Stop One-Liners (1974)",
+      "channel": "Rodney Dangerfield",
+      "publishedAt": "2018-03-06",
+      "views": 22203679,
+      "likes": 185828,
+      "comments": 10577,
+      "duration_s": 711
+    }
   }
 }

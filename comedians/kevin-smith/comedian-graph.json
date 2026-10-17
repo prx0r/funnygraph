@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q30529095",
+    "dob": "1990-06-22",
+    "dod": "2024-03-30",
+    "birthplace": "Imperial Beach",
+    "citizenship": "United States",
+    "occupations": [
+      "film actor",
+      "actor",
+      "character actor",
+      "glass artist"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "dark-confessional",
+    "secondary": null,
+    "scores": {
+      "dark-confessional": 1.0
+    },
+    "method": "archetype+theories+transcript"
   }
 }

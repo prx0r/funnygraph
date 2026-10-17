@@ -1,0 +1,81 @@
+{
+ "comedian_id": "george-carlin",
+ "name": "George Carlin",
+ "clips": 6,
+ "total_views": 124172706,
+ "total_likes": 1919886,
+ "avg_views": 20695451,
+ "like_rate": 0.01546,
+ "top_clip": {
+  "videoId": "KLODGhEyLvk",
+  "title": "Dumb Americans | George Carlin | Life Is Worth Losing (2005)",
+  "channel": "Official George Carlin",
+  "publishedAt": "2016-10-31",
+  "views": 32956316,
+  "likes": 598233,
+  "comments": 54166,
+  "duration_s": 658
+ },
+ "rows": [
+  {
+   "videoId": "KLODGhEyLvk",
+   "title": "Dumb Americans | George Carlin | Life Is Worth Losing (2005)",
+   "channel": "Official George Carlin",
+   "publishedAt": "2016-10-31",
+   "views": 32956316,
+   "likes": 598233,
+   "comments": 54166,
+   "duration_s": 658
+  },
+  {
+   "videoId": "YLuZjpxmsZQ",
+   "title": "George Carlin on some cultural issues.",
+   "channel": "Anders Jacobsson",
+   "publishedAt": "2010-11-14",
+   "views": 31728253,
+   "likes": 414265,
+   "comments": 28399,
+   "duration_s": 782
+  },
+  {
+   "videoId": "2tp0UNcjzl8",
+   "title": "George Carlin - Stand Up About Religion",
+   "channel": "Matti Holden",
+   "publishedAt": "2019-04-08",
+   "views": 21775872,
+   "likes": 314693,
+   "comments": 43961,
+   "duration_s": 1962
+  },
+  {
+   "videoId": "qDO6HV6xTmI",
+   "title": "George Carlin - Death Penalty",
+   "channel": "Seleucid9",
+   "publishedAt": "2011-02-23",
+   "views": 12772773,
+   "likes": 148540,
+   "comments": 13215,
+   "duration_s": 518
+  },
+  {
+   "videoId": "o25I2fzFGoY",
+   "title": "George Carlin on soft language",
+   "channel": "Rob Logan",
+   "publishedAt": "2008-07-12",
+   "views": 12649667,
+   "likes": 249302,
+   "comments": 16236,
+   "duration_s": 567
+  },
+  {
+   "videoId": "7W33HRc1A6c",
+   "title": "George Carlin - Saving the Planet",
+   "channel": "Dadniel",
+   "publishedAt": "2007-10-21",
+   "views": 12289825,
+   "likes": 194853,
+   "comments": 17001,
+   "duration_s": 484
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "comedian_id": "ellen-degeneres",
+ "name": "Ellen Degeneres",
+ "clips": 6,
+ "total_views": 259389864,
+ "total_likes": 5447894,
+ "avg_views": 43231644,
+ "like_rate": 0.021,
+ "top_clip": {
+  "videoId": "G2PNAo_MlJM",
+  "title": "Adorable 6-Year-Old Kid Expert Teaches Ellen About Famous Scientists",
+  "channel": "TheEllenShow",
+  "publishedAt": "2023-05-31",
+  "views": 83387168,
+  "likes": 2380647,
+  "comments": 10045,
+  "duration_s": 57
+ },
+ "rows": [
+  {
+   "videoId": "G2PNAo_MlJM",
+   "title": "Adorable 6-Year-Old Kid Expert Teaches Ellen About Famous Scientists",
+   "channel": "TheEllenShow",
+   "publishedAt": "2023-05-31",
+   "views": 83387168,
+   "likes": 2380647,
+   "comments": 10045,
+   "duration_s": 57
+  },
+  {
+   "videoId": "WOgKIlvjlQ8",
+   "title": "Never Have I Ever with Johnny Depp, Gwyneth Paltrow and Paul Bettany",
+   "channel": "TheEllenShow",
+   "publishedAt": "2015-01-23",
+   "views": 56099558,
+   "likes": 601800,
+   "comments": 8723,
+   "duration_s": 185
+  },
+  {
+   "videoId": "HUmX6CiMoFk",
+   "title": "Ellen DeGeneres' 86th Oscars Opening",
+   "channel": "Oscars",
+   "publishedAt": "2014-03-11",
+   "views": 38422663,
+   "likes": 332482,
+   "comments": 8987,
+   "duration_s": 535
+  },
+  {
+   "videoId": "YgCXzhmJoFQ",
+   "title": "Chris Martin's Daughter Works In A Clothing Store \ud83e\udd17",
+   "channel": "Wealthy Pot",
+   "publishedAt": "2022-09-28",
+   "views": 31453294,
+   "likes": 1318775,
+   "comments": 4435,
+   "duration_s": 58
+  },
+  {
+   "videoId": "wTAJSuhgZxA",
+   "title": "Ellen Inspired Adele's New Song",
+   "channel": "TheEllenShow",
+   "publishedAt": "2015-10-29",
+   "views": 27250905,
+   "likes": 499526,
+   "comments": 8870,
+   "duration_s": 170
+  },
+  {
+   "videoId": "mctn16hLzhg",
+   "title": "Jennifer Lawrence Explains Her Drunk Alter Ego 'Gail'",
+   "channel": "TheEllenShow",
+   "publishedAt": "2018-03-02",
+   "views": 22776276,
+   "likes": 314664,
+   "comments": 5142,
+   "duration_s": 371
+  }
+ ]
+}

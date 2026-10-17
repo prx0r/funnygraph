@@ -468,5 +468,32 @@
       "imdb_votes": 5195,
       "transcript": "ert-reischer-ighting-ear-ranscript.txt"
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "storytelling",
+    "secondary": "dark-confessional",
+    "scores": {
+      "storytelling": 0.43,
+      "dark-confessional": 0.29,
+      "observational": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 93913715,
+    "total_likes": 1942456,
+    "avg_views": 15652285,
+    "like_rate": 0.02068,
+    "top_clip": {
+      "videoId": "zKUpf1Vx0vs",
+      "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+      "channel": "Gilly and Keeves",
+      "publishedAt": "2021-09-07",
+      "views": 58739350,
+      "likes": 695021,
+      "comments": 32750,
+      "duration_s": 2885
+    }
+  }
 }

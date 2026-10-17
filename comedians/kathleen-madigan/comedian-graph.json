@@ -248,5 +248,25 @@
       "imdb_votes": 812,
       "transcript": "athleen-adigan-unting-igfoot-2023-ranscript.txt"
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q6376814",
+    "dob": "1965-09-30",
+    "dod": null,
+    "birthplace": "Florissant",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "observational",
+    "secondary": null,
+    "scores": {
+      "observational": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

@@ -303,15 +303,15 @@
       "imdb_rating": 6.2,
       "imdb_votes": 220,
       "transcript": "ziz-nsari-ightclub-omedian-2022-ranscript.txt"
-    },
-    {
-      "title": "L",
-      "year": 2012,
-      "imdb_id": "tt2095684",
-      "imdb_rating": 5.4,
-      "imdb_votes": 830,
-      "transcript": "2013-ull-ranscript.txt",
-      "standout": true
     }
-  ]
+  ],
+  "humor_type": {
+    "primary": "observational",
+    "secondary": "storytelling",
+    "scores": {
+      "observational": 0.8,
+      "storytelling": 0.2
+    },
+    "method": "archetype+theories+transcript"
+  }
 }

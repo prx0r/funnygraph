@@ -1,0 +1,81 @@
+{
+ "comedian_id": "robin-williams",
+ "name": "Robin Williams",
+ "clips": 6,
+ "total_views": 80872946,
+ "total_likes": 1343502,
+ "avg_views": 13478824,
+ "like_rate": 0.01661,
+ "top_clip": {
+  "videoId": "_NqEKvk9F4I",
+  "title": "Jonathan Winters & Robin Williams in Funniest Moments on Carson Tonight Show",
+  "channel": "Johnny Carson",
+  "publishedAt": "2013-04-13",
+  "views": 17972630,
+  "likes": 54296,
+  "comments": 2419,
+  "duration_s": 457
+ },
+ "rows": [
+  {
+   "videoId": "_NqEKvk9F4I",
+   "title": "Jonathan Winters & Robin Williams in Funniest Moments on Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2013-04-13",
+   "views": 17972630,
+   "likes": 54296,
+   "comments": 2419,
+   "duration_s": 457
+  },
+  {
+   "videoId": "8Zq3KCBed5Q",
+   "title": "Celebrity Jeopardy!: Robin Williams, Catherine Zeta-Jones & Sean Connery - SNL",
+   "channel": "Saturday Night Live",
+   "publishedAt": "2013-09-12",
+   "views": 15886377,
+   "likes": 96069,
+   "comments": 4047,
+   "duration_s": 454
+  },
+  {
+   "videoId": "jfDyTUiL8xs",
+   "title": "Carol Burnett and Robin Williams -The Funeral",
+   "channel": "Tony Begbie",
+   "publishedAt": "2007-03-20",
+   "views": 12611705,
+   "likes": 81969,
+   "comments": 2865,
+   "duration_s": 600
+  },
+  {
+   "videoId": "GkPW5pG9hbU",
+   "title": "Howard Stern's Regret About Robin Williams. \ud83d\ude14 #Shorts",
+   "channel": "Julian Dorey",
+   "publishedAt": "2021-12-17",
+   "views": 11798001,
+   "likes": 621184,
+   "comments": 6596,
+   "duration_s": 53
+  },
+  {
+   "videoId": "z3kF9S0h_7A",
+   "title": "Robin Williams\u2019 Warning for Matthew Lawrence #shorts",
+   "channel": "Brotherly Love Podcast",
+   "publishedAt": "2023-05-02",
+   "views": 11768391,
+   "likes": 435474,
+   "comments": 9179,
+   "duration_s": 51
+  },
+  {
+   "videoId": "iqdSagycCWc",
+   "title": "Full Appearance - Robin Williams is Hilarious | Carson Tonight Show",
+   "channel": "Johnny Carson",
+   "publishedAt": "2011-03-08",
+   "views": 10835842,
+   "likes": 54510,
+   "comments": 3268,
+   "duration_s": 661
+  }
+ ]
+}

@@ -206,5 +206,44 @@
   },
   "recognition": {
     "comedy_central_2004": 26
+  },
+  "bio": {
+    "wikidata_id": "Q220836",
+    "dob": "1957-12-21",
+    "dod": null,
+    "birthplace": "Queens",
+    "citizenship": "United States",
+    "occupations": [
+      "television actor",
+      "film actor",
+      "voice actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "clean-everyman",
+    "secondary": null,
+    "scores": {
+      "clean-everyman": 1.0
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 3870474,
+    "total_likes": 37690,
+    "avg_views": 645079,
+    "like_rate": 0.00974,
+    "top_clip": {
+      "videoId": "0qWMjgpIECA",
+      "title": "Eminem Hates Raymond - Funny People (9/10) Movie CLIP (2009) HD",
+      "channel": "Movieclips",
+      "publishedAt": "2011-06-16",
+      "views": 1387987,
+      "likes": 14109,
+      "comments": 1037,
+      "duration_s": 114
+    }
   }
 }

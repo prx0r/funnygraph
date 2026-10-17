@@ -1,0 +1,81 @@
+{
+ "comedian_id": "sarah-silverman",
+ "name": "Sarah Silverman",
+ "clips": 6,
+ "total_views": 13053362,
+ "total_likes": 179330,
+ "avg_views": 2175560,
+ "like_rate": 0.01374,
+ "top_clip": {
+  "videoId": "liIPcSOL6LI",
+  "title": "A fun fact I learned #sarahsilverman #standupcomedy #comedy #squirrel",
+  "channel": "Sarah Silverman",
+  "publishedAt": "2024-05-30",
+  "views": 4819316,
+  "likes": 94494,
+  "comments": 2905,
+  "duration_s": 51
+ },
+ "rows": [
+  {
+   "videoId": "liIPcSOL6LI",
+   "title": "A fun fact I learned #sarahsilverman #standupcomedy #comedy #squirrel",
+   "channel": "Sarah Silverman",
+   "publishedAt": "2024-05-30",
+   "views": 4819316,
+   "likes": 94494,
+   "comments": 2905,
+   "duration_s": 51
+  },
+  {
+   "videoId": "SEb-sXmcMLE",
+   "title": "Sarah Silverman - Early Standup",
+   "channel": "okdenz",
+   "publishedAt": "2008-03-10",
+   "views": 3238298,
+   "likes": 13619,
+   "comments": 2594,
+   "duration_s": 388
+  },
+  {
+   "videoId": "2aRj7RsJxV0",
+   "title": "Sarah Silverman's Dad Taught Her The Most Tasteless Jokes | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "publishedAt": "2020-04-28",
+   "views": 2120486,
+   "likes": 34299,
+   "comments": 1536,
+   "duration_s": 411
+  },
+  {
+   "videoId": "uZlND366m-c",
+   "title": "Sarah Silverman's \"Demented\" Comedy",
+   "channel": "Katie Couric",
+   "publishedAt": "2008-10-21",
+   "views": 1116161,
+   "likes": 5175,
+   "comments": 1315,
+   "duration_s": 822
+  },
+  {
+   "videoId": "iX-F6UHtEcY",
+   "title": "How Tech Companies Are Profiting Off Your Anger - Long Story Short | The Daily Show",
+   "channel": "The Daily Show",
+   "publishedAt": "2023-02-17",
+   "views": 1044778,
+   "likes": 27787,
+   "comments": 2229,
+   "duration_s": 574
+  },
+  {
+   "videoId": "SoEnYZh1Aw0",
+   "title": "Sarah Silverman wins Emmy for 'I'm F***cking Matt Damon' in Outstanding Original Music & Lyrics",
+   "channel": "Christopher Michael",
+   "publishedAt": "2023-02-15",
+   "views": 714323,
+   "likes": 3956,
+   "comments": 170,
+   "duration_s": 116
+  }
+ ]
+}

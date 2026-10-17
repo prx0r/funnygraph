@@ -670,14 +670,6 @@
       "transcript": "george-carlin-indian-drill-sergeant-transcript.txt"
     },
     {
-      "title": "The Full Monty",
-      "year": 1997,
-      "imdb_id": "tt0119164",
-      "imdb_rating": 7.2,
-      "imdb_votes": 121108,
-      "transcript": "1996-ull-transcript.txt"
-    },
-    {
       "title": "It",
       "year": 1927,
       "imdb_id": "tt0018033",
@@ -731,7 +723,7 @@
       "imdb_id": "tt0068152",
       "imdb_rating": 6.3,
       "imdb_votes": 3141,
-      "transcript": ".txt"
+      "transcript": "eorge-arlin-even-ords-ou-an-ever-ay-on-elevision.txt"
     },
     {
       "title": "W.",
@@ -755,5 +747,32 @@
       "comedian"
     ],
     "source": "wikidata (CC0)"
+  },
+  "humor_type": {
+    "primary": "rant",
+    "secondary": "meta",
+    "scores": {
+      "rant": 0.43,
+      "meta": 0.14,
+      "absurdist": 0.14
+    },
+    "method": "archetype+theories+transcript"
+  },
+  "youtube": {
+    "clips": 6,
+    "total_views": 124172706,
+    "total_likes": 1919886,
+    "avg_views": 20695451,
+    "like_rate": 0.01546,
+    "top_clip": {
+      "videoId": "KLODGhEyLvk",
+      "title": "Dumb Americans | George Carlin | Life Is Worth Losing (2005)",
+      "channel": "Official George Carlin",
+      "publishedAt": "2016-10-31",
+      "views": 32956316,
+      "likes": 598233,
+      "comments": 54166,
+      "duration_s": 658
+    }
   }
 }
