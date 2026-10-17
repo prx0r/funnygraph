@@ -1,0 +1,509 @@
+{
+ "1970s": [
+  {
+   "decade_rank": 1,
+   "special": "Richard Pryor: Live in Concert",
+   "year": 1979,
+   "comedian": "Richard Pryor",
+   "comedian_id": "richard-pryor",
+   "rating": 8.0,
+   "votes": 6262,
+   "wr": 7.862,
+   "humor_type": "dark-confessional"
+  }
+ ],
+ "1980s": [
+  {
+   "decade_rank": 1,
+   "special": "Eddie Murphy: Delirious",
+   "year": 1983,
+   "comedian": "Eddie Murphy",
+   "comedian_id": "eddie-murphy",
+   "rating": 8.1,
+   "votes": 19538,
+   "wr": 8.046,
+   "humor_type": "dark-confessional"
+  },
+  {
+   "decade_rank": 2,
+   "special": "George Carlin: What Am I Doing in New Jersey?",
+   "year": 1988,
+   "comedian": "George Carlin",
+   "comedian_id": "george-carlin",
+   "rating": 8.0,
+   "votes": 2225,
+   "wr": 7.69,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 3,
+   "special": "Richard Pryor: Live on the Sunset Strip",
+   "year": 1982,
+   "comedian": "Richard Pryor",
+   "comedian_id": "richard-pryor",
+   "rating": 7.6,
+   "votes": 4821,
+   "wr": 7.497,
+   "humor_type": "dark-confessional"
+  },
+  {
+   "decade_rank": 4,
+   "special": "Richard Pryor... Here and Now",
+   "year": 1983,
+   "comedian": "Richard Pryor",
+   "comedian_id": "richard-pryor",
+   "rating": 7.2,
+   "votes": 2598,
+   "wr": 7.144,
+   "humor_type": "dark-confessional"
+  }
+ ],
+ "1990s": [
+  {
+   "decade_rank": 1,
+   "special": "Eddie Izzard: Dress to Kill",
+   "year": 1998,
+   "comedian": "Eddie Izzard",
+   "comedian_id": "eddie-izzard",
+   "rating": 8.6,
+   "votes": 7781,
+   "wr": 8.418,
+   "humor_type": "character"
+  },
+  {
+   "decade_rank": 2,
+   "special": "George Carlin: You Are All Diseased",
+   "year": 1999,
+   "comedian": "George Carlin",
+   "comedian_id": "george-carlin",
+   "rating": 8.4,
+   "votes": 4992,
+   "wr": 8.166,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 3,
+   "special": "Bill Hicks: Relentless",
+   "year": 1992,
+   "comedian": "Bill Hicks",
+   "comedian_id": "bill-hicks",
+   "rating": 8.5,
+   "votes": 2756,
+   "wr": 8.101,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 4,
+   "special": "Bill Hicks: Revelations",
+   "year": 1993,
+   "comedian": "Bill Hicks",
+   "comedian_id": "bill-hicks",
+   "rating": 8.4,
+   "votes": 3325,
+   "wr": 8.076,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 5,
+   "special": "George Carlin: Doin' It Again",
+   "year": 1990,
+   "comedian": "George Carlin",
+   "comedian_id": "george-carlin",
+   "rating": 8.3,
+   "votes": 2647,
+   "wr": 7.944,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 6,
+   "special": "Chris Rock: Bigger & Blacker",
+   "year": 1999,
+   "comedian": "Chris Rock",
+   "comedian_id": "chris-rock",
+   "rating": 8.0,
+   "votes": 7833,
+   "wr": 7.887,
+   "humor_type": "observational"
+  },
+  {
+   "decade_rank": 7,
+   "special": "Jerry Seinfeld: 'I'm Telling You for the Last Time'",
+   "year": 1998,
+   "comedian": "Jerry Seinfeld",
+   "comedian_id": "jerry-seinfeld",
+   "rating": 7.8,
+   "votes": 6378,
+   "wr": 7.692,
+   "humor_type": "observational"
+  },
+  {
+   "decade_rank": 8,
+   "special": "India",
+   "year": 1993,
+   "comedian": "George Carlin",
+   "comedian_id": "george-carlin",
+   "rating": 7.9,
+   "votes": 3211,
+   "wr": 7.686,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 9,
+   "special": "Eddie Izzard: Unrepeatable",
+   "year": 1994,
+   "comedian": "Eddie Izzard",
+   "comedian_id": "eddie-izzard",
+   "rating": 7.9,
+   "votes": 1582,
+   "wr": 7.551,
+   "humor_type": "character"
+  },
+  {
+   "decade_rank": 10,
+   "special": "Go",
+   "year": 1999,
+   "comedian": "Louis C.K.",
+   "comedian_id": "louis-ck",
+   "rating": 7.2,
+   "votes": 81324,
+   "wr": 7.198,
+   "humor_type": "dark-confessional"
+  }
+ ],
+ "2000s": [
+  {
+   "decade_rank": 1,
+   "special": "Louis C.K.: Chewed Up",
+   "year": 2008,
+   "comedian": "Louis C.K.",
+   "comedian_id": "louis-ck",
+   "rating": 8.5,
+   "votes": 11507,
+   "wr": 8.38,
+   "humor_type": "dark-confessional"
+  },
+  {
+   "decade_rank": 2,
+   "special": "Louis C.K.: Shameless",
+   "year": 2007,
+   "comedian": "Louis C.K.",
+   "comedian_id": "louis-ck",
+   "rating": 8.5,
+   "votes": 9409,
+   "wr": 8.356,
+   "humor_type": "dark-confessional"
+  },
+  {
+   "decade_rank": 3,
+   "special": "Up",
+   "year": 2009,
+   "comedian": "Stewart Lee",
+   "comedian_id": "stewart-lee",
+   "rating": 8.3,
+   "votes": 1260034,
+   "wr": 8.299,
+   "humor_type": "meta"
+  },
+  {
+   "decade_rank": 4,
+   "special": "Dave Chappelle: For What It's Worth",
+   "year": 2004,
+   "comedian": "Dave Chappelle",
+   "comedian_id": "dave-chappelle",
+   "rating": 8.4,
+   "votes": 9534,
+   "wr": 8.267,
+   "humor_type": "storytelling"
+  },
+  {
+   "decade_rank": 5,
+   "special": "George Carlin... It's Bad for Ya!",
+   "year": 2008,
+   "comedian": "George Carlin",
+   "comedian_id": "george-carlin",
+   "rating": 8.4,
+   "votes": 6881,
+   "wr": 8.222,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 6,
+   "special": "George Carlin: Complaints & Grievances",
+   "year": 2001,
+   "comedian": "George Carlin",
+   "comedian_id": "george-carlin",
+   "rating": 8.3,
+   "votes": 3966,
+   "wr": 8.038,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 7,
+   "special": "Chris Rock: Never Scared",
+   "year": 2004,
+   "comedian": "Chris Rock",
+   "comedian_id": "chris-rock",
+   "rating": 8.0,
+   "votes": 5889,
+   "wr": 7.855,
+   "humor_type": "observational"
+  },
+  {
+   "decade_rank": 8,
+   "special": "Stewart Lee: 90s Comedian",
+   "year": 2006,
+   "comedian": "Stewart Lee",
+   "comedian_id": "stewart-lee",
+   "rating": 8.5,
+   "votes": 484,
+   "wr": 7.489,
+   "humor_type": "meta"
+  },
+  {
+   "decade_rank": 9,
+   "special": "Eddie Izzard: Stripped",
+   "year": 2009,
+   "comedian": "Eddie Izzard",
+   "comedian_id": "eddie-izzard",
+   "rating": 7.6,
+   "votes": 839,
+   "wr": 7.274,
+   "humor_type": "character"
+  },
+  {
+   "decade_rank": 10,
+   "special": "Elf",
+   "year": 2003,
+   "comedian": "Robin Williams",
+   "comedian_id": "robin-williams",
+   "rating": 7.1,
+   "votes": 350047,
+   "wr": 7.1,
+   "humor_type": "character"
+  }
+ ],
+ "2010s": [
+  {
+   "decade_rank": 1,
+   "special": "Dave Chappelle: Sticks & Stones",
+   "year": 2019,
+   "comedian": "Dave Chappelle",
+   "comedian_id": "dave-chappelle",
+   "rating": 8.3,
+   "votes": 29141,
+   "wr": 8.257,
+   "humor_type": "storytelling"
+  },
+  {
+   "decade_rank": 2,
+   "special": "Bo Burnham: Make Happy",
+   "year": 2016,
+   "comedian": "Bo Burnham",
+   "comedian_id": "bo-burnham",
+   "rating": 8.3,
+   "votes": 17428,
+   "wr": 8.229,
+   "humor_type": "meta"
+  },
+  {
+   "decade_rank": 3,
+   "special": "Louis C.K.: Hilarious",
+   "year": 2010,
+   "comedian": "Louis C.K.",
+   "comedian_id": "louis-ck",
+   "rating": 8.3,
+   "votes": 13405,
+   "wr": 8.21,
+   "humor_type": "dark-confessional"
+  },
+  {
+   "decade_rank": 4,
+   "special": "Bo Burnham: what.",
+   "year": 2013,
+   "comedian": "Bo Burnham",
+   "comedian_id": "bo-burnham",
+   "rating": 8.2,
+   "votes": 13815,
+   "wr": 8.119,
+   "humor_type": "meta"
+  },
+  {
+   "decade_rank": 5,
+   "special": "Dave Chappelle: Equanimity",
+   "year": 2017,
+   "comedian": "Dave Chappelle",
+   "comedian_id": "dave-chappelle",
+   "rating": 8.1,
+   "votes": 14318,
+   "wr": 8.028,
+   "humor_type": "storytelling"
+  },
+  {
+   "decade_rank": 6,
+   "special": "KD (A) Karuppudurai",
+   "year": 2019,
+   "comedian": "Vir Das",
+   "comedian_id": "vir-das",
+   "rating": 8.4,
+   "votes": 2232,
+   "wr": 7.967,
+   "humor_type": "observational"
+  },
+  {
+   "decade_rank": 7,
+   "special": "Bill Burr: Paper Tiger",
+   "year": 2019,
+   "comedian": "Bill Burr",
+   "comedian_id": "bill-burr",
+   "rating": 8.0,
+   "votes": 13449,
+   "wr": 7.931,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 8,
+   "special": "Bo Burnham: Words, Words, Words",
+   "year": 2010,
+   "comedian": "Bo Burnham",
+   "comedian_id": "bo-burnham",
+   "rating": 8.0,
+   "votes": 4630,
+   "wr": 7.822,
+   "humor_type": "meta"
+  },
+  {
+   "decade_rank": 9,
+   "special": "John Mulaney: The Comeback Kid",
+   "year": 2015,
+   "comedian": "John Mulaney",
+   "comedian_id": "john-mulaney",
+   "rating": 7.9,
+   "votes": 10227,
+   "wr": 7.82,
+   "humor_type": "storytelling"
+  },
+  {
+   "decade_rank": 10,
+   "special": "John Mulaney: Kid Gorgeous at Radio City",
+   "year": 2018,
+   "comedian": "John Mulaney",
+   "comedian_id": "john-mulaney",
+   "rating": 7.9,
+   "votes": 9780,
+   "wr": 7.817,
+   "humor_type": "storytelling"
+  }
+ ],
+ "2020s": [
+  {
+   "decade_rank": 1,
+   "special": "Bo Burnham: Inside",
+   "year": 2021,
+   "comedian": "Bo Burnham",
+   "comedian_id": "bo-burnham",
+   "rating": 8.6,
+   "votes": 60396,
+   "wr": 8.574,
+   "humor_type": "meta"
+  },
+  {
+   "decade_rank": 2,
+   "special": "Dave Chappelle: The Closer",
+   "year": 2021,
+   "comedian": "Dave Chappelle",
+   "comedian_id": "dave-chappelle",
+   "rating": 7.9,
+   "votes": 29853,
+   "wr": 7.871,
+   "humor_type": "storytelling"
+  },
+  {
+   "decade_rank": 3,
+   "special": "Dave Chappelle: 8:46",
+   "year": 2020,
+   "comedian": "Dave Chappelle",
+   "comedian_id": "dave-chappelle",
+   "rating": 8.0,
+   "votes": 4123,
+   "wr": 7.805,
+   "humor_type": "storytelling"
+  },
+  {
+   "decade_rank": 4,
+   "special": "Hi",
+   "year": 2026,
+   "comedian": "Bill Burr",
+   "comedian_id": "bill-burr",
+   "rating": 7.9,
+   "votes": 3982,
+   "wr": 7.719,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 5,
+   "special": "Hi",
+   "year": 2026,
+   "comedian": "Tom Segura",
+   "comedian_id": "tom-segura",
+   "rating": 7.9,
+   "votes": 3982,
+   "wr": 7.719,
+   "humor_type": "dark-confessional"
+  },
+  {
+   "decade_rank": 6,
+   "special": "Louis C.K.: Sorry",
+   "year": 2021,
+   "comedian": "Louis C.K.",
+   "comedian_id": "louis-ck",
+   "rating": 7.7,
+   "votes": 4477,
+   "wr": 7.572,
+   "humor_type": "dark-confessional"
+  },
+  {
+   "decade_rank": 7,
+   "special": "Bill Burr: Live at Red Rocks",
+   "year": 2022,
+   "comedian": "Bill Burr",
+   "comedian_id": "bill-burr",
+   "rating": 7.6,
+   "votes": 8026,
+   "wr": 7.534,
+   "humor_type": "rant"
+  },
+  {
+   "decade_rank": 8,
+   "special": "John Mulaney: Baby J",
+   "year": 2023,
+   "comedian": "John Mulaney",
+   "comedian_id": "john-mulaney",
+   "rating": 7.5,
+   "votes": 7506,
+   "wr": 7.441,
+   "humor_type": "storytelling"
+  },
+  {
+   "decade_rank": 9,
+   "special": "Norm Macdonald: Nothing Special",
+   "year": 2022,
+   "comedian": "Norm Macdonald",
+   "comedian_id": "norm-macdonald",
+   "rating": 7.5,
+   "votes": 2493,
+   "wr": 7.357,
+   "humor_type": "absurdist"
+  },
+  {
+   "decade_rank": 10,
+   "special": "Taylor Tomlinson: Quarter-Life Crisis",
+   "year": 2020,
+   "comedian": "Taylor Tomlinson",
+   "comedian_id": "taylor-tomlinson",
+   "rating": 7.4,
+   "votes": 6001,
+   "wr": 7.343,
+   "humor_type": "dark-confessional"
+  }
+ ]
+}
