@@ -464,5 +464,6 @@
     "heat": null,
     "gap": -0.7,
     "canon_lag": 0.009
-  }
+  },
+  "tier": "king"
 }

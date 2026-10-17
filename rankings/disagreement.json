@@ -1,15 +1,15 @@
 [
  {
-  "rank": 7,
+  "rank": 8,
   "comedian_id": "lenny-bruce",
   "name": "Lenny Bruce",
-  "score": 6.1095,
+  "score": 5.9805,
   "legs": {
    "critics": 1.8619,
-   "audience": 0.2619,
+   "audience": 0.1974,
    "awards": 0.0
   },
-  "disagreement": 0.8,
+  "disagreement": 0.8323,
   "generation": "pioneers",
   "imdb_wr": 6.469,
   "cc2004": 3,
@@ -19,45 +19,45 @@
   "rank": 3,
   "comedian_id": "chris-rock",
   "name": "Chris Rock",
-  "score": 7.2238,
+  "score": 7.2012,
   "legs": {
    "critics": 1.7571,
-   "audience": 0.8929,
+   "audience": 0.8816,
    "awards": 0.1667
   },
-  "disagreement": 0.6501,
+  "disagreement": 0.6504,
   "generation": "eighties-boom",
   "imdb_wr": 7.887,
   "cc2004": 5,
   "rs2017": 5
  },
  {
-  "rank": 2,
+  "rank": 1,
   "comedian_id": "richard-pryor",
   "name": "Richard Pryor",
-  "score": 7.4762,
+  "score": 7.7368,
   "legs": {
    "critics": 2.0,
-   "audience": 0.7381,
+   "audience": 0.8684,
    "awards": 0.0
   },
-  "disagreement": 0.631,
+  "disagreement": 0.5658,
   "generation": "seventies",
-  "imdb_wr": 7.144,
+  "imdb_wr": 7.862,
   "cc2004": 1,
   "rs2017": 1
  },
  {
-  "rank": 1,
+  "rank": 2,
   "comedian_id": "george-carlin",
   "name": "George Carlin",
-  "score": 7.674,
+  "score": 7.6878,
   "legs": {
    "critics": 1.931,
-   "audience": 0.9405,
+   "audience": 0.9474,
    "awards": 0.0
   },
-  "disagreement": 0.4953,
+  "disagreement": 0.4918,
   "generation": "seventies",
   "imdb_wr": 8.222,
   "cc2004": 2,
@@ -80,80 +80,96 @@
   "rs2017": null
  },
  {
-  "rank": 34,
-  "comedian_id": "demetri-martin",
-  "name": "Demetri Martin",
-  "score": 1.627,
-  "legs": {
-   "critics": 0.0,
-   "audience": 0.7857,
-   "awards": 0.0556
-  },
-  "disagreement": 0.365,
-  "generation": "aughts",
-  "imdb_wr": 7.284,
-  "cc2004": null,
-  "rs2017": null
- },
- {
-  "rank": 4,
+  "rank": 6,
   "comedian_id": "jerry-seinfeld",
   "name": "Jerry Seinfeld",
-  "score": 6.4713,
+  "score": 6.4149,
   "legs": {
    "critics": 1.5857,
-   "audience": 0.8571,
+   "audience": 0.8289,
    "awards": 0.0
   },
-  "disagreement": 0.3643,
+  "disagreement": 0.3784,
   "generation": "eighties-boom",
   "imdb_wr": 7.692,
   "cc2004": 12,
   "rs2017": 7
  },
  {
-  "rank": 26,
-  "comedian_id": "ali-wong",
-  "name": "Ali Wong",
-  "score": 1.7817,
+  "rank": 33,
+  "comedian_id": "demetri-martin",
+  "name": "Demetri Martin",
+  "score": 1.582,
   "legs": {
    "critics": 0.0,
-   "audience": 0.8214,
-   "awards": 0.1389
+   "audience": 0.7632,
+   "awards": 0.0556
   },
-  "disagreement": 0.3412,
-  "generation": "tens",
-  "imdb_wr": 7.447,
+  "disagreement": 0.3538,
+  "generation": "aughts",
+  "imdb_wr": 7.284,
   "cc2004": null,
   "rs2017": null
  },
  {
-  "rank": 60,
+  "rank": 54,
   "comedian_id": "donald-glover",
   "name": "Donald Glover",
-  "score": 1.1667,
+  "score": 1.1491,
   "legs": {
    "critics": 0.0,
-   "audience": 0.1667,
+   "audience": 0.1579,
    "awards": 0.8333
   },
-  "disagreement": 0.3333,
+  "disagreement": 0.3377,
   "generation": "aughts",
   "imdb_wr": 6.274,
   "cc2004": null,
   "rs2017": null
  },
  {
-  "rank": 32,
+  "rank": 24,
+  "comedian_id": "ali-wong",
+  "name": "Ali Wong",
+  "score": 1.7441,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.8026,
+   "awards": 0.1389
+  },
+  "disagreement": 0.3318,
+  "generation": "tens",
+  "imdb_wr": 7.447,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 4,
+  "comedian_id": "robin-williams",
+  "name": "Robin Williams",
+  "score": 6.8114,
+  "legs": {
+   "critics": 1.481,
+   "audience": 0.6842,
+   "awards": 1.0
+  },
+  "disagreement": 0.3276,
+  "generation": "seventies",
+  "imdb_wr": 7.1,
+  "cc2004": 13,
+  "rs2017": 12
+ },
+ {
+  "rank": 31,
   "comedian_id": "norm-macdonald",
   "name": "Norm Macdonald",
-  "score": 2.1191,
+  "score": 2.0791,
   "legs": {
    "critics": 0.1667,
-   "audience": 0.8095,
+   "audience": 0.7895,
    "awards": 0.0
   },
-  "disagreement": 0.3214,
+  "disagreement": 0.3114,
   "generation": "nineties",
   "imdb_wr": 7.357,
   "cc2004": 83,
@@ -161,118 +177,102 @@
  },
  {
   "rank": 5,
-  "comedian_id": "robin-williams",
-  "name": "Robin Williams",
-  "score": 6.8716,
-  "legs": {
-   "critics": 1.481,
-   "audience": 0.7143,
-   "awards": 1.0
-  },
-  "disagreement": 0.3164,
-  "generation": "seventies",
-  "imdb_wr": 7.1,
-  "cc2004": 13,
-  "rs2017": 12
- },
- {
-  "rank": 6,
   "comedian_id": "dave-chappelle",
   "name": "Dave Chappelle",
-  "score": 6.4382,
+  "score": 6.4544,
   "legs": {
    "critics": 1.3167,
-   "audience": 0.9524,
+   "audience": 0.9605,
    "awards": 0.5833
   },
-  "disagreement": 0.2994,
+  "disagreement": 0.2995,
   "generation": "nineties",
   "imdb_wr": 8.267,
   "cc2004": 43,
   "rs2017": 9
  },
  {
-  "rank": 40,
+  "rank": 38,
   "comedian_id": "russell-peters",
   "name": "Russell Peters",
-  "score": 1.7621,
+  "score": 1.6919,
   "legs": {
    "critics": 0.1429,
-   "audience": 0.6667,
+   "audience": 0.6316,
    "awards": 0.0
   },
-  "disagreement": 0.2619,
+  "disagreement": 0.2444,
   "generation": "nineties",
   "imdb_wr": 6.989,
   "cc2004": null,
   "rs2017": 44
  },
  {
-  "rank": 42,
+  "rank": 40,
   "comedian_id": "mitch-hedberg",
   "name": "Mitch Hedberg",
-  "score": 1.5238,
+  "score": 1.5264,
   "legs": {
    "critics": 0.5,
-   "audience": 0.0119,
+   "audience": 0.0132,
    "awards": 0.0
   },
-  "disagreement": 0.244,
+  "disagreement": 0.2434,
   "generation": "nineties",
   "imdb_wr": 3.213,
   "cc2004": null,
   "rs2017": 20
  },
  {
-  "rank": 8,
+  "rank": 7,
   "comedian_id": "bill-hicks",
   "name": "Bill Hicks",
-  "score": 5.993,
+  "score": 6.0042,
   "legs": {
    "critics": 1.3786,
-   "audience": 0.9286,
+   "audience": 0.9342,
    "awards": 0.0
   },
-  "disagreement": 0.225,
+  "disagreement": 0.2222,
   "generation": "nineties",
   "imdb_wr": 8.101,
   "cc2004": 19,
   "rs2017": 13
  },
  {
-  "rank": 11,
-  "comedian_id": "eddie-murphy",
-  "name": "Eddie Murphy",
-  "score": 5.4523,
+  "rank": 39,
+  "comedian_id": "aziz-ansari",
+  "name": "Aziz Ansari",
+  "score": 1.5387,
   "legs": {
-   "critics": 1.2619,
-   "audience": 0.8333,
-   "awards": 0.0
+   "critics": 0.0714,
+   "audience": 0.5789,
+   "awards": 0.1667
   },
-  "disagreement": 0.2143,
-  "generation": "eighties-boom",
-  "imdb_wr": 7.574,
-  "cc2004": 10,
-  "rs2017": 25
+  "disagreement": 0.2202,
+  "generation": "aughts",
+  "imdb_wr": 6.856,
+  "cc2004": null,
+  "rs2017": 49
  },
  {
-  "rank": 48,
+  "rank": 47,
   "comedian_id": "d-l-hughley",
   "name": "D L Hughley",
-  "score": 1.3713,
+  "score": 1.3789,
   "legs": {
    "critics": 0.4333,
-   "audience": 0.0357,
+   "audience": 0.0395,
    "awards": 0.0
   },
-  "disagreement": 0.1988,
+  "disagreement": 0.1969,
   "generation": "eighties-boom",
   "imdb_wr": 5.273,
   "cc2004": 54,
   "rs2017": null
  },
  {
-  "rank": 17,
+  "rank": 19,
   "comedian_id": "bill-maher",
   "name": "Bill Maher",
   "score": 2.05,
@@ -288,23 +288,23 @@
   "rs2017": null
  },
  {
-  "rank": 22,
-  "comedian_id": "bill-burr",
-  "name": "Bill Burr",
-  "score": 3.5238,
+  "rank": 11,
+  "comedian_id": "eddie-murphy",
+  "name": "Eddie Murphy",
+  "score": 5.6279,
   "legs": {
-   "critics": 0.5714,
-   "audience": 0.9048,
+   "critics": 1.2619,
+   "audience": 0.9211,
    "awards": 0.0
   },
-  "disagreement": 0.1667,
-  "generation": "aughts",
-  "imdb_wr": 7.931,
-  "cc2004": null,
-  "rs2017": 17
+  "disagreement": 0.1704,
+  "generation": "eighties-boom",
+  "imdb_wr": 8.046,
+  "cc2004": 10,
+  "rs2017": 25
  },
  {
-  "rank": 29,
+  "rank": 27,
   "comedian_id": "adam-sandler",
   "name": "Adam Sandler",
   "score": 1.6667,
@@ -320,163 +320,163 @@
   "rs2017": null
  },
  {
-  "rank": 31,
-  "comedian_id": "sarah-silverman",
-  "name": "Sarah Silverman",
-  "score": 2.25,
+  "rank": 21,
+  "comedian_id": "bill-burr",
+  "name": "Bill Burr",
+  "score": 3.5036,
   "legs": {
-   "critics": 0.3214,
-   "audience": 0.6429,
+   "critics": 0.5714,
+   "audience": 0.8947,
    "awards": 0.0
   },
-  "disagreement": 0.1608,
+  "disagreement": 0.1617,
+  "generation": "aughts",
+  "imdb_wr": 7.931,
+  "cc2004": null,
+  "rs2017": 17
+ },
+ {
+  "rank": 30,
+  "comedian_id": "sarah-silverman",
+  "name": "Sarah Silverman",
+  "score": 2.1748,
+  "legs": {
+   "critics": 0.3214,
+   "audience": 0.6053,
+   "awards": 0.0
+  },
+  "disagreement": 0.1419,
   "generation": "nineties",
   "imdb_wr": 6.919,
   "cc2004": null,
   "rs2017": 31
  },
  {
-  "rank": 30,
-  "comedian_id": "jeff-foxworthy",
-  "name": "Jeff Foxworthy",
-  "score": 2.4097,
-  "legs": {
-   "critics": 0.3667,
-   "audience": 0.6548,
-   "awards": 0.0
-  },
-  "disagreement": 0.1441,
-  "generation": "eighties-boom",
-  "imdb_wr": 6.969,
-  "cc2004": 60,
-  "rs2017": null
- },
- {
   "rank": 16,
   "comedian_id": "eddie-izzard",
   "name": "Eddie Izzard",
-  "score": 4.1692,
+  "score": 4.1666,
   "legs": {
    "critics": 0.731,
-   "audience": 0.9881,
+   "audience": 0.9868,
    "awards": 0.0
   },
-  "disagreement": 0.1285,
+  "disagreement": 0.1279,
   "generation": "nineties",
   "imdb_wr": 8.418,
   "cc2004": 75,
   "rs2017": 24
  },
  {
-  "rank": 74,
-  "comedian_id": "patrice-o-neal",
-  "name": "Patrice O Neal",
-  "score": 1.0475,
+  "rank": 29,
+  "comedian_id": "jeff-foxworthy",
+  "name": "Jeff Foxworthy",
+  "score": 2.3369,
   "legs": {
-   "critics": 0.2857,
-   "audience": 0.0952,
+   "critics": 0.3667,
+   "audience": 0.6184,
    "awards": 0.0
   },
-  "disagreement": 0.0953,
+  "disagreement": 0.1258,
+  "generation": "eighties-boom",
+  "imdb_wr": 6.969,
+  "cc2004": 60,
+  "rs2017": null
+ },
+ {
+  "rank": 65,
+  "comedian_id": "patrice-o-neal",
+  "name": "Patrice O Neal",
+  "score": 1.0149,
+  "legs": {
+   "critics": 0.2857,
+   "audience": 0.0789,
+   "awards": 0.0
+  },
+  "disagreement": 0.1034,
   "generation": "nineties",
   "imdb_wr": 6.274,
   "cc2004": null,
   "rs2017": 32
  },
  {
-  "rank": 41,
-  "comedian_id": "patton-oswalt",
-  "name": "Patton Oswalt",
-  "score": 1.6072,
-  "legs": {
-   "critics": 0.25,
-   "audience": 0.4286,
-   "awards": 0.0
-  },
-  "disagreement": 0.0893,
-  "generation": "nineties",
-  "imdb_wr": 6.856,
-  "cc2004": null,
-  "rs2017": 34
- },
- {
-  "rank": 58,
+  "rank": 64,
   "comedian_id": "eddie-griffin",
   "name": "Eddie Griffin",
-  "score": 1.3095,
+  "score": 1.2631,
   "legs": {
    "critics": 0.3333,
-   "audience": 0.1548,
+   "audience": 0.1316,
    "awards": 0.0
   },
-  "disagreement": 0.0892,
+  "disagreement": 0.1008,
   "generation": "nineties",
   "imdb_wr": 6.274,
   "cc2004": 62,
   "rs2017": null
  },
  {
-  "rank": 85,
-  "comedian_id": "aziz-ansari",
-  "name": "Aziz Ansari",
-  "score": 0.7857,
+  "rank": 46,
+  "comedian_id": "patton-oswalt",
+  "name": "Patton Oswalt",
+  "score": 1.4868,
   "legs": {
-   "critics": 0.0714,
-   "audience": 0.2024,
-   "awards": 0.1667
-  },
-  "disagreement": 0.0553,
-  "generation": "aughts",
-  "imdb_wr": 6.274,
-  "cc2004": null,
-  "rs2017": 49
- },
- {
-  "rank": 28,
-  "comedian_id": "kevin-hart",
-  "name": "Kevin Hart",
-  "score": 2.8451,
-  "legs": {
-   "critics": 0.5357,
-   "audience": 0.619,
+   "critics": 0.25,
+   "audience": 0.3684,
    "awards": 0.0
   },
-  "disagreement": 0.0417,
+  "disagreement": 0.0592,
+  "generation": "nineties",
+  "imdb_wr": 6.856,
+  "cc2004": null,
+  "rs2017": 34
+ },
+ {
+  "rank": 66,
+  "comedian_id": "amy-schumer",
+  "name": "Amy Schumer",
+  "score": 0.8136,
+  "legs": {
+   "critics": 0.1786,
+   "audience": 0.0,
+   "awards": 0.2778
+  },
+  "disagreement": 0.0496,
+  "generation": "aughts",
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": 43
+ },
+ {
+  "rank": 26,
+  "comedian_id": "kevin-hart",
+  "name": "Kevin Hart",
+  "score": 2.7913,
+  "legs": {
+   "critics": 0.5357,
+   "audience": 0.5921,
+   "awards": 0.0
+  },
+  "disagreement": 0.0282,
   "generation": "aughts",
   "imdb_wr": 6.9,
   "cc2004": null,
   "rs2017": 18
  },
  {
-  "rank": 59,
-  "comedian_id": "amy-schumer",
-  "name": "Amy Schumer",
-  "score": 1.266,
+  "rank": 80,
+  "comedian_id": "david-cross",
+  "name": "David Cross",
+  "score": 0.4832,
   "legs": {
-   "critics": 0.1786,
-   "audience": 0.2262,
-   "awards": 0.2778
-  },
-  "disagreement": 0.0405,
-  "generation": "aughts",
-  "imdb_wr": 6.274,
-  "cc2004": null,
-  "rs2017": 43
- },
- {
-  "rank": 13,
-  "comedian_id": "louis-ck",
-  "name": "Louis C.K.",
-  "score": 4.731,
-  "legs": {
-   "critics": 0.9262,
-   "audience": 0.9762,
-   "awards": 0.0
+   "critics": 0.1333,
+   "audience": 0.0,
+   "awards": 0.0833
   },
   "disagreement": 0.025,
   "generation": "nineties",
-  "imdb_wr": 8.356,
-  "cc2004": 98,
-  "rs2017": 4
+  "imdb_wr": null,
+  "cc2004": 85,
+  "rs2017": null
  }
 ]

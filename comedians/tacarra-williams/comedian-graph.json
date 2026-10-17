@@ -1,0 +1,59 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "tacarra-williams",
+ "name": "Tacarra Williams",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Warm observational, personal+topical",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "gold-2026"
+  ],
+  "discovery_note": "Warm observational, personal+topical"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "sebastian-maniscalco",
+   "shared_terms": 1
+  },
+  {
+   "comedian_id": "sean-lock",
+   "shared_terms": 1
+  },
+  {
+   "comedian_id": "richard-pryor",
+   "shared_terms": 1
+  }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "stavros-halkias",
+ "name": "Stavros Halkias",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Cum Town \u2192 Live at the Lodge Room indie special",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "comedyville-2026",
+   "podcast"
+  ],
+  "discovery_note": "Cum Town \u2192 Live at the Lodge Room indie special"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "andrew-schulz",
+   "shared_terms": 3
+  },
+  {
+   "comedian_id": "stewart-lee",
+   "shared_terms": 2
+  },
+  {
+   "comedian_id": "mark-normand",
+   "shared_terms": 2
+  }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ }
+}

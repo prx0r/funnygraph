@@ -30,6 +30,9 @@ AWARD_W = {"mark twain": 3.0, "grammy": 2.0, "emmy": 1.5, "peabody": 1.5,
            "golden globe": 1.0, "writers guild": 1.0, "critics": 1.0}
 
 
+TIER_RANKED = ("king",)  # indies excluded from canon until promoted
+
+
 def load_comics() -> dict:
     comics = {}
     for d in sorted(COMEDIANS.iterdir()):
@@ -37,6 +40,8 @@ def load_comics() -> dict:
         if not g.exists():
             continue
         j = json.loads(g.read_text())
+        if j.get("tier", "king") not in TIER_RANKED:
+            continue
         comics[d.name] = j
     return comics
 

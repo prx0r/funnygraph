@@ -1,0 +1,60 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "dulce-sloan",
+ "name": "Dulce Sloan",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Daily Show correspondent, sharp fearless voice",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "comedyville-2026",
+   "daily-show"
+  ],
+  "discovery_note": "Daily Show correspondent, sharp fearless voice"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "maria-bamford",
+   "shared_terms": 2
+  },
+  {
+   "comedian_id": "whitney-cummings",
+   "shared_terms": 1
+  },
+  {
+   "comedian_id": "wanda-sykes",
+   "shared_terms": 1
+  }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ }
+}
