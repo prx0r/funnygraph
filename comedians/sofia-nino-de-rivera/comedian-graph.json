@@ -1,0 +1,42 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "sofia-nino-de-rivera",
+ "name": "Sof\u00eda Ni\u00f1o de Rivera",
+ "tier": "indie",
+ "region": "mexico",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/latam-es",
+ "note": "First woman + first Spanish Netflix special (Expuesta 2016). Ad-copywriter turned comic via NYC clubs. Self-deprecation + regional accents + Guadalupe material. Death threats in Chihuahua for provincial jokes.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-latam-es",
+   "press"
+  ],
+  "discovery_note": "First woman + first Spanish Netflix special (Expuesta 2016). Ad-copywriter turned comic via NYC clubs. Self-deprecation + regional accents + Guadalupe material. Death threats in Chihuahua for provincial jokes."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ }
+}
