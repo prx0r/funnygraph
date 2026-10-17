@@ -225,5 +225,11 @@
       "observational": 1.0
     },
     "method": "archetype+theories+transcript"
+  },
+  "netflix_viewership": {
+    "hours": 5700000,
+    "views": 4200000,
+    "specials": 9,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }

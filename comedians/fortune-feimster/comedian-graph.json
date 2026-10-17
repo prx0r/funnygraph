@@ -233,5 +233,11 @@
       "clean-everyman": 1.0
     },
     "method": "archetype+theories+transcript"
+  },
+  "netflix_viewership": {
+    "hours": 6500000,
+    "views": 5500000,
+    "specials": 3,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }

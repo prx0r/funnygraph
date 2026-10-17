@@ -313,5 +313,11 @@
       "storytelling": 0.2
     },
     "method": "archetype+theories+transcript"
+  },
+  "netflix_viewership": {
+    "hours": 400000,
+    "views": 100000,
+    "specials": 3,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }

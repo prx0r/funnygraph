@@ -248,5 +248,11 @@
       "dark-confessional": 1.0
     },
     "method": "archetype+theories+transcript"
+  },
+  "netflix_viewership": {
+    "hours": 42100000,
+    "views": 38700000,
+    "specials": 4,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }

@@ -505,5 +505,11 @@
       "comments": 4506,
       "duration_s": 846
     }
+  },
+  "netflix_viewership": {
+    "hours": 48900000,
+    "views": 24000000,
+    "specials": 19,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }

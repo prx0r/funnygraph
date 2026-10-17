@@ -337,5 +337,11 @@
       "roast": 0.17
     },
     "method": "archetype+theories+transcript"
+  },
+  "netflix_viewership": {
+    "hours": 6700000,
+    "views": 7400000,
+    "specials": 2,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }

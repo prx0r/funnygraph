@@ -282,5 +282,11 @@
       "character": 0.2
     },
     "method": "archetype+theories+transcript"
+  },
+  "netflix_viewership": {
+    "hours": 6600000,
+    "views": 6200000,
+    "specials": 3,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }

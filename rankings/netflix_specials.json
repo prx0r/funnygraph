@@ -1,0 +1,9261 @@
+[
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "The Roast of Kevin Hart",
+  "halves": {
+   "2026H1": {
+    "hours": 60400000,
+    "views": 21100000
+   }
+  },
+  "total_hours": 60400000,
+  "total_views": 21100000
+ },
+ {
+  "comedian_id": "chris-rock",
+  "comedian": "Chris Rock",
+  "title": "Chris Rock: Selective Outrage",
+  "halves": {
+   "2023H1": {
+    "hours": 36200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1800000,
+    "views": 1500000
+   },
+   "2024H1": {
+    "hours": 1600000,
+    "views": 1400000
+   },
+   "2024H2": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 300000
+   }
+  },
+  "total_hours": 41500000,
+  "total_views": 4400000
+ },
+ {
+  "comedian_id": "shane-gillis",
+  "comedian": "Shane Gillis",
+  "title": "Shane Gillis: Beautiful Dogs",
+  "halves": {
+   "2023H2": {
+    "hours": 10600000,
+    "views": 12000000
+   },
+   "2024H1": {
+    "hours": 5400000,
+    "views": 6100000
+   },
+   "2024H2": {
+    "hours": 3400000,
+    "views": 3800000
+   },
+   "2025H1": {
+    "hours": 3200000,
+    "views": 3600000
+   },
+   "2025H2": {
+    "hours": 2200000,
+    "views": 2500000
+   },
+   "2026H1": {
+    "hours": 1700000,
+    "views": 1900000
+   }
+  },
+  "total_hours": 26500000,
+  "total_views": 29900000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: The Unstoppable...",
+  "halves": {
+   "2025H2": {
+    "hours": 17700000,
+    "views": 14000000
+   },
+   "2026H1": {
+    "hours": 6100000,
+    "views": 4800000
+   }
+  },
+  "total_hours": 23800000,
+  "total_views": 18800000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: The Dreamer",
+  "halves": {
+   "2023H2": {
+    "hours": 2100000,
+    "views": 2200000
+   },
+   "2024H1": {
+    "hours": 16500000,
+    "views": 17400000
+   },
+   "2024H2": {
+    "hours": 2100000,
+    "views": 2200000
+   },
+   "2025H1": {
+    "hours": 1200000,
+    "views": 1300000
+   },
+   "2025H2": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 23000000,
+  "total_views": 24200000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "John Mulaney: Baby J",
+  "halves": {
+   "2023H1": {
+    "hours": 11900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 3200000,
+    "views": 2400000
+   },
+   "2024H1": {
+    "hours": 2400000,
+    "views": 1800000
+   },
+   "2024H2": {
+    "hours": 1200000,
+    "views": 900000
+   },
+   "2025H1": {
+    "hours": 1000000,
+    "views": 800000
+   },
+   "2025H2": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 500000
+   }
+  },
+  "total_hours": 21000000,
+  "total_views": 6900000
+ },
+ {
+  "comedian_id": "nate-bargatze",
+  "comedian": "Nate Bargatze",
+  "title": "Your Friend, Nate Bargatze",
+  "halves": {
+   "2024H2": {
+    "hours": 7900000,
+    "views": 7400000
+   },
+   "2025H1": {
+    "hours": 7200000,
+    "views": 6700000
+   },
+   "2025H2": {
+    "hours": 3600000,
+    "views": 3400000
+   },
+   "2026H1": {
+    "hours": 2100000,
+    "views": 2000000
+   }
+  },
+  "total_hours": 20800000,
+  "total_views": 19500000
+ },
+ {
+  "comedian_id": "tom-segura",
+  "comedian": "Tom Segura",
+  "title": "Tom Segura: Sledgehammer",
+  "halves": {
+   "2023H2": {
+    "hours": 12200000,
+    "views": 11800000
+   },
+   "2024H1": {
+    "hours": 2300000,
+    "views": 2200000
+   },
+   "2024H2": {
+    "hours": 1700000,
+    "views": 1600000
+   },
+   "2025H1": {
+    "hours": 1400000,
+    "views": 1400000
+   },
+   "2025H2": {
+    "hours": 1000000,
+    "views": 1000000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 600000
+   }
+  },
+  "total_hours": 19200000,
+  "total_views": 18600000
+ },
+ {
+  "comedian_id": "ricky-gervais",
+  "comedian": "Ricky Gervais",
+  "title": "Ricky Gervais: Armageddon",
+  "halves": {
+   "2023H2": {
+    "hours": 8400000,
+    "views": 8000000
+   },
+   "2024H1": {
+    "hours": 5700000,
+    "views": 5400000
+   },
+   "2024H2": {
+    "hours": 1600000,
+    "views": 1500000
+   },
+   "2025H1": {
+    "hours": 1100000,
+    "views": 1000000
+   },
+   "2025H2": {
+    "hours": 1000000,
+    "views": 1000000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 600000
+   }
+  },
+  "total_hours": 18400000,
+  "total_views": 17500000
+ },
+ {
+  "comedian_id": "katt-williams",
+  "comedian": "Katt Williams",
+  "title": "Katt Williams: Woke Foke",
+  "halves": {
+   "2024H1": {
+    "hours": 10600000,
+    "views": 10300000
+   },
+   "2024H2": {
+    "hours": 2900000,
+    "views": 2800000
+   },
+   "2025H1": {
+    "hours": 2200000,
+    "views": 2100000
+   },
+   "2025H2": {
+    "hours": 1500000,
+    "views": 1500000
+   },
+   "2026H1": {
+    "hours": 900000,
+    "views": 900000
+   }
+  },
+  "total_hours": 18100000,
+  "total_views": 17600000
+ },
+ {
+  "comedian_id": "gabriel-iglesias",
+  "comedian": "Gabriel Iglesias",
+  "title": "Gabriel Iglesias: Legend of Fluffy",
+  "halves": {
+   "2025H1": {
+    "hours": 13300000,
+    "views": 7800000
+   },
+   "2025H2": {
+    "hours": 2700000,
+    "views": 1600000
+   },
+   "2026H1": {
+    "hours": 1800000,
+    "views": 1100000
+   }
+  },
+  "total_hours": 17800000,
+  "total_views": 10500000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: Acting My Age",
+  "halves": {
+   "2025H2": {
+    "hours": 13800000,
+    "views": 12400000
+   },
+   "2026H1": {
+    "hours": 2700000,
+    "views": 2400000
+   }
+  },
+  "total_hours": 16500000,
+  "total_views": 14800000
+ },
+ {
+  "comedian_id": "gabriel-iglesias",
+  "comedian": "Gabriel Iglesias",
+  "title": "Gabriel Iglesias: Stadium Fluffy",
+  "halves": {
+   "2023H1": {
+    "hours": 6400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 3000000,
+    "views": 1600000
+   },
+   "2024H1": {
+    "hours": 2200000,
+    "views": 1100000
+   },
+   "2024H2": {
+    "hours": 1400000,
+    "views": 700000
+   },
+   "2025H1": {
+    "hours": 1200000,
+    "views": 600000
+   },
+   "2025H2": {
+    "hours": 800000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 700000,
+    "views": 400000
+   }
+  },
+  "total_hours": 15700000,
+  "total_views": 4800000
+ },
+ {
+  "comedian_id": "bert-kreischer",
+  "comedian": "Bert Kreischer",
+  "title": "Bert Kreischer: Razzle Dazzle",
+  "halves": {
+   "2023H1": {
+    "hours": 8300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1900000,
+    "views": 1800000
+   },
+   "2024H1": {
+    "hours": 1100000,
+    "views": 1100000
+   },
+   "2024H2": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2025H1": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 13500000,
+  "total_views": 5100000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: The Kennedy Center Mark Twain Prize for American Humor",
+  "halves": {
+   "2024H1": {
+    "hours": 9300000,
+    "views": 7100000
+   },
+   "2024H2": {
+    "hours": 1300000,
+    "views": 1000000
+   },
+   "2025H1": {
+    "hours": 900000,
+    "views": 700000
+   },
+   "2025H2": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 12400000,
+  "total_views": 9500000
+ },
+ {
+  "comedian_id": "nate-bargatze",
+  "comedian": "Nate Bargatze",
+  "title": "Nate Bargatze: The Tennessee Kid",
+  "halves": {
+   "2023H1": {
+    "hours": 1900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 2500000,
+    "views": 2500000
+   },
+   "2024H1": {
+    "hours": 1700000,
+    "views": 1700000
+   },
+   "2024H2": {
+    "hours": 1900000,
+    "views": 1900000
+   },
+   "2025H1": {
+    "hours": 1800000,
+    "views": 1800000
+   },
+   "2025H2": {
+    "hours": 1200000,
+    "views": 1200000
+   },
+   "2026H1": {
+    "hours": 900000,
+    "views": 900000
+   }
+  },
+  "total_hours": 11900000,
+  "total_views": 10000000
+ },
+ {
+  "comedian_id": "katt-williams",
+  "comedian": "Katt Williams",
+  "title": "Katt Williams: The Last Report",
+  "halves": {
+   "2026H1": {
+    "hours": 11300000,
+    "views": 11500000
+   }
+  },
+  "total_hours": 11300000,
+  "total_views": 11500000
+ },
+ {
+  "comedian_id": "trevor-noah",
+  "comedian": "Trevor Noah",
+  "title": "Trevor Noah: Where Was I",
+  "halves": {
+   "2023H2": {
+    "hours": 6300000,
+    "views": 5600000
+   },
+   "2024H1": {
+    "hours": 2400000,
+    "views": 2100000
+   },
+   "2024H2": {
+    "hours": 1000000,
+    "views": 900000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 11100000,
+  "total_views": 9900000
+ },
+ {
+  "comedian_id": "ricky-gervais",
+  "comedian": "Ricky Gervais",
+  "title": "Ricky Gervais: SuperNature",
+  "halves": {
+   "2023H1": {
+    "hours": 2900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 3300000,
+    "views": 3000000
+   },
+   "2024H1": {
+    "hours": 1600000,
+    "views": 1500000
+   },
+   "2024H2": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2025H1": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2025H2": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2026H1": {
+    "hours": 500000,
+    "views": 500000
+   }
+  },
+  "total_hours": 10500000,
+  "total_views": 6900000
+ },
+ {
+  "comedian_id": "nate-bargatze",
+  "comedian": "Nate Bargatze",
+  "title": "Nate Bargatze: The Greatest Average American",
+  "halves": {
+   "2023H1": {
+    "hours": 1600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 2100000,
+    "views": 2100000
+   },
+   "2024H1": {
+    "hours": 1400000,
+    "views": 1400000
+   },
+   "2024H2": {
+    "hours": 1600000,
+    "views": 1600000
+   },
+   "2025H1": {
+    "hours": 1700000,
+    "views": 1700000
+   },
+   "2025H2": {
+    "hours": 1200000,
+    "views": 1200000
+   },
+   "2026H1": {
+    "hours": 800000,
+    "views": 800000
+   }
+  },
+  "total_hours": 10400000,
+  "total_views": 8800000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: Sticks & Stones",
+  "halves": {
+   "2023H1": {
+    "hours": 2000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1600000,
+    "views": 1500000
+   },
+   "2024H1": {
+    "hours": 2200000,
+    "views": 2000000
+   },
+   "2024H2": {
+    "hours": 1100000,
+    "views": 1000000
+   },
+   "2025H1": {
+    "hours": 1100000,
+    "views": 1000000
+   },
+   "2025H2": {
+    "hours": 1100000,
+    "views": 1000000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 500000
+   }
+  },
+  "total_hours": 9700000,
+  "total_views": 7000000
+ },
+ {
+  "comedian_id": "joe-rogan",
+  "comedian": "Joe Rogan",
+  "title": "Joe Rogan: Burn the Boats",
+  "halves": {
+   "2024H2": {
+    "hours": 8300000,
+    "views": 7400000
+   },
+   "2025H1": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 9700000,
+  "total_views": 8700000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: Collection",
+  "halves": {
+   "2023H1": {
+    "hours": 2400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 2000000,
+    "views": 900000
+   },
+   "2024H1": {
+    "hours": 1400000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 900000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 1000000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 1100000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 800000,
+    "views": 400000
+   }
+  },
+  "total_hours": 9600000,
+  "total_views": 3200000
+ },
+ {
+  "comedian_id": "mike-epps",
+  "comedian": "Mike Epps",
+  "title": "Mike Epps: Ready to Sell Out",
+  "halves": {
+   "2024H1": {
+    "hours": 6000000,
+    "views": 5900000
+   },
+   "2024H2": {
+    "hours": 1400000,
+    "views": 1400000
+   },
+   "2025H1": {
+    "hours": 900000,
+    "views": 900000
+   },
+   "2025H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 600000
+   }
+  },
+  "total_hours": 9500000,
+  "total_views": 9400000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "John Mulaney Presents: Everybody\u2019s in L.A.: Season 1",
+  "halves": {
+   "2024H1": {
+    "hours": 8000000,
+    "views": 1100000
+   },
+   "2024H2": {
+    "hours": 1000000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 100000
+   }
+  },
+  "total_hours": 9500000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "jo-koy",
+  "comedian": "Jo Koy",
+  "title": "Jo Koy: Live from Brooklyn",
+  "halves": {
+   "2024H1": {
+    "hours": 5000000,
+    "views": 5000000
+   },
+   "2024H2": {
+    "hours": 1900000,
+    "views": 1900000
+   },
+   "2025H1": {
+    "hours": 1200000,
+    "views": 1200000
+   },
+   "2025H2": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2026H1": {
+    "hours": 500000,
+    "views": 500000
+   }
+  },
+  "total_hours": 9300000,
+  "total_views": 9300000
+ },
+ {
+  "comedian_id": "jim-jefferies",
+  "comedian": "Jim Jefferies",
+  "title": "Jim Jefferies: High & Dry",
+  "halves": {
+   "2023H1": {
+    "hours": 5800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1200000,
+    "views": 1000000
+   },
+   "2024H1": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 9200000,
+  "total_views": 2900000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: The Closer",
+  "halves": {
+   "2023H1": {
+    "hours": 2900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 2200000,
+    "views": 1800000
+   },
+   "2024H1": {
+    "hours": 1200000,
+    "views": 1000000
+   },
+   "2024H2": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2025H1": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2025H2": {
+    "hours": 900000,
+    "views": 800000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 300000
+   }
+  },
+  "total_hours": 9100000,
+  "total_views": 5200000
+ },
+ {
+  "comedian_id": "bill-burr",
+  "comedian": "Bill Burr",
+  "title": "Bill Burr: Live at Red Rocks",
+  "halves": {
+   "2023H1": {
+    "hours": 3100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 2200000,
+    "views": 1600000
+   },
+   "2024H1": {
+    "hours": 1200000,
+    "views": 900000
+   },
+   "2024H2": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 8700000,
+  "total_views": 4100000
+ },
+ {
+  "comedian_id": "ricky-gervais",
+  "comedian": "Ricky Gervais",
+  "title": "Ricky Gervais: Mortality",
+  "halves": {
+   "2025H2": {
+    "hours": 2300000,
+    "views": 2300000
+   },
+   "2026H1": {
+    "hours": 6300000,
+    "views": 6400000
+   }
+  },
+  "total_hours": 8600000,
+  "total_views": 8700000
+ },
+ {
+  "comedian_id": "katt-williams",
+  "comedian": "Katt Williams",
+  "title": "Katt Williams: World War III",
+  "halves": {
+   "2023H1": {
+    "hours": 2200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1600000,
+    "views": 1600000
+   },
+   "2024H1": {
+    "hours": 3400000,
+    "views": 3400000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 8500000,
+  "total_views": 6300000
+ },
+ {
+  "comedian_id": "tom-segura",
+  "comedian": "Tom Segura",
+  "title": "Tom Segura: Disgraceful",
+  "halves": {
+   "2023H1": {
+    "hours": 1900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1800000,
+    "views": 1500000
+   },
+   "2024H1": {
+    "hours": 1200000,
+    "views": 1000000
+   },
+   "2024H2": {
+    "hours": 1000000,
+    "views": 800000
+   },
+   "2025H1": {
+    "hours": 1000000,
+    "views": 800000
+   },
+   "2025H2": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 500000,
+    "views": 400000
+   }
+  },
+  "total_hours": 8000000,
+  "total_views": 5000000
+ },
+ {
+  "comedian_id": "andrew-schulz",
+  "comedian": "Andrew Schulz",
+  "title": "Andrew Schulz: LIFE",
+  "halves": {
+   "2025H1": {
+    "hours": 6500000,
+    "views": 6600000
+   },
+   "2025H2": {
+    "hours": 900000,
+    "views": 900000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 7800000,
+  "total_views": 7900000
+ },
+ {
+  "comedian_id": "taylor-tomlinson",
+  "comedian": "Taylor Tomlinson",
+  "title": "Taylor Tomlinson: Have It All",
+  "halves": {
+   "2024H1": {
+    "hours": 5500000,
+    "views": 4900000
+   },
+   "2024H2": {
+    "hours": 900000,
+    "views": 800000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 7700000,
+  "total_views": 6900000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: Equanimity & The Bird Revelation: Collection",
+  "halves": {
+   "2023H1": {
+    "hours": 2200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1800000,
+    "views": 1000000
+   },
+   "2024H1": {
+    "hours": 1100000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 600000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 700000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 500000,
+    "views": 300000
+   }
+  },
+  "total_hours": 7500000,
+  "total_views": 2900000
+ },
+ {
+  "comedian_id": "jo-koy",
+  "comedian": "Jo Koy",
+  "title": "Jo Koy: Live from the Los Angeles Forum",
+  "halves": {
+   "2023H1": {
+    "hours": 2700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1600000,
+    "views": 1300000
+   },
+   "2024H1": {
+    "hours": 1300000,
+    "views": 1100000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 7300000,
+  "total_views": 3700000
+ },
+ {
+  "comedian_id": "ricky-gervais",
+  "comedian": "Ricky Gervais",
+  "title": "Ricky Gervais: Humanity",
+  "halves": {
+   "2023H1": {
+    "hours": 1800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1700000,
+    "views": 1300000
+   },
+   "2024H1": {
+    "hours": 1100000,
+    "views": 800000
+   },
+   "2024H2": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 500000
+   }
+  },
+  "total_hours": 7200000,
+  "total_views": 4100000
+ },
+ {
+  "comedian_id": "tom-segura",
+  "comedian": "Tom Segura",
+  "title": "Tom Segura: Teacher",
+  "halves": {
+   "2025H2": {
+    "hours": 4000000,
+    "views": 3500000
+   },
+   "2026H1": {
+    "hours": 3200000,
+    "views": 2800000
+   }
+  },
+  "total_hours": 7200000,
+  "total_views": 6300000
+ },
+ {
+  "comedian_id": "theo-von",
+  "comedian": "Theo Von",
+  "title": "Theo Von: Regular People",
+  "halves": {
+   "2023H1": {
+    "hours": 3000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1600000,
+    "views": 1600000
+   },
+   "2024H1": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2024H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 7100000,
+  "total_views": 4100000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: Irresponsible",
+  "halves": {
+   "2023H1": {
+    "hours": 1700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1300000,
+    "views": 1300000
+   },
+   "2024H1": {
+    "hours": 1100000,
+    "views": 1100000
+   },
+   "2024H2": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2025H1": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2025H2": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 6900000,
+  "total_views": 5200000
+ },
+ {
+  "comedian_id": "tom-segura",
+  "comedian": "Tom Segura",
+  "title": "Tom Segura: Ball Hog",
+  "halves": {
+   "2023H1": {
+    "hours": 1600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 2000000,
+    "views": 1700000
+   },
+   "2024H1": {
+    "hours": 900000,
+    "views": 800000
+   },
+   "2024H2": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2025H1": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 300000
+   }
+  },
+  "total_hours": 6800000,
+  "total_views": 4400000
+ },
+ {
+  "comedian_id": "ali-wong",
+  "comedian": "Ali Wong",
+  "title": "Ali Wong: Single Lady",
+  "halves": {
+   "2024H2": {
+    "hours": 4900000,
+    "views": 4900000
+   },
+   "2025H1": {
+    "hours": 900000,
+    "views": 900000
+   },
+   "2025H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 6700000,
+  "total_views": 6700000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: Auditions: New York City",
+  "halves": {
+   "2026H1": {
+    "hours": 6700000,
+    "views": 8300000
+   }
+  },
+  "total_hours": 6700000,
+  "total_views": 8300000
+ },
+ {
+  "comedian_id": "wanda-sykes",
+  "comedian": "Wanda Sykes",
+  "title": "Wanda Sykes: I'm an Entertainer",
+  "halves": {
+   "2023H1": {
+    "hours": 3900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 900000,
+    "views": 900000
+   },
+   "2024H1": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 6600000,
+  "total_views": 2700000
+ },
+ {
+  "comedian_id": "taylor-tomlinson",
+  "comedian": "Taylor Tomlinson",
+  "title": "Taylor Tomlinson: Look At You",
+  "halves": {
+   "2023H1": {
+    "hours": 2300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1600000,
+    "views": 1600000
+   },
+   "2024H1": {
+    "hours": 1200000,
+    "views": 1200000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 6600000,
+  "total_views": 4300000
+ },
+ {
+  "comedian_id": "mike-epps",
+  "comedian": "Mike Epps",
+  "title": "Mike Epps: Delusional",
+  "halves": {
+   "2026H1": {
+    "hours": 6600000,
+    "views": 6600000
+   }
+  },
+  "total_hours": 6600000,
+  "total_views": 6600000
+ },
+ {
+  "comedian_id": "gabriel-iglesias",
+  "comedian": "Gabriel Iglesias",
+  "title": "Gabriel \"Fluffy\" Iglesias: One Show Fits All",
+  "halves": {
+   "2023H1": {
+    "hours": 2100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1200000,
+    "views": 800000
+   },
+   "2024H1": {
+    "hours": 900000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 300000
+   }
+  },
+  "total_hours": 6500000,
+  "total_views": 3000000
+ },
+ {
+  "comedian_id": "bert-kreischer",
+  "comedian": "Bert Kreischer",
+  "title": "Bert Kreischer: Lucky",
+  "halves": {
+   "2025H1": {
+    "hours": 5100000,
+    "views": 4500000
+   },
+   "2025H2": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 500000
+   }
+  },
+  "total_hours": 6500000,
+  "total_views": 5700000
+ },
+ {
+  "comedian_id": "ellen-degeneres",
+  "comedian": "Ellen Degeneres",
+  "title": "Ellen DeGeneres: For Your Approval",
+  "halves": {
+   "2024H2": {
+    "hours": 5400000,
+    "views": 4600000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 6200000,
+  "total_views": 5300000
+ },
+ {
+  "comedian_id": "jimmy-carr",
+  "comedian": "Jimmy Carr",
+  "title": "Jimmy Carr: Natural Born Killer",
+  "halves": {
+   "2024H1": {
+    "hours": 4000000,
+    "views": 4000000
+   },
+   "2024H2": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 6100000,
+  "total_views": 6100000
+ },
+ {
+  "comedian_id": "bill-burr",
+  "comedian": "Bill Burr",
+  "title": "Bill Burr: Paper Tiger",
+  "halves": {
+   "2023H1": {
+    "hours": 1600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1300000,
+    "views": 1200000
+   },
+   "2024H1": {
+    "hours": 900000,
+    "views": 800000
+   },
+   "2024H2": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2025H1": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 6000000,
+  "total_views": 4000000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: Auditions: Los Angeles",
+  "halves": {
+   "2026H1": {
+    "hours": 6000000,
+    "views": 6500000
+   }
+  },
+  "total_hours": 6000000,
+  "total_views": 6500000
+ },
+ {
+  "comedian_id": "sebastian-maniscalco",
+  "comedian": "Sebastian Maniscalco",
+  "title": "Sebastian Maniscalco: Is It Me?",
+  "halves": {
+   "2023H1": {
+    "hours": 1900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1000000,
+    "views": 900000
+   },
+   "2024H1": {
+    "hours": 900000,
+    "views": 800000
+   },
+   "2024H2": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 5900000,
+  "total_views": 3500000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: What Now?",
+  "halves": {
+   "2023H1": {
+    "hours": 1400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1000000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 900000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 800000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 600000,
+    "views": 400000
+   }
+  },
+  "total_hours": 5800000,
+  "total_views": 2800000
+ },
+ {
+  "comedian_id": "trevor-noah",
+  "comedian": "Trevor Noah",
+  "title": "Trevor Noah: I Wish You Would",
+  "halves": {
+   "2023H1": {
+    "hours": 2000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 2000000,
+    "views": 1800000
+   },
+   "2024H1": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 5600000,
+  "total_views": 3300000
+ },
+ {
+  "comedian_id": "jim-gaffigan",
+  "comedian": "Jim Gaffigan",
+  "title": "Jim Gaffigan: Comedy Monster",
+  "halves": {
+   "2023H1": {
+    "hours": 1800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1100000,
+    "views": 900000
+   },
+   "2024H1": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2024H2": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 5600000,
+  "total_views": 3200000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Fatherhood with My Father: Season 1",
+  "halves": {
+   "2024H2": {
+    "hours": 4700000,
+    "views": 1700000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 100000
+   }
+  },
+  "total_hours": 5500000,
+  "total_views": 2000000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: The Callbacks",
+  "halves": {
+   "2026H1": {
+    "hours": 5500000,
+    "views": 5000000
+   }
+  },
+  "total_hours": 5500000,
+  "total_views": 5000000
+ },
+ {
+  "comedian_id": "bill-burr",
+  "comedian": "Bill Burr",
+  "title": "Bill Burr: I'm Sorry You Feel That Way",
+  "halves": {
+   "2023H1": {
+    "hours": 1400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1100000,
+    "views": 800000
+   },
+   "2024H1": {
+    "hours": 800000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 600000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 5200000,
+  "total_views": 2700000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Travels with My Father: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 1400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1100000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 800000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 500000,
+    "views": 200000
+   }
+  },
+  "total_hours": 5200000,
+  "total_views": 1400000
+ },
+ {
+  "comedian_id": "mike-birbiglia",
+  "comedian": "Mike Birbiglia",
+  "title": "Mike Birbiglia: The Old Man and The Pool",
+  "halves": {
+   "2023H2": {
+    "hours": 3700000,
+    "views": 2800000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 5200000,
+  "total_views": 4000000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: Auditions: Chicago",
+  "halves": {
+   "2026H1": {
+    "hours": 5200000,
+    "views": 5800000
+   }
+  },
+  "total_hours": 5200000,
+  "total_views": 5800000
+ },
+ {
+  "comedian_id": "bert-kreischer",
+  "comedian": "Bert Kreischer",
+  "title": "Bert Kreischer: Hey Big Boy",
+  "halves": {
+   "2023H1": {
+    "hours": 2100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 900000,
+    "views": 900000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 5100000,
+  "total_views": 3000000
+ },
+ {
+  "comedian_id": "taylor-tomlinson",
+  "comedian": "Taylor Tomlinson",
+  "title": "Taylor Tomlinson: Quarter-Life Crisis",
+  "halves": {
+   "2023H1": {
+    "hours": 1300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1000000,
+    "views": 1000000
+   },
+   "2024H1": {
+    "hours": 1100000,
+    "views": 1100000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 4900000,
+  "total_views": 3600000
+ },
+ {
+  "comedian_id": "anthony-jeselnik",
+  "comedian": "Anthony Jeselnik",
+  "title": "Anthony Jeselnik: Bones and All",
+  "halves": {
+   "2024H2": {
+    "hours": 3200000,
+    "views": 3800000
+   },
+   "2025H1": {
+    "hours": 900000,
+    "views": 1100000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 600000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 400000
+   }
+  },
+  "total_hours": 4900000,
+  "total_views": 5900000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "John Mulaney: Kid Gorgeous at Radio City",
+  "halves": {
+   "2023H1": {
+    "hours": 1600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2024H1": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 4800000,
+  "total_views": 3000000
+ },
+ {
+  "comedian_id": "adam-sandler",
+  "comedian": "Adam Sandler",
+  "title": "Adam Sandler: Love You",
+  "halves": {
+   "2024H2": {
+    "hours": 4100000,
+    "views": 3300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 4800000,
+  "total_views": 3800000
+ },
+ {
+  "comedian_id": "tom-segura",
+  "comedian": "Tom Segura",
+  "title": "Tom Segura: Mostly Stories",
+  "halves": {
+   "2023H1": {
+    "hours": 1000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1200000,
+    "views": 1000000
+   },
+   "2024H1": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 300000
+   }
+  },
+  "total_hours": 4700000,
+  "total_views": 3000000
+ },
+ {
+  "comedian_id": "trevor-noah",
+  "comedian": "Trevor Noah",
+  "title": "Trevor Noah: Joy in The Trenches",
+  "halves": {
+   "2026H1": {
+    "hours": 4700000,
+    "views": 4100000
+   }
+  },
+  "total_hours": 4700000,
+  "total_views": 4100000
+ },
+ {
+  "comedian_id": "taylor-tomlinson",
+  "comedian": "Taylor Tomlinson",
+  "title": "Taylor Tomlinson: Prodigal Daughter",
+  "halves": {
+   "2026H1": {
+    "hours": 4600000,
+    "views": 4000000
+   }
+  },
+  "total_hours": 4600000,
+  "total_views": 4000000
+ },
+ {
+  "comedian_id": "amy-schumer",
+  "comedian": "Amy Schumer",
+  "title": "Amy Schumer: Emergency Contact",
+  "halves": {
+   "2023H1": {
+    "hours": 3200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 800000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 4500000,
+  "total_views": 1400000
+ },
+ {
+  "comedian_id": "mark-normand",
+  "comedian": "Mark Normand",
+  "title": "Mark Normand: Soup to Nuts",
+  "halves": {
+   "2023H2": {
+    "hours": 3200000,
+    "views": 3600000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 4500000,
+  "total_views": 5000000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: The Live Semifinals",
+  "halves": {
+   "2026H1": {
+    "hours": 4500000,
+    "views": 3800000
+   }
+  },
+  "total_hours": 4500000,
+  "total_views": 3800000
+ },
+ {
+  "comedian_id": "jim-jefferies",
+  "comedian": "Jim Jefferies",
+  "title": "Jim Jefferies: Two Limb Policy",
+  "halves": {
+   "2025H2": {
+    "hours": 3900000,
+    "views": 3700000
+   },
+   "2026H1": {
+    "hours": 500000,
+    "views": 500000
+   }
+  },
+  "total_hours": 4400000,
+  "total_views": 4200000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: Homecoming: The Live Finale",
+  "halves": {
+   "2026H1": {
+    "hours": 4300000,
+    "views": 3700000
+   }
+  },
+  "total_hours": 4300000,
+  "total_views": 3700000
+ },
+ {
+  "comedian_id": "bo-burnham",
+  "comedian": "Bo Burnham",
+  "title": "Bo Burnham: Inside",
+  "halves": {
+   "2023H1": {
+    "hours": 1100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 300000
+   }
+  },
+  "total_hours": 4200000,
+  "total_views": 2100000
+ },
+ {
+  "comedian_id": "katt-williams",
+  "comedian": "Katt Williams",
+  "title": "Katt Williams: Great America",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2024H1": {
+    "hours": 1400000,
+    "views": 1400000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 4200000,
+  "total_views": 3300000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: Headlines & Heckles",
+  "halves": {
+   "2026H1": {
+    "hours": 4200000,
+    "views": 4300000
+   }
+  },
+  "total_hours": 4200000,
+  "total_views": 4300000
+ },
+ {
+  "comedian_id": "bert-kreischer",
+  "comedian": "Bert Kreischer",
+  "title": "Bert Kreischer: Secret Time",
+  "halves": {
+   "2023H1": {
+    "hours": 1600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 4100000,
+  "total_views": 2500000
+ },
+ {
+  "comedian_id": "sebastian-maniscalco",
+  "comedian": "Sebastian Maniscalco",
+  "title": "Sebastian Maniscalco: Stay Hungry",
+  "halves": {
+   "2023H1": {
+    "hours": 1000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 4100000,
+  "total_views": 3000000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Travels with My Father: Season 5",
+  "halves": {
+   "2023H1": {
+    "hours": 1300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 900000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 400000,
+    "views": 200000
+   }
+  },
+  "total_hours": 4000000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "pete-davidson",
+  "comedian": "Pete Davidson",
+  "title": "Pete Davidson: Turbo Fonzarelli",
+  "halves": {
+   "2024H1": {
+    "hours": 3500000,
+    "views": 3800000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 4000000,
+  "total_views": 4300000
+ },
+ {
+  "comedian_id": "eddie-murphy",
+  "comedian": "Eddie Murphy",
+  "title": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+  "halves": {
+   "2026H1": {
+    "hours": 4000000,
+    "views": 2900000
+   }
+  },
+  "total_hours": 4000000,
+  "total_views": 2900000
+ },
+ {
+  "comedian_id": "jo-koy",
+  "comedian": "Jo Koy",
+  "title": "Jo Koy: Comin' In Hot",
+  "halves": {
+   "2023H1": {
+    "hours": 1100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 3900000,
+  "total_views": 2800000
+ },
+ {
+  "comedian_id": "neal-brennan",
+  "comedian": "Neal Brennan",
+  "title": "Neal Brennan: Crazy Good",
+  "halves": {
+   "2024H1": {
+    "hours": 2700000,
+    "views": 3100000
+   },
+   "2024H2": {
+    "hours": 700000,
+    "views": 800000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3900000,
+  "total_views": 4400000
+ },
+ {
+  "comedian_id": "ronny-chieng",
+  "comedian": "Ronny Chieng",
+  "title": "Ronny Chieng: Love to Hate It",
+  "halves": {
+   "2024H2": {
+    "hours": 2300000,
+    "views": 2100000
+   },
+   "2025H1": {
+    "hours": 1100000,
+    "views": 1000000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3900000,
+  "total_views": 3600000
+ },
+ {
+  "comedian_id": "bert-kreischer",
+  "comedian": "Bert Kreischer",
+  "title": "Bert Kreischer: The Machine",
+  "halves": {
+   "2023H1": {
+    "hours": 1500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3800000,
+  "total_views": 2000000
+ },
+ {
+  "comedian_id": "jimmy-carr",
+  "comedian": "Jimmy Carr",
+  "title": "Jimmy Carr: His Dark Material",
+  "halves": {
+   "2023H1": {
+    "hours": 1200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2024H1": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 3800000,
+  "total_views": 2600000
+ },
+ {
+  "comedian_id": "bill-burr",
+  "comedian": "Bill Burr",
+  "title": "Bill Burr: Walk Your Way Out",
+  "halves": {
+   "2023H1": {
+    "hours": 1100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 800000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3800000,
+  "total_views": 2100000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Settle Down",
+  "halves": {
+   "2024H1": {
+    "hours": 3000000,
+    "views": 2800000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3800000,
+  "total_views": 3600000
+ },
+ {
+  "comedian_id": "ron-white",
+  "comedian": "Ron White",
+  "title": "Ron White: If You Quit Listening, I'll Shut Up",
+  "halves": {
+   "2023H1": {
+    "hours": 1000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 3700000,
+  "total_views": 2700000
+ },
+ {
+  "comedian_id": "james-acaster",
+  "comedian": "James Acaster",
+  "title": "James Acaster: Repertoire: Collection",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 800000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3700000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "deon-cole",
+  "comedian": "Deon Cole",
+  "title": "Deon Cole: Ok, Mister",
+  "halves": {
+   "2024H2": {
+    "hours": 2900000,
+    "views": 2600000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3700000,
+  "total_views": 3400000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Funny AF with Kevin Hart: The Roast of Marshawn Lynch",
+  "halves": {
+   "2026H1": {
+    "hours": 3700000,
+    "views": 4400000
+   }
+  },
+  "total_hours": 3700000,
+  "total_views": 4400000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: Zero F**ks Given",
+  "halves": {
+   "2023H1": {
+    "hours": 1100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3600000,
+  "total_views": 2200000
+ },
+ {
+  "comedian_id": "mike-birbiglia",
+  "comedian": "Mike Birbiglia",
+  "title": "Mike Birbiglia: The Good Life",
+  "halves": {
+   "2025H1": {
+    "hours": 2600000,
+    "views": 2000000
+   },
+   "2025H2": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3600000,
+  "total_views": 2700000
+ },
+ {
+  "comedian_id": "tom-papa",
+  "comedian": "Tom Papa",
+  "title": "Tom Papa: What A Day!",
+  "halves": {
+   "2023H1": {
+    "hours": 1100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3500000,
+  "total_views": 2400000
+ },
+ {
+  "comedian_id": "sebastian-maniscalco",
+  "comedian": "Sebastian Maniscalco",
+  "title": "Sebastian Maniscalco: Aren't You Embarrassed?",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 700000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 3400000,
+  "total_views": 2800000
+ },
+ {
+  "comedian_id": "michelle-wolf",
+  "comedian": "Michelle Wolf",
+  "title": "Michelle Wolf: It's Great to Be Here",
+  "halves": {
+   "2023H2": {
+    "hours": 2900000,
+    "views": 2200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3400000,
+  "total_views": 2700000
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Hasan Minhaj: Off With His Head",
+  "halves": {
+   "2024H2": {
+    "hours": 2500000,
+    "views": 2400000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3400000,
+  "total_views": 3300000
+ },
+ {
+  "comedian_id": "tom-papa",
+  "comedian": "Tom Papa",
+  "title": "Tom Papa: Home Free",
+  "halves": {
+   "2024H2": {
+    "hours": 2100000,
+    "views": 2000000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 3400000,
+  "total_views": 3300000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: Don\u2019t F**k This Up: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 1000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 1700000,
+    "views": 500000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3300000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "pete-holmes",
+  "comedian": "Pete Holmes",
+  "title": "Pete Holmes: I Am Not for Everyone",
+  "halves": {
+   "2023H2": {
+    "hours": 2300000,
+    "views": 2100000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3300000,
+  "total_views": 3100000
+ },
+ {
+  "comedian_id": "bert-kreischer",
+  "comedian": "Bert Kreischer",
+  "title": "The Cabin with Bert Kreischer: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 1700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3200000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Travels with My Father: Season 2",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 700000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3200000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "fortune-feimster",
+  "comedian": "Fortune Feimster",
+  "title": "Fortune Feimster: Crushing It",
+  "halves": {
+   "2024H2": {
+    "hours": 2300000,
+    "views": 2300000
+   },
+   "2025H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3200000,
+  "total_views": 3200000
+ },
+ {
+  "comedian_id": "chelsea-handler",
+  "comedian": "Chelsea Handler",
+  "title": "Chelsea Handler: Revolution",
+  "halves": {
+   "2023H1": {
+    "hours": 2300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 3100000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "jo-koy",
+  "comedian": "Jo Koy",
+  "title": "Jo Koy: Live from Seattle",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3100000,
+  "total_views": 2200000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "John Mulaney: The Comeback Kid",
+  "halves": {
+   "2023H1": {
+    "hours": 800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3100000,
+  "total_views": 2300000
+ },
+ {
+  "comedian_id": "jeff-foxworthy",
+  "comedian": "Jeff Foxworthy",
+  "title": "Jeff Foxworthy: The Good Old Days",
+  "halves": {
+   "2023H1": {
+    "hours": 800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 3000000,
+  "total_views": 2200000
+ },
+ {
+  "comedian_id": "anthony-jeselnik",
+  "comedian": "Anthony Jeselnik",
+  "title": "Anthony Jeselnik: Fire in the Maternity Ward",
+  "halves": {
+   "2023H1": {
+    "hours": 700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2800000,
+  "total_views": 2100000
+ },
+ {
+  "comedian_id": "kathleen-madigan",
+  "comedian": "Kathleen Madigan",
+  "title": "Kathleen Madigan: Bothering Jesus",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 2800000,
+  "total_views": 1800000
+ },
+ {
+  "comedian_id": "michael-mcintyre",
+  "comedian": "Michael Mcintyre",
+  "title": "Michael McIntyre: Showman",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2025H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 2800000,
+  "total_views": 2200000
+ },
+ {
+  "comedian_id": "joe-rogan",
+  "comedian": "Joe Rogan",
+  "title": "Joe Rogan: Strange Times",
+  "halves": {
+   "2023H1": {
+    "hours": 1000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2700000,
+  "total_views": 1700000
+ },
+ {
+  "comedian_id": "chris-tucker",
+  "comedian": "Chris Tucker",
+  "title": "Chris Tucker Live",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2700000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "ali-wong",
+  "comedian": "Ali Wong",
+  "title": "Ali Wong: Don Wong",
+  "halves": {
+   "2023H1": {
+    "hours": 1400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2500000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "richard-pryor",
+  "comedian": "Richard Pryor",
+  "title": "Richard Pryor: Live in Concert",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2500000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "ari-shaffir",
+  "comedian": "Ari Shaffir",
+  "title": "Ari Shaffir: America\u2019s Sweetheart",
+  "halves": {
+   "2025H1": {
+    "hours": 2100000,
+    "views": 1700000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2500000,
+  "total_views": 2100000
+ },
+ {
+  "comedian_id": "wanda-sykes",
+  "comedian": "Wanda Sykes",
+  "title": "Wanda Sykes: Legacy",
+  "halves": {
+   "2026H1": {
+    "hours": 2500000,
+    "views": 2300000
+   }
+  },
+  "total_hours": 2500000,
+  "total_views": 2300000
+ },
+ {
+  "comedian_id": "chris-rock",
+  "comedian": "Chris Rock",
+  "title": "Chris Rock Total Blackout: The Tamborine Extended Cut",
+  "halves": {
+   "2023H1": {
+    "hours": 1500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2400000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: I'm a Grown Little Man",
+  "halves": {
+   "2023H1": {
+    "hours": 1300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 900000,
+    "views": 900000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2400000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "theo-von",
+  "comedian": "Theo Von",
+  "title": "Theo Von: No Offense",
+  "halves": {
+   "2023H1": {
+    "hours": 1000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2400000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "mike-epps",
+  "comedian": "Mike Epps",
+  "title": "Mike Epps: Indiana Mike",
+  "halves": {
+   "2023H1": {
+    "hours": 700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 600000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2400000,
+  "total_views": 1700000
+ },
+ {
+  "comedian_id": "mike-epps",
+  "comedian": "Mike Epps",
+  "title": "Mike Epps: Only One Mike",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 2400000,
+  "total_views": 1800000
+ },
+ {
+  "comedian_id": "chelsea-handler",
+  "comedian": "Chelsea Handler",
+  "title": "Chelsea Handler: The Feeling",
+  "halves": {
+   "2025H1": {
+    "hours": 2100000,
+    "views": 2100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2400000,
+  "total_views": 2400000
+ },
+ {
+  "comedian_id": "deon-cole",
+  "comedian": "Deon Cole",
+  "title": "Deon Cole: Charleen\u2019s Boy",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2300000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "jim-jefferies",
+  "comedian": "Jim Jefferies",
+  "title": "Jim Jefferies: Intolerant",
+  "halves": {
+   "2023H1": {
+    "hours": 800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2300000,
+  "total_views": 1500000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "John Mulaney: New in Town",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2300000,
+  "total_views": 1700000
+ },
+ {
+  "comedian_id": "jim-gaffigan",
+  "comedian": "Jim Gaffigan",
+  "title": "Jim Gaffigan: Cinco",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2200000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "mark-normand",
+  "comedian": "Mark Normand",
+  "title": "Mark Normand: None Too Pleased",
+  "halves": {
+   "2026H1": {
+    "hours": 2200000,
+    "views": 2400000
+   }
+  },
+  "total_hours": 2200000,
+  "total_views": 2400000
+ },
+ {
+  "comedian_id": "hannah-gadsby",
+  "comedian": "Hannah Gadsby",
+  "title": "Hannah Gadsby: Something Special",
+  "halves": {
+   "2023H1": {
+    "hours": 1400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Travels with My Father: Season 3",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Travels with My Father: Season 4",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "jim-jefferies",
+  "comedian": "Jim Jefferies",
+  "title": "Jim Jefferies: Freedumb",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 1000000
+ },
+ {
+  "comedian_id": "tom-papa",
+  "comedian": "Tom Papa",
+  "title": "Tom Papa: You're Doing Great!",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 1600000
+ },
+ {
+  "comedian_id": "anthony-jeselnik",
+  "comedian": "Anthony Jeselnik",
+  "title": "Anthony Jeselnik: Thoughts and Prayers",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 1700000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "My Next Guest with David Letterman and John Mulaney",
+  "halves": {
+   "2024H1": {
+    "hours": 1600000,
+    "views": 2100000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 400000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 2700000
+ },
+ {
+  "comedian_id": "sarah-silverman",
+  "comedian": "Sarah Silverman",
+  "title": "Sarah Silverman: PostMortem",
+  "halves": {
+   "2025H1": {
+    "hours": 1700000,
+    "views": 1600000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 2000000
+ },
+ {
+  "comedian_id": "adam-sandler",
+  "comedian": "Adam Sandler",
+  "title": "My Next Guest with David Letterman and Adam Sandler",
+  "halves": {
+   "2025H2": {
+    "hours": 1800000,
+    "views": 2300000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 400000
+   }
+  },
+  "total_hours": 2100000,
+  "total_views": 2700000
+ },
+ {
+  "comedian_id": "wanda-sykes",
+  "comedian": "Wanda Sykes",
+  "title": "Wanda Sykes: Not Normal",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2000000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "iliza-shlesinger",
+  "comedian": "Iliza Shlesinger",
+  "title": "Iliza Shlesinger: Hot Forever",
+  "halves": {
+   "2023H1": {
+    "hours": 800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2000000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: I'm Only Joking",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2000000,
+  "total_views": 1400000
+ },
+ {
+  "comedian_id": "jim-jefferies",
+  "comedian": "Jim Jefferies",
+  "title": "Jim Jefferies: This Is Me Now",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 2000000,
+  "total_views": 1400000
+ },
+ {
+  "comedian_id": "jim-gaffigan",
+  "comedian": "Jim Gaffigan",
+  "title": "Jim Gaffigan: Mr. Universe",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2000000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "trevor-noah",
+  "comedian": "Trevor Noah",
+  "title": "Trevor Noah: Afraid of the Dark",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2000000,
+  "total_views": 1400000
+ },
+ {
+  "comedian_id": "trevor-noah",
+  "comedian": "Trevor Noah",
+  "title": "Trevor Noah: Son of Patricia",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 2000000,
+  "total_views": 1500000
+ },
+ {
+  "comedian_id": "fortune-feimster",
+  "comedian": "Fortune Feimster",
+  "title": "Fortune Feimster: Good Fortune",
+  "halves": {
+   "2023H1": {
+    "hours": 700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1900000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "jim-jefferies",
+  "comedian": "Jim Jefferies",
+  "title": "Jim Jefferies : BARE",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1900000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "jim-gaffigan",
+  "comedian": "Jim Gaffigan",
+  "title": "Jim Gaffigan: Obsessed",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 1900000,
+  "total_views": 1400000
+ },
+ {
+  "comedian_id": "sebastian-maniscalco",
+  "comedian": "Sebastian Maniscalco",
+  "title": "Sebastian Maniscalco: Why Would You Do That?",
+  "halves": {
+   "2023H1": {
+    "hours": 800000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1800000,
+  "total_views": 1000000
+ },
+ {
+  "comedian_id": "neal-brennan",
+  "comedian": "Neal Brennan",
+  "title": "Neal Brennan: Blocks",
+  "halves": {
+   "2023H1": {
+    "hours": 700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1800000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "jeff-foxworthy",
+  "comedian": "Jeff Foxworthy",
+  "title": "Jeff Foxworthy and Larry the Cable Guy: We\u2019ve Been Thinking...",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1800000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "jimmy-carr",
+  "comedian": "Jimmy Carr",
+  "title": "Jimmy Carr: Funny Business",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1800000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "jimmy-carr",
+  "comedian": "Jimmy Carr",
+  "title": "Jimmy Carr: The Best of Ultimate Gold Greatest Hits",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1800000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "ronny-chieng",
+  "comedian": "Ronny Chieng",
+  "title": "Ronny Chieng: Asian Comedian Destroys America!",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1800000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "dave-attell",
+  "comedian": "Dave Attell",
+  "title": "Dave Attell: Hot Cross Buns",
+  "halves": {
+   "2024H1": {
+    "hours": 1500000,
+    "views": 2200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1800000,
+  "total_views": 2500000
+ },
+ {
+  "comedian_id": "joe-rogan",
+  "comedian": "Joe Rogan",
+  "title": "Joe Rogan: Triggered",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1700000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "deon-cole",
+  "comedian": "Deon Cole",
+  "title": "Deon Cole: Cole Hearted",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1700000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "kevin-bridges",
+  "comedian": "Kevin Bridges",
+  "title": "Kevin Bridges: The Overdue Catch-Up",
+  "halves": {
+   "2024H1": {
+    "hours": 700000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 500000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1700000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "george-lopez",
+  "comedian": "George Lopez",
+  "title": "George Lopez: Why You Crying?",
+  "halves": {
+   "2023H1": {
+    "hours": 900000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1600000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "ali-wong",
+  "comedian": "Ali Wong",
+  "title": "Ali Wong: Hard Knock Wife",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1600000,
+  "total_views": 1000000
+ },
+ {
+  "comedian_id": "jerry-seinfeld",
+  "comedian": "Jerry Seinfeld",
+  "title": "Jerry Seinfeld: 23 Hours To Kill",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1600000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "jim-gaffigan",
+  "comedian": "Jim Gaffigan",
+  "title": "Jim Gaffigan: King Baby",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1600000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "seth-meyers",
+  "comedian": "Seth Meyers",
+  "title": "Seth Meyers: Lobby Baby",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1600000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "mike-birbiglia",
+  "comedian": "Mike Birbiglia",
+  "title": "Mike Birbiglia: The New One",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 600000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1600000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "nikki-glaser",
+  "comedian": "Nikki Glaser",
+  "title": "Nikki Glaser: Bangin\u2019",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 500000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1600000,
+  "total_views": 1300000
+ },
+ {
+  "comedian_id": "adam-sandler",
+  "comedian": "Adam Sandler",
+  "title": "ADAM SANDLER 100% FRESH",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1500000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "cristela-alonzo",
+  "comedian": "Cristela Alonzo",
+  "title": "Cristela Alonzo: Middle Classy",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1500000,
+  "total_views": 1000000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: At Large",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1500000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "norm-macdonald",
+  "comedian": "Norm Macdonald",
+  "title": "Norm Macdonald: Hitler's Dog, Gossip & Trickery",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1500000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: Should I Lend People Money?",
+  "halves": {
+   "2025H1": {
+    "hours": 1500000,
+    "views": 1600000
+   }
+  },
+  "total_hours": 1500000,
+  "total_views": 1600000
+ },
+ {
+  "comedian_id": "sebastian-maniscalco",
+  "comedian": "Sebastian Maniscalco",
+  "title": "Sebastian Maniscalco: What's Wrong with People?",
+  "halves": {
+   "2023H1": {
+    "hours": 1100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 200000
+   }
+  },
+  "total_hours": 1400000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: What\u2019s in a Name?",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1400000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "kevin-james",
+  "comedian": "Kevin James",
+  "title": "Kevin James: Never Don't Give Up",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1400000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "fortune-feimster",
+  "comedian": "Fortune Feimster",
+  "title": "Fortune Feimster: Sweet & Salty",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1400000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "mike-birbiglia",
+  "comedian": "Mike Birbiglia",
+  "title": "Mike Birbiglia: Thank God for Jokes",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1400000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "bill-burr",
+  "comedian": "Bill Burr",
+  "title": "Bill Burr Presents: Friends Who Kill",
+  "halves": {
+   "2023H1": {
+    "hours": 700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1300000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "bo-burnham",
+  "comedian": "Bo Burnham",
+  "title": "Bo Burnham: Make Happy",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1300000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "greg-davies",
+  "comedian": "Greg Davies",
+  "title": "Greg Davies: You Magnificent Beast",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1300000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "pete-davidson",
+  "comedian": "Pete Davidson",
+  "title": "Pete Davidson: Alive From New York",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 500000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1300000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "jim-gaffigan",
+  "comedian": "Jim Gaffigan",
+  "title": "Jim Gaffigan: Beyond the Pale",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1300000,
+  "total_views": 1000000
+ },
+ {
+  "comedian_id": "cristela-alonzo",
+  "comedian": "Cristela Alonzo",
+  "title": "Cristela Alonzo: Upper Classy",
+  "halves": {
+   "2025H2": {
+    "hours": 1100000,
+    "views": 1000000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 1300000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "marlon-wayans",
+  "comedian": "Marlon Wayans",
+  "title": "Marlon Wayans: Woke-ish",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1200000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "mo-amer",
+  "comedian": "Mo Amer",
+  "title": "Mo Amer: Mohammed in Texas",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1200000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "ali-wong",
+  "comedian": "Ali Wong",
+  "title": "Ali Wong: Baby Cobra",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1200000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "anjelah-johnson",
+  "comedian": "Anjelah Johnson",
+  "title": "Anjelah Johnson: Not Fancy",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1200000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "iliza-shlesinger",
+  "comedian": "Iliza Shlesinger",
+  "title": "Iliza Shlesinger: Elder Millennial",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1200000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "russell-peters",
+  "comedian": "Russell Peters",
+  "title": "Russell Peters: Almost Famous",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1200000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "matt-mccusker",
+  "comedian": "Matt McCusker",
+  "title": "Matt McCusker: A Humble Offering",
+  "halves": {
+   "2025H2": {
+    "hours": 1000000,
+    "views": 1000000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 1200000,
+  "total_views": 1200000
+ },
+ {
+  "comedian_id": "tom-segura",
+  "comedian": "Tom Segura",
+  "title": "Tom Segura: Completely Normal",
+  "halves": {
+   "2023H1": {
+    "hours": 1000000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "vir-das",
+  "comedian": "Vir Das",
+  "title": "Vir Das: Landing",
+  "halves": {
+   "2023H1": {
+    "hours": 700000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "cedric-the-entertainer",
+  "comedian": "Cedric The Entertainer",
+  "title": "Cedric the Entertainer: Live from the Ville",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "ralphie-may",
+  "comedian": "Ralphie May",
+  "title": "Ralphie May: Unruly",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "brian-regan",
+  "comedian": "Brian Regan",
+  "title": "Brian Regan: On the Rocks",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "deray-davis",
+  "comedian": "Deray Davis",
+  "title": "DeRay Davis: How to Act Black",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "russell-howard",
+  "comedian": "Russell Howard",
+  "title": "Russell Howard: Recalibrate",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "sam-morril",
+  "comedian": "Sam Morril",
+  "title": "Sam Morril: Same Time Tomorrow",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 300000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 400000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 1100000
+ },
+ {
+  "comedian_id": "mike-epps",
+  "comedian": "Mike Epps",
+  "title": "Mike Epps: Don't Take It Personal",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "tom-papa",
+  "comedian": "Tom Papa",
+  "title": "Tom Papa Live in New York City",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1100000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Hasan Minhaj: The King's Jester",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "russell-howard",
+  "comedian": "Russell Howard",
+  "title": "Russell Howard: Lubricant: Limited Series",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "dave-chappelle",
+  "comedian": "Dave Chappelle",
+  "title": "Dave Chappelle: The Kennedy Center Mark Twain Prize for American Humor",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 300000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "george-lopez",
+  "comedian": "George Lopez",
+  "title": "George Lopez: We'll Do It For Half",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "iliza-shlesinger",
+  "comedian": "Iliza Shlesinger",
+  "title": "Iliza Shlesinger: Confirmed Kills",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "jo-koy",
+  "comedian": "Jo Koy",
+  "title": "Jo Koy: In His Elements",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "ronny-chieng",
+  "comedian": "Ronny Chieng",
+  "title": "Ronny Chieng: Speakeasy",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "jerry-seinfeld",
+  "comedian": "Jerry Seinfeld",
+  "title": "Jerry Before Seinfeld",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "michelle-wolf",
+  "comedian": "Michelle Wolf",
+  "title": "Michelle Wolf: Joke Show",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "hannah-gadsby",
+  "comedian": "Hannah Gadsby",
+  "title": "Hannah Gadsby's Gender Agenda",
+  "halves": {
+   "2024H1": {
+    "hours": 800000,
+    "views": 600000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 1000000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "ken-jeong",
+  "comedian": "Ken Jeong",
+  "title": "Ken Jeong: You Complete Me, Ho",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart's Guide to Black History",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "bo-burnham",
+  "comedian": "Bo Burnham",
+  "title": "Bo Burnham: The Inside Outtakes",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "hannah-gadsby",
+  "comedian": "Hannah Gadsby",
+  "title": "Hannah Gadsby: Douglas",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "iliza-shlesinger",
+  "comedian": "Iliza Shlesinger",
+  "title": "Iliza Shlesinger: Unveiled",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "d-l-hughley",
+  "comedian": "D L Hughley",
+  "title": "D.L. Hughley: Contrarian",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "mo-amer",
+  "comedian": "Mo Amer",
+  "title": "Mo Amer: The Vagabond",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "neal-brennan",
+  "comedian": "Neal Brennan",
+  "title": "Neal Brennan: 3 Mics",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "michelle-wolf",
+  "comedian": "Michelle Wolf",
+  "title": "Michelle Wolf: The Well",
+  "halves": {
+   "2025H2": {
+    "hours": 800000,
+    "views": 800000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "vir-das",
+  "comedian": "Vir Das",
+  "title": "Vir Das: Fool Volume",
+  "halves": {
+   "2025H2": {
+    "hours": 800000,
+    "views": 700000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 800000
+ },
+ {
+  "comedian_id": "sebastian-maniscalco",
+  "comedian": "Sebastian Maniscalco",
+  "title": "Sebastian Maniscalco: What's Wrong with People?: Special",
+  "halves": {
+   "2025H2": {
+    "hours": 400000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 500000,
+    "views": 200000
+   }
+  },
+  "total_hours": 900000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "greg-davies",
+  "comedian": "Greg Davies",
+  "title": "Greg Davies Live: The Back of My Mum's Head",
+  "halves": {
+   "2023H1": {
+    "hours": 600000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "amy-schumer",
+  "comedian": "Amy Schumer",
+  "title": "Amy Schumer Growing",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "norm-macdonald",
+  "comedian": "Norm Macdonald",
+  "title": "Norm Macdonald Has a Show: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 500000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 300000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "michael-che",
+  "comedian": "Michael Che",
+  "title": "Michael Che: Shame the Devil",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "bo-burnham",
+  "comedian": "Bo Burnham",
+  "title": "Bo Burnham: what.",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "brian-regan",
+  "comedian": "Brian Regan",
+  "title": "Brian Regan: Nunchucks and Flamethrowers",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "Louis C.K. 2017",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "Louis C.K.: Hilarious",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "Louis C.K.: Live at the Comedy Store",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 600000
+ },
+ {
+  "comedian_id": "mo-amer",
+  "comedian": "Mo Amer",
+  "title": "Mo Amer: Wild World",
+  "halves": {
+   "2025H2": {
+    "hours": 700000,
+    "views": 800000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 800000,
+  "total_views": 900000
+ },
+ {
+  "comedian_id": "george-carlin",
+  "comedian": "George Carlin",
+  "title": "The Hall: Honoring George Carlin, Robin Williams, Joan Rivers and Richard Pryor",
+  "halves": {
+   "2023H1": {
+    "hours": 400000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 700000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "chris-d-elia",
+  "comedian": "Chris D Elia",
+  "title": "Chris D'Elia: No Pain",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 700000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "hannah-gadsby",
+  "comedian": "Hannah Gadsby",
+  "title": "Hannah Gadsby: Nanette",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 700000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "chris-rock",
+  "comedian": "Chris Rock",
+  "title": "Chris Rock: Tamborine",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 700000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "kevin-bridges",
+  "comedian": "Kevin Bridges",
+  "title": "Kevin Bridges: The Brand New Tour",
+  "halves": {
+   "2024H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 700000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "eddie-murphy",
+  "comedian": "Eddie Murphy",
+  "title": "Eddie Murphy: Raw",
+  "halves": {
+   "2025H2": {
+    "hours": 700000,
+    "views": 500000
+   }
+  },
+  "total_hours": 700000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "ricky-gervais",
+  "comedian": "Ricky Gervais",
+  "title": "The Ricky Gervais Show: Season 3",
+  "halves": {
+   "2026H1": {
+    "hours": 700000,
+    "views": 100000
+   }
+  },
+  "total_hours": 700000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "ellen-degeneres",
+  "comedian": "Ellen Degeneres",
+  "title": "Ellen DeGeneres: Relatable: Special",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "dave-attell",
+  "comedian": "Dave Attell",
+  "title": "Bumping Mics with Jeff Ross & Dave Attell: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "chris-d-elia",
+  "comedian": "Chris D Elia",
+  "title": "Chris D'Elia: Incorrigible",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "chris-d-elia",
+  "comedian": "Chris D Elia",
+  "title": "Chris D'Elia: Man on Fire",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "dana-carvey",
+  "comedian": "Dana Carvey",
+  "title": "Dana Carvey: Straight White Male, 60",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Hasan Minhaj: Homecoming King",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "marc-maron",
+  "comedian": "Marc Maron",
+  "title": "Marc Maron: End Times Fun",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "ray-romano",
+  "comedian": "Ray Romano",
+  "title": "Ray Romano: Right Here, Around the Corner",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "cristela-alonzo",
+  "comedian": "Cristela Alonzo",
+  "title": "Cristela Alonzo: Lower Classy",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "urzila-carlson",
+  "comedian": "Urzila Carlson",
+  "title": "Urzila Carlson: Overqualified Loser",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "demetri-martin",
+  "comedian": "Demetri Martin",
+  "title": "Demetri Martin: Demetri Deconstructed",
+  "halves": {
+   "2024H1": {
+    "hours": 600000,
+    "views": 700000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 700000
+ },
+ {
+  "comedian_id": "sebastian-maniscalco",
+  "comedian": "Sebastian Maniscalco",
+  "title": "Sebastian Maniscalco: Why Would You Do That?: Special",
+  "halves": {
+   "2025H2": {
+    "hours": 300000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 300000,
+    "views": 100000
+   }
+  },
+  "total_hours": 600000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "demetri-martin",
+  "comedian": "Demetri Martin",
+  "title": "Demetri Martin: Live (At the Time)",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "demetri-martin",
+  "comedian": "Demetri Martin",
+  "title": "Demetri Martin: The Overthinker",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "iliza-shlesinger",
+  "comedian": "Iliza Shlesinger",
+  "title": "Iliza Shlesinger: Freezing Hot",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "jerry-seinfeld",
+  "comedian": "Jerry Seinfeld",
+  "title": "Jerry Seinfeld: I'm Telling You for the Last Time",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "judah-friedlander",
+  "comedian": "Judah Friedlander",
+  "title": "Judah Friedlander: America Is the Greatest Country in the United States",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "pete-davidson",
+  "comedian": "Pete Davidson",
+  "title": "Pete Davidson Presents: The Best Friends",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 200000,
+    "views": 200000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "sarah-silverman",
+  "comedian": "Sarah Silverman",
+  "title": "Sarah Silverman A Speck of Dust",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "vir-das",
+  "comedian": "Vir Das",
+  "title": "Vir Das: For India",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "adam-devine",
+  "comedian": "Adam Devine",
+  "title": "Adam Devine: Best Time of Our Lives",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "ari-shaffir",
+  "comedian": "Ari Shaffir",
+  "title": "Ari Shaffir: Double Negative: Collection",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "jack-whitehall",
+  "comedian": "Jack Whitehall",
+  "title": "Jack Whitehall: Christmas with My Father",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "marc-maron",
+  "comedian": "Marc Maron",
+  "title": "Marc Maron: Too Real",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "michael-che",
+  "comedian": "Michael Che",
+  "title": "Michael Che Matters",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "phil-wang",
+  "comedian": "Phil Wang",
+  "title": "Phil Wang: Wang in There, Baby!",
+  "halves": {
+   "2024H2": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: Are Cruises Worth It?",
+  "halves": {
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: Are Dinosaurs Put Together Correctly?",
+  "halves": {
+   "2025H1": {
+    "hours": 500000,
+    "views": 500000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: What is On The Minds of Teens?",
+  "halves": {
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "sarah-millican",
+  "comedian": "Sarah Millican",
+  "title": "Sarah Millican: Late Bloomer",
+  "halves": {
+   "2026H1": {
+    "hours": 500000,
+    "views": 500000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 500000
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "Louis Theroux: LA Stories: Season 1",
+  "halves": {
+   "2026H1": {
+    "hours": 500000,
+    "views": 200000
+   }
+  },
+  "total_hours": 500000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "greg-davies",
+  "comedian": "Greg Davies",
+  "title": "Greg Davies Live: Firing Cheeseballs at a Dog",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "chelsea-handler",
+  "comedian": "Chelsea Handler",
+  "title": "Chelsea Handler: Uganda Be Kidding Me Live",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "patton-oswalt",
+  "comedian": "Patton Oswalt",
+  "title": "Patton Oswalt: We All Scream",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "sam-jay",
+  "comedian": "Sam Jay",
+  "title": "Sam Jay: 3 In The Morning",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "tig-notaro",
+  "comedian": "Tig Notaro",
+  "title": "Tig Notaro Happy To Be Here",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "mike-birbiglia",
+  "comedian": "Mike Birbiglia",
+  "title": "Mike Birbiglia: My Girlfriend's Boyfriend",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 200000,
+    "views": 200000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "todd-barry",
+  "comedian": "Todd Barry",
+  "title": "Todd Barry: Spicy Honey",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: What Kind of Funeral Should I Have?",
+  "halves": {
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: What Do You Do About Squatters?",
+  "halves": {
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: What's the Best Way to Fire Someone?",
+  "halves": {
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: How Tall Are You?",
+  "halves": {
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: Can Major Surgery Be Fun?",
+  "halves": {
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: Are You Ready For Real ID?",
+  "halves": {
+   "2025H1": {
+    "hours": 400000,
+    "views": 400000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 400000
+ },
+ {
+  "comedian_id": "michael-mcintyre",
+  "comedian": "Michael Mcintyre",
+  "title": "Michael McIntyre: Happy and Glorious",
+  "halves": {
+   "2025H1": {
+    "hours": 300000,
+    "views": 200000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "michael-mcintyre",
+  "comedian": "Michael Mcintyre",
+  "title": "Michael McIntyre: Showtime!",
+  "halves": {
+   "2025H1": {
+    "hours": 200000,
+    "views": 100000
+   },
+   "2025H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2026H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "ricky-gervais",
+  "comedian": "Ricky Gervais",
+  "title": "The Ricky Gervais Show: Season 1",
+  "halves": {
+   "2026H1": {
+    "hours": 400000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "ricky-gervais",
+  "comedian": "Ricky Gervais",
+  "title": "The Ricky Gervais Show: Season 2",
+  "halves": {
+   "2026H1": {
+    "hours": 400000,
+    "views": 100000
+   }
+  },
+  "total_hours": 400000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "tiffany-haddish",
+  "comedian": "Tiffany Haddish",
+  "title": "Tiffany Haddish Presents: They Ready: Season 2",
+  "halves": {
+   "2023H1": {
+    "hours": 300000,
+    "views": 0
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "amy-schumer",
+  "comedian": "Amy Schumer",
+  "title": "Amy Schumer Presents: Parental Advisory",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "amy-schumer",
+  "comedian": "Amy Schumer",
+  "title": "Amy Schumer: The Leather Special",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "craig-ferguson",
+  "comedian": "Craig Ferguson",
+  "title": "Craig Ferguson: Tickle Fight",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "jim-norton",
+  "comedian": "Jim Norton",
+  "title": "Jim Norton: Mouthful of Shame",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "kevin-hart",
+  "comedian": "Kevin Hart",
+  "title": "Kevin Hart: Let Me Explain",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "mike-birbiglia",
+  "comedian": "Mike Birbiglia",
+  "title": "Mike Birbiglia: What I Should Have Said Was Nothing: Tales from My Secret Public Journal",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "norm-macdonald",
+  "comedian": "Norm Macdonald",
+  "title": "Norm Macdonald: Nothing Special",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "brian-regan",
+  "comedian": "Brian Regan",
+  "title": "Stand Up and Away! with Brian Regan: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "tiffany-haddish",
+  "comedian": "Tiffany Haddish",
+  "title": "Tiffany Haddish: Black Mitzvah",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   },
+   "2024H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 200000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: Why Can\u2019t I Sleep?",
+  "halves": {
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "Everybody\u2019s Live with John Mulaney: Is Uber Good?",
+  "halves": {
+   "2025H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "Louis C.K.: Ridiculous",
+  "halves": {
+   "2026H1": {
+    "hours": 300000,
+    "views": 300000
+   }
+  },
+  "total_hours": 300000,
+  "total_views": 300000
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Patriot Act with Hasan Minhaj: Volume 6",
+  "halves": {
+   "2023H1": {
+    "hours": 200000,
+    "views": 0
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "arsenio-hall",
+  "comedian": "Arsenio Hall",
+  "title": "Arsenio Hall: Smart & Classy",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "aziz-ansari",
+  "comedian": "Aziz Ansari",
+  "title": "Aziz Ansari: RIGHT NOW",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "colin-quinn",
+  "comedian": "Colin Quinn",
+  "title": "Colin Quinn: Red State Blue State",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "colin-quinn",
+  "comedian": "Colin Quinn",
+  "title": "Colin Quinn: The New York Story",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "david-cross",
+  "comedian": "David Cross",
+  "title": "David Cross: Making America Great Again!",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "hannibal-buress",
+  "comedian": "Hannibal Buress",
+  "title": "Hannibal Buress: Comedy Camisado",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "brent-morin",
+  "comedian": "Brent Morin",
+  "title": "I'm Brent Morin",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "jen-kirkman",
+  "comedian": "Jen Kirkman",
+  "title": "Jen Kirkman: I'm Gonna Die Alone (And I Feel Fine)",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "jen-kirkman",
+  "comedian": "Jen Kirkman",
+  "title": "Jen Kirkman: Just Keep Livin\u2019?",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "maz-jobrani",
+  "comedian": "Maz Jobrani",
+  "title": "Maz Jobrani: Immigrant",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "patton-oswalt",
+  "comedian": "Patton Oswalt",
+  "title": "Patton Oswalt: Annihilation",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "patton-oswalt",
+  "comedian": "Patton Oswalt",
+  "title": "Patton Oswalt: I Love Everything: Special",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "patton-oswalt",
+  "comedian": "Patton Oswalt",
+  "title": "Patton Oswalt: Talking for Clapping",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "phil-wang",
+  "comedian": "Phil Wang",
+  "title": "Phil Wang: Philly Philly Wang Wang",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "ralphie-may",
+  "comedian": "Ralphie May",
+  "title": "Ralphie May: Imperfectly Yours",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "rob-schneider",
+  "comedian": "Rob Schneider",
+  "title": "Rob Schneider: Asian Momma, Mexican Kids",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "russell-brand",
+  "comedian": "Russell Brand",
+  "title": "RUSSELL BRAND: RE:BIRTH",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "iliza-shlesinger",
+  "comedian": "Iliza Shlesinger",
+  "title": "The Iliza Shlesinger Sketch Show: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "tiffany-haddish",
+  "comedian": "Tiffany Haddish",
+  "title": "Tiffany Haddish: She Ready! From the Hood To Hollywood!",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "vir-das",
+  "comedian": "Vir Das",
+  "title": "Vir Das: Losing It",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "w-kamau-bell",
+  "comedian": "W Kamau Bell",
+  "title": "W. Kamau Bell: Private School Negro",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "whitney-cummings",
+  "comedian": "Whitney Cummings",
+  "title": "Whitney Cummings: Can I Touch It?",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "whitney-cummings",
+  "comedian": "Whitney Cummings",
+  "title": "Whitney Cummings: Jokes",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   },
+   "2023H2": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 200000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "aziz-ansari",
+  "comedian": "Aziz Ansari",
+  "title": "Aziz Ansari: Buried Alive",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "aziz-ansari",
+  "comedian": "Aziz Ansari",
+  "title": "Aziz Ansari: Nightclub Comedian",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "colin-quinn",
+  "comedian": "Colin Quinn",
+  "title": "Colin Quinn: Unconstitutional",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "d-l-hughley",
+  "comedian": "D L Hughley",
+  "title": "D.L. Hughley: Clear",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "eric-andre",
+  "comedian": "Eric Andre",
+  "title": "Eric Andre: Legalize Everything",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "fred-armisen",
+  "comedian": "Fred Armisen",
+  "title": "Fred Armisen: Standup For Drummers",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "jerry-seinfeld",
+  "comedian": "Jerry Seinfeld",
+  "title": "Jerry Seinfeld: Comedian",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "john-mulaney",
+  "comedian": "John Mulaney",
+  "title": "John Mulaney & The Sack Lunch Bunch",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "kevin-james",
+  "comedian": "Kevin James",
+  "title": "Kevin James: Sweat the Small Stuff",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "Louis & Luca - The Big Cheese Race // Solan og Ludvig: Herfra til Fl\u00e5klypa",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "Louis Cyr, l'homme le plus fort du monde",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Patriot Act with Hasan Minhaj: Volume 1",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Patriot Act with Hasan Minhaj: Volume 2",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Patriot Act with Hasan Minhaj: Volume 3",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Patriot Act with Hasan Minhaj: Volume 4",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "hasan-minhaj",
+  "comedian": "Hasan Minhaj",
+  "title": "Patriot Act with Hasan Minhaj: Volume 5",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "ronny-chieng",
+  "comedian": "Ronny Chieng",
+  "title": "Ronny Chieng International Student: Season One",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "louis-ck",
+  "comedian": "Louis C.K.",
+  "title": "The Electrical Life of Louis Wain",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "tiffany-haddish",
+  "comedian": "Tiffany Haddish",
+  "title": "Tiffany Haddish Presents: They Ready: Season 1",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "vir-das",
+  "comedian": "Vir Das",
+  "title": "Vir Das: Abroad Understanding",
+  "halves": {
+   "2023H1": {
+    "hours": 100000,
+    "views": 0
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 0
+ },
+ {
+  "comedian_id": "michael-mcintyre",
+  "comedian": "Michael Mcintyre",
+  "title": "Michael McIntyre: Hello Wembley!",
+  "halves": {
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "michael-mcintyre",
+  "comedian": "Michael Mcintyre",
+  "title": "Michael McIntyre: Live & Laughing",
+  "halves": {
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "sean-lock",
+  "comedian": "Sean Lock",
+  "title": "Sean Lock: Live",
+  "halves": {
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "sean-lock",
+  "comedian": "Sean Lock",
+  "title": "Sean Lock: Lockipedia",
+  "halves": {
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 100000
+ },
+ {
+  "comedian_id": "sean-lock",
+  "comedian": "Sean Lock",
+  "title": "Sean Lock: Purple Van Man",
+  "halves": {
+   "2025H1": {
+    "hours": 100000,
+    "views": 100000
+   }
+  },
+  "total_hours": 100000,
+  "total_views": 100000
+ }
+]

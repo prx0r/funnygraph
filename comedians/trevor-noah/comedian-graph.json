@@ -300,5 +300,11 @@
       "surreal": 0.14
     },
     "method": "archetype+theories+transcript"
+  },
+  "netflix_viewership": {
+    "hours": 25400000,
+    "views": 20200000,
+    "specials": 5,
+    "source": "What We Watched 2023H1-2026H1"
   }
 }
