@@ -294,12 +294,12 @@
     "source": "wikidata (CC0)"
   },
   "humor_type": {
-    "primary": "dark-confessional",
-    "secondary": "absurdist",
+    "primary": "surreal",
+    "secondary": "dark-confessional",
     "scores": {
-      "dark-confessional": 0.5,
-      "absurdist": 0.25,
-      "observational": 0.25
+      "surreal": 0.43,
+      "dark-confessional": 0.29,
+      "absurdist": 0.14
     },
     "method": "archetype+theories+transcript"
   },

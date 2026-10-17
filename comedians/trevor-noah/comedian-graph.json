@@ -293,11 +293,11 @@
   ],
   "humor_type": {
     "primary": "observational",
-    "secondary": "clean-everyman",
+    "secondary": "surreal",
     "scores": {
-      "observational": 0.57,
-      "clean-everyman": 0.29,
-      "surreal": 0.14
+      "observational": 0.67,
+      "surreal": 0.17,
+      "clean-everyman": 0.17
     },
     "method": "archetype+theories+transcript"
   },

@@ -63,5 +63,10 @@
     "gap_value": null,
     "overrated": null,
     "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
   }
 }

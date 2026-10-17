@@ -429,12 +429,12 @@
     }
   ],
   "humor_type": {
-    "primary": "clean-everyman",
-    "secondary": "meta",
+    "primary": "meta",
+    "secondary": "surreal",
     "scores": {
-      "clean-everyman": 0.4,
-      "meta": 0.2,
-      "surreal": 0.2
+      "meta": 0.57,
+      "surreal": 0.14,
+      "roast": 0.14
     },
     "method": "archetype+theories+transcript"
   },

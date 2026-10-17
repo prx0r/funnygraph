@@ -269,11 +269,11 @@
   },
   "humor_type": {
     "primary": "storytelling",
-    "secondary": "clean-everyman",
+    "secondary": "dark-confessional",
     "scores": {
-      "storytelling": 0.43,
-      "clean-everyman": 0.29,
-      "dark-confessional": 0.14
+      "storytelling": 0.5,
+      "dark-confessional": 0.17,
+      "character": 0.17
     },
     "method": "archetype+theories+transcript"
   },

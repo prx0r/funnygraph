@@ -26,19 +26,6 @@
   "generation": "nineties"
  },
  {
-  "special": "Up",
-  "year": 2009,
-  "comedian": "Ron White",
-  "comedian_id": "ron-white",
-  "imdb_id": "tt1049413",
-  "rating": 8.3,
-  "votes": 1260034,
-  "wr": 8.299,
-  "standout": true,
-  "humor_type": "dark-confessional",
-  "generation": "nineties"
- },
- {
   "special": "George Carlin... It's Bad for Ya!",
   "year": 2008,
   "comedian": "George Carlin",
@@ -648,5 +635,18 @@
   "standout": false,
   "humor_type": "dark-confessional",
   "generation": "aughts"
+ },
+ {
+  "special": "N\u00f6",
+  "year": 2021,
+  "comedian": "Neal Brennan",
+  "comedian_id": "neal-brennan",
+  "imdb_id": "tt9409660",
+  "rating": 6.2,
+  "votes": 220,
+  "wr": 6.856,
+  "standout": false,
+  "humor_type": "dark-confessional",
+  "generation": "nineties"
  }
 ]

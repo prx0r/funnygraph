@@ -54,19 +54,6 @@
  {
   "special": "Up",
   "year": 2009,
-  "comedian": "Ron White",
-  "comedian_id": "ron-white",
-  "imdb_id": "tt1049413",
-  "rating": 8.3,
-  "votes": 1260034,
-  "wr": 8.299,
-  "standout": true,
-  "humor_type": "dark-confessional",
-  "generation": "nineties"
- },
- {
-  "special": "Up",
-  "year": 2009,
   "comedian": "Stewart Lee",
   "comedian_id": "stewart-lee",
   "imdb_id": "tt1049413",
@@ -74,7 +61,7 @@
   "votes": 1260034,
   "wr": 8.299,
   "standout": false,
-  "humor_type": "clean-everyman",
+  "humor_type": "meta",
   "generation": "nineties"
  },
  {
@@ -464,7 +451,7 @@
   "votes": 726,
   "wr": 7.631,
   "standout": true,
-  "humor_type": "clean-everyman",
+  "humor_type": "meta",
   "generation": "nineties"
  },
  {
@@ -529,7 +516,7 @@
   "votes": 625,
   "wr": 7.538,
   "standout": false,
-  "humor_type": "clean-everyman",
+  "humor_type": "meta",
   "generation": "nineties"
  },
  {
@@ -568,7 +555,7 @@
   "votes": 484,
   "wr": 7.489,
   "standout": false,
-  "humor_type": "clean-everyman",
+  "humor_type": "meta",
   "generation": "nineties"
  },
  {
@@ -1088,7 +1075,7 @@
   "votes": 128,
   "wr": 6.989,
   "standout": false,
-  "humor_type": "clean-everyman",
+  "humor_type": "meta",
   "generation": "nineties"
  },
  {
@@ -1297,6 +1284,19 @@
   "wr": 6.856,
   "standout": false,
   "humor_type": "rant",
+  "generation": "aughts"
+ },
+ {
+  "special": "N\u00f6",
+  "year": 2021,
+  "comedian": "Bo Burnham",
+  "comedian_id": "bo-burnham",
+  "imdb_id": "tt9409660",
+  "rating": 6.2,
+  "votes": 220,
+  "wr": 6.856,
+  "standout": false,
+  "humor_type": "meta",
   "generation": "aughts"
  }
 ]

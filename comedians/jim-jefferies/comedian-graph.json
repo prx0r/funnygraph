@@ -326,12 +326,12 @@
     "source": "wikidata (CC0)"
   },
   "humor_type": {
-    "primary": "meta",
-    "secondary": "roast",
+    "primary": "rant",
+    "secondary": "meta",
     "scores": {
-      "meta": 0.25,
-      "roast": 0.25,
-      "observational": 0.25
+      "rant": 0.43,
+      "meta": 0.14,
+      "roast": 0.14
     },
     "method": "archetype+theories+transcript"
   },

@@ -88,6 +88,11 @@ ARCHETYPE_TO_TYPE = {
     "nerd_professor": "observational",
     "tender-report": "storytelling",
     "designer": "one-liner",
+    "sleepy_surrealist": "surreal",
+    "argument_brawler": "rant",
+    "exasperated_traditionalist": "rant",
+    "meta_architect": "meta",
+    "deadpan_dark": "dark-confessional",
     "exasperated-traditionalist": "rant",
     "barstool-prophet": "rant",
     "jazz-confessional": "dark-confessional",
@@ -152,7 +157,7 @@ def classify(j: dict, sig: dict) -> dict:
     if sig.get("dark"):
         votes["dark-confessional"] += 1
     if sig.get("clean"):
-        votes["clean-everyman"] += 2
+        votes["clean-everyman"] += 1
     # transcript fallback for auto-drafts: profanity decides dark/clean,
     # question-rate hints crowd-improv, exclamation hints rant
     if not votes and sig.get("words"):

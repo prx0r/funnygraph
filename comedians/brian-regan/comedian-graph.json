@@ -270,9 +270,9 @@
     "primary": "clean-everyman",
     "secondary": "observational",
     "scores": {
-      "clean-everyman": 0.71,
-      "observational": 0.14,
-      "dark-confessional": 0.14
+      "clean-everyman": 0.67,
+      "observational": 0.17,
+      "dark-confessional": 0.17
     },
     "method": "archetype+theories+transcript"
   },

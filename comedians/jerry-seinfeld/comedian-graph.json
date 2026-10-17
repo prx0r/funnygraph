@@ -399,11 +399,11 @@
   },
   "humor_type": {
     "primary": "observational",
-    "secondary": "clean-everyman",
+    "secondary": "meta",
     "scores": {
-      "observational": 0.38,
-      "clean-everyman": 0.25,
-      "meta": 0.12
+      "observational": 0.43,
+      "meta": 0.14,
+      "absurdist": 0.14
     },
     "method": "archetype+theories+transcript"
   },

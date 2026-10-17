@@ -254,11 +254,12 @@
     }
   ],
   "humor_type": {
-    "primary": "roast",
-    "secondary": "observational",
+    "primary": "rant",
+    "secondary": "roast",
     "scores": {
-      "roast": 0.5,
-      "observational": 0.5
+      "rant": 0.6,
+      "roast": 0.2,
+      "observational": 0.2
     },
     "method": "archetype+theories+transcript"
   },
