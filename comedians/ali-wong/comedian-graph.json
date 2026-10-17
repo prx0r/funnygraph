@@ -86,7 +86,8 @@
       "motherhood as a performance",
       "the marriage as a sparring partner",
       "the special as a confessional"
-    ]
+    ],
+    "style_thesis": "Confessional-assassin engine: turned the most vulnerable physical state into a power move and the domestic into a battlefield. The ambition is the thesis; the pregnancy is the delivery system. She says the thing about ambition, marriage, and motherhood that everyone was thinking."
   },
   "engine": {
     "voice_clone_id": null,
@@ -98,14 +99,52 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "ali-wong_ali-wong-baby-cobra-2016-full-transcript",
+      "title": "Ali Wong Baby Cobra 2016 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/ali-wong/ali-wong-baby-cobra-2016-full-transcript.txt",
+        "format": "plain txt",
+        "words": 5537
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "ali-wong_ali-wong-don-wong-2022-transcript",
+      "title": "Ali Wong Don Wong 2022 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/ali-wong/ali-wong-don-wong-2022-transcript.txt",
+        "format": "plain txt",
+        "words": 4182
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "ali-wong_ali-wong-hard-knock-wife-2018-transcript",
+      "title": "Ali Wong Hard Knock Wife 2018 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/ali-wong/ali-wong-hard-knock-wife-2018-transcript.txt",
+        "format": "plain txt",
+        "words": 4982
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "confessional_assassin cadence \u2014 hypothesize from specials."
+    "hypothesis": "confessional_assassin cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Story sprint, hard stop on the kill. The pregnant-body commitment is a timing device \u2014 the room is watching the body while she delivers the thesis. The pause after the dark turn is the room deciding how to feel about a pregnant woman saying that."
   },
   "gtvh_profile": {
     "SO": "",
@@ -197,6 +236,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "ali-wong-bit-01",
+      "title": "Ali Wong: 'Ambition as a love language' \u2014 how the bit works",
+      "thesis": "Says she wants to be the breadwinner with the directness of a business plan. The room laughs because the ambition is stated without apology \u2014 the violation is wanting it openly; the benign frame is the obvious love for the husband she's roasting.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "ali-wong-bit-02",
+      "title": "Ali Wong: 'The domestic as a war crime' \u2014 how the bit works",
+      "thesis": "Treats marriage and motherhood as a battlefield with casualties. The hyperbole is the engine \u2014 every domestic detail escalates to war-crime status. The room recognizes the feeling; the exaggeration makes it funny instead of bitter.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -209,6 +282,29 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/ali-wong/ali-wong-baby-cobra-2016-full-transcript.txt",
+      "transcripts/ali-wong/ali-wong-don-wong-2022-transcript.txt",
+      "transcripts/ali-wong/ali-wong-hard-knock-wife-2018-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "Ambition as a love language",
+      "why_it_works": "Says she wants to be the breadwinner with the directness of a business plan. The room laughs because the ambition is stated without apology \u2014 the violation is wanting it openly; the benign frame is the obvious love for the husband she's roasting.",
+      "theory_links": [
+        "benign_violation",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "The domestic as a war crime",
+      "why_it_works": "Treats marriage and motherhood as a battlefield with casualties. The hyperbole is the engine \u2014 every domestic detail escalates to war-crime status. The room recognizes the feeling; the exaggeration makes it funny instead of bitter.",
+      "theory_links": [
+        "escalation",
+        "incongruity"
+      ]
+    }
+  ]
 }

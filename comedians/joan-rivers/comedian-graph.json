@@ -86,7 +86,8 @@
       "women in comedy",
       "showbiz as a status machine",
       "work as anesthesia"
-    ]
+    ],
+    "style_thesis": "Status-assassin engine: dressed up the cruelest observation in couture and never pretended it was kindness. The cruelty was craft. The smile is a weapon; the annotation IS the joke."
   },
   "engine": {
     "voice_clone_id": null,
@@ -105,7 +106,8 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "status_assassin cadence \u2014 hypothesize from specials."
+    "hypothesis": "status_assassin cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Rapid setup, surgical hold, kill. The pause before the kill is the timing device \u2014 the room sees it coming and can't escape. The hand on the hip is punctuation."
   },
   "gtvh_profile": {
     "SO": "",
@@ -197,6 +199,23 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "joan-rivers-bit-01",
+      "title": "Joan Rivers: 'The dressed insult' \u2014 how the bit works",
+      "thesis": "The insult arrives in couture \u2014 the glamour is the benign frame that makes the cruelty acceptable. The room laughs at the precision of the annotation AND the audacity of saying it. The pause before the kill is the room bracing.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -210,5 +229,15 @@
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
     "deepened": "2026-10-16"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "The dressed insult",
+      "why_it_works": "The insult arrives in couture \u2014 the glamour is the benign frame that makes the cruelty acceptable. The room laughs at the precision of the annotation AND the audacity of saying it. The pause before the kill is the room bracing.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    }
+  ]
 }

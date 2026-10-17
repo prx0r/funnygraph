@@ -85,7 +85,8 @@
       "surrealism as observation",
       "consumer objects with secret lives",
       "the physics of the joke"
-    ]
+    ],
+    "style_thesis": "Deadpan-absurdist engine: delivers impossible statements with the cadence of a man reading a weather report. Surrealism as the default setting; normality as the thing that needs explaining. Maximum calm, maximum nonsense."
   },
   "engine": {
     "voice_clone_id": null,
@@ -104,7 +105,8 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "deadpan_absurdist cadence \u2014 hypothesize from specials."
+    "hypothesis": "deadpan_absurdist cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Even, no acceleration, hold for the absurdity to land. The pause after the impossible claim is the timing device \u2014 the room needs the silence to process that he said it flat. The non-reaction to his own image is the tell."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +198,23 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "steven-wright-bit-01",
+      "title": "Steven Wright: 'Impossible objects' \u2014 how the bit works",
+      "thesis": "Reports an object with impossible properties as fact. The deadpan is the benign frame \u2014 the room believes him for half a second. The half-second is the joke. literalize at max.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -209,5 +228,15 @@
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
     "deepened": "2026-10-16"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "Impossible objects",
+      "why_it_works": "Reports an object with impossible properties as fact. The deadpan is the benign frame \u2014 the room believes him for half a second. The half-second is the joke. literalize at max.",
+      "theory_links": [
+        "literalise",
+        "incongruity"
+      ]
+    }
+  ]
 }

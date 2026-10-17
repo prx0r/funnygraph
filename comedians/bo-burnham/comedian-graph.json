@@ -86,7 +86,8 @@
       "comedy about comedy",
       "mental health as a public act",
       "the special as a crisis meeting"
-    ]
+    ],
+    "style_thesis": "Meta-pop-prophet engine: writes the song that diagnoses the room he's performing it in. The special is a crisis meeting about comedy, and the piano is both weapon and apology. Peak aware: the awareness is the material and the prison."
   },
   "engine": {
     "voice_clone_id": null,
@@ -98,14 +99,64 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "bo-burnham_bo-burnham-inside-2021-transcript",
+      "title": "Bo Burnham Inside 2021 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/bo-burnham-inside-2021-transcript.txt",
+        "format": "plain txt",
+        "words": 5655
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bo-burnham_bo-burnham-make-happy-2016-transcript",
+      "title": "Bo Burnham Make Happy 2016 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/bo-burnham-make-happy-2016-transcript.txt",
+        "format": "plain txt",
+        "words": 5711
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bo-burnham_bo-burnham-what-2013-transcript",
+      "title": "Bo Burnham What 2013 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/bo-burnham-what-2013-transcript.txt",
+        "format": "plain txt",
+        "words": 5462
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bo-burnham_bo-burnham-words-words-words-2010-transcript",
+      "title": "Bo Burnham Words Words Words 2010 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bo-burnham/bo-burnham-words-words-words-2010-transcript.txt",
+        "format": "plain txt",
+        "words": 6011
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "meta_pop_prophet cadence \u2014 hypothesize from specials."
+    "hypothesis": "meta_pop_prophet cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Song-sprint, freeze on the confession. The piano is both weapon and shield \u2014 the song carries the room forward, the freeze after the big number is where the meta lands. The silence after the song is the real punchline."
   },
   "gtvh_profile": {
     "SO": "",
@@ -197,6 +248,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "bo-burnham-bit-01",
+      "title": "Bo Burnham: 'The song that diagnoses the room' \u2014 how the bit works",
+      "thesis": "The song is funny AND it names the mechanism of why the room is laughing. The meta-turn is the second punch \u2014 the room laughs at the song, then laughs at themselves for laughing. split_knowledge: everyone knows the manipulation is happening; the honesty about it is the joke.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "bo-burnham-bit-02",
+      "title": "Bo Burnham: 'The apology from inside the machine' \u2014 how the bit works",
+      "thesis": "Performs the critique of performance while performing. The contradiction IS the content \u2014 the room can't resolve whether he's sincere or performing sincerity, and the unresolvability is the point.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -209,6 +294,30 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/bo-burnham/bo-burnham-inside-2021-transcript.txt",
+      "transcripts/bo-burnham/bo-burnham-make-happy-2016-transcript.txt",
+      "transcripts/bo-burnham/bo-burnham-what-2013-transcript.txt",
+      "transcripts/bo-burnham/bo-burnham-words-words-words-2010-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "The song that diagnoses the room",
+      "why_it_works": "The song is funny AND it names the mechanism of why the room is laughing. The meta-turn is the second punch \u2014 the room laughs at the song, then laughs at themselves for laughing. split_knowledge: everyone knows the manipulation is happening; the honesty about it is the joke.",
+      "theory_links": [
+        "split_knowledge",
+        "persona_gap"
+      ]
+    },
+    {
+      "title": "The apology from inside the machine",
+      "why_it_works": "Performs the critique of performance while performing. The contradiction IS the content \u2014 the room can't resolve whether he's sincere or performing sincerity, and the unresolvability is the point.",
+      "theory_links": [
+        "persona_gap",
+        "incongruity"
+      ]
+    }
+  ]
 }

@@ -85,7 +85,8 @@
       "modern anxiety at low volume",
       "marriage as a shared confusion",
       "the airport as a philosophy course"
-    ]
+    ],
+    "style_thesis": "Wholesome-confused engine: treats normal life like a series of small bafflements he's too polite to fight. The confusion is played straight; the craft is invisible under the speed. Clean comedy as a hard mode \u2014 the constraint forces better observation."
   },
   "engine": {
     "voice_clone_id": null,
@@ -97,14 +98,52 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "nate-bargatze_nate-bargatze-full-time-magic-2015-full-transcript",
+      "title": "Nate Bargatze Full Time Magic 2015 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/nate-bargatze/nate-bargatze-full-time-magic-2015-full-transcript.txt",
+        "format": "plain txt",
+        "words": 5276
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "nate-bargatze_nate-bargatze-the-greatest-average-american-2021-t",
+      "title": "Nate Bargatze The Greatest Average American 2021 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/nate-bargatze/nate-bargatze-the-greatest-average-american-2021-transcript.txt",
+        "format": "plain txt",
+        "words": 8012
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "nate-bargatze_nate-bargatze-the-tennessee-kid-2019-full-transcri",
+      "title": "Nate Bargatze The Tennessee Kid 2019 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/nate-bargatze/nate-bargatze-the-tennessee-kid-2019-full-transcript.txt",
+        "format": "plain txt",
+        "words": 7386
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "wholesome_confused cadence \u2014 hypothesize from specials."
+    "hypothesis": "wholesome_confused cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Even, no rush, the story does the work. The innocent observation is a beat, not a pause \u2014 he doesn't stop to be confused, he reports the confusion at speed. The self-deprecating shrug resets the room."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +235,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "nate-bargatze-bit-01",
+      "title": "Nate Bargatze: 'Normal life as a mild hazard' \u2014 how the bit works",
+      "thesis": "Takes the most mundane modern experience (airports, coffee orders) and treats it as a series of small emergencies. The room has all felt this; he names it with enough urgency to make the shared feeling funny. The wholesomeness is the benign frame.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "nate-bargatze-bit-02",
+      "title": "Nate Bargatze: 'The dad as a confused narrator' \u2014 how the bit works",
+      "thesis": "Reports fatherhood with the energy of a man who wandered into it by accident. The gap between the responsibility and the confusion is the joke. The room laughs WITH him because the confusion is honest.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -208,6 +281,29 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/nate-bargatze/nate-bargatze-full-time-magic-2015-full-transcript.txt",
+      "transcripts/nate-bargatze/nate-bargatze-the-greatest-average-american-2021-transcript.txt",
+      "transcripts/nate-bargatze/nate-bargatze-the-tennessee-kid-2019-full-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "Normal life as a mild hazard",
+      "why_it_works": "Takes the most mundane modern experience (airports, coffee orders) and treats it as a series of small emergencies. The room has all felt this; he names it with enough urgency to make the shared feeling funny. The wholesomeness is the benign frame.",
+      "theory_links": [
+        "benign_violation",
+        "incongruity"
+      ]
+    },
+    {
+      "title": "The dad as a confused narrator",
+      "why_it_works": "Reports fatherhood with the energy of a man who wandered into it by accident. The gap between the responsibility and the confusion is the joke. The room laughs WITH him because the confusion is honest.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    }
+  ]
 }

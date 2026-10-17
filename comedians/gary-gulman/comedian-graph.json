@@ -85,7 +85,8 @@
       "melancholy as a comic mode",
       "the beauty of the mundane",
       "the self as a project"
-    ]
+    ],
+    "style_thesis": "Melancholy-craftsman engine: takes a small observation, turns it over until it reveals the whole sad beauty of being a person. The punchline is a window, and the window opens onto something that makes you laugh and cry in the same breath."
   },
   "engine": {
     "voice_clone_id": null,
@@ -104,7 +105,8 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "melancholy_craftsman cadence \u2014 hypothesize from specials."
+    "hypothesis": "melancholy_craftsman cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Even, no rush, the image does the work. The pause before the image lands is the timing device \u2014 the room is waiting for the picture. The small smile at his own observation is the tell."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +198,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "gary-gulman-bit-01",
+      "title": "Gary Gulman: 'The ordinary as a cathedral' \u2014 how the bit works",
+      "thesis": "Looks at an ordinary thing long enough that it becomes beautiful. The room laughs AND feels \u2014 the dual response is the signature. The craft is the delivery system: the observation is too precise to be accidental.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "gary-gulman-bit-02",
+      "title": "Gary Gulman: 'The punchline as a window' \u2014 how the bit works",
+      "thesis": "The punch doesn't close the bit \u2014 it opens it. The room sees through the joke to something real. The economy is the respect: every word pays rent, and the rent is the feeling.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -209,5 +245,23 @@
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
     "deepened": "2026-10-16"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "The ordinary as a cathedral",
+      "why_it_works": "Looks at an ordinary thing long enough that it becomes beautiful. The room laughs AND feels \u2014 the dual response is the signature. The craft is the delivery system: the observation is too precise to be accidental.",
+      "theory_links": [
+        "incongruity",
+        "persona_gap"
+      ]
+    },
+    {
+      "title": "The punchline as a window",
+      "why_it_works": "The punch doesn't close the bit \u2014 it opens it. The room sees through the joke to something real. The economy is the respect: every word pays rent, and the rent is the feeling.",
+      "theory_links": [
+        "two_stories",
+        "benign_violation"
+      ]
+    }
+  ]
 }

@@ -95,7 +95,56 @@
       "status": "NOT RUN"
     }
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "bert-kreischer_bert-kreischer-fighting-a-bear-transcript",
+      "title": "Bert Kreischer Fighting A Bear Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/bert-kreischer-fighting-a-bear-transcript.txt",
+        "format": "plain txt",
+        "words": 807
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bert-kreischer_bert-kreischer-hey-big-boy-2020-transcript",
+      "title": "Bert Kreischer Hey Big Boy 2020 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/bert-kreischer-hey-big-boy-2020-transcript.txt",
+        "format": "plain txt",
+        "words": 6645
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bert-kreischer_bert-kreischer-razzle-dazzle-2023-transcript",
+      "title": "Bert Kreischer Razzle Dazzle 2023 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/bert-kreischer-razzle-dazzle-2023-transcript.txt",
+        "format": "plain txt",
+        "words": 6748
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "bert-kreischer_bert-kreischer-secret-time-2018-transcript",
+      "title": "Bert Kreischer Secret Time 2018 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/bert-kreischer/bert-kreischer-secret-time-2018-transcript.txt",
+        "format": "plain txt",
+        "words": 6332
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "harvest captions or link transcript for measured depth",
     "blocked_on": "captions/audio"
@@ -199,7 +248,13 @@
     "sets_observed": 0,
     "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/bert-kreischer/bert-kreischer-fighting-a-bear-transcript.txt",
+      "transcripts/bert-kreischer/bert-kreischer-hey-big-boy-2020-transcript.txt",
+      "transcripts/bert-kreischer/bert-kreischer-razzle-dazzle-2023-transcript.txt",
+      "transcripts/bert-kreischer/bert-kreischer-secret-time-2018-transcript.txt"
+    ]
   },
   "timing_profile": {
     "doctrine_hypothesis": "Torrential story, sudden freeze. The shirtless swagger is a timing device \u2014 the body is doing the energy so the voice can do the story. The freeze is where the myth catches up to the truth.",

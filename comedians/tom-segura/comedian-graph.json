@@ -95,7 +95,80 @@
       "status": "NOT RUN"
     }
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "tom-segura_comedy-central-presents-tom-segura-s15e01-transcri",
+      "title": "Comedy Central Presents Tom Segura S15E01 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/comedy-central-presents-tom-segura-s15e01-transcript.txt",
+        "format": "plain txt",
+        "words": 1938
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_tom-segura-ball-hog-2020-transcript",
+      "title": "Tom Segura Ball Hog 2020 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/tom-segura-ball-hog-2020-transcript.txt",
+        "format": "plain txt",
+        "words": 7255
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_tom-segura-completely-normal-2014-transcript",
+      "title": "Tom Segura Completely Normal 2014 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/tom-segura-completely-normal-2014-transcript.txt",
+        "format": "plain txt",
+        "words": 8750
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_tom-segura-disgraceful-2018-transcript",
+      "title": "Tom Segura Disgraceful 2018 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/tom-segura-disgraceful-2018-transcript.txt",
+        "format": "plain txt",
+        "words": 8191
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_tom-segura-mostly-stories-2016-transcript",
+      "title": "Tom Segura Mostly Stories 2016 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/tom-segura-mostly-stories-2016-transcript.txt",
+        "format": "plain txt",
+        "words": 7696
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "tom-segura_tom-segura-overdoses-this-is-not-happening-transcr",
+      "title": "Tom Segura Overdoses This Is Not Happening Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/tom-segura/tom-segura-overdoses-this-is-not-happening-transcript.txt",
+        "format": "plain txt",
+        "words": 1382
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "harvest captions or link transcript for measured depth",
     "blocked_on": "captions/audio"
@@ -165,7 +238,15 @@
     "sets_observed": 0,
     "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/tom-segura/comedy-central-presents-tom-segura-s15e01-transcript.txt",
+      "transcripts/tom-segura/tom-segura-ball-hog-2020-transcript.txt",
+      "transcripts/tom-segura/tom-segura-completely-normal-2014-transcript.txt",
+      "transcripts/tom-segura/tom-segura-disgraceful-2018-transcript.txt",
+      "transcripts/tom-segura/tom-segura-mostly-stories-2016-transcript.txt",
+      "transcripts/tom-segura/tom-segura-overdoses-this-is-not-happening-transcript.txt"
+    ]
   },
   "timing_profile": {
     "doctrine_hypothesis": "Even, calm, sudden kill. The calm is the timing device \u2014 the room has no warning because the delivery never signals the turn. The pause after the kill is the room deciding how to feel.",

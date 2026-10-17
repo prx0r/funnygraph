@@ -85,7 +85,8 @@
       "taboo as a material",
       "the female body as a battlefield",
       "the voice as a weapon"
-    ]
+    ],
+    "style_thesis": "Toddler-provocateur engine: says the most shocking thing in the sweetest voice and lets the contrast detonate. The innocence is a delivery system for the least innocent thoughts. The shock is a door; the heart is the room behind it."
   },
   "engine": {
     "voice_clone_id": null,
@@ -97,14 +98,64 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "sarah-silverman_sarah-silverman-a-speck-of-dust-2017-full-transcri",
+      "title": "Sarah Silverman A Speck Of Dust 2017 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/sarah-silverman-a-speck-of-dust-2017-full-transcript.txt",
+        "format": "plain txt",
+        "words": 6603
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sarah-silverman_sarah-silverman-jesus-is-magic-2005-transcript",
+      "title": "Sarah Silverman Jesus Is Magic 2005 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/sarah-silverman-jesus-is-magic-2005-transcript.txt",
+        "format": "plain txt",
+        "words": 5248
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sarah-silverman_sarah-silverman-saturday-night-live-monologue-seas",
+      "title": "Sarah Silverman Saturday Night Live Monologue Season 40 Episode 2 10 0",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/sarah-silverman-saturday-night-live-monologue-season-40-episode-2-10-0.txt",
+        "format": "plain txt",
+        "words": 845
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "sarah-silverman_sarah-silverman-we-are-miracles-2013-full-transcri",
+      "title": "Sarah Silverman We Are Miracles 2013 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/sarah-silverman/sarah-silverman-we-are-miracles-2013-full-transcript.txt",
+        "format": "plain txt",
+        "words": 4273
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "toddler_provocateur cadence \u2014 hypothesize from specials."
+    "hypothesis": "toddler_provocateur cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Even, the voice is the metronome. The sweet voice on the dark line is the timing device \u2014 the contrast arrives before the content. The pause after the kill is the room deciding how to feel about a Disney princess saying that."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +247,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "sarah-silverman-bit-01",
+      "title": "Sarah Silverman: 'Innocence as a delivery system' \u2014 how the bit works",
+      "thesis": "The toddler voice makes the taboo thought land as a surprise \u2014 the room wasn't braced because the voice said 'safe.' The contrast IS the mechanism. benign_violation at max contrast: violation extreme, benign frame total (the voice).",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "sarah-silverman-bit-02",
+      "title": "Sarah Silverman: 'The shock as a door' \u2014 how the bit works",
+      "thesis": "The shock opens the room; the heart walks through. After the detonation, the real feeling arrives \u2014 and the room is open because the shock broke the defenses. The two-beat structure (shock \u2192 heart) is the signature.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -208,6 +293,30 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/sarah-silverman/sarah-silverman-a-speck-of-dust-2017-full-transcript.txt",
+      "transcripts/sarah-silverman/sarah-silverman-jesus-is-magic-2005-transcript.txt",
+      "transcripts/sarah-silverman/sarah-silverman-saturday-night-live-monologue-season-40-episode-2-10-0.txt",
+      "transcripts/sarah-silverman/sarah-silverman-we-are-miracles-2013-full-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "Innocence as a delivery system",
+      "why_it_works": "The toddler voice makes the taboo thought land as a surprise \u2014 the room wasn't braced because the voice said 'safe.' The contrast IS the mechanism. benign_violation at max contrast: violation extreme, benign frame total (the voice).",
+      "theory_links": [
+        "benign_violation",
+        "incongruity"
+      ]
+    },
+    {
+      "title": "The shock as a door",
+      "why_it_works": "The shock opens the room; the heart walks through. After the detonation, the real feeling arrives \u2014 and the room is open because the shock broke the defenses. The two-beat structure (shock \u2192 heart) is the signature.",
+      "theory_links": [
+        "two_stories",
+        "persona_gap"
+      ]
+    }
+  ]
 }

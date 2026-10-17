@@ -85,7 +85,8 @@
       "language as a material",
       "attention as a scarce resource",
       "the self as a design problem"
-    ]
+    ],
+    "style_thesis": "Architect one-liner engine: builds joke objects so precisely that the structure is half the laugh. Economy is kindness; every word must pay rent. The deadpan is the lab coat; the precision is the experiment."
   },
   "engine": {
     "voice_clone_id": null,
@@ -97,14 +98,40 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "demetri-martin_demetri-martin-live-at-the-time-2015-transcript",
+      "title": "Demetri Martin Live At The Time 2015 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/demetri-martin/demetri-martin-live-at-the-time-2015-transcript.txt",
+        "format": "plain txt",
+        "words": 6277
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "demetri-martin_demetri-martin-the-overthinker-2018-transcript",
+      "title": "Demetri Martin The Overthinker 2018 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/demetri-martin/demetri-martin-the-overthinker-2018-transcript.txt",
+        "format": "plain txt",
+        "words": 6390
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "architect_one_liner cadence \u2014 hypothesize from specials."
+    "hypothesis": "architect_one_liner cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Even, setup and punch on the same breath. The diagram is the timing device \u2014 the room sees the structure while he's handing them the object. The tiny smile after a clean turn is the tell."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +223,23 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "demetri-martin-bit-01",
+      "title": "Demetri Martin: 'The joke as an object' \u2014 how the bit works",
+      "thesis": "The joke is a load-bearing structure \u2014 remove one word and it collapses. The room laughs at the perfection of the object AND the content. The diagram (when he shows it) is the second punch.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -208,6 +252,20 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/demetri-martin/demetri-martin-live-at-the-time-2015-transcript.txt",
+      "transcripts/demetri-martin/demetri-martin-the-overthinker-2018-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "The joke as an object",
+      "why_it_works": "The joke is a load-bearing structure \u2014 remove one word and it collapses. The room laughs at the perfection of the object AND the content. The diagram (when he shows it) is the second punch.",
+      "theory_links": [
+        "literalise",
+        "incongruity"
+      ]
+    }
+  ]
 }

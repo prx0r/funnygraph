@@ -86,7 +86,8 @@
       "millennial self-help",
       "the grief that doesn't resolve",
       "the special as a session"
-    ]
+    ],
+    "style_thesis": "Therapy-neurotic engine: treats her own mental health like a group project she's both acing and failing. The therapy frame is the delivery system; the grief is the material. The 'anyway' is the survival mechanism made audible."
   },
   "engine": {
     "voice_clone_id": null,
@@ -98,14 +99,40 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "taylor-tomlinson_taylor-tomlinson-look-at-you-2022-transcript",
+      "title": "Taylor Tomlinson Look At You 2022 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/taylor-tomlinson/taylor-tomlinson-look-at-you-2022-transcript.txt",
+        "format": "plain txt",
+        "words": 7921
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "taylor-tomlinson_taylor-tomlinson-quarter-life-crisis-2020-transcri",
+      "title": "Taylor Tomlinson Quarter Life Crisis 2020 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/taylor-tomlinson/taylor-tomlinson-quarter-life-crisis-2020-transcript.txt",
+        "format": "plain txt",
+        "words": 6703
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "therapy_neurotic cadence \u2014 hypothesize from specials."
+    "hypothesis": "therapy_neurotic cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Story sprint, freeze on the real thing. The 'anyway' after the dark turn is the timing device \u2014 it's the reset that says 'we're moving on' while the room is still feeling it. The self-deprecating pivot is a beat."
   },
   "gtvh_profile": {
     "SO": "",
@@ -197,6 +224,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "taylor-tomlinson-bit-01",
+      "title": "Taylor Tomlinson: 'Therapy as a comic form' \u2014 how the bit works",
+      "thesis": "Reports emotional events as case studies in her own psychology, presented like book reports. The clinical frame makes the mess discussable. The room laughs because they've all been in the session.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "taylor-tomlinson-bit-02",
+      "title": "Taylor Tomlinson: 'Grief as a tight five' \u2014 how the bit works",
+      "thesis": "Takes the heaviest material (loss, depression) and gives it the tightest structure. The economy is the respect \u2014 the grief is honored by the craft, not exploited by it. The freeze on the real thing is where the room feels it.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -209,6 +270,28 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/taylor-tomlinson/taylor-tomlinson-look-at-you-2022-transcript.txt",
+      "transcripts/taylor-tomlinson/taylor-tomlinson-quarter-life-crisis-2020-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "Therapy as a comic form",
+      "why_it_works": "Reports emotional events as case studies in her own psychology, presented like book reports. The clinical frame makes the mess discussable. The room laughs because they've all been in the session.",
+      "theory_links": [
+        "benign_violation",
+        "split_knowledge"
+      ]
+    },
+    {
+      "title": "Grief as a tight five",
+      "why_it_works": "Takes the heaviest material (loss, depression) and gives it the tightest structure. The economy is the respect \u2014 the grief is honored by the craft, not exploited by it. The freeze on the real thing is where the room feels it.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

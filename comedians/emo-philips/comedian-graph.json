@@ -85,7 +85,8 @@
       "anxiety as a worldview",
       "the body as a strange pet",
       "social rituals as alien customs"
-    ]
+    ],
+    "style_thesis": "Anxious-surrealist engine: narrates his own confusion like a nature documentary about a very nervous animal. The self is a rumor issuing press releases. Kindness to the confused is the highest virtue \u2014 and the comic strategy."
   },
   "engine": {
     "voice_clone_id": null,
@@ -104,7 +105,8 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "anxious_surrealist cadence \u2014 hypothesize from specials."
+    "hypothesis": "anxious_surrealist cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Wandering setup, sudden precise punch. The longer-than-needed pause is the timing device \u2014 the room is waiting for the wander to resolve. The voice crack on the normal word is the tell."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +198,23 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "emo-philips-bit-01",
+      "title": "Emo Philips: 'The self as a bad tour guide' \u2014 how the bit works",
+      "thesis": "Reports his own confusion with the energy of a tour guide who's lost the group. The room laughs at the accuracy of the confusion \u2014 they've all been the bad tour guide of their own brain.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -209,5 +228,15 @@
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
     "deepened": "2026-10-16"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "The self as a bad tour guide",
+      "why_it_works": "Reports his own confusion with the energy of a tour guide who's lost the group. The room laughs at the accuracy of the confusion \u2014 they've all been the bad tour guide of their own brain.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

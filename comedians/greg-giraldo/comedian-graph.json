@@ -85,7 +85,8 @@
       "culture as a courtroom",
       "logic as a weapon",
       "the body as a betrayal"
-    ]
+    ],
+    "style_thesis": "Lawyer-demolition engine: cross-examines a premise until it confesses to being stupid. The logic is the weapon; the tenderness is the surprise. The smartest man in the room dismantling the room's assumptions."
   },
   "engine": {
     "voice_clone_id": null,
@@ -104,7 +105,8 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "lawyer_demolition cadence \u2014 hypothesize from specials."
+    "hypothesis": "lawyer_demolition cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Accelerating cross-examination, hard stop on the kill. The deposition voice is the timing device \u2014 the room feels like witnesses. The sudden tender turn is the release."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +198,23 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "greg-giraldo-bit-01",
+      "title": "Greg Giraldo: 'The cultural claim as a witness' \u2014 how the bit works",
+      "thesis": "Treats every cultural claim as a witness with something to hide, then cross-examines it until it confesses. The room is the jury. The logic is airtight; the conclusion is devastating.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -209,5 +228,15 @@
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
     "deepened": "2026-10-16"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "The cultural claim as a witness",
+      "why_it_works": "Treats every cultural claim as a witness with something to hide, then cross-examines it until it confesses. The room is the jury. The logic is airtight; the conclusion is devastating.",
+      "theory_links": [
+        "rigidify",
+        "bogus_logic"
+      ]
+    }
+  ]
 }

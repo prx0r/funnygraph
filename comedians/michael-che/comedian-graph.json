@@ -85,7 +85,8 @@
       "news as content",
       "the edge as a strategy",
       "the grin as a survival mechanism"
-    ]
+    ],
+    "style_thesis": "Grin-assassin engine: says the dangerous thing in the friendliest voice and lets the contrast do the work. The news is a comedy writers' room that forgot it was funny \u2014 he's just reading it out loud. The grin is both weapon and shield."
   },
   "engine": {
     "voice_clone_id": null,
@@ -97,14 +98,28 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "michael-che_michael-che-matters-2016-transcript",
+      "title": "Michael Che Matters 2016 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/michael-che/michael-che-matters-2016-transcript.txt",
+        "format": "plain txt",
+        "words": 5876
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "grin_assassin cadence \u2014 hypothesize from specials."
+    "hypothesis": "grin_assassin cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Even, the grin is the metronome. The grin before the kill is the timing device \u2014 the room sees the grin and braces, but the content still lands. The casual shrug after the grenade resets the room."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +211,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "michael-che-bit-01",
+      "title": "Michael Che: 'The news as a comedy writers' room' \u2014 how the bit works",
+      "thesis": "Treats every headline as a joke the culture is already telling, and reads it back in a friendly voice. The room laughs because the absurdity was already there \u2014 he just said it out loud. The grin is the benign frame.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "michael-che-bit-02",
+      "title": "Michael Che: 'The dangerous thing in a friendly voice' \u2014 how the bit works",
+      "thesis": "The contrast between content (dangerous) and delivery (friendly) is the engine. The room doesn't know how to feel, and the not-knowing is the laugh. The shrug after says 'I just work here.'",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -208,6 +257,27 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/michael-che/michael-che-matters-2016-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "The news as a comedy writers' room",
+      "why_it_works": "Treats every headline as a joke the culture is already telling, and reads it back in a friendly voice. The room laughs because the absurdity was already there \u2014 he just said it out loud. The grin is the benign frame.",
+      "theory_links": [
+        "benign_violation",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "The dangerous thing in a friendly voice",
+      "why_it_works": "The contrast between content (dangerous) and delivery (friendly) is the engine. The room doesn't know how to feel, and the not-knowing is the laugh. The shrug after says 'I just work here.'",
+      "theory_links": [
+        "incongruity",
+        "benign_violation"
+      ]
+    }
+  ]
 }

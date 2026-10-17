@@ -85,7 +85,8 @@
       "joke craft as a visible process",
       "the podcast industrial complex",
       "the open-mic economy of attention"
-    ]
+    ],
+    "style_thesis": "Page-to-stage engine: works jokes out loud the way a mechanic works an engine \u2014 in public, at speed, with the hood up. The flip is a first-class move: if the angle stalls, invert it (complaint \u2192 advantage, fear \u2192 welcome). The volume is the work ethic made audible."
   },
   "engine": {
     "voice_clone_id": null,
@@ -97,14 +98,40 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "mark-normand_mark-normand-don-t-be-yourself-2017-transcript",
+      "title": "Mark Normand Don T Be Yourself 2017 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/mark-normand/mark-normand-don-t-be-yourself-2017-transcript.txt",
+        "format": "plain txt",
+        "words": 6664
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "mark-normand_mark-normand-stand-up-the-tonight-show-starring-ji",
+      "title": "Mark Normand Stand Up The Tonight Show Starring Jimmy Fallon 2019 Full",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt",
+        "format": "plain txt",
+        "words": 777
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "page_to_stage cadence \u2014 hypothesize from specials."
+    "hypothesis": "page_to_stage cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Fast, no wasted breath, flip on a dime. The 'this is new' warning is a timing device \u2014 the room leans in because it might fail. The mid-bit flip is the form: the premise is never precious."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +223,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "mark-normand-bit-01",
+      "title": "Mark Normand: 'The joke as a live animal' \u2014 how the bit works",
+      "thesis": "Tests the premise live, reads the reaction, commits or flips. The room is watching the process AND the product \u2014 the transparency is the charm. The flip (when it works) is funnier than the original because the room saw the work.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "mark-normand-bit-02",
+      "title": "Mark Normand: 'The flip as a first-class move' \u2014 how the bit works",
+      "thesis": "When the jealous-angle stalls, flip to the opposite stance. The room laughs at the audacity of the flip as much as the new angle. The process is visible; the visibility is the trust mechanism.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -208,6 +269,28 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/mark-normand/mark-normand-don-t-be-yourself-2017-transcript.txt",
+      "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "The joke as a live animal",
+      "why_it_works": "Tests the premise live, reads the reaction, commits or flips. The room is watching the process AND the product \u2014 the transparency is the charm. The flip (when it works) is funnier than the original because the room saw the work.",
+      "theory_links": [
+        "garden_path",
+        "benign_violation"
+      ]
+    },
+    {
+      "title": "The flip as a first-class move",
+      "why_it_works": "When the jealous-angle stalls, flip to the opposite stance. The room laughs at the audacity of the flip as much as the new angle. The process is visible; the visibility is the trust mechanism.",
+      "theory_links": [
+        "status_reversal",
+        "incongruity"
+      ]
+    }
+  ]
 }

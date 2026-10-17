@@ -85,7 +85,8 @@
       "normality as a consensus",
       "the body as a weird pet",
       "the city as a set of strange rooms"
-    ]
+    ],
+    "style_thesis": "Sleepy-surrealist engine: says the weirdest true detail in a flat voice and lets the room fall into the gap. Under-reaction is a form of respect for the weirdness. The calm is the constant; the strange detail is the variable."
   },
   "engine": {
     "voice_clone_id": null,
@@ -97,14 +98,28 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "hannibal-buress_hannibal-buress-comedy-camisado-2016-transcript",
+      "title": "Hannibal Buress Comedy Camisado 2016 Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/hannibal-buress/hannibal-buress-comedy-camisado-2016-transcript.txt",
+        "format": "plain txt",
+        "words": 7805
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "sleepy_surrealist cadence \u2014 hypothesize from specials."
+    "hypothesis": "sleepy_surrealist cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Even, no acceleration, hold for the weirdness. The flat delivery of the insane detail is the timing device \u2014 the room catches up while he's already moved on. The almost-smile that never fully arrives is the tell."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +211,23 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "hannibal-buress-bit-01",
+      "title": "Hannibal Buress: 'The quietly insane detail' \u2014 how the bit works",
+      "thesis": "Reports a normal situation with one detail that's quietly insane, without comment. The room does the work \u2014 the flat delivery is the trust mechanism. The detail is the joke; the flatness is the delivery system.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -208,6 +240,19 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/hannibal-buress/hannibal-buress-comedy-camisado-2016-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "The quietly insane detail",
+      "why_it_works": "Reports a normal situation with one detail that's quietly insane, without comment. The room does the work \u2014 the flat delivery is the trust mechanism. The detail is the joke; the flatness is the delivery system.",
+      "theory_links": [
+        "literalise",
+        "incongruity"
+      ]
+    }
+  ]
 }

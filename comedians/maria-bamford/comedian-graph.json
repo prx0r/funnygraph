@@ -85,7 +85,8 @@
       "mental health as material",
       "the voice as a character engine",
       "the body as a betrayal"
-    ]
+    ],
+    "style_thesis": "Character-vault engine: treats her own breakdown as a cast of characters and gives each one a voice. The ad in the head, the mother, the therapist \u2014 each gets a voice, and the meeting is the bit. The vulnerability is radical; the craft is the safety net."
   },
   "engine": {
     "voice_clone_id": null,
@@ -97,14 +98,40 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "maria-bamford_maria-bamford-old-baby-2017-full-transcript",
+      "title": "Maria Bamford Old Baby 2017 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/maria-bamford/maria-bamford-old-baby-2017-full-transcript.txt",
+        "format": "plain txt",
+        "words": 5951
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "maria-bamford_maria-bamford-weakness-is-the-brand-2020-full-tran",
+      "title": "Maria Bamford Weakness Is The Brand 2020 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/maria-bamford/maria-bamford-weakness-is-the-brand-2020-full-transcript.txt",
+        "format": "plain txt",
+        "words": 6595
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "character_vault cadence \u2014 hypothesize from specials."
+    "hypothesis": "character_vault cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Rapid character switches, freeze on the real. The instant voice change is the timing device \u2014 the room is catching up to who she's being. The voice crack on the real thing is where the vulnerability lands."
   },
   "gtvh_profile": {
     "SO": "",
@@ -196,6 +223,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "maria-bamford-bit-01",
+      "title": "Maria Bamford: 'The self as a cast' \u2014 how the bit works",
+      "thesis": "Gives each internal voice a distinct character. The room laughs at the accuracy of the voices AND feels the reality of the chorus. The character is the benign frame; the illness is the content. The meeting of the voices is the form.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "maria-bamford-bit-02",
+      "title": "Maria Bamford: 'The ad in the head' \u2014 how the bit works",
+      "thesis": "Performs the intrusive commercial jingle voice that lives in everyone's head. The room recognizes the voice before they recognize the joke \u2014 the recognition IS the laugh. The specificity of the voice is the craft.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -208,6 +269,28 @@
     "sets_observed": 0,
     "next": "ingest a signature-era set; measure timing; refine priors",
     "theory_applied": true,
-    "deepened": "2026-10-16"
-  }
+    "deepened": "2026-10-16",
+    "transcripts_linked": [
+      "transcripts/maria-bamford/maria-bamford-old-baby-2017-full-transcript.txt",
+      "transcripts/maria-bamford/maria-bamford-weakness-is-the-brand-2020-full-transcript.txt"
+    ]
+  },
+  "known_bits": [
+    {
+      "title": "The self as a cast",
+      "why_it_works": "Gives each internal voice a distinct character. The room laughs at the accuracy of the voices AND feels the reality of the chorus. The character is the benign frame; the illness is the content. The meeting of the voices is the form.",
+      "theory_links": [
+        "persona_gap",
+        "benign_violation"
+      ]
+    },
+    {
+      "title": "The ad in the head",
+      "why_it_works": "Performs the intrusive commercial jingle voice that lives in everyone's head. The room recognizes the voice before they recognize the joke \u2014 the recognition IS the laugh. The specificity of the voice is the craft.",
+      "theory_links": [
+        "incongruity",
+        "split_knowledge"
+      ]
+    }
+  ]
 }
