@@ -319,5 +319,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 37039,
+    "profanity_rate": 0.0085,
+    "question_rate": 0.213,
+    "i_rate": 0.047,
+    "vocab_div": 0.091,
+    "avg_sent_len": 11.6,
+    "top_words": [
+      "guys",
+      "think",
+      "because",
+      "women",
+      "want",
+      "okay",
+      "feel",
+      "love",
+      "fucking",
+      "shit",
+      "their",
+      "time"
+    ]
+  }
 }

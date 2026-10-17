@@ -511,5 +511,27 @@
       "roast": 0.07
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 95826,
+    "profanity_rate": 0.0107,
+    "question_rate": 0.305,
+    "i_rate": 0.057,
+    "vocab_div": 0.04,
+    "avg_sent_len": 12.3,
+    "top_words": [
+      "audience",
+      "laughs",
+      "goes",
+      "laughter",
+      "people",
+      "shit",
+      "want",
+      "think",
+      "fucking",
+      "okay",
+      "fuck",
+      "some"
+    ]
   }
 }

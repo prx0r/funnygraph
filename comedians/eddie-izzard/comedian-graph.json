@@ -473,5 +473,27 @@
       "observational": 0.07
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 97298,
+    "profanity_rate": 0.0052,
+    "question_rate": 0.189,
+    "i_rate": 0.025,
+    "vocab_div": 0.059,
+    "avg_sent_len": 10.9,
+    "top_words": [
+      "people",
+      "think",
+      "back",
+      "well",
+      "come",
+      "thing",
+      "fuck",
+      "down",
+      "said",
+      "fucking",
+      "look",
+      "want"
+    ]
   }
 }

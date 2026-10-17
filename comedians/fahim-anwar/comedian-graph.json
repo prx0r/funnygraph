@@ -247,5 +247,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 5997,
+    "profanity_rate": 0.0072,
+    "question_rate": 0.263,
+    "i_rate": 0.037,
+    "vocab_div": 0.201,
+    "avg_sent_len": 11.8,
+    "top_words": [
+      "fuck",
+      "guys",
+      "time",
+      "good",
+      "want",
+      "always",
+      "people",
+      "back",
+      "stand",
+      "because",
+      "even",
+      "some"
+    ]
   }
 }

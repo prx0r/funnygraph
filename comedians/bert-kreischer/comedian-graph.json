@@ -525,5 +525,27 @@
       "observational": 0.08
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 57736,
+    "profanity_rate": 0.0123,
+    "question_rate": 0.236,
+    "i_rate": 0.051,
+    "vocab_div": 0.049,
+    "avg_sent_len": 14.1,
+    "top_words": [
+      "laughing",
+      "audience",
+      "goes",
+      "crowd",
+      "laughs",
+      "fucking",
+      "wife",
+      "fuck",
+      "think",
+      "time",
+      "said",
+      "want"
+    ]
   }
 }

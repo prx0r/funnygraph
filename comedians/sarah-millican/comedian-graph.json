@@ -240,5 +240,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 17522,
+    "profanity_rate": 0.0058,
+    "question_rate": 0.216,
+    "i_rate": 0.053,
+    "vocab_div": 0.113,
+    "avg_sent_len": 10.7,
+    "top_words": [
+      "said",
+      "went",
+      "think",
+      "well",
+      "woman",
+      "thought",
+      "thing",
+      "good",
+      "quite",
+      "some",
+      "fucking",
+      "love"
+    ]
   }
 }

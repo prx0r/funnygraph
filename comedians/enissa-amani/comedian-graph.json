@@ -247,5 +247,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10813,
+    "profanity_rate": 0.0018,
+    "question_rate": 0.241,
+    "i_rate": 0.057,
+    "vocab_div": 0.138,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "people",
+      "love",
+      "want",
+      "even",
+      "german",
+      "said",
+      "think",
+      "germans",
+      "show",
+      "because",
+      "proud",
+      "little"
+    ]
   }
 }

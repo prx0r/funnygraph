@@ -247,5 +247,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9560,
+    "profanity_rate": 0.0106,
+    "question_rate": 0.101,
+    "i_rate": 0.033,
+    "vocab_div": 0.209,
+    "avg_sent_len": 11.7,
+    "top_words": [
+      "fucking",
+      "love",
+      "jesus",
+      "thank",
+      "please",
+      "these",
+      "song",
+      "want",
+      "shit",
+      "something",
+      "some",
+      "make"
+    ]
   }
 }

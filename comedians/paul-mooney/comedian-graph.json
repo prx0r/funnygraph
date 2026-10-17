@@ -287,5 +287,27 @@
         "split_knowledge"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 11429,
+    "profanity_rate": 0.0192,
+    "question_rate": 0.117,
+    "i_rate": 0.031,
+    "vocab_div": 0.137,
+    "avg_sent_len": 7.4,
+    "top_words": [
+      "white",
+      "black",
+      "shit",
+      "folks",
+      "little",
+      "damn",
+      "some",
+      "cause",
+      "said",
+      "want",
+      "come",
+      "went"
+    ]
+  }
 }

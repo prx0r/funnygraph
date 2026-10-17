@@ -372,5 +372,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Fast escalation into panic. The panic is the timing device \u2014 the room rides the escalation, the punch is the landing."
+  },
+  "style": {
+    "words": 49488,
+    "profanity_rate": 0.0058,
+    "question_rate": 0.24,
+    "i_rate": 0.041,
+    "vocab_div": 0.078,
+    "avg_sent_len": 11.0,
+    "top_words": [
+      "people",
+      "some",
+      "cause",
+      "time",
+      "think",
+      "thing",
+      "shit",
+      "okay",
+      "thank",
+      "these",
+      "little",
+      "back"
+    ]
   }
 }

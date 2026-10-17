@@ -271,5 +271,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11158,
+    "profanity_rate": 0.004,
+    "question_rate": 0.17,
+    "i_rate": 0.072,
+    "vocab_div": 0.15,
+    "avg_sent_len": 14.5,
+    "top_words": [
+      "said",
+      "people",
+      "down",
+      "back",
+      "time",
+      "didn",
+      "okay",
+      "never",
+      "want",
+      "think",
+      "cause",
+      "little"
+    ]
   }
 }

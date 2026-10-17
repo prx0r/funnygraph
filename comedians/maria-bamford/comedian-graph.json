@@ -394,5 +394,27 @@
       "surreal": 0.09
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 35626,
+    "profanity_rate": 0.0022,
+    "question_rate": 0.148,
+    "i_rate": 0.049,
+    "vocab_div": 0.08,
+    "avg_sent_len": 11.4,
+    "top_words": [
+      "said",
+      "voice",
+      "okay",
+      "love",
+      "imitating",
+      "good",
+      "normal",
+      "want",
+      "people",
+      "cause",
+      "because",
+      "something"
+    ]
   }
 }

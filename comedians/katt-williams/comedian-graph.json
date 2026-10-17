@@ -306,5 +306,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 21416,
+    "profanity_rate": 0.0205,
+    "question_rate": 0.108,
+    "i_rate": 0.038,
+    "vocab_div": 0.103,
+    "avg_sent_len": 9.9,
+    "top_words": [
+      "shit",
+      "some",
+      "fuck",
+      "people",
+      "audience",
+      "time",
+      "laughing",
+      "make",
+      "want",
+      "bitch",
+      "good",
+      "cause"
+    ]
+  }
 }

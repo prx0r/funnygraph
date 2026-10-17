@@ -253,5 +253,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11183,
+    "profanity_rate": 0.0041,
+    "question_rate": 0.194,
+    "i_rate": 0.054,
+    "vocab_div": 0.159,
+    "avg_sent_len": 8.9,
+    "top_words": [
+      "laughter",
+      "want",
+      "love",
+      "hasan",
+      "time",
+      "applause",
+      "life",
+      "back",
+      "people",
+      "down",
+      "never",
+      "because"
+    ]
   }
 }

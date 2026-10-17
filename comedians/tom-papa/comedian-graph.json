@@ -318,5 +318,27 @@
         "incongruity"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 37007,
+    "profanity_rate": 0.002,
+    "question_rate": 0.154,
+    "i_rate": 0.031,
+    "vocab_div": 0.099,
+    "avg_sent_len": 8.7,
+    "top_words": [
+      "people",
+      "look",
+      "good",
+      "time",
+      "want",
+      "their",
+      "think",
+      "little",
+      "other",
+      "even",
+      "back",
+      "life"
+    ]
+  }
 }

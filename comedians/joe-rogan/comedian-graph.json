@@ -266,5 +266,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 20894,
+    "profanity_rate": 0.0117,
+    "question_rate": 0.165,
+    "i_rate": 0.027,
+    "vocab_div": 0.115,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "laughter",
+      "people",
+      "shit",
+      "fucking",
+      "cking",
+      "think",
+      "some",
+      "fuck",
+      "cause",
+      "want",
+      "make",
+      "time"
+    ]
   }
 }

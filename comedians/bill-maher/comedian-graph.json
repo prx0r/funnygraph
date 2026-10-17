@@ -320,5 +320,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "New-Rules cadence: setup, beat, verdict. The smugness is the metronome \u2014 the room knows the kill is coming and leans in anyway."
+  },
+  "style": {
+    "words": 16492,
+    "profanity_rate": 0.0051,
+    "question_rate": 0.129,
+    "i_rate": 0.034,
+    "vocab_div": 0.152,
+    "avg_sent_len": 11.8,
+    "top_words": [
+      "people",
+      "applause",
+      "mean",
+      "laughter",
+      "because",
+      "think",
+      "said",
+      "trump",
+      "always",
+      "their",
+      "well",
+      "never"
+    ]
   }
 }

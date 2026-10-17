@@ -256,5 +256,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 7559,
+    "profanity_rate": 0.0083,
+    "question_rate": 0.238,
+    "i_rate": 0.058,
+    "vocab_div": 0.155,
+    "avg_sent_len": 9.2,
+    "top_words": [
+      "because",
+      "people",
+      "love",
+      "guys",
+      "shit",
+      "think",
+      "life",
+      "every",
+      "never",
+      "didn",
+      "tell",
+      "back"
+    ]
   }
 }

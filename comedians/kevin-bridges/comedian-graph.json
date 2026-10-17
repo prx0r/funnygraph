@@ -288,5 +288,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 27816,
+    "profanity_rate": 0.0098,
+    "question_rate": 0.188,
+    "i_rate": 0.037,
+    "vocab_div": 0.131,
+    "avg_sent_len": 10.6,
+    "top_words": [
+      "fucking",
+      "said",
+      "people",
+      "mate",
+      "shite",
+      "these",
+      "good",
+      "never",
+      "fuckin",
+      "fuck",
+      "some",
+      "need"
+    ]
   }
 }

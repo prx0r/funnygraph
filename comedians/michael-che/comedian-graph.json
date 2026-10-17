@@ -370,5 +370,27 @@
       "observational": 0.07
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 8286,
+    "profanity_rate": 0.0183,
+    "question_rate": 0.259,
+    "i_rate": 0.056,
+    "vocab_div": 0.143,
+    "avg_sent_len": 9.0,
+    "top_words": [
+      "shit",
+      "white",
+      "fuck",
+      "think",
+      "because",
+      "people",
+      "black",
+      "never",
+      "some",
+      "jesus",
+      "women",
+      "feel"
+    ]
   }
 }

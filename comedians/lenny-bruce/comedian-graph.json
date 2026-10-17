@@ -380,5 +380,27 @@
       "roast": 0.13
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 25964,
+    "profanity_rate": 0.0055,
+    "question_rate": 0.155,
+    "i_rate": 0.026,
+    "vocab_div": 0.074,
+    "avg_sent_len": 17.0,
+    "top_words": [
+      "people",
+      "because",
+      "time",
+      "good",
+      "guys",
+      "some",
+      "said",
+      "think",
+      "well",
+      "bullshit",
+      "cause",
+      "always"
+    ]
   }
 }

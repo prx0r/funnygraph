@@ -253,5 +253,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 7905,
+    "profanity_rate": 0.0001,
+    "question_rate": 0.178,
+    "i_rate": 0.035,
+    "vocab_div": 0.165,
+    "avg_sent_len": 8.9,
+    "top_words": [
+      "kind",
+      "sort",
+      "drum",
+      "want",
+      "plays",
+      "little",
+      "music",
+      "ever",
+      "band",
+      "line",
+      "thing",
+      "people"
+    ]
   }
 }

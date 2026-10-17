@@ -239,5 +239,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10376,
+    "profanity_rate": 0.009,
+    "question_rate": 0.171,
+    "i_rate": 0.032,
+    "vocab_div": 0.152,
+    "avg_sent_len": 8.1,
+    "top_words": [
+      "went",
+      "think",
+      "said",
+      "love",
+      "cause",
+      "fucking",
+      "never",
+      "look",
+      "fuck",
+      "people",
+      "thing",
+      "thank"
+    ]
   }
 }

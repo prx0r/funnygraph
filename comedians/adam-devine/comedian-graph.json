@@ -248,5 +248,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9243,
+    "profanity_rate": 0.0148,
+    "question_rate": 0.26,
+    "i_rate": 0.042,
+    "vocab_div": 0.153,
+    "avg_sent_len": 11.7,
+    "top_words": [
+      "laughter",
+      "guys",
+      "fuck",
+      "cause",
+      "time",
+      "cheering",
+      "shit",
+      "didn",
+      "some",
+      "good",
+      "little",
+      "cool"
+    ]
   }
 }

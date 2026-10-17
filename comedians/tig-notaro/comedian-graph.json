@@ -272,5 +272,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 4999,
+    "profanity_rate": 0.0004,
+    "question_rate": 0.186,
+    "i_rate": 0.056,
+    "vocab_div": 0.185,
+    "avg_sent_len": 14.0,
+    "top_words": [
+      "audience",
+      "said",
+      "back",
+      "laughs",
+      "laughing",
+      "thank",
+      "down",
+      "person",
+      "santa",
+      "little",
+      "show",
+      "time"
+    ]
+  }
 }

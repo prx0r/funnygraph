@@ -253,5 +253,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 7008,
+    "profanity_rate": 0.0391,
+    "question_rate": 0.191,
+    "i_rate": 0.025,
+    "vocab_div": 0.161,
+    "avg_sent_len": 9.0,
+    "top_words": [
+      "fucking",
+      "audience",
+      "fuck",
+      "laughs",
+      "love",
+      "people",
+      "shit",
+      "want",
+      "said",
+      "cheering",
+      "come",
+      "back"
+    ]
   }
 }

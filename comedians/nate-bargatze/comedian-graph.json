@@ -464,5 +464,27 @@
       "observational": 0.08
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 61152,
+    "profanity_rate": 0.0,
+    "question_rate": 0.233,
+    "i_rate": 0.057,
+    "vocab_div": 0.036,
+    "avg_sent_len": 13.8,
+    "top_words": [
+      "think",
+      "goes",
+      "mean",
+      "people",
+      "doing",
+      "back",
+      "good",
+      "didn",
+      "time",
+      "want",
+      "down",
+      "even"
+    ]
   }
 }

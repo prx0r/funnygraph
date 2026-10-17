@@ -266,5 +266,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 18292,
+    "profanity_rate": 0.02,
+    "question_rate": 0.192,
+    "i_rate": 0.033,
+    "vocab_div": 0.136,
+    "avg_sent_len": 13.3,
+    "top_words": [
+      "audience",
+      "shit",
+      "laughter",
+      "fuck",
+      "people",
+      "black",
+      "hughley",
+      "woman",
+      "some",
+      "white",
+      "said",
+      "fucking"
+    ]
   }
 }

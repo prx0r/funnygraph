@@ -348,5 +348,27 @@
       "meta": 0.06
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 40750,
+    "profanity_rate": 0.0122,
+    "question_rate": 0.172,
+    "i_rate": 0.028,
+    "vocab_div": 0.151,
+    "avg_sent_len": 12.7,
+    "top_words": [
+      "fucking",
+      "people",
+      "cause",
+      "shit",
+      "come",
+      "fuck",
+      "because",
+      "some",
+      "sono",
+      "cazzo",
+      "want",
+      "time"
+    ]
   }
 }

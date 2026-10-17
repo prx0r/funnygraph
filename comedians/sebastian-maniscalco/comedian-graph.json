@@ -293,5 +293,27 @@
       "observational": 0.13
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 24006,
+    "profanity_rate": 0.0037,
+    "question_rate": 0.296,
+    "i_rate": 0.043,
+    "vocab_div": 0.106,
+    "avg_sent_len": 9.3,
+    "top_words": [
+      "laughter",
+      "people",
+      "come",
+      "okay",
+      "some",
+      "look",
+      "down",
+      "wife",
+      "doing",
+      "back",
+      "said",
+      "father"
+    ]
   }
 }

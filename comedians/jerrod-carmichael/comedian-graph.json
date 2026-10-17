@@ -279,5 +279,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 5492,
+    "profanity_rate": 0.0073,
+    "question_rate": 0.118,
+    "i_rate": 0.063,
+    "vocab_div": 0.172,
+    "avg_sent_len": 10.4,
+    "top_words": [
+      "because",
+      "think",
+      "name",
+      "love",
+      "feel",
+      "shit",
+      "didn",
+      "tell",
+      "people",
+      "said",
+      "time",
+      "brother"
+    ]
+  }
 }

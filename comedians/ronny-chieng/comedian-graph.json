@@ -253,5 +253,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9898,
+    "profanity_rate": 0.0071,
+    "question_rate": 0.195,
+    "i_rate": 0.027,
+    "vocab_div": 0.161,
+    "avg_sent_len": 9.8,
+    "top_words": [
+      "audience",
+      "laughs",
+      "people",
+      "okay",
+      "because",
+      "america",
+      "every",
+      "time",
+      "fuck",
+      "applauds",
+      "cheers",
+      "want"
+    ]
   }
 }

@@ -266,5 +266,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 24143,
+    "profanity_rate": 0.0046,
+    "question_rate": 0.199,
+    "i_rate": 0.065,
+    "vocab_div": 0.092,
+    "avg_sent_len": 13.9,
+    "top_words": [
+      "cause",
+      "want",
+      "good",
+      "love",
+      "think",
+      "guys",
+      "feel",
+      "dick",
+      "okay",
+      "didn",
+      "time",
+      "thing"
+    ]
   }
 }

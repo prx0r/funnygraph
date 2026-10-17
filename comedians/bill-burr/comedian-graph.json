@@ -597,5 +597,27 @@
       "roast": 0.05
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 161273,
+    "profanity_rate": 0.0122,
+    "question_rate": 0.282,
+    "i_rate": 0.04,
+    "vocab_div": 0.044,
+    "avg_sent_len": 10.2,
+    "top_words": [
+      "fucking",
+      "shit",
+      "down",
+      "fuckin",
+      "people",
+      "fuck",
+      "cking",
+      "thing",
+      "think",
+      "some",
+      "little",
+      "back"
+    ]
   }
 }

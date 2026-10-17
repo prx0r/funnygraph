@@ -239,5 +239,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9726,
+    "profanity_rate": 0.0024,
+    "question_rate": 0.222,
+    "i_rate": 0.05,
+    "vocab_div": 0.159,
+    "avg_sent_len": 11.5,
+    "top_words": [
+      "want",
+      "said",
+      "think",
+      "applause",
+      "guys",
+      "because",
+      "good",
+      "make",
+      "cause",
+      "didn",
+      "okay",
+      "denver"
+    ]
   }
 }

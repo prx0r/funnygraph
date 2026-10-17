@@ -239,5 +239,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9526,
+    "profanity_rate": 0.0023,
+    "question_rate": 0.163,
+    "i_rate": 0.039,
+    "vocab_div": 0.144,
+    "avg_sent_len": 17.5,
+    "top_words": [
+      "said",
+      "wife",
+      "because",
+      "think",
+      "people",
+      "back",
+      "thing",
+      "wedding",
+      "only",
+      "time",
+      "good",
+      "also"
+    ]
   }
 }

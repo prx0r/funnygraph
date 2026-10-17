@@ -262,5 +262,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11185,
+    "profanity_rate": 0.0069,
+    "question_rate": 0.128,
+    "i_rate": 0.047,
+    "vocab_div": 0.164,
+    "avg_sent_len": 12.4,
+    "top_words": [
+      "thing",
+      "think",
+      "trump",
+      "fucking",
+      "time",
+      "people",
+      "thank",
+      "okay",
+      "good",
+      "want",
+      "wife",
+      "down"
+    ]
   }
 }

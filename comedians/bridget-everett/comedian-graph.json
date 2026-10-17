@@ -250,5 +250,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 4750,
+    "profanity_rate": 0.0242,
+    "question_rate": 0.288,
+    "i_rate": 0.046,
+    "vocab_div": 0.167,
+    "avg_sent_len": 14.5,
+    "top_words": [
+      "fuck",
+      "come",
+      "little",
+      "said",
+      "bridget",
+      "bounce",
+      "titties",
+      "shit",
+      "baby",
+      "stay",
+      "fucking",
+      "everybody"
+    ]
   }
 }

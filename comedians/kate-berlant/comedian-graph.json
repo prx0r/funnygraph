@@ -257,5 +257,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 6802,
+    "profanity_rate": 0.0007,
+    "question_rate": 0.189,
+    "i_rate": 0.061,
+    "vocab_div": 0.175,
+    "avg_sent_len": 7.9,
+    "top_words": [
+      "okay",
+      "actually",
+      "want",
+      "feel",
+      "think",
+      "good",
+      "cause",
+      "kind",
+      "show",
+      "people",
+      "life",
+      "love"
+    ]
   }
 }

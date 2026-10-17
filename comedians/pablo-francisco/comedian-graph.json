@@ -254,5 +254,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 6922,
+    "profanity_rate": 0.0048,
+    "question_rate": 0.257,
+    "i_rate": 0.034,
+    "vocab_div": 0.183,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "come",
+      "want",
+      "some",
+      "okay",
+      "people",
+      "every",
+      "good",
+      "pablo",
+      "back",
+      "chinatown",
+      "william",
+      "hung"
+    ]
   }
 }

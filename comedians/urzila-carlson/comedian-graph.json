@@ -239,5 +239,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10612,
+    "profanity_rate": 0.008,
+    "question_rate": 0.15,
+    "i_rate": 0.032,
+    "vocab_div": 0.141,
+    "avg_sent_len": 15.9,
+    "top_words": [
+      "audience",
+      "laughs",
+      "cause",
+      "laughing",
+      "look",
+      "continues",
+      "people",
+      "fucking",
+      "want",
+      "those",
+      "chuckles",
+      "take"
+    ]
   }
 }

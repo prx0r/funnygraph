@@ -247,5 +247,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8063,
+    "profanity_rate": 0.0074,
+    "question_rate": 0.201,
+    "i_rate": 0.059,
+    "vocab_div": 0.14,
+    "avg_sent_len": 11.1,
+    "top_words": [
+      "think",
+      "because",
+      "thing",
+      "fuck",
+      "people",
+      "feel",
+      "something",
+      "even",
+      "shit",
+      "happen",
+      "whole",
+      "love"
+    ]
   }
 }

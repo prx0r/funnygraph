@@ -479,5 +479,27 @@
       "roast": 0.08
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 111208,
+    "profanity_rate": 0.0016,
+    "question_rate": 0.232,
+    "i_rate": 0.037,
+    "vocab_div": 0.046,
+    "avg_sent_len": 14.6,
+    "top_words": [
+      "laughter",
+      "said",
+      "people",
+      "because",
+      "think",
+      "kind",
+      "some",
+      "went",
+      "well",
+      "didn",
+      "down",
+      "thought"
+    ]
   }
 }

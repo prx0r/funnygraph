@@ -314,5 +314,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 31317,
+    "profanity_rate": 0.0065,
+    "question_rate": 0.222,
+    "i_rate": 0.057,
+    "vocab_div": 0.097,
+    "avg_sent_len": 10.0,
+    "top_words": [
+      "guys",
+      "okay",
+      "want",
+      "thank",
+      "people",
+      "think",
+      "cause",
+      "girl",
+      "fuck",
+      "look",
+      "good",
+      "love"
+    ]
   }
 }

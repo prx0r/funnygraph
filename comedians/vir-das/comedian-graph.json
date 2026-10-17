@@ -307,5 +307,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 16552,
+    "profanity_rate": 0.0063,
+    "question_rate": 0.208,
+    "i_rate": 0.039,
+    "vocab_div": 0.143,
+    "avg_sent_len": 9.2,
+    "top_words": [
+      "laughing",
+      "audience",
+      "shit",
+      "because",
+      "think",
+      "thing",
+      "guys",
+      "people",
+      "okay",
+      "time",
+      "indian",
+      "first"
+    ]
   }
 }

@@ -366,5 +366,27 @@
       "observational": 0.13
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 11239,
+    "profanity_rate": 0.0053,
+    "question_rate": 0.136,
+    "i_rate": 0.064,
+    "vocab_div": 0.137,
+    "avg_sent_len": 12.0,
+    "top_words": [
+      "think",
+      "guys",
+      "went",
+      "audience",
+      "doctor",
+      "shit",
+      "some",
+      "said",
+      "little",
+      "time",
+      "laughs",
+      "because"
+    ]
   }
 }

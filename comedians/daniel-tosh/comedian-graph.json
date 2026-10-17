@@ -287,5 +287,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 26273,
+    "profanity_rate": 0.0041,
+    "question_rate": 0.189,
+    "i_rate": 0.043,
+    "vocab_div": 0.129,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "because",
+      "people",
+      "joke",
+      "time",
+      "want",
+      "some",
+      "think",
+      "good",
+      "ever",
+      "love",
+      "applause",
+      "never"
+    ]
   }
 }

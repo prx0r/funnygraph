@@ -233,5 +233,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 5428,
+    "profanity_rate": 0.0007,
+    "question_rate": 0.086,
+    "i_rate": 0.055,
+    "vocab_div": 0.192,
+    "avg_sent_len": 19.1,
+    "top_words": [
+      "thing",
+      "think",
+      "want",
+      "because",
+      "back",
+      "time",
+      "life",
+      "never",
+      "something",
+      "kind",
+      "means",
+      "things"
+    ]
   }
 }

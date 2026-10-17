@@ -242,5 +242,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 15383,
+    "profanity_rate": 0.0014,
+    "question_rate": 0.138,
+    "i_rate": 0.065,
+    "vocab_div": 0.13,
+    "avg_sent_len": 14.4,
+    "top_words": [
+      "people",
+      "even",
+      "because",
+      "time",
+      "good",
+      "think",
+      "never",
+      "says",
+      "want",
+      "years",
+      "show",
+      "thing"
+    ]
   }
 }

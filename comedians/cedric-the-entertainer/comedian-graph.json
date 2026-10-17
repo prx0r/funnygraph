@@ -262,5 +262,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8877,
+    "profanity_rate": 0.0252,
+    "question_rate": 0.14,
+    "i_rate": 0.043,
+    "vocab_div": 0.144,
+    "avg_sent_len": 9.9,
+    "top_words": [
+      "shit",
+      "little",
+      "damn",
+      "some",
+      "come",
+      "goddamn",
+      "audience",
+      "everybody",
+      "motherfucker",
+      "down",
+      "give",
+      "cause"
+    ]
   }
 }

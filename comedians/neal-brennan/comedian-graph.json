@@ -312,5 +312,27 @@
       "character": 0.1
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 27978,
+    "profanity_rate": 0.0059,
+    "question_rate": 0.214,
+    "i_rate": 0.042,
+    "vocab_div": 0.115,
+    "avg_sent_len": 13.2,
+    "top_words": [
+      "laughter",
+      "audience",
+      "people",
+      "applause",
+      "think",
+      "white",
+      "women",
+      "cause",
+      "shit",
+      "guys",
+      "thing",
+      "black"
+    ]
   }
 }

@@ -247,5 +247,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8449,
+    "profanity_rate": 0.0149,
+    "question_rate": 0.195,
+    "i_rate": 0.048,
+    "vocab_div": 0.188,
+    "avg_sent_len": 10.4,
+    "top_words": [
+      "fucking",
+      "freakin",
+      "cause",
+      "little",
+      "people",
+      "okay",
+      "thing",
+      "bitch",
+      "even",
+      "come",
+      "said",
+      "fuck"
+    ]
   }
 }

@@ -754,5 +754,27 @@
       "one-liner": 0.1
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 52376,
+    "profanity_rate": 0.0034,
+    "question_rate": 0.282,
+    "i_rate": 0.051,
+    "vocab_div": 0.05,
+    "avg_sent_len": 11.7,
+    "top_words": [
+      "think",
+      "because",
+      "people",
+      "good",
+      "time",
+      "ever",
+      "tell",
+      "something",
+      "thing",
+      "said",
+      "some",
+      "want"
+    ]
   }
 }

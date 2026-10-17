@@ -245,5 +245,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8170,
+    "profanity_rate": 0.012,
+    "question_rate": 0.194,
+    "i_rate": 0.041,
+    "vocab_div": 0.209,
+    "avg_sent_len": 10.0,
+    "top_words": [
+      "audience",
+      "laughs",
+      "cheers",
+      "fucking",
+      "okay",
+      "shit",
+      "continues",
+      "applauds",
+      "back",
+      "come",
+      "cheering",
+      "time"
+    ]
   }
 }

@@ -262,5 +262,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8098,
+    "profanity_rate": 0.0032,
+    "question_rate": 0.205,
+    "i_rate": 0.041,
+    "vocab_div": 0.194,
+    "avg_sent_len": 10.0,
+    "top_words": [
+      "little",
+      "okay",
+      "cause",
+      "well",
+      "said",
+      "look",
+      "love",
+      "come",
+      "their",
+      "make",
+      "time",
+      "mean"
+    ]
   }
 }

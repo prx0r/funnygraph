@@ -256,5 +256,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10878,
+    "profanity_rate": 0.0236,
+    "question_rate": 0.196,
+    "i_rate": 0.056,
+    "vocab_div": 0.128,
+    "avg_sent_len": 9.2,
+    "top_words": [
+      "shit",
+      "said",
+      "black",
+      "want",
+      "people",
+      "fuck",
+      "crazy",
+      "bitch",
+      "because",
+      "look",
+      "audience",
+      "police"
+    ]
   }
 }

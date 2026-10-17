@@ -278,5 +278,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 23881,
+    "profanity_rate": 0.0206,
+    "question_rate": 0.198,
+    "i_rate": 0.045,
+    "vocab_div": 0.083,
+    "avg_sent_len": 8.9,
+    "top_words": [
+      "laughter",
+      "shit",
+      "fuck",
+      "fucking",
+      "want",
+      "time",
+      "look",
+      "come",
+      "josep",
+      "because",
+      "dick",
+      "back"
+    ]
   }
 }

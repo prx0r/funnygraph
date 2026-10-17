@@ -240,5 +240,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 13110,
+    "profanity_rate": 0.0076,
+    "question_rate": 0.206,
+    "i_rate": 0.033,
+    "vocab_div": 0.178,
+    "avg_sent_len": 13.3,
+    "top_words": [
+      "fucking",
+      "gandhi",
+      "jesus",
+      "well",
+      "think",
+      "people",
+      "because",
+      "little",
+      "these",
+      "want",
+      "someone",
+      "their"
+    ]
   }
 }

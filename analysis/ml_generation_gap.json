@@ -1,0 +1,51 @@
+[
+ {
+  "generation": "pioneers",
+  "n": 3,
+  "profanity": 0.0031,
+  "questions": 0.175,
+  "sent_len": 13.9
+ },
+ {
+  "generation": "seventies",
+  "n": 4,
+  "profanity": 0.0158,
+  "questions": 0.168,
+  "sent_len": 10.9
+ },
+ {
+  "generation": "eighties-boom",
+  "n": 14,
+  "profanity": 0.0132,
+  "questions": 0.18,
+  "sent_len": 11.6
+ },
+ {
+  "generation": "nineties",
+  "n": 45,
+  "profanity": 0.0102,
+  "questions": 0.183,
+  "sent_len": 10.8
+ },
+ {
+  "generation": "aughts",
+  "n": 47,
+  "profanity": 0.0062,
+  "questions": 0.195,
+  "sent_len": 11.6
+ },
+ {
+  "generation": "tens",
+  "n": 35,
+  "profanity": 0.0074,
+  "questions": 0.194,
+  "sent_len": 11.1
+ },
+ {
+  "generation": "twenties",
+  "n": 1,
+  "profanity": 0.004,
+  "questions": 0.145,
+  "sent_len": 7.1
+ }
+]

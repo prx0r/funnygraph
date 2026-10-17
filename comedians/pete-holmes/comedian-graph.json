@@ -253,5 +253,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8057,
+    "profanity_rate": 0.0094,
+    "question_rate": 0.174,
+    "i_rate": 0.039,
+    "vocab_div": 0.159,
+    "avg_sent_len": 11.1,
+    "top_words": [
+      "laughter",
+      "baby",
+      "fucking",
+      "think",
+      "applause",
+      "cheers",
+      "some",
+      "sense",
+      "little",
+      "fuck",
+      "make",
+      "makes"
+    ]
   }
 }

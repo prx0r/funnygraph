@@ -239,5 +239,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8446,
+    "profanity_rate": 0.0025,
+    "question_rate": 0.233,
+    "i_rate": 0.048,
+    "vocab_div": 0.18,
+    "avg_sent_len": 11.1,
+    "top_words": [
+      "laughter",
+      "want",
+      "people",
+      "good",
+      "make",
+      "todd",
+      "time",
+      "think",
+      "never",
+      "some",
+      "said",
+      "coffee"
+    ]
   }
 }

@@ -233,5 +233,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10351,
+    "profanity_rate": 0.0076,
+    "question_rate": 0.23,
+    "i_rate": 0.058,
+    "vocab_div": 0.135,
+    "avg_sent_len": 12.5,
+    "top_words": [
+      "people",
+      "think",
+      "fuck",
+      "good",
+      "didn",
+      "want",
+      "blah",
+      "something",
+      "said",
+      "look",
+      "their",
+      "talk"
+    ]
   }
 }

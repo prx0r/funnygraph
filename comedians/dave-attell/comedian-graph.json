@@ -253,5 +253,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 6751,
+    "profanity_rate": 0.0036,
+    "question_rate": 0.225,
+    "i_rate": 0.037,
+    "vocab_div": 0.184,
+    "avg_sent_len": 7.3,
+    "top_words": [
+      "laughter",
+      "guys",
+      "little",
+      "okay",
+      "cause",
+      "applause",
+      "look",
+      "good",
+      "think",
+      "back",
+      "come",
+      "cheers"
+    ]
   }
 }

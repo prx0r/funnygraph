@@ -256,5 +256,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9193,
+    "profanity_rate": 0.0024,
+    "question_rate": 0.144,
+    "i_rate": 0.031,
+    "vocab_div": 0.179,
+    "avg_sent_len": 13.0,
+    "top_words": [
+      "laughter",
+      "applause",
+      "cheers",
+      "make",
+      "because",
+      "show",
+      "look",
+      "beep",
+      "people",
+      "time",
+      "only",
+      "even"
+    ]
   }
 }

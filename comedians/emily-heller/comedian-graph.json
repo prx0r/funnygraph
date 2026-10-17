@@ -247,5 +247,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8710,
+    "profanity_rate": 0.0024,
+    "question_rate": 0.162,
+    "i_rate": 0.06,
+    "vocab_div": 0.155,
+    "avg_sent_len": 13.6,
+    "top_words": [
+      "audience",
+      "laughing",
+      "people",
+      "think",
+      "because",
+      "okay",
+      "good",
+      "cheering",
+      "guys",
+      "want",
+      "feel",
+      "being"
+    ]
   }
 }

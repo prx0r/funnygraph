@@ -334,5 +334,27 @@
       "absurdist": 0.06
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 21760,
+    "profanity_rate": 0.0096,
+    "question_rate": 0.182,
+    "i_rate": 0.047,
+    "vocab_div": 0.079,
+    "avg_sent_len": 10.3,
+    "top_words": [
+      "shit",
+      "audience",
+      "laughing",
+      "people",
+      "some",
+      "hannibal",
+      "baby",
+      "cause",
+      "time",
+      "down",
+      "didn",
+      "think"
+    ]
   }
 }

@@ -260,5 +260,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8975,
+    "profanity_rate": 0.0059,
+    "question_rate": 0.187,
+    "i_rate": 0.069,
+    "vocab_div": 0.166,
+    "avg_sent_len": 17.0,
+    "top_words": [
+      "look",
+      "audience",
+      "laughs",
+      "want",
+      "take",
+      "think",
+      "because",
+      "love",
+      "money",
+      "thank",
+      "time",
+      "events"
+    ]
   }
 }

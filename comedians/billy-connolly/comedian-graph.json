@@ -315,5 +315,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Banjaxed anecdote build with musical timing \u2014 long shaggy setups, grace-note punchlines. The accent carries the room; the warmth does the rest."
+  },
+  "style": {
+    "words": 13113,
+    "profanity_rate": 0.0092,
+    "question_rate": 0.195,
+    "i_rate": 0.045,
+    "vocab_div": 0.158,
+    "avg_sent_len": 15.4,
+    "top_words": [
+      "said",
+      "says",
+      "well",
+      "fucking",
+      "fuck",
+      "think",
+      "back",
+      "went",
+      "people",
+      "doing",
+      "down",
+      "those"
+    ]
   }
 }

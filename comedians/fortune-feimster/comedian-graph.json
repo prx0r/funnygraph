@@ -261,5 +261,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8654,
+    "profanity_rate": 0.0012,
+    "question_rate": 0.118,
+    "i_rate": 0.048,
+    "vocab_div": 0.175,
+    "avg_sent_len": 12.7,
+    "top_words": [
+      "laughter",
+      "cheering",
+      "said",
+      "applause",
+      "good",
+      "want",
+      "think",
+      "look",
+      "these",
+      "cause",
+      "down",
+      "back"
+    ]
   }
 }

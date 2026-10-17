@@ -253,5 +253,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11879,
+    "profanity_rate": 0.0269,
+    "question_rate": 0.184,
+    "i_rate": 0.04,
+    "vocab_div": 0.148,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "fucking",
+      "fuck",
+      "shit",
+      "okay",
+      "people",
+      "some",
+      "cause",
+      "damn",
+      "time",
+      "little",
+      "guys",
+      "didn"
+    ]
   }
 }

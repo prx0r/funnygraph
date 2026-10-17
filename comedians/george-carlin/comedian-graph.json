@@ -804,5 +804,27 @@
       "absurdist": 0.12
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 262010,
+    "profanity_rate": 0.0096,
+    "question_rate": 0.164,
+    "i_rate": 0.021,
+    "vocab_div": 0.051,
+    "avg_sent_len": 11.0,
+    "top_words": [
+      "people",
+      "little",
+      "these",
+      "time",
+      "some",
+      "well",
+      "think",
+      "shit",
+      "fuck",
+      "fucking",
+      "want",
+      "their"
+    ]
   }
 }

@@ -339,5 +339,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 27604,
+    "profanity_rate": 0.0077,
+    "question_rate": 0.148,
+    "i_rate": 0.041,
+    "vocab_div": 0.118,
+    "avg_sent_len": 10.8,
+    "top_words": [
+      "audience",
+      "laughing",
+      "okay",
+      "fuck",
+      "fucking",
+      "little",
+      "laughs",
+      "look",
+      "shit",
+      "thank",
+      "some",
+      "people"
+    ]
+  }
 }

@@ -240,5 +240,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 7019,
+    "profanity_rate": 0.0028,
+    "question_rate": 0.16,
+    "i_rate": 0.034,
+    "vocab_div": 0.184,
+    "avg_sent_len": 8.3,
+    "top_words": [
+      "said",
+      "dani",
+      "kiss",
+      "class",
+      "first",
+      "came",
+      "come",
+      "down",
+      "want",
+      "night",
+      "lebanese",
+      "other"
+    ]
   }
 }

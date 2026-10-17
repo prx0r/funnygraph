@@ -233,5 +233,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 6617,
+    "profanity_rate": 0.0,
+    "question_rate": 0.105,
+    "i_rate": 0.043,
+    "vocab_div": 0.179,
+    "avg_sent_len": 26.5,
+    "top_words": [
+      "said",
+      "think",
+      "wife",
+      "time",
+      "kids",
+      "want",
+      "even",
+      "back",
+      "because",
+      "people",
+      "home",
+      "life"
+    ]
   }
 }

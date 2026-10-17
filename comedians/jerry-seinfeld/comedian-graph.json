@@ -454,5 +454,27 @@
       "absurdist": 0.08
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 35564,
+    "profanity_rate": 0.0019,
+    "question_rate": 0.23,
+    "i_rate": 0.037,
+    "vocab_div": 0.07,
+    "avg_sent_len": 12.3,
+    "top_words": [
+      "think",
+      "people",
+      "little",
+      "thing",
+      "life",
+      "back",
+      "some",
+      "always",
+      "their",
+      "these",
+      "good",
+      "down"
+    ]
   }
 }

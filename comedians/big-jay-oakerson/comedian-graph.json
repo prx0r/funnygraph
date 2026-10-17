@@ -249,5 +249,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10714,
+    "profanity_rate": 0.0171,
+    "question_rate": 0.22,
+    "i_rate": 0.038,
+    "vocab_div": 0.147,
+    "avg_sent_len": 8.8,
+    "top_words": [
+      "dick",
+      "shit",
+      "some",
+      "girl",
+      "never",
+      "good",
+      "even",
+      "fucking",
+      "black",
+      "something",
+      "girls",
+      "because"
+    ]
   }
 }

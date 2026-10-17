@@ -266,5 +266,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 17254,
+    "profanity_rate": 0.0072,
+    "question_rate": 0.271,
+    "i_rate": 0.061,
+    "vocab_div": 0.1,
+    "avg_sent_len": 11.5,
+    "top_words": [
+      "bleep",
+      "cause",
+      "didn",
+      "thing",
+      "okay",
+      "goes",
+      "people",
+      "never",
+      "time",
+      "fuck",
+      "think",
+      "fuckin"
+    ]
   }
 }

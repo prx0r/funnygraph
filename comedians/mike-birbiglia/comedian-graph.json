@@ -306,5 +306,27 @@
       "character": 0.09
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 32691,
+    "profanity_rate": 0.0015,
+    "question_rate": 0.14,
+    "i_rate": 0.062,
+    "vocab_div": 0.103,
+    "avg_sent_len": 15.5,
+    "top_words": [
+      "said",
+      "think",
+      "says",
+      "people",
+      "cause",
+      "want",
+      "well",
+      "because",
+      "mean",
+      "didn",
+      "even",
+      "time"
+    ]
   }
 }

@@ -247,5 +247,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9112,
+    "profanity_rate": 0.0079,
+    "question_rate": 0.163,
+    "i_rate": 0.048,
+    "vocab_div": 0.153,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "asian",
+      "people",
+      "good",
+      "shit",
+      "because",
+      "guys",
+      "chinese",
+      "even",
+      "applause",
+      "jimmy",
+      "want",
+      "time"
+    ]
   }
 }

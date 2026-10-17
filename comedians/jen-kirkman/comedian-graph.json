@@ -253,5 +253,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 13373,
+    "profanity_rate": 0.0054,
+    "question_rate": 0.19,
+    "i_rate": 0.063,
+    "vocab_div": 0.116,
+    "avg_sent_len": 12.6,
+    "top_words": [
+      "didn",
+      "people",
+      "because",
+      "nice",
+      "think",
+      "said",
+      "goes",
+      "tits",
+      "thing",
+      "love",
+      "thank",
+      "story"
+    ]
   }
 }

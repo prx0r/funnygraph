@@ -250,5 +250,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11568,
+    "profanity_rate": 0.0053,
+    "question_rate": 0.241,
+    "i_rate": 0.05,
+    "vocab_div": 0.159,
+    "avg_sent_len": 13.1,
+    "top_words": [
+      "want",
+      "guys",
+      "feel",
+      "their",
+      "people",
+      "always",
+      "okay",
+      "little",
+      "audience",
+      "kind",
+      "time",
+      "cause"
+    ]
   }
 }

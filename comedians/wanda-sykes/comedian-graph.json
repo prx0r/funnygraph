@@ -274,5 +274,27 @@
         "status_reversal"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 7061,
+    "profanity_rate": 0.0129,
+    "question_rate": 0.189,
+    "i_rate": 0.044,
+    "vocab_div": 0.17,
+    "avg_sent_len": 8.4,
+    "top_words": [
+      "black",
+      "shit",
+      "white",
+      "people",
+      "some",
+      "trump",
+      "fuck",
+      "come",
+      "because",
+      "want",
+      "vicks",
+      "okay"
+    ]
+  }
 }

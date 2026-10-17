@@ -280,5 +280,27 @@
         "status_reversal"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 5381,
+    "profanity_rate": 0.0048,
+    "question_rate": 0.104,
+    "i_rate": 0.038,
+    "vocab_div": 0.212,
+    "avg_sent_len": 13.2,
+    "top_words": [
+      "expletive",
+      "applause",
+      "people",
+      "time",
+      "laughter",
+      "because",
+      "every",
+      "said",
+      "think",
+      "mental",
+      "mistake",
+      "believe"
+    ]
+  }
 }

@@ -392,5 +392,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 69254,
+    "profanity_rate": 0.0057,
+    "question_rate": 0.184,
+    "i_rate": 0.033,
+    "vocab_div": 0.085,
+    "avg_sent_len": 10.1,
+    "top_words": [
+      "okay",
+      "want",
+      "women",
+      "because",
+      "girl",
+      "girls",
+      "look",
+      "cause",
+      "fucking",
+      "make",
+      "time",
+      "love"
+    ]
+  }
 }

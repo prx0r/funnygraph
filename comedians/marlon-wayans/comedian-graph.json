@@ -253,5 +253,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9645,
+    "profanity_rate": 0.0257,
+    "question_rate": 0.184,
+    "i_rate": 0.042,
+    "vocab_div": 0.152,
+    "avg_sent_len": 10.3,
+    "top_words": [
+      "shit",
+      "fucking",
+      "said",
+      "fuck",
+      "black",
+      "look",
+      "people",
+      "little",
+      "white",
+      "some",
+      "motherfucker",
+      "cause"
+    ]
   }
 }

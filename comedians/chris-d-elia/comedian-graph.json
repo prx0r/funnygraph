@@ -269,5 +269,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 22128,
+    "profanity_rate": 0.0145,
+    "question_rate": 0.27,
+    "i_rate": 0.043,
+    "vocab_div": 0.086,
+    "avg_sent_len": 9.9,
+    "top_words": [
+      "laughter",
+      "audience",
+      "laughing",
+      "fucking",
+      "fuck",
+      "okay",
+      "want",
+      "mean",
+      "love",
+      "laughs",
+      "even",
+      "shit"
+    ]
   }
 }

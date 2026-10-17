@@ -253,5 +253,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9256,
+    "profanity_rate": 0.0196,
+    "question_rate": 0.176,
+    "i_rate": 0.048,
+    "vocab_div": 0.154,
+    "avg_sent_len": 9.7,
+    "top_words": [
+      "shit",
+      "motherfucker",
+      "said",
+      "pussy",
+      "look",
+      "fucking",
+      "cause",
+      "fuck",
+      "some",
+      "people",
+      "phone",
+      "didn"
+    ]
   }
 }

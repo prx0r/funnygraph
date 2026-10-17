@@ -257,5 +257,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8585,
+    "profanity_rate": 0.0316,
+    "question_rate": 0.148,
+    "i_rate": 0.031,
+    "vocab_div": 0.14,
+    "avg_sent_len": 10.7,
+    "top_words": [
+      "crowd",
+      "laughing",
+      "shit",
+      "motherfucker",
+      "bitch",
+      "fuck",
+      "some",
+      "cheering",
+      "women",
+      "continues",
+      "clapping",
+      "time"
+    ]
   }
 }

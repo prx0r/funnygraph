@@ -325,5 +325,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Setup in narrator voice, detonation in character voice. The switch IS the timing \u2014 the room braces for the accent and it still lands."
+  },
+  "style": {
+    "words": 32651,
+    "profanity_rate": 0.0086,
+    "question_rate": 0.254,
+    "i_rate": 0.048,
+    "vocab_div": 0.08,
+    "avg_sent_len": 8.6,
+    "top_words": [
+      "people",
+      "indian",
+      "goes",
+      "white",
+      "because",
+      "mean",
+      "name",
+      "good",
+      "said",
+      "shit",
+      "want",
+      "look"
+    ]
   }
 }

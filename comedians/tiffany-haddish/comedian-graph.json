@@ -239,5 +239,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8712,
+    "profanity_rate": 0.0132,
+    "question_rate": 0.172,
+    "i_rate": 0.055,
+    "vocab_div": 0.142,
+    "avg_sent_len": 10.3,
+    "top_words": [
+      "laughter",
+      "audience",
+      "laughing",
+      "laughs",
+      "clapping",
+      "said",
+      "cheering",
+      "whoos",
+      "tiffany",
+      "haddish",
+      "shit",
+      "continued"
+    ]
   }
 }

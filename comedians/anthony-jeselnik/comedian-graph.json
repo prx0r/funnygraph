@@ -299,5 +299,27 @@
       "storytelling": 0.08
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 18831,
+    "profanity_rate": 0.0051,
+    "question_rate": 0.151,
+    "i_rate": 0.053,
+    "vocab_div": 0.107,
+    "avg_sent_len": 10.2,
+    "top_words": [
+      "laughter",
+      "said",
+      "anthony",
+      "guys",
+      "joke",
+      "time",
+      "think",
+      "people",
+      "baby",
+      "ever",
+      "never",
+      "great"
+    ]
   }
 }

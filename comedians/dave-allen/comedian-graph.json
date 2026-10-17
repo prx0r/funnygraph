@@ -251,5 +251,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 805,
+    "profanity_rate": 0.0,
+    "question_rate": 0.261,
+    "i_rate": 0.04,
+    "vocab_div": 0.317,
+    "avg_sent_len": 6.4,
+    "top_words": [
+      "little",
+      "love",
+      "hole",
+      "mommy",
+      "daddy",
+      "father",
+      "first",
+      "years",
+      "holy",
+      "ghost",
+      "myself",
+      "died"
+    ]
   }
 }

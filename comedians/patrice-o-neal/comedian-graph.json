@@ -308,5 +308,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10863,
+    "profanity_rate": 0.0051,
+    "question_rate": 0.238,
+    "i_rate": 0.046,
+    "vocab_div": 0.133,
+    "avg_sent_len": 10.2,
+    "top_words": [
+      "look",
+      "cause",
+      "woman",
+      "love",
+      "want",
+      "white",
+      "think",
+      "women",
+      "face",
+      "good",
+      "come",
+      "girl"
+    ]
   }
 }

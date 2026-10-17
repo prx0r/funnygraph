@@ -310,5 +310,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 8139,
+    "profanity_rate": 0.0011,
+    "question_rate": 0.155,
+    "i_rate": 0.037,
+    "vocab_div": 0.179,
+    "avg_sent_len": 22.7,
+    "top_words": [
+      "laughter",
+      "wife",
+      "time",
+      "because",
+      "people",
+      "think",
+      "women",
+      "back",
+      "somebody",
+      "look",
+      "well",
+      "said"
+    ]
   }
 }

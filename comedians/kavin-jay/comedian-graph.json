@@ -244,5 +244,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 7320,
+    "profanity_rate": 0.0036,
+    "question_rate": 0.239,
+    "i_rate": 0.056,
+    "vocab_div": 0.144,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "because",
+      "thing",
+      "said",
+      "time",
+      "malaysia",
+      "singapore",
+      "people",
+      "look",
+      "looked",
+      "some",
+      "guys",
+      "years"
+    ]
   }
 }

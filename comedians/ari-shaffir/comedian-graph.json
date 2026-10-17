@@ -256,5 +256,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 15363,
+    "profanity_rate": 0.0093,
+    "question_rate": 0.202,
+    "i_rate": 0.05,
+    "vocab_div": 0.118,
+    "avg_sent_len": 8.6,
+    "top_words": [
+      "audience",
+      "guys",
+      "goes",
+      "fucking",
+      "fuck",
+      "time",
+      "think",
+      "want",
+      "good",
+      "back",
+      "laughs",
+      "didn"
+    ]
   }
 }

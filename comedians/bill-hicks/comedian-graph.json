@@ -483,5 +483,27 @@
       "roast": 0.08
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 54260,
+    "profanity_rate": 0.0144,
+    "question_rate": 0.211,
+    "i_rate": 0.034,
+    "vocab_div": 0.068,
+    "avg_sent_len": 11.1,
+    "top_words": [
+      "fucking",
+      "people",
+      "think",
+      "little",
+      "bill",
+      "good",
+      "fuck",
+      "mean",
+      "every",
+      "back",
+      "life",
+      "come"
+    ]
   }
 }

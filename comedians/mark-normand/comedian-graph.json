@@ -367,5 +367,27 @@
       "observational": 0.09
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 19483,
+    "profanity_rate": 0.0045,
+    "question_rate": 0.261,
+    "i_rate": 0.047,
+    "vocab_div": 0.077,
+    "avg_sent_len": 8.3,
+    "top_words": [
+      "laughter",
+      "well",
+      "people",
+      "want",
+      "come",
+      "good",
+      "guys",
+      "time",
+      "some",
+      "goes",
+      "applause",
+      "love"
+    ]
   }
 }

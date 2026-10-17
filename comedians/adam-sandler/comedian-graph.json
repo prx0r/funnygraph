@@ -309,5 +309,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Goat-boy voices at full commitment, songs as emotional crescendos. The silliness never winks \u2014 that's why it lands and why it lasts."
+  },
+  "style": {
+    "words": 10598,
+    "profanity_rate": 0.0211,
+    "question_rate": 0.173,
+    "i_rate": 0.047,
+    "vocab_div": 0.146,
+    "avg_sent_len": 18.5,
+    "top_words": [
+      "laughter",
+      "fucking",
+      "phone",
+      "fuck",
+      "okay",
+      "applause",
+      "shit",
+      "cheering",
+      "slow",
+      "ears",
+      "cheers",
+      "good"
+    ]
   }
 }

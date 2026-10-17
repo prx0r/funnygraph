@@ -411,5 +411,27 @@
       "observational": 0.17
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 40966,
+    "profanity_rate": 0.0032,
+    "question_rate": 0.255,
+    "i_rate": 0.053,
+    "vocab_div": 0.058,
+    "avg_sent_len": 13.4,
+    "top_words": [
+      "audience",
+      "laughs",
+      "want",
+      "cause",
+      "okay",
+      "think",
+      "because",
+      "people",
+      "time",
+      "back",
+      "some",
+      "feel"
+    ]
   }
 }

@@ -350,5 +350,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 24152,
+    "profanity_rate": 0.0024,
+    "question_rate": 0.179,
+    "i_rate": 0.027,
+    "vocab_div": 0.125,
+    "avg_sent_len": 16.7,
+    "top_words": [
+      "people",
+      "look",
+      "time",
+      "cause",
+      "because",
+      "around",
+      "thing",
+      "these",
+      "well",
+      "other",
+      "want",
+      "something"
+    ]
+  }
 }

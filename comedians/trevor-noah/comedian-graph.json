@@ -332,5 +332,27 @@
       "clean-everyman": 0.07
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 45778,
+    "profanity_rate": 0.0017,
+    "question_rate": 0.186,
+    "i_rate": 0.045,
+    "vocab_div": 0.076,
+    "avg_sent_len": 10.5,
+    "top_words": [
+      "laughter",
+      "people",
+      "because",
+      "said",
+      "black",
+      "time",
+      "thing",
+      "want",
+      "think",
+      "never",
+      "back",
+      "come"
+    ]
   }
 }

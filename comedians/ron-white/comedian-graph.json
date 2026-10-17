@@ -323,5 +323,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Drawl with a glass in hand. The pause for the sip IS the timing \u2014 the room waits, he drinks, the tag lands smoother for the wait."
+  },
+  "style": {
+    "words": 37826,
+    "profanity_rate": 0.0125,
+    "question_rate": 0.11,
+    "i_rate": 0.052,
+    "vocab_div": 0.065,
+    "avg_sent_len": 11.9,
+    "top_words": [
+      "said",
+      "fucking",
+      "fuck",
+      "goes",
+      "wife",
+      "fuckin",
+      "back",
+      "cause",
+      "time",
+      "years",
+      "ever",
+      "never"
+    ]
   }
 }

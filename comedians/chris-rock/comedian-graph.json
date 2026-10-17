@@ -594,5 +594,27 @@
       "roast": 0.2
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 129392,
+    "profanity_rate": 0.0207,
+    "question_rate": 0.193,
+    "i_rate": 0.031,
+    "vocab_div": 0.034,
+    "avg_sent_len": 9.0,
+    "top_words": [
+      "shit",
+      "fuck",
+      "people",
+      "some",
+      "fucking",
+      "black",
+      "white",
+      "women",
+      "good",
+      "time",
+      "want",
+      "woman"
+    ]
   }
 }

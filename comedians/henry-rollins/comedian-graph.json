@@ -233,5 +233,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9859,
+    "profanity_rate": 0.0014,
+    "question_rate": 0.121,
+    "i_rate": 0.05,
+    "vocab_div": 0.166,
+    "avg_sent_len": 11.6,
+    "top_words": [
+      "said",
+      "people",
+      "cause",
+      "good",
+      "time",
+      "these",
+      "well",
+      "rupaul",
+      "cheering",
+      "back",
+      "band",
+      "kind"
+    ]
   }
 }

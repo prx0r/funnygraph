@@ -332,5 +332,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 30051,
+    "profanity_rate": 0.0167,
+    "question_rate": 0.171,
+    "i_rate": 0.04,
+    "vocab_div": 0.082,
+    "avg_sent_len": 10.2,
+    "top_words": [
+      "shit",
+      "said",
+      "some",
+      "come",
+      "motherf",
+      "cause",
+      "look",
+      "back",
+      "cking",
+      "little",
+      "fuck",
+      "down"
+    ]
+  }
 }

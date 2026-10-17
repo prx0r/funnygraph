@@ -239,5 +239,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11067,
+    "profanity_rate": 0.003,
+    "question_rate": 0.168,
+    "i_rate": 0.04,
+    "vocab_div": 0.142,
+    "avg_sent_len": 11.2,
+    "top_words": [
+      "crowd",
+      "laughing",
+      "people",
+      "black",
+      "chuckles",
+      "white",
+      "thing",
+      "applauding",
+      "want",
+      "cause",
+      "trump",
+      "time"
+    ]
   }
 }

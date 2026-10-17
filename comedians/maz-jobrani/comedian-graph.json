@@ -253,5 +253,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10220,
+    "profanity_rate": 0.0017,
+    "question_rate": 0.164,
+    "i_rate": 0.046,
+    "vocab_div": 0.134,
+    "avg_sent_len": 8.1,
+    "top_words": [
+      "kids",
+      "love",
+      "because",
+      "guys",
+      "want",
+      "people",
+      "goes",
+      "good",
+      "trump",
+      "said",
+      "pfft",
+      "thank"
+    ]
   }
 }

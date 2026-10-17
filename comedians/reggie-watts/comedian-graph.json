@@ -250,5 +250,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 4357,
+    "profanity_rate": 0.0108,
+    "question_rate": 0.209,
+    "i_rate": 0.041,
+    "vocab_div": 0.223,
+    "avg_sent_len": 5.7,
+    "top_words": [
+      "love",
+      "come",
+      "want",
+      "fuck",
+      "panda",
+      "fucking",
+      "pandora",
+      "down",
+      "party",
+      "never",
+      "sorry",
+      "cook"
+    ]
   }
 }

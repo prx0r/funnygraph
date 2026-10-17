@@ -264,5 +264,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 16946,
+    "profanity_rate": 0.0025,
+    "question_rate": 0.129,
+    "i_rate": 0.039,
+    "vocab_div": 0.119,
+    "avg_sent_len": 13.0,
+    "top_words": [
+      "think",
+      "women",
+      "want",
+      "laughter",
+      "people",
+      "time",
+      "cause",
+      "talk",
+      "some",
+      "good",
+      "woman",
+      "even"
+    ]
   }
 }

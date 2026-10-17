@@ -405,5 +405,27 @@
       "dark-confessional": 0.13
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 49008,
+    "profanity_rate": 0.007,
+    "question_rate": 0.261,
+    "i_rate": 0.041,
+    "vocab_div": 0.089,
+    "avg_sent_len": 10.2,
+    "top_words": [
+      "said",
+      "think",
+      "well",
+      "people",
+      "laughter",
+      "fucking",
+      "thing",
+      "joke",
+      "audience",
+      "because",
+      "some",
+      "woman"
+    ]
   }
 }

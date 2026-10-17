@@ -248,5 +248,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10215,
+    "profanity_rate": 0.0146,
+    "question_rate": 0.176,
+    "i_rate": 0.056,
+    "vocab_div": 0.159,
+    "avg_sent_len": 13.2,
+    "top_words": [
+      "laughter",
+      "fucking",
+      "fuck",
+      "think",
+      "people",
+      "shit",
+      "want",
+      "love",
+      "those",
+      "years",
+      "time",
+      "someone"
+    ]
   }
 }

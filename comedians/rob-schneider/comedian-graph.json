@@ -253,5 +253,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 6561,
+    "profanity_rate": 0.011,
+    "question_rate": 0.182,
+    "i_rate": 0.046,
+    "vocab_div": 0.147,
+    "avg_sent_len": 7.8,
+    "top_words": [
+      "audience",
+      "laughing",
+      "fucking",
+      "chuckles",
+      "okay",
+      "thank",
+      "little",
+      "wife",
+      "youth",
+      "fuck",
+      "come",
+      "accent"
+    ]
   }
 }

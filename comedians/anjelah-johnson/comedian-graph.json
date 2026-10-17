@@ -256,5 +256,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 7636,
+    "profanity_rate": 0.0003,
+    "question_rate": 0.331,
+    "i_rate": 0.048,
+    "vocab_div": 0.172,
+    "avg_sent_len": 10.3,
+    "top_words": [
+      "cause",
+      "okay",
+      "some",
+      "guys",
+      "time",
+      "people",
+      "good",
+      "baby",
+      "real",
+      "husband",
+      "first",
+      "back"
+    ]
   }
 }

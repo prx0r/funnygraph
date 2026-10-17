@@ -326,5 +326,27 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 34177,
+    "profanity_rate": 0.0022,
+    "question_rate": 0.163,
+    "i_rate": 0.055,
+    "vocab_div": 0.095,
+    "avg_sent_len": 11.6,
+    "top_words": [
+      "people",
+      "because",
+      "said",
+      "cause",
+      "goes",
+      "well",
+      "think",
+      "even",
+      "never",
+      "thought",
+      "back",
+      "kathleen"
+    ]
+  }
 }

@@ -380,5 +380,27 @@
       "dark-confessional": 0.08
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 51580,
+    "profanity_rate": 0.0068,
+    "question_rate": 0.256,
+    "i_rate": 0.04,
+    "vocab_div": 0.081,
+    "avg_sent_len": 10.4,
+    "top_words": [
+      "laughing",
+      "audience",
+      "fucking",
+      "went",
+      "people",
+      "said",
+      "okay",
+      "think",
+      "little",
+      "mean",
+      "back",
+      "their"
+    ]
   }
 }

@@ -256,5 +256,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 13518,
+    "profanity_rate": 0.0252,
+    "question_rate": 0.175,
+    "i_rate": 0.046,
+    "vocab_div": 0.097,
+    "avg_sent_len": 8.9,
+    "top_words": [
+      "shit",
+      "said",
+      "chris",
+      "hell",
+      "mama",
+      "damn",
+      "come",
+      "audience",
+      "michael",
+      "money",
+      "back",
+      "daddy"
+    ]
   }
 }

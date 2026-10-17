@@ -507,5 +507,27 @@
       "roast": 0.06
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 64206,
+    "profanity_rate": 0.0071,
+    "question_rate": 0.201,
+    "i_rate": 0.044,
+    "vocab_div": 0.062,
+    "avg_sent_len": 15.8,
+    "top_words": [
+      "voice",
+      "audience",
+      "think",
+      "laughter",
+      "funny",
+      "want",
+      "love",
+      "time",
+      "cause",
+      "people",
+      "white",
+      "show"
+    ]
   }
 }

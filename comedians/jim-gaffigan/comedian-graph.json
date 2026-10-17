@@ -306,5 +306,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Setup in full voice, punchline in a stage whisper. The volume drop IS the timing \u2014 the room leans in."
+  },
+  "style": {
+    "words": 42630,
+    "profanity_rate": 0.0007,
+    "question_rate": 0.234,
+    "i_rate": 0.049,
+    "vocab_div": 0.097,
+    "avg_sent_len": 11.9,
+    "top_words": [
+      "people",
+      "audience",
+      "cause",
+      "laughs",
+      "some",
+      "look",
+      "even",
+      "think",
+      "didn",
+      "never",
+      "wife",
+      "always"
+    ]
   }
 }

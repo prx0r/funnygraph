@@ -292,5 +292,27 @@
         "status_reversal"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 8639,
+    "profanity_rate": 0.0057,
+    "question_rate": 0.058,
+    "i_rate": 0.037,
+    "vocab_div": 0.188,
+    "avg_sent_len": 7.8,
+    "top_words": [
+      "laughs",
+      "good",
+      "shit",
+      "chinese",
+      "back",
+      "body",
+      "time",
+      "wang",
+      "asian",
+      "some",
+      "want",
+      "eyes"
+    ]
+  }
 }

@@ -328,5 +328,27 @@
         "garden_path"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 11226,
+    "profanity_rate": 0.0045,
+    "question_rate": 0.192,
+    "i_rate": 0.044,
+    "vocab_div": 0.116,
+    "avg_sent_len": 14.5,
+    "top_words": [
+      "people",
+      "stuff",
+      "want",
+      "kids",
+      "make",
+      "goes",
+      "cause",
+      "never",
+      "thing",
+      "guys",
+      "word",
+      "black"
+    ]
+  }
 }

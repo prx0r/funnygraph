@@ -303,5 +303,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Whiny build, self-defeating landing. The voice cracks upward on the complaint, then drops into the shrug. The shrug says 'what can you do' and the room answers by laughing."
+  },
+  "style": {
+    "words": 8616,
+    "profanity_rate": 0.0021,
+    "question_rate": 0.168,
+    "i_rate": 0.053,
+    "vocab_div": 0.132,
+    "avg_sent_len": 7.1,
+    "top_words": [
+      "good",
+      "little",
+      "cause",
+      "wife",
+      "goes",
+      "okay",
+      "other",
+      "tell",
+      "think",
+      "thing",
+      "need",
+      "time"
+    ]
   }
 }

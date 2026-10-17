@@ -770,5 +770,27 @@
       "roast": 0.08
     },
     "n_modes": 2
+  },
+  "style": {
+    "words": 193144,
+    "profanity_rate": 0.0103,
+    "question_rate": 0.148,
+    "i_rate": 0.049,
+    "vocab_div": 0.042,
+    "avg_sent_len": 10.8,
+    "top_words": [
+      "said",
+      "shit",
+      "people",
+      "didn",
+      "time",
+      "black",
+      "some",
+      "these",
+      "fuck",
+      "because",
+      "even",
+      "good"
+    ]
   }
 }

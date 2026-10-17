@@ -260,5 +260,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 21871,
+    "profanity_rate": 0.0091,
+    "question_rate": 0.295,
+    "i_rate": 0.044,
+    "vocab_div": 0.121,
+    "avg_sent_len": 8.8,
+    "top_words": [
+      "said",
+      "fucking",
+      "people",
+      "name",
+      "went",
+      "fuck",
+      "love",
+      "think",
+      "time",
+      "great",
+      "good",
+      "well"
+    ]
   }
 }

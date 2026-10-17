@@ -537,5 +537,27 @@
       "dark-confessional": 0.06
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 89702,
+    "profanity_rate": 0.0022,
+    "question_rate": 0.19,
+    "i_rate": 0.043,
+    "vocab_div": 0.047,
+    "avg_sent_len": 15.7,
+    "top_words": [
+      "laughter",
+      "audience",
+      "said",
+      "people",
+      "laughs",
+      "laughing",
+      "because",
+      "john",
+      "never",
+      "down",
+      "think",
+      "time"
+    ]
   }
 }

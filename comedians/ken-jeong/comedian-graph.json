@@ -253,5 +253,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9266,
+    "profanity_rate": 0.0161,
+    "question_rate": 0.205,
+    "i_rate": 0.049,
+    "vocab_div": 0.162,
+    "avg_sent_len": 9.8,
+    "top_words": [
+      "fucking",
+      "because",
+      "mean",
+      "shit",
+      "first",
+      "hangover",
+      "back",
+      "want",
+      "some",
+      "actually",
+      "doing",
+      "fuck"
+    ]
   }
 }

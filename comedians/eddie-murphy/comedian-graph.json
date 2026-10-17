@@ -351,5 +351,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 47390,
+    "profanity_rate": 0.026,
+    "question_rate": 0.203,
+    "i_rate": 0.039,
+    "vocab_div": 0.045,
+    "avg_sent_len": 11.4,
+    "top_words": [
+      "shit",
+      "fuck",
+      "motherfucker",
+      "some",
+      "said",
+      "because",
+      "house",
+      "eddie",
+      "come",
+      "down",
+      "woman",
+      "people"
+    ]
   }
 }

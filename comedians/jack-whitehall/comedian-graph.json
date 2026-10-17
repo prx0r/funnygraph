@@ -306,5 +306,27 @@
         "status_reversal"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 18040,
+    "profanity_rate": 0.0052,
+    "question_rate": 0.126,
+    "i_rate": 0.047,
+    "vocab_div": 0.155,
+    "avg_sent_len": 10.4,
+    "top_words": [
+      "well",
+      "went",
+      "want",
+      "time",
+      "look",
+      "because",
+      "fucking",
+      "little",
+      "think",
+      "jack",
+      "ever",
+      "down"
+    ]
+  }
 }

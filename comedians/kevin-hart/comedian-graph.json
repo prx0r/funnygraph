@@ -457,5 +457,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 130566,
+    "profanity_rate": 0.0182,
+    "question_rate": 0.172,
+    "i_rate": 0.059,
+    "vocab_div": 0.026,
+    "avg_sent_len": 8.4,
+    "top_words": [
+      "said",
+      "shit",
+      "back",
+      "time",
+      "look",
+      "want",
+      "kevin",
+      "fuck",
+      "fucking",
+      "tell",
+      "people",
+      "bitch"
+    ]
   }
 }

@@ -497,5 +497,27 @@
       "observational": 0.07
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 75830,
+    "profanity_rate": 0.0263,
+    "question_rate": 0.137,
+    "i_rate": 0.048,
+    "vocab_div": 0.036,
+    "avg_sent_len": 8.1,
+    "top_words": [
+      "shit",
+      "cause",
+      "fuck",
+      "motherfucker",
+      "some",
+      "people",
+      "said",
+      "come",
+      "want",
+      "white",
+      "down",
+      "mean"
+    ]
   }
 }

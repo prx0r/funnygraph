@@ -307,5 +307,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Story sprint, sound-effect punctuation, sweet landing. The effects are timed like drum hits."
+  },
+  "style": {
+    "words": 55353,
+    "profanity_rate": 0.0031,
+    "question_rate": 0.198,
+    "i_rate": 0.047,
+    "vocab_div": 0.077,
+    "avg_sent_len": 11.5,
+    "top_words": [
+      "people",
+      "said",
+      "some",
+      "laughter",
+      "guys",
+      "time",
+      "because",
+      "okay",
+      "fluffy",
+      "imitates",
+      "back",
+      "cheering"
+    ]
   }
 }

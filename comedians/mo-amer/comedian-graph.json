@@ -275,5 +275,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 20259,
+    "profanity_rate": 0.0121,
+    "question_rate": 0.242,
+    "i_rate": 0.047,
+    "vocab_div": 0.119,
+    "avg_sent_len": 11.3,
+    "top_words": [
+      "laughing",
+      "okay",
+      "fuck",
+      "applause",
+      "goes",
+      "shit",
+      "laughs",
+      "time",
+      "look",
+      "cheering",
+      "mohammed",
+      "take"
+    ]
   }
 }

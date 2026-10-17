@@ -287,5 +287,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 20688,
+    "profanity_rate": 0.0218,
+    "question_rate": 0.137,
+    "i_rate": 0.051,
+    "vocab_div": 0.111,
+    "avg_sent_len": 9.6,
+    "top_words": [
+      "shit",
+      "motherfucker",
+      "white",
+      "fuck",
+      "applause",
+      "bitch",
+      "cause",
+      "some",
+      "motherfuckers",
+      "come",
+      "said",
+      "down"
+    ]
   }
 }

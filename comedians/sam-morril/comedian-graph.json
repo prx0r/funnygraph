@@ -279,5 +279,27 @@
         "garden_path"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 9452,
+    "profanity_rate": 0.0033,
+    "question_rate": 0.23,
+    "i_rate": 0.059,
+    "vocab_div": 0.159,
+    "avg_sent_len": 11.8,
+    "top_words": [
+      "audience",
+      "laughing",
+      "said",
+      "think",
+      "back",
+      "want",
+      "goes",
+      "some",
+      "good",
+      "time",
+      "these",
+      "ever"
+    ]
+  }
 }

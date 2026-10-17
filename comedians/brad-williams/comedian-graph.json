@@ -248,5 +248,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11437,
+    "profanity_rate": 0.0093,
+    "question_rate": 0.191,
+    "i_rate": 0.04,
+    "vocab_div": 0.129,
+    "avg_sent_len": 12.2,
+    "top_words": [
+      "audience",
+      "okay",
+      "people",
+      "laughing",
+      "black",
+      "because",
+      "never",
+      "want",
+      "some",
+      "shit",
+      "make",
+      "time"
+    ]
   }
 }

@@ -253,5 +253,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9317,
+    "profanity_rate": 0.0084,
+    "question_rate": 0.21,
+    "i_rate": 0.058,
+    "vocab_div": 0.164,
+    "avg_sent_len": 12.0,
+    "top_words": [
+      "went",
+      "said",
+      "thought",
+      "goes",
+      "fucking",
+      "think",
+      "some",
+      "years",
+      "bounce",
+      "shit",
+      "want",
+      "well"
+    ]
   }
 }

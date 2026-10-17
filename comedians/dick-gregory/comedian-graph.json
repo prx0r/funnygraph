@@ -313,5 +313,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Calm setup, devastating fact, hold for the room to catch up. The calm IS the weapon \u2014 no rant needed when the facts are the punchlines."
+  },
+  "style": {
+    "words": 5753,
+    "profanity_rate": 0.0038,
+    "question_rate": 0.109,
+    "i_rate": 0.036,
+    "vocab_div": 0.216,
+    "avg_sent_len": 18.4,
+    "top_words": [
+      "gregory",
+      "said",
+      "white",
+      "negro",
+      "dick",
+      "laughter",
+      "people",
+      "king",
+      "some",
+      "never",
+      "told",
+      "good"
+    ]
   }
 }

@@ -296,5 +296,27 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Blunt statement, hard pause, self-interrogation spiral. The pause is the room deciding whether he's allowed to say that."
+  },
+  "style": {
+    "words": 36399,
+    "profanity_rate": 0.0107,
+    "question_rate": 0.158,
+    "i_rate": 0.044,
+    "vocab_div": 0.104,
+    "avg_sent_len": 12.3,
+    "top_words": [
+      "because",
+      "people",
+      "want",
+      "think",
+      "little",
+      "fucking",
+      "look",
+      "fuck",
+      "never",
+      "didn",
+      "said",
+      "girl"
+    ]
   }
 }

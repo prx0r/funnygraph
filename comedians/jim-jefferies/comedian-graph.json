@@ -365,5 +365,27 @@
       "meta": 0.08
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 79786,
+    "profanity_rate": 0.0169,
+    "question_rate": 0.158,
+    "i_rate": 0.045,
+    "vocab_div": 0.062,
+    "avg_sent_len": 14.2,
+    "top_words": [
+      "fucking",
+      "audience",
+      "laughing",
+      "laughter",
+      "people",
+      "went",
+      "fuck",
+      "think",
+      "goes",
+      "because",
+      "good",
+      "said"
+    ]
   }
 }

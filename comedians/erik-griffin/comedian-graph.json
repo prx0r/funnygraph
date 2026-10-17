@@ -238,5 +238,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 7628,
+    "profanity_rate": 0.0197,
+    "question_rate": 0.224,
+    "i_rate": 0.04,
+    "vocab_div": 0.156,
+    "avg_sent_len": 8.1,
+    "top_words": [
+      "shit",
+      "okay",
+      "fuck",
+      "bitch",
+      "some",
+      "fucking",
+      "tell",
+      "need",
+      "people",
+      "phone",
+      "mean",
+      "trying"
+    ]
   }
 }

@@ -483,5 +483,27 @@
       "dark-confessional": 0.07
     },
     "n_modes": 3
+  },
+  "style": {
+    "words": 49006,
+    "profanity_rate": 0.0053,
+    "question_rate": 0.123,
+    "i_rate": 0.055,
+    "vocab_div": 0.059,
+    "avg_sent_len": 9.5,
+    "top_words": [
+      "think",
+      "because",
+      "people",
+      "love",
+      "want",
+      "sarah",
+      "okay",
+      "mean",
+      "show",
+      "said",
+      "feel",
+      "time"
+    ]
   }
 }

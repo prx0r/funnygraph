@@ -249,5 +249,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 6933,
+    "profanity_rate": 0.0069,
+    "question_rate": 0.137,
+    "i_rate": 0.03,
+    "vocab_div": 0.216,
+    "avg_sent_len": 8.4,
+    "top_words": [
+      "well",
+      "guys",
+      "because",
+      "love",
+      "mean",
+      "cause",
+      "caitlyn",
+      "come",
+      "time",
+      "life",
+      "think",
+      "stuff"
+    ]
   }
 }

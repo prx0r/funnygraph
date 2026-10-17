@@ -257,5 +257,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11266,
+    "profanity_rate": 0.0034,
+    "question_rate": 0.107,
+    "i_rate": 0.021,
+    "vocab_div": 0.169,
+    "avg_sent_len": 8.6,
+    "top_words": [
+      "people",
+      "york",
+      "cause",
+      "back",
+      "city",
+      "came",
+      "their",
+      "come",
+      "still",
+      "make",
+      "irish",
+      "black"
+    ]
   }
 }

@@ -253,5 +253,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11086,
+    "profanity_rate": 0.0049,
+    "question_rate": 0.196,
+    "i_rate": 0.027,
+    "vocab_div": 0.173,
+    "avg_sent_len": 8.0,
+    "top_words": [
+      "think",
+      "country",
+      "people",
+      "because",
+      "other",
+      "america",
+      "time",
+      "fucking",
+      "okay",
+      "some",
+      "world",
+      "canada"
+    ]
   }
 }

@@ -1229,5 +1229,27 @@
       "surreal": 0.06
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 79706,
+    "profanity_rate": 0.0138,
+    "question_rate": 0.143,
+    "i_rate": 0.048,
+    "vocab_div": 0.057,
+    "avg_sent_len": 11.6,
+    "top_words": [
+      "fucking",
+      "people",
+      "shit",
+      "because",
+      "fuck",
+      "cause",
+      "think",
+      "thing",
+      "want",
+      "time",
+      "kids",
+      "audience"
+    ]
   }
 }

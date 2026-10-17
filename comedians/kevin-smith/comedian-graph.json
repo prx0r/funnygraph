@@ -239,5 +239,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11901,
+    "profanity_rate": 0.0308,
+    "question_rate": 0.146,
+    "i_rate": 0.063,
+    "vocab_div": 0.118,
+    "avg_sent_len": 14.2,
+    "top_words": [
+      "fucking",
+      "shit",
+      "goes",
+      "said",
+      "show",
+      "stuff",
+      "wife",
+      "back",
+      "fuck",
+      "burgers",
+      "cause",
+      "people"
+    ]
   }
 }

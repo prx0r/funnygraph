@@ -1,0 +1,17 @@
+{
+ "n": 71,
+ "cv_r2": 0.092,
+ "importances": {
+  "double_interp": 1.239,
+  "vocab_div": -0.847,
+  "literalize": -0.779,
+  "status_invert": 0.654,
+  "questions": 0.632,
+  "log_votes": 0.542,
+  "i_ratex10": -0.535,
+  "char_violation": 0.477,
+  "rigidify": 0.205,
+  "generation": 0.109,
+  "profanityx100": -0.019
+ }
+}

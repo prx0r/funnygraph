@@ -243,5 +243,27 @@
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 10666,
+    "profanity_rate": 0.0068,
+    "question_rate": 0.131,
+    "i_rate": 0.039,
+    "vocab_div": 0.174,
+    "avg_sent_len": 11.0,
+    "top_words": [
+      "some",
+      "because",
+      "little",
+      "people",
+      "want",
+      "applause",
+      "house",
+      "first",
+      "time",
+      "back",
+      "wife",
+      "goes"
+    ]
   }
 }

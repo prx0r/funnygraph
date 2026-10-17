@@ -456,5 +456,27 @@
       "observational": 0.06
     },
     "n_modes": 4
+  },
+  "style": {
+    "words": 29772,
+    "profanity_rate": 0.0181,
+    "question_rate": 0.175,
+    "i_rate": 0.023,
+    "vocab_div": 0.081,
+    "avg_sent_len": 9.3,
+    "top_words": [
+      "fuck",
+      "fucking",
+      "come",
+      "little",
+      "some",
+      "people",
+      "shit",
+      "want",
+      "went",
+      "weird",
+      "kind",
+      "thank"
+    ]
   }
 }

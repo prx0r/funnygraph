@@ -256,5 +256,27 @@
       "clean-everyman": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 9597,
+    "profanity_rate": 0.0005,
+    "question_rate": 0.204,
+    "i_rate": 0.051,
+    "vocab_div": 0.151,
+    "avg_sent_len": 9.4,
+    "top_words": [
+      "want",
+      "good",
+      "cause",
+      "come",
+      "little",
+      "give",
+      "love",
+      "back",
+      "people",
+      "said",
+      "think",
+      "time"
+    ]
   }
 }

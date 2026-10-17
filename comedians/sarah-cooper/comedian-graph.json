@@ -273,5 +273,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 7582,
+    "profanity_rate": 0.004,
+    "question_rate": 0.145,
+    "i_rate": 0.034,
+    "vocab_div": 0.198,
+    "avg_sent_len": 7.1,
+    "top_words": [
+      "sarah",
+      "scooter",
+      "cooper",
+      "nice",
+      "okay",
+      "everything",
+      "voice",
+      "great",
+      "back",
+      "fine",
+      "good",
+      "playing"
+    ]
+  }
 }

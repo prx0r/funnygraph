@@ -246,5 +246,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 16029,
+    "profanity_rate": 0.0099,
+    "question_rate": 0.098,
+    "i_rate": 0.026,
+    "vocab_div": 0.121,
+    "avg_sent_len": 10.3,
+    "top_words": [
+      "people",
+      "black",
+      "time",
+      "applause",
+      "cause",
+      "good",
+      "some",
+      "shit",
+      "mcdonald",
+      "cheers",
+      "want",
+      "need"
+    ]
   }
 }

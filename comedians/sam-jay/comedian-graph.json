@@ -279,5 +279,27 @@
         "split_knowledge"
       ]
     }
-  ]
+  ],
+  "style": {
+    "words": 11906,
+    "profanity_rate": 0.0275,
+    "question_rate": 0.178,
+    "i_rate": 0.056,
+    "vocab_div": 0.127,
+    "avg_sent_len": 9.3,
+    "top_words": [
+      "shit",
+      "cause",
+      "fuck",
+      "fuckin",
+      "bitch",
+      "think",
+      "women",
+      "fucking",
+      "people",
+      "some",
+      "dick",
+      "these"
+    ]
+  }
 }

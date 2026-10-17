@@ -254,5 +254,27 @@
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "style": {
+    "words": 11937,
+    "profanity_rate": 0.0171,
+    "question_rate": 0.241,
+    "i_rate": 0.055,
+    "vocab_div": 0.123,
+    "avg_sent_len": 9.1,
+    "top_words": [
+      "fucking",
+      "shit",
+      "fuck",
+      "okay",
+      "cause",
+      "think",
+      "good",
+      "life",
+      "love",
+      "school",
+      "look",
+      "even"
+    ]
   }
 }
