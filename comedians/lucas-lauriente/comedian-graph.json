@@ -1,73 +1,73 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "lucas-lauriente",
- "name": "Lucas Lauriente",
- "tier": "indie",
- "region": "argentina",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/latam-es",
- "note": "Mellera-adjacent YouTube generation.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-latam-es",
-   "press"
-  ],
-  "discovery_note": "Mellera-adjacent YouTube generation."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "south-america",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "aziz-ansari",
-   "sim": 0.033
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "lucas-lauriente",
+  "name": "Lucas Lauriente",
+  "tier": "indie",
+  "region": "argentina",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/latam-es",
+  "note": "Mellera-adjacent YouTube generation.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  {
-   "comedian_id": "ricky-gervais",
-   "sim": 0.028
+  "discovery": {
+    "discovered_from": [
+      "curated-latam-es",
+      "press"
+    ],
+    "discovery_note": "Mellera-adjacent YouTube generation."
   },
-  {
-   "comedian_id": "gary-gulman",
-   "sim": 0.027
-  }
- ]
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "south-america",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "aziz-ansari",
+      "sim": 0.033
+    },
+    {
+      "comedian_id": "ricky-gervais",
+      "sim": 0.028
+    },
+    {
+      "comedian_id": "gary-gulman",
+      "sim": 0.027
+    }
+  ]
 }

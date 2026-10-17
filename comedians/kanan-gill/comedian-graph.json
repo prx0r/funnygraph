@@ -1,72 +1,72 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "kanan-gill",
- "name": "Kanan Gill",
- "tier": "indie",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "region": "india",
- "discovery": {
-  "discovered_from": [
-   "youtube-native",
-   "pretentious-movie-reviews"
-  ],
-  "discovery_note": "Pretentious Movie Reviews \u2192 Keep It Real (Prime) \u2192 Netflix Yours Sincerely. Ex-software engineer."
- },
- "continent": "asia",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "whitney-cummings",
-   "sim": 0.106
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "kanan-gill",
+  "name": "Kanan Gill",
+  "tier": "indie",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  {
-   "comedian_id": "robin-williams",
-   "sim": 0.028
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
   },
-  {
-   "comedian_id": "bill-burr",
-   "sim": 0.028
-  }
- ]
+  "region": "india",
+  "discovery": {
+    "discovered_from": [
+      "youtube-native",
+      "pretentious-movie-reviews"
+    ],
+    "discovery_note": "Pretentious Movie Reviews \u2192 Keep It Real (Prime) \u2192 Netflix Yours Sincerely. Ex-software engineer."
+  },
+  "continent": "asia",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "whitney-cummings",
+      "sim": 0.106
+    },
+    {
+      "comedian_id": "robin-williams",
+      "sim": 0.028
+    },
+    {
+      "comedian_id": "bill-burr",
+      "sim": 0.028
+    }
+  ]
 }

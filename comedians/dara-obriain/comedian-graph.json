@@ -1,72 +1,72 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "dara-obriain",
- "name": "Dara \u00d3 Briain",
- "tier": "indie",
- "region": "ireland",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Mock the Week host, science-comedy. Irish export to UK panel.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-eu-pacific"
-  ],
-  "discovery_note": "Mock the Week host, science-comedy. Irish export to UK panel."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "europe",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "jimmy-carr",
-   "sim": 0.125
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "dara-obriain",
+  "name": "Dara \u00d3 Briain",
+  "tier": "indie",
+  "region": "ireland",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Mock the Week host, science-comedy. Irish export to UK panel.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  {
-   "comedian_id": "stewart-lee",
-   "sim": 0.036
+  "discovery": {
+    "discovered_from": [
+      "curated-eu-pacific"
+    ],
+    "discovery_note": "Mock the Week host, science-comedy. Irish export to UK panel."
   },
-  {
-   "comedian_id": "sean-lock",
-   "sim": 0.028
-  }
- ]
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "europe",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "jimmy-carr",
+      "sim": 0.125
+    },
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.036
+    },
+    {
+      "comedian_id": "sean-lock",
+      "sim": 0.028
+    }
+  ]
 }

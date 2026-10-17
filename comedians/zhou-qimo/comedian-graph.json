@@ -1,72 +1,72 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "zhou-qimo",
- "name": "Zhou Qimo",
- "tier": "indie",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "region": "china",
- "discovery": {
-  "discovered_from": [
-   "xiaoguo",
-   "multi-season-winner"
-  ],
-  "discovery_note": "Multiple-season winner, craft-first technician."
- },
- "continent": "asia",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "gary-gulman",
-   "sim": 0.072
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "zhou-qimo",
+  "name": "Zhou Qimo",
+  "tier": "indie",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  {
-   "comedian_id": "brian-regan",
-   "sim": 0.061
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
   },
-  {
-   "comedian_id": "patton-oswalt",
-   "sim": 0.056
-  }
- ]
+  "region": "china",
+  "discovery": {
+    "discovered_from": [
+      "xiaoguo",
+      "multi-season-winner"
+    ],
+    "discovery_note": "Multiple-season winner, craft-first technician."
+  },
+  "continent": "asia",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "gary-gulman",
+      "sim": 0.072
+    },
+    {
+      "comedian_id": "brian-regan",
+      "sim": 0.061
+    },
+    {
+      "comedian_id": "patton-oswalt",
+      "sim": 0.056
+    }
+  ]
 }

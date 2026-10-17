@@ -1,73 +1,73 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "bovi",
- "name": "Bovi Ugboma",
- "tier": "indie",
- "region": "nigeria",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Theatre arts grad, Extended Family sitcom \u2192 standup 2008. Storyteller; Man On Fire solo format. Basketmouth lineage, went solo.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "ng-press",
-   "nite-of-a-thousand-laughs-lineage"
-  ],
-  "discovery_note": "Theatre arts grad, Extended Family sitcom \u2192 standup 2008. Storyteller; Man On Fire solo format. Basketmouth lineage, went solo."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "africa",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "eddie-izzard",
-   "sim": 0.074
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "bovi",
+  "name": "Bovi Ugboma",
+  "tier": "indie",
+  "region": "nigeria",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Theatre arts grad, Extended Family sitcom \u2192 standup 2008. Storyteller; Man On Fire solo format. Basketmouth lineage, went solo.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  {
-   "comedian_id": "jack-whitehall",
-   "sim": 0.065
+  "discovery": {
+    "discovered_from": [
+      "ng-press",
+      "nite-of-a-thousand-laughs-lineage"
+    ],
+    "discovery_note": "Theatre arts grad, Extended Family sitcom \u2192 standup 2008. Storyteller; Man On Fire solo format. Basketmouth lineage, went solo."
   },
-  {
-   "comedian_id": "greg-davies",
-   "sim": 0.06
-  }
- ]
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "africa",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "eddie-izzard",
+      "sim": 0.074
+    },
+    {
+      "comedian_id": "jack-whitehall",
+      "sim": 0.065
+    },
+    {
+      "comedian_id": "greg-davies",
+      "sim": 0.06
+    }
+  ]
 }

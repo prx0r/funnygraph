@@ -1,84 +1,84 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "andres-lopez",
- "name": "Andr\u00e9s L\u00f3pez",
- "tier": "indie",
- "region": "colombia",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/latam-es",
- "note": "La Pelota de Letras. Colombian pioneer, football + culture material.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-latam-es",
-   "press"
-  ],
-  "discovery_note": "La Pelota de Letras. Colombian pioneer, football + culture material."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "south-america",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "bio": {
-  "wikidata_id": "Q2849034",
-  "dob": "1971-06-25",
-  "dod": null,
-  "birthplace": "Bogot\u00e1",
-  "citizenship": "Colombia",
-  "occupations": [
-   "actor"
-  ],
-  "source": "wikidata (CC0)"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "trevor-noah",
-   "sim": 0.1
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "andres-lopez",
+  "name": "Andr\u00e9s L\u00f3pez",
+  "tier": "indie",
+  "region": "colombia",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/latam-es",
+  "note": "La Pelota de Letras. Colombian pioneer, football + culture material.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  {
-   "comedian_id": "patton-oswalt",
-   "sim": 0.069
+  "discovery": {
+    "discovered_from": [
+      "curated-latam-es",
+      "press"
+    ],
+    "discovery_note": "La Pelota de Letras. Colombian pioneer, football + culture material."
   },
-  {
-   "comedian_id": "michael-che",
-   "sim": 0.051
-  }
- ]
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "south-america",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "bio": {
+    "wikidata_id": "Q2849034",
+    "dob": "1971-06-25",
+    "dod": null,
+    "birthplace": "Bogot\u00e1",
+    "citizenship": "Colombia",
+    "occupations": [
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "trevor-noah",
+      "sim": 0.1
+    },
+    {
+      "comedian_id": "patton-oswalt",
+      "sim": 0.069
+    },
+    {
+      "comedian_id": "michael-che",
+      "sim": 0.051
+    }
+  ]
 }

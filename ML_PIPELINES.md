@@ -63,14 +63,16 @@ Trivial once #1 exists — free win.
 - ✅ #6 generation gap → M6: profanity peaked 70s, declining since
 - ✅ #2 regression → M2: n=71, R²=0.09; double_interp+/vocab_div− lead; profanity ~0
 - ✅ #5 theory check → M5: r=−0.05, FAILED honestly (priors need recalibration)
-- ⏳ #3 rise/fall → trajectories exist; canonization classifier next
+- ✅ #3 trajectories → analysis/ml_trajectories.json (rises dramatic, falls mild, n=16 too small to classify — documented)
+- ✅ #8 influence graph → analysis/ml_influence.json (192 full-name edges; Lee→Hicks, Murphy→Pryor, Brennan→Chappelle validate)
 - ⏳ #7 timing→rating → blocked on word-timed sets (whisper needs audio)
 - ⏳ #8 influence graph → mention-mining pass not yet run
 - ⏳ #9 breakout → needs external timelines
 
 ## Recommended order (remaining)
-Fit #3 canonization classifier next (all inputs present). Then #8
-mention-mining (transcripts present). #7/#9 await data access decisions.
+#7 timing→rating and #9 breakout await data access (whisper audio, external
+timelines). Next computable: style{} fingerprints → agent-harness judge wiring,
+for-you mode-overlap matching.
 
 ## Rankings (separate problem — see RANKINGS.md)
 Definitive comedian rankings from critics data: theory, prior art, and our
