@@ -183,7 +183,8 @@ def classify(j: dict, sig: dict) -> dict:
     }
 
 
-def imdb_wr(rating: float, votes: int, m: int = 1000, C: float = 7.0) -> float:
+def imdb_wr(rating: float, votes: int, m: int = 500, C: float = 7.5) -> float:
+    # calibrated: corpus mean 7.50, m=500 keeps 75/99 specials eligible
     return round((votes / (votes + m)) * rating + (m / (votes + m)) * C, 3)
 
 

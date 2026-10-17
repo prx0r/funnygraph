@@ -62,8 +62,9 @@ def load_comics() -> dict:
     return comics
 
 
-def imdb_wr(specials: list, m: int = 1000, C: float = 7.0) -> float | None:
-    """IMDb Top-250 formula on the standout (or best) special."""
+def imdb_wr(specials: list, m: int = 500, C: float = 7.5) -> float | None:
+    """IMDb Top-250 formula on the standout (or best) special.
+    Calibrated: corpus mean 7.50, m=500 keeps 75/99 specials eligible."""
     if not specials:
         return None
     rated = [s for s in specials if s.get("imdb_rating") and s.get("imdb_votes")]

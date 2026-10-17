@@ -281,15 +281,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 86.5,
-    "legacy_era": 9.0,
+    "legacy": 91.0,
+    "legacy_era": 7.9,
     "audience": 47.5,
     "popularity": 54.8,
     "theory": 25.0,
     "heat": null,
     "gap_value": 0.073,
     "overrated": "accurately rated",
-    "canon_lag": -0.39
+    "canon_lag": -0.435
   },
   "tier": "king",
   "region": "us",

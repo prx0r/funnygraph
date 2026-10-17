@@ -432,15 +432,15 @@
     }
   },
   "metrics": {
-    "legacy": 97.8,
-    "legacy_era": 97.8,
+    "legacy": 96.6,
+    "legacy_era": 94.4,
     "audience": 52.5,
     "popularity": 68.4,
     "theory": 62.5,
     "heat": null,
     "gap_value": 0.159,
     "overrated": "accurately rated",
-    "canon_lag": -0.453
+    "canon_lag": -0.441
   },
   "tier": "king",
   "region": "us",

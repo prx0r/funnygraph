@@ -12,7 +12,7 @@
    },
    "disagreement": 0.8311,
    "generation": "pioneers",
-   "imdb_wr": 6.469,
+   "imdb_wr": 6.465,
    "cc2004": 3,
    "rs2017": 3,
    "gen_rank": 1
@@ -35,7 +35,7 @@
    "gen_rank": 2
   },
   {
-   "rank": 24,
+   "rank": 29,
    "comedian_id": "dick-gregory",
    "name": "Dick Gregory",
    "score": 1.692,
@@ -74,15 +74,15 @@
    "rank": 1,
    "comedian_id": "george-carlin",
    "name": "George Carlin",
-   "score": 8.5175,
+   "score": 8.4911,
    "legs": {
     "critics": 1.9298,
-    "audience": 0.9474,
+    "audience": 0.9342,
     "awards": 0.8333
    },
-   "disagreement": 0.4922,
+   "disagreement": 0.4948,
    "generation": "seventies",
-   "imdb_wr": 8.222,
+   "imdb_wr": 8.339,
    "cc2004": 2,
    "rs2017": 2,
    "gen_rank": 1
@@ -91,38 +91,38 @@
    "rank": 2,
    "comedian_id": "richard-pryor",
    "name": "Richard Pryor",
-   "score": 7.7368,
+   "score": 7.7106,
    "legs": {
     "critics": 2.0,
-    "audience": 0.8684,
+    "audience": 0.8553,
     "awards": 0.0
    },
-   "disagreement": 0.5658,
+   "disagreement": 0.5724,
    "generation": "seventies",
-   "imdb_wr": 7.862,
+   "imdb_wr": 7.963,
    "cc2004": 1,
    "rs2017": 1,
    "gen_rank": 2
   },
   {
-   "rank": 5,
+   "rank": 7,
    "comedian_id": "robin-williams",
    "name": "Robin Williams",
-   "score": 6.7871,
+   "score": 6.0239,
    "legs": {
     "critics": 1.4729,
-    "audience": 0.6842,
+    "audience": 0.3026,
     "awards": 1.0
    },
-   "disagreement": 0.3241,
+   "disagreement": 0.4807,
    "generation": "seventies",
-   "imdb_wr": 7.1,
+   "imdb_wr": 7.101,
    "cc2004": 13,
    "rs2017": 12,
    "gen_rank": 3
   },
   {
-   "rank": 21,
+   "rank": 23,
    "comedian_id": "billy-connolly",
    "name": "Billy Connolly",
    "score": 1.8213,
@@ -141,35 +141,35 @@
  ],
  "eighties-boom": [
   {
-   "rank": 3,
+   "rank": 4,
    "comedian_id": "chris-rock",
    "name": "Chris Rock",
-   "score": 7.191,
+   "score": 7.1646,
    "legs": {
     "critics": 1.7537,
-    "audience": 0.8816,
+    "audience": 0.8684,
     "awards": 0.1667
    },
-   "disagreement": 0.6489,
+   "disagreement": 0.6493,
    "generation": "eighties-boom",
-   "imdb_wr": 7.887,
+   "imdb_wr": 7.97,
    "cc2004": 5,
    "rs2017": 5,
    "gen_rank": 1
   },
   {
-   "rank": 4,
+   "rank": 5,
    "comedian_id": "jerry-seinfeld",
    "name": "Jerry Seinfeld",
-   "score": 6.5331,
+   "score": 6.5069,
    "legs": {
     "critics": 1.5788,
-    "audience": 0.8289,
+    "audience": 0.8158,
     "awards": 0.1389
    },
-   "disagreement": 0.588,
+   "disagreement": 0.5882,
    "generation": "eighties-boom",
-   "imdb_wr": 7.692,
+   "imdb_wr": 7.778,
    "cc2004": 12,
    "rs2017": 7,
    "gen_rank": 2
@@ -178,15 +178,15 @@
    "rank": 8,
    "comedian_id": "eddie-murphy",
    "name": "Eddie Murphy",
-   "score": 6.083,
+   "score": 6.0302,
    "legs": {
     "critics": 1.2562,
-    "audience": 0.9211,
+    "audience": 0.8947,
     "awards": 0.4722
    },
-   "disagreement": 0.3212,
+   "disagreement": 0.3204,
    "generation": "eighties-boom",
-   "imdb_wr": 8.046,
+   "imdb_wr": 8.085,
    "cc2004": 10,
    "rs2017": 25,
    "gen_rank": 3
@@ -226,7 +226,24 @@
    "gen_rank": 5
   },
   {
-   "rank": 20,
+   "rank": 17,
+   "comedian_id": "jeff-foxworthy",
+   "name": "Jeff Foxworthy",
+   "score": 2.4273,
+   "legs": {
+    "critics": 0.3793,
+    "audience": 0.6447,
+    "awards": 0.0
+   },
+   "disagreement": 0.1327,
+   "generation": "eighties-boom",
+   "imdb_wr": 7.214,
+   "cc2004": 60,
+   "rs2017": null,
+   "gen_rank": 6
+  },
+  {
+   "rank": 21,
    "comedian_id": "ray-romano",
    "name": "Ray Romano",
    "score": 1.9656,
@@ -240,27 +257,10 @@
    "imdb_wr": null,
    "cc2004": 26,
    "rs2017": null,
-   "gen_rank": 6
-  },
-  {
-   "rank": 25,
-   "comedian_id": "jeff-foxworthy",
-   "name": "Jeff Foxworthy",
-   "score": 2.3747,
-   "legs": {
-    "critics": 0.3793,
-    "audience": 0.6184,
-    "awards": 0.0
-   },
-   "disagreement": 0.1195,
-   "generation": "eighties-boom",
-   "imdb_wr": 6.969,
-   "cc2004": 60,
-   "rs2017": null,
    "gen_rank": 7
   },
   {
-   "rank": 29,
+   "rank": 27,
    "comedian_id": "adam-sandler",
    "name": "Adam Sandler",
    "score": 1.7183,
@@ -277,7 +277,7 @@
    "gen_rank": 8
   },
   {
-   "rank": 46,
+   "rank": 45,
    "comedian_id": "d-l-hughley",
    "name": "D L Hughley",
    "score": 1.4239,
@@ -288,13 +288,13 @@
    },
    "disagreement": 0.2044,
    "generation": "eighties-boom",
-   "imdb_wr": 5.273,
+   "imdb_wr": 4.786,
    "cc2004": 54,
    "rs2017": null,
    "gen_rank": 9
   },
   {
-   "rank": 68,
+   "rank": 71,
    "comedian_id": "cedric-the-entertainer",
    "name": "Cedric The Entertainer",
    "score": 0.7242,
@@ -432,7 +432,7 @@
  ],
  "nineties": [
   {
-   "rank": 6,
+   "rank": 3,
    "comedian_id": "dave-chappelle",
    "name": "Dave Chappelle",
    "score": 6.5129,
@@ -443,24 +443,24 @@
    },
    "disagreement": 0.3074,
    "generation": "nineties",
-   "imdb_wr": 8.267,
+   "imdb_wr": 8.355,
    "cc2004": 43,
    "rs2017": 9,
    "gen_rank": 1
   },
   {
-   "rank": 7,
+   "rank": 6,
    "comedian_id": "bill-hicks",
    "name": "Bill Hicks",
-   "score": 6.0765,
+   "score": 6.1029,
    "legs": {
     "critics": 1.4027,
-    "audience": 0.9342,
+    "audience": 0.9474,
     "awards": 0.0
    },
-   "disagreement": 0.2343,
+   "disagreement": 0.2277,
    "generation": "nineties",
-   "imdb_wr": 8.101,
+   "imdb_wr": 8.346,
    "cc2004": 19,
    "rs2017": 13,
    "gen_rank": 2
@@ -477,7 +477,7 @@
    },
    "disagreement": 0.37,
    "generation": "nineties",
-   "imdb_wr": 8.38,
+   "imdb_wr": 8.458,
    "cc2004": 98,
    "rs2017": 4,
    "gen_rank": 3
@@ -494,111 +494,111 @@
    },
    "disagreement": 0.3435,
    "generation": "nineties",
-   "imdb_wr": 8.418,
+   "imdb_wr": 8.534,
    "cc2004": 75,
    "rs2017": 24,
    "gen_rank": 4
   },
   {
-   "rank": 26,
-   "comedian_id": "sarah-silverman",
-   "name": "Sarah Silverman",
-   "score": 2.1748,
+   "rank": 24,
+   "comedian_id": "stewart-lee",
+   "name": "Stewart Lee",
+   "score": 1.8158,
    "legs": {
-    "critics": 0.3214,
-    "audience": 0.6053,
+    "critics": 0.0,
+    "audience": 0.9079,
     "awards": 0.0
    },
-   "disagreement": 0.1419,
+   "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.919,
+   "imdb_wr": 8.092,
    "cc2004": null,
-   "rs2017": 31,
+   "rs2017": null,
    "gen_rank": 5
   },
   {
-   "rank": 27,
+   "rank": 25,
    "comedian_id": "norm-macdonald",
    "name": "Norm Macdonald",
-   "score": 2.0962,
+   "score": 2.0698,
    "legs": {
     "critics": 0.1724,
-    "audience": 0.7895,
+    "audience": 0.7763,
     "awards": 0.0
    },
-   "disagreement": 0.3085,
+   "disagreement": 0.3019,
    "generation": "nineties",
-   "imdb_wr": 7.357,
+   "imdb_wr": 7.5,
    "cc2004": 83,
    "rs2017": null,
    "gen_rank": 6
   },
   {
-   "rank": 28,
+   "rank": 26,
    "comedian_id": "patton-oswalt",
    "name": "Patton Oswalt",
-   "score": 1.7368,
+   "score": 1.8422,
    "legs": {
     "critics": 0.25,
-    "audience": 0.3684,
+    "audience": 0.4211,
     "awards": 0.25
    },
-   "disagreement": 0.0558,
+   "disagreement": 0.0807,
    "generation": "nineties",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": 34,
    "gen_rank": 7
   },
   {
-   "rank": 31,
-   "comedian_id": "stewart-lee",
-   "name": "Stewart Lee",
-   "score": 1.6316,
+   "rank": 32,
+   "comedian_id": "ron-white",
+   "name": "Ron White",
+   "score": 1.5264,
    "legs": {
     "critics": 0.0,
-    "audience": 0.8158,
+    "audience": 0.7632,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 7.631,
+   "imdb_wr": 7.442,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 8
   },
   {
-   "rank": 35,
-   "comedian_id": "bert-kreischer",
-   "name": "Bert Kreischer",
-   "score": 1.4736,
+   "rank": 33,
+   "comedian_id": "russell-peters",
+   "name": "Russell Peters",
+   "score": 1.7971,
    "legs": {
-    "critics": 0.0,
-    "audience": 0.7368,
+    "critics": 0.1429,
+    "audience": 0.6842,
     "awards": 0.0
    },
-   "disagreement": 0.0,
+   "disagreement": 0.2707,
    "generation": "nineties",
-   "imdb_wr": 7.224,
+   "imdb_wr": 7.378,
    "cc2004": null,
-   "rs2017": null,
+   "rs2017": 44,
    "gen_rank": 9
   },
   {
-   "rank": 36,
-   "comedian_id": "russell-peters",
-   "name": "Russell Peters",
-   "score": 1.6919,
+   "rank": 37,
+   "comedian_id": "katt-williams",
+   "name": "Katt Williams",
+   "score": 1.5043,
    "legs": {
-    "critics": 0.1429,
-    "audience": 0.6316,
-    "awards": 0.0
+    "critics": 0.0,
+    "audience": 0.7105,
+    "awards": 0.0833
    },
-   "disagreement": 0.2444,
+   "disagreement": 0.3136,
    "generation": "nineties",
-   "imdb_wr": 6.989,
+   "imdb_wr": 7.378,
    "cc2004": null,
-   "rs2017": 44,
+   "rs2017": null,
    "gen_rank": 10
   },
   {
@@ -613,7 +613,7 @@
    },
    "disagreement": 0.2434,
    "generation": "nineties",
-   "imdb_wr": 3.213,
+   "imdb_wr": 3.043,
    "cc2004": null,
    "rs2017": 20,
    "gen_rank": 11
@@ -637,8 +637,8 @@
   },
   {
    "rank": 40,
-   "comedian_id": "ron-white",
-   "name": "Ron White",
+   "comedian_id": "dylan-moran",
+   "name": "Dylan Moran",
    "score": 1.4474,
    "legs": {
     "critics": 0.0,
@@ -647,15 +647,15 @@
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 7.165,
+   "imdb_wr": 7.378,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 13
   },
   {
-   "rank": 43,
-   "comedian_id": "dylan-moran",
-   "name": "Dylan Moran",
+   "rank": 42,
+   "comedian_id": "bert-kreischer",
+   "name": "Bert Kreischer",
    "score": 1.3422,
    "legs": {
     "critics": 0.0,
@@ -664,30 +664,30 @@
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.989,
+   "imdb_wr": 7.329,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 14
   },
   {
    "rank": 44,
-   "comedian_id": "katt-williams",
-   "name": "Katt Williams",
-   "score": 1.3991,
+   "comedian_id": "sarah-silverman",
+   "name": "Sarah Silverman",
+   "score": 1.5168,
    "legs": {
-    "critics": 0.0,
-    "audience": 0.6579,
-    "awards": 0.0833
+    "critics": 0.3214,
+    "audience": 0.2763,
+    "awards": 0.0
    },
-   "disagreement": 0.2873,
+   "disagreement": 0.0226,
    "generation": "nineties",
-   "imdb_wr": 6.989,
+   "imdb_wr": 6.964,
    "cc2004": null,
-   "rs2017": null,
+   "rs2017": 31,
    "gen_rank": 15
   },
   {
-   "rank": 47,
+   "rank": 46,
    "comedian_id": "colin-quinn",
    "name": "Colin Quinn",
    "score": 1.2414,
@@ -704,24 +704,24 @@
    "gen_rank": 16
   },
   {
-   "rank": 48,
+   "rank": 47,
    "comedian_id": "brian-regan",
    "name": "Brian Regan",
-   "score": 1.1316,
+   "score": 1.2368,
    "legs": {
     "critics": 0.0,
-    "audience": 0.5658,
+    "audience": 0.6184,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 17
   },
   {
-   "rank": 54,
+   "rank": 56,
    "comedian_id": "wanda-sykes",
    "name": "Wanda Sykes",
    "score": 1.0383,
@@ -738,24 +738,41 @@
    "gen_rank": 18
   },
   {
-   "rank": 61,
+   "rank": 60,
    "comedian_id": "mike-epps",
    "name": "Mike Epps",
-   "score": 0.8422,
+   "score": 0.9474,
    "legs": {
     "critics": 0.0,
-    "audience": 0.4211,
+    "audience": 0.4737,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 19
   },
   {
    "rank": 63,
+   "comedian_id": "neal-brennan",
+   "name": "Neal Brennan",
+   "score": 0.8684,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.4342,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "nineties",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 20
+  },
+  {
+   "rank": 65,
    "comedian_id": "eddie-griffin",
    "name": "Eddie Griffin",
    "score": 1.2976,
@@ -766,13 +783,13 @@
    },
    "disagreement": 0.1066,
    "generation": "nineties",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": 62,
    "rs2017": null,
-   "gen_rank": 20
+   "gen_rank": 21
   },
   {
-   "rank": 64,
+   "rank": 66,
    "comedian_id": "patrice-o-neal",
    "name": "Patrice O Neal",
    "score": 1.0149,
@@ -783,41 +800,24 @@
    },
    "disagreement": 0.1034,
    "generation": "nineties",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": 32,
-   "gen_rank": 21
-  },
-  {
-   "rank": 67,
-   "comedian_id": "neal-brennan",
-   "name": "Neal Brennan",
-   "score": 0.7632,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.3816,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "nineties",
-   "imdb_wr": 6.856,
-   "cc2004": null,
-   "rs2017": null,
    "gen_rank": 22
   },
   {
    "rank": 77,
    "comedian_id": "paul-mooney",
    "name": "Paul Mooney",
-   "score": 0.5264,
+   "score": 0.579,
    "legs": {
     "critics": 0.0,
-    "audience": 0.2632,
+    "audience": 0.2895,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.803,
+   "imdb_wr": 7.053,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 23
@@ -851,7 +851,7 @@
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.49,
+   "imdb_wr": 6.487,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 25
@@ -868,7 +868,7 @@
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.283,
+   "imdb_wr": 6.2,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 26
@@ -885,7 +885,7 @@
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 27
@@ -902,7 +902,7 @@
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 28
@@ -919,7 +919,7 @@
    },
    "disagreement": 0.0,
    "generation": "nineties",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 29
@@ -1253,38 +1253,38 @@
    "rank": 16,
    "comedian_id": "bill-burr",
    "name": "Bill Burr",
-   "score": 3.5036,
+   "score": 3.4774,
    "legs": {
     "critics": 0.5714,
-    "audience": 0.8947,
+    "audience": 0.8816,
     "awards": 0.0
    },
-   "disagreement": 0.1617,
+   "disagreement": 0.1551,
    "generation": "aughts",
-   "imdb_wr": 7.931,
+   "imdb_wr": 7.982,
    "cc2004": null,
    "rs2017": 17,
    "gen_rank": 2
   },
   {
-   "rank": 17,
+   "rank": 18,
    "comedian_id": "kevin-hart",
    "name": "Kevin Hart",
-   "score": 2.958,
+   "score": 2.3002,
    "legs": {
     "critics": 0.5357,
-    "audience": 0.5921,
+    "audience": 0.2632,
     "awards": 0.1667
    },
-   "disagreement": 0.1887,
+   "disagreement": 0.1563,
    "generation": "aughts",
-   "imdb_wr": 6.9,
+   "imdb_wr": 6.901,
    "cc2004": null,
    "rs2017": 18,
    "gen_rank": 3
   },
   {
-   "rank": 18,
+   "rank": 19,
    "comedian_id": "bo-burnham",
    "name": "Bo Burnham",
    "score": 2.1389,
@@ -1295,24 +1295,24 @@
    },
    "disagreement": 0.4305,
    "generation": "aughts",
-   "imdb_wr": 8.574,
+   "imdb_wr": 8.591,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 4
   },
   {
-   "rank": 19,
+   "rank": 20,
    "comedian_id": "john-mulaney",
    "name": "John Mulaney",
-   "score": 2.0717,
+   "score": 2.0453,
    "legs": {
     "critics": 0.0,
-    "audience": 0.8553,
+    "audience": 0.8421,
     "awards": 0.3611
    },
-   "disagreement": 0.2471,
+   "disagreement": 0.2405,
    "generation": "aughts",
-   "imdb_wr": 7.82,
+   "imdb_wr": 7.881,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 5
@@ -1321,74 +1321,91 @@
    "rank": 22,
    "comedian_id": "vir-das",
    "name": "Vir Das",
-   "score": 1.8158,
+   "score": 1.8422,
    "legs": {
     "critics": 0.0,
-    "audience": 0.9079,
+    "audience": 0.9211,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 7.967,
+   "imdb_wr": 8.235,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 6
   },
   {
-   "rank": 33,
-   "comedian_id": "demetri-martin",
-   "name": "Demetri Martin",
-   "score": 1.582,
+   "rank": 34,
+   "comedian_id": "aziz-ansari",
+   "name": "Aziz Ansari",
+   "score": 1.6441,
    "legs": {
-    "critics": 0.0,
-    "audience": 0.7632,
-    "awards": 0.0556
+    "critics": 0.0714,
+    "audience": 0.6316,
+    "awards": 0.1667
    },
-   "disagreement": 0.3538,
+   "disagreement": 0.2447,
    "generation": "aughts",
-   "imdb_wr": 7.284,
+   "imdb_wr": 7.103,
    "cc2004": null,
-   "rs2017": null,
+   "rs2017": 49,
    "gen_rank": 7
   },
   {
-   "rank": 37,
-   "comedian_id": "aziz-ansari",
-   "name": "Aziz Ansari",
-   "score": 1.5387,
+   "rank": 35,
+   "comedian_id": "demetri-martin",
+   "name": "Demetri Martin",
+   "score": 1.5556,
    "legs": {
-    "critics": 0.0714,
-    "audience": 0.5789,
-    "awards": 0.1667
+    "critics": 0.0,
+    "audience": 0.75,
+    "awards": 0.0556
    },
-   "disagreement": 0.2202,
+   "disagreement": 0.3472,
    "generation": "aughts",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.417,
    "cc2004": null,
-   "rs2017": 49,
+   "rs2017": null,
    "gen_rank": 8
   },
   {
-   "rank": 45,
+   "rank": 41,
    "comedian_id": "pablo-francisco",
    "name": "Pablo Francisco",
-   "score": 1.2894,
+   "score": 1.3948,
    "legs": {
     "critics": 0.0,
-    "audience": 0.6447,
+    "audience": 0.6974,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.989,
+   "imdb_wr": 7.378,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 9
   },
   {
-   "rank": 50,
+   "rank": 49,
    "comedian_id": "chelsea-handler",
    "name": "Chelsea Handler",
+   "score": 1.1842,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.5921,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "aughts",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 10
+  },
+  {
+   "rank": 53,
+   "comedian_id": "jack-whitehall",
+   "name": "Jack Whitehall",
    "score": 1.079,
    "legs": {
     "critics": 0.0,
@@ -1397,13 +1414,13 @@
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
-   "gen_rank": 10
+   "gen_rank": 11
   },
   {
-   "rank": 52,
+   "rank": 55,
    "comedian_id": "donald-glover",
    "name": "Donald Glover",
    "score": 1.1491,
@@ -1414,32 +1431,32 @@
    },
    "disagreement": 0.3377,
    "generation": "aughts",
-   "imdb_wr": 6.274,
-   "cc2004": null,
-   "rs2017": null,
-   "gen_rank": 11
-  },
-  {
-   "rank": 57,
-   "comedian_id": "jack-whitehall",
-   "name": "Jack Whitehall",
-   "score": 0.9736,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.4868,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "aughts",
-   "imdb_wr": 6.856,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 12
   },
   {
-   "rank": 58,
+   "rank": 57,
    "comedian_id": "jim-gaffigan",
    "name": "Jim Gaffigan",
+   "score": 1.0264,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.5132,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "aughts",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 13
+  },
+  {
+   "rank": 61,
+   "comedian_id": "mo-amer",
+   "name": "Mo Amer",
    "score": 0.921,
    "legs": {
     "critics": 0.0,
@@ -1448,30 +1465,13 @@
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.856,
-   "cc2004": null,
-   "rs2017": null,
-   "gen_rank": 13
-  },
-  {
-   "rank": 62,
-   "comedian_id": "mo-amer",
-   "name": "Mo Amer",
-   "score": 0.8158,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.4079,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "aughts",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 14
   },
   {
-   "rank": 65,
+   "rank": 67,
    "comedian_id": "amy-schumer",
    "name": "Amy Schumer",
    "score": 0.8136,
@@ -1489,6 +1489,40 @@
   },
   {
    "rank": 72,
+   "comedian_id": "tom-papa",
+   "name": "Tom Papa",
+   "score": 0.7106,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.3553,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "aughts",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 16
+  },
+  {
+   "rank": 74,
+   "comedian_id": "whitney-cummings",
+   "name": "Whitney Cummings",
+   "score": 0.6578,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.3289,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "aughts",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 17
+  },
+  {
+   "rank": 75,
    "comedian_id": "tig-notaro",
    "name": "Tig Notaro",
    "score": 0.6429,
@@ -1502,40 +1536,6 @@
    "imdb_wr": null,
    "cc2004": null,
    "rs2017": 35,
-   "gen_rank": 16
-  },
-  {
-   "rank": 74,
-   "comedian_id": "tom-papa",
-   "name": "Tom Papa",
-   "score": 0.6052,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.3026,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "aughts",
-   "imdb_wr": 6.856,
-   "cc2004": null,
-   "rs2017": null,
-   "gen_rank": 17
-  },
-  {
-   "rank": 76,
-   "comedian_id": "whitney-cummings",
-   "name": "Whitney Cummings",
-   "score": 0.5526,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.2763,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "aughts",
-   "imdb_wr": 6.856,
-   "cc2004": null,
-   "rs2017": null,
    "gen_rank": 18
   },
   {
@@ -1550,7 +1550,7 @@
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.59,
+   "imdb_wr": 6.62,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 19
@@ -1567,7 +1567,7 @@
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 20
@@ -1601,7 +1601,7 @@
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 22
@@ -1618,7 +1618,7 @@
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 23
@@ -1635,7 +1635,7 @@
    },
    "disagreement": 0.0,
    "generation": "aughts",
-   "imdb_wr": 6.274,
+   "imdb_wr": 6.189,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 24
@@ -2034,18 +2034,18 @@
  ],
  "tens": [
   {
-   "rank": 23,
+   "rank": 28,
    "comedian_id": "ali-wong",
    "name": "Ali Wong",
-   "score": 1.7441,
+   "score": 1.7179,
    "legs": {
     "critics": 0.0,
-    "audience": 0.8026,
+    "audience": 0.7895,
     "awards": 0.1389
    },
-   "disagreement": 0.3318,
+   "disagreement": 0.3253,
    "generation": "tens",
-   "imdb_wr": 7.447,
+   "imdb_wr": 7.5,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 1
@@ -2054,91 +2054,91 @@
    "rank": 30,
    "comedian_id": "tom-segura",
    "name": "Tom Segura",
-   "score": 1.6842,
+   "score": 1.6578,
    "legs": {
     "critics": 0.0,
-    "audience": 0.8421,
+    "audience": 0.8289,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 7.719,
+   "imdb_wr": 7.855,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 2
   },
   {
-   "rank": 32,
-   "comedian_id": "taylor-tomlinson",
-   "name": "Taylor Tomlinson",
-   "score": 1.5526,
+   "rank": 31,
+   "comedian_id": "nate-bargatze",
+   "name": "Nate Bargatze",
+   "score": 1.6052,
    "legs": {
     "critics": 0.0,
-    "audience": 0.7763,
+    "audience": 0.8026,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 7.326,
+   "imdb_wr": 7.558,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 3
   },
   {
-   "rank": 34,
-   "comedian_id": "nate-bargatze",
-   "name": "Nate Bargatze",
-   "score": 1.5,
+   "rank": 36,
+   "comedian_id": "taylor-tomlinson",
+   "name": "Taylor Tomlinson",
+   "score": 1.4736,
    "legs": {
     "critics": 0.0,
-    "audience": 0.75,
+    "audience": 0.7368,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 7.245,
+   "imdb_wr": 7.41,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 4
   },
   {
-   "rank": 41,
+   "rank": 43,
    "comedian_id": "michael-che",
    "name": "Michael Che",
-   "score": 1.421,
+   "score": 1.3158,
    "legs": {
     "critics": 0.0,
-    "audience": 0.7105,
+    "audience": 0.6579,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 7.149,
+   "imdb_wr": 7.244,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 5
   },
   {
-   "rank": 42,
-   "comedian_id": "iliza-shlesinger",
-   "name": "Iliza Shlesinger",
-   "score": 1.3948,
+   "rank": 48,
+   "comedian_id": "catherine-cohen",
+   "name": "Catherine Cohen",
+   "score": 1.2106,
    "legs": {
     "critics": 0.0,
-    "audience": 0.6974,
+    "audience": 0.6053,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 7.1,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 6
   },
   {
-   "rank": 49,
-   "comedian_id": "catherine-cohen",
-   "name": "Catherine Cohen",
+   "rank": 52,
+   "comedian_id": "fortune-feimster",
+   "name": "Fortune Feimster",
    "score": 1.1052,
    "legs": {
     "critics": 0.0,
@@ -2147,15 +2147,15 @@
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 7
   },
   {
-   "rank": 56,
-   "comedian_id": "fortune-feimster",
-   "name": "Fortune Feimster",
+   "rank": 58,
+   "comedian_id": "joe-list",
+   "name": "Joe List",
    "score": 1.0,
    "legs": {
     "critics": 0.0,
@@ -2164,15 +2164,32 @@
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 8
   },
   {
    "rank": 59,
-   "comedian_id": "joe-list",
-   "name": "Joe List",
+   "comedian_id": "kate-berlant",
+   "name": "Kate Berlant",
+   "score": 0.9736,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.4868,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "tens",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 9
+  },
+  {
+   "rank": 62,
+   "comedian_id": "moses-storm",
+   "name": "Moses Storm",
    "score": 0.8948,
    "legs": {
     "critics": 0.0,
@@ -2181,32 +2198,32 @@
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 6.856,
-   "cc2004": null,
-   "rs2017": null,
-   "gen_rank": 9
-  },
-  {
-   "rank": 60,
-   "comedian_id": "kate-berlant",
-   "name": "Kate Berlant",
-   "score": 0.8684,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.4342,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "tens",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 10
   },
   {
-   "rank": 66,
-   "comedian_id": "moses-storm",
-   "name": "Moses Storm",
+   "rank": 64,
+   "comedian_id": "phil-wang",
+   "name": "Phil Wang",
+   "score": 0.8158,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.4079,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "tens",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 11
+  },
+  {
+   "rank": 68,
+   "comedian_id": "sam-jay",
+   "name": "Sam Jay",
    "score": 0.7894,
    "legs": {
     "critics": 0.0,
@@ -2215,32 +2232,32 @@
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 6.856,
-   "cc2004": null,
-   "rs2017": null,
-   "gen_rank": 11
-  },
-  {
-   "rank": 69,
-   "comedian_id": "phil-wang",
-   "name": "Phil Wang",
-   "score": 0.7106,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.3553,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "tens",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 12
   },
   {
-   "rank": 70,
-   "comedian_id": "sam-jay",
-   "name": "Sam Jay",
+   "rank": 69,
+   "comedian_id": "sam-morril",
+   "name": "Sam Morril",
+   "score": 0.7632,
+   "legs": {
+    "critics": 0.0,
+    "audience": 0.3816,
+    "awards": 0.0
+   },
+   "disagreement": 0.0,
+   "generation": "tens",
+   "imdb_wr": 7.103,
+   "cc2004": null,
+   "rs2017": null,
+   "gen_rank": 13
+  },
+  {
+   "rank": 73,
+   "comedian_id": "trevor-noah",
+   "name": "Trevor Noah",
    "score": 0.6842,
    "legs": {
     "critics": 0.0,
@@ -2249,41 +2266,24 @@
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 6.856,
-   "cc2004": null,
-   "rs2017": null,
-   "gen_rank": 13
-  },
-  {
-   "rank": 71,
-   "comedian_id": "sam-morril",
-   "name": "Sam Morril",
-   "score": 0.6578,
-   "legs": {
-    "critics": 0.0,
-    "audience": 0.3289,
-    "awards": 0.0
-   },
-   "disagreement": 0.0,
-   "generation": "tens",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 14
   },
   {
-   "rank": 75,
-   "comedian_id": "trevor-noah",
-   "name": "Trevor Noah",
-   "score": 0.579,
+   "rank": 76,
+   "comedian_id": "iliza-shlesinger",
+   "name": "Iliza Shlesinger",
+   "score": 0.6316,
    "legs": {
     "critics": 0.0,
-    "audience": 0.2895,
+    "audience": 0.3158,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.101,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 15
@@ -2300,7 +2300,7 @@
    },
    "disagreement": 0.0,
    "generation": "tens",
-   "imdb_wr": 5.263,
+   "imdb_wr": 4.674,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 16
@@ -2716,18 +2716,18 @@
  ],
  "twenties": [
   {
-   "rank": 73,
+   "rank": 70,
    "comedian_id": "sarah-cooper",
    "name": "Sarah Cooper",
-   "score": 0.6316,
+   "score": 0.7368,
    "legs": {
     "critics": 0.0,
-    "audience": 0.3158,
+    "audience": 0.3684,
     "awards": 0.0
    },
    "disagreement": 0.0,
    "generation": "twenties",
-   "imdb_wr": 6.856,
+   "imdb_wr": 7.103,
    "cc2004": null,
    "rs2017": null,
    "gen_rank": 1
