@@ -236,15 +236,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 63.1,
-    "legacy_era": 21.8,
+    "legacy": 63.5,
+    "legacy_era": 21.9,
     "audience": 30.0,
     "popularity": null,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.331
+    "canon_lag": -0.335
   },
   "tier": "king",
   "region": "us",

@@ -1440,31 +1440,6 @@
   "total_views": 5700000
  },
  {
-  "comedian_id": "ellen-degeneres",
-  "comedian": "Ellen Degeneres",
-  "title": "Ellen DeGeneres: For Your Approval",
-  "halves": {
-   "2024H2": {
-    "hours": 5400000,
-    "views": 4600000
-   },
-   "2025H1": {
-    "hours": 500000,
-    "views": 400000
-   },
-   "2025H2": {
-    "hours": 200000,
-    "views": 200000
-   },
-   "2026H1": {
-    "hours": 100000,
-    "views": 100000
-   }
-  },
-  "total_hours": 6200000,
-  "total_views": 5300000
- },
- {
   "comedian_id": "jimmy-carr",
   "comedian": "Jimmy Carr",
   "title": "Jimmy Carr: Natural Born Killer",
@@ -7295,31 +7270,6 @@
   },
   "total_hours": 700000,
   "total_views": 100000
- },
- {
-  "comedian_id": "ellen-degeneres",
-  "comedian": "Ellen Degeneres",
-  "title": "Ellen DeGeneres: Relatable: Special",
-  "halves": {
-   "2023H1": {
-    "hours": 300000,
-    "views": 0
-   },
-   "2023H2": {
-    "hours": 100000,
-    "views": 100000
-   },
-   "2024H1": {
-    "hours": 100000,
-    "views": 100000
-   },
-   "2024H2": {
-    "hours": 100000,
-    "views": 100000
-   }
-  },
-  "total_hours": 600000,
-  "total_views": 300000
  },
  {
   "comedian_id": "dave-attell",

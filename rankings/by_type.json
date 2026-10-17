@@ -543,16 +543,6 @@
    "generation": "eighties-boom"
   },
   {
-   "type_rank": 3,
-   "comedian_id": "ellen-degeneres",
-   "name": "Ellen Degeneres",
-   "type": "observational",
-   "legacy": 92.7,
-   "audience": null,
-   "overrated": null,
-   "generation": "eighties-boom"
-  },
-  {
    "type_rank": 4,
    "comedian_id": "bill-maher",
    "name": "Bill Maher",

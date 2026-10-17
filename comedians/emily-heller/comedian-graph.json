@@ -227,8 +227,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 31.8,
-    "legacy_era": 59.2,
+    "legacy": 32.0,
+    "legacy_era": 59.0,
     "audience": null,
     "popularity": null,
     "theory": 0.0,

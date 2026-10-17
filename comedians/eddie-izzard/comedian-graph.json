@@ -432,15 +432,15 @@
     }
   },
   "metrics": {
-    "legacy": 91.6,
-    "legacy_era": 95.5,
+    "legacy": 92.1,
+    "legacy_era": 94.9,
     "audience": 90.0,
-    "popularity": 51.8,
+    "popularity": 52.7,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.382,
+    "gap_value": -0.373,
     "overrated": "underrated",
-    "canon_lag": -0.016
+    "canon_lag": -0.021
   },
   "tier": "king",
   "region": "uk",

@@ -59,7 +59,6 @@ GEN: dict[str, tuple[str, str, str]] = {
     # eighties-boom
     "jerry-seinfeld": ("eighties-boom", "club", "1980s club → Tonight Show 1981 → sitcom 1989"),
     "eddie-murphy": ("eighties-boom", "club", "SNL 1980 → Delirious 1983"),
-    "ellen-degeneres": ("eighties-boom", "club", "1980s club → Tonight Show 1986"),
     "chris-rock": ("eighties-boom", "club", "Def Jam late-80s → SNL 1990 → Bring the Pain 1996"),
     "joan-rivers": ("eighties-boom", "club", "1960s start, peak 80s Tonight Show era"),
     "steven-wright": ("eighties-boom", "club", "1980s club → Tonight Show 1982"),

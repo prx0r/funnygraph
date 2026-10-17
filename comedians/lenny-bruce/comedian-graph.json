@@ -340,12 +340,12 @@
   },
   "metrics": {
     "legacy": 96.1,
-    "legacy_era": 92.7,
+    "legacy_era": 91.6,
     "audience": 32.5,
-    "popularity": 7.1,
+    "popularity": 7.3,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.254,
+    "gap_value": -0.252,
     "overrated": "underrated",
     "canon_lag": -0.636
   },

@@ -299,15 +299,15 @@
     }
   },
   "metrics": {
-    "legacy": 76.5,
-    "legacy_era": 81.0,
+    "legacy": 77.0,
+    "legacy_era": 80.9,
     "audience": 47.5,
-    "popularity": 19.6,
+    "popularity": 20.0,
     "theory": 0.0,
     "heat": null,
-    "gap_value": -0.279,
+    "gap_value": -0.275,
     "overrated": "underrated",
-    "canon_lag": -0.29
+    "canon_lag": -0.295
   },
   "tier": "king",
   "region": "ireland",

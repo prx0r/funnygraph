@@ -342,15 +342,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 54.8,
-    "legacy_era": 2.2,
+    "legacy": 55.1,
+    "legacy_era": 1.7,
     "audience": 35.0,
-    "popularity": 69.0,
+    "popularity": 69.4,
     "theory": 0.0,
     "heat": null,
-    "gap_value": 0.34,
+    "gap_value": 0.344,
     "overrated": "overrated",
-    "canon_lag": -0.198
+    "canon_lag": -0.201
   },
   "tier": "king",
   "region": "australia",

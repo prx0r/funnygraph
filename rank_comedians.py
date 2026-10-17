@@ -32,6 +32,20 @@ AWARD_W = {"mark twain": 3.0, "grammy": 2.0, "emmy": 1.5, "peabody": 1.5,
 
 TIER_RANKED = ("king",)  # indies excluded from canon until promoted
 
+def _excluded() -> set:
+    """Comedians excluded by owner prerogative (see EXCLUSIONS.md)."""
+    try:
+        import json as _j
+        from pathlib import Path as _P
+        here = _P(__file__).parent
+        ex = _j.loads((here / "excluded.json").read_text())
+        return set(ex.get("excluded", []))
+    except Exception:
+        return set()
+
+EXCLUDED = _excluded()
+
+
 
 def load_comics() -> dict:
     comics = {}
@@ -41,6 +55,8 @@ def load_comics() -> dict:
             continue
         j = json.loads(g.read_text())
         if j.get("tier", "king") not in TIER_RANKED:
+            continue
+        if d.name in EXCLUDED:
             continue
         comics[d.name] = j
     return comics

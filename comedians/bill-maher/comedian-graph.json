@@ -287,10 +287,10 @@
     }
   },
   "metrics": {
-    "legacy": 89.9,
-    "legacy_era": 95.0,
+    "legacy": 91.0,
+    "legacy_era": 95.5,
     "audience": null,
-    "popularity": 46.4,
+    "popularity": 47.3,
     "theory": 25.0,
     "heat": null,
     "gap_value": null,
