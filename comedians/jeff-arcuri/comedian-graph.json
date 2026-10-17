@@ -37,15 +37,15 @@
   "nearest_greats": [
     {
       "comedian_id": "mark-normand",
-      "sim": 0.079
+      "sim": 0.08
     },
     {
       "comedian_id": "william-montgomery",
-      "sim": 0.038
+      "sim": 0.034
     },
     {
       "comedian_id": "hans-kim",
-      "sim": 0.031
+      "sim": 0.027
     }
   ],
   "sets": [],
@@ -72,5 +72,43 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "incongruity",
+      "status_reversal",
+      "benign_violation"
+    ],
+    "via": "mark-normand",
+    "sim": 0.08,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://jeffarcuri.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

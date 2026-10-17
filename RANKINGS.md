@@ -49,7 +49,7 @@ Four voter legs, each a partial ranking over the 181:
    who postdate the list (Gillis can't be on a 2004 list) — those are
    *missing*, not *low*. This distinction is the whole ballgame.
 2. **Audience leg** — IMDb standout-special WR per comedian (Top-250 formula,
-   m=1000 votes). Cardinal → ranking.
+   m=500, C=7.50 calibrated to the specials corpus). Cardinal → ranking.
 3. **Awards leg** — prestige-weighted: Mark Twain Prize > Grammy Best Comedy
    Album > Emmy. Binary-ish signals, high authority, low coverage.
 4. **Arena leg** (later) — our own blind pairwise votes → Bradley-Terry scores.

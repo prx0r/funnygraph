@@ -246,15 +246,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 70.2,
-    "legacy_era": 21.9,
+    "legacy": 74.9,
+    "legacy_era": 18.5,
     "audience": 30.0,
     "popularity": null,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.402
+    "canon_lag": -0.449
   },
   "tier": "king",
   "region": "us",
@@ -313,5 +313,43 @@
         "year": 2022
       }
     ]
+  },
+  "rating": {
+    "headline": 41.8,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 58,
+        "pct": 41.8,
+        "sweep": [
+          55,
+          58
+        ]
+      },
+      "consensus": {
+        "rank": 54,
+        "ref": true
+      },
+      "canon": {
+        "rank": 46,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 37,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 173,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 55,
+      "hi": 58
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

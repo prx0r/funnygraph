@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 57.2,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,15 +58,74 @@
   "nearest_greats": [
     {
       "comedian_id": "brian-regan",
-      "sim": 0.119
+      "sim": 0.14
     },
     {
       "comedian_id": "sebastian-maniscalco",
-      "sim": 0.08
+      "sim": 0.096
     },
     {
-      "comedian_id": "stewart-lee",
-      "sim": 0.044
+      "comedian_id": "maria-bamford",
+      "sim": 0.048
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCGw7MagvEzdV3wQNMA7gsyA",
+    "handle": "celestebarber",
+    "title": "Celeste Barber",
+    "subs": 77400,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-07-22",
+    "name_match_rate": 0.53,
+    "other_names": [
+      "Because Tuesday",
+      "Call Celeste Barbie",
+      "Date Night",
+      "Mealtime Trailer",
+      "Naptime Trailer",
+      "Skewered Celeste Barber",
+      "The Final"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [
+      "incongruity",
+      "benign_violation"
+    ],
+    "via": "brian-regan",
+    "sim": 0.14,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://celestebarber.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

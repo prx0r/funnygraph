@@ -1,0 +1,122 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "tamsyn-kelly",
+  "name": "Tamsyn Kelly",
+  "tier": "indie",
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "youtube-uploads:angel-comedy"
+    ],
+    "discovery_note": "Name-mined from angel-comedy uploads (registry playlist, no search).",
+    "evidence": [
+      {
+        "videoId": "Bt52J3eGU64",
+        "title": "Cornwall vs Devon | Tamsyn Kelly @ Angel Comedy Club London | #standupcomedy",
+        "views": 118,
+        "publishedAt": "2026-06-27"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 15.9,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCzuJA9qCY2CrouOvqDE1qoA",
+    "handle": "tamsynkelly",
+    "title": "Tamsyn Kelly",
+    "subs": 0,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.049
+    },
+    {
+      "comedian_id": "bo-burnham",
+      "sim": 0.028
+    }
+  ],
+  "style_tags": {
+    "humor_type": "meta",
+    "theories": [
+      "rigidity",
+      "bisociation",
+      "status_reversal"
+    ],
+    "via": "stewart-lee",
+    "sim": 0.049,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
+}

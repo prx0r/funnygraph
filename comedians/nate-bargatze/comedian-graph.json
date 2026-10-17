@@ -441,15 +441,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 83.2,
-    "legacy_era": 89.9,
+    "legacy": 85.8,
+    "legacy_era": 91.5,
     "audience": 65.0,
-    "popularity": 92.1,
+    "popularity": 95.3,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.271,
+    "gap_value": 0.303,
     "overrated": "overrated",
-    "canon_lag": -0.182
+    "canon_lag": -0.208
   },
   "tier": "king",
   "region": "us",
@@ -489,5 +489,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 65.3,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 35,
+        "pct": 65.3,
+        "sweep": [
+          28,
+          35
+        ]
+      },
+      "consensus": {
+        "rank": 31,
+        "ref": true
+      },
+      "canon": {
+        "rank": 164,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 16,
+        "wr": 7.558,
+        "ref": true
+      },
+      "era": {
+        "rank": 19,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 28,
+      "hi": 35
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.natebargatze.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

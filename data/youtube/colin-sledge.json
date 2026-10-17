@@ -1,0 +1,58 @@
+{
+ "comedian_id": "colin-sledge",
+ "name": "Colin Sledge",
+ "channels": {
+  "UCJF7aGjEZdoOL0injpvHlgw": {
+   "subs": 0,
+   "channel_views": 3,
+   "channel": "colin sledge"
+  }
+ },
+ "clips": 2,
+ "total_views": 3,
+ "total_likes": 0,
+ "avg_views": 1,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "4VDz9GNPtI4",
+  "title": "Leadership scales 2025",
+  "channel": "colin sledge",
+  "channelId": "UCJF7aGjEZdoOL0injpvHlgw",
+  "channel_subs": 0,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2025-04-18",
+  "views": 2,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 230
+ },
+ "rows": [
+  {
+   "videoId": "4VDz9GNPtI4",
+   "title": "Leadership scales 2025",
+   "channel": "colin sledge",
+   "channelId": "UCJF7aGjEZdoOL0injpvHlgw",
+   "channel_subs": 0,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2025-04-18",
+   "views": 2,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 230
+  },
+  {
+   "videoId": "8UfpO0Va6aI",
+   "title": "Leadership scales 2026",
+   "channel": "colin sledge",
+   "channelId": "UCJF7aGjEZdoOL0injpvHlgw",
+   "channel_subs": 0,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-05",
+   "views": 1,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 218
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

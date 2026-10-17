@@ -425,15 +425,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 90.5,
-    "legacy_era": 88.2,
+    "legacy": 91.9,
+    "legacy_era": 90.0,
     "audience": 47.5,
     "popularity": 100.0,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.525,
     "overrated": "massively overrated",
-    "canon_lag": -0.43
+    "canon_lag": -0.444
   },
   "tier": "king",
   "region": "us",
@@ -485,5 +485,43 @@
       "people",
       "bitch"
     ]
+  },
+  "rating": {
+    "headline": 73.5,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 27,
+        "pct": 73.5,
+        "sweep": [
+          17,
+          58
+        ]
+      },
+      "consensus": {
+        "rank": 18,
+        "ref": true
+      },
+      "canon": {
+        "rank": 17,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 57,
+        "wr": 6.901,
+        "ref": true
+      },
+      "era": {
+        "rank": 22,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 17,
+      "hi": 58
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

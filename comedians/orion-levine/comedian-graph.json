@@ -1,0 +1,135 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "orion-levine",
+  "name": "Orion Levine",
+  "tier": "indie",
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "deadline-2026"
+    ],
+    "discovery_note": "JFL New Face 2022, DTC set 197k, Read the Room live show"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 46.9,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UC_qP6jozf4d3_Wh0V1Yfmhw",
+    "handle": "orionlevine",
+    "title": "Orion Levine",
+    "subs": 3870,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 73,
+    "newest_upload": "2026-08-08",
+    "name_match_rate": 0.03,
+    "other_names": [
+      "Season Finale"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "mark-normand",
+      "sim": 0.103
+    },
+    {
+      "comedian_id": "william-montgomery",
+      "sim": 0.071
+    },
+    {
+      "comedian_id": "dave-chappelle",
+      "sim": 0.066
+    }
+  ],
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "incongruity",
+      "status_reversal",
+      "benign_violation"
+    ],
+    "via": "mark-normand",
+    "sim": 0.103,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://orionlevine.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "known_bits": [
+    {
+      "title": "Read the Room (tarot crowdwork)",
+      "why_it_works": "Tarot reader + crowdwork Q&A: outsources the premise to the audience's own burning questions, then riffs the answers \u2014 repeat_variation on strangers' lives. Format IS the bit. (Deadline 2026; hypothesis)",
+      "theory_links": [
+        "repeat_variation",
+        "split_knowledge"
+      ],
+      "source": "deadline-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ]
+}

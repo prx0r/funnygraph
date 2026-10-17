@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 46.2,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,15 +58,68 @@
   "nearest_greats": [
     {
       "comedian_id": "brian-regan",
-      "sim": 0.092
+      "sim": 0.093
     },
     {
       "comedian_id": "emo-philips",
-      "sim": 0.075
+      "sim": 0.077
     },
     {
       "comedian_id": "sebastian-maniscalco",
-      "sim": 0.056
+      "sim": 0.059
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCHB_O42-fzl6GURDpMoVJTw",
+    "handle": "rhysdarby",
+    "title": "rhysdarby",
+    "subs": 702,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 11,
+    "newest_upload": "2009-05-05",
+    "name_match_rate": 0.18,
+    "other_names": [
+      "Imagine That"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [
+      "incongruity",
+      "benign_violation"
+    ],
+    "via": "brian-regan",
+    "sim": 0.093,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://rhysdarby.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

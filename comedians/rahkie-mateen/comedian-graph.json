@@ -48,7 +48,7 @@
     "legacy_era": null,
     "audience": null,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 12.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -58,5 +58,39 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
-  }
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "known_bits": [
+    {
+      "title": "Unapologetically Rocky (vulnerability set)",
+      "why_it_works": "Solo show converting vulnerability to power on stage: expose_self_blindness as method \u2014 the wound is the premise, the scar is the punchline. (GOLD 2026; premise-inferred hypothesis)",
+      "theory_links": [
+        "expose_self_blindness",
+        "status_reversal"
+      ],
+      "source": "gold-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ]
 }

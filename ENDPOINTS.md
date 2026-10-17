@@ -3,11 +3,16 @@
 > Define the crown first. Derive the criteria. Build only the pipelines each
 > crown needs. Status per endpoint: LIVE / NEEDS / BLOCKED.
 
-## 1. Greatest Comedian of All Time ✅ LIVE
-- **Criteria:** consensus across critics + audience + awards, era-normalized.
-- **Pipelines:** rank_comedians.py (Borda → Kemenization → z-scores). All built.
-- **Current:** Pryor/Carlin/Rock (raw) · Chappelle/Hicks/Carlin (era-adjusted).
-- **Needs:** awards leg depth (bios running), arena pairwise (TOP2026).
+## 1. Greatest Comedian of All Time ✅ LIVE (proprietary)
+- **Criteria:** HOUSE election — first-party signals only (P1 measured
+  joke quality + P2 theory depth, mean of available legs; P4 arena
+  reserved). External judgments (critics/IMDb/awards) display as labeled
+  reference panels, never inputs.
+- **Pipelines:** house_rank.py (weight-sweep intervals per position).
+  Reference elections: rank_comedians.py + split_boards.py (kept, labeled).
+- **Current:** Norm/Louis/Carlin (house) vs Carlin/Pryor/Rock (consensus ref).
+  The gap between ours and theirs is itself product.
+- **Needs:** P1 coverage 18→50+ (annotation), P4 arena votes (TOP2026).
 
 ## 2. Greatest Special of All Time ✅ LIVE
 - **Criteria:** IMDb WR (Top-250 shrinkage) + Netflix hours as corroboration.
@@ -48,9 +53,19 @@
 - **Pipelines:** rankings/by_continent.json built; regional awards missing.
 - **Blocked on:** non-US awards legs, non-English IMDb coverage.
 
-## 10. Comedian of the Week / Rising Star 🔶 NEEDS pulse cadence
-- **Criteria:** weekly velocity + bracket + sentiment (pulse.py built).
-- **Blocked on:** Monday snapshot cadence (automatic), subs backfill (quota).
+## 10. Comedian of the Week / Rising Star / New Comic 🔶 PARTIAL (boards live, velocity pending)
+- **Criteria:** weekly velocity + bracket (pulse.py built + upgraded).
+- **Pipelines:** discover.py --scan (registry uploads → indie drafts, KT
+  fountain live: 6 verified drafts 2026-10-17) → --fetch-sets (BLOCKED:
+  InnerTube denied + yt-dlp missing; needs owner cookies) → indie.py
+  --score/--match-greats → rate.py --check (auto-rates) → pulse.py
+  --report → rankings/spotlight.json (comedian_of_week, bracket_champs,
+  rising_star, new_comic_of_week, trending_clips).
+- **Live now:** spotlight.json (absolute mode: Hart 525M, Burnham 340M;
+  NEW: Basketmouth 12.5M indie), indie --spotlight queue (Kam Patterson
+  0.71 scored; 119 awaiting material — the sets bottleneck, quantified).
+- **Blocked on:** Monday snapshot cadence (velocity needs 2+ snaps),
+  cookie export for caption pulls (6 drafted indies have zero sets).
 
 ## Pipeline dependency map
 ```

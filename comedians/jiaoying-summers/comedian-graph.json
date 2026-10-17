@@ -40,11 +40,11 @@
     },
     {
       "comedian_id": "jim-norton",
-      "sim": 0.057
+      "sim": 0.063
     },
     {
       "comedian_id": "joan-rivers",
-      "sim": 0.053
+      "sim": 0.058
     }
   ],
   "sets": [],
@@ -60,7 +60,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 60.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -71,5 +71,62 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UC6tI7PwweyR3TQlsMTR1zWg",
+    "handle": "jiaoyingsummers",
+    "title": "Jiaoying Summers",
+    "subs": 530000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-16",
+    "name_match_rate": 0.55,
+    "other_names": [
+      "Aussie Chinese",
+      "Golden Showers",
+      "Jenny Tian",
+      "Kaila Yu"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "via": "joe-list",
+    "sim": 0.064,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://jiaoyingsummers.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

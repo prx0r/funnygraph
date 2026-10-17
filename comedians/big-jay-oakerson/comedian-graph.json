@@ -229,8 +229,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 41.0,
-    "legacy_era": 68.5,
+    "legacy": 49.3,
+    "legacy_era": 72.5,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -271,5 +271,40 @@
       "girls",
       "because"
     ]
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 108,
+        "ref": true
+      },
+      "canon": {
+        "rank": 63,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 59,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://bigjaycomedy.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

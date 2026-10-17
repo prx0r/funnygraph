@@ -273,15 +273,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 70.8,
-    "legacy_era": 76.4,
+    "legacy": 75.4,
+    "legacy_era": 80.1,
     "audience": 30.0,
     "popularity": 91.2,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.612,
     "overrated": "massively overrated",
-    "canon_lag": -0.408
+    "canon_lag": -0.454
   },
   "tier": "king",
   "region": "uk",
@@ -331,5 +331,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 42.9,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 57,
+        "pct": 42.9,
+        "sweep": [
+          54,
+          57
+        ]
+      },
+      "consensus": {
+        "rank": 53,
+        "ref": true
+      },
+      "canon": {
+        "rank": 125,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 36,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 43,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 54,
+      "hi": 57
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.jackwhitehall.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

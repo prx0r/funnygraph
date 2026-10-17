@@ -1215,15 +1215,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 94.9,
-    "legacy_era": 97.2,
+    "legacy": 95.7,
+    "legacy_era": 97.6,
     "audience": 87.5,
-    "popularity": 54.8,
+    "popularity": 67.5,
     "theory": 87.5,
     "heat": null,
-    "gap_value": -0.327,
+    "gap_value": -0.2,
     "overrated": "underrated",
-    "canon_lag": -0.074
+    "canon_lag": -0.082
   },
   "tier": "king",
   "region": "us",
@@ -1261,5 +1261,48 @@
       "kids",
       "audience"
     ]
+  },
+  "rating": {
+    "headline": 99.0,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 2,
+        "pct": 99.0,
+        "sweep": [
+          1,
+          4
+        ]
+      },
+      "consensus": {
+        "rank": 10,
+        "ref": true
+      },
+      "canon": {
+        "rank": 13,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 3,
+        "wr": 8.458,
+        "ref": true
+      },
+      "era": {
+        "rank": 6,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 1,
+      "hi": 4
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://louisck.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -1,0 +1,121 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "jason-patterson",
+  "name": "Jason Patterson",
+  "tier": "indie",
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "venue-roster:angel-comedy"
+    ],
+    "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
+    "evidence": [
+      {
+        "roster": "https://www.angelcomedy.co.uk/comedians/",
+        "venue": "angel-comedy"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "region_method": "venue-scene (overwrite on origin evidence)"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 33.8,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCAfhcprYFqSBS2TinHBNC6A",
+    "handle": "jasonpatterson",
+    "title": "Jason Patterson",
+    "subs": 49,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 10,
+    "newest_upload": "2013-05-03",
+    "name_match_rate": 1.0,
+    "other_names": []
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.037
+    },
+    {
+      "comedian_id": "bo-burnham",
+      "sim": 0.021
+    }
+  ],
+  "style_tags": {
+    "humor_type": "meta",
+    "theories": [
+      "rigidity",
+      "bisociation",
+      "status_reversal"
+    ],
+    "via": "stewart-lee",
+    "sim": 0.037,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "region": "uk"
+}

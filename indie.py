@@ -1,6 +1,18 @@
 #!/usr/bin/env python3
 """INDIE — small-comic lane on the unified schema (tier:"indie").
 
+TIER LINE (owner 2026-10-17): king = established pros with national
+credits (TV/film, distributed specials, touring, list presence) — canon
+track. indie = literally unknown: own-channel clips, open-mic/club
+regulars, regional circuits, debut specials. Mis-tiered KT guests
+(Rawlings, Owen, Harland, Yakov, Trussell, Wheeler Walker) flipped to
+king on sight; Dry Bar debut comics stay indie until canon evidence.
+
+UNKNOWN-FOUNTAINS (verified, registry IDs): kill-tony bucket minutes,
+dry-bar debut specials, just-for-laughs New Faces, xiaoguo, basketmouth.
+PENDING owner paste: dont-tell-comedy, frog-and-bucket (Beat the Frog),
+angel-comedy (New Act Showcase) — see channels.json _pending_owner_paste.
+
 Design decision (2026-10-17): ONE schema (pogtown.comedian.v1) + tier field,
 not a separate graph type. Evidence: 123 auto-drafts already live fine in
 king schema with nulls, and every indie-only field (discovery, theory_score,
@@ -70,6 +82,50 @@ CURATED: dict[str, dict] = {
     "megan-gailey": {"sources": ["gold-2026"], "note": "Rock-solid honesty-and-timing standup"},
     "jeff-arcuri": {"sources": ["deadline-2025", "reddit"], "note": "r/JeffArcuri top-1% subreddit, front-page regular"},
 }
+# PRESS COMPILERS (2026-10-17 batch): editors vetted standup-first, zero
+# quota, near-zero junk. Deadline-2026 is the gold standard (explicitly
+# stand-ups-first, no groups, no SNL-boost, no repeats). Vulture mixes
+# sketch/improv/clowns — only confirmed standups admitted (see note).
+# Edinburgh Best Newcomer = Fringe-hour standups by construction (duos
+# skipped: Ada & Bron). Tier call: club-circuit/debut-hour/first-tour =
+# indie even with late-night spots; sustained national presence = king.
+PRESS_2026: dict[str, dict] = {
+ "vittorio-angelone": {"sources": ["deadline-2026"], "note": "Belfast→London, JFL New Face 2025, 40k tickets Who Do You Think You Are tour"},
+ "mary-beth-barone": {"sources": ["deadline-2026"], "note": "Netflix hour Galaxy Brain taping Mar, Pillow Talk club tour"},
+ "ryan-davis": {"sources": ["deadline-2026"], "note": "Under-Rated special via Ali Siddiq channel 2.3M views, 30-city club tour"},
+ "bo-johnson": {"sources": ["deadline-2026"], "note": "Debut hour Two Sailboats self-released, 333 headlining shows/2yr, DTC sets"},
+ "orion-levine": {"sources": ["deadline-2026"], "note": "JFL New Face 2022, DTC set 197k, Read the Room live show"},
+ "ismael-loutfi": {"sources": ["deadline-2026"], "note": "CC half hour Sound It Out, 2x DTC sets, JFL New Face 2016"},
+ "laura-peek": {"sources": ["deadline-2026"], "note": "JFL New Face 2022, paid regular Comedy Store, 2x DTC Secret Sets"},
+ "mike-rice": {"sources": ["deadline-2026"], "note": "Self-released An Irish Disgrace + Nasty Character, Edinburgh sellouts, first world tour 2026"},
+ "red-richardson": {"sources": ["deadline-2026"], "note": "Bugatti tour (Store sellouts), DTC set 371k, Gervais orbit"},
+ "erica-rhodes": {"sources": ["deadline-2026"], "note": "Call Me Crazy tour -> third special taping; AGT/Colbert spots, still club-breakout: indie"},
+ "rachel-scanlon": {"sources": ["deadline-2026"], "note": "Debut hour Gay Fantasy, DTC set, Two Dykes and a Mic theater tour"},
+ "brittany-schmitt": {"sources": ["deadline-2026"], "note": "800 Pound Gorilla From Ho to Housewife + Horny, DTC/CC sets, Von/Redd opener"},
+ "usama-siddiquee": {"sources": ["deadline-2026"], "note": "First headlining tour wrapped, DTC half hour, Colbert debut 2024"},
+ "jenny-tian": {"sources": ["deadline-2026"], "note": "Sydney circuit -> NYC, 2 self-released hours (900k/266k), Edinburgh + West End sellouts"},
+ "tanael-joachim": {"name": "TJ", "sources": ["deadline-2026"], "note": "Cellar/Gotham regular, Alien of Ordinary Ability 167k, Carlin-taught English"},
+ "aaron-weber": {"sources": ["deadline-2026"], "note": "Nashville/Opry youngest debut, JFL New Face 2021, 800PG Signature Dish 548k"},
+ "brent-weinbach": {"sources": ["deadline-2026"], "note": "Alt veteran (Andy Kaufman Award), Popular Culture 2025; no breakout: indie until canon evidence"},
+ "ayoade-bamgboye": {"sources": ["edinburgh-2025-newcomer-winner"], "note": "DLT Best Newcomer 2025, Swings and Roundabouts"},
+ "elouise-eftos": {"sources": ["edinburgh-2025-newcomer"], "note": "Best Newcomer nominee 2025, Australia's First Attractive Comedian"},
+ "kate-owens": {"sources": ["edinburgh-2025-newcomer"], "note": "Best Newcomer nominee 2025, Cooking with Kathryn"},
+ "molly-mcguinness": {"sources": ["edinburgh-2025-newcomer"], "note": "Best Newcomer nominee 2025, Slob"},
+ "roger-osullivan": {"sources": ["edinburgh-2025-newcomer"], "note": "Best Newcomer nominee 2025, Fekken"},
+ "toussaint-douglass": {"sources": ["edinburgh-2025-newcomer"], "note": "Best Newcomer nominee 2025, Accessible Pigeon Material"},
+ "marty-gleeson": {"sources": ["edinburgh-2026-newcomer-winner"], "note": "Best Newcomer 2026, Dog Ear"},
+ "ania-magliano": {"sources": ["vulture-2026"], "note": "Standup, SNL UK Weekend Update + Taskmaster; confirmed standup, rest of list skipped (mixed disciplines)"},
+ "ron-taylor": {"sources": ["vulture-2026"], "note": "Standup, Funny AF winner, decade of rooms before the break"},
+ "sureni-weerasekera": {"sources": ["vulture-2026"], "note": "Standup, Netflix Introducing, Brooklyn + college circuit"},
+ "liz-glazer": {"sources": ["gold-2026"], "note": "Smart personal standup, Sex-Education-adjacent rule-breaking (GOLD list)"},
+ "amber-singletary": {"sources": ["gold-2026"], "note": "Writers-room + growing standup footprint (GOLD list)"},
+ "johana-coca": {"sources": ["gold-2026"], "note": "Family/culture personal stories (GOLD list)"},
+ "charlene-kaye": {"sources": ["gold-2026"], "note": "Tiger Daughter solo show -> special (GOLD list)"},
+ "krishna-istha": {"sources": ["gold-2026"], "note": "Standup + Sex Education writing, genre-breaking (GOLD list)"},
+ "mx-dahlia-belle": {"sources": ["gold-2026"], "note": "Gender Agenda + festival sets (GOLD list)"},
+ "ella-yurman": {"sources": ["gold-2026"], "note": "All-trans standup show founder + political satire (GOLD list)"},
+}
+CURATED.update(PRESS_2026)
 
 
 def display(cid: str) -> str:
@@ -158,6 +214,11 @@ def seed_lists() -> None:
         d.mkdir(exist_ok=True)
         gpath = d / "comedian-graph.json"
         g = json.loads(gpath.read_text()) if gpath.exists() else _blank_indie(cid)
+        if g.get("tier") == "king":
+            print(f"  keep king: {cid} (press list never demotes)")
+            continue
+        if meta.get("name"):
+            g["name"] = meta["name"]
         g["tier"] = "indie"
         g["discovery"] = {"discovered_from": meta["sources"],
                           "discovery_note": meta["note"]}
@@ -203,6 +264,26 @@ def scribe_text_for(cid: str) -> str:
                 if isinstance(ws, list) and ws and isinstance(ws[0], dict):
                     texts.append(" ".join(w.get("text", "") for w in ws))
             except (OSError, json.JSONDecodeError):
+                continue
+    # funnygraph-local material: harvest_captions scribe + plain transcripts
+    fg_scribe = HERE / "scribe"
+    for pat in (f"{cid}*.json", f"{cid.replace('-', '_')}*.json"):
+        for p in fg_scribe.glob(pat):
+            try:
+                d = json.loads(p.read_text())
+                ws = d.get("words", [])
+                if isinstance(ws, list) and ws and isinstance(ws[0], dict):
+                    texts.append(" ".join(w.get("text", "") for w in ws))
+                elif isinstance(ws, list) and ws and isinstance(ws[0], str):
+                    texts.append(" ".join(ws))
+            except (OSError, json.JSONDecodeError):
+                continue
+    fg_tr = HERE / "transcripts" / cid
+    if fg_tr.exists():
+        for p in sorted(fg_tr.glob("*.txt")):
+            try:
+                texts.append(p.read_text(encoding="utf-8", errors="replace"))
+            except OSError:
                 continue
     return " ".join(texts)
 
@@ -253,6 +334,85 @@ def score_cmd() -> None:
     print(f"scored {n} indies with material")
 
 
+def ops_from_kt() -> None:
+    """KT minute judge analyses -> indie operator_priors (measured, not authored).
+
+    characters2 KT minutes carry per-set Jev theory judgments (mechanisms[]
+    with p + verdict, primary operator). No text, but structured theory
+    evidence per performer — aggregated here into operator priors:
+      score(op) = mean over the comic's minutes of p * w,
+      w = 1.0 (verdict yes) / 0.5 (uncertain) / 0.0 (no).
+    Written to identity.operator_priors with status measured-kt-jezv
+    (judge-measured, not transcript-measured — weaker than M4, stronger
+    than authored; the status says so). Theories outside our 15 ops kept
+    verbatim with the same status (extended evidence, not invented).
+    Indies only; kings keep authored/M4 priors.
+    """
+    ktd = Path("/root/characters2/theory/killtony-minutes")
+    if not ktd.exists():
+        print("no KT minutes dir")
+        return
+    from collections import defaultdict
+    per: dict[str, dict[str, list[float]]] = defaultdict(
+        lambda: defaultdict(list))
+    n_files = 0
+    for p in ktd.glob("*.json"):
+        stem = p.stem
+        stem = re.sub(r"\.(granular|gemini|performance|stage_timeline).*$", "", stem)
+        stem = re.sub(r"_(raw|short|clip)$", "", stem)
+        m = re.match(r"^([a-z_]+?)(?:_\d+)?(?:-\d+)?$", stem)
+        if not m:
+            continue
+        slug = m.group(1).replace("_", "-")
+        try:
+            d = json.loads(p.read_text())
+        except (OSError, json.JSONDecodeError):
+            continue
+        docs = d if isinstance(d, list) else [d]
+        for doc in docs:
+            if not isinstance(doc, dict):
+                continue
+            mechs = doc.get("mechanisms") or []
+            if not isinstance(mechs, list):
+                continue
+            n_files += 1
+            for mc in mechs:
+                if not isinstance(mc, dict):
+                    continue
+                th = mc.get("theory")
+                pv = mc.get("p")
+                if not th or not isinstance(pv, (int, float)):
+                    continue
+                w = {"yes": 1.0, "uncertain": 0.5}.get(
+                    (mc.get("verdict") or ""), 0.0)
+                per[slug][th].append(pv * w)
+    print(f"{n_files} KT analyses")
+    n = 0
+    for slug, ops in sorted(per.items()):
+        gpath = COMEDIANS / slug / "comedian-graph.json"
+        if not gpath.exists():
+            continue
+        g = json.loads(gpath.read_text())
+        if g.get("tier") != "indie":
+            continue
+        priors = {th: round(sum(v) / len(v), 3)
+                  for th, v in ops.items() if v}
+        priors = {k: v for k, v in priors.items() if v > 0}
+        if not priors:
+            continue
+        ident = g.setdefault("identity", {})
+        ident["operator_priors"] = priors
+        ident["operator_priors_status"] = (
+            "measured-kt-jezv: judge-aggregated over "
+            f"{sum(len(v) for v in ops.values())} mechanism reads "
+            f"({len(ops)} ops); judge-measured, not transcript-measured")
+        gpath.write_text(json.dumps(g, indent=1) + "\n", encoding="utf-8")
+        n += 1
+        top = sorted(priors.items(), key=lambda kv: -kv[1])[:3]
+        print(f"  {slug}: " + ", ".join(f"{k}={v}" for k, v in top))
+    print(f"operator priors set for {n} indies")
+
+
 def match_greats(top_k: int = 3) -> None:
     import sys as _sys
     _sys.path.insert(0, str(HERE))
@@ -288,6 +448,20 @@ def match_greats(top_k: int = 3) -> None:
         g["nearest_greats"] = [
             {"comedian_id": kids[k], "sim": round(float(sims[i, k]), 3)}
             for k in order if sims[i, k] > 0.02]
+        # style tags: inherit top match's type + theories, flagged inferred.
+        # Similarity is resemblance, not measurement — tags carry the sim
+        # so readers (and the recommender) can discount weak matches.
+        g.pop("style_tags", None)
+        if g["nearest_greats"]:
+            top = g["nearest_greats"][0]
+            kj = dict(kings)[top["comedian_id"]]
+            kh = kj.get("humor_type") or {}
+            g["style_tags"] = {
+                "humor_type": kh.get("primary") if isinstance(kh, dict) else None,
+                "theories": ((kj.get("identity") or {}).get("preferred_theories") or [])[:3],
+                "via": top["comedian_id"], "sim": top["sim"],
+                "method": "inferred-from-nearest-king (resemblance, not measurement)",
+            }
         gpath.write_text(json.dumps(g, indent=1) + "\n", encoding="utf-8")
         if g["nearest_greats"]:
             n += 1
@@ -328,6 +502,68 @@ def for_you(favs: list[str], n: int = 10) -> None:
               f"  theory={h['theory']}  [{','.join(h['sources'][:2])}]")
 
 
+def compare(cid: str) -> None:
+    """Side-by-side: indie vs nearest kings. Units labeled, never blended.
+
+    theory_score (0-1 NoSlop-gate rate) and paper (~0.02 calibrated
+    laughter-fitted) and house (0-100) are DIFFERENT rulers — shown
+    together for judgment, never averaged. The comparison a booker makes:
+    who does this unknown resemble, how strong is the resemblance, and
+    does the resemblance have measured jokes behind it.
+    """
+    sys.path.insert(0, str(HERE))
+    gpath = COMEDIANS / cid / "comedian-graph.json"
+    if not gpath.exists():
+        print(f"unknown: {cid}")
+        return
+    g = json.loads(gpath.read_text())
+    ts = g.get("theory_score") or {}
+    st = g.get("style_tags") or {}
+    yc = g.get("youtube_channel") or {}
+    print(f"=== {g.get('name', cid)} [{g.get('tier')}] "
+          f"region={g.get('region', '?')}")
+    print(f"  headline={_headline(cid)} coverage=DISCOVERY "
+          f"provisional={_prov(cid)}")
+    print(f"  theory_score={ts.get('theory_score', '—')} (0-1 gate rate, "
+          f"n={ts.get('n_chunks', '—')})" if ts else "  theory_score: unscored (no material)")
+    print(f"  style: {st.get('humor_type', '?')} via {st.get('via', '?')} "
+          f"sim={st.get('sim', '?')} [{st.get('method', '—')}]" if st else "  style: unmatched")
+    print(f"  channel: {yc.get('title', '—')} subs={yc.get('subs', '?')} "
+          f"status={yc.get('status', 'unlinked')}")
+    print(f"  sources: {','.join((g.get('discovery') or {}).get('discovered_from', []))}")
+    try:
+        measured = {c["comedian_id"]: c for c in json.loads(
+            (HERE / "rankings" / "theory_content.json").read_text())["comics"]}
+        ratings = {c["comedian_id"]: c for c in json.loads(
+            (HERE / "rankings" / "ratings.json").read_text())["rows"]}
+    except (OSError, json.JSONDecodeError, KeyError):
+        measured, ratings = {}, {}
+    for ng in (g.get("nearest_greats") or [])[:3]:
+        k = ng["comedian_id"]
+        r = ratings.get(k, {})
+        m = measured.get(k, {})
+        print(f"  ~= {k} sim={ng['sim']}: house={r.get('headline', '?')} "
+              f"paper={m.get('mean_paper', 'unmeasured')} "
+              f"n_bits={m.get('n_bits', '—')} "
+              f"type={(measured.get(k, {}) or {}).get('humor_type', '?')}")
+
+
+def _headline(cid: str):
+    try:
+        rows = json.loads((HERE / "rankings" / "ratings.json").read_text())["rows"]
+        return next(r["headline"] for r in rows if r["comedian_id"] == cid)
+    except (OSError, json.JSONDecodeError, StopIteration, KeyError):
+        return None
+
+
+def _prov(cid: str):
+    try:
+        rows = json.loads((HERE / "rankings" / "ratings.json").read_text())["rows"]
+        return next(r["provisional"] for r in rows if r["comedian_id"] == cid)
+    except (OSError, json.JSONDecodeError, StopIteration, KeyError):
+        return None
+
+
 def spotlight() -> None:
     cands = []
     for cid, g, _ in _indies():
@@ -357,6 +593,8 @@ def main() -> None:
     ap.add_argument("--match-greats", action="store_true")
     ap.add_argument("--for-you", default="")
     ap.add_argument("--spotlight", action="store_true")
+    ap.add_argument("--compare", default="")
+    ap.add_argument("--ops", action="store_true")
     args = ap.parse_args()
     if args.seed_lists:
         seed_lists()
@@ -368,6 +606,10 @@ def main() -> None:
         for_you(args.for_you.split(","))
     if args.spotlight:
         spotlight()
+    if args.compare:
+        compare(args.compare)
+    if args.ops:
+        ops_from_kt()
     if not any(vars(args).values()):
         ap.print_help()
 

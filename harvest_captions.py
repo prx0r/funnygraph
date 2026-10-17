@@ -9,8 +9,11 @@ into a comedian-graph.json.
 Usage:
   python3 harvest_captions.py "https://www.youtube.com/watch?v=..." \
       --comedian theo-von --title "Theo Von clip"
-  python3 harvest_captions.py --search "kill tony william montgomery" --limit 3
   python3 harvest_captions.py --from-transcript path/to.txt --comedian robin-williams
+
+  NO SEARCH MODE EXISTS (binding rule: registry channels + uploads
+  playlists only — see youtube_harvest2.py and discover.py). Video IDs
+  come from discovery queue URLs, never queries.
 
 Output:
   scribe/<comedian>-<slug>.json     word-timed (scribe format)
@@ -150,7 +153,12 @@ def words_to_scribe(words: list[dict], note: str = "") -> dict:
 
 # ── harvest via InnerTube (works when yt-dlp is IP-blocked) ─────────────────
 
-ANDROID_KEY = "AIzaSyA8eiZmM1FaDVjRy-df2OKiwaqSkS6Eo4"
+# SECURITY 2026-10-17: a YouTube API key was hardcoded here and pushed to a
+# PUBLIC repo (visible in origin history — ROTATE it in Google Cloud Console;
+# removing it here does not unexpose it). Keys live in .env only, never code.
+import os as _os
+
+ANDROID_KEY = _os.getenv("YOUTUBE_ANDROID_KEY", "")
 PLAYER_URL = f"https://www.youtube.com/youtubei/v1/player?key={ANDROID_KEY}"
 
 

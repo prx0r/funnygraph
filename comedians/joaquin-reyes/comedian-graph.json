@@ -59,15 +59,48 @@
   "nearest_greats": [
     {
       "comedian_id": "maria-bamford",
-      "sim": 0.092
+      "sim": 0.103
     },
     {
       "comedian_id": "trevor-noah",
-      "sim": 0.06
+      "sim": 0.065
     },
     {
       "comedian_id": "robin-williams",
-      "sim": 0.049
+      "sim": 0.055
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "character",
+    "theories": [
+      "character_violation",
+      "bisociation",
+      "incongruity"
+    ],
+    "via": "maria-bamford",
+    "sim": 0.103,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

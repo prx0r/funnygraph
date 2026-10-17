@@ -228,8 +228,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 40.5,
-    "legacy_era": 68.0,
+    "legacy": 48.3,
+    "legacy_era": 71.6,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -270,5 +270,40 @@
       "make",
       "time"
     ]
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 110,
+        "ref": true
+      },
+      "canon": {
+        "rank": 65,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 61,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.bradwilliamscomedy.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

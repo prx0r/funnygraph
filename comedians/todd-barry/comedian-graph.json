@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 2.8,
-    "legacy_era": 29.2,
+    "legacy": 4.3,
+    "legacy_era": 26.5,
     "audience": null,
     "popularity": 13.2,
     "theory": 0.0,
@@ -275,5 +275,40 @@
       "voice actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 38.8,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 203,
+        "ref": true
+      },
+      "canon": {
+        "rank": 198,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 156,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.toddbarry.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

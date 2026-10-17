@@ -70,18 +70,55 @@
   "nearest_greats": [
     {
       "comedian_id": "trevor-noah",
-      "sim": 0.1
+      "sim": 0.095
     },
     {
       "comedian_id": "patton-oswalt",
-      "sim": 0.069
+      "sim": 0.065
     },
     {
-      "comedian_id": "michael-che",
+      "comedian_id": "richard-pryor",
       "sim": 0.051
     }
   ],
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [
+      "incongruity",
+      "bisociation"
+    ],
+    "via": "trevor-noah",
+    "sim": 0.095,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://andreslopez.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

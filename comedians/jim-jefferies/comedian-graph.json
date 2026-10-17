@@ -342,15 +342,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 55.1,
-    "legacy_era": 1.7,
+    "legacy": 62.1,
+    "legacy_era": 1.4,
     "audience": 35.0,
-    "popularity": 70.2,
+    "popularity": 81.8,
     "theory": 0.0,
     "heat": null,
-    "gap_value": 0.352,
+    "gap_value": 0.468,
     "overrated": "overrated",
-    "canon_lag": -0.201
+    "canon_lag": -0.271
   },
   "tier": "king",
   "region": "australia",
@@ -390,5 +390,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 61.2,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 81,
+        "ref": true
+      },
+      "canon": {
+        "rank": 132,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 60,
+        "wr": 6.552,
+        "ref": true
+      },
+      "era": {
+        "rank": 209,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.jimjefferies.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

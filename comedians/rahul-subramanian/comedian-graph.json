@@ -42,7 +42,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 92.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -57,15 +57,69 @@
   "nearest_greats": [
     {
       "comedian_id": "sarah-silverman",
-      "sim": 0.057
+      "sim": 0.059
     },
     {
       "comedian_id": "mitch-hedberg",
-      "sim": 0.049
+      "sim": 0.052
     },
     {
       "comedian_id": "trevor-noah",
-      "sim": 0.037
+      "sim": 0.038
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCvgMH5bd8JU_3KZ0BnBL4Vg",
+    "handle": "rahulsubramanian",
+    "title": "Rahul Subramanian",
+    "subs": 103000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 68,
+    "newest_upload": "2026-08-07",
+    "name_match_rate": 0.49,
+    "other_names": [
+      "Rahul Subramanian Stream"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "provocateur",
+    "theories": [
+      "incongruity",
+      "benign_violation",
+      "status_reversal"
+    ],
+    "via": "sarah-silverman",
+    "sim": 0.059,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://rahulsubramanian.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

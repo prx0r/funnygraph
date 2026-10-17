@@ -339,8 +339,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 15.7,
-    "legacy_era": 43.3,
+    "legacy": 17.1,
+    "legacy_era": 40.3,
     "audience": null,
     "popularity": 33.3,
     "theory": 62.5,
@@ -363,5 +363,48 @@
       "observational": 0.08
     },
     "n_modes": 3
+  },
+  "rating": {
+    "headline": 82.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 18,
+        "pct": 82.7,
+        "sweep": [
+          9,
+          23
+        ]
+      },
+      "consensus": {
+        "rank": 176,
+        "ref": true
+      },
+      "canon": {
+        "rank": 153,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 127,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 9,
+      "hi": 23
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://mattmccusker.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

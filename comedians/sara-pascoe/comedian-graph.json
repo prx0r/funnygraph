@@ -213,8 +213,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 7.3,
-    "legacy_era": 34.3,
+    "legacy": 8.1,
+    "legacy_era": 30.8,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -269,5 +269,40 @@
       "writer"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 11.2,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 195,
+        "ref": true
+      },
+      "canon": {
+        "rank": 186,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 147,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.sarapascoe.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

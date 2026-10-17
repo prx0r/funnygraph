@@ -1,13 +1,13 @@
 # LEGACY — what history says (0-100)
 
-**One line:** critics' lists + industry awards, era-normalized. The canon's verdict.
+**One line:** percentile rank on the consensus board (the establishment
+election: critics + audience + awards). What history says, all legs in.
 
-## Formula
-1. Borda points per critics' list (Comedy Central 2004, Rolling Stone 2017),
-   each normalized to [0,1] by its own max, summed (max 2.0).
-2. Awards: Mark Twain 3.0, Grammy 2.0, Kennedy 2.5, Emmy/Peabody 1.5, other 1.0.
-3. Weighted sum (critics 3, awards 1) → percentile of board → 0-100.
-4. Era-normalized variant: within-generation z-scores first (PAPER.md §4.3).
+## Formula (code truth, metrics.py)
+1. Take the comedian's rank on rankings/consensus.json (weighted 3/2/1
+   Borda + local Kemenization — a REFERENCE election, not ours).
+2. Percentile: `100·(1 − (rank−1)/n)`.
+3. `legacy_era`: same percentile on the era-adjusted board.
 
 ## Inputs
 - `recognition.comedy_central_2004`, `recognition.rolling_stone_2017`

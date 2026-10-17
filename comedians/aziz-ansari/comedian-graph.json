@@ -338,15 +338,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 81.5,
-    "legacy_era": 15.2,
+    "legacy": 84.4,
+    "legacy_era": 12.8,
     "audience": 30.0,
     "popularity": 16.7,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.133,
     "overrated": "accurately rated",
-    "canon_lag": -0.515
+    "canon_lag": -0.544
   },
   "tier": "king",
   "region": "us",
@@ -394,5 +394,48 @@
       "little",
       "back"
     ]
+  },
+  "rating": {
+    "headline": 58.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 42,
+        "pct": 58.2,
+        "sweep": [
+          37,
+          42
+        ]
+      },
+      "consensus": {
+        "rank": 34,
+        "ref": true
+      },
+      "canon": {
+        "rank": 39,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 29,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 185,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 37,
+      "hi": 42
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://azizansari.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

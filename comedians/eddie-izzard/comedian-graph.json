@@ -442,15 +442,15 @@
     }
   },
   "metrics": {
-    "legacy": 94.4,
-    "legacy_era": 95.5,
+    "legacy": 95.3,
+    "legacy_era": 96.2,
     "audience": 90.0,
-    "popularity": 54.4,
+    "popularity": 78.6,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.356,
-    "overrated": "underrated",
-    "canon_lag": -0.044
+    "gap_value": -0.114,
+    "overrated": "accurately rated",
+    "canon_lag": -0.053
   },
   "tier": "king",
   "region": "uk",
@@ -505,5 +505,48 @@
       "look",
       "want"
     ]
+  },
+  "rating": {
+    "headline": 76.5,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 24,
+        "pct": 76.5,
+        "sweep": [
+          12,
+          47
+        ]
+      },
+      "consensus": {
+        "rank": 11,
+        "ref": true
+      },
+      "canon": {
+        "rank": 14,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 2,
+        "wr": 8.534,
+        "ref": true
+      },
+      "era": {
+        "rank": 9,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 12,
+      "hi": 47
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.eddieizzard.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

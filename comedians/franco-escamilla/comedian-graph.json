@@ -44,7 +44,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 80.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -59,15 +59,66 @@
   "nearest_greats": [
     {
       "comedian_id": "andrew-schulz",
-      "sim": 0.117
+      "sim": 0.123
     },
     {
       "comedian_id": "deon-cole",
-      "sim": 0.056
+      "sim": 0.057
     },
     {
       "comedian_id": "john-mulaney",
-      "sim": 0.053
+      "sim": 0.054
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCUjrDJokSX8JavRwy5iUOkA",
+    "handle": "francoescamilla",
+    "title": "Franco Escamilla",
+    "subs": 14400000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-16",
+    "name_match_rate": 0.3,
+    "other_names": [
+      "Aldo Show",
+      "Los Regalito",
+      "Padres Diablo"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "status_reversal",
+      "benign_violation",
+      "incongruity"
+    ],
+    "via": "andrew-schulz",
+    "sim": 0.123,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

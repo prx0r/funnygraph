@@ -308,15 +308,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 59.6,
-    "legacy_era": 14.0,
+    "legacy": 65.9,
+    "legacy_era": 11.8,
     "audience": 30.0,
     "popularity": 89.5,
     "theory": 0.0,
     "heat": null,
     "gap_value": 0.595,
     "overrated": "massively overrated",
-    "canon_lag": -0.296
+    "canon_lag": -0.359
   },
   "tier": "king",
   "region": "south-africa",
@@ -354,5 +354,40 @@
       "back",
       "come"
     ]
+  },
+  "rating": {
+    "headline": 57.1,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 73,
+        "ref": true
+      },
+      "canon": {
+        "rank": 204,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 51,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 187,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://trevornoah.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

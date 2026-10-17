@@ -271,8 +271,8 @@
     "method": "archetype+theories"
   },
   "metrics": {
-    "legacy": 25.8,
-    "legacy_era": 53.4,
+    "legacy": 29.4,
+    "legacy_era": 52.6,
     "audience": null,
     "popularity": null,
     "theory": 37.5,
@@ -297,5 +297,43 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 46.9,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 53,
+        "pct": 46.9,
+        "sweep": [
+          50,
+          53
+        ]
+      },
+      "consensus": {
+        "rank": 150,
+        "ref": true
+      },
+      "canon": {
+        "rank": 115,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 101,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 50,
+      "hi": 53
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

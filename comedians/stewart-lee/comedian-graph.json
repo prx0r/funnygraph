@@ -448,15 +448,15 @@
     }
   },
   "metrics": {
-    "legacy": 87.1,
-    "legacy_era": 87.6,
+    "legacy": 89.1,
+    "legacy_era": 89.6,
     "audience": 87.5,
-    "popularity": 26.3,
+    "popularity": 64.1,
     "theory": 50.0,
     "heat": null,
-    "gap_value": -0.612,
-    "overrated": "massively underrated",
-    "canon_lag": 0.004
+    "gap_value": -0.234,
+    "overrated": "underrated",
+    "canon_lag": -0.016
   },
   "tier": "king",
   "region": "uk",
@@ -507,5 +507,48 @@
       "stand-up comedian"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 90.8,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 10,
+        "pct": 90.8,
+        "sweep": [
+          8,
+          33
+        ]
+      },
+      "consensus": {
+        "rank": 24,
+        "ref": true
+      },
+      "canon": {
+        "rank": 193,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 8,
+        "wr": 8.092,
+        "ref": true
+      },
+      "era": {
+        "rank": 23,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 8,
+      "hi": 33
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.stewartlee.co.uk/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -21,10 +21,17 @@
     "expression": {},
     "modulator_range": [],
     "profile": {},
-    "operator_priors": {},
+    "operator_priors": {
+      "identity_contradiction": 0.375,
+      "self_awareness": 0.73,
+      "specificity": 0.705,
+      "garden_path": 0.68,
+      "benign_violation": 0.87
+    },
     "preferred_theories": [],
     "threads": [],
-    "problem_space": []
+    "problem_space": [],
+    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
   },
   "discovery": {
     "discovered_from": [
@@ -48,7 +55,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 17.9,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -59,5 +66,47 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UC8WReRfBmLr-RFEG-yFNmFw",
+    "handle": "rickdiaz",
+    "title": "Rick Diaz",
+    "subs": 0,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "website": {
+    "url": "https://rickdiaz.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

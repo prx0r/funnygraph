@@ -220,8 +220,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 6.7,
-    "legacy_era": 33.7,
+    "legacy": 7.6,
+    "legacy_era": 30.3,
     "audience": null,
     "popularity": 17.5,
     "theory": 0.0,
@@ -275,5 +275,40 @@
       "autobiographer"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 49.3,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 196,
+        "ref": true
+      },
+      "canon": {
+        "rank": 188,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 148,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://sarahmillican.co.uk/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

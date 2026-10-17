@@ -2,6 +2,10 @@
 
 > Every flaw we know about, stated plainly. A ranking that hides its gaps
 > is a listicle. This file is the difference.
+>
+> Status 2026-10-17 PM (v0.2): items marked ✅ CLOSED were fixed today
+> (kendall_w.py, stability.py, mallows_phi.py, bt_leg.py, split_boards.py —
+> see PAPER_ARXIV.md). The rest stand.
 
 ## Fitted result (fit_weights.py): the legs disagree
 
@@ -29,7 +33,7 @@ as a new leg with a 2026 timestamp (TOP2026.md).**
 
 ### 2. IMDb leg biases (HIGH)
 - Vote-count bias: recent Netflix specials have 10-100x the votes of 90s hours.
-- Shrinkage (m=1000) helps but doesn't erase the structural advantage.
+- Shrinkage (m=500, C=7.50 calibrated) helps but doesn't erase the structural advantage.
 - Selection bias: only specials notable enough for IMDb pages exist.
 - Rating drift: platform-wide inflation over time uncorrected.
 - **Fix: time-decayed momentum (rating velocity), vote-count floors per era.**
@@ -45,18 +49,24 @@ Awards, Edinburgh Comedy Award) as additional P166 filters.**
 — their ranks are noise. **Fix: coverage-weighted confidence per position;
 don't rank the unmeasured (or rank separately as "unranked — insufficient data").**
 
-### 5. No pairwise data (MEDIUM)
+### 5. No pairwise data (MEDIUM) — ✅ PARTIALLY CLOSED (v0.2)
 Bradley-Terry leg reserved but empty. Our arena votes exist but small-n.
+Rank-breaking BT on list-implied pairs built (bt_leg.py, 701 pairs,
+τ=+0.876 vs Borda critics — Borda validated). True arena votes still
+pending (TOP2026).
 **Fix: TOP2026 arena battles feed this leg directly.**
 
 ### 6. Generation boundaries authored (MEDIUM)
 Breakthrough decade is judgment, not measurement. Cusp comics could flip gens.
 **Fix: derive from first-special year where transcripts give it; flag cusp cases.**
 
-### 7. Weights asserted, now FITTED — and fitting says split the boards (MEDIUM)
+### 7. Weights asserted, now FITTED — and fitting says split the boards (MEDIUM) — ✅ CLOSED (v0.2)
 See fitted result above. 3/2/1 was a guess; the data says critics and
-audiences are different elections. **Fix: CANON board (critics+awards) and
-PEOPLE'S CHOICE board (audience+momentum), published separately.**
+audiences are different elections. Mallows φ per leg (mallows_phi.py)
+implies precision weights (critics .498 / audience .214 / awards .288).
+**Fix: CANON board (critics+awards) and PEOPLE'S CHOICE board
+(audience+momentum), published separately (split_boards.py).** Done —
+canon.json + peoples.json are primary; weighted consensus is legacy view.
 
 ### 8. No recency mechanism (HIGH for 2026 product)
 A 2023 breakout competes against 40 years of canon with no momentum term.
@@ -67,9 +77,12 @@ A 2023 breakout competes against 40 years of canon with no momentum term.
 Rankings-through-years needs more time points: 2004, 2017, now. **Fix: our
 2026 vote becomes the third point; annual cadence after.**
 
-### 10. No audience segmentation (LOW)
-Critics vs audiences disagree systematically; we averaged. **Fix: model the
-disagreement (already have disagreement.json — promote it to first-class).**
+### 10. No audience segmentation (LOW) — ✅ CLOSED (v0.2)
+Critics vs audiences disagree systematically; we averaged. Pairwise
+τ(critics,audience)=+0.177 with bootstrap CI; Kendall's W=0.438, p=0.22
+(independence not rejected on full-coverage n=11). Disagreement is now
+first-class (agreement.json); averaging is legacy view.
+**Fix: model the disagreement (already have disagreement.json — promote it to first-class).** Done.
 
 ## What "definitive" can honestly mean
 

@@ -1,0 +1,254 @@
+{
+ "note": "Bradley-Terry strengths from list-implied pairs (rank-breaking; Khetan & Oh 2016), MM estimation (Hunter 2004). Comics in no pairs absent (BT undefined).",
+ "n_pairs": 701,
+ "tau_vs_borda_critics": 0.8756,
+ "tau_vs_consensus": 0.6902,
+ "rows": [
+  {
+   "rank": 1,
+   "comedian_id": "richard-pryor",
+   "name": "Richard Pryor",
+   "bt_strength": 0.993039
+  },
+  {
+   "rank": 2,
+   "comedian_id": "george-carlin",
+   "name": "George Carlin",
+   "bt_strength": 0.006885
+  },
+  {
+   "rank": 3,
+   "comedian_id": "lenny-bruce",
+   "name": "Lenny Bruce",
+   "bt_strength": 7.6e-05
+  },
+  {
+   "rank": 4,
+   "comedian_id": "chris-rock",
+   "name": "Chris Rock",
+   "bt_strength": 1e-06
+  },
+  {
+   "rank": 5,
+   "comedian_id": "jerry-seinfeld",
+   "name": "Jerry Seinfeld",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 6,
+   "comedian_id": "robin-williams",
+   "name": "Robin Williams",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 7,
+   "comedian_id": "bill-hicks",
+   "name": "Bill Hicks",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 8,
+   "comedian_id": "joan-rivers",
+   "name": "Joan Rivers",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 9,
+   "comedian_id": "dave-chappelle",
+   "name": "Dave Chappelle",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 10,
+   "comedian_id": "steven-wright",
+   "name": "Steven Wright",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 11,
+   "comedian_id": "ray-romano",
+   "name": "Ray Romano",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 12,
+   "comedian_id": "rodney-dangerfield",
+   "name": "Rodney Dangerfield",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 13,
+   "comedian_id": "eddie-murphy",
+   "name": "Eddie Murphy",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 14,
+   "comedian_id": "bill-maher",
+   "name": "Bill Maher",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 15,
+   "comedian_id": "billy-connolly",
+   "name": "Billy Connolly",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 16,
+   "comedian_id": "bill-burr",
+   "name": "Bill Burr",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 17,
+   "comedian_id": "adam-sandler",
+   "name": "Adam Sandler",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 18,
+   "comedian_id": "kevin-hart",
+   "name": "Kevin Hart",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 19,
+   "comedian_id": "lewis-black",
+   "name": "Lewis Black",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 20,
+   "comedian_id": "mitch-hedberg",
+   "name": "Mitch Hedberg",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 21,
+   "comedian_id": "d-l-hughley",
+   "name": "D L Hughley",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 22,
+   "comedian_id": "louis-ck",
+   "name": "Louis C.K.",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 23,
+   "comedian_id": "colin-quinn",
+   "name": "Colin Quinn",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 24,
+   "comedian_id": "jeff-foxworthy",
+   "name": "Jeff Foxworthy",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 25,
+   "comedian_id": "eddie-griffin",
+   "name": "Eddie Griffin",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 26,
+   "comedian_id": "eddie-izzard",
+   "name": "Eddie Izzard",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 27,
+   "comedian_id": "sarah-silverman",
+   "name": "Sarah Silverman",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 28,
+   "comedian_id": "dick-gregory",
+   "name": "Dick Gregory",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 29,
+   "comedian_id": "cedric-the-entertainer",
+   "name": "Cedric The Entertainer",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 30,
+   "comedian_id": "patrice-o-neal",
+   "name": "Patrice O Neal",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 31,
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 32,
+   "comedian_id": "norm-macdonald",
+   "name": "Norm Macdonald",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 33,
+   "comedian_id": "tig-notaro",
+   "name": "Tig Notaro",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 34,
+   "comedian_id": "wanda-sykes",
+   "name": "Wanda Sykes",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 35,
+   "comedian_id": "david-cross",
+   "name": "David Cross",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 36,
+   "comedian_id": "amy-schumer",
+   "name": "Amy Schumer",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 37,
+   "comedian_id": "kevin-james",
+   "name": "Kevin James",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 38,
+   "comedian_id": "russell-peters",
+   "name": "Russell Peters",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 39,
+   "comedian_id": "reggie-watts",
+   "name": "Reggie Watts",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 40,
+   "comedian_id": "dana-carvey",
+   "name": "Dana Carvey",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 41,
+   "comedian_id": "aziz-ansari",
+   "name": "Aziz Ansari",
+   "bt_strength": 0.0
+  }
+ ]
+}

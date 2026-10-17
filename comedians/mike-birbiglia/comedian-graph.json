@@ -284,15 +284,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 49.4,
-    "legacy_era": 4.5,
+    "legacy": 57.4,
+    "legacy_era": 3.8,
     "audience": 10.0,
     "popularity": 79.8,
     "theory": 0.0,
     "heat": null,
     "gap_value": 0.698,
     "overrated": "massively overrated",
-    "canon_lag": -0.394
+    "canon_lag": -0.474
   },
   "tier": "king",
   "region": "us",
@@ -331,5 +331,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 63.9,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 91,
+        "ref": true
+      },
+      "canon": {
+        "rank": 158,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 70,
+        "wr": 6.189,
+        "ref": true
+      },
+      "era": {
+        "rank": 204,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.birbigs.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

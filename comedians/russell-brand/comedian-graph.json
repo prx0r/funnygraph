@@ -220,8 +220,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 8.4,
-    "legacy_era": 35.4,
+    "legacy": 9.5,
+    "legacy_era": 32.2,
     "audience": null,
     "popularity": 3.5,
     "theory": 0.0,
@@ -276,5 +276,40 @@
       "television presenter"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 35.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 192,
+        "ref": true
+      },
+      "canon": {
+        "rank": 181,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 144,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://russellbrand.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

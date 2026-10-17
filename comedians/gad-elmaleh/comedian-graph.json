@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 61.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,11 +58,56 @@
   "nearest_greats": [
     {
       "comedian_id": "gabriel-iglesias",
-      "sim": 0.039
+      "sim": 0.04
     },
     {
       "comedian_id": "bo-burnham",
-      "sim": 0.027
+      "sim": 0.028
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UC8P0KSW4MkwTvfVDVBCI8Ew",
+    "handle": "gadelmaleh",
+    "title": "Gad Elmaleh",
+    "subs": 100000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 13,
+    "newest_upload": "2021-03-31",
+    "name_match_rate": 0.69,
+    "other_names": [
+      "Angelique Kidjo"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "gabriel-iglesias",
+    "sim": 0.04,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

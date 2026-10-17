@@ -236,15 +236,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 65.7,
-    "legacy_era": 22.5,
+    "legacy": 71.1,
+    "legacy_era": 19.0,
     "audience": 30.0,
     "popularity": null,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.357
+    "canon_lag": -0.411
   },
   "tier": "king",
   "region": "us",
@@ -281,5 +281,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 38.8,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 62,
+        "ref": true
+      },
+      "canon": {
+        "rank": 161,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 43,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 172,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://mosesstorm.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

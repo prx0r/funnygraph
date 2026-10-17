@@ -59,15 +59,48 @@
   "nearest_greats": [
     {
       "comedian_id": "eddie-izzard",
-      "sim": 0.074
+      "sim": 0.08
     },
     {
       "comedian_id": "jack-whitehall",
-      "sim": 0.065
+      "sim": 0.066
     },
     {
       "comedian_id": "greg-davies",
       "sim": 0.06
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "character",
+    "theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "via": "eddie-izzard",
+    "sim": 0.08,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

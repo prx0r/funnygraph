@@ -30,7 +30,8 @@
     "discovered_from": [
       "timeout-2026"
     ],
-    "discovery_note": "Time Out 12 to watch 2026"
+    "discovery_note": "Time Out 12 to watch 2026",
+    "region_method": "venue-scene (overwrite on origin evidence)"
   },
   "theory_score": null,
   "nearest_greats": [
@@ -40,10 +41,10 @@
     },
     {
       "comedian_id": "sarah-millican",
-      "sim": 0.079
+      "sim": 0.08
     },
     {
-      "comedian_id": "drew-michael",
+      "comedian_id": "bill-maher",
       "sim": 0.073
     }
   ],
@@ -71,5 +72,35 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
-  }
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "jack-whitehall",
+    "sim": 0.089,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "region": "us"
 }

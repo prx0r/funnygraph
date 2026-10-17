@@ -255,15 +255,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 66.3,
-    "legacy_era": 24.7,
+    "legacy": 71.6,
+    "legacy_era": 20.8,
     "audience": 30.0,
     "popularity": 52.6,
     "theory": 0.0,
     "heat": null,
     "gap_value": 0.226,
     "overrated": "overrated",
-    "canon_lag": -0.363
+    "canon_lag": -0.416
   },
   "tier": "king",
   "region": "us",
@@ -300,5 +300,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 39.8,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 61,
+        "ref": true
+      },
+      "canon": {
+        "rank": 160,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 42,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 168,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.moamer.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

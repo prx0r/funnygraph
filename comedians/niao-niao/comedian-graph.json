@@ -64,8 +64,37 @@
       "sim": 0.075
     },
     {
-      "comedian_id": "william-montgomery",
+      "comedian_id": "richard-pryor",
       "sim": 0.063
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "michelle-wolf",
+    "sim": 0.083,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

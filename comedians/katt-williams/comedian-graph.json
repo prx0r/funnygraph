@@ -273,15 +273,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 79.8,
-    "legacy_era": 81.5,
+    "legacy": 82.9,
+    "legacy_era": 84.4,
     "audience": 47.5,
-    "popularity": 93.4,
+    "popularity": 95.6,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.459,
+    "gap_value": 0.481,
     "overrated": "overrated",
-    "canon_lag": -0.323
+    "canon_lag": -0.354
   },
   "tier": "king",
   "region": "us",
@@ -336,5 +336,48 @@
         "year": 2018
       }
     ]
+  },
+  "rating": {
+    "headline": 39.8,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 60,
+        "pct": 39.8,
+        "sweep": [
+          57,
+          60
+        ]
+      },
+      "consensus": {
+        "rank": 37,
+        "ref": true
+      },
+      "canon": {
+        "rank": 47,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 23,
+        "wr": 7.378,
+        "ref": true
+      },
+      "era": {
+        "rank": 34,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 57,
+      "hi": 60
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://kattwilliams.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

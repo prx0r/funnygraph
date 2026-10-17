@@ -382,8 +382,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 22.5,
-    "legacy_era": 50.0,
+    "legacy": 23.7,
+    "legacy_era": 46.9,
     "audience": null,
     "popularity": 80.7,
     "theory": 62.5,
@@ -435,5 +435,48 @@
         "year": null
       }
     ]
+  },
+  "rating": {
+    "headline": 84.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 16,
+        "pct": 84.7,
+        "sweep": [
+          7,
+          21
+        ]
+      },
+      "consensus": {
+        "rank": 162,
+        "ref": true
+      },
+      "canon": {
+        "rank": 133,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 113,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 7,
+      "hi": 21
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.jimmycarr.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

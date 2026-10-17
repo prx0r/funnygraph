@@ -37,11 +37,11 @@
   "nearest_greats": [
     {
       "comedian_id": "hans-kim",
-      "sim": 0.075
+      "sim": 0.08
     },
     {
       "comedian_id": "jim-jefferies",
-      "sim": 0.028
+      "sim": 0.03
     }
   ],
   "sets": [],
@@ -68,5 +68,43 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [
+      "literalise",
+      "incongruity",
+      "status_reversal"
+    ],
+    "via": "hans-kim",
+    "sim": 0.08,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://marcellohernandez.net",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

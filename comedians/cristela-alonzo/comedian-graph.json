@@ -236,8 +236,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 34.3,
-    "legacy_era": 61.8,
+    "legacy": 41.2,
+    "legacy_era": 64.5,
     "audience": null,
     "popularity": 56.1,
     "theory": 0.0,
@@ -278,5 +278,40 @@
       "tell",
       "back"
     ]
+  },
+  "rating": {
+    "headline": 35.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 125,
+        "ref": true
+      },
+      "canon": {
+        "rank": 83,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 76,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://cristelaalonzo.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

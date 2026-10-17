@@ -459,15 +459,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 75.8,
-    "legacy_era": 14.6,
+    "legacy": 79.6,
+    "legacy_era": 12.3,
     "audience": 47.5,
-    "popularity": 37.7,
+    "popularity": 56.1,
     "theory": 50.0,
     "heat": null,
-    "gap_value": -0.098,
+    "gap_value": 0.086,
     "overrated": "accurately rated",
-    "canon_lag": -0.283
+    "canon_lag": -0.321
   },
   "tier": "king",
   "region": "us",
@@ -519,5 +519,48 @@
       "television producer"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 63.3,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 37,
+        "pct": 63.3,
+        "sweep": [
+          31,
+          37
+        ]
+      },
+      "consensus": {
+        "rank": 44,
+        "ref": true
+      },
+      "canon": {
+        "rank": 32,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 56,
+        "wr": 6.964,
+        "ref": true
+      },
+      "era": {
+        "rank": 186,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 31,
+      "hi": 37
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://sarahsilverman.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

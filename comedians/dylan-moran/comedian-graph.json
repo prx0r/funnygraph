@@ -317,15 +317,15 @@
     }
   },
   "metrics": {
-    "legacy": 78.1,
-    "legacy_era": 84.8,
+    "legacy": 81.5,
+    "legacy_era": 87.2,
     "audience": 47.5,
-    "popularity": 21.1,
+    "popularity": 62.1,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.264,
-    "overrated": "underrated",
-    "canon_lag": -0.306
+    "gap_value": 0.146,
+    "overrated": "accurately rated",
+    "canon_lag": -0.34
   },
   "tier": "king",
   "region": "ireland",
@@ -380,5 +380,48 @@
         "year": null
       }
     ]
+  },
+  "rating": {
+    "headline": 49.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 51,
+        "pct": 49.0,
+        "sweep": [
+          46,
+          51
+        ]
+      },
+      "consensus": {
+        "rank": 40,
+        "ref": true
+      },
+      "canon": {
+        "rank": 98,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 22,
+        "wr": 7.378,
+        "ref": true
+      },
+      "era": {
+        "rank": 28,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 46,
+      "hi": 51
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.dylanmoran.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

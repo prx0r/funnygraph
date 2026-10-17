@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 51.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,11 +58,66 @@
   "nearest_greats": [
     {
       "comedian_id": "eddie-izzard",
-      "sim": 0.059
+      "sim": 0.077
     },
     {
       "comedian_id": "sean-lock",
-      "sim": 0.035
+      "sim": 0.043
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCn1oWs8BagoPTXT05neY7lA",
+    "handle": "rossnoble",
+    "title": "Ross Noble",
+    "subs": 10400,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-06-15",
+    "name_match_rate": 0.88,
+    "other_names": [
+      "Ross Noble's",
+      "Sponges For Hands"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "character",
+    "theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "via": "eddie-izzard",
+    "sim": 0.077,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://rossnoble.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

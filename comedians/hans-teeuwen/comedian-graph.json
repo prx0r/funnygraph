@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 69.0,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,15 +58,62 @@
   "nearest_greats": [
     {
       "comedian_id": "george-carlin",
-      "sim": 0.054
+      "sim": 0.058
     },
     {
       "comedian_id": "casey-rocket",
-      "sim": 0.048
+      "sim": 0.054
     },
     {
       "comedian_id": "bert-kreischer",
-      "sim": 0.044
+      "sim": 0.05
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCbPOfsFvX0nDas2H0xT8lZA",
+    "handle": "hansteeuwen",
+    "title": "Hans Teeuwen",
+    "subs": 120000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-08",
+    "name_match_rate": 1.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "rant",
+    "theories": [
+      "rigidity",
+      "literalise",
+      "status_reversal"
+    ],
+    "via": "george-carlin",
+    "sim": 0.058,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

@@ -513,15 +513,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 89.3,
-    "legacy_era": 90.5,
+    "legacy": 91.0,
+    "legacy_era": 91.9,
     "audience": 72.5,
-    "popularity": 78.1,
+    "popularity": 89.1,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.056,
+    "gap_value": 0.166,
     "overrated": "accurately rated",
-    "canon_lag": -0.168
+    "canon_lag": -0.185
   },
   "tier": "king",
   "region": "us",
@@ -583,5 +583,48 @@
         "year": 2010
       }
     ]
+  },
+  "rating": {
+    "headline": 91.8,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 9,
+        "pct": 91.8,
+        "sweep": [
+          7,
+          23
+        ]
+      },
+      "consensus": {
+        "rank": 20,
+        "ref": true
+      },
+      "canon": {
+        "rank": 36,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 13,
+        "wr": 7.881,
+        "ref": true
+      },
+      "era": {
+        "rank": 18,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 7,
+      "hi": 23
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.johnmulaney.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

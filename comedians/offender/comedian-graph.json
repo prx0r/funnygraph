@@ -21,10 +21,21 @@
     "expression": {},
     "modulator_range": [],
     "profile": {},
-    "operator_priors": {},
+    "operator_priors": {
+      "rigidity": 0.105,
+      "status_reversal": 0.113,
+      "identity_contradiction": 0.547,
+      "self_awareness": 0.735,
+      "specificity": 0.36,
+      "escalation": 0.105,
+      "garden_path": 0.81,
+      "benign_violation": 0.9,
+      "audience_alliance": 0.13
+    },
     "preferred_theories": [],
     "threads": [],
-    "problem_space": []
+    "problem_space": [],
+    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
   },
   "discovery": {
     "discovered_from": [
@@ -37,7 +48,7 @@
   "nearest_greats": [
     {
       "comedian_id": "sebastian-maniscalco",
-      "sim": 0.124
+      "sim": 0.129
     }
   ],
   "sets": [],
@@ -64,5 +75,37 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "rant",
+    "theories": [
+      "status_reversal",
+      "incongruity"
+    ],
+    "via": "sebastian-maniscalco",
+    "sim": 0.129,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
 }

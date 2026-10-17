@@ -213,8 +213,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 2.2,
-    "legacy_era": 28.6,
+    "legacy": 3.8,
+    "legacy_era": 26.1,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -268,5 +268,40 @@
       "podcaster"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 15.3,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 204,
+        "ref": true
+      },
+      "canon": {
+        "rank": 199,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 157,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.toddglass.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -1,0 +1,123 @@
+{
+ "comedian_id": "sam-froum",
+ "name": "Sam Froum",
+ "channels": {
+  "UCAbneSJb5Myepmbv0jhrxpw": {
+   "subs": 888,
+   "channel_views": 39159,
+   "channel": "Sam Froum"
+  }
+ },
+ "clips": 7,
+ "total_views": 42283,
+ "total_likes": 1199,
+ "avg_views": 6040,
+ "like_rate": 0.02836,
+ "top_clip": {
+  "videoId": "2OgAhN5khzk",
+  "title": "Stevie Wonder",
+  "channel": "Sam Froum",
+  "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+  "channel_subs": 888,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2026-05-26",
+  "views": 21104,
+  "likes": 319,
+  "comments": 8,
+  "duration_s": 33
+ },
+ "rows": [
+  {
+   "videoId": "2OgAhN5khzk",
+   "title": "Stevie Wonder",
+   "channel": "Sam Froum",
+   "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+   "channel_subs": 888,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-26",
+   "views": 21104,
+   "likes": 319,
+   "comments": 8,
+   "duration_s": 33
+  },
+  {
+   "videoId": "uxOG9QhOm3g",
+   "title": "Changing in Front of My Roommate",
+   "channel": "Sam Froum",
+   "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+   "channel_subs": 888,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-26",
+   "views": 5849,
+   "likes": 124,
+   "comments": 3,
+   "duration_s": 27
+  },
+  {
+   "videoId": "dxgefk4sgk8",
+   "title": "Wealthy Liberal",
+   "channel": "Sam Froum",
+   "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+   "channel_subs": 888,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-15",
+   "views": 4967,
+   "likes": 202,
+   "comments": 4,
+   "duration_s": 60
+  },
+  {
+   "videoId": "JrVv60X9THk",
+   "title": "Stand-Up is Embarrassing",
+   "channel": "Sam Froum",
+   "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+   "channel_subs": 888,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-15",
+   "views": 3301,
+   "likes": 194,
+   "comments": 5,
+   "duration_s": 50
+  },
+  {
+   "videoId": "KbR7FgH8_W8",
+   "title": "Terrified of Women",
+   "channel": "Sam Froum",
+   "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+   "channel_subs": 888,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-26",
+   "views": 2411,
+   "likes": 113,
+   "comments": 5,
+   "duration_s": 28
+  },
+  {
+   "videoId": "fNEnA9wiz4Q",
+   "title": "Heroin",
+   "channel": "Sam Froum",
+   "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+   "channel_subs": 888,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-15",
+   "views": 2393,
+   "likes": 123,
+   "comments": 8,
+   "duration_s": 31
+  },
+  {
+   "videoId": "Uuqh8v4A86g",
+   "title": "Rebellious Teen",
+   "channel": "Sam Froum",
+   "channelId": "UCAbneSJb5Myepmbv0jhrxpw",
+   "channel_subs": 888,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-05-26",
+   "views": 2258,
+   "likes": 124,
+   "comments": 7,
+   "duration_s": 53
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

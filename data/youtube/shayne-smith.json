@@ -1,0 +1,19 @@
+{
+ "comedian_id": "shayne-smith",
+ "name": "Shayne Smith",
+ "channels": {
+  "UCT7dR-cQQfo4X11wZOqZfrQ": {
+   "subs": 4,
+   "channel_views": 0,
+   "channel": "shaynesmith"
+  }
+ },
+ "clips": 0,
+ "total_views": 0,
+ "total_likes": 0,
+ "avg_views": 0,
+ "like_rate": 0.0,
+ "top_clip": null,
+ "rows": [],
+ "method": "registry-uploads (no search)"
+}

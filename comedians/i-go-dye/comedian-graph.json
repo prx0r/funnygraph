@@ -44,7 +44,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 29.0,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -59,15 +59,58 @@
   "nearest_greats": [
     {
       "comedian_id": "urzila-carlson",
-      "sim": 0.067
+      "sim": 0.068
     },
     {
       "comedian_id": "tig-notaro",
-      "sim": 0.066
+      "sim": 0.067
     },
     {
       "comedian_id": "ronny-chieng",
-      "sim": 0.061
+      "sim": 0.062
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCarR5z2jrMAAR0lueMHeZQg",
+    "handle": "godye",
+    "title": "GODYE",
+    "subs": 19,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 21,
+    "newest_upload": "2023-01-21",
+    "name_match_rate": 0.76,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "urzila-carlson",
+    "sim": 0.068,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

@@ -286,15 +286,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 59.0,
-    "legacy_era": 16.3,
+    "legacy": 65.4,
+    "legacy_era": 13.7,
     "audience": 30.0,
     "popularity": 12.3,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.177,
     "overrated": "accurately rated",
-    "canon_lag": -0.29
+    "canon_lag": -0.354
   },
   "tier": "king",
   "region": "us",
@@ -355,5 +355,48 @@
       "model"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 24.5,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 75,
+        "pct": 24.5,
+        "sweep": [
+          75,
+          75
+        ]
+      },
+      "consensus": {
+        "rank": 74,
+        "ref": true
+      },
+      "canon": {
+        "rank": 209,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 52,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 183,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 75,
+      "hi": 75
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.whitneycummings.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

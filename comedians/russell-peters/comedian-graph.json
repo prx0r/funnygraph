@@ -292,15 +292,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 82.0,
-    "legacy_era": 23.0,
+    "legacy": 84.8,
+    "legacy_era": 19.4,
     "audience": 47.5,
-    "popularity": 54.8,
+    "popularity": 61.1,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.073,
+    "gap_value": 0.136,
     "overrated": "accurately rated",
-    "canon_lag": -0.345
+    "canon_lag": -0.373
   },
   "tier": "king",
   "region": "canada",
@@ -361,5 +361,48 @@
       "film actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 32.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 67,
+        "pct": 32.7,
+        "sweep": [
+          67,
+          67
+        ]
+      },
+      "consensus": {
+        "rank": 33,
+        "ref": true
+      },
+      "canon": {
+        "rank": 40,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 25,
+        "wr": 7.378,
+        "ref": true
+      },
+      "era": {
+        "rank": 171,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 67,
+      "hi": 67
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.russellpeters.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

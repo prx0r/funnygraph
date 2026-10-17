@@ -36,15 +36,15 @@
   "nearest_greats": [
     {
       "comedian_id": "sean-lock",
-      "sim": 0.067
+      "sim": 0.066
     },
     {
       "comedian_id": "jerry-seinfeld",
-      "sim": 0.038
+      "sim": 0.039
     },
     {
       "comedian_id": "richard-pryor",
-      "sim": 0.036
+      "sim": 0.035
     }
   ],
   "sets": [],
@@ -71,5 +71,38 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "surreal",
+    "theories": [
+      "literalise",
+      "incongruity",
+      "rigidity"
+    ],
+    "via": "sean-lock",
+    "sim": 0.066,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
 }

@@ -325,15 +325,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 51.1,
-    "legacy_era": 9.6,
+    "legacy": 58.8,
+    "legacy_era": 8.1,
     "audience": 10.0,
     "popularity": null,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.411
+    "canon_lag": -0.488
   },
   "tier": "king",
   "region": "us",
@@ -370,5 +370,40 @@
       "want",
       "time"
     ]
+  },
+  "rating": {
+    "headline": 68.7,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 88,
+        "ref": true
+      },
+      "canon": {
+        "rank": 95,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 66,
+        "wr": 6.189,
+        "ref": true
+      },
+      "era": {
+        "rank": 195,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.dougstanhope.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -813,12 +813,12 @@
   },
   "metrics": {
     "legacy": 100.0,
-    "legacy_era": 99.4,
+    "legacy_era": 99.5,
     "audience": 85.0,
-    "popularity": 52.6,
+    "popularity": 58.1,
     "theory": 62.5,
     "heat": null,
-    "gap_value": -0.324,
+    "gap_value": -0.269,
     "overrated": "underrated",
     "canon_lag": -0.15
   },
@@ -856,5 +856,48 @@
       "want",
       "their"
     ]
+  },
+  "rating": {
+    "headline": 98.0,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 3,
+        "pct": 98.0,
+        "sweep": [
+          1,
+          5
+        ]
+      },
+      "consensus": {
+        "rank": 1,
+        "ref": true
+      },
+      "canon": {
+        "rank": 1,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 6,
+        "wr": 8.339,
+        "ref": true
+      },
+      "era": {
+        "rank": 2,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 1,
+      "hi": 5
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://georgecarlin.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -1569,6 +1569,22 @@
  },
  {
   "rank": 99,
+  "comedian_id": "alison-spittle",
+  "name": "Alison Spittle",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 100,
   "comedian_id": "amanda-seales",
   "name": "Amanda Seales",
   "score": 0.0,
@@ -1584,7 +1600,7 @@
   "rs2017": null
  },
  {
-  "rank": 100,
+  "rank": 101,
   "comedian_id": "andrew-schulz",
   "name": "Andrew Schulz",
   "score": 0.0,
@@ -1600,7 +1616,7 @@
   "rs2017": null
  },
  {
-  "rank": 101,
+  "rank": 102,
   "comedian_id": "andy-woodhull",
   "name": "Andy Woodhull",
   "score": 0.0,
@@ -1616,7 +1632,23 @@
   "rs2017": null
  },
  {
-  "rank": 102,
+  "rank": 103,
+  "comedian_id": "angela-barnes",
+  "name": "Angela Barnes",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 104,
   "comedian_id": "anjelah-johnson",
   "name": "Anjelah Johnson",
   "score": 0.0,
@@ -1632,7 +1664,7 @@
   "rs2017": null
  },
  {
-  "rank": 103,
+  "rank": 105,
   "comedian_id": "anthony-jeselnik",
   "name": "Anthony Jeselnik",
   "score": 0.0,
@@ -1648,7 +1680,7 @@
   "rs2017": null
  },
  {
-  "rank": 104,
+  "rank": 106,
   "comedian_id": "ari-shaffir",
   "name": "Ari Shaffir",
   "score": 0.0,
@@ -1664,7 +1696,7 @@
   "rs2017": null
  },
  {
-  "rank": 105,
+  "rank": 107,
   "comedian_id": "arsenio-hall",
   "name": "Arsenio Hall",
   "score": 0.0,
@@ -1680,7 +1712,7 @@
   "rs2017": null
  },
  {
-  "rank": 106,
+  "rank": 108,
   "comedian_id": "big-jay-oakerson",
   "name": "Big Jay Oakerson",
   "score": 0.0,
@@ -1696,7 +1728,23 @@
   "rs2017": null
  },
  {
-  "rank": 107,
+  "rank": 109,
+  "comedian_id": "bobby-lee",
+  "name": "Bobby Lee",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 110,
   "comedian_id": "brad-williams",
   "name": "Brad Williams",
   "score": 0.0,
@@ -1712,7 +1760,23 @@
   "rs2017": null
  },
  {
-  "rank": 108,
+  "rank": 111,
+  "comedian_id": "brendan-schaub",
+  "name": "Brendan Schaub",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 112,
   "comedian_id": "brent-morin",
   "name": "Brent Morin",
   "score": 0.0,
@@ -1728,7 +1792,23 @@
   "rs2017": null
  },
  {
-  "rank": 109,
+  "rank": 113,
+  "comedian_id": "bridget-christie",
+  "name": "Bridget Christie",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 114,
   "comedian_id": "bridget-everett",
   "name": "Bridget Everett",
   "score": 0.0,
@@ -1744,7 +1824,23 @@
   "rs2017": null
  },
  {
-  "rank": 110,
+  "rank": 115,
+  "comedian_id": "brody-stevens",
+  "name": "Brody Stevens",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 116,
   "comedian_id": "cam-patterson",
   "name": "Cam Patterson",
   "score": 0.0,
@@ -1760,7 +1856,7 @@
   "rs2017": null
  },
  {
-  "rank": 111,
+  "rank": 117,
   "comedian_id": "casey-rocket",
   "name": "Casey Rocket",
   "score": 0.0,
@@ -1776,7 +1872,23 @@
   "rs2017": null
  },
  {
-  "rank": 112,
+  "rank": 118,
+  "comedian_id": "catherine-bohart",
+  "name": "Catherine Bohart",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 119,
   "comedian_id": "chelsea-peretti",
   "name": "Chelsea Peretti",
   "score": 0.0,
@@ -1792,7 +1904,7 @@
   "rs2017": null
  },
  {
-  "rank": 113,
+  "rank": 120,
   "comedian_id": "chris-d-elia",
   "name": "Chris D Elia",
   "score": 0.0,
@@ -1808,7 +1920,7 @@
   "rs2017": null
  },
  {
-  "rank": 114,
+  "rank": 121,
   "comedian_id": "chris-gethard",
   "name": "Chris Gethard",
   "score": 0.0,
@@ -1824,7 +1936,7 @@
   "rs2017": null
  },
  {
-  "rank": 115,
+  "rank": 122,
   "comedian_id": "chris-tucker",
   "name": "Chris Tucker",
   "score": 0.0,
@@ -1840,7 +1952,7 @@
   "rs2017": null
  },
  {
-  "rank": 116,
+  "rank": 123,
   "comedian_id": "christina-pazsitzky",
   "name": "Christina Pazsitzky",
   "score": 0.0,
@@ -1856,7 +1968,7 @@
   "rs2017": null
  },
  {
-  "rank": 117,
+  "rank": 124,
   "comedian_id": "craig-ferguson",
   "name": "Craig Ferguson",
   "score": 0.0,
@@ -1872,7 +1984,7 @@
   "rs2017": null
  },
  {
-  "rank": 118,
+  "rank": 125,
   "comedian_id": "cristela-alonzo",
   "name": "Cristela Alonzo",
   "score": 0.0,
@@ -1888,7 +2000,7 @@
   "rs2017": null
  },
  {
-  "rank": 119,
+  "rank": 126,
   "comedian_id": "dan-soder",
   "name": "Dan Soder",
   "score": 0.0,
@@ -1904,7 +2016,23 @@
   "rs2017": null
  },
  {
-  "rank": 120,
+  "rank": 127,
+  "comedian_id": "daniel-kitson",
+  "name": "Daniel Kitson",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 128,
   "comedian_id": "dave-allen",
   "name": "Dave Allen",
   "score": 0.0,
@@ -1920,7 +2048,7 @@
   "rs2017": null
  },
  {
-  "rank": 121,
+  "rank": 129,
   "comedian_id": "dave-attell",
   "name": "Dave Attell",
   "score": 0.0,
@@ -1936,7 +2064,23 @@
   "rs2017": null
  },
  {
-  "rank": 122,
+  "rank": 130,
+  "comedian_id": "dave-smith",
+  "name": "Dave Smith",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 131,
   "comedian_id": "deray-davis",
   "name": "Deray Davis",
   "score": 0.0,
@@ -1952,7 +2096,87 @@
   "rs2017": null
  },
  {
-  "rank": 123,
+  "rank": 132,
+  "comedian_id": "dom-irrera",
+  "name": "Dom Irrera",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 133,
+  "comedian_id": "donnell-rawlings",
+  "name": "Donnell Rawlings",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 134,
+  "comedian_id": "doug-benson",
+  "name": "Doug Benson",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 135,
+  "comedian_id": "duncan-trussell",
+  "name": "Duncan Trussell",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 136,
+  "comedian_id": "eleanor-kerrigan",
+  "name": "Eleanor Kerrigan",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 137,
   "comedian_id": "emily-heller",
   "name": "Emily Heller",
   "score": 0.0,
@@ -1968,7 +2192,7 @@
   "rs2017": null
  },
  {
-  "rank": 124,
+  "rank": 138,
   "comedian_id": "emo-philips",
   "name": "Emo Philips",
   "score": 0.0,
@@ -1984,7 +2208,7 @@
   "rs2017": null
  },
  {
-  "rank": 125,
+  "rank": 139,
   "comedian_id": "enissa-amani",
   "name": "Enissa Amani",
   "score": 0.0,
@@ -2000,7 +2224,7 @@
   "rs2017": null
  },
  {
-  "rank": 126,
+  "rank": 140,
   "comedian_id": "eric-andre",
   "name": "Eric Andre",
   "score": 0.0,
@@ -2016,7 +2240,7 @@
   "rs2017": null
  },
  {
-  "rank": 127,
+  "rank": 141,
   "comedian_id": "erik-griffin",
   "name": "Erik Griffin",
   "score": 0.0,
@@ -2032,7 +2256,7 @@
   "rs2017": null
  },
  {
-  "rank": 128,
+  "rank": 142,
   "comedian_id": "fahim-anwar",
   "name": "Fahim Anwar",
   "score": 0.0,
@@ -2048,7 +2272,23 @@
   "rs2017": null
  },
  {
-  "rank": 129,
+  "rank": 143,
+  "comedian_id": "frank-skinner",
+  "name": "Frank Skinner",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 144,
   "comedian_id": "fred-armisen",
   "name": "Fred Armisen",
   "score": 0.0,
@@ -2064,7 +2304,7 @@
   "rs2017": null
  },
  {
-  "rank": 130,
+  "rank": 145,
   "comedian_id": "gary-gulman",
   "name": "Gary Gulman",
   "score": 0.0,
@@ -2080,7 +2320,23 @@
   "rs2017": null
  },
  {
-  "rank": 131,
+  "rank": 146,
+  "comedian_id": "gary-owen",
+  "name": "Gary Owen",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 147,
   "comedian_id": "george-lopez",
   "name": "George Lopez",
   "score": 0.0,
@@ -2096,7 +2352,7 @@
   "rs2017": null
  },
  {
-  "rank": 132,
+  "rank": 148,
   "comedian_id": "greg-davies",
   "name": "Greg Davies",
   "score": 0.0,
@@ -2112,7 +2368,23 @@
   "rs2017": null
  },
  {
-  "rank": 133,
+  "rank": 149,
+  "comedian_id": "greg-fitzsimmons",
+  "name": "Greg Fitzsimmons",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 150,
   "comedian_id": "greg-giraldo",
   "name": "Greg Giraldo",
   "score": 0.0,
@@ -2128,7 +2400,7 @@
   "rs2017": null
  },
  {
-  "rank": 134,
+  "rank": 151,
   "comedian_id": "hans-kim",
   "name": "Hans Kim",
   "score": 0.0,
@@ -2144,7 +2416,23 @@
   "rs2017": null
  },
  {
-  "rank": 135,
+  "rank": 152,
+  "comedian_id": "harland-williams",
+  "name": "Harland Williams",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 153,
   "comedian_id": "hasan-minhaj",
   "name": "Hasan Minhaj",
   "score": 0.0,
@@ -2160,7 +2448,23 @@
   "rs2017": null
  },
  {
-  "rank": 136,
+  "rank": 154,
+  "comedian_id": "helen-bauer",
+  "name": "Helen Bauer",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 155,
   "comedian_id": "henry-rollins",
   "name": "Henry Rollins",
   "score": 0.0,
@@ -2176,7 +2480,39 @@
   "rs2017": null
  },
  {
-  "rank": 137,
+  "rank": 156,
+  "comedian_id": "ian-edwards",
+  "name": "Ian Edwards",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 157,
+  "comedian_id": "jak-knight",
+  "name": "Jak Knight",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 158,
   "comedian_id": "james-acaster",
   "name": "James Acaster",
   "score": 0.0,
@@ -2192,7 +2528,23 @@
   "rs2017": null
  },
  {
-  "rank": 138,
+  "rank": 159,
+  "comedian_id": "jeff-garlin",
+  "name": "Jeff Garlin",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 160,
   "comedian_id": "jen-kirkman",
   "name": "Jen Kirkman",
   "score": 0.0,
@@ -2208,7 +2560,23 @@
   "rs2017": null
  },
  {
-  "rank": 139,
+  "rank": 161,
+  "comedian_id": "jesus-trejo",
+  "name": "Jesus Trejo",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 162,
   "comedian_id": "jimmy-carr",
   "name": "Jimmy Carr",
   "score": 0.0,
@@ -2224,7 +2592,7 @@
   "rs2017": null
  },
  {
-  "rank": 140,
+  "rank": 163,
   "comedian_id": "jimmy-o-yang",
   "name": "Jimmy O Yang",
   "score": 0.0,
@@ -2240,7 +2608,7 @@
   "rs2017": null
  },
  {
-  "rank": 141,
+  "rank": 164,
   "comedian_id": "jo-koy",
   "name": "Jo Koy",
   "score": 0.0,
@@ -2256,7 +2624,7 @@
   "rs2017": null
  },
  {
-  "rank": 142,
+  "rank": 165,
   "comedian_id": "joe-rogan",
   "name": "Joe Rogan",
   "score": 0.0,
@@ -2272,7 +2640,23 @@
   "rs2017": null
  },
  {
-  "rank": 143,
+  "rank": 166,
+  "comedian_id": "josh-wolf",
+  "name": "Josh Wolf",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 167,
   "comedian_id": "judah-friedlander",
   "name": "Judah Friedlander",
   "score": 0.0,
@@ -2288,7 +2672,7 @@
   "rs2017": null
  },
  {
-  "rank": 144,
+  "rank": 168,
   "comedian_id": "kavin-jay",
   "name": "Kavin Jay",
   "score": 0.0,
@@ -2304,7 +2688,7 @@
   "rs2017": null
  },
  {
-  "rank": 145,
+  "rank": 169,
   "comedian_id": "ken-jeong",
   "name": "Ken Jeong",
   "score": 0.0,
@@ -2320,7 +2704,7 @@
   "rs2017": null
  },
  {
-  "rank": 146,
+  "rank": 170,
   "comedian_id": "kevin-smith",
   "name": "Kevin Smith",
   "score": 0.0,
@@ -2336,7 +2720,23 @@
   "rs2017": null
  },
  {
-  "rank": 147,
+  "rank": 171,
+  "comedian_id": "kirk-fox",
+  "name": "Kirk Fox",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 172,
   "comedian_id": "lee-mack",
   "name": "Lee Mack",
   "score": 0.0,
@@ -2352,7 +2752,7 @@
   "rs2017": null
  },
  {
-  "rank": 148,
+  "rank": 173,
   "comedian_id": "lisa-lampanelli",
   "name": "Lisa Lampanelli",
   "score": 0.0,
@@ -2368,7 +2768,7 @@
   "rs2017": null
  },
  {
-  "rank": 149,
+  "rank": 174,
   "comedian_id": "mark-normand",
   "name": "Mark Normand",
   "score": 0.0,
@@ -2384,7 +2784,7 @@
   "rs2017": null
  },
  {
-  "rank": 150,
+  "rank": 175,
   "comedian_id": "marlon-wayans",
   "name": "Marlon Wayans",
   "score": 0.0,
@@ -2400,7 +2800,7 @@
   "rs2017": null
  },
  {
-  "rank": 151,
+  "rank": 176,
   "comedian_id": "matt-mccusker",
   "name": "Matt McCusker",
   "score": 0.0,
@@ -2416,7 +2816,7 @@
   "rs2017": null
  },
  {
-  "rank": 152,
+  "rank": 177,
   "comedian_id": "maz-jobrani",
   "name": "Maz Jobrani",
   "score": 0.0,
@@ -2432,7 +2832,7 @@
   "rs2017": null
  },
  {
-  "rank": 153,
+  "rank": 178,
   "comedian_id": "michael-mcintyre",
   "name": "Michael Mcintyre",
   "score": 0.0,
@@ -2448,7 +2848,7 @@
   "rs2017": null
  },
  {
-  "rank": 154,
+  "rank": 179,
   "comedian_id": "michelle-wolf",
   "name": "Michelle Wolf",
   "score": 0.0,
@@ -2464,7 +2864,39 @@
   "rs2017": null
  },
  {
-  "rank": 155,
+  "rank": 180,
+  "comedian_id": "moshe-kasher",
+  "name": "Moshe Kasher",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 181,
+  "comedian_id": "natasha-leggero",
+  "name": "Natasha Leggero",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 182,
   "comedian_id": "nick-offerman",
   "name": "Nick Offerman",
   "score": 0.0,
@@ -2480,7 +2912,7 @@
   "rs2017": null
  },
  {
-  "rank": 156,
+  "rank": 183,
   "comedian_id": "nikki-glaser",
   "name": "Nikki Glaser",
   "score": 0.0,
@@ -2496,7 +2928,7 @@
   "rs2017": null
  },
  {
-  "rank": 157,
+  "rank": 184,
   "comedian_id": "pete-davidson",
   "name": "Pete Davidson",
   "score": 0.0,
@@ -2512,7 +2944,7 @@
   "rs2017": null
  },
  {
-  "rank": 158,
+  "rank": 185,
   "comedian_id": "pete-holmes",
   "name": "Pete Holmes",
   "score": 0.0,
@@ -2528,7 +2960,7 @@
   "rs2017": null
  },
  {
-  "rank": 159,
+  "rank": 186,
   "comedian_id": "ralphie-may",
   "name": "Ralphie May",
   "score": 0.0,
@@ -2544,7 +2976,7 @@
   "rs2017": null
  },
  {
-  "rank": 160,
+  "rank": 187,
   "comedian_id": "ramy-youssef",
   "name": "Ramy Youssef",
   "score": 0.0,
@@ -2560,7 +2992,7 @@
   "rs2017": null
  },
  {
-  "rank": 161,
+  "rank": 188,
   "comedian_id": "rob-schneider",
   "name": "Rob Schneider",
   "score": 0.0,
@@ -2576,7 +3008,23 @@
   "rs2017": null
  },
  {
-  "rank": 162,
+  "rank": 189,
+  "comedian_id": "ron-funches",
+  "name": "Ron Funches",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 190,
   "comedian_id": "ronny-chieng",
   "name": "Ronny Chieng",
   "score": 0.0,
@@ -2592,7 +3040,7 @@
   "rs2017": null
  },
  {
-  "rank": 163,
+  "rank": 191,
   "comedian_id": "roy-wood-jr",
   "name": "Roy Wood Jr",
   "score": 0.0,
@@ -2608,7 +3056,7 @@
   "rs2017": null
  },
  {
-  "rank": 164,
+  "rank": 192,
   "comedian_id": "russell-brand",
   "name": "Russell Brand",
   "score": 0.0,
@@ -2624,7 +3072,7 @@
   "rs2017": null
  },
  {
-  "rank": 165,
+  "rank": 193,
   "comedian_id": "russell-howard",
   "name": "Russell Howard",
   "score": 0.0,
@@ -2640,7 +3088,23 @@
   "rs2017": null
  },
  {
-  "rank": 166,
+  "rank": 194,
+  "comedian_id": "sam-tripoli",
+  "name": "Sam Tripoli",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 195,
   "comedian_id": "sara-pascoe",
   "name": "Sara Pascoe",
   "score": 0.0,
@@ -2656,7 +3120,7 @@
   "rs2017": null
  },
  {
-  "rank": 167,
+  "rank": 196,
   "comedian_id": "sarah-millican",
   "name": "Sarah Millican",
   "score": 0.0,
@@ -2672,7 +3136,7 @@
   "rs2017": null
  },
  {
-  "rank": 168,
+  "rank": 197,
   "comedian_id": "sean-lock",
   "name": "Sean Lock",
   "score": 0.0,
@@ -2688,7 +3152,7 @@
   "rs2017": null
  },
  {
-  "rank": 169,
+  "rank": 198,
   "comedian_id": "seth-meyers",
   "name": "Seth Meyers",
   "score": 0.0,
@@ -2704,7 +3168,7 @@
   "rs2017": null
  },
  {
-  "rank": 170,
+  "rank": 199,
   "comedian_id": "shane-gillis",
   "name": "Shane Gillis",
   "score": 0.0,
@@ -2720,7 +3184,7 @@
   "rs2017": null
  },
  {
-  "rank": 171,
+  "rank": 200,
   "comedian_id": "t-j-miller",
   "name": "T J Miller",
   "score": 0.0,
@@ -2736,7 +3200,7 @@
   "rs2017": null
  },
  {
-  "rank": 172,
+  "rank": 201,
   "comedian_id": "theo-von",
   "name": "Theo Von",
   "score": 0.0,
@@ -2752,7 +3216,7 @@
   "rs2017": null
  },
  {
-  "rank": 173,
+  "rank": 202,
   "comedian_id": "tiffany-haddish",
   "name": "Tiffany Haddish",
   "score": 0.0,
@@ -2768,7 +3232,7 @@
   "rs2017": null
  },
  {
-  "rank": 174,
+  "rank": 203,
   "comedian_id": "todd-barry",
   "name": "Todd Barry",
   "score": 0.0,
@@ -2784,7 +3248,7 @@
   "rs2017": null
  },
  {
-  "rank": 175,
+  "rank": 204,
   "comedian_id": "todd-glass",
   "name": "Todd Glass",
   "score": 0.0,
@@ -2800,7 +3264,39 @@
   "rs2017": null
  },
  {
-  "rank": 176,
+  "rank": 205,
+  "comedian_id": "tom-rhodes",
+  "name": "Tom Rhodes",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 206,
+  "comedian_id": "tony-hinchcliffe",
+  "name": "Tony Hinchcliffe",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 207,
   "comedian_id": "urzila-carlson",
   "name": "Urzila Carlson",
   "score": 0.0,
@@ -2816,7 +3312,7 @@
   "rs2017": null
  },
  {
-  "rank": 177,
+  "rank": 208,
   "comedian_id": "w-kamau-bell",
   "name": "W Kamau Bell",
   "score": 0.0,
@@ -2832,7 +3328,23 @@
   "rs2017": null
  },
  {
-  "rank": 178,
+  "rank": 209,
+  "comedian_id": "wheeler-walker",
+  "name": "Wheeler Walker",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 210,
   "comedian_id": "william-montgomery",
   "name": "William Montgomery",
   "score": 0.0,
@@ -2843,6 +3355,22 @@
   },
   "disagreement": 0.0,
   "generation": "twenties",
+  "imdb_wr": null,
+  "cc2004": null,
+  "rs2017": null
+ },
+ {
+  "rank": 211,
+  "comedian_id": "yakov-smirnoff",
+  "name": "Yakov Smirnoff",
+  "score": 0.0,
+  "legs": {
+   "critics": 0.0,
+   "audience": 0.0,
+   "awards": 0.0
+  },
+  "disagreement": 0.0,
+  "generation": null,
   "imdb_wr": null,
   "cc2004": null,
   "rs2017": null

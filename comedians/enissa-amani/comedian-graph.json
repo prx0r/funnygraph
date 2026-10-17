@@ -227,8 +227,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 30.3,
-    "legacy_era": 57.9,
+    "legacy": 34.6,
+    "legacy_era": 57.8,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -277,5 +277,35 @@
         "year": 2015
       }
     ]
+  },
+  "rating": {
+    "headline": 29.1,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 139,
+        "ref": true
+      },
+      "canon": {
+        "rank": 102,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 90,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

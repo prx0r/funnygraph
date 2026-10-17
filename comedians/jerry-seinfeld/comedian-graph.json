@@ -441,15 +441,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 97.8,
-    "legacy_era": 93.8,
+    "legacy": 98.1,
+    "legacy_era": 94.8,
     "audience": 70.0,
-    "popularity": 64.9,
+    "popularity": 71.7,
     "theory": 50.0,
     "heat": null,
-    "gap_value": -0.051,
+    "gap_value": 0.017,
     "overrated": "accurately rated",
-    "canon_lag": -0.278
+    "canon_lag": -0.281
   },
   "tier": "king",
   "region": "us",
@@ -486,5 +486,48 @@
       "good",
       "down"
     ]
+  },
+  "rating": {
+    "headline": 95.9,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 5,
+        "pct": 95.9,
+        "sweep": [
+          2,
+          21
+        ]
+      },
+      "consensus": {
+        "rank": 5,
+        "ref": true
+      },
+      "canon": {
+        "rank": 7,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 15,
+        "wr": 7.778,
+        "ref": true
+      },
+      "era": {
+        "rank": 12,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 2,
+      "hi": 21
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://jerryseinfeld.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

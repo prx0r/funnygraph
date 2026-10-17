@@ -59,15 +59,48 @@
   "nearest_greats": [
     {
       "comedian_id": "james-acaster",
-      "sim": 0.057
-    },
-    {
-      "comedian_id": "stewart-lee",
-      "sim": 0.032
+      "sim": 0.061
     },
     {
       "comedian_id": "marc-maron",
-      "sim": 0.029
+      "sim": 0.03
+    },
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.028
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "meta",
+    "theories": [
+      "rigidity",
+      "literalise",
+      "bisociation"
+    ],
+    "via": "james-acaster",
+    "sim": 0.061,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

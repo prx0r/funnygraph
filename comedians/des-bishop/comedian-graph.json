@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 21.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,15 +58,63 @@
   "nearest_greats": [
     {
       "comedian_id": "phil-wang",
-      "sim": 0.098
+      "sim": 0.115
     },
     {
       "comedian_id": "hans-kim",
-      "sim": 0.067
+      "sim": 0.083
     },
     {
       "comedian_id": "casey-rocket",
-      "sim": 0.038
+      "sim": 0.045
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCei-JaKcPzlkBQleCMZfNHw",
+    "handle": "desbishop",
+    "title": "DesBishop",
+    "subs": 1,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "phil-wang",
+    "sim": 0.115,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://desbishop.net",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

@@ -1,0 +1,110 @@
+{
+ "comedian_id": "hannah-magy",
+ "name": "Hannah Magy",
+ "channels": {
+  "UCbgcjPcguC1EV-eDzsFpX8A": {
+   "subs": 63,
+   "channel_views": 3260,
+   "channel": "Hannah Magy"
+  }
+ },
+ "clips": 6,
+ "total_views": 3262,
+ "total_likes": 55,
+ "avg_views": 543,
+ "like_rate": 0.01686,
+ "top_clip": {
+  "videoId": "ZlWDEhxn27g",
+  "title": "Character Burlesque: Lucy Deucy",
+  "channel": "Hannah Magy",
+  "channelId": "UCbgcjPcguC1EV-eDzsFpX8A",
+  "channel_subs": 63,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2022-11-12",
+  "views": 2115,
+  "likes": 31,
+  "comments": 0,
+  "duration_s": 280
+ },
+ "rows": [
+  {
+   "videoId": "ZlWDEhxn27g",
+   "title": "Character Burlesque: Lucy Deucy",
+   "channel": "Hannah Magy",
+   "channelId": "UCbgcjPcguC1EV-eDzsFpX8A",
+   "channel_subs": 63,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2022-11-12",
+   "views": 2115,
+   "likes": 31,
+   "comments": 0,
+   "duration_s": 280
+  },
+  {
+   "videoId": "MsZBYtnopZk",
+   "title": "Stand Up Set: Attention Seeking - Hannah Magy",
+   "channel": "Hannah Magy",
+   "channelId": "UCbgcjPcguC1EV-eDzsFpX8A",
+   "channel_subs": 63,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2022-10-27",
+   "views": 392,
+   "likes": 4,
+   "comments": 0,
+   "duration_s": 300
+  },
+  {
+   "videoId": "BcBA6SWN8MA",
+   "title": "\u201cRedheads Set\u201d - 5 Minute Clip",
+   "channel": "Hannah Magy",
+   "channelId": "UCbgcjPcguC1EV-eDzsFpX8A",
+   "channel_subs": 63,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2023-01-30",
+   "views": 277,
+   "likes": 4,
+   "comments": 1,
+   "duration_s": 311
+  },
+  {
+   "videoId": "HQal4uHs2Q4",
+   "title": "Standup Set \u201cRedheads\u201d",
+   "channel": "Hannah Magy",
+   "channelId": "UCbgcjPcguC1EV-eDzsFpX8A",
+   "channel_subs": 63,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2022-12-04",
+   "views": 198,
+   "likes": 3,
+   "comments": 1,
+   "duration_s": 495
+  },
+  {
+   "videoId": "kWIzxPiiK_A",
+   "title": "Machine Memoirs: Jaffe & Magy @ The Annoyance",
+   "channel": "Hannah Magy",
+   "channelId": "UCbgcjPcguC1EV-eDzsFpX8A",
+   "channel_subs": 63,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2022-07-31",
+   "views": 167,
+   "likes": 2,
+   "comments": 1,
+   "duration_s": 514
+  },
+  {
+   "videoId": "KKTlqrLAv-M",
+   "title": "Checking You (For Ticks)",
+   "channel": "Hannah Magy",
+   "channelId": "UCbgcjPcguC1EV-eDzsFpX8A",
+   "channel_subs": 63,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2026-07-06",
+   "views": 113,
+   "likes": 11,
+   "comments": 1,
+   "duration_s": 104
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

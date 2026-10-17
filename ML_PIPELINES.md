@@ -1,9 +1,10 @@
 # ML Pipelines — funnygraph
 
 > What we can compute, ordered by what runs now vs what needs more data.
-> Data inventory (2026-10-17, eve): 290 graphs (178 kings + 112 indies) ·
-> 150+ known_bits · 196 specials_rated · 142 bios · 165 generations ·
-> 82 recognition · 449 sets · 404 transcripts (19MB).
+> Data inventory (2026-10-17, eve): 417 graphs (211 kings + 206 indies) ·
+> 150+ known_bits · 196 specials_rated · 187 bios · 165 generations ·
+> 82 recognition · 449 sets · 404 transcripts (19MB). (Morning said 290;
+> afternoon discovery batches added ~120 indies — this line stays current.)
 
 ## Runs now
 

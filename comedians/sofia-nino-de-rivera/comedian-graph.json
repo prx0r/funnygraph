@@ -63,11 +63,43 @@
     },
     {
       "comedian_id": "norm-macdonald",
-      "sim": 0.062
+      "sim": 0.063
     },
     {
       "comedian_id": "maria-bamford",
-      "sim": 0.061
+      "sim": 0.063
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [
+      "incongruity",
+      "bisociation"
+    ],
+    "via": "trevor-noah",
+    "sim": 0.072,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

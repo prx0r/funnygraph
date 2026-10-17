@@ -58,15 +58,49 @@
   "nearest_greats": [
     {
       "comedian_id": "whitney-cummings",
-      "sim": 0.106
+      "sim": 0.108
     },
     {
       "comedian_id": "robin-williams",
-      "sim": 0.028
+      "sim": 0.03
     },
     {
       "comedian_id": "bill-burr",
-      "sim": 0.028
+      "sim": 0.029
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "dark-confessional",
+    "theories": [],
+    "via": "whitney-cummings",
+    "sim": 0.108,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://kanangill.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

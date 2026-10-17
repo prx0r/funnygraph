@@ -233,8 +233,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 11.8,
-    "legacy_era": 38.8,
+    "legacy": 12.8,
+    "legacy_era": 35.5,
     "audience": null,
     "popularity": 55.3,
     "theory": 0.0,
@@ -278,5 +278,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 185,
+        "ref": true
+      },
+      "canon": {
+        "rank": 171,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 137,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://peteholmesshow.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -58,15 +58,53 @@
   "nearest_greats": [
     {
       "comedian_id": "joe-list",
-      "sim": 0.037
+      "sim": 0.039
     },
     {
       "comedian_id": "cam-patterson",
-      "sim": 0.036
+      "sim": 0.038
     },
     {
       "comedian_id": "whitney-cummings",
-      "sim": 0.022
+      "sim": 0.023
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "via": "joe-list",
+    "sim": 0.039,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://auntydonna.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

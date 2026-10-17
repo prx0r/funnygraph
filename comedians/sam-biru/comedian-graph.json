@@ -1,0 +1,129 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "sam-biru",
+  "name": "Sam Biru",
+  "tier": "indie",
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "youtube-uploads:dont-tell-comedy"
+    ],
+    "discovery_note": "Name-mined from dont-tell-comedy uploads (registry playlist, no search).",
+    "evidence": [
+      {
+        "videoId": "t4n_iaVrYAU",
+        "title": "\"Live Photo D*ck Pic\" \ud83c\udfa4: Sam Biru | @SamBiruComedy | Full Video on our Channel!",
+        "views": 43094,
+        "publishedAt": "2026-08-29"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "region_method": "venue-scene (overwrite on origin evidence)"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 35.2,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCuZ1m9wOMiWKPoGJ-cOQwVQ",
+    "handle": "SamBiruComedy",
+    "title": "Sam Biru",
+    "subs": 374,
+    "via": "handle",
+    "source": "discover.py --link-channels (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 10,
+    "newest_upload": "2026-08-24",
+    "name_match_rate": 0.0,
+    "other_names": [
+      "Black Racism"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.039
+    },
+    {
+      "comedian_id": "anthony-jeselnik",
+      "sim": 0.037
+    },
+    {
+      "comedian_id": "robin-williams",
+      "sim": 0.034
+    }
+  ],
+  "style_tags": {
+    "humor_type": "meta",
+    "theories": [
+      "rigidity",
+      "bisociation",
+      "status_reversal"
+    ],
+    "via": "stewart-lee",
+    "sim": 0.039,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "region": "us"
+}

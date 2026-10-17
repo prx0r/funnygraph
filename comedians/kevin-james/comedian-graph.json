@@ -237,8 +237,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 52.2,
-    "legacy_era": 6.2,
+    "legacy": 59.7,
+    "legacy_era": 5.2,
     "audience": null,
     "popularity": 37.7,
     "theory": 0.0,
@@ -279,5 +279,40 @@
       "think",
       "time"
     ]
+  },
+  "rating": {
+    "headline": 29.1,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 86,
+        "ref": true
+      },
+      "canon": {
+        "rank": 43,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 201,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.kevinjames.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

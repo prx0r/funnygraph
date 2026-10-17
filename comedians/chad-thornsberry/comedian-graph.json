@@ -1,0 +1,110 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "chad-thornsberry",
+  "name": "Chad Thornsberry",
+  "tier": "indie",
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "youtube-uploads:dry-bar"
+    ],
+    "discovery_note": "Name-mined from dry-bar uploads (registry playlist, no search).",
+    "evidence": [
+      {
+        "videoId": "gfkJ7IyyRog",
+        "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+        "views": 238888,
+        "publishedAt": "2026-09-08"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "region_method": "venue-scene (overwrite on origin evidence)"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "doug-stanhope",
+      "sim": 0.058
+    }
+  ],
+  "style_tags": {
+    "humor_type": "rant",
+    "theories": [
+      "status_reversal",
+      "rigidity",
+      "incongruity"
+    ],
+    "via": "doug-stanhope",
+    "sim": 0.058,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://chadthornsberry.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "region": "us"
+}

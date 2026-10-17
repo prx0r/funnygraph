@@ -30,21 +30,22 @@
     "discovered_from": [
       "timeout-2026"
     ],
-    "discovery_note": "Time Out 12 to watch 2026"
+    "discovery_note": "Time Out 12 to watch 2026",
+    "region_method": "venue-scene (overwrite on origin evidence)"
   },
   "theory_score": null,
   "nearest_greats": [
     {
       "comedian_id": "jack-whitehall",
-      "sim": 0.094
+      "sim": 0.101
     },
     {
       "comedian_id": "sarah-millican",
-      "sim": 0.084
+      "sim": 0.091
     },
     {
-      "comedian_id": "drew-michael",
-      "sim": 0.077
+      "comedian_id": "bill-maher",
+      "sim": 0.083
     }
   ],
   "sets": [],
@@ -60,7 +61,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 31.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -71,5 +72,54 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
-  }
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCbgcjPcguC1EV-eDzsFpX8A",
+    "handle": "hannahmagy",
+    "title": "Hannah Magy",
+    "subs": 63,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 6,
+    "newest_upload": "2026-07-06",
+    "name_match_rate": 0.33,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "jack-whitehall",
+    "sim": 0.101,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://hannahmagy.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "region": "us"
 }

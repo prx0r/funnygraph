@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 6.2,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,11 +58,63 @@
   "nearest_greats": [
     {
       "comedian_id": "mike-birbiglia",
-      "sim": 0.039
+      "sim": 0.04
     },
     {
       "comedian_id": "gabriel-iglesias",
-      "sim": 0.032
+      "sim": 0.034
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCpmtZJYkLtDGBNzSSd5dpOQ",
+    "handle": "melaniebracewell",
+    "title": "melaniebracewell",
+    "subs": 0,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "storytelling",
+    "theories": [
+      "benign_violation",
+      "persona_gap"
+    ],
+    "via": "mike-birbiglia",
+    "sim": 0.04,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://melaniebracewell.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

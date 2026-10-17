@@ -44,7 +44,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 26.2,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -59,15 +59,58 @@
   "nearest_greats": [
     {
       "comedian_id": "adel-karam",
-      "sim": 0.089
+      "sim": 0.088
     },
     {
       "comedian_id": "maria-bamford",
-      "sim": 0.051
+      "sim": 0.054
     },
     {
       "comedian_id": "ricky-gervais",
-      "sim": 0.041
+      "sim": 0.042
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCNu_-iWrBqPU-vqYRtlCXcA",
+    "handle": "danirovira",
+    "title": "Dani Rovira",
+    "subs": 2,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "adel-karam",
+    "sim": 0.088,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

@@ -292,15 +292,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 54.5,
-    "legacy_era": 12.9,
+    "legacy": 61.6,
+    "legacy_era": 10.9,
     "audience": 30.0,
     "popularity": 29.8,
     "theory": 12.5,
     "heat": null,
     "gap_value": -0.002,
     "overrated": "accurately rated",
-    "canon_lag": -0.245
+    "canon_lag": -0.316
   },
   "tier": "king",
   "region": "us",
@@ -340,5 +340,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 1.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 98,
+        "pct": 1.0,
+        "sweep": [
+          98,
+          98
+        ]
+      },
+      "consensus": {
+        "rank": 82,
+        "ref": true
+      },
+      "canon": {
+        "rank": 149,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 61,
+        "wr": 6.487,
+        "ref": true
+      },
+      "era": {
+        "rank": 189,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 98,
+      "hi": 98
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.wtfpod.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

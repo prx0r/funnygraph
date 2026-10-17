@@ -1,0 +1,114 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "usama-siddiquee",
+  "name": "Usama Siddiquee",
+  "tier": "indie",
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "deadline-2026"
+    ],
+    "discovery_note": "First headlining tour wrapped, DTC half hour, Colbert debut 2024"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "demetri-martin",
+      "sim": 0.033
+    },
+    {
+      "comedian_id": "shane-gillis",
+      "sim": 0.029
+    },
+    {
+      "comedian_id": "jim-gaffigan",
+      "sim": 0.023
+    }
+  ],
+  "style_tags": {
+    "humor_type": "one-liner",
+    "theories": [
+      "literalise",
+      "incongruity",
+      "bisociation"
+    ],
+    "via": "demetri-martin",
+    "sim": 0.033,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "known_bits": [
+    {
+      "title": "Kicked off AGT / Muslim in Texas",
+      "why_it_works": "Growing-up-Muslim-in-Texas premises + the getting-kicked-off-TV story: identity_contradict played warm \u2014 the contradiction (belonging vs otherness) resolves through charm, not argument. (Deadline 2026; hypothesis)",
+      "theory_links": [
+        "identity_contradict",
+        "benign_violation"
+      ],
+      "source": "deadline-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ]
+}

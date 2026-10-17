@@ -240,15 +240,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 61.2,
-    "legacy_era": 17.4,
+    "legacy": 67.3,
+    "legacy_era": 14.7,
     "audience": 30.0,
     "popularity": null,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.312
+    "canon_lag": -0.373
   },
   "tier": "king",
   "region": "us",
@@ -295,5 +295,48 @@
       "good",
       "playing"
     ]
+  },
+  "rating": {
+    "headline": 29.6,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 70,
+        "pct": 29.6,
+        "sweep": [
+          70,
+          70
+        ]
+      },
+      "consensus": {
+        "rank": 70,
+        "ref": true
+      },
+      "canon": {
+        "rank": 187,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 49,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 181,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 70,
+      "hi": 70
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://sarahcooper.net",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

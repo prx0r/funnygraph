@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 66.9,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,15 +58,62 @@
   "nearest_greats": [
     {
       "comedian_id": "bert-kreischer",
-      "sim": 0.052
-    },
-    {
-      "comedian_id": "mike-birbiglia",
-      "sim": 0.051
+      "sim": 0.054
     },
     {
       "comedian_id": "dave-chappelle",
-      "sim": 0.049
+      "sim": 0.053
+    },
+    {
+      "comedian_id": "mike-birbiglia",
+      "sim": 0.053
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCWfX0nD5LDx0rvxHUWWWQUw",
+    "handle": "tommytiernan",
+    "title": "Tommy Tiernan",
+    "subs": 62400,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2025-07-14",
+    "name_match_rate": 0.97,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "storytelling",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "via": "bert-kreischer",
+    "sim": 0.054,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

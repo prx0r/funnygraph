@@ -2,10 +2,12 @@
 
 **One line:** standout-special IMDb, Top-250 shrinkage. The people's verdict per special.
 
-## Formula
-1. Per comedian, take the standout (or best-rated) special.
-2. IMDb Top-250 shrinkage: `WR = (v/(v+m))·R + (m/(v+m))·C`, m=1000, C=7.0.
-3. Map 5.0→0, 9.0→100.
+## Formula (display score — v0.2 correction)
+1. Per comedian, take the standout (or best-rated) special's RAW IMDb rating.
+2. Map 5.0→0, 9.0→100: `(r−5)·25`, clipped.
+3. NO shrinkage in display (v0.1 wrongly claimed WR here): shrinkage exists
+   to ORDER fairly (ranking leg: WR m=500, C=7.50 calibrated); the display
+   shows what viewers said, vote-base credibility on the coverage badge.
 
 ## Inputs
 - `specials_rated[]` (IMDb title.ratings + title.basics, free public datasets)

@@ -273,8 +273,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 47.8,
-    "legacy_era": 20.2,
+    "legacy": 55.9,
+    "legacy_era": 17.1,
     "audience": null,
     "popularity": 10.5,
     "theory": 12.5,
@@ -326,5 +326,48 @@
         "year": 2008
       }
     ]
+  },
+  "rating": {
+    "headline": 2.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 97,
+        "pct": 2.0,
+        "sweep": [
+          97,
+          97
+        ]
+      },
+      "consensus": {
+        "rank": 94,
+        "ref": true
+      },
+      "canon": {
+        "rank": 49,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 176,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 97,
+      "hi": 97
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://jimnorton.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

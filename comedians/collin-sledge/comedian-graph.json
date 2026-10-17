@@ -21,10 +21,19 @@
     "expression": {},
     "modulator_range": [],
     "profile": {},
-    "operator_priors": {},
+    "operator_priors": {
+      "identity_contradiction": 0.512,
+      "self_awareness": 0.505,
+      "specificity": 0.775,
+      "escalation": 0.113,
+      "garden_path": 0.685,
+      "benign_violation": 0.825,
+      "audience_alliance": 0.105
+    },
     "preferred_theories": [],
     "threads": [],
-    "problem_space": []
+    "problem_space": [],
+    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
   },
   "discovery": {
     "discovered_from": [
@@ -48,7 +57,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 27.6,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -59,5 +68,41 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UC1D41j6mqF-GBcWPYqk5ftg",
+    "handle": "collinsledge",
+    "title": "Collin Sledge",
+    "subs": 6,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 1,
+    "newest_upload": "2025-10-14",
+    "name_match_rate": 0.0,
+    "other_names": []
   }
 }

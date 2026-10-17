@@ -295,15 +295,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 69.7,
-    "legacy_era": 78.1,
+    "legacy": 74.4,
+    "legacy_era": 81.5,
     "audience": 10.0,
     "popularity": null,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.597
+    "canon_lag": -0.644
   },
   "tier": "king",
   "region": "us",
@@ -350,5 +350,43 @@
       "word",
       "black"
     ]
+  },
+  "rating": {
+    "headline": 50.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 50,
+        "pct": 50.0,
+        "sweep": [
+          45,
+          50
+        ]
+      },
+      "consensus": {
+        "rank": 55,
+        "ref": true
+      },
+      "canon": {
+        "rank": 24,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 65,
+        "wr": 6.189,
+        "ref": true
+      },
+      "era": {
+        "rank": 40,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 45,
+      "hi": 50
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

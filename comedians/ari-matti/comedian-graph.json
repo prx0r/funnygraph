@@ -21,10 +21,20 @@
     "expression": {},
     "modulator_range": [],
     "profile": {},
-    "operator_priors": {},
+    "operator_priors": {
+      "rigidity": 0.055,
+      "status_reversal": 0.223,
+      "identity_contradiction": 0.212,
+      "self_awareness": 0.681,
+      "specificity": 0.623,
+      "escalation": 0.114,
+      "garden_path": 0.491,
+      "benign_violation": 0.867
+    },
     "preferred_theories": [],
     "threads": [],
-    "problem_space": []
+    "problem_space": [],
+    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 40 mechanism reads (10 ops); judge-measured, not transcript-measured"
   },
   "discovery": {
     "discovered_from": [
@@ -48,7 +58,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 32.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -73,5 +83,46 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCQSBM0iYP1uWwZKGb3dClRQ",
+    "handle": "arimatti",
+    "title": "AriMatti",
+    "subs": 13,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 8,
+    "newest_upload": "2016-05-10",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "website": {
+    "url": "https://arimatti.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

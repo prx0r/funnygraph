@@ -233,8 +233,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 26.4,
-    "legacy_era": 53.9,
+    "legacy": 30.3,
+    "legacy_era": 53.5,
     "audience": null,
     "popularity": 46.5,
     "theory": 0.0,
@@ -278,5 +278,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 42.9,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 148,
+        "ref": true
+      },
+      "canon": {
+        "rank": 113,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 99,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://gregdavies.co.uk",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

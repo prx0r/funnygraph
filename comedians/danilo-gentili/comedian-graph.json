@@ -44,7 +44,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 76.6,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -59,15 +59,70 @@
   "nearest_greats": [
     {
       "comedian_id": "trevor-noah",
-      "sim": 0.056
+      "sim": 0.054
     },
     {
       "comedian_id": "stewart-lee",
-      "sim": 0.038
+      "sim": 0.033
     },
     {
       "comedian_id": "matt-mccusker",
-      "sim": 0.033
+      "sim": 0.031
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCMN82si2EdJ_eROdcJfSmtw",
+    "handle": "danilogentili",
+    "title": "Danilo Gentili",
+    "subs": 919000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2025-07-09",
+    "name_match_rate": 0.48,
+    "other_names": [
+      "Advogado Paloma",
+      "Barack Obanha",
+      "Bruno Diferente",
+      "Concurso Novo Papaco",
+      "Conversa Doutora",
+      "Debate Mundial",
+      "Gordo Coca",
+      "Gordo Danilo"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [
+      "incongruity",
+      "bisociation"
+    ],
+    "via": "trevor-noah",
+    "sim": 0.054,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

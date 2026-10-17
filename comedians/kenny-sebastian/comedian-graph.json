@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 88.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,7 +58,68 @@
   "nearest_greats": [
     {
       "comedian_id": "mark-normand",
-      "sim": 0.038
+      "sim": 0.04
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCzNq9i-DlDDBLjPerVzJW-A",
+    "handle": "kennysebastian",
+    "title": "Kenny Sebastian",
+    "subs": 2260000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-03",
+    "name_match_rate": 0.13,
+    "other_names": [
+      "Can Kenny Sebastian",
+      "Comedian Vs Doctor",
+      "New Chapter Feat",
+      "Reunited Dallas",
+      "Shamik Chakrabarti",
+      "Shreeja Chaturvedi",
+      "Simple Ken Podcast",
+      "Tour Diaries"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "incongruity",
+      "status_reversal",
+      "benign_violation"
+    ],
+    "via": "mark-normand",
+    "sim": 0.04,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://kennysebastian.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  }
 }

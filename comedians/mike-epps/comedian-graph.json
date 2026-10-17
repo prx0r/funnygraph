@@ -299,15 +299,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 66.8,
-    "legacy_era": 41.0,
+    "legacy": 72.0,
+    "legacy_era": 38.4,
     "audience": 30.0,
     "popularity": 85.1,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.551,
     "overrated": "massively overrated",
-    "canon_lag": -0.368
+    "canon_lag": -0.42
   },
   "tier": "king",
   "region": "us",
@@ -357,5 +357,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 37.8,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 62,
+        "pct": 37.8,
+        "sweep": [
+          61,
+          62
+        ]
+      },
+      "consensus": {
+        "rank": 60,
+        "ref": true
+      },
+      "canon": {
+        "rank": 159,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 41,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 131,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 61,
+      "hi": 62
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://mikeepps.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

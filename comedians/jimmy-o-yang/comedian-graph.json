@@ -227,8 +227,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 21.9,
-    "legacy_era": 49.4,
+    "legacy": 23.2,
+    "legacy_era": 46.5,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -272,5 +272,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 34.7,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 163,
+        "ref": true
+      },
+      "canon": {
+        "rank": 134,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 114,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.jimmyouyang.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

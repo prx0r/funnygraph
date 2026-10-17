@@ -272,8 +272,8 @@
     "method": "archetype+theories"
   },
   "metrics": {
-    "legacy": 30.9,
-    "legacy_era": 58.4,
+    "legacy": 35.1,
+    "legacy_era": 58.3,
     "audience": null,
     "popularity": null,
     "theory": 37.5,
@@ -298,5 +298,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 48.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 52,
+        "pct": 48.0,
+        "sweep": [
+          49,
+          52
+        ]
+      },
+      "consensus": {
+        "rank": 138,
+        "ref": true
+      },
+      "canon": {
+        "rank": 101,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 89,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 49,
+      "hi": 52
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.emophilips.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

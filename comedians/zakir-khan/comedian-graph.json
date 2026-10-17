@@ -59,15 +59,61 @@
   "nearest_greats": [
     {
       "comedian_id": "neal-brennan",
-      "sim": 0.029
+      "sim": 0.034
     },
     {
       "comedian_id": "mike-birbiglia",
-      "sim": 0.028
+      "sim": 0.03
     },
     {
       "comedian_id": "aziz-ansari",
-      "sim": 0.024
+      "sim": 0.026
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCkS7Vxu4PjM99w0Is6idjcg",
+    "handle": "zakirkhan",
+    "title": "Zakir Khan",
+    "subs": 8490000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "dark-confessional",
+    "theories": [
+      "benign_violation",
+      "persona_gap"
+    ],
+    "via": "neal-brennan",
+    "sim": 0.034,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

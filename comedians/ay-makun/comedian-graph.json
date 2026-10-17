@@ -59,15 +59,44 @@
   "nearest_greats": [
     {
       "comedian_id": "michael-mcintyre",
-      "sim": 0.101
-    },
-    {
-      "comedian_id": "eddie-murphy",
-      "sim": 0.079
+      "sim": 0.1
     },
     {
       "comedian_id": "jo-koy",
       "sim": 0.075
+    },
+    {
+      "comedian_id": "mark-normand",
+      "sim": 0.072
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "michael-mcintyre",
+    "sim": 0.1,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

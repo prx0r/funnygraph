@@ -42,7 +42,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 19.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -57,15 +57,63 @@
   "nearest_greats": [
     {
       "comedian_id": "william-montgomery",
-      "sim": 0.106
+      "sim": 0.098
     },
     {
-      "comedian_id": "casey-rocket",
+      "comedian_id": "louis-ck",
       "sim": 0.089
     },
     {
       "comedian_id": "richard-pryor",
       "sim": 0.086
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UC7gn1ftcGs3QwEllKNYASiw",
+    "handle": "qiurui",
+    "title": "Qiu Rui",
+    "subs": 0,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "character_violation"
+    ],
+    "via": "william-montgomery",
+    "sim": 0.098,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

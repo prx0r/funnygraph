@@ -1,0 +1,45 @@
+{
+ "comedian_id": "dedrick-flynn",
+ "name": "Dedrick Flynn",
+ "channels": {
+  "UCc3N0ELLoBILW4difCj8_1w": {
+   "subs": 113,
+   "channel_views": 7957,
+   "channel": "Dedrick Flynn"
+  }
+ },
+ "clips": 1,
+ "total_views": 7957,
+ "total_likes": 344,
+ "avg_views": 7957,
+ "like_rate": 0.04323,
+ "top_clip": {
+  "videoId": "jCYjFdxLyAE",
+  "title": "My first time on kill Tony! New kill Tony regular!",
+  "channel": "Dedrick Flynn",
+  "channelId": "UCc3N0ELLoBILW4difCj8_1w",
+  "channel_subs": 113,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2025-11-11",
+  "views": 7957,
+  "likes": 344,
+  "comments": 19,
+  "duration_s": 147
+ },
+ "rows": [
+  {
+   "videoId": "jCYjFdxLyAE",
+   "title": "My first time on kill Tony! New kill Tony regular!",
+   "channel": "Dedrick Flynn",
+   "channelId": "UCc3N0ELLoBILW4difCj8_1w",
+   "channel_subs": 113,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2025-11-11",
+   "views": 7957,
+   "likes": 344,
+   "comments": 19,
+   "duration_s": 147
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

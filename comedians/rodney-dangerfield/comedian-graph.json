@@ -321,10 +321,10 @@
     }
   },
   "metrics": {
-    "legacy": 92.7,
-    "legacy_era": 88.8,
+    "legacy": 93.8,
+    "legacy_era": 90.5,
     "audience": null,
-    "popularity": 70.2,
+    "popularity": 86.2,
     "theory": 50.0,
     "heat": null,
     "gap_value": null,
@@ -343,5 +343,48 @@
       "dark-confessional": 0.2
     },
     "n_modes": 3
+  },
+  "rating": {
+    "headline": 64.3,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 36,
+        "pct": 64.3,
+        "sweep": [
+          30,
+          36
+        ]
+      },
+      "consensus": {
+        "rank": 14,
+        "ref": true
+      },
+      "canon": {
+        "rank": 12,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 21,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 30,
+      "hi": 36
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.rodney.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

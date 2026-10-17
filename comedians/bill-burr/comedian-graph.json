@@ -573,15 +573,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 91.6,
-    "legacy_era": 97.8,
+    "legacy": 92.9,
+    "legacy_era": 98.1,
     "audience": 75.0,
-    "popularity": 86.4,
+    "popularity": 91.2,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.114,
+    "gap_value": 0.162,
     "overrated": "accurately rated",
-    "canon_lag": -0.166
+    "canon_lag": -0.179
   },
   "tier": "king",
   "region": "us",
@@ -619,5 +619,48 @@
       "little",
       "back"
     ]
+  },
+  "rating": {
+    "headline": 87.8,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 13,
+        "pct": 87.8,
+        "sweep": [
+          13,
+          21
+        ]
+      },
+      "consensus": {
+        "rank": 16,
+        "ref": true
+      },
+      "canon": {
+        "rank": 20,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 10,
+        "wr": 7.982,
+        "ref": true
+      },
+      "era": {
+        "rank": 5,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 13,
+      "hi": 21
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.billburr.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

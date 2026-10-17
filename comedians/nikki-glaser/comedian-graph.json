@@ -246,8 +246,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 12.9,
-    "legacy_era": 39.9,
+    "legacy": 13.7,
+    "legacy_era": 36.5,
     "audience": null,
     "popularity": 39.5,
     "theory": 0.0,
@@ -296,5 +296,40 @@
         "year": 2025
       }
     ]
+  },
+  "rating": {
+    "headline": 35.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 183,
+        "ref": true
+      },
+      "canon": {
+        "rank": 167,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 135,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://nikkiglaser.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

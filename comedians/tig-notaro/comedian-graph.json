@@ -239,8 +239,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 58.4,
-    "legacy_era": 29.8,
+    "legacy": 64.9,
+    "legacy_era": 27.0,
     "audience": null,
     "popularity": 14.0,
     "theory": 37.5,
@@ -308,5 +308,48 @@
       "television actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 28.6,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 71,
+        "pct": 28.6,
+        "sweep": [
+          71,
+          71
+        ]
+      },
+      "consensus": {
+        "rank": 75,
+        "ref": true
+      },
+      "canon": {
+        "rank": 35,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 155,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 71,
+      "hi": 71
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://tignation.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

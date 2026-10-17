@@ -483,15 +483,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 89.9,
-    "legacy_era": 91.0,
+    "legacy": 91.5,
+    "legacy_era": 92.4,
     "audience": 90.0,
-    "popularity": 85.1,
+    "popularity": 85.6,
     "theory": 50.0,
     "heat": null,
-    "gap_value": -0.049,
+    "gap_value": -0.044,
     "overrated": "accurately rated",
-    "canon_lag": 0.001
+    "canon_lag": -0.015
   },
   "tier": "king",
   "region": "us",
@@ -529,5 +529,48 @@
       "white",
       "show"
     ]
+  },
+  "rating": {
+    "headline": 71.4,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 29,
+        "pct": 71.4,
+        "sweep": [
+          17,
+          29
+        ]
+      },
+      "consensus": {
+        "rank": 19,
+        "ref": true
+      },
+      "canon": {
+        "rank": 45,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 1,
+        "wr": 8.591,
+        "ref": true
+      },
+      "era": {
+        "rank": 17,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 17,
+      "hi": 29
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.boburnham.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

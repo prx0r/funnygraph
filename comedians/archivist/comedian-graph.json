@@ -108,7 +108,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 40.7,
     "theory": 12.5,
     "heat": null,
     "gap_value": null,
@@ -124,5 +124,66 @@
       "one-liner": 0.33
     },
     "method": "archetype+theories"
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "eddie-izzard",
+      "sim": 0.094
+    },
+    {
+      "comedian_id": "sebastian-maniscalco",
+      "sim": 0.069
+    },
+    {
+      "comedian_id": "matt-mccusker",
+      "sim": 0.022
+    }
+  ],
+  "youtube_channel": {
+    "id": "UC4Ih6fnxGw2z0o5UqoSZ2Cw",
+    "handle": "thearchivist",
+    "title": "The Archivist",
+    "subs": 597,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 13,
+    "newest_upload": "2018-10-24",
+    "name_match_rate": 0.23,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "character",
+    "theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "via": "eddie-izzard",
+    "sim": 0.094,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
 }

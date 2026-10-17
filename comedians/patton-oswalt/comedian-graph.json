@@ -317,15 +317,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 86.0,
-    "legacy_era": 21.3,
+    "legacy": 88.1,
+    "legacy_era": 18.0,
     "audience": 30.0,
-    "popularity": 28.5,
+    "popularity": 46.7,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.015,
+    "gap_value": 0.167,
     "overrated": "accurately rated",
-    "canon_lag": -0.56
+    "canon_lag": -0.581
   },
   "tier": "king",
   "region": "us",
@@ -375,5 +375,48 @@
       "some",
       "people"
     ]
+  },
+  "rating": {
+    "headline": 36.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 63,
+        "pct": 36.7,
+        "sweep": [
+          62,
+          63
+        ]
+      },
+      "consensus": {
+        "rank": 26,
+        "ref": true
+      },
+      "canon": {
+        "rank": 27,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 45,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 174,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 62,
+      "hi": 63
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.pattonoswalt.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

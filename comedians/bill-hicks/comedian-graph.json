@@ -460,15 +460,15 @@
     }
   },
   "metrics": {
-    "legacy": 97.2,
-    "legacy_era": 98.9,
+    "legacy": 97.6,
+    "legacy_era": 99.1,
     "audience": 87.5,
-    "popularity": 17.5,
+    "popularity": 59.3,
     "theory": 50.0,
     "heat": null,
-    "gap_value": -0.7,
-    "overrated": "massively underrated",
-    "canon_lag": -0.097
+    "gap_value": -0.282,
+    "overrated": "underrated",
+    "canon_lag": -0.101
   },
   "tier": "king",
   "region": "us",
@@ -505,5 +505,48 @@
       "life",
       "come"
     ]
+  },
+  "rating": {
+    "headline": 89.8,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 11,
+        "pct": 89.8,
+        "sweep": [
+          11,
+          19
+        ]
+      },
+      "consensus": {
+        "rank": 6,
+        "ref": true
+      },
+      "canon": {
+        "rank": 10,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 5,
+        "wr": 8.346,
+        "ref": true
+      },
+      "era": {
+        "rank": 3,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 11,
+      "hi": 19
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.billhicks.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

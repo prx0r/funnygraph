@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 1.1,
-    "legacy_era": 27.5,
+    "legacy": 1.9,
+    "legacy_era": 24.2,
     "audience": null,
     "popularity": 2.6,
     "theory": 0.0,
@@ -261,5 +261,35 @@
       "trump",
       "time"
     ]
+  },
+  "rating": {
+    "headline": 10.2,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 208,
+        "ref": true
+      },
+      "canon": {
+        "rank": 207,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 161,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

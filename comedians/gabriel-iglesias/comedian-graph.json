@@ -284,15 +284,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 53.9,
-    "legacy_era": 10.7,
+    "legacy": 61.1,
+    "legacy_era": 9.0,
     "audience": 10.0,
     "popularity": 93.0,
     "theory": 12.5,
     "heat": null,
     "gap_value": 0.83,
     "overrated": "massively overrated",
-    "canon_lag": -0.439
+    "canon_lag": -0.511
   },
   "tier": "king",
   "region": "us",
@@ -332,5 +332,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 4.1,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 95,
+        "pct": 4.1,
+        "sweep": [
+          95,
+          95
+        ]
+      },
+      "consensus": {
+        "rank": 83,
+        "ref": true
+      },
+      "canon": {
+        "rank": 109,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 63,
+        "wr": 6.2,
+        "ref": true
+      },
+      "era": {
+        "rank": 193,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 95,
+      "hi": 95
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.fluffyguy.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

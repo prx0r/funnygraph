@@ -70,15 +70,15 @@
   "nearest_greats": [
     {
       "comedian_id": "richard-pryor",
-      "sim": 0.107
+      "sim": 0.122
     },
     {
       "comedian_id": "anthony-jeselnik",
-      "sim": 0.071
+      "sim": 0.079
     },
     {
       "comedian_id": "marc-maron",
-      "sim": 0.069
+      "sim": 0.076
     }
   ],
   "recognition": {
@@ -88,5 +88,38 @@
         "year": null
       }
     ]
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "dark-confessional",
+    "theories": [
+      "status_reversal",
+      "benign_violation",
+      "incongruity"
+    ],
+    "via": "richard-pryor",
+    "sim": 0.122,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
 }

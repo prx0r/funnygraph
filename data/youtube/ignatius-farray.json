@@ -1,0 +1,123 @@
+{
+ "comedian_id": "ignatius-farray",
+ "name": "Ignatius Farray",
+ "channels": {
+  "UCdRqjjX9Y4t8-utSCzT8xKQ": {
+   "subs": 3780,
+   "channel_views": 375762,
+   "channel": "IgnatiusFarray"
+  }
+ },
+ "clips": 7,
+ "total_views": 375812,
+ "total_likes": 2150,
+ "avg_views": 53687,
+ "like_rate": 0.00572,
+ "top_clip": {
+  "videoId": "J8O05UO2mVQ",
+  "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 1 (Miguel Esteban e Ignatius Farray)",
+  "channel": "IgnatiusFarray",
+  "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+  "channel_subs": 3780,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2009-01-21",
+  "views": 223202,
+  "likes": 1089,
+  "comments": 67,
+  "duration_s": 336
+ },
+ "rows": [
+  {
+   "videoId": "J8O05UO2mVQ",
+   "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 1 (Miguel Esteban e Ignatius Farray)",
+   "channel": "IgnatiusFarray",
+   "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+   "channel_subs": 3780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-01-21",
+   "views": 223202,
+   "likes": 1089,
+   "comments": 67,
+   "duration_s": 336
+  },
+  {
+   "videoId": "_wzs9Z2dGiw",
+   "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 2 (Miguel Esteban e Ignatius Farray)",
+   "channel": "IgnatiusFarray",
+   "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+   "channel_subs": 3780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-01-26",
+   "views": 52427,
+   "likes": 351,
+   "comments": 21,
+   "duration_s": 358
+  },
+  {
+   "videoId": "wOXmUAP0LQ0",
+   "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 3 (Miguel Esteban e Ignatius Farray)",
+   "channel": "IgnatiusFarray",
+   "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+   "channel_subs": 3780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-01-27",
+   "views": 27348,
+   "likes": 195,
+   "comments": 18,
+   "duration_s": 348
+  },
+  {
+   "videoId": "X19xTbkWF4c",
+   "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 4 - (Miguel Esteban e Ignatius Farray)",
+   "channel": "IgnatiusFarray",
+   "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+   "channel_subs": 3780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-03-02",
+   "views": 26725,
+   "likes": 149,
+   "comments": 9,
+   "duration_s": 359
+  },
+  {
+   "videoId": "dkPLTLbszRA",
+   "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 7 ((Miguel Esteban e Ignatius Farray)",
+   "channel": "IgnatiusFarray",
+   "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+   "channel_subs": 3780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-09-16",
+   "views": 19024,
+   "likes": 140,
+   "comments": 19,
+   "duration_s": 340
+  },
+  {
+   "videoId": "rIX-xt9jdcc",
+   "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 5 - (Miguel Esteban e Ignatius Farray)",
+   "channel": "IgnatiusFarray",
+   "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+   "channel_subs": 3780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-07-19",
+   "views": 16198,
+   "likes": 125,
+   "comments": 11,
+   "duration_s": 377
+  },
+  {
+   "videoId": "5WBQrnZ7cGQ",
+   "title": "Todo el mundo quiere ser como Ignatius Farray - Cap\u00edtulo 06 (Miguel Esteban e Ignatius Farray)",
+   "channel": "IgnatiusFarray",
+   "channelId": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+   "channel_subs": 3780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-09-15",
+   "views": 10888,
+   "likes": 101,
+   "comments": 5,
+   "duration_s": 319
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 91.0,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -58,15 +58,61 @@
   "nearest_greats": [
     {
       "comedian_id": "gabriel-iglesias",
-      "sim": 0.061
+      "sim": 0.082
     },
     {
       "comedian_id": "bo-burnham",
-      "sim": 0.054
+      "sim": 0.064
     },
     {
-      "comedian_id": "stewart-lee",
-      "sim": 0.052
+      "comedian_id": "bill-hicks",
+      "sim": 0.062
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCTtoNogwhAhrFC0CSaiP0aA",
+    "handle": "mariobarth",
+    "title": "Mario Barth",
+    "subs": 254000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-08",
+    "name_match_rate": 0.09,
+    "other_names": [
+      "Ist Programm",
+      "Was Frauen Handg"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "gabriel-iglesias",
+    "sim": 0.082,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

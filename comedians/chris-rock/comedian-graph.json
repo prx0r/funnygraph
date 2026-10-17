@@ -572,15 +572,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 98.3,
-    "legacy_era": 96.6,
+    "legacy": 98.6,
+    "legacy_era": 97.2,
     "audience": 75.0,
-    "popularity": 96.1,
+    "popularity": 97.1,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.211,
+    "gap_value": 0.221,
     "overrated": "overrated",
-    "canon_lag": -0.233
+    "canon_lag": -0.236
   },
   "tier": "king",
   "region": "us",
@@ -616,5 +616,48 @@
       "want",
       "woman"
     ]
+  },
+  "rating": {
+    "headline": 93.9,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 7,
+        "pct": 93.9,
+        "sweep": [
+          5,
+          18
+        ]
+      },
+      "consensus": {
+        "rank": 4,
+        "ref": true
+      },
+      "canon": {
+        "rank": 5,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 11,
+        "wr": 7.97,
+        "ref": true
+      },
+      "era": {
+        "rank": 7,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 5,
+      "hi": 18
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.chrisrock.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -300,15 +300,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 74.2,
-    "legacy_era": 80.9,
+    "legacy": 78.2,
+    "legacy_era": 83.9,
     "audience": 30.0,
-    "popularity": 44.3,
+    "popularity": 58.4,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.143,
-    "overrated": "accurately rated",
-    "canon_lag": -0.442
+    "gap_value": 0.284,
+    "overrated": "overrated",
+    "canon_lag": -0.482
   },
   "tier": "king",
   "region": "us",
@@ -359,5 +359,48 @@
       "some",
       "well"
     ]
+  },
+  "rating": {
+    "headline": 55.1,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 45,
+        "pct": 55.1,
+        "sweep": [
+          40,
+          45
+        ]
+      },
+      "consensus": {
+        "rank": 47,
+        "ref": true
+      },
+      "canon": {
+        "rank": 68,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 30,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 35,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 40,
+      "hi": 45
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.brianregan.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

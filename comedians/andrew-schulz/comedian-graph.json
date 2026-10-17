@@ -286,8 +286,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 44.4,
-    "legacy_era": 71.9,
+    "legacy": 52.6,
+    "legacy_era": 75.8,
     "audience": null,
     "popularity": 73.7,
     "theory": 37.5,
@@ -309,5 +309,48 @@
       "dark-confessional": 0.07
     },
     "n_modes": 3
+  },
+  "rating": {
+    "headline": 59.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 41,
+        "pct": 59.2,
+        "sweep": [
+          36,
+          41
+        ]
+      },
+      "consensus": {
+        "rank": 101,
+        "ref": true
+      },
+      "canon": {
+        "rank": 55,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 52,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 36,
+      "hi": 41
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://theandrewschulz.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

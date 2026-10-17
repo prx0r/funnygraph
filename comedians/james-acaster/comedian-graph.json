@@ -334,8 +334,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 23.6,
-    "legacy_era": 51.1,
+    "legacy": 25.6,
+    "legacy_era": 48.8,
     "audience": null,
     "popularity": 58.8,
     "theory": 62.5,
@@ -357,5 +357,48 @@
       "surreal": 0.08
     },
     "n_modes": 2
+  },
+  "rating": {
+    "headline": 85.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 15,
+        "pct": 85.7,
+        "sweep": [
+          6,
+          20
+        ]
+      },
+      "consensus": {
+        "rank": 158,
+        "ref": true
+      },
+      "canon": {
+        "rank": 127,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 109,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 6,
+      "hi": 20
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://jamesacaster.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

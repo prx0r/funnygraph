@@ -230,8 +230,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 39.3,
-    "legacy_era": 66.8,
+    "legacy": 46.5,
+    "legacy_era": 69.7,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -272,5 +272,40 @@
       "fucking",
       "everybody"
     ]
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 114,
+        "ref": true
+      },
+      "canon": {
+        "rank": 70,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 65,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.bridgeteverett.net/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

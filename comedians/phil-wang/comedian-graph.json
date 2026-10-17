@@ -259,15 +259,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 64.6,
-    "legacy_era": 19.1,
+    "legacy": 70.1,
+    "legacy_era": 16.1,
     "audience": 30.0,
     "popularity": 23.7,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.063,
     "overrated": "accurately rated",
-    "canon_lag": -0.346
+    "canon_lag": -0.401
   },
   "tier": "king",
   "region": "uk",
@@ -317,5 +317,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 34.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 65,
+        "pct": 34.7,
+        "sweep": [
+          64,
+          65
+        ]
+      },
+      "consensus": {
+        "rank": 64,
+        "ref": true
+      },
+      "canon": {
+        "rank": 172,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 46,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 178,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 64,
+      "hi": 65
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.philwang.co.uk/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

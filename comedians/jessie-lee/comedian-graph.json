@@ -30,21 +30,22 @@
     "discovered_from": [
       "timeout-2026"
     ],
-    "discovery_note": "Time Out 12 to watch 2026"
+    "discovery_note": "Time Out 12 to watch 2026",
+    "region_method": "venue-scene (overwrite on origin evidence)"
   },
   "theory_score": null,
   "nearest_greats": [
     {
       "comedian_id": "jack-whitehall",
-      "sim": 0.094
+      "sim": 0.101
     },
     {
       "comedian_id": "sarah-millican",
-      "sim": 0.084
+      "sim": 0.091
     },
     {
-      "comedian_id": "drew-michael",
-      "sim": 0.077
+      "comedian_id": "bill-maher",
+      "sim": 0.083
     }
   ],
   "sets": [],
@@ -61,7 +62,7 @@
     "legacy_era": null,
     "audience": null,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 12.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -71,5 +72,47 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
-  }
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "jack-whitehall",
+    "sim": 0.101,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "region": "us",
+  "known_bits": [
+    {
+      "title": "Sharon and the impressions",
+      "why_it_works": "Middle-aged Sharon + Coolidge/Spears/Harris rotations on one line ('you shaved your bush'): character_violation through rapid mask-switching; the line stays fixed while the person doesn't. (Time Out 2026; hypothesis)",
+      "theory_links": [
+        "character_violation",
+        "repeat_variation"
+      ],
+      "source": "timeout-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ]
 }

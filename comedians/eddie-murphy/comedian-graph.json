@@ -335,15 +335,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 96.1,
-    "legacy_era": 96.1,
+    "legacy": 96.7,
+    "legacy_era": 96.7,
     "audience": 77.5,
-    "popularity": 71.9,
+    "popularity": 77.3,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.056,
+    "gap_value": -0.002,
     "overrated": "accurately rated",
-    "canon_lag": -0.186
+    "canon_lag": -0.192
   },
   "tier": "king",
   "region": "us",
@@ -395,5 +395,43 @@
       "woman",
       "people"
     ]
+  },
+  "rating": {
+    "headline": 74.5,
+    "coverage": "FULL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 26,
+        "pct": 74.5,
+        "sweep": [
+          16,
+          48
+        ]
+      },
+      "consensus": {
+        "rank": 8,
+        "ref": true
+      },
+      "canon": {
+        "rank": 8,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 9,
+        "wr": 8.085,
+        "ref": true
+      },
+      "era": {
+        "rank": 8,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 16,
+      "hi": 48
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

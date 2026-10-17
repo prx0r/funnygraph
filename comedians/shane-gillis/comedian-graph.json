@@ -351,10 +351,10 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 5.1,
-    "legacy_era": 32.0,
+    "legacy": 6.2,
+    "legacy_era": 28.9,
     "audience": null,
-    "popularity": 92.5,
+    "popularity": 94.1,
     "theory": 75.0,
     "heat": null,
     "gap_value": null,
@@ -373,5 +373,48 @@
       "observational": 0.09
     },
     "n_modes": 2
+  },
+  "rating": {
+    "headline": 96.9,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 4,
+        "pct": 96.9,
+        "sweep": [
+          3,
+          10
+        ]
+      },
+      "consensus": {
+        "rank": 199,
+        "ref": true
+      },
+      "canon": {
+        "rank": 192,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 151,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 3,
+      "hi": 10
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://shanemgillis.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

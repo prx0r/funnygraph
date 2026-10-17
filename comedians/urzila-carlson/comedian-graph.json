@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 1.7,
-    "legacy_era": 28.1,
+    "legacy": 2.4,
+    "legacy_era": 24.6,
     "audience": null,
     "popularity": 21.1,
     "theory": 0.0,
@@ -273,5 +273,40 @@
       "dub actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 28.6,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 207,
+        "ref": true
+      },
+      "canon": {
+        "rank": 205,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 160,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://urzilacarlson.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

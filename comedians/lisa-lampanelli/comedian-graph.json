@@ -227,8 +227,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 17.4,
-    "legacy_era": 44.9,
+    "legacy": 18.5,
+    "legacy_era": 41.7,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -272,5 +272,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 173,
+        "ref": true
+      },
+      "canon": {
+        "rank": 148,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 124,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://insultcomic.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

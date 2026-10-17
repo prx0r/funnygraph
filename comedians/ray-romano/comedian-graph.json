@@ -270,10 +270,10 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 88.8,
-    "legacy_era": 75.8,
+    "legacy": 90.5,
+    "legacy_era": 79.6,
     "audience": null,
-    "popularity": 16.2,
+    "popularity": 38.9,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
@@ -325,5 +325,48 @@
       "need",
       "time"
     ]
+  },
+  "rating": {
+    "headline": 33.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 66,
+        "pct": 33.7,
+        "sweep": [
+          65,
+          66
+        ]
+      },
+      "consensus": {
+        "rank": 21,
+        "ref": true
+      },
+      "canon": {
+        "rank": 16,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 44,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 65,
+      "hi": 66
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.rayromano.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

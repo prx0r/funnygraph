@@ -1,0 +1,45 @@
+{
+ "comedian_id": "hollie-harper",
+ "name": "Hollie Harper",
+ "channels": {
+  "UCdix-JLptegNsWC3pXUEK5w": {
+   "subs": 1,
+   "channel_views": 901,
+   "channel": "hollieharper"
+  }
+ },
+ "clips": 1,
+ "total_views": 901,
+ "total_likes": 2,
+ "avg_views": 901,
+ "like_rate": 0.00222,
+ "top_clip": {
+  "videoId": "NeBO12Z1sXc",
+  "title": "Chocolate Bitch Trailer",
+  "channel": "hollieharper",
+  "channelId": "UCdix-JLptegNsWC3pXUEK5w",
+  "channel_subs": 1,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2006-11-28",
+  "views": 901,
+  "likes": 2,
+  "comments": 2,
+  "duration_s": 49
+ },
+ "rows": [
+  {
+   "videoId": "NeBO12Z1sXc",
+   "title": "Chocolate Bitch Trailer",
+   "channel": "hollieharper",
+   "channelId": "UCdix-JLptegNsWC3pXUEK5w",
+   "channel_subs": 1,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2006-11-28",
+   "views": 901,
+   "likes": 2,
+   "comments": 2,
+   "duration_s": 49
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

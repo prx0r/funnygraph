@@ -1,0 +1,1457 @@
+{
+ "donnell-rawlings": {
+  "name": "Donnell Rawlings",
+  "status": "sets-blocked",
+  "evidence": {
+   "videoId": "JGdtg26tAQ0",
+   "title": "KT: Behind the Tape (Ep: 786 Donnell Rawlings + Sam Tallent)",
+   "views": 391086,
+   "publishedAt": "2026-09-26"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17",
+  "blocked_reason": "innertube denied + yt-dlp missing/cookies-needed (2026-10-17). Unblock: install yt-dlp + owner cookie export, re-run --fetch-sets."
+ },
+ "duncan-trussell": {
+  "name": "Duncan Trussell",
+  "status": "sets-blocked",
+  "evidence": {
+   "videoId": "22IQHn4ad0E",
+   "title": "KT: Behind the Tape (Ep: 785 Duncan Trussell + Kurt Metzger)",
+   "views": 263574,
+   "publishedAt": "2026-09-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17",
+  "blocked_reason": "innertube denied + yt-dlp missing/cookies-needed (2026-10-17). Unblock: install yt-dlp + owner cookie export, re-run --fetch-sets."
+ },
+ "gary-owen": {
+  "name": "Gary Owen",
+  "status": "sets-blocked",
+  "evidence": {
+   "videoId": "zLdyRbAnIi8",
+   "title": "KT: Behind the Tape (Ep: 783 Gary Owen + Brian Simpson)",
+   "views": 331711,
+   "publishedAt": "2026-09-05"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17",
+  "blocked_reason": "innertube denied + yt-dlp missing/cookies-needed (2026-10-17). Unblock: install yt-dlp + owner cookie export, re-run --fetch-sets."
+ },
+ "harland-williams": {
+  "name": "Harland Williams",
+  "status": "sets-blocked",
+  "evidence": {
+   "videoId": "lTv9LaGI9-k",
+   "title": "KT: Behind the Tape (Ep: 787 Harland Williams + Jeremiah Watkins)",
+   "views": 411401,
+   "publishedAt": "2026-10-03"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17",
+  "blocked_reason": "innertube denied + yt-dlp missing/cookies-needed (2026-10-17). Unblock: install yt-dlp + owner cookie export, re-run --fetch-sets."
+ },
+ "wheeler-walker": {
+  "name": "Wheeler Walker",
+  "status": "sets-blocked",
+  "evidence": {
+   "videoId": "aoogiviEa1A",
+   "title": "KT: Behind the Tape (Ep: 788 Wheeler Walker + Sam Tripoli)",
+   "views": 176141,
+   "publishedAt": "2026-10-12"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17",
+  "blocked_reason": "innertube denied + yt-dlp missing/cookies-needed (2026-10-17). Unblock: install yt-dlp + owner cookie export, re-run --fetch-sets."
+ },
+ "yakov-smirnoff": {
+  "name": "Yakov Smirnoff",
+  "status": "sets-blocked",
+  "evidence": {
+   "videoId": "zsG213PYYgs",
+   "title": "KT: Behind the Tape (Ep: 784 Yakov Smirnoff + Ari Matti)",
+   "views": 406732,
+   "publishedAt": "2026-09-12"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17",
+  "blocked_reason": "innertube denied + yt-dlp missing/cookies-needed (2026-10-17). Unblock: install yt-dlp + owner cookie export, re-run --fetch-sets."
+ },
+ "adam": {
+  "name": "Adam",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "p38hyuW26Wg",
+   "title": "Adam and Harland Williams vs the 'farmer's curse' #TheAdamRayShow #HarlandWilliams"
+  },
+  "src": "netflix-is-a-joke"
+ },
+ "elevator": {
+  "name": "Elevator",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "8bNGoJMNb9g",
+   "title": "Trap Door, Escalator, Stairs, Elevator w/ #MagnusFerrell & #WillFerrell \ud83d\uded7 #FallonTonight"
+  },
+  "src": "tonight-show"
+ },
+ "escalator": {
+  "name": "Escalator",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "8bNGoJMNb9g",
+   "title": "Trap Door, Escalator, Stairs, Elevator w/ #MagnusFerrell & #WillFerrell \ud83d\uded7 #FallonTonight"
+  },
+  "src": "tonight-show"
+ },
+ "stairs": {
+  "name": "Stairs",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "8bNGoJMNb9g",
+   "title": "Trap Door, Escalator, Stairs, Elevator w/ #MagnusFerrell & #WillFerrell \ud83d\uded7 #FallonTonight"
+  },
+  "src": "tonight-show"
+ },
+ "andrew-tarvin": {
+  "name": "Andrew Tarvin",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "YdSni-I1PNY",
+   "title": "I Have the Most Efficient Relationship in the World | Andrew Tarvin FULL SPECIAL",
+   "views": 90519,
+   "publishedAt": "2026-10-01"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "andy-hendrickson": {
+  "name": "Andy Hendrickson",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "NB9lsn5xPsk",
+   "title": "Rabbit Hole | Andy Hendrickson FULL SPECIAL",
+   "views": 236210,
+   "publishedAt": "2026-09-01"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "bobby-tessel": {
+  "name": "Bobby Tessel",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "66NeXQ1spjk",
+   "title": "Unexpected Rapid Fire Jokes | Bobby Tessel FULL SPECIAL",
+   "views": 48567,
+   "publishedAt": "2026-10-13"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "byron-trimble": {
+  "name": "Byron Trimble",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "TpYa9kHKDPg",
+   "title": "Old People Should Not be Allowed on Social Media | Byron Trimble FULL SPECIAL",
+   "views": 45539,
+   "publishedAt": "2026-08-17"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "chad-thornsberry": {
+  "name": "Chad Thornsberry",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "gfkJ7IyyRog",
+   "title": "My Car Scares People Away | Chad Thornsberry FULL SPECIAL",
+   "views": 238888,
+   "publishedAt": "2026-09-08"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "eric-tartaglione": {
+  "name": "Eric Tartaglione",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "PO1JpVW1iXg",
+   "title": "Life Changes Completely When You're 60 | Eric Tartaglione FULL SPECIAL",
+   "views": 31888,
+   "publishedAt": "2026-10-08"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jeff-allen": {
+  "name": "Jeff Allen",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "gso4P8Zi2x8",
+   "title": "We Want Our ADULT Son to Move Out | Jeff Allen FULL SPECIAL",
+   "views": 115178,
+   "publishedAt": "2026-09-20"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "liam-nelson": {
+  "name": "Liam Nelson",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "dykBd5NUc2M",
+   "title": "Being 7-Foot Tall Makes me Feel Like a Mythical Creature | Liam Nelson FULL SPECIAL",
+   "views": 122324,
+   "publishedAt": "2026-09-13"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17",
+  "channel_audit": "unlinked-collision",
+  "date": "2026-10-17"
+ },
+ "mike-goodwin": {
+  "name": "Mike Goodwin",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "GXHijJg7usE",
+   "title": "I Don't Fit the Usual Black People Stereotype | Mike Goodwin FULL SPECIAL",
+   "views": 33570,
+   "publishedAt": "2026-08-24"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "scott-losse": {
+  "name": "Scott Losse",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "1e2t9IpYXc0",
+   "title": "Life After The 40s Hits Different | Scott Losse FULL SPECIAL",
+   "views": 112563,
+   "publishedAt": "2026-09-28"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "shayne-smith": {
+  "name": "Shayne Smith",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "JIcmdlbGy7w",
+   "title": "I Am Addicted to Mountain Dew | Shayne Smith FULL SPECIAL",
+   "views": 141345,
+   "publishedAt": "2026-09-05"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "tim-steele": {
+  "name": "Tim Steele",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "z7jyqky0b6w",
+   "title": "Every Man Gains Weight After Marriage | Tim Steele FULL SPECIAL",
+   "views": 37364,
+   "publishedAt": "2026-10-11"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "tom-briscoe": {
+  "name": "Tom Briscoe",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "KLvC9BKEPhs",
+   "title": "Every Manly Man Needs a Pomeranian | Tom Briscoe FULL SPECIAL",
+   "views": 36210,
+   "publishedAt": "2026-10-04"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "zach-wycuff": {
+  "name": "Zach Wycuff",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "81GsZsI2roM",
+   "title": "People Don't Like a Short King | Zach Wycuff FULL SPECIAL",
+   "views": 23603,
+   "publishedAt": "2026-10-15"
+  },
+  "src": "dry-bar",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "immigrants": {
+  "name": "Immigrants",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "HjEqGrrLrVE",
+   "title": "Immigrants vs. Robots | Sam Froum | Stand Up Comedy"
+  },
+  "src": "dont-tell-comedy"
+ },
+ "robots": {
+  "name": "Robots",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "HjEqGrrLrVE",
+   "title": "Immigrants vs. Robots | Sam Froum | Stand Up Comedy"
+  },
+  "src": "dont-tell-comedy"
+ },
+ "young": {
+  "name": "Young",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "Lyi7Kg446EI",
+   "title": "\"Young vs. Old Moms\" \ud83c\udfa4: Sarah Tiana | @sarahtiana | Full Video on our Channel!"
+  },
+  "src": "dont-tell-comedy"
+ },
+ "chess": {
+  "name": "Chess",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "bAZ8GHumLsA",
+   "title": "\"Chess vs. Football\" \ud83c\udfa4: Nick Murphy | @NickMurphyComedy | Full Video on our Channel!"
+  },
+  "src": "dont-tell-comedy"
+ },
+ "nick-murphy": {
+  "name": "Nick Murphy",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "bAZ8GHumLsA",
+   "title": "\"Chess vs. Football\" \ud83c\udfa4: Nick Murphy | @NickMurphyComedy | Full Video on our Channel!",
+   "views": 81162,
+   "publishedAt": "2026-08-13"
+  },
+  "src": "dont-tell-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "sam-biru": {
+  "name": "Sam Biru",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "t4n_iaVrYAU",
+   "title": "\"Live Photo D*ck Pic\" \ud83c\udfa4: Sam Biru | @SamBiruComedy | Full Video on our Channel!",
+   "views": 43094,
+   "publishedAt": "2026-08-29"
+  },
+  "src": "dont-tell-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "sam-froum": {
+  "name": "Sam Froum",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "HjEqGrrLrVE",
+   "title": "Immigrants vs. Robots | Sam Froum | Stand Up Comedy",
+   "views": 177951,
+   "publishedAt": "2026-10-12"
+  },
+  "src": "dont-tell-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "sarah-tiana": {
+  "name": "Sarah Tiana",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "Lyi7Kg446EI",
+   "title": "\"Young vs. Old Moms\" \ud83c\udfa4: Sarah Tiana | @sarahtiana | Full Video on our Channel!",
+   "views": 1782065,
+   "publishedAt": "2026-08-24"
+  },
+  "src": "dont-tell-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "charlie": {
+  "name": "Charlie",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "pC7GD-n9Dpc",
+   "title": "Dean vs Charlie: Roast Battle Manchester\ud83d\udd25"
+  },
+  "src": "frog-and-bucket"
+ },
+ "dean": {
+  "name": "Dean",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "pC7GD-n9Dpc",
+   "title": "Dean vs Charlie: Roast Battle Manchester\ud83d\udd25"
+  },
+  "src": "frog-and-bucket"
+ },
+ "cornwall": {
+  "name": "Cornwall",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "Bt52J3eGU64",
+   "title": "Cornwall vs Devon | Tamsyn Kelly @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "devon": {
+  "name": "Devon",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "Bt52J3eGU64",
+   "title": "Cornwall vs Devon | Tamsyn Kelly @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "china": {
+  "name": "China",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "jGGg_pIKB7k",
+   "title": "China vs. Taiwan | Kuan-wen Huang @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "kuan": {
+  "name": "Kuan",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "jGGg_pIKB7k",
+   "title": "China vs. Taiwan | Kuan-wen Huang @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "taiwan": {
+  "name": "Taiwan",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "jGGg_pIKB7k",
+   "title": "China vs. Taiwan | Kuan-wen Huang @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "looks": {
+  "name": "Looks",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "IQU_GYdTabw",
+   "title": "Looks vs. Reality | Barry Ferns @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "reality": {
+  "name": "Reality",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "IQU_GYdTabw",
+   "title": "Looks vs. Reality | Barry Ferns @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "essex": {
+  "name": "Essex",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "bx_R1mzOrhw",
+   "title": "Essex vs. London | Alison Spittle @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "london": {
+  "name": "London",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "bx_R1mzOrhw",
+   "title": "Essex vs. London | Alison Spittle @ Angel Comedy Club London | #standupcomedy"
+  },
+  "src": "angel-comedy"
+ },
+ "alison-spittle": {
+  "name": "Alison Spittle",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "bx_R1mzOrhw",
+   "title": "Essex vs. London | Alison Spittle @ Angel Comedy Club London | #standupcomedy",
+   "views": 327,
+   "publishedAt": "2026-03-23"
+  },
+  "src": "angel-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "barry-ferns": {
+  "name": "Barry Ferns",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "IQU_GYdTabw",
+   "title": "Looks vs. Reality | Barry Ferns @ Angel Comedy Club London | #standupcomedy",
+   "views": 129,
+   "publishedAt": "2026-05-28"
+  },
+  "src": "angel-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "eli-matthewson": {
+  "name": "Eli Matthewson",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "lu1B8yy4tvY",
+   "title": "Your 20s vs Your 30s | Eli Matthewson @ Angel Comedy Club London | #standupcomedy",
+   "views": 268,
+   "publishedAt": "2026-04-17"
+  },
+  "src": "angel-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "tamsyn-kelly": {
+  "name": "Tamsyn Kelly",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "Bt52J3eGU64",
+   "title": "Cornwall vs Devon | Tamsyn Kelly @ Angel Comedy Club London | #standupcomedy",
+   "views": 118,
+   "publishedAt": "2026-06-27"
+  },
+  "src": "angel-comedy",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "alexandra-haddow": {
+  "name": "Alexandra Haddow",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "ali-woods": {
+  "name": "Ali Woods",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "angela-barnes": {
+  "name": "Angela Barnes",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "archie-maddocks": {
+  "name": "Archie Maddocks",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "blank-peng": {
+  "name": "Blank Peng",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "bridget-christie": {
+  "name": "Bridget Christie",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "catherine-bohart": {
+  "name": "Catherine Bohart",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "daniel-kitson": {
+  "name": "Daniel Kitson",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "evaldas-karosas": {
+  "name": "Evaldas Karosas",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "frank-skinner": {
+  "name": "Frank Skinner",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "helen-bauer": {
+  "name": "Helen Bauer",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "jason-patterson": {
+  "name": "Jason Patterson",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "john-meagher": {
+  "name": "John Meagher",
+  "status": "drafted",
+  "evidence": {
+   "roster": "https://www.angelcomedy.co.uk/comedians/",
+   "venue": "angel-comedy"
+  },
+  "src": "venue-roster:angel-comedy",
+  "first_seen": "2026-10-17"
+ },
+ "aunties": {
+  "name": "Aunties",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "bOYzfbCA0jc",
+   "title": "KILLTONY HIGHLIGHTS 527 - Aunties and Bootyholes"
+  },
+  "src": "kill-tony"
+ },
+ "bootyholes": {
+  "name": "Bootyholes",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "bOYzfbCA0jc",
+   "title": "KILLTONY HIGHLIGHTS 527 - Aunties and Bootyholes"
+  },
+  "src": "kill-tony"
+ },
+ "highlight": {
+  "name": "Highlight",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "F5OAKVokhCo",
+   "title": "ROPE SNAKE! | Kill Tony Highlight"
+  },
+  "src": "kill-tony"
+ },
+ "ethan": {
+  "name": "Ethan",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "zKLXCwwY5iE",
+   "title": "(LIVE) KILL TONY #289 - Ethan & Hila Klein (H3 Podcast)"
+  },
+  "src": "kill-tony"
+ },
+ "steve": {
+  "name": "Steve",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "MwPXgM04x6k",
+   "title": "Kill Tony | Ep. 243 Highlight | Steve-O"
+  },
+  "src": "kill-tony"
+ },
+ "aphrodite": {
+  "name": "Aphrodite",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "viWi8WO2Dlg",
+   "title": "Kill Tony | Ep. 200 Highlight | Aphrodite"
+  },
+  "src": "kill-tony"
+ },
+ "stream": {
+  "name": "Stream",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "ZngLLBuXLNw",
+   "title": "Kill Tony 224 - 360 Stream"
+  },
+  "src": "kill-tony"
+ },
+ "preta": {
+  "name": "Preta",
+  "status": "needs-full-name",
+  "evidence": {
+   "videoId": "312XjqR2HsA",
+   "title": "Kill Tony #181 - Jade Catta-Preta & George Perez"
+  },
+  "src": "kill-tony"
+ },
+ "ali-macofsky": {
+  "name": "Ali Macofsky",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "lA0yIKq6NA0",
+   "title": "KILL TONY #263 - Sara Weinshenk, Ali Macofsky",
+   "views": 60335,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "andrew-themeles": {
+  "name": "Andrew Themeles",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "gkb2_eiYSdo",
+   "title": "Kill Tony #148 - Bill Burr, Dom Irrera & Andrew Themeles",
+   "views": 973989,
+   "publishedAt": "2016-04-02"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "ben-bailey": {
+  "name": "Ben Bailey",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "1E3UMP5Ao_s",
+   "title": "KILL TONY #296 - Brendan Walsh + Ben Bailey",
+   "views": 172474,
+   "publishedAt": "2018-10-05"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "benji-aflalo": {
+  "name": "Benji Aflalo",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "9-JTDVkbo-M",
+   "title": "KILL TONY #480 - Benji Aflalo",
+   "views": 97689,
+   "publishedAt": "2020-11-10"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 3,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "bobby-lee": {
+  "name": "Bobby Lee",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "8_2lYJQztRI",
+   "title": "KILL TONY #268 - Bert Kreischer, Bobby Lee",
+   "views": 1192161,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "brendan-schaub": {
+  "name": "Brendan Schaub",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "89nTEABH7MY",
+   "title": "KILL TONY #287 - Brendan Schaub",
+   "views": 298356,
+   "publishedAt": "2018-08-21"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "brendan-walsh": {
+  "name": "Brendan Walsh",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "1E3UMP5Ao_s",
+   "title": "KILL TONY #296 - Brendan Walsh + Ben Bailey",
+   "views": 172474,
+   "publishedAt": "2018-10-05"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "bret-ernst": {
+  "name": "Bret Ernst",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "q_oLCn4XRnI",
+   "title": "KILL TONY #266 - Bret Ernst",
+   "views": 99906,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "brian-moses": {
+  "name": "Brian Moses",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "Xh9RwpCoBBk",
+   "title": "Kill Tony #169 - Brian Moses & Bert Kreischer",
+   "views": 169622,
+   "publishedAt": "2016-10-13"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "brody-stevens": {
+  "name": "Brody Stevens",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "bXBkH3ZQaA4",
+   "title": "Kill Tony #185 - Brody Stevens & Moshe Kasher",
+   "views": 102261,
+   "publishedAt": "2016-12-19"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "byron-bowers": {
+  "name": "Byron Bowers",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "aTUQHpvdPqA",
+   "title": "KILL TONY #270 - Byron Bowers, Jamar Neighbors",
+   "views": 91840,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "candice-thompson": {
+  "name": "Candice Thompson",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "bhZG0SZfM6k",
+   "title": "Kill Tony #179 - Jessica Michelle Singleton & Candice Thompson",
+   "views": 53147,
+   "publishedAt": "2016-12-15"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "dave-smith": {
+  "name": "Dave Smith",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "9X77vtdTxwE",
+   "title": "Kill Tony #277 (SKANKFEST) - Big Jay Oakerson, Dave Smith",
+   "views": 123268,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "dom-irrera": {
+  "name": "Dom Irrera",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "nMs_K-5zlQk",
+   "title": "KILL TONY #273 (5 YEAR SPECIAL) - Joe Rogan, Dom Irrera",
+   "views": 424454,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 5,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "doug-benson": {
+  "name": "Doug Benson",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "CqQAFFI4kUk",
+   "title": "KILL TONY #309 - Doug Benson (AUSTIN)",
+   "views": 155438,
+   "publishedAt": "2018-11-22"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 6,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "earl-skakel": {
+  "name": "Earl Skakel",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "xjh8ZL0Irw8",
+   "title": "Kill Tony #180 - Jim Norton, Sam Roberts & Earl Skakel",
+   "views": 120336,
+   "publishedAt": "2016-12-15"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "eleanor-kerrigan": {
+  "name": "Eleanor Kerrigan",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "HfxAAUXxpkA",
+   "title": "Kill Tony #151 - Doug Benson & Eleanor Kerrigan",
+   "views": 97281,
+   "publishedAt": "2016-04-22"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "erik-shryock": {
+  "name": "Erik Shryock",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "yXiOs2ftq5I",
+   "title": "Kill Tony | 1st Sets |  Erik Shryock",
+   "views": 5749,
+   "publishedAt": "2017-10-13"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "george-perez": {
+  "name": "George Perez",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "312XjqR2HsA",
+   "title": "Kill Tony #181 - Jade Catta-Preta & George Perez",
+   "views": 58860,
+   "publishedAt": "2016-12-18"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "greg-fitzsimmons": {
+  "name": "Greg Fitzsimmons",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "TfDDB3x6ejk",
+   "title": "Kill Tony #184 - Greg Fitzsimmons",
+   "views": 64940,
+   "publishedAt": "2016-12-18"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "ian-edwards": {
+  "name": "Ian Edwards",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "FYdNvYNjmpk",
+   "title": "Kill Tony #162 - Dom Irrera & Ian Edwards",
+   "views": 86218,
+   "publishedAt": "2016-07-21"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jak-knight": {
+  "name": "Jak Knight",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "Zht37mcWv0k",
+   "title": "Kill Tony #224- Ron White, Benji Aflalo, Jak Knight",
+   "views": 65064,
+   "publishedAt": "2017-09-19"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jamar-neighbors": {
+  "name": "Jamar Neighbors",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "aTUQHpvdPqA",
+   "title": "KILL TONY #270 - Byron Bowers, Jamar Neighbors",
+   "views": 91840,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jay-larson": {
+  "name": "Jay Larson",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "8t73zf8SnEA",
+   "title": "Kill Tony #188 - Tait Fletcher & Jay Larson",
+   "views": 74012,
+   "publishedAt": "2017-03-06"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jayson-thibault": {
+  "name": "Jayson Thibault",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "Kp-s3ZtEyB8",
+   "title": "Kill Tony #189 - Jayson Thibault & Steve Simeone",
+   "views": 50964,
+   "publishedAt": "2017-03-06"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jeff-danis": {
+  "name": "Jeff Danis",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "0bPuNmFl0fI",
+   "title": "KILL TONY #279 - Ryan O\u2019Neill, Jeff Danis",
+   "views": 115399,
+   "publishedAt": "2018-08-06"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jeff-garlin": {
+  "name": "Jeff Garlin",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "bAdt_2fXJak",
+   "title": "KILL TONY #276 - Jeff Garlin",
+   "views": 114496,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jeremiah-watkins": {
+  "name": "Jeremiah Watkins",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "zD9fuPP5T98",
+   "title": "Kill Tony #164 - Pat Regan & Jeremiah Watkins",
+   "views": 82285,
+   "publishedAt": "2016-07-23"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jerron-horton": {
+  "name": "Jerron Horton",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "7bQ7c_2FxRQ",
+   "title": "Kill Tony #172 - Doug Benson & Jerron Horton",
+   "views": 63137,
+   "publishedAt": "2016-10-24"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jesse-joyce": {
+  "name": "Jesse Joyce",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "xQfKoQPyt4Q",
+   "title": "KILL TONY #298 - Jesse Joyce",
+   "views": 131705,
+   "publishedAt": "2018-10-12"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jessica-michelle-singleton": {
+  "name": "Jessica Michelle Singleton",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "bhZG0SZfM6k",
+   "title": "Kill Tony #179 - Jessica Michelle Singleton & Candice Thompson",
+   "views": 53147,
+   "publishedAt": "2016-12-15"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "jesus-trejo": {
+  "name": "Jesus Trejo",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "ZoPJu2-uzUg",
+   "title": "Kill Tony #159 - Dan St. Germain & Jesus Trejo",
+   "views": 61604,
+   "publishedAt": "2016-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "josh-wolf": {
+  "name": "Josh Wolf",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "SutySE4xXjM",
+   "title": "Kill Tony #163 - Brody Stevens & Josh Wolf",
+   "views": 86091,
+   "publishedAt": "2016-07-21"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "kirk-fox": {
+  "name": "Kirk Fox",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "FB6q-RxYVUo",
+   "title": "KILL TONY #271 - Kirk Fox",
+   "views": 115654,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 3,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "mike-lawrence": {
+  "name": "Mike Lawrence",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "AwoFlC0NNbw",
+   "title": "Kill Tony #186 - Luis J Gomez & Mike Lawrence",
+   "views": 65558,
+   "publishedAt": "2016-12-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 4,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "morgan-murphy": {
+  "name": "Morgan Murphy",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "HJRLOpm43C0",
+   "title": "Kill Tony #150 - Morgan Murphy & Sam Tripoli",
+   "views": 94647,
+   "publishedAt": "2016-04-22"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "moshe-kasher": {
+  "name": "Moshe Kasher",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "YoSjiVfEl1o",
+   "title": "KILL TONY #278 - Tom Rhodes, Moshe Kasher",
+   "views": 110298,
+   "publishedAt": "2018-08-01"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 4,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "natasha-leggero": {
+  "name": "Natasha Leggero",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "ZHfPPRBYGlg",
+   "title": "KILL TONY #261 - Natasha Leggero, Moshe Kasher,",
+   "views": 104586,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "pat-regan": {
+  "name": "Pat Regan",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "zD9fuPP5T98",
+   "title": "Kill Tony #164 - Pat Regan & Jeremiah Watkins",
+   "views": 82285,
+   "publishedAt": "2016-07-23"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "rick-ingraham": {
+  "name": "Rick Ingraham",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "OIKk5pTDW3U",
+   "title": "KILL TONY #290 - Rick Ingraham",
+   "views": 108175,
+   "publishedAt": "2018-09-11"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "ron-funches": {
+  "name": "Ron Funches",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "Fd-XcpeSQtU",
+   "title": "KILL TONY #269 - Ron Funches, Brent Morin",
+   "views": 102266,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "sam-roberts": {
+  "name": "Sam Roberts",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "xjh8ZL0Irw8",
+   "title": "Kill Tony #180 - Jim Norton, Sam Roberts & Earl Skakel",
+   "views": 120336,
+   "publishedAt": "2016-12-15"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "sam-tripoli": {
+  "name": "Sam Tripoli",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "HJRLOpm43C0",
+   "title": "Kill Tony #150 - Morgan Murphy & Sam Tripoli",
+   "views": 94647,
+   "publishedAt": "2016-04-22"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "sara-weinshenk": {
+  "name": "Sara Weinshenk",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "lA0yIKq6NA0",
+   "title": "KILL TONY #263 - Sara Weinshenk, Ali Macofsky",
+   "views": 60335,
+   "publishedAt": "2018-07-20"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "steve-simeone": {
+  "name": "Steve Simeone",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "Kp-s3ZtEyB8",
+   "title": "Kill Tony #189 - Jayson Thibault & Steve Simeone",
+   "views": 50964,
+   "publishedAt": "2017-03-06"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 2,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "tom-rhodes": {
+  "name": "Tom Rhodes",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "YoSjiVfEl1o",
+   "title": "KILL TONY #278 - Tom Rhodes, Moshe Kasher",
+   "views": 110298,
+   "publishedAt": "2018-08-01"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "tony-hinchcliffe": {
+  "name": "Tony Hinchcliffe",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "lLqGWXmeEZ4",
+   "title": "Tony Hinchcliffe reunites couple | Kill Tony Highlight",
+   "views": 9742,
+   "publishedAt": "2019-02-05"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "willie-hunter": {
+  "name": "Willie Hunter",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "BkvIx1_iziY",
+   "title": "KILL TONY #281- Willie Hunter, Connor McSpadden",
+   "views": 119171,
+   "publishedAt": "2018-08-08"
+  },
+  "src": "kill-tony",
+  "seen_in_batch": 1,
+  "show_title": true,
+  "first_seen": "2026-10-17"
+ },
+ "angie-stroud": {
+  "name": "Angie Stroud",
+  "status": "drafted",
+  "evidence": {
+   "videoId": "1oyKVAjISmI",
+   "title": "Jim Jefferies - Freedumb - Full Length Official Clip -- From Freedumb Netflix Special"
+  },
+  "src": "youtube-uploads:kill-tony",
+  "note": "drafted from pulse attribution (tracked minute, z 9.16); same full-name+show rule"
+ }
+}

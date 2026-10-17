@@ -214,7 +214,7 @@
  ],
  "biggest_fallers": [
   {
-   "rank": 165,
+   "rank": 198,
    "comedian_id": "jeff-foxworthy",
    "name": "Jeff Foxworthy",
    "zscore": -2.139,
@@ -225,10 +225,10 @@
    },
    "generation": "eighties-boom",
    "raw_rank": 17,
-   "climb": -148
+   "climb": -181
   },
   {
-   "rank": 178,
+   "rank": 211,
    "comedian_id": "d-l-hughley",
    "name": "D L Hughley",
    "zscore": -5.583,
@@ -239,10 +239,10 @@
    },
    "generation": "eighties-boom",
    "raw_rank": 45,
-   "climb": -133
+   "climb": -166
   },
   {
-   "rank": 157,
+   "rank": 190,
    "comedian_id": "mitch-hedberg",
    "name": "Mitch Hedberg",
    "zscore": -1.644,
@@ -253,10 +253,10 @@
    },
    "generation": "nineties",
    "raw_rank": 38,
-   "climb": -119
+   "climb": -152
   },
   {
-   "rank": 152,
+   "rank": 185,
    "comedian_id": "aziz-ansari",
    "name": "Aziz Ansari",
    "zscore": -1.148,
@@ -267,10 +267,10 @@
    },
    "generation": "aughts",
    "raw_rank": 34,
-   "climb": -118
+   "climb": -151
   },
   {
-   "rank": 141,
+   "rank": 174,
    "comedian_id": "patton-oswalt",
    "name": "Patton Oswalt",
    "zscore": -0.564,
@@ -281,10 +281,10 @@
    },
    "generation": "nineties",
    "raw_rank": 26,
-   "climb": -115
+   "climb": -148
   },
   {
-   "rank": 137,
+   "rank": 170,
    "comedian_id": "adam-sandler",
    "name": "Adam Sandler",
    "zscore": -0.249,
@@ -295,10 +295,10 @@
    },
    "generation": "eighties-boom",
    "raw_rank": 27,
-   "climb": -110
+   "climb": -143
   },
   {
-   "rank": 153,
+   "rank": 186,
    "comedian_id": "sarah-silverman",
    "name": "Sarah Silverman",
    "zscore": -1.397,
@@ -309,10 +309,10 @@
    },
    "generation": "nineties",
    "raw_rank": 44,
-   "climb": -109
+   "climb": -142
   },
   {
-   "rank": 173,
+   "rank": 206,
    "comedian_id": "patrice-o-neal",
    "name": "Patrice O Neal",
    "zscore": -2.878,
@@ -323,10 +323,10 @@
    },
    "generation": "nineties",
    "raw_rank": 66,
-   "climb": -107
+   "climb": -140
   },
   {
-   "rank": 138,
+   "rank": 171,
    "comedian_id": "russell-peters",
    "name": "Russell Peters",
    "zscore": -0.266,
@@ -337,10 +337,10 @@
    },
    "generation": "nineties",
    "raw_rank": 33,
-   "climb": -105
+   "climb": -138
   },
   {
-   "rank": 164,
+   "rank": 197,
    "comedian_id": "eddie-griffin",
    "name": "Eddie Griffin",
    "zscore": -2.103,
@@ -351,10 +351,10 @@
    },
    "generation": "nineties",
    "raw_rank": 65,
-   "climb": -99
+   "climb": -132
   },
   {
-   "rank": 174,
+   "rank": 207,
    "comedian_id": "dana-carvey",
    "name": "Dana Carvey",
    "zscore": -3.187,
@@ -365,10 +365,10 @@
    },
    "generation": "eighties-boom",
    "raw_rank": 87,
-   "climb": -87
+   "climb": -120
   },
   {
-   "rank": 140,
+   "rank": 173,
    "comedian_id": "jerrod-carmichael",
    "name": "Jerrod Carmichael",
    "zscore": -0.523,
@@ -379,10 +379,10 @@
    },
    "generation": null,
    "raw_rank": 54,
-   "climb": -86
+   "climb": -119
   },
   {
-   "rank": 163,
+   "rank": 196,
    "comedian_id": "david-cross",
    "name": "David Cross",
    "zscore": -2.087,
@@ -393,10 +393,10 @@
    },
    "generation": "nineties",
    "raw_rank": 79,
-   "climb": -84
+   "climb": -117
   },
   {
-   "rank": 134,
+   "rank": 167,
    "comedian_id": "amy-schumer",
    "name": "Amy Schumer",
    "zscore": -0.179,
@@ -407,7 +407,7 @@
    },
    "generation": "aughts",
    "raw_rank": 67,
-   "climb": -67
+   "climb": -100
   },
   {
    "rank": 39,

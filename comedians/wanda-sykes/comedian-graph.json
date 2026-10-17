@@ -241,8 +241,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 69.1,
-    "legacy_era": 27.0,
+    "legacy": 73.9,
+    "legacy_era": 23.7,
     "audience": null,
     "popularity": 78.1,
     "theory": 37.5,
@@ -310,5 +310,48 @@
       "screenwriter"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 25.5,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 74,
+        "pct": 25.5,
+        "sweep": [
+          74,
+          74
+        ]
+      },
+      "consensus": {
+        "rank": 56,
+        "ref": true
+      },
+      "canon": {
+        "rank": 29,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 162,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 74,
+      "hi": 74
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.wandasykes.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

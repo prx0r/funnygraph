@@ -37,7 +37,7 @@
   "nearest_greats": [
     {
       "comedian_id": "andrew-schulz",
-      "sim": 0.174
+      "sim": 0.18
     },
     {
       "comedian_id": "deon-cole",
@@ -45,7 +45,7 @@
     },
     {
       "comedian_id": "john-mulaney",
-      "sim": 0.078
+      "sim": 0.08
     }
   ],
   "sets": [],
@@ -61,7 +61,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 16.6,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -72,5 +72,52 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCHbLXWasH7lfRc3X0ftPHfQ",
+    "handle": "mattrife",
+    "title": "Matt Rife",
+    "subs": 59,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "status_reversal",
+      "benign_violation",
+      "incongruity"
+    ],
+    "via": "andrew-schulz",
+    "sim": 0.18,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
 }

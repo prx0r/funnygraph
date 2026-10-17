@@ -246,15 +246,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 62.4,
-    "legacy_era": 18.0,
+    "legacy": 68.2,
+    "legacy_era": 15.2,
     "audience": 30.0,
     "popularity": 14.9,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.151,
     "overrated": "accurately rated",
-    "canon_lag": -0.324
+    "canon_lag": -0.382
   },
   "tier": "king",
   "region": "us",
@@ -314,5 +314,48 @@
       "actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 68,
+        "pct": 31.6,
+        "sweep": [
+          68,
+          68
+        ]
+      },
+      "consensus": {
+        "rank": 68,
+        "ref": true
+      },
+      "canon": {
+        "rank": 183,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 47,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 180,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 68,
+      "hi": 68
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://samjaycomic.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -58,15 +58,48 @@
   "nearest_greats": [
     {
       "comedian_id": "william-montgomery",
-      "sim": 0.067
+      "sim": 0.068
     },
     {
       "comedian_id": "casey-rocket",
       "sim": 0.057
     },
     {
-      "comedian_id": "mike-birbiglia",
+      "comedian_id": "dave-chappelle",
       "sim": 0.047
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "character_violation"
+    ],
+    "via": "william-montgomery",
+    "sim": 0.068,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

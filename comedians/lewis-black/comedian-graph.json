@@ -248,10 +248,10 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 78.6,
-    "legacy_era": 82.0,
+    "legacy": 82.0,
+    "legacy_era": 84.8,
     "audience": null,
-    "popularity": 38.6,
+    "popularity": 71.0,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
@@ -303,5 +303,48 @@
       "mistake",
       "believe"
     ]
+  },
+  "rating": {
+    "headline": 38.8,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 61,
+        "pct": 38.8,
+        "sweep": [
+          60,
+          61
+        ]
+      },
+      "consensus": {
+        "rank": 39,
+        "ref": true
+      },
+      "canon": {
+        "rank": 23,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 33,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 60,
+      "hi": 61
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://lewisblack.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

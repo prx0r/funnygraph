@@ -359,15 +359,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 57.9,
-    "legacy_era": 11.2,
+    "legacy": 64.5,
+    "legacy_era": 9.5,
     "audience": 52.5,
-    "popularity": 65.4,
+    "popularity": 75.0,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.129,
-    "overrated": "accurately rated",
-    "canon_lag": -0.054
+    "gap_value": 0.225,
+    "overrated": "overrated",
+    "canon_lag": -0.12
   },
   "tier": "king",
   "region": "us",
@@ -417,5 +417,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 43.9,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 56,
+        "pct": 43.9,
+        "sweep": [
+          53,
+          56
+        ]
+      },
+      "consensus": {
+        "rank": 76,
+        "ref": true
+      },
+      "canon": {
+        "rank": 124,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 53,
+        "wr": 7.101,
+        "ref": true
+      },
+      "era": {
+        "rank": 192,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 53,
+      "hi": 56
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://iliza.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

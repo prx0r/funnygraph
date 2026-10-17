@@ -36,11 +36,11 @@
   "nearest_greats": [
     {
       "comedian_id": "jim-gaffigan",
-      "sim": 0.06
+      "sim": 0.066
     },
     {
       "comedian_id": "ali-wong",
-      "sim": 0.053
+      "sim": 0.056
     }
   ],
   "sets": [],
@@ -56,7 +56,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 52.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -67,5 +67,56 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCPl5cP3lwSWu7IznhW46KVQ",
+    "handle": "jennyzigrino",
+    "title": "jennyzigrino",
+    "subs": 3660,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-09-21",
+    "name_match_rate": 0.09,
+    "other_names": [
+      "Someone Mississippi",
+      "Tarot Vs Wrestling"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [],
+    "via": "jim-gaffigan",
+    "sim": 0.066,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://jennyzigrino.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

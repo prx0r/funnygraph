@@ -52,7 +52,7 @@
    "gen_rank": 3
   },
   {
-   "rank": 120,
+   "rank": 128,
    "comedian_id": "dave-allen",
    "name": "Dave Allen",
    "score": 0.0,
@@ -345,7 +345,7 @@
    "gen_rank": 12
   },
   {
-   "rank": 115,
+   "rank": 122,
    "comedian_id": "chris-tucker",
    "name": "Chris Tucker",
    "score": 0.0,
@@ -362,7 +362,7 @@
    "gen_rank": 13
   },
   {
-   "rank": 124,
+   "rank": 138,
    "comedian_id": "emo-philips",
    "name": "Emo Philips",
    "score": 0.0,
@@ -379,7 +379,7 @@
    "gen_rank": 14
   },
   {
-   "rank": 136,
+   "rank": 155,
    "comedian_id": "henry-rollins",
    "name": "Henry Rollins",
    "score": 0.0,
@@ -396,7 +396,7 @@
    "gen_rank": 15
   },
   {
-   "rank": 150,
+   "rank": 175,
    "comedian_id": "marlon-wayans",
    "name": "Marlon Wayans",
    "score": 0.0,
@@ -413,7 +413,7 @@
    "gen_rank": 16
   },
   {
-   "rank": 161,
+   "rank": 188,
    "comedian_id": "rob-schneider",
    "name": "Rob Schneider",
    "score": 0.0,
@@ -942,7 +942,7 @@
    "gen_rank": 30
   },
   {
-   "rank": 113,
+   "rank": 120,
    "comedian_id": "chris-d-elia",
    "name": "Chris D Elia",
    "score": 0.0,
@@ -959,7 +959,7 @@
    "gen_rank": 31
   },
   {
-   "rank": 117,
+   "rank": 124,
    "comedian_id": "craig-ferguson",
    "name": "Craig Ferguson",
    "score": 0.0,
@@ -976,7 +976,7 @@
    "gen_rank": 32
   },
   {
-   "rank": 121,
+   "rank": 129,
    "comedian_id": "dave-attell",
    "name": "Dave Attell",
    "score": 0.0,
@@ -993,7 +993,7 @@
    "gen_rank": 33
   },
   {
-   "rank": 122,
+   "rank": 131,
    "comedian_id": "deray-davis",
    "name": "Deray Davis",
    "score": 0.0,
@@ -1010,7 +1010,7 @@
    "gen_rank": 34
   },
   {
-   "rank": 131,
+   "rank": 147,
    "comedian_id": "george-lopez",
    "name": "George Lopez",
    "score": 0.0,
@@ -1027,7 +1027,7 @@
    "gen_rank": 35
   },
   {
-   "rank": 133,
+   "rank": 150,
    "comedian_id": "greg-giraldo",
    "name": "Greg Giraldo",
    "score": 0.0,
@@ -1044,7 +1044,7 @@
    "gen_rank": 36
   },
   {
-   "rank": 141,
+   "rank": 164,
    "comedian_id": "jo-koy",
    "name": "Jo Koy",
    "score": 0.0,
@@ -1061,7 +1061,7 @@
    "gen_rank": 37
   },
   {
-   "rank": 143,
+   "rank": 167,
    "comedian_id": "judah-friedlander",
    "name": "Judah Friedlander",
    "score": 0.0,
@@ -1078,7 +1078,7 @@
    "gen_rank": 38
   },
   {
-   "rank": 147,
+   "rank": 172,
    "comedian_id": "lee-mack",
    "name": "Lee Mack",
    "score": 0.0,
@@ -1095,7 +1095,7 @@
    "gen_rank": 39
   },
   {
-   "rank": 148,
+   "rank": 173,
    "comedian_id": "lisa-lampanelli",
    "name": "Lisa Lampanelli",
    "score": 0.0,
@@ -1112,7 +1112,7 @@
    "gen_rank": 40
   },
   {
-   "rank": 155,
+   "rank": 182,
    "comedian_id": "nick-offerman",
    "name": "Nick Offerman",
    "score": 0.0,
@@ -1129,7 +1129,7 @@
    "gen_rank": 41
   },
   {
-   "rank": 159,
+   "rank": 186,
    "comedian_id": "ralphie-may",
    "name": "Ralphie May",
    "score": 0.0,
@@ -1146,7 +1146,7 @@
    "gen_rank": 42
   },
   {
-   "rank": 163,
+   "rank": 191,
    "comedian_id": "roy-wood-jr",
    "name": "Roy Wood Jr",
    "score": 0.0,
@@ -1163,7 +1163,7 @@
    "gen_rank": 43
   },
   {
-   "rank": 164,
+   "rank": 192,
    "comedian_id": "russell-brand",
    "name": "Russell Brand",
    "score": 0.0,
@@ -1180,7 +1180,7 @@
    "gen_rank": 44
   },
   {
-   "rank": 168,
+   "rank": 197,
    "comedian_id": "sean-lock",
    "name": "Sean Lock",
    "score": 0.0,
@@ -1197,7 +1197,7 @@
    "gen_rank": 45
   },
   {
-   "rank": 174,
+   "rank": 203,
    "comedian_id": "todd-barry",
    "name": "Todd Barry",
    "score": 0.0,
@@ -1214,7 +1214,7 @@
    "gen_rank": 46
   },
   {
-   "rank": 175,
+   "rank": 204,
    "comedian_id": "todd-glass",
    "name": "Todd Glass",
    "score": 0.0,
@@ -1641,7 +1641,7 @@
    "gen_rank": 24
   },
   {
-   "rank": 101,
+   "rank": 102,
    "comedian_id": "andy-woodhull",
    "name": "Andy Woodhull",
    "score": 0.0,
@@ -1658,7 +1658,7 @@
    "gen_rank": 25
   },
   {
-   "rank": 102,
+   "rank": 104,
    "comedian_id": "anjelah-johnson",
    "name": "Anjelah Johnson",
    "score": 0.0,
@@ -1675,7 +1675,7 @@
    "gen_rank": 26
   },
   {
-   "rank": 103,
+   "rank": 105,
    "comedian_id": "anthony-jeselnik",
    "name": "Anthony Jeselnik",
    "score": 0.0,
@@ -1692,7 +1692,7 @@
    "gen_rank": 27
   },
   {
-   "rank": 107,
+   "rank": 110,
    "comedian_id": "brad-williams",
    "name": "Brad Williams",
    "score": 0.0,
@@ -1709,7 +1709,7 @@
    "gen_rank": 28
   },
   {
-   "rank": 109,
+   "rank": 114,
    "comedian_id": "bridget-everett",
    "name": "Bridget Everett",
    "score": 0.0,
@@ -1726,7 +1726,7 @@
    "gen_rank": 29
   },
   {
-   "rank": 112,
+   "rank": 119,
    "comedian_id": "chelsea-peretti",
    "name": "Chelsea Peretti",
    "score": 0.0,
@@ -1743,7 +1743,7 @@
    "gen_rank": 30
   },
   {
-   "rank": 116,
+   "rank": 123,
    "comedian_id": "christina-pazsitzky",
    "name": "Christina Pazsitzky",
    "score": 0.0,
@@ -1760,7 +1760,7 @@
    "gen_rank": 31
   },
   {
-   "rank": 118,
+   "rank": 125,
    "comedian_id": "cristela-alonzo",
    "name": "Cristela Alonzo",
    "score": 0.0,
@@ -1777,7 +1777,7 @@
    "gen_rank": 32
   },
   {
-   "rank": 129,
+   "rank": 144,
    "comedian_id": "fred-armisen",
    "name": "Fred Armisen",
    "score": 0.0,
@@ -1794,7 +1794,7 @@
    "gen_rank": 33
   },
   {
-   "rank": 132,
+   "rank": 148,
    "comedian_id": "greg-davies",
    "name": "Greg Davies",
    "score": 0.0,
@@ -1811,7 +1811,7 @@
    "gen_rank": 34
   },
   {
-   "rank": 138,
+   "rank": 160,
    "comedian_id": "jen-kirkman",
    "name": "Jen Kirkman",
    "score": 0.0,
@@ -1828,7 +1828,7 @@
    "gen_rank": 35
   },
   {
-   "rank": 139,
+   "rank": 162,
    "comedian_id": "jimmy-carr",
    "name": "Jimmy Carr",
    "score": 0.0,
@@ -1845,7 +1845,7 @@
    "gen_rank": 36
   },
   {
-   "rank": 142,
+   "rank": 165,
    "comedian_id": "joe-rogan",
    "name": "Joe Rogan",
    "score": 0.0,
@@ -1862,7 +1862,7 @@
    "gen_rank": 37
   },
   {
-   "rank": 145,
+   "rank": 169,
    "comedian_id": "ken-jeong",
    "name": "Ken Jeong",
    "score": 0.0,
@@ -1879,7 +1879,7 @@
    "gen_rank": 38
   },
   {
-   "rank": 152,
+   "rank": 177,
    "comedian_id": "maz-jobrani",
    "name": "Maz Jobrani",
    "score": 0.0,
@@ -1896,7 +1896,7 @@
    "gen_rank": 39
   },
   {
-   "rank": 153,
+   "rank": 178,
    "comedian_id": "michael-mcintyre",
    "name": "Michael Mcintyre",
    "score": 0.0,
@@ -1913,7 +1913,7 @@
    "gen_rank": 40
   },
   {
-   "rank": 158,
+   "rank": 185,
    "comedian_id": "pete-holmes",
    "name": "Pete Holmes",
    "score": 0.0,
@@ -1930,7 +1930,7 @@
    "gen_rank": 41
   },
   {
-   "rank": 165,
+   "rank": 193,
    "comedian_id": "russell-howard",
    "name": "Russell Howard",
    "score": 0.0,
@@ -1947,7 +1947,7 @@
    "gen_rank": 42
   },
   {
-   "rank": 166,
+   "rank": 195,
    "comedian_id": "sara-pascoe",
    "name": "Sara Pascoe",
    "score": 0.0,
@@ -1964,7 +1964,7 @@
    "gen_rank": 43
   },
   {
-   "rank": 167,
+   "rank": 196,
    "comedian_id": "sarah-millican",
    "name": "Sarah Millican",
    "score": 0.0,
@@ -1981,7 +1981,7 @@
    "gen_rank": 44
   },
   {
-   "rank": 169,
+   "rank": 198,
    "comedian_id": "seth-meyers",
    "name": "Seth Meyers",
    "score": 0.0,
@@ -1998,7 +1998,7 @@
    "gen_rank": 45
   },
   {
-   "rank": 171,
+   "rank": 200,
    "comedian_id": "t-j-miller",
    "name": "T J Miller",
    "score": 0.0,
@@ -2015,7 +2015,7 @@
    "gen_rank": 46
   },
   {
-   "rank": 177,
+   "rank": 208,
    "comedian_id": "w-kamau-bell",
    "name": "W Kamau Bell",
    "score": 0.0,
@@ -2306,7 +2306,7 @@
    "gen_rank": 16
   },
   {
-   "rank": 99,
+   "rank": 100,
    "comedian_id": "amanda-seales",
    "name": "Amanda Seales",
    "score": 0.0,
@@ -2323,7 +2323,7 @@
    "gen_rank": 17
   },
   {
-   "rank": 100,
+   "rank": 101,
    "comedian_id": "andrew-schulz",
    "name": "Andrew Schulz",
    "score": 0.0,
@@ -2340,7 +2340,7 @@
    "gen_rank": 18
   },
   {
-   "rank": 104,
+   "rank": 106,
    "comedian_id": "ari-shaffir",
    "name": "Ari Shaffir",
    "score": 0.0,
@@ -2357,7 +2357,7 @@
    "gen_rank": 19
   },
   {
-   "rank": 106,
+   "rank": 108,
    "comedian_id": "big-jay-oakerson",
    "name": "Big Jay Oakerson",
    "score": 0.0,
@@ -2374,7 +2374,7 @@
    "gen_rank": 20
   },
   {
-   "rank": 108,
+   "rank": 112,
    "comedian_id": "brent-morin",
    "name": "Brent Morin",
    "score": 0.0,
@@ -2391,7 +2391,7 @@
    "gen_rank": 21
   },
   {
-   "rank": 119,
+   "rank": 126,
    "comedian_id": "dan-soder",
    "name": "Dan Soder",
    "score": 0.0,
@@ -2408,7 +2408,7 @@
    "gen_rank": 22
   },
   {
-   "rank": 123,
+   "rank": 137,
    "comedian_id": "emily-heller",
    "name": "Emily Heller",
    "score": 0.0,
@@ -2425,7 +2425,7 @@
    "gen_rank": 23
   },
   {
-   "rank": 125,
+   "rank": 139,
    "comedian_id": "enissa-amani",
    "name": "Enissa Amani",
    "score": 0.0,
@@ -2442,7 +2442,7 @@
    "gen_rank": 24
   },
   {
-   "rank": 128,
+   "rank": 142,
    "comedian_id": "fahim-anwar",
    "name": "Fahim Anwar",
    "score": 0.0,
@@ -2459,7 +2459,7 @@
    "gen_rank": 25
   },
   {
-   "rank": 135,
+   "rank": 153,
    "comedian_id": "hasan-minhaj",
    "name": "Hasan Minhaj",
    "score": 0.0,
@@ -2476,7 +2476,7 @@
    "gen_rank": 26
   },
   {
-   "rank": 137,
+   "rank": 158,
    "comedian_id": "james-acaster",
    "name": "James Acaster",
    "score": 0.0,
@@ -2493,7 +2493,7 @@
    "gen_rank": 27
   },
   {
-   "rank": 140,
+   "rank": 163,
    "comedian_id": "jimmy-o-yang",
    "name": "Jimmy O Yang",
    "score": 0.0,
@@ -2510,7 +2510,7 @@
    "gen_rank": 28
   },
   {
-   "rank": 144,
+   "rank": 168,
    "comedian_id": "kavin-jay",
    "name": "Kavin Jay",
    "score": 0.0,
@@ -2527,7 +2527,7 @@
    "gen_rank": 29
   },
   {
-   "rank": 149,
+   "rank": 174,
    "comedian_id": "mark-normand",
    "name": "Mark Normand",
    "score": 0.0,
@@ -2544,7 +2544,7 @@
    "gen_rank": 30
   },
   {
-   "rank": 151,
+   "rank": 176,
    "comedian_id": "matt-mccusker",
    "name": "Matt McCusker",
    "score": 0.0,
@@ -2561,7 +2561,7 @@
    "gen_rank": 31
   },
   {
-   "rank": 154,
+   "rank": 179,
    "comedian_id": "michelle-wolf",
    "name": "Michelle Wolf",
    "score": 0.0,
@@ -2578,7 +2578,7 @@
    "gen_rank": 32
   },
   {
-   "rank": 156,
+   "rank": 183,
    "comedian_id": "nikki-glaser",
    "name": "Nikki Glaser",
    "score": 0.0,
@@ -2595,7 +2595,7 @@
    "gen_rank": 33
   },
   {
-   "rank": 157,
+   "rank": 184,
    "comedian_id": "pete-davidson",
    "name": "Pete Davidson",
    "score": 0.0,
@@ -2612,7 +2612,7 @@
    "gen_rank": 34
   },
   {
-   "rank": 160,
+   "rank": 187,
    "comedian_id": "ramy-youssef",
    "name": "Ramy Youssef",
    "score": 0.0,
@@ -2629,7 +2629,7 @@
    "gen_rank": 35
   },
   {
-   "rank": 162,
+   "rank": 190,
    "comedian_id": "ronny-chieng",
    "name": "Ronny Chieng",
    "score": 0.0,
@@ -2646,7 +2646,7 @@
    "gen_rank": 36
   },
   {
-   "rank": 170,
+   "rank": 199,
    "comedian_id": "shane-gillis",
    "name": "Shane Gillis",
    "score": 0.0,
@@ -2663,7 +2663,7 @@
    "gen_rank": 37
   },
   {
-   "rank": 172,
+   "rank": 201,
    "comedian_id": "theo-von",
    "name": "Theo Von",
    "score": 0.0,
@@ -2680,7 +2680,7 @@
    "gen_rank": 38
   },
   {
-   "rank": 173,
+   "rank": 202,
    "comedian_id": "tiffany-haddish",
    "name": "Tiffany Haddish",
    "score": 0.0,
@@ -2697,7 +2697,7 @@
    "gen_rank": 39
   },
   {
-   "rank": 176,
+   "rank": 207,
    "comedian_id": "urzila-carlson",
    "name": "Urzila Carlson",
    "score": 0.0,
@@ -2733,7 +2733,7 @@
    "gen_rank": 1
   },
   {
-   "rank": 110,
+   "rank": 116,
    "comedian_id": "cam-patterson",
    "name": "Cam Patterson",
    "score": 0.0,
@@ -2750,7 +2750,7 @@
    "gen_rank": 2
   },
   {
-   "rank": 111,
+   "rank": 117,
    "comedian_id": "casey-rocket",
    "name": "Casey Rocket",
    "score": 0.0,
@@ -2767,7 +2767,7 @@
    "gen_rank": 3
   },
   {
-   "rank": 134,
+   "rank": 151,
    "comedian_id": "hans-kim",
    "name": "Hans Kim",
    "score": 0.0,
@@ -2784,7 +2784,7 @@
    "gen_rank": 4
   },
   {
-   "rank": 178,
+   "rank": 210,
    "comedian_id": "william-montgomery",
    "name": "William Montgomery",
    "score": 0.0,

@@ -304,10 +304,10 @@
     }
   },
   "metrics": {
-    "legacy": 93.3,
-    "legacy_era": 93.3,
+    "legacy": 94.3,
+    "legacy_era": 94.3,
     "audience": null,
-    "popularity": 33.3,
+    "popularity": 68.3,
     "theory": 50.0,
     "heat": null,
     "gap_value": null,
@@ -340,5 +340,48 @@
       "television actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 62.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 38,
+        "pct": 62.2,
+        "sweep": [
+          32,
+          38
+        ]
+      },
+      "consensus": {
+        "rank": 13,
+        "ref": true
+      },
+      "canon": {
+        "rank": 11,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 13,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 32,
+      "hi": 38
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.stevenwright.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

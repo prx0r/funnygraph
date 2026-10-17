@@ -1,0 +1,141 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "brent-weinbach",
+  "name": "Brent Weinbach",
+  "tier": "indie",
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "deadline-2026"
+    ],
+    "discovery_note": "Alt veteran (Andy Kaufman Award), Popular Culture 2025; no breakout: indie until canon evidence"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 49.7,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCw98-O5dJwfmnZKrblUiTLQ",
+    "handle": "brentweinbach",
+    "title": "BrentWeinbach",
+    "subs": 65200,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-13",
+    "name_match_rate": 0.3,
+    "other_names": [
+      "Bacon Was Naked",
+      "Batteries Up",
+      "Brad's Pit",
+      "Chicks With Flicks",
+      "Cluck Eye Rash",
+      "Cool As Spice",
+      "Cool Stuff",
+      "Easter's Promises"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "trevor-noah",
+      "sim": 0.066
+    },
+    {
+      "comedian_id": "patton-oswalt",
+      "sim": 0.063
+    },
+    {
+      "comedian_id": "michael-che",
+      "sim": 0.046
+    }
+  ],
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [
+      "incongruity",
+      "bisociation"
+    ],
+    "via": "trevor-noah",
+    "sim": 0.066,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://brentweinbach.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "known_bits": [
+    {
+      "title": "Key-change Christmas",
+      "why_it_works": "Plays Christmas songs in minor keys until they become melancholic Hanukkah songs: literalize applied to music theory; the joke is a proof. Absurdist precision, Fielder-adjacent. (Deadline 2026; hypothesis)",
+      "theory_links": [
+        "literalize",
+        "rigidify"
+      ],
+      "source": "deadline-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ]
+}

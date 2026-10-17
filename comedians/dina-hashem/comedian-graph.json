@@ -36,15 +36,15 @@
   "nearest_greats": [
     {
       "comedian_id": "anthony-jeselnik",
-      "sim": 0.073
+      "sim": 0.075
     },
     {
       "comedian_id": "ray-romano",
-      "sim": 0.071
+      "sim": 0.072
     },
     {
-      "comedian_id": "dana-carvey",
-      "sim": 0.068
+      "comedian_id": "hans-kim",
+      "sim": 0.071
     }
   ],
   "sets": [],
@@ -60,7 +60,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 11.0,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -71,5 +71,57 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCukmQ5E4GAufwK2SSN0pdPw",
+    "handle": "dinahashem",
+    "title": "dinahashem",
+    "subs": 0,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
+  },
+  "style_tags": {
+    "humor_type": "roast",
+    "theories": [
+      "two_stories",
+      "benign_violation"
+    ],
+    "via": "anthony-jeselnik",
+    "sim": 0.075,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "website": {
+    "url": "https://dinahashem.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

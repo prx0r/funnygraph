@@ -231,8 +231,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 33.1,
-    "legacy_era": 60.7,
+    "legacy": 39.8,
+    "legacy_era": 63.0,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -273,5 +273,35 @@
       "myself",
       "died"
     ]
+  },
+  "rating": {
+    "headline": 12.2,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 128,
+        "ref": true
+      },
+      "canon": {
+        "rank": 87,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 79,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

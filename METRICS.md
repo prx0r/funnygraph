@@ -23,7 +23,8 @@
 | **HEAT CHECK** | HEAT pct − AUDIENCE pct | +moment outrunning body of work / −body of work outrunning moment |
 
 Live examples (v0.1, n=31 with both signals):
-- Hart GAP +0.37 (most overrated by the metric — biggest reach, #30 quality)
+- Iglesias GAP +0.83 (most overrated — reach 93rd pct, ratings 10th pct);
+  Hart +0.525 the famous case (reach 100, ratings 47.5)
 - Hicks GAP −0.86, Stewart Lee −0.78 (most underrated — beloved, unwatched)
 - Burr −0.07, Chappelle −0.05 (balanced — as big as they are good)
 

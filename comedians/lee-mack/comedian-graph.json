@@ -240,8 +240,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 18.0,
-    "legacy_era": 45.5,
+    "legacy": 19.0,
+    "legacy_era": 42.2,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -290,5 +290,35 @@
         "year": 2002
       }
     ]
+  },
+  "rating": {
+    "headline": 75.5,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 172,
+        "ref": true
+      },
+      "canon": {
+        "rank": 147,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 123,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

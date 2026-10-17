@@ -6,79 +6,79 @@
 },
 {
 "comedian_id": "fahim-anwar",
-"sim": 0.763
+"sim": 0.764
 },
 {
 "comedian_id": "christina-pazsitzky",
-"sim": 0.666
+"sim": 0.667
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.658
+"sim": 0.661
 },
 {
 "comedian_id": "fortune-feimster",
-"sim": 0.657
+"sim": 0.658
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.614
+"sim": 0.631
 },
 {
 "comedian_id": "adam-sandler",
-"sim": 0.611
+"sim": 0.615
 },
 {
 "comedian_id": "moses-storm",
-"sim": 0.596
+"sim": 0.598
 }
 ],
 "adam-sandler": [
 {
 "comedian_id": "dan-soder",
-"sim": 0.713
+"sim": 0.717
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.611
+"sim": 0.615
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.606
+"sim": 0.609
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.57
+"sim": 0.574
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.564
+"sim": 0.566
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.557
+"sim": 0.559
 },
 {
 "comedian_id": "jeff-foxworthy",
-"sim": 0.541
+"sim": 0.543
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.519
+"sim": 0.52
 }
 ],
 "adel-karam": [
 {
 "comedian_id": "seth-meyers",
-"sim": 0.833
+"sim": 0.835
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.77
+"sim": 0.771
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.724
+"sim": 0.727
 },
 {
 "comedian_id": "chelsea-handler",
@@ -86,18 +86,18 @@
 },
 {
 "comedian_id": "lee-mack",
-"sim": 0.703
+"sim": 0.701
 },
 {
 "comedian_id": "bridget-everett",
-"sim": 0.682
+"sim": 0.684
 },
 {
 "comedian_id": "andy-woodhull",
-"sim": 0.673
+"sim": 0.675
 },
 {
-"comedian_id": "greg-davies",
+"comedian_id": "al-madrigal",
 "sim": 0.656
 }
 ],
@@ -108,57 +108,57 @@
 },
 {
 "comedian_id": "dave-allen",
-"sim": 0.791
+"sim": 0.79
 },
 {
 "comedian_id": "lewis-black",
-"sim": 0.758
+"sim": 0.759
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.746
+"sim": 0.747
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.728
+"sim": 0.726
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.678
+"sim": 0.679
 },
 {
 "comedian_id": "russell-brand",
-"sim": 0.675
+"sim": 0.677
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.675
+"sim": 0.674
 }
 ],
 "ali-wong": [
 {
 "comedian_id": "rodney-dangerfield",
-"sim": 0.569
+"sim": 0.571
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.53
+"sim": 0.528
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.347
+"sim": 0.344
 },
 {
 "comedian_id": "joan-rivers",
-"sim": 0.308
+"sim": 0.306
 },
 {
 "comedian_id": "whitney-cummings",
-"sim": 0.302
+"sim": 0.306
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.292
+"sim": 0.293
 },
 {
 "comedian_id": "bill-hicks",
@@ -166,7 +166,7 @@
 },
 {
 "comedian_id": "george-carlin",
-"sim": 0.249
+"sim": 0.245
 }
 ],
 "amanda-seales": [
@@ -176,31 +176,31 @@
 },
 {
 "comedian_id": "paul-mooney",
-"sim": 0.754
+"sim": 0.753
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.717
+"sim": 0.716
 },
 {
 "comedian_id": "kate-berlant",
-"sim": 0.653
+"sim": 0.654
 },
 {
 "comedian_id": "sarah-cooper",
 "sim": 0.619
 },
 {
-"comedian_id": "erik-griffin",
-"sim": 0.605
+"comedian_id": "anjelah-johnson",
+"sim": 0.607
 },
 {
-"comedian_id": "anjelah-johnson",
-"sim": 0.605
+"comedian_id": "erik-griffin",
+"sim": 0.603
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.589
+"sim": 0.588
 }
 ],
 "amy-schumer": [
@@ -210,49 +210,49 @@
 },
 {
 "comedian_id": "iliza-shlesinger",
-"sim": 0.638
+"sim": 0.635
 },
 {
 "comedian_id": "mike-epps",
-"sim": 0.511
+"sim": 0.512
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.499
+"sim": 0.5
 },
 {
 "comedian_id": "fahim-anwar",
-"sim": 0.462
+"sim": 0.461
 },
 {
 "comedian_id": "anjelah-johnson",
-"sim": 0.393
+"sim": 0.392
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.388
+"sim": 0.386
 },
 {
 "comedian_id": "cristela-alonzo",
-"sim": 0.374
+"sim": 0.371
 }
 ],
 "andrew-schulz": [
 {
 "comedian_id": "mark-normand",
-"sim": 0.619
+"sim": 0.62
 },
 {
 "comedian_id": "deon-cole",
-"sim": 0.496
+"sim": 0.497
 },
 {
 "comedian_id": "colin-quinn",
-"sim": 0.445
+"sim": 0.446
 },
 {
 "comedian_id": "bo-burnham",
-"sim": 0.419
+"sim": 0.409
 },
 {
 "comedian_id": "stewart-lee",
@@ -260,7 +260,7 @@
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.331
+"sim": 0.33
 },
 {
 "comedian_id": "w-kamau-bell",
@@ -268,13 +268,13 @@
 },
 {
 "comedian_id": "william-montgomery",
-"sim": 0.318
+"sim": 0.317
 }
 ],
 "andy-woodhull": [
 {
 "comedian_id": "seth-meyers",
-"sim": 0.884
+"sim": 0.885
 },
 {
 "comedian_id": "jeff-foxworthy",
@@ -282,11 +282,11 @@
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.68
+"sim": 0.681
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.673
+"sim": 0.675
 },
 {
 "comedian_id": "t-j-miller",
@@ -302,7 +302,7 @@
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.604
+"sim": 0.605
 }
 ],
 "anjelah-johnson": [
@@ -312,7 +312,7 @@
 },
 {
 "comedian_id": "kate-berlant",
-"sim": 0.859
+"sim": 0.858
 },
 {
 "comedian_id": "fred-armisen",
@@ -324,15 +324,15 @@
 },
 {
 "comedian_id": "henry-rollins",
-"sim": 0.664
-},
-{
-"comedian_id": "erik-griffin",
-"sim": 0.639
+"sim": 0.663
 },
 {
 "comedian_id": "brad-williams",
 "sim": 0.639
+},
+{
+"comedian_id": "erik-griffin",
+"sim": 0.638
 },
 {
 "comedian_id": "fahim-anwar",
@@ -342,11 +342,11 @@
 "anthony-jeselnik": [
 {
 "comedian_id": "dave-chappelle",
-"sim": 0.639
+"sim": 0.643
 },
 {
 "comedian_id": "bert-kreischer",
-"sim": 0.449
+"sim": 0.454
 },
 {
 "comedian_id": "jimmy-carr",
@@ -354,37 +354,37 @@
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.382
+"sim": 0.384
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.31
+"sim": 0.319
 },
 {
 "comedian_id": "kevin-hart",
-"sim": 0.28
+"sim": 0.278
 },
 {
 "comedian_id": "cedric-the-entertainer",
-"sim": 0.24
+"sim": 0.245
 },
 {
-"comedian_id": "demetri-martin",
-"sim": 0.238
+"comedian_id": "theo-von",
+"sim": 0.239
 }
 ],
 "ari-shaffir": [
 {
 "comedian_id": "chris-gethard",
-"sim": 0.728
+"sim": 0.727
 },
 {
 "comedian_id": "fahim-anwar",
-"sim": 0.672
+"sim": 0.674
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.621
+"sim": 0.623
 },
 {
 "comedian_id": "brad-williams",
@@ -392,14 +392,14 @@
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.597
-},
-{
-"comedian_id": "adam-devine",
-"sim": 0.572
+"sim": 0.596
 },
 {
 "comedian_id": "eric-andre",
+"sim": 0.574
+},
+{
+"comedian_id": "adam-devine",
 "sim": 0.571
 },
 {
@@ -410,41 +410,41 @@
 "arsenio-hall": [
 {
 "comedian_id": "eddie-griffin",
-"sim": 0.834
+"sim": 0.835
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.694
+"sim": 0.698
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.673
+"sim": 0.675
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.656
+"sim": 0.661
 },
 {
 "comedian_id": "deon-cole",
-"sim": 0.632
+"sim": 0.635
 },
 {
 "comedian_id": "sam-jay",
-"sim": 0.626
-},
-{
-"comedian_id": "eddie-murphy",
-"sim": 0.616
+"sim": 0.623
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.598
+"sim": 0.605
+},
+{
+"comedian_id": "george-lopez",
+"sim": 0.574
 }
 ],
 "aziz-ansari": [
 {
 "comedian_id": "jim-gaffigan",
-"sim": 0.596
+"sim": 0.593
 },
 {
 "comedian_id": "sebastian-maniscalco",
@@ -452,33 +452,33 @@
 },
 {
 "comedian_id": "neal-brennan",
-"sim": 0.321
-},
-{
-"comedian_id": "whitney-cummings",
-"sim": 0.243
+"sim": 0.32
 },
 {
 "comedian_id": "bill-burr",
-"sim": 0.236
+"sim": 0.239
+},
+{
+"comedian_id": "whitney-cummings",
+"sim": 0.238
 },
 {
 "comedian_id": "iliza-shlesinger",
-"sim": 0.219
-},
-{
-"comedian_id": "joe-list",
-"sim": 0.211
+"sim": 0.217
 },
 {
 "comedian_id": "bill-maher",
+"sim": 0.213
+},
+{
+"comedian_id": "joe-list",
 "sim": 0.21
 }
 ],
 "bert-kreischer": [
 {
 "comedian_id": "gabriel-iglesias",
-"sim": 0.522
+"sim": 0.519
 },
 {
 "comedian_id": "louis-ck",
@@ -490,45 +490,45 @@
 },
 {
 "comedian_id": "anthony-jeselnik",
-"sim": 0.449
+"sim": 0.454
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.394
+"sim": 0.396
 },
 {
 "comedian_id": "robin-williams",
-"sim": 0.353
+"sim": 0.352
 },
 {
 "comedian_id": "bill-burr",
-"sim": 0.308
+"sim": 0.31
 },
 {
 "comedian_id": "dylan-moran",
-"sim": 0.268
+"sim": 0.272
 }
 ],
 "big-jay-oakerson": [
 {
 "comedian_id": "ken-jeong",
-"sim": 0.819
+"sim": 0.82
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.649
-},
-{
-"comedian_id": "kevin-smith",
-"sim": 0.645
+"sim": 0.65
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.643
+"sim": 0.644
+},
+{
+"comedian_id": "kevin-smith",
+"sim": 0.644
 },
 {
 "comedian_id": "joe-rogan",
-"sim": 0.637
+"sim": 0.634
 },
 {
 "comedian_id": "christina-pazsitzky",
@@ -536,21 +536,21 @@
 },
 {
 "comedian_id": "sam-jay",
-"sim": 0.614
+"sim": 0.613
 },
 {
 "comedian_id": "jimmy-o-yang",
-"sim": 0.605
+"sim": 0.604
 }
 ],
 "bill-burr": [
 {
 "comedian_id": "rodney-dangerfield",
-"sim": 0.429
+"sim": 0.427
 },
 {
 "comedian_id": "jim-norton",
-"sim": 0.347
+"sim": 0.349
 },
 {
 "comedian_id": "shane-gillis",
@@ -562,7 +562,7 @@
 },
 {
 "comedian_id": "bert-kreischer",
-"sim": 0.308
+"sim": 0.31
 },
 {
 "comedian_id": "bill-hicks",
@@ -570,7 +570,7 @@
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.283
+"sim": 0.286
 },
 {
 "comedian_id": "taylor-tomlinson",
@@ -580,41 +580,41 @@
 "bill-hicks": [
 {
 "comedian_id": "stewart-lee",
-"sim": 0.552
+"sim": 0.554
 },
 {
 "comedian_id": "jim-jefferies",
-"sim": 0.36
+"sim": 0.364
 },
 {
 "comedian_id": "greg-giraldo",
-"sim": 0.357
+"sim": 0.36
 },
 {
 "comedian_id": "mike-birbiglia",
-"sim": 0.34
-},
-{
-"comedian_id": "andrew-schulz",
-"sim": 0.331
+"sim": 0.333
 },
 {
 "comedian_id": "lenny-bruce",
-"sim": 0.331
+"sim": 0.33
+},
+{
+"comedian_id": "andrew-schulz",
+"sim": 0.33
 },
 {
 "comedian_id": "bo-burnham",
-"sim": 0.301
+"sim": 0.297
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.296
+"sim": 0.295
 }
 ],
 "bill-maher": [
 {
 "comedian_id": "drew-michael",
-"sim": 0.75
+"sim": 0.749
 },
 {
 "comedian_id": "jack-whitehall",
@@ -626,7 +626,7 @@
 },
 {
 "comedian_id": "lewis-black",
-"sim": 0.657
+"sim": 0.662
 },
 {
 "comedian_id": "jen-kirkman",
@@ -634,105 +634,105 @@
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.586
+"sim": 0.59
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.555
+"sim": 0.558
 },
 {
 "comedian_id": "greg-davies",
-"sim": 0.543
+"sim": 0.546
 }
 ],
 "billy-connolly": [
 {
 "comedian_id": "russell-howard",
-"sim": 0.68
-},
-{
-"comedian_id": "adel-karam",
-"sim": 0.507
+"sim": 0.677
 },
 {
 "comedian_id": "kevin-hart",
-"sim": 0.501
+"sim": 0.506
 },
 {
-"comedian_id": "greg-davies",
-"sim": 0.455
+"comedian_id": "adel-karam",
+"sim": 0.505
 },
 {
 "comedian_id": "dan-soder",
-"sim": 0.454
+"sim": 0.46
 },
 {
 "comedian_id": "ron-white",
-"sim": 0.453
+"sim": 0.452
+},
+{
+"comedian_id": "greg-davies",
+"sim": 0.45
 },
 {
 "comedian_id": "lee-mack",
-"sim": 0.449
+"sim": 0.442
 },
 {
 "comedian_id": "kevin-bridges",
-"sim": 0.441
+"sim": 0.44
 }
 ],
 "bo-burnham": [
 {
 "comedian_id": "stewart-lee",
-"sim": 0.54
+"sim": 0.528
 },
 {
 "comedian_id": "andrew-schulz",
-"sim": 0.419
+"sim": 0.409
 },
 {
 "comedian_id": "patton-oswalt",
-"sim": 0.319
-},
-{
-"comedian_id": "adam-sandler",
-"sim": 0.303
-},
-{
-"comedian_id": "shane-gillis",
-"sim": 0.302
+"sim": 0.32
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.301
+"sim": 0.297
 },
 {
-"comedian_id": "chris-rock",
-"sim": 0.278
+"comedian_id": "adam-sandler",
+"sim": 0.297
+},
+{
+"comedian_id": "shane-gillis",
+"sim": 0.294
 },
 {
 "comedian_id": "eddie-izzard",
-"sim": 0.275
+"sim": 0.27
+},
+{
+"comedian_id": "chris-rock",
+"sim": 0.269
 }
 ],
 "brad-williams": [
 {
 "comedian_id": "emily-heller",
-"sim": 0.781
+"sim": 0.782
 },
 {
 "comedian_id": "ronny-chieng",
-"sim": 0.748
+"sim": 0.749
 },
 {
 "comedian_id": "amanda-seales",
-"sim": 0.717
+"sim": 0.716
 },
 {
 "comedian_id": "rob-schneider",
-"sim": 0.685
+"sim": 0.687
 },
 {
 "comedian_id": "drew-michael",
-"sim": 0.682
+"sim": 0.683
 },
 {
 "comedian_id": "eric-andre",
@@ -740,7 +740,7 @@
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.662
+"sim": 0.661
 },
 {
 "comedian_id": "anjelah-johnson",
@@ -754,37 +754,37 @@
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.687
+"sim": 0.686
 },
 {
 "comedian_id": "kavin-jay",
-"sim": 0.679
+"sim": 0.68
 },
 {
 "comedian_id": "sam-jay",
-"sim": 0.662
-},
-{
-"comedian_id": "george-lopez",
-"sim": 0.653
+"sim": 0.664
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.651
+"sim": 0.657
+},
+{
+"comedian_id": "george-lopez",
+"sim": 0.65
+},
+{
+"comedian_id": "erik-griffin",
+"sim": 0.589
 },
 {
 "comedian_id": "big-jay-oakerson",
 "sim": 0.588
-},
-{
-"comedian_id": "erik-griffin",
-"sim": 0.586
 }
 ],
 "brian-regan": [
 {
 "comedian_id": "gary-gulman",
-"sim": 0.393
+"sim": 0.39
 },
 {
 "comedian_id": "sarah-silverman",
@@ -792,41 +792,41 @@
 },
 {
 "comedian_id": "kevin-hart",
-"sim": 0.35
+"sim": 0.348
 },
 {
 "comedian_id": "gabriel-iglesias",
-"sim": 0.293
-},
-{
-"comedian_id": "jimmy-carr",
-"sim": 0.289
+"sim": 0.296
 },
 {
 "comedian_id": "nate-bargatze",
-"sim": 0.288
+"sim": 0.29
+},
+{
+"comedian_id": "jimmy-carr",
+"sim": 0.287
 },
 {
 "comedian_id": "sara-pascoe",
-"sim": 0.271
+"sim": 0.276
 },
 {
 "comedian_id": "sebastian-maniscalco",
-"sim": 0.257
+"sim": 0.26
 }
 ],
 "bridget-everett": [
 {
 "comedian_id": "reggie-watts",
-"sim": 0.752
+"sim": 0.755
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.682
+"sim": 0.684
 },
 {
 "comedian_id": "pablo-francisco",
-"sim": 0.634
+"sim": 0.632
 },
 {
 "comedian_id": "kevin-james",
@@ -834,33 +834,33 @@
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.562
+"sim": 0.566
 },
 {
-"comedian_id": "eddie-murphy",
-"sim": 0.553
+"comedian_id": "fahim-anwar",
+"sim": 0.544
+},
+{
+"comedian_id": "al-madrigal",
+"sim": 0.543
 },
 {
 "comedian_id": "fred-armisen",
 "sim": 0.543
-},
-{
-"comedian_id": "fahim-anwar",
-"sim": 0.542
 }
 ],
 "cam-patterson": [
 {
 "comedian_id": "doug-stanhope",
-"sim": 0.608
+"sim": 0.609
 },
 {
 "comedian_id": "william-montgomery",
-"sim": 0.556
+"sim": 0.551
 },
 {
 "comedian_id": "casey-rocket",
-"sim": 0.335
+"sim": 0.334
 },
 {
 "comedian_id": "chris-rock",
@@ -872,7 +872,7 @@
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.24
+"sim": 0.241
 },
 {
 "comedian_id": "nate-bargatze",
@@ -880,33 +880,33 @@
 },
 {
 "comedian_id": "jim-gaffigan",
-"sim": 0.229
+"sim": 0.228
 }
 ],
 "casey-rocket": [
 {
 "comedian_id": "william-montgomery",
-"sim": 0.641
+"sim": 0.643
 },
 {
 "comedian_id": "robin-williams",
-"sim": 0.553
+"sim": 0.554
 },
 {
 "comedian_id": "cam-patterson",
-"sim": 0.335
+"sim": 0.334
 },
 {
 "comedian_id": "hans-kim",
-"sim": 0.294
+"sim": 0.289
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.278
+"sim": 0.284
 },
 {
 "comedian_id": "bert-kreischer",
-"sim": 0.26
+"sim": 0.259
 },
 {
 "comedian_id": "nate-bargatze",
@@ -920,7 +920,7 @@
 "catherine-cohen": [
 {
 "comedian_id": "urzila-carlson",
-"sim": 0.873
+"sim": 0.874
 },
 {
 "comedian_id": "ronny-chieng",
@@ -928,7 +928,7 @@
 },
 {
 "comedian_id": "eric-andre",
-"sim": 0.729
+"sim": 0.731
 },
 {
 "comedian_id": "nikki-glaser",
@@ -936,7 +936,7 @@
 },
 {
 "comedian_id": "drew-michael",
-"sim": 0.565
+"sim": 0.564
 },
 {
 "comedian_id": "george-lopez",
@@ -944,29 +944,29 @@
 },
 {
 "comedian_id": "patrice-o-neal",
-"sim": 0.55
+"sim": 0.551
 },
 {
 "comedian_id": "hasan-minhaj",
-"sim": 0.529
+"sim": 0.53
 }
 ],
 "cedric-the-entertainer": [
 {
 "comedian_id": "d-l-hughley",
-"sim": 0.667
+"sim": 0.665
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.61
+"sim": 0.613
 },
 {
 "comedian_id": "chris-tucker",
-"sim": 0.596
+"sim": 0.594
 },
 {
 "comedian_id": "kevin-james",
-"sim": 0.565
+"sim": 0.568
 },
 {
 "comedian_id": "dave-allen",
@@ -977,18 +977,18 @@
 "sim": 0.536
 },
 {
-"comedian_id": "al-madrigal",
-"sim": 0.509
+"comedian_id": "paul-mooney",
+"sim": 0.51
 },
 {
-"comedian_id": "paul-mooney",
-"sim": 0.508
+"comedian_id": "al-madrigal",
+"sim": 0.509
 }
 ],
 "chelsea-handler": [
 {
 "comedian_id": "henry-rollins",
-"sim": 0.722
+"sim": 0.723
 },
 {
 "comedian_id": "adel-karam",
@@ -996,27 +996,27 @@
 },
 {
 "comedian_id": "seth-meyers",
-"sim": 0.68
+"sim": 0.682
 },
 {
 "comedian_id": "kevin-bridges",
-"sim": 0.635
+"sim": 0.634
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.629
+"sim": 0.63
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.601
+"sim": 0.602
 },
 {
 "comedian_id": "kavin-jay",
-"sim": 0.59
+"sim": 0.592
 },
 {
 "comedian_id": "lee-mack",
-"sim": 0.59
+"sim": 0.585
 }
 ],
 "chelsea-peretti": [
@@ -1033,98 +1033,98 @@
 "sim": 0.694
 },
 {
+"comedian_id": "kevin-james",
+"sim": 0.61
+},
+{
 "comedian_id": "christina-pazsitzky",
 "sim": 0.609
 },
 {
-"comedian_id": "kevin-james",
-"sim": 0.609
-},
-{
 "comedian_id": "al-madrigal",
-"sim": 0.542
-},
-{
-"comedian_id": "donald-glover",
-"sim": 0.524
+"sim": 0.544
 },
 {
 "comedian_id": "pablo-francisco",
+"sim": 0.525
+},
+{
+"comedian_id": "donald-glover",
 "sim": 0.524
 }
 ],
 "chris-d-elia": [
 {
 "comedian_id": "tiffany-haddish",
-"sim": 0.75
+"sim": 0.751
 },
 {
 "comedian_id": "rob-schneider",
-"sim": 0.709
+"sim": 0.708
 },
 {
 "comedian_id": "joe-rogan",
-"sim": 0.594
+"sim": 0.596
 },
 {
 "comedian_id": "lee-mack",
-"sim": 0.58
+"sim": 0.577
 },
 {
 "comedian_id": "emily-heller",
-"sim": 0.55
+"sim": 0.551
 },
 {
 "comedian_id": "sam-morril",
-"sim": 0.501
+"sim": 0.503
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.458
+"sim": 0.459
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.45
+"sim": 0.449
 }
 ],
 "chris-gethard": [
 {
 "comedian_id": "ari-shaffir",
-"sim": 0.728
+"sim": 0.727
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.598
+"sim": 0.599
 },
 {
 "comedian_id": "tom-papa",
-"sim": 0.561
+"sim": 0.562
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.523
-},
-{
-"comedian_id": "todd-glass",
-"sim": 0.506
+"sim": 0.524
 },
 {
 "comedian_id": "michael-mcintyre",
-"sim": 0.499
+"sim": 0.508
+},
+{
+"comedian_id": "todd-glass",
+"sim": 0.505
 },
 {
 "comedian_id": "anjelah-johnson",
-"sim": 0.498
+"sim": 0.5
 },
 {
-"comedian_id": "enissa-amani",
-"sim": 0.495
+"comedian_id": "henry-rollins",
+"sim": 0.496
 }
 ],
 "chris-rock": [
 {
 "comedian_id": "doug-stanhope",
-"sim": 0.464
+"sim": 0.465
 },
 {
 "comedian_id": "dave-chappelle",
@@ -1132,7 +1132,7 @@
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.352
+"sim": 0.355
 },
 {
 "comedian_id": "lenny-bruce",
@@ -1144,11 +1144,11 @@
 },
 {
 "comedian_id": "jerry-seinfeld",
-"sim": 0.295
+"sim": 0.296
 },
 {
 "comedian_id": "bo-burnham",
-"sim": 0.278
+"sim": 0.269
 },
 {
 "comedian_id": "sarah-silverman",
@@ -1158,27 +1158,27 @@
 "chris-tucker": [
 {
 "comedian_id": "david-cross",
-"sim": 0.67
+"sim": 0.669
 },
 {
 "comedian_id": "mike-epps",
-"sim": 0.656
+"sim": 0.657
 },
 {
 "comedian_id": "cedric-the-entertainer",
-"sim": 0.596
+"sim": 0.594
 },
 {
 "comedian_id": "deray-davis",
-"sim": 0.551
+"sim": 0.553
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.506
+"sim": 0.507
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.447
+"sim": 0.445
 },
 {
 "comedian_id": "adel-karam",
@@ -1186,13 +1186,13 @@
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.426
+"sim": 0.427
 }
 ],
 "christina-pazsitzky": [
 {
 "comedian_id": "fahim-anwar",
-"sim": 0.809
+"sim": 0.81
 },
 {
 "comedian_id": "cristela-alonzo",
@@ -1212,7 +1212,7 @@
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.666
+"sim": 0.667
 },
 {
 "comedian_id": "amy-schumer",
@@ -1230,57 +1230,57 @@
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.594
+"sim": 0.599
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.591
+"sim": 0.597
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.554
+"sim": 0.555
 },
 {
 "comedian_id": "cristela-alonzo",
-"sim": 0.548
+"sim": 0.55
 },
 {
 "comedian_id": "daniel-tosh",
 "sim": 0.533
 },
 {
-"comedian_id": "russell-brand",
-"sim": 0.515
+"comedian_id": "michael-mcintyre",
+"sim": 0.517
 },
 {
-"comedian_id": "michael-mcintyre",
-"sim": 0.513
+"comedian_id": "russell-brand",
+"sim": 0.516
 }
 ],
 "craig-ferguson": [
 {
 "comedian_id": "michael-mcintyre",
-"sim": 0.8
+"sim": 0.81
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.796
+"sim": 0.792
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.774
+"sim": 0.772
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.731
+"sim": 0.729
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.728
+"sim": 0.726
 },
 {
 "comedian_id": "kathleen-madigan",
-"sim": 0.723
+"sim": 0.722
 },
 {
 "comedian_id": "jen-kirkman",
@@ -1288,21 +1288,21 @@
 },
 {
 "comedian_id": "lewis-black",
-"sim": 0.659
+"sim": 0.658
 }
 ],
 "cristela-alonzo": [
 {
 "comedian_id": "enissa-amani",
-"sim": 0.869
+"sim": 0.87
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.825
+"sim": 0.826
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.773
+"sim": 0.764
 },
 {
 "comedian_id": "christina-pazsitzky",
@@ -1310,29 +1310,29 @@
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.653
-},
-{
-"comedian_id": "donald-glover",
-"sim": 0.606
+"sim": 0.652
 },
 {
 "comedian_id": "michael-mcintyre",
-"sim": 0.606
+"sim": 0.613
+},
+{
+"comedian_id": "donald-glover",
+"sim": 0.604
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.604
+"sim": 0.602
 }
 ],
 "d-l-hughley": [
 {
 "comedian_id": "cedric-the-entertainer",
-"sim": 0.667
+"sim": 0.665
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.581
+"sim": 0.588
 },
 {
 "comedian_id": "eddie-griffin",
@@ -1340,57 +1340,57 @@
 },
 {
 "comedian_id": "drew-michael",
-"sim": 0.522
+"sim": 0.529
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.508
+"sim": 0.515
 },
 {
 "comedian_id": "rob-schneider",
-"sim": 0.503
+"sim": 0.504
 },
 {
 "comedian_id": "ron-white",
-"sim": 0.5
+"sim": 0.501
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.494
+"sim": 0.498
 }
 ],
 "dan-soder": [
 {
 "comedian_id": "adam-sandler",
-"sim": 0.713
+"sim": 0.717
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.672
+"sim": 0.673
 },
 {
 "comedian_id": "joe-rogan",
-"sim": 0.626
+"sim": 0.624
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.613
+"sim": 0.614
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.602
-},
-{
-"comedian_id": "adam-devine",
-"sim": 0.578
+"sim": 0.606
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.563
+"sim": 0.58
+},
+{
+"comedian_id": "adam-devine",
+"sim": 0.576
 },
 {
 "comedian_id": "ari-shaffir",
-"sim": 0.544
+"sim": 0.545
 }
 ],
 "dana-carvey": [
@@ -1400,23 +1400,23 @@
 },
 {
 "comedian_id": "dave-allen",
-"sim": 0.644
+"sim": 0.646
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.614
+"sim": 0.618
 },
 {
 "comedian_id": "sarah-cooper",
-"sim": 0.561
+"sim": 0.564
 },
 {
 "comedian_id": "dave-attell",
-"sim": 0.551
+"sim": 0.552
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.526
+"sim": 0.531
 },
 {
 "comedian_id": "erik-griffin",
@@ -1424,17 +1424,17 @@
 },
 {
 "comedian_id": "ray-romano",
-"sim": 0.499
+"sim": 0.5
 }
 ],
 "daniel-tosh": [
 {
-"comedian_id": "cristela-alonzo",
-"sim": 0.773
+"comedian_id": "michael-mcintyre",
+"sim": 0.769
 },
 {
-"comedian_id": "michael-mcintyre",
-"sim": 0.768
+"comedian_id": "cristela-alonzo",
+"sim": 0.764
 },
 {
 "comedian_id": "todd-glass",
@@ -1442,23 +1442,23 @@
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.731
+"sim": 0.729
 },
 {
 "comedian_id": "enissa-amani",
-"sim": 0.694
-},
-{
-"comedian_id": "jen-kirkman",
 "sim": 0.689
 },
 {
+"comedian_id": "jen-kirkman",
+"sim": 0.688
+},
+{
 "comedian_id": "lewis-black",
-"sim": 0.672
+"sim": 0.669
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.65
+"sim": 0.648
 }
 ],
 "dave-allen": [
@@ -1468,7 +1468,7 @@
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.791
+"sim": 0.79
 },
 {
 "comedian_id": "kevin-james",
@@ -1480,19 +1480,19 @@
 },
 {
 "comedian_id": "dana-carvey",
-"sim": 0.644
+"sim": 0.646
 },
 {
 "comedian_id": "enissa-amani",
-"sim": 0.627
+"sim": 0.629
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.623
+"sim": 0.622
 },
 {
 "comedian_id": "kate-berlant",
-"sim": 0.57
+"sim": 0.571
 }
 ],
 "dave-attell": [
@@ -1506,19 +1506,19 @@
 },
 {
 "comedian_id": "moses-storm",
-"sim": 0.658
+"sim": 0.66
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.637
+"sim": 0.638
 },
 {
 "comedian_id": "christina-pazsitzky",
-"sim": 0.625
+"sim": 0.626
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.607
+"sim": 0.609
 },
 {
 "comedian_id": "fortune-feimster",
@@ -1526,17 +1526,17 @@
 },
 {
 "comedian_id": "lewis-black",
-"sim": 0.58
+"sim": 0.583
 }
 ],
 "dave-chappelle": [
 {
 "comedian_id": "richard-pryor",
-"sim": 0.745
+"sim": 0.746
 },
 {
 "comedian_id": "anthony-jeselnik",
-"sim": 0.639
+"sim": 0.643
 },
 {
 "comedian_id": "bert-kreischer",
@@ -1548,151 +1548,151 @@
 },
 {
 "comedian_id": "maria-bamford",
-"sim": 0.412
+"sim": 0.408
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.397
+"sim": 0.399
 },
 {
 "comedian_id": "robin-williams",
-"sim": 0.312
+"sim": 0.31
 },
 {
 "comedian_id": "trevor-noah",
-"sim": 0.258
+"sim": 0.256
 }
 ],
 "david-cross": [
 {
 "comedian_id": "sara-pascoe",
-"sim": 0.77
+"sim": 0.767
 },
 {
 "comedian_id": "chris-tucker",
-"sim": 0.67
+"sim": 0.669
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.439
+"sim": 0.434
 },
 {
 "comedian_id": "kavin-jay",
-"sim": 0.437
+"sim": 0.432
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.433
+"sim": 0.432
 },
 {
 "comedian_id": "russell-brand",
-"sim": 0.429
+"sim": 0.428
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.409
+"sim": 0.407
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.353
+"sim": 0.352
 }
 ],
 "demetri-martin": [
 {
 "comedian_id": "jerry-seinfeld",
-"sim": 0.505
+"sim": 0.499
 },
 {
 "comedian_id": "jimmy-carr",
-"sim": 0.424
+"sim": 0.42
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.414
+"sim": 0.413
 },
 {
 "comedian_id": "mitch-hedberg",
-"sim": 0.41
+"sim": 0.411
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.385
+"sim": 0.388
 },
 {
 "comedian_id": "ricky-gervais",
-"sim": 0.339
+"sim": 0.335
 },
 {
 "comedian_id": "steven-wright",
-"sim": 0.318
+"sim": 0.319
 },
 {
 "comedian_id": "matt-mccusker",
-"sim": 0.303
+"sim": 0.297
 }
 ],
 "deon-cole": [
 {
 "comedian_id": "w-kamau-bell",
-"sim": 0.64
+"sim": 0.639
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.632
+"sim": 0.635
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.525
+"sim": 0.526
 },
 {
 "comedian_id": "eddie-griffin",
-"sim": 0.521
+"sim": 0.525
 },
 {
 "comedian_id": "sam-jay",
-"sim": 0.521
+"sim": 0.522
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.51
+"sim": 0.511
 },
 {
 "comedian_id": "andrew-schulz",
-"sim": 0.496
+"sim": 0.497
 },
 {
 "comedian_id": "colin-quinn",
-"sim": 0.482
+"sim": 0.491
 }
 ],
 "deray-davis": [
 {
 "comedian_id": "mike-epps",
-"sim": 0.8
-},
-{
-"comedian_id": "erik-griffin",
-"sim": 0.586
+"sim": 0.798
 },
 {
 "comedian_id": "marlon-wayans",
 "sim": 0.586
 },
 {
+"comedian_id": "erik-griffin",
+"sim": 0.585
+},
+{
+"comedian_id": "arsenio-hall",
+"sim": 0.566
+},
+{
 "comedian_id": "sam-jay",
 "sim": 0.56
 },
 {
-"comedian_id": "arsenio-hall",
-"sim": 0.559
-},
-{
 "comedian_id": "chris-tucker",
-"sim": 0.551
+"sim": 0.553
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.512
+"sim": 0.511
 },
 {
 "comedian_id": "george-lopez",
@@ -1702,57 +1702,57 @@
 "dick-gregory": [
 {
 "comedian_id": "paul-mooney",
-"sim": 0.57
+"sim": 0.571
 },
 {
 "comedian_id": "amanda-seales",
-"sim": 0.562
+"sim": 0.566
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.542
+"sim": 0.541
 },
 {
 "comedian_id": "wanda-sykes",
-"sim": 0.509
+"sim": 0.512
 },
 {
 "comedian_id": "big-jay-oakerson",
 "sim": 0.496
 },
 {
-"comedian_id": "eddie-griffin",
-"sim": 0.476
+"comedian_id": "lewis-black",
+"sim": 0.477
 },
 {
-"comedian_id": "lewis-black",
-"sim": 0.474
+"comedian_id": "eddie-griffin",
+"sim": 0.475
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.456
+"sim": 0.457
 }
 ],
 "donald-glover": [
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.632
+"sim": 0.628
 },
 {
 "comedian_id": "cristela-alonzo",
-"sim": 0.606
+"sim": 0.604
 },
 {
 "comedian_id": "enissa-amani",
-"sim": 0.598
+"sim": 0.597
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.586
+"sim": 0.585
 },
 {
 "comedian_id": "michael-mcintyre",
-"sim": 0.527
+"sim": 0.526
 },
 {
 "comedian_id": "chelsea-peretti",
@@ -1760,51 +1760,51 @@
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.519
+"sim": 0.517
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.512
+"sim": 0.513
 }
 ],
 "doug-stanhope": [
 {
 "comedian_id": "cam-patterson",
-"sim": 0.608
+"sim": 0.609
 },
 {
 "comedian_id": "chris-rock",
-"sim": 0.464
+"sim": 0.465
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.422
+"sim": 0.417
 },
 {
 "comedian_id": "greg-giraldo",
-"sim": 0.381
+"sim": 0.382
 },
 {
 "comedian_id": "dylan-moran",
-"sim": 0.359
+"sim": 0.361
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.336
+"sim": 0.335
 },
 {
 "comedian_id": "patrice-o-neal",
-"sim": 0.31
+"sim": 0.306
 },
 {
 "comedian_id": "jim-norton",
-"sim": 0.304
+"sim": 0.303
 }
 ],
 "drew-michael": [
 {
 "comedian_id": "bill-maher",
-"sim": 0.75
+"sim": 0.749
 },
 {
 "comedian_id": "emily-heller",
@@ -1820,7 +1820,7 @@
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.682
+"sim": 0.683
 },
 {
 "comedian_id": "todd-glass",
@@ -1828,41 +1828,41 @@
 },
 {
 "comedian_id": "urzila-carlson",
-"sim": 0.64
+"sim": 0.641
 },
 {
-"comedian_id": "jen-kirkman",
+"comedian_id": "ronny-chieng",
 "sim": 0.634
 }
 ],
 "dylan-moran": [
 {
 "comedian_id": "sebastian-maniscalco",
-"sim": 0.577
+"sim": 0.576
 },
 {
 "comedian_id": "eddie-izzard",
-"sim": 0.431
+"sim": 0.437
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.422
+"sim": 0.433
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.378
+"sim": 0.382
 },
 {
 "comedian_id": "doug-stanhope",
-"sim": 0.359
+"sim": 0.361
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.358
+"sim": 0.355
 },
 {
 "comedian_id": "joan-rivers",
-"sim": 0.357
+"sim": 0.348
 },
 {
 "comedian_id": "matt-mccusker",
@@ -1872,7 +1872,7 @@
 "eddie-griffin": [
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.834
+"sim": 0.835
 },
 {
 "comedian_id": "d-l-hughley",
@@ -1880,15 +1880,15 @@
 },
 {
 "comedian_id": "ron-white",
-"sim": 0.548
+"sim": 0.553
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.535
+"sim": 0.537
 },
 {
 "comedian_id": "deon-cole",
-"sim": 0.521
+"sim": 0.525
 },
 {
 "comedian_id": "sam-jay",
@@ -1896,79 +1896,79 @@
 },
 {
 "comedian_id": "dick-gregory",
-"sim": 0.476
+"sim": 0.475
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.472
+"sim": 0.475
 }
 ],
 "eddie-izzard": [
 {
 "comedian_id": "emo-philips",
-"sim": 0.451
+"sim": 0.454
 },
 {
 "comedian_id": "dylan-moran",
-"sim": 0.431
+"sim": 0.437
 },
 {
 "comedian_id": "norm-macdonald",
-"sim": 0.406
+"sim": 0.405
 },
 {
 "comedian_id": "maria-bamford",
-"sim": 0.363
+"sim": 0.361
 },
 {
 "comedian_id": "trevor-noah",
-"sim": 0.351
+"sim": 0.348
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.31
+"sim": 0.306
 },
 {
 "comedian_id": "william-montgomery",
-"sim": 0.296
+"sim": 0.297
 },
 {
 "comedian_id": "bo-burnham",
-"sim": 0.275
+"sim": 0.27
 }
 ],
 "eddie-murphy": [
 {
 "comedian_id": "jo-koy",
-"sim": 0.717
+"sim": 0.63
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.616
+"sim": 0.519
 },
 {
 "comedian_id": "michael-mcintyre",
-"sim": 0.606
+"sim": 0.519
 },
 {
 "comedian_id": "sam-jay",
-"sim": 0.58
+"sim": 0.471
 },
 {
 "comedian_id": "bridget-everett",
-"sim": 0.553
+"sim": 0.467
+},
+{
+"comedian_id": "maria-bamford",
+"sim": 0.411
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.485
-},
-{
-"comedian_id": "katt-williams",
-"sim": 0.454
+"sim": 0.393
 },
 {
 "comedian_id": "eddie-griffin",
-"sim": 0.441
+"sim": 0.369
 }
 ],
 "emily-heller": [
@@ -1978,11 +1978,11 @@
 },
 {
 "comedian_id": "rob-schneider",
-"sim": 0.803
+"sim": 0.805
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.781
+"sim": 0.782
 },
 {
 "comedian_id": "tiffany-haddish",
@@ -1998,7 +1998,7 @@
 },
 {
 "comedian_id": "urzila-carlson",
-"sim": 0.64
+"sim": 0.641
 },
 {
 "comedian_id": "todd-glass",
@@ -2008,41 +2008,41 @@
 "emo-philips": [
 {
 "comedian_id": "eddie-izzard",
-"sim": 0.451
+"sim": 0.454
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.392
+"sim": 0.401
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.382
+"sim": 0.378
 },
 {
 "comedian_id": "dylan-moran",
-"sim": 0.358
+"sim": 0.355
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.328
+"sim": 0.332
 },
 {
 "comedian_id": "nate-bargatze",
-"sim": 0.317
+"sim": 0.316
 },
 {
 "comedian_id": "hans-kim",
-"sim": 0.313
+"sim": 0.312
 },
 {
-"comedian_id": "matt-mccusker",
+"comedian_id": "john-mulaney",
 "sim": 0.269
 }
 ],
 "enissa-amani": [
 {
 "comedian_id": "cristela-alonzo",
-"sim": 0.869
+"sim": 0.87
 },
 {
 "comedian_id": "maz-jobrani",
@@ -2050,7 +2050,7 @@
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.694
+"sim": 0.689
 },
 {
 "comedian_id": "fred-armisen",
@@ -2058,33 +2058,33 @@
 },
 {
 "comedian_id": "dave-allen",
-"sim": 0.627
+"sim": 0.629
 },
 {
 "comedian_id": "kevin-james",
-"sim": 0.607
-},
-{
-"comedian_id": "donald-glover",
-"sim": 0.598
+"sim": 0.606
 },
 {
 "comedian_id": "kate-berlant",
-"sim": 0.598
+"sim": 0.597
+},
+{
+"comedian_id": "donald-glover",
+"sim": 0.597
 }
 ],
 "eric-andre": [
 {
 "comedian_id": "urzila-carlson",
-"sim": 0.874
+"sim": 0.875
 },
 {
 "comedian_id": "ronny-chieng",
-"sim": 0.842
+"sim": 0.843
 },
 {
 "comedian_id": "catherine-cohen",
-"sim": 0.729
+"sim": 0.731
 },
 {
 "comedian_id": "george-lopez",
@@ -2114,19 +2114,19 @@
 },
 {
 "comedian_id": "sarah-cooper",
-"sim": 0.731
+"sim": 0.732
 },
 {
 "comedian_id": "sam-jay",
-"sim": 0.707
-},
-{
-"comedian_id": "mo-amer",
-"sim": 0.694
+"sim": 0.709
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.694
+"sim": 0.698
+},
+{
+"comedian_id": "mo-amer",
+"sim": 0.692
 },
 {
 "comedian_id": "kate-berlant",
@@ -2134,21 +2134,21 @@
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.662
+"sim": 0.661
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.643
+"sim": 0.644
 }
 ],
 "fahim-anwar": [
 {
 "comedian_id": "christina-pazsitzky",
-"sim": 0.809
+"sim": 0.81
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.763
+"sim": 0.764
 },
 {
 "comedian_id": "dave-attell",
@@ -2156,7 +2156,7 @@
 },
 {
 "comedian_id": "ari-shaffir",
-"sim": 0.672
+"sim": 0.674
 },
 {
 "comedian_id": "nikki-glaser",
@@ -2172,7 +2172,7 @@
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.588
+"sim": 0.586
 }
 ],
 "fortune-feimster": [
@@ -2186,11 +2186,11 @@
 },
 {
 "comedian_id": "moses-storm",
-"sim": 0.708
+"sim": 0.709
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.7
+"sim": 0.701
 },
 {
 "comedian_id": "tiffany-haddish",
@@ -2198,11 +2198,11 @@
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.667
+"sim": 0.669
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.657
+"sim": 0.658
 },
 {
 "comedian_id": "t-j-miller",
@@ -2216,11 +2216,11 @@
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.823
+"sim": 0.821
 },
 {
 "comedian_id": "kevin-james",
-"sim": 0.763
+"sim": 0.765
 },
 {
 "comedian_id": "kate-berlant",
@@ -2228,7 +2228,7 @@
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.746
+"sim": 0.747
 },
 {
 "comedian_id": "sara-pascoe",
@@ -2240,17 +2240,17 @@
 },
 {
 "comedian_id": "sarah-cooper",
-"sim": 0.711
+"sim": 0.712
 }
 ],
 "gabriel-iglesias": [
 {
 "comedian_id": "bert-kreischer",
-"sim": 0.522
+"sim": 0.519
 },
 {
 "comedian_id": "jerry-seinfeld",
-"sim": 0.352
+"sim": 0.354
 },
 {
 "comedian_id": "kevin-hart",
@@ -2258,75 +2258,75 @@
 },
 {
 "comedian_id": "brian-regan",
-"sim": 0.293
+"sim": 0.296
 },
 {
 "comedian_id": "dave-attell",
-"sim": 0.248
+"sim": 0.249
 },
 {
 "comedian_id": "anthony-jeselnik",
-"sim": 0.232
+"sim": 0.234
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.224
+"sim": 0.221
 },
 {
 "comedian_id": "eddie-izzard",
-"sim": 0.191
+"sim": 0.19
 }
 ],
 "gary-gulman": [
 {
 "comedian_id": "robin-williams",
-"sim": 0.433
+"sim": 0.434
 },
 {
 "comedian_id": "demetri-martin",
-"sim": 0.414
+"sim": 0.413
 },
 {
 "comedian_id": "mitch-hedberg",
-"sim": 0.401
+"sim": 0.402
 },
 {
 "comedian_id": "brian-regan",
-"sim": 0.393
+"sim": 0.39
 },
 {
 "comedian_id": "rodney-dangerfield",
-"sim": 0.364
+"sim": 0.366
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.327
+"sim": 0.33
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.296
+"sim": 0.299
 },
 {
 "comedian_id": "steven-wright",
-"sim": 0.295
+"sim": 0.297
 }
 ],
 "george-carlin": [
 {
 "comedian_id": "lenny-bruce",
-"sim": 0.755
+"sim": 0.752
 },
 {
 "comedian_id": "jerry-seinfeld",
-"sim": 0.46
+"sim": 0.457
 },
 {
 "comedian_id": "matt-mccusker",
-"sim": 0.306
+"sim": 0.305
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.287
+"sim": 0.289
 },
 {
 "comedian_id": "trevor-noah",
@@ -2334,15 +2334,15 @@
 },
 {
 "comedian_id": "greg-giraldo",
-"sim": 0.259
-},
-{
-"comedian_id": "ali-wong",
-"sim": 0.249
+"sim": 0.258
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.247
+"sim": 0.249
+},
+{
+"comedian_id": "ali-wong",
+"sim": 0.245
 }
 ],
 "george-lopez": [
@@ -2352,7 +2352,7 @@
 },
 {
 "comedian_id": "nick-offerman",
-"sim": 0.838
+"sim": 0.839
 },
 {
 "comedian_id": "russell-brand",
@@ -2360,11 +2360,11 @@
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.727
+"sim": 0.728
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.723
+"sim": 0.724
 },
 {
 "comedian_id": "eric-andre",
@@ -2372,7 +2372,7 @@
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.704
+"sim": 0.705
 },
 {
 "comedian_id": "kevin-bridges",
@@ -2382,7 +2382,7 @@
 "greg-davies": [
 {
 "comedian_id": "sarah-millican",
-"sim": 0.853
+"sim": 0.855
 },
 {
 "comedian_id": "russell-howard",
@@ -2390,15 +2390,15 @@
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.726
+"sim": 0.728
 },
 {
 "comedian_id": "jack-whitehall",
-"sim": 0.689
+"sim": 0.69
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.675
+"sim": 0.677
 },
 {
 "comedian_id": "adel-karam",
@@ -2406,11 +2406,11 @@
 },
 {
 "comedian_id": "seth-meyers",
-"sim": 0.622
+"sim": 0.624
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.611
+"sim": 0.612
 }
 ],
 "greg-giraldo": [
@@ -2420,19 +2420,19 @@
 },
 {
 "comedian_id": "jim-norton",
-"sim": 0.57
+"sim": 0.571
 },
 {
 "comedian_id": "doug-stanhope",
-"sim": 0.381
+"sim": 0.382
 },
 {
 "comedian_id": "trevor-noah",
-"sim": 0.374
+"sim": 0.376
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.357
+"sim": 0.36
 },
 {
 "comedian_id": "shane-gillis",
@@ -2444,17 +2444,17 @@
 },
 {
 "comedian_id": "george-carlin",
-"sim": 0.259
+"sim": 0.258
 }
 ],
 "hannah-gadsby": [
 {
 "comedian_id": "mo-amer",
-"sim": 0.702
+"sim": 0.701
 },
 {
 "comedian_id": "katt-williams",
-"sim": 0.666
+"sim": 0.667
 },
 {
 "comedian_id": "kevin-bridges",
@@ -2466,87 +2466,87 @@
 },
 {
 "comedian_id": "kavin-jay",
-"sim": 0.595
+"sim": 0.592
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.548
+"sim": 0.549
 },
 {
 "comedian_id": "hasan-minhaj",
-"sim": 0.541
+"sim": 0.54
 },
 {
 "comedian_id": "fahim-anwar",
-"sim": 0.528
+"sim": 0.53
 }
 ],
 "hannibal-buress": [
 {
 "comedian_id": "tom-segura",
-"sim": 0.394
+"sim": 0.398
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.382
+"sim": 0.378
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.354
+"sim": 0.356
 },
 {
 "comedian_id": "steven-wright",
-"sim": 0.332
+"sim": 0.335
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.321
+"sim": 0.319
 },
 {
 "comedian_id": "nate-bargatze",
-"sim": 0.317
-},
-{
-"comedian_id": "jimmy-carr",
-"sim": 0.31
+"sim": 0.316
 },
 {
 "comedian_id": "mitch-hedberg",
-"sim": 0.309
+"sim": 0.31
+},
+{
+"comedian_id": "jimmy-carr",
+"sim": 0.308
 }
 ],
 "hans-kim": [
 {
 "comedian_id": "jim-jefferies",
-"sim": 0.7
+"sim": 0.699
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.313
+"sim": 0.312
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.3
+"sim": 0.295
 },
 {
 "comedian_id": "casey-rocket",
-"sim": 0.294
+"sim": 0.289
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.225
+"sim": 0.22
 },
 {
 "comedian_id": "chris-rock",
-"sim": 0.215
+"sim": 0.216
 },
 {
 "comedian_id": "lenny-bruce",
-"sim": 0.21
+"sim": 0.211
 },
 {
 "comedian_id": "cam-patterson",
-"sim": 0.199
+"sim": 0.198
 }
 ],
 "hasan-minhaj": [
@@ -2568,15 +2568,15 @@
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.607
+"sim": 0.608
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.602
+"sim": 0.604
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.582
+"sim": 0.583
 },
 {
 "comedian_id": "adam-devine",
@@ -2586,11 +2586,11 @@
 "henry-rollins": [
 {
 "comedian_id": "chelsea-handler",
-"sim": 0.722
+"sim": 0.723
 },
 {
 "comedian_id": "anjelah-johnson",
-"sim": 0.664
+"sim": 0.663
 },
 {
 "comedian_id": "jimmy-o-yang",
@@ -2598,7 +2598,7 @@
 },
 {
 "comedian_id": "fortune-feimster",
-"sim": 0.632
+"sim": 0.633
 },
 {
 "comedian_id": "adel-karam",
@@ -2606,21 +2606,21 @@
 },
 {
 "comedian_id": "tom-papa",
-"sim": 0.622
+"sim": 0.623
 },
 {
 "comedian_id": "kevin-bridges",
-"sim": 0.575
+"sim": 0.574
 },
 {
 "comedian_id": "seth-meyers",
-"sim": 0.555
+"sim": 0.556
 }
 ],
 "iliza-shlesinger": [
 {
 "comedian_id": "amy-schumer",
-"sim": 0.638
+"sim": 0.635
 },
 {
 "comedian_id": "kate-berlant",
@@ -2628,15 +2628,15 @@
 },
 {
 "comedian_id": "whitney-cummings",
-"sim": 0.584
+"sim": 0.585
 },
 {
 "comedian_id": "amanda-seales",
-"sim": 0.525
+"sim": 0.528
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.519
+"sim": 0.518
 },
 {
 "comedian_id": "anjelah-johnson",
@@ -2648,7 +2648,7 @@
 },
 {
 "comedian_id": "sarah-cooper",
-"sim": 0.457
+"sim": 0.456
 }
 ],
 "jack-whitehall": [
@@ -2666,11 +2666,11 @@
 },
 {
 "comedian_id": "greg-davies",
-"sim": 0.689
+"sim": 0.69
 },
 {
 "comedian_id": "russell-howard",
-"sim": 0.571
+"sim": 0.573
 },
 {
 "comedian_id": "jen-kirkman",
@@ -2678,25 +2678,25 @@
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.426
+"sim": 0.428
 },
 {
 "comedian_id": "tom-papa",
-"sim": 0.416
+"sim": 0.418
 }
 ],
 "james-acaster": [
 {
 "comedian_id": "john-mulaney",
-"sim": 0.829
+"sim": 0.83
 },
 {
 "comedian_id": "jim-jefferies",
-"sim": 0.372
+"sim": 0.374
 },
 {
 "comedian_id": "norm-macdonald",
-"sim": 0.328
+"sim": 0.326
 },
 {
 "comedian_id": "greg-giraldo",
@@ -2708,11 +2708,11 @@
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.25
+"sim": 0.251
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.242
+"sim": 0.241
 },
 {
 "comedian_id": "mark-normand",
@@ -2730,11 +2730,11 @@
 },
 {
 "comedian_id": "fortune-feimster",
-"sim": 0.578
+"sim": 0.577
 },
 {
 "comedian_id": "ray-romano",
-"sim": 0.57
+"sim": 0.572
 },
 {
 "comedian_id": "michelle-wolf",
@@ -2742,41 +2742,41 @@
 },
 {
 "comedian_id": "adam-sandler",
-"sim": 0.541
+"sim": 0.543
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.513
+"sim": 0.516
 },
 {
 "comedian_id": "hasan-minhaj",
-"sim": 0.503
+"sim": 0.504
 }
 ],
 "jen-kirkman": [
 {
 "comedian_id": "t-j-miller",
-"sim": 0.794
+"sim": 0.795
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.774
+"sim": 0.773
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.77
+"sim": 0.771
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.766
+"sim": 0.765
 },
 {
 "comedian_id": "seth-meyers",
-"sim": 0.73
+"sim": 0.731
 },
 {
 "comedian_id": "greg-davies",
-"sim": 0.726
+"sim": 0.728
 },
 {
 "comedian_id": "craig-ferguson",
@@ -2790,11 +2790,11 @@
 "jerrod-carmichael": [
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.735
+"sim": 0.736
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.699
+"sim": 0.7
 },
 {
 "comedian_id": "judah-friedlander",
@@ -2802,53 +2802,53 @@
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.664
+"sim": 0.665
 },
 {
 "comedian_id": "nikki-glaser",
-"sim": 0.531
+"sim": 0.53
 },
 {
 "comedian_id": "michelle-wolf",
-"sim": 0.527
+"sim": 0.526
 },
 {
 "comedian_id": "tig-notaro",
-"sim": 0.514
+"sim": 0.515
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.502
+"sim": 0.503
 }
 ],
 "jerry-seinfeld": [
 {
 "comedian_id": "demetri-martin",
-"sim": 0.505
+"sim": 0.499
 },
 {
 "comedian_id": "george-carlin",
-"sim": 0.46
+"sim": 0.457
 },
 {
 "comedian_id": "matt-mccusker",
-"sim": 0.355
+"sim": 0.354
 },
 {
 "comedian_id": "gabriel-iglesias",
-"sim": 0.352
+"sim": 0.354
 },
 {
 "comedian_id": "chris-rock",
-"sim": 0.295
+"sim": 0.296
 },
 {
 "comedian_id": "mitch-hedberg",
-"sim": 0.29
+"sim": 0.291
 },
 {
 "comedian_id": "ray-romano",
-"sim": 0.288
+"sim": 0.286
 },
 {
 "comedian_id": "lenny-bruce",
@@ -2858,41 +2858,41 @@
 "jim-gaffigan": [
 {
 "comedian_id": "aziz-ansari",
-"sim": 0.596
+"sim": 0.593
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.33
+"sim": 0.329
 },
 {
 "comedian_id": "tom-papa",
-"sim": 0.305
+"sim": 0.306
 },
 {
 "comedian_id": "stewart-lee",
-"sim": 0.295
+"sim": 0.296
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.281
+"sim": 0.278
 },
 {
 "comedian_id": "sara-pascoe",
-"sim": 0.264
+"sim": 0.265
 },
 {
 "comedian_id": "dan-soder",
-"sim": 0.258
+"sim": 0.262
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.249
+"sim": 0.252
 }
 ],
 "jim-jefferies": [
 {
 "comedian_id": "hans-kim",
-"sim": 0.7
+"sim": 0.699
 },
 {
 "comedian_id": "greg-giraldo",
@@ -2900,15 +2900,15 @@
 },
 {
 "comedian_id": "james-acaster",
-"sim": 0.372
+"sim": 0.374
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.36
+"sim": 0.364
 },
 {
 "comedian_id": "trevor-noah",
-"sim": 0.277
+"sim": 0.282
 },
 {
 "comedian_id": "lenny-bruce",
@@ -2916,33 +2916,33 @@
 },
 {
 "comedian_id": "neal-brennan",
-"sim": 0.246
+"sim": 0.242
 },
 {
 "comedian_id": "sebastian-maniscalco",
-"sim": 0.207
+"sim": 0.211
 }
 ],
 "jim-norton": [
 {
 "comedian_id": "greg-giraldo",
-"sim": 0.57
+"sim": 0.571
 },
 {
 "comedian_id": "bill-burr",
-"sim": 0.347
+"sim": 0.349
 },
 {
 "comedian_id": "doug-stanhope",
-"sim": 0.304
+"sim": 0.303
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.287
+"sim": 0.288
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.257
+"sim": 0.26
 },
 {
 "comedian_id": "rodney-dangerfield",
@@ -2950,7 +2950,7 @@
 },
 {
 "comedian_id": "whitney-cummings",
-"sim": 0.245
+"sim": 0.244
 },
 {
 "comedian_id": "chris-d-elia",
@@ -2960,15 +2960,15 @@
 "jimmy-carr": [
 {
 "comedian_id": "michael-che",
-"sim": 0.614
+"sim": 0.615
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.548
+"sim": 0.55
 },
 {
 "comedian_id": "tom-segura",
-"sim": 0.475
+"sim": 0.478
 },
 {
 "comedian_id": "anthony-jeselnik",
@@ -2976,7 +2976,7 @@
 },
 {
 "comedian_id": "demetri-martin",
-"sim": 0.424
+"sim": 0.42
 },
 {
 "comedian_id": "ricky-gervais",
@@ -2984,17 +2984,17 @@
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.31
+"sim": 0.308
 },
 {
 "comedian_id": "brian-regan",
-"sim": 0.289
+"sim": 0.287
 }
 ],
 "jimmy-o-yang": [
 {
 "comedian_id": "phil-wang",
-"sim": 0.902
+"sim": 0.901
 },
 {
 "comedian_id": "henry-rollins",
@@ -3010,15 +3010,15 @@
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.605
+"sim": 0.604
 },
 {
 "comedian_id": "roy-wood-jr",
-"sim": 0.566
+"sim": 0.567
 },
 {
 "comedian_id": "nikki-glaser",
-"sim": 0.545
+"sim": 0.546
 },
 {
 "comedian_id": "todd-glass",
@@ -3027,70 +3027,70 @@
 ],
 "jo-koy": [
 {
-"comedian_id": "eddie-murphy",
-"sim": 0.717
+"comedian_id": "sam-jay",
+"sim": 0.677
 },
 {
-"comedian_id": "sam-jay",
+"comedian_id": "george-lopez",
 "sim": 0.673
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.664
-},
-{
-"comedian_id": "george-lopez",
-"sim": 0.664
+"sim": 0.671
 },
 {
 "comedian_id": "brent-morin",
-"sim": 0.651
-},
-{
-"comedian_id": "michael-mcintyre",
-"sim": 0.627
+"sim": 0.657
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.614
+"sim": 0.631
+},
+{
+"comedian_id": "eddie-murphy",
+"sim": 0.63
+},
+{
+"comedian_id": "michael-mcintyre",
+"sim": 0.621
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.611
+"sim": 0.621
 }
 ],
 "joan-rivers": [
 {
 "comedian_id": "dylan-moran",
-"sim": 0.357
+"sim": 0.348
 },
 {
 "comedian_id": "rodney-dangerfield",
-"sim": 0.325
+"sim": 0.326
 },
 {
 "comedian_id": "ali-wong",
-"sim": 0.308
+"sim": 0.306
 },
 {
 "comedian_id": "ricky-gervais",
-"sim": 0.305
+"sim": 0.301
 },
 {
 "comedian_id": "michael-che",
-"sim": 0.265
+"sim": 0.272
 },
 {
 "comedian_id": "stewart-lee",
-"sim": 0.265
+"sim": 0.266
 },
 {
 "comedian_id": "andrew-schulz",
-"sim": 0.255
+"sim": 0.258
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.254
+"sim": 0.257
 }
 ],
 "joe-list": [
@@ -3104,19 +3104,19 @@
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.267
+"sim": 0.266
 },
 {
 "comedian_id": "ray-romano",
-"sim": 0.252
+"sim": 0.253
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.245
+"sim": 0.244
 },
 {
 "comedian_id": "sebastian-maniscalco",
-"sim": 0.232
+"sim": 0.233
 },
 {
 "comedian_id": "mark-normand",
@@ -3124,47 +3124,47 @@
 },
 {
 "comedian_id": "john-mulaney",
-"sim": 0.23
+"sim": 0.228
 }
 ],
 "joe-rogan": [
 {
 "comedian_id": "pete-holmes",
-"sim": 0.697
+"sim": 0.699
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.66
+"sim": 0.657
 },
 {
 "comedian_id": "lee-mack",
-"sim": 0.649
+"sim": 0.652
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.637
+"sim": 0.634
 },
 {
 "comedian_id": "dan-soder",
-"sim": 0.626
+"sim": 0.624
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.605
-},
-{
-"comedian_id": "ralphie-may",
-"sim": 0.596
+"sim": 0.62
 },
 {
 "comedian_id": "chris-d-elia",
-"sim": 0.594
+"sim": 0.596
+},
+{
+"comedian_id": "ralphie-may",
+"sim": 0.592
 }
 ],
 "john-mulaney": [
 {
 "comedian_id": "james-acaster",
-"sim": 0.829
+"sim": 0.83
 },
 {
 "comedian_id": "rodney-dangerfield",
@@ -3172,15 +3172,15 @@
 },
 {
 "comedian_id": "norm-macdonald",
-"sim": 0.285
+"sim": 0.286
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.275
+"sim": 0.279
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.266
+"sim": 0.269
 },
 {
 "comedian_id": "taylor-tomlinson",
@@ -3188,33 +3188,33 @@
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.248
+"sim": 0.247
 },
 {
 "comedian_id": "chris-rock",
-"sim": 0.236
+"sim": 0.237
 }
 ],
 "judah-friedlander": [
 {
 "comedian_id": "todd-glass",
-"sim": 0.87
+"sim": 0.871
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.843
+"sim": 0.844
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.774
+"sim": 0.772
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.766
+"sim": 0.765
 },
 {
 "comedian_id": "russell-brand",
-"sim": 0.725
+"sim": 0.726
 },
 {
 "comedian_id": "jerrod-carmichael",
@@ -3222,21 +3222,21 @@
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.678
+"sim": 0.679
 },
 {
 "comedian_id": "lewis-black",
-"sim": 0.675
+"sim": 0.677
 }
 ],
 "kate-berlant": [
 {
 "comedian_id": "sarah-cooper",
-"sim": 0.893
+"sim": 0.894
 },
 {
 "comedian_id": "anjelah-johnson",
-"sim": 0.859
+"sim": 0.858
 },
 {
 "comedian_id": "fred-armisen",
@@ -3247,11 +3247,11 @@
 "sim": 0.674
 },
 {
-"comedian_id": "maz-jobrani",
+"comedian_id": "amanda-seales",
 "sim": 0.654
 },
 {
-"comedian_id": "amanda-seales",
+"comedian_id": "maz-jobrani",
 "sim": 0.653
 },
 {
@@ -3266,23 +3266,23 @@
 "kathleen-madigan": [
 {
 "comedian_id": "russell-peters",
-"sim": 0.888
+"sim": 0.885
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.723
+"sim": 0.722
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.646
+"sim": 0.645
+},
+{
+"comedian_id": "michael-mcintyre",
+"sim": 0.588
 },
 {
 "comedian_id": "daniel-tosh",
 "sim": 0.584
-},
-{
-"comedian_id": "michael-mcintyre",
-"sim": 0.581
 },
 {
 "comedian_id": "judah-friedlander",
@@ -3290,7 +3290,7 @@
 },
 {
 "comedian_id": "lewis-black",
-"sim": 0.537
+"sim": 0.539
 },
 {
 "comedian_id": "russell-brand",
@@ -3300,31 +3300,31 @@
 "katt-williams": [
 {
 "comedian_id": "mo-amer",
-"sim": 0.766
+"sim": 0.769
 },
 {
 "comedian_id": "hannah-gadsby",
-"sim": 0.666
+"sim": 0.667
 },
 {
 "comedian_id": "sam-jay",
-"sim": 0.642
+"sim": 0.641
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.557
+"sim": 0.559
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.539
+"sim": 0.541
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.539
+"sim": 0.54
 },
 {
 "comedian_id": "brent-morin",
-"sim": 0.51
+"sim": 0.509
 },
 {
 "comedian_id": "george-lopez",
@@ -3334,15 +3334,15 @@
 "kavin-jay": [
 {
 "comedian_id": "brent-morin",
-"sim": 0.679
-},
-{
-"comedian_id": "hannah-gadsby",
-"sim": 0.595
+"sim": 0.68
 },
 {
 "comedian_id": "chelsea-handler",
-"sim": 0.59
+"sim": 0.592
+},
+{
+"comedian_id": "hannah-gadsby",
+"sim": 0.592
 },
 {
 "comedian_id": "sara-pascoe",
@@ -3350,11 +3350,11 @@
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.543
+"sim": 0.544
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.535
+"sim": 0.537
 },
 {
 "comedian_id": "seth-meyers",
@@ -3362,25 +3362,25 @@
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.5
+"sim": 0.501
 }
 ],
 "ken-jeong": [
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.819
+"sim": 0.82
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.767
+"sim": 0.768
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.764
+"sim": 0.763
 },
 {
 "comedian_id": "kevin-bridges",
-"sim": 0.744
+"sim": 0.743
 },
 {
 "comedian_id": "nick-offerman",
@@ -3388,15 +3388,15 @@
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.727
+"sim": 0.728
 },
 {
 "comedian_id": "russell-brand",
-"sim": 0.715
+"sim": 0.716
 },
 {
 "comedian_id": "joe-rogan",
-"sim": 0.66
+"sim": 0.657
 }
 ],
 "kevin-bridges": [
@@ -3414,15 +3414,15 @@
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.744
+"sim": 0.743
 },
 {
 "comedian_id": "nick-offerman",
-"sim": 0.741
+"sim": 0.743
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.706
+"sim": 0.708
 },
 {
 "comedian_id": "george-lopez",
@@ -3430,47 +3430,47 @@
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.674
+"sim": 0.672
 }
 ],
 "kevin-hart": [
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.554
+"sim": 0.555
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.537
+"sim": 0.538
 },
 {
 "comedian_id": "joe-rogan",
-"sim": 0.535
-},
-{
-"comedian_id": "lee-mack",
-"sim": 0.509
+"sim": 0.531
 },
 {
 "comedian_id": "billy-connolly",
-"sim": 0.501
+"sim": 0.506
+},
+{
+"comedian_id": "lee-mack",
+"sim": 0.506
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.49
+"sim": 0.496
 },
 {
 "comedian_id": "seth-meyers",
-"sim": 0.488
+"sim": 0.487
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.472
+"sim": 0.473
 }
 ],
 "kevin-james": [
 {
 "comedian_id": "nikki-glaser",
-"sim": 0.771
+"sim": 0.772
 },
 {
 "comedian_id": "dave-allen",
@@ -3478,27 +3478,27 @@
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.763
+"sim": 0.765
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.654
+"sim": 0.656
 },
 {
 "comedian_id": "pablo-francisco",
-"sim": 0.646
+"sim": 0.647
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.636
+"sim": 0.634
 },
 {
 "comedian_id": "ray-romano",
-"sim": 0.631
+"sim": 0.63
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.622
+"sim": 0.623
 }
 ],
 "kevin-smith": [
@@ -3508,11 +3508,11 @@
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.764
+"sim": 0.763
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.748
+"sim": 0.747
 },
 {
 "comedian_id": "russell-brand",
@@ -3520,7 +3520,7 @@
 },
 {
 "comedian_id": "nick-offerman",
-"sim": 0.735
+"sim": 0.734
 },
 {
 "comedian_id": "brent-morin",
@@ -3528,17 +3528,17 @@
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.704
+"sim": 0.705
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.645
+"sim": 0.644
 }
 ],
 "lee-mack": [
 {
 "comedian_id": "adel-karam",
-"sim": 0.703
+"sim": 0.701
 },
 {
 "comedian_id": "ron-white",
@@ -3546,33 +3546,33 @@
 },
 {
 "comedian_id": "joe-rogan",
-"sim": 0.649
+"sim": 0.652
 },
 {
 "comedian_id": "seth-meyers",
-"sim": 0.646
+"sim": 0.644
 },
 {
 "comedian_id": "russell-brand",
-"sim": 0.616
+"sim": 0.614
 },
 {
 "comedian_id": "greg-davies",
-"sim": 0.609
+"sim": 0.61
 },
 {
 "comedian_id": "chelsea-handler",
-"sim": 0.59
+"sim": 0.585
 },
 {
 "comedian_id": "chris-d-elia",
-"sim": 0.58
+"sim": 0.577
 }
 ],
 "lenny-bruce": [
 {
 "comedian_id": "george-carlin",
-"sim": 0.755
+"sim": 0.752
 },
 {
 "comedian_id": "chris-rock",
@@ -3580,7 +3580,7 @@
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.331
+"sim": 0.33
 },
 {
 "comedian_id": "bill-burr",
@@ -3588,7 +3588,7 @@
 },
 {
 "comedian_id": "ricky-gervais",
-"sim": 0.299
+"sim": 0.301
 },
 {
 "comedian_id": "jerry-seinfeld",
@@ -3596,7 +3596,7 @@
 },
 {
 "comedian_id": "trevor-noah",
-"sim": 0.265
+"sim": 0.268
 },
 {
 "comedian_id": "andrew-schulz",
@@ -3606,41 +3606,41 @@
 "lewis-black": [
 {
 "comedian_id": "al-madrigal",
-"sim": 0.758
+"sim": 0.759
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.675
+"sim": 0.677
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.672
-},
-{
-"comedian_id": "craig-ferguson",
-"sim": 0.659
+"sim": 0.669
 },
 {
 "comedian_id": "bill-maher",
-"sim": 0.657
+"sim": 0.662
 },
 {
 "comedian_id": "moses-storm",
-"sim": 0.657
+"sim": 0.658
+},
+{
+"comedian_id": "craig-ferguson",
+"sim": 0.658
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.621
+"sim": 0.623
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.601
+"sim": 0.602
 }
 ],
 "lisa-lampanelli": [
 {
 "comedian_id": "russell-brand",
-"sim": 0.817
+"sim": 0.818
 },
 {
 "comedian_id": "al-madrigal",
@@ -3648,26 +3648,26 @@
 },
 {
 "comedian_id": "nick-offerman",
-"sim": 0.778
+"sim": 0.779
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.75
+"sim": 0.751
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.723
+"sim": 0.724
 },
 {
 "comedian_id": "kevin-bridges",
-"sim": 0.706
-},
-{
-"comedian_id": "craig-ferguson",
-"sim": 0.639
+"sim": 0.708
 },
 {
 "comedian_id": "ken-jeong",
+"sim": 0.641
+},
+{
+"comedian_id": "craig-ferguson",
 "sim": 0.639
 }
 ],
@@ -3677,54 +3677,54 @@
 "sim": 0.515
 },
 {
-"comedian_id": "doug-stanhope",
-"sim": 0.422
-},
-{
 "comedian_id": "dylan-moran",
-"sim": 0.422
+"sim": 0.433
 },
 {
-"comedian_id": "dave-chappelle",
-"sim": 0.397
+"comedian_id": "doug-stanhope",
+"sim": 0.417
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.392
+"sim": 0.401
+},
+{
+"comedian_id": "dave-chappelle",
+"sim": 0.399
 },
 {
 "comedian_id": "matt-mccusker",
-"sim": 0.389
+"sim": 0.39
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.379
+"sim": 0.375
 },
 {
 "comedian_id": "chris-rock",
-"sim": 0.352
+"sim": 0.355
 }
 ],
 "marc-maron": [
 {
 "comedian_id": "taylor-tomlinson",
-"sim": 0.377
+"sim": 0.375
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.367
+"sim": 0.365
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.358
+"sim": 0.361
 },
 {
 "comedian_id": "reggie-watts",
-"sim": 0.338
+"sim": 0.337
 },
 {
 "comedian_id": "lee-mack",
-"sim": 0.306
+"sim": 0.307
 },
 {
 "comedian_id": "mike-birbiglia",
@@ -3732,17 +3732,17 @@
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.291
+"sim": 0.29
 },
 {
 "comedian_id": "dave-allen",
-"sim": 0.284
+"sim": 0.283
 }
 ],
 "maria-bamford": [
 {
 "comedian_id": "robin-williams",
-"sim": 0.503
+"sim": 0.5
 },
 {
 "comedian_id": "trevor-noah",
@@ -3750,61 +3750,61 @@
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.457
-},
-{
-"comedian_id": "dave-chappelle",
-"sim": 0.412
-},
-{
-"comedian_id": "eddie-izzard",
-"sim": 0.363
-},
-{
-"comedian_id": "taylor-tomlinson",
-"sim": 0.325
+"sim": 0.453
 },
 {
 "comedian_id": "eddie-murphy",
-"sim": 0.309
+"sim": 0.411
+},
+{
+"comedian_id": "dave-chappelle",
+"sim": 0.408
+},
+{
+"comedian_id": "eddie-izzard",
+"sim": 0.361
+},
+{
+"comedian_id": "taylor-tomlinson",
+"sim": 0.322
 },
 {
 "comedian_id": "bo-burnham",
-"sim": 0.253
+"sim": 0.247
 }
 ],
 "mark-normand": [
 {
 "comedian_id": "andrew-schulz",
-"sim": 0.619
+"sim": 0.62
 },
 {
 "comedian_id": "colin-quinn",
-"sim": 0.426
+"sim": 0.427
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.398
+"sim": 0.397
 },
 {
 "comedian_id": "william-montgomery",
-"sim": 0.38
+"sim": 0.376
 },
 {
 "comedian_id": "demetri-martin",
-"sim": 0.289
+"sim": 0.286
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.274
+"sim": 0.279
 },
 {
 "comedian_id": "bill-burr",
-"sim": 0.249
+"sim": 0.251
 },
 {
 "comedian_id": "norm-macdonald",
-"sim": 0.24
+"sim": 0.239
 }
 ],
 "marlon-wayans": [
@@ -3814,65 +3814,65 @@
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.673
+"sim": 0.675
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.653
+"sim": 0.651
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.632
+"sim": 0.633
 },
 {
 "comedian_id": "kevin-smith",
 "sim": 0.628
 },
 {
-"comedian_id": "erik-griffin",
-"sim": 0.611
+"comedian_id": "cedric-the-entertainer",
+"sim": 0.613
 },
 {
-"comedian_id": "cedric-the-entertainer",
-"sim": 0.61
+"comedian_id": "erik-griffin",
+"sim": 0.608
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.599
+"sim": 0.598
 }
 ],
 "matt-mccusker": [
 {
 "comedian_id": "louis-ck",
-"sim": 0.389
+"sim": 0.39
 },
 {
 "comedian_id": "whitney-cummings",
-"sim": 0.357
+"sim": 0.36
 },
 {
 "comedian_id": "jerry-seinfeld",
-"sim": 0.355
+"sim": 0.354
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.355
+"sim": 0.352
 },
 {
 "comedian_id": "george-carlin",
-"sim": 0.306
-},
-{
-"comedian_id": "demetri-martin",
-"sim": 0.303
+"sim": 0.305
 },
 {
 "comedian_id": "dylan-moran",
 "sim": 0.298
 },
 {
+"comedian_id": "demetri-martin",
+"sim": 0.297
+},
+{
 "comedian_id": "tom-segura",
-"sim": 0.292
+"sim": 0.296
 }
 ],
 "maz-jobrani": [
@@ -3882,11 +3882,11 @@
 },
 {
 "comedian_id": "cristela-alonzo",
-"sim": 0.825
+"sim": 0.826
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.823
+"sim": 0.821
 },
 {
 "comedian_id": "christina-pazsitzky",
@@ -3902,25 +3902,25 @@
 },
 {
 "comedian_id": "kate-berlant",
-"sim": 0.654
+"sim": 0.653
 },
 {
 "comedian_id": "kevin-james",
-"sim": 0.636
+"sim": 0.634
 }
 ],
 "michael-che": [
 {
 "comedian_id": "jimmy-carr",
-"sim": 0.614
+"sim": 0.615
 },
 {
 "comedian_id": "tom-segura",
-"sim": 0.584
+"sim": 0.578
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.554
+"sim": 0.552
 },
 {
 "comedian_id": "ricky-gervais",
@@ -3928,63 +3928,63 @@
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.376
+"sim": 0.379
 },
 {
 "comedian_id": "dick-gregory",
-"sim": 0.341
+"sim": 0.338
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.331
+"sim": 0.334
 },
 {
 "comedian_id": "william-montgomery",
-"sim": 0.322
+"sim": 0.327
 }
 ],
 "michael-mcintyre": [
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.8
+"sim": 0.81
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.768
+"sim": 0.769
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.702
+"sim": 0.709
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.673
+"sim": 0.678
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.641
+"sim": 0.65
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.637
+"sim": 0.639
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.627
+"sim": 0.621
 },
 {
-"comedian_id": "eddie-murphy",
-"sim": 0.606
+"comedian_id": "cristela-alonzo",
+"sim": 0.613
 }
 ],
 "michelle-wolf": [
 {
 "comedian_id": "pete-davidson",
-"sim": 0.718
+"sim": 0.72
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.678
+"sim": 0.677
 },
 {
 "comedian_id": "roy-wood-jr",
@@ -3996,11 +3996,11 @@
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.585
+"sim": 0.584
 },
 {
 "comedian_id": "hasan-minhaj",
-"sim": 0.564
+"sim": 0.565
 },
 {
 "comedian_id": "jeff-foxworthy",
@@ -4008,25 +4008,25 @@
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.531
+"sim": 0.532
 }
 ],
 "mike-birbiglia": [
 {
 "comedian_id": "theo-von",
-"sim": 0.36
+"sim": 0.357
 },
 {
 "comedian_id": "bill-hicks",
-"sim": 0.34
+"sim": 0.333
 },
 {
 "comedian_id": "norm-macdonald",
-"sim": 0.317
+"sim": 0.323
 },
 {
 "comedian_id": "katt-williams",
-"sim": 0.306
+"sim": 0.304
 },
 {
 "comedian_id": "marc-maron",
@@ -4034,49 +4034,49 @@
 },
 {
 "comedian_id": "neal-brennan",
-"sim": 0.29
+"sim": 0.284
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.264
+"sim": 0.261
 },
 {
 "comedian_id": "louis-ck",
-"sim": 0.262
+"sim": 0.251
 }
 ],
 "mike-epps": [
 {
 "comedian_id": "deray-davis",
-"sim": 0.8
+"sim": 0.798
 },
 {
 "comedian_id": "chris-tucker",
-"sim": 0.656
-},
-{
-"comedian_id": "kevin-smith",
-"sim": 0.539
+"sim": 0.657
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.535
+"sim": 0.542
+},
+{
+"comedian_id": "kevin-smith",
+"sim": 0.538
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.535
+"sim": 0.536
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.533
+"sim": 0.535
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.526
+"sim": 0.529
 },
 {
-"comedian_id": "marlon-wayans",
-"sim": 0.511
+"comedian_id": "amy-schumer",
+"sim": 0.512
 }
 ],
 "mitch-hedberg": [
@@ -4086,23 +4086,23 @@
 },
 {
 "comedian_id": "demetri-martin",
-"sim": 0.41
+"sim": 0.411
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.401
+"sim": 0.402
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.309
+"sim": 0.31
 },
 {
 "comedian_id": "jerry-seinfeld",
-"sim": 0.29
+"sim": 0.291
 },
 {
 "comedian_id": "tom-segura",
-"sim": 0.287
+"sim": 0.286
 },
 {
 "comedian_id": "matt-mccusker",
@@ -4116,15 +4116,15 @@
 "mo-amer": [
 {
 "comedian_id": "katt-williams",
-"sim": 0.766
+"sim": 0.769
 },
 {
 "comedian_id": "hannah-gadsby",
-"sim": 0.702
+"sim": 0.701
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.694
+"sim": 0.692
 },
 {
 "comedian_id": "brad-williams",
@@ -4132,15 +4132,15 @@
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.522
+"sim": 0.521
 },
 {
 "comedian_id": "sarah-cooper",
-"sim": 0.475
+"sim": 0.477
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.47
+"sim": 0.471
 },
 {
 "comedian_id": "marlon-wayans",
@@ -4154,31 +4154,31 @@
 },
 {
 "comedian_id": "fortune-feimster",
-"sim": 0.708
+"sim": 0.709
+},
+{
+"comedian_id": "dave-attell",
+"sim": 0.66
+},
+{
+"comedian_id": "lewis-black",
+"sim": 0.658
 },
 {
 "comedian_id": "hasan-minhaj",
 "sim": 0.658
 },
 {
-"comedian_id": "dave-attell",
-"sim": 0.658
-},
-{
-"comedian_id": "lewis-black",
-"sim": 0.657
-},
-{
 "comedian_id": "todd-barry",
-"sim": 0.638
+"sim": 0.637
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.596
+"sim": 0.598
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.585
+"sim": 0.587
 }
 ],
 "nate-bargatze": [
@@ -4188,19 +4188,19 @@
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.317
+"sim": 0.316
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.317
+"sim": 0.316
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.311
+"sim": 0.309
 },
 {
 "comedian_id": "brian-regan",
-"sim": 0.288
+"sim": 0.29
 },
 {
 "comedian_id": "ray-romano",
@@ -4218,35 +4218,35 @@
 "neal-brennan": [
 {
 "comedian_id": "taylor-tomlinson",
-"sim": 0.531
+"sim": 0.53
 },
 {
 "comedian_id": "chris-gethard",
-"sim": 0.331
+"sim": 0.33
 },
 {
 "comedian_id": "aziz-ansari",
-"sim": 0.321
+"sim": 0.32
 },
 {
 "comedian_id": "mike-birbiglia",
-"sim": 0.29
+"sim": 0.284
 },
 {
 "comedian_id": "jim-jefferies",
-"sim": 0.246
-},
-{
-"comedian_id": "maria-bamford",
 "sim": 0.242
 },
 {
+"comedian_id": "maria-bamford",
+"sim": 0.237
+},
+{
 "comedian_id": "jerrod-carmichael",
-"sim": 0.234
+"sim": 0.235
 },
 {
 "comedian_id": "sebastian-maniscalco",
-"sim": 0.232
+"sim": 0.229
 }
 ],
 "nick-offerman": [
@@ -4256,11 +4256,11 @@
 },
 {
 "comedian_id": "george-lopez",
-"sim": 0.838
+"sim": 0.839
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.778
+"sim": 0.779
 },
 {
 "comedian_id": "ralphie-may",
@@ -4268,7 +4268,7 @@
 },
 {
 "comedian_id": "kevin-bridges",
-"sim": 0.741
+"sim": 0.743
 },
 {
 "comedian_id": "ken-jeong",
@@ -4276,11 +4276,11 @@
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.735
+"sim": 0.734
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.577
+"sim": 0.579
 }
 ],
 "nikki-glaser": [
@@ -4294,11 +4294,11 @@
 },
 {
 "comedian_id": "kevin-james",
-"sim": 0.771
+"sim": 0.772
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.696
+"sim": 0.697
 },
 {
 "comedian_id": "hasan-minhaj",
@@ -4314,97 +4314,97 @@
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.626
+"sim": 0.628
 }
 ],
 "norm-macdonald": [
 {
 "comedian_id": "eddie-izzard",
-"sim": 0.406
+"sim": 0.405
 },
 {
 "comedian_id": "james-acaster",
-"sim": 0.328
+"sim": 0.326
 },
 {
 "comedian_id": "mike-birbiglia",
-"sim": 0.317
+"sim": 0.323
 },
 {
 "comedian_id": "john-mulaney",
-"sim": 0.285
+"sim": 0.286
 },
 {
 "comedian_id": "deray-davis",
-"sim": 0.278
+"sim": 0.277
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.26
+"sim": 0.255
 },
 {
 "comedian_id": "michael-che",
-"sim": 0.251
+"sim": 0.243
 },
 {
-"comedian_id": "louis-ck",
-"sim": 0.246
+"comedian_id": "mark-normand",
+"sim": 0.239
 }
 ],
 "pablo-francisco": [
 {
 "comedian_id": "reggie-watts",
-"sim": 0.845
+"sim": 0.846
 },
 {
 "comedian_id": "kevin-james",
-"sim": 0.646
+"sim": 0.647
 },
 {
 "comedian_id": "bridget-everett",
-"sim": 0.634
+"sim": 0.632
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.629
+"sim": 0.628
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.602
+"sim": 0.603
 },
 {
 "comedian_id": "nikki-glaser",
-"sim": 0.6
+"sim": 0.601
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.576
+"sim": 0.575
 },
 {
 "comedian_id": "anjelah-johnson",
-"sim": 0.563
+"sim": 0.562
 }
 ],
 "patrice-o-neal": [
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.614
+"sim": 0.616
 },
 {
 "comedian_id": "catherine-cohen",
-"sim": 0.55
+"sim": 0.551
 },
 {
 "comedian_id": "enissa-amani",
-"sim": 0.547
+"sim": 0.544
 },
 {
 "comedian_id": "cristela-alonzo",
-"sim": 0.545
+"sim": 0.539
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.484
+"sim": 0.479
 },
 {
 "comedian_id": "dick-gregory",
@@ -4412,17 +4412,17 @@
 },
 {
 "comedian_id": "nick-offerman",
-"sim": 0.423
+"sim": 0.421
 },
 {
-"comedian_id": "dave-allen",
-"sim": 0.384
+"comedian_id": "christina-pazsitzky",
+"sim": 0.381
 }
 ],
 "patton-oswalt": [
 {
 "comedian_id": "taylor-tomlinson",
-"sim": 0.514
+"sim": 0.516
 },
 {
 "comedian_id": "trevor-noah",
@@ -4430,27 +4430,27 @@
 },
 {
 "comedian_id": "adam-sandler",
-"sim": 0.377
+"sim": 0.382
 },
 {
 "comedian_id": "ricky-gervais",
-"sim": 0.35
+"sim": 0.353
 },
 {
 "comedian_id": "bo-burnham",
-"sim": 0.319
+"sim": 0.32
 },
 {
 "comedian_id": "bert-kreischer",
-"sim": 0.263
+"sim": 0.26
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.252
+"sim": 0.251
 },
 {
-"comedian_id": "michael-che",
-"sim": 0.239
+"comedian_id": "doug-stanhope",
+"sim": 0.236
 }
 ],
 "paul-mooney": [
@@ -4460,15 +4460,15 @@
 },
 {
 "comedian_id": "amanda-seales",
-"sim": 0.754
+"sim": 0.753
 },
 {
 "comedian_id": "dick-gregory",
-"sim": 0.57
+"sim": 0.571
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.566
+"sim": 0.568
 },
 {
 "comedian_id": "big-jay-oakerson",
@@ -4476,7 +4476,7 @@
 },
 {
 "comedian_id": "cedric-the-entertainer",
-"sim": 0.508
+"sim": 0.51
 },
 {
 "comedian_id": "deray-davis",
@@ -4490,11 +4490,11 @@
 "pete-davidson": [
 {
 "comedian_id": "michelle-wolf",
-"sim": 0.718
+"sim": 0.72
 },
 {
 "comedian_id": "vir-das",
-"sim": 0.693
+"sim": 0.697
 },
 {
 "comedian_id": "dana-carvey",
@@ -4502,15 +4502,15 @@
 },
 {
 "comedian_id": "roy-wood-jr",
-"sim": 0.688
+"sim": 0.69
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.571
+"sim": 0.572
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.537
+"sim": 0.538
 },
 {
 "comedian_id": "sarah-cooper",
@@ -4518,7 +4518,7 @@
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.49
+"sim": 0.494
 }
 ],
 "pete-holmes": [
@@ -4528,19 +4528,19 @@
 },
 {
 "comedian_id": "fortune-feimster",
-"sim": 0.7
+"sim": 0.701
 },
 {
 "comedian_id": "joe-rogan",
-"sim": 0.697
+"sim": 0.699
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.664
+"sim": 0.671
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.658
+"sim": 0.661
 },
 {
 "comedian_id": "eric-andre",
@@ -4552,33 +4552,33 @@
 },
 {
 "comedian_id": "tiffany-haddish",
-"sim": 0.609
+"sim": 0.61
 }
 ],
 "phil-wang": [
 {
 "comedian_id": "jimmy-o-yang",
-"sim": 0.902
+"sim": 0.901
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.552
+"sim": 0.549
 },
 {
 "comedian_id": "fahim-anwar",
-"sim": 0.495
+"sim": 0.496
 },
 {
 "comedian_id": "roy-wood-jr",
-"sim": 0.475
+"sim": 0.476
 },
 {
 "comedian_id": "henry-rollins",
-"sim": 0.471
+"sim": 0.469
 },
 {
 "comedian_id": "nikki-glaser",
-"sim": 0.446
+"sim": 0.447
 },
 {
 "comedian_id": "anjelah-johnson",
@@ -4586,7 +4586,7 @@
 },
 {
 "comedian_id": "todd-barry",
-"sim": 0.404
+"sim": 0.402
 }
 ],
 "ralphie-may": [
@@ -4600,7 +4600,7 @@
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.767
+"sim": 0.768
 },
 {
 "comedian_id": "nick-offerman",
@@ -4612,29 +4612,29 @@
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.75
+"sim": 0.751
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.748
+"sim": 0.747
 },
 {
 "comedian_id": "brent-morin",
-"sim": 0.687
+"sim": 0.686
 }
 ],
 "ramy-youssef": [
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.843
+"sim": 0.844
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.755
+"sim": 0.756
 },
 {
 "comedian_id": "jerrod-carmichael",
-"sim": 0.735
+"sim": 0.736
 },
 {
 "comedian_id": "jen-kirkman",
@@ -4642,11 +4642,11 @@
 },
 {
 "comedian_id": "nikki-glaser",
-"sim": 0.696
+"sim": 0.697
 },
 {
 "comedian_id": "michelle-wolf",
-"sim": 0.678
+"sim": 0.677
 },
 {
 "comedian_id": "sara-pascoe",
@@ -4654,51 +4654,51 @@
 },
 {
 "comedian_id": "russell-brand",
-"sim": 0.629
+"sim": 0.63
 }
 ],
 "ray-romano": [
 {
 "comedian_id": "kevin-james",
-"sim": 0.631
+"sim": 0.63
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.576
+"sim": 0.577
 },
 {
 "comedian_id": "jeff-foxworthy",
-"sim": 0.57
+"sim": 0.572
 },
 {
 "comedian_id": "dave-allen",
-"sim": 0.553
+"sim": 0.55
 },
 {
 "comedian_id": "henry-rollins",
-"sim": 0.545
+"sim": 0.547
 },
 {
 "comedian_id": "anjelah-johnson",
-"sim": 0.542
+"sim": 0.543
 },
 {
 "comedian_id": "tom-papa",
-"sim": 0.504
+"sim": 0.507
 },
 {
 "comedian_id": "dana-carvey",
-"sim": 0.499
+"sim": 0.5
 }
 ],
 "reggie-watts": [
 {
 "comedian_id": "pablo-francisco",
-"sim": 0.845
+"sim": 0.846
 },
 {
 "comedian_id": "bridget-everett",
-"sim": 0.752
+"sim": 0.755
 },
 {
 "comedian_id": "george-lopez",
@@ -4706,49 +4706,49 @@
 },
 {
 "comedian_id": "kevin-james",
-"sim": 0.595
+"sim": 0.597
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.576
+"sim": 0.578
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.552
+"sim": 0.553
 },
 {
 "comedian_id": "nick-offerman",
-"sim": 0.507
+"sim": 0.506
 },
 {
-"comedian_id": "maz-jobrani",
+"comedian_id": "brad-williams",
 "sim": 0.504
 }
 ],
 "richard-pryor": [
 {
 "comedian_id": "dave-chappelle",
-"sim": 0.745
+"sim": 0.746
 },
 {
 "comedian_id": "maria-bamford",
-"sim": 0.457
+"sim": 0.453
 },
 {
 "comedian_id": "bert-kreischer",
-"sim": 0.394
+"sim": 0.396
 },
 {
 "comedian_id": "anthony-jeselnik",
-"sim": 0.382
+"sim": 0.384
 },
 {
 "comedian_id": "michael-che",
-"sim": 0.376
+"sim": 0.379
 },
 {
 "comedian_id": "marc-maron",
-"sim": 0.358
+"sim": 0.361
 },
 {
 "comedian_id": "william-montgomery",
@@ -4756,7 +4756,7 @@
 },
 {
 "comedian_id": "robin-williams",
-"sim": 0.345
+"sim": 0.342
 }
 ],
 "ricky-gervais": [
@@ -4766,11 +4766,11 @@
 },
 {
 "comedian_id": "trevor-noah",
-"sim": 0.475
+"sim": 0.474
 },
 {
 "comedian_id": "patton-oswalt",
-"sim": 0.35
+"sim": 0.353
 },
 {
 "comedian_id": "jimmy-carr",
@@ -4778,97 +4778,97 @@
 },
 {
 "comedian_id": "demetri-martin",
-"sim": 0.339
+"sim": 0.335
 },
 {
 "comedian_id": "joan-rivers",
-"sim": 0.305
+"sim": 0.301
 },
 {
 "comedian_id": "lenny-bruce",
-"sim": 0.299
+"sim": 0.301
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.267
+"sim": 0.266
 }
 ],
 "rob-schneider": [
 {
 "comedian_id": "emily-heller",
-"sim": 0.803
+"sim": 0.805
 },
 {
 "comedian_id": "tiffany-haddish",
-"sim": 0.757
+"sim": 0.759
 },
 {
 "comedian_id": "chris-d-elia",
-"sim": 0.709
+"sim": 0.708
 },
 {
 "comedian_id": "sam-morril",
-"sim": 0.7
+"sim": 0.703
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.685
+"sim": 0.687
+},
+{
+"comedian_id": "george-lopez",
+"sim": 0.581
 },
 {
 "comedian_id": "eric-andre",
 "sim": 0.579
 },
 {
-"comedian_id": "george-lopez",
-"sim": 0.579
-},
-{
 "comedian_id": "drew-michael",
-"sim": 0.575
+"sim": 0.578
 }
 ],
 "robin-williams": [
 {
 "comedian_id": "casey-rocket",
-"sim": 0.553
+"sim": 0.554
 },
 {
 "comedian_id": "maria-bamford",
-"sim": 0.503
+"sim": 0.5
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.433
+"sim": 0.434
 },
 {
 "comedian_id": "bert-kreischer",
-"sim": 0.353
+"sim": 0.352
 },
 {
 "comedian_id": "richard-pryor",
-"sim": 0.345
-},
-{
-"comedian_id": "dave-chappelle",
-"sim": 0.312
+"sim": 0.342
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.309
+"sim": 0.311
+},
+{
+"comedian_id": "dave-chappelle",
+"sim": 0.31
 },
 {
 "comedian_id": "william-montgomery",
-"sim": 0.294
+"sim": 0.289
 }
 ],
 "rodney-dangerfield": [
 {
 "comedian_id": "ali-wong",
-"sim": 0.569
+"sim": 0.571
 },
 {
 "comedian_id": "bill-burr",
-"sim": 0.429
+"sim": 0.427
 },
 {
 "comedian_id": "john-mulaney",
@@ -4876,19 +4876,19 @@
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.364
+"sim": 0.366
 },
 {
 "comedian_id": "joan-rivers",
-"sim": 0.325
+"sim": 0.326
 },
 {
 "comedian_id": "taylor-tomlinson",
-"sim": 0.27
+"sim": 0.266
 },
 {
 "comedian_id": "jimmy-carr",
-"sim": 0.256
+"sim": 0.259
 },
 {
 "comedian_id": "jim-norton",
@@ -4902,27 +4902,27 @@
 },
 {
 "comedian_id": "kevin-smith",
-"sim": 0.599
+"sim": 0.598
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.593
+"sim": 0.592
 },
 {
 "comedian_id": "seth-meyers",
-"sim": 0.58
+"sim": 0.581
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.549
+"sim": 0.557
 },
 {
 "comedian_id": "eddie-griffin",
-"sim": 0.548
+"sim": 0.553
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.54
+"sim": 0.541
 },
 {
 "comedian_id": "ari-shaffir",
@@ -4932,11 +4932,11 @@
 "ronny-chieng": [
 {
 "comedian_id": "urzila-carlson",
-"sim": 0.876
+"sim": 0.877
 },
 {
 "comedian_id": "eric-andre",
-"sim": 0.842
+"sim": 0.843
 },
 {
 "comedian_id": "catherine-cohen",
@@ -4944,7 +4944,7 @@
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.748
+"sim": 0.749
 },
 {
 "comedian_id": "emily-heller",
@@ -4952,7 +4952,7 @@
 },
 {
 "comedian_id": "drew-michael",
-"sim": 0.633
+"sim": 0.634
 },
 {
 "comedian_id": "sarah-cooper",
@@ -4960,17 +4960,17 @@
 },
 {
 "comedian_id": "tig-notaro",
-"sim": 0.568
+"sim": 0.569
 }
 ],
 "roy-wood-jr": [
 {
 "comedian_id": "pete-davidson",
-"sim": 0.688
+"sim": 0.69
 },
 {
 "comedian_id": "vir-das",
-"sim": 0.664
+"sim": 0.663
 },
 {
 "comedian_id": "michelle-wolf",
@@ -4978,7 +4978,7 @@
 },
 {
 "comedian_id": "jimmy-o-yang",
-"sim": 0.566
+"sim": 0.567
 },
 {
 "comedian_id": "lewis-black",
@@ -4986,15 +4986,15 @@
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.546
+"sim": 0.542
 },
 {
 "comedian_id": "amanda-seales",
-"sim": 0.523
+"sim": 0.524
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.511
+"sim": 0.512
 }
 ],
 "russell-brand": [
@@ -5004,7 +5004,7 @@
 },
 {
 "comedian_id": "lisa-lampanelli",
-"sim": 0.817
+"sim": 0.818
 },
 {
 "comedian_id": "george-lopez",
@@ -5024,11 +5024,11 @@
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.725
+"sim": 0.726
 },
 {
 "comedian_id": "ken-jeong",
-"sim": 0.715
+"sim": 0.716
 }
 ],
 "russell-howard": [
@@ -5038,53 +5038,53 @@
 },
 {
 "comedian_id": "sarah-millican",
-"sim": 0.729
+"sim": 0.732
 },
 {
 "comedian_id": "billy-connolly",
-"sim": 0.68
+"sim": 0.677
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.667
+"sim": 0.669
 },
 {
 "comedian_id": "jack-whitehall",
-"sim": 0.571
+"sim": 0.573
 },
 {
 "comedian_id": "t-j-miller",
-"sim": 0.567
+"sim": 0.569
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.515
+"sim": 0.517
 },
 {
 "comedian_id": "kevin-bridges",
-"sim": 0.509
+"sim": 0.51
 }
 ],
 "russell-peters": [
 {
 "comedian_id": "kathleen-madigan",
-"sim": 0.888
+"sim": 0.885
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.585
+"sim": 0.579
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.548
+"sim": 0.549
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.529
+"sim": 0.533
 },
 {
 "comedian_id": "lewis-black",
-"sim": 0.478
+"sim": 0.484
 },
 {
 "comedian_id": "russell-brand",
@@ -5092,45 +5092,45 @@
 },
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.468
+"sim": 0.47
 },
 {
 "comedian_id": "colin-quinn",
-"sim": 0.456
+"sim": 0.454
 }
 ],
 "sam-jay": [
 {
 "comedian_id": "erik-griffin",
-"sim": 0.707
+"sim": 0.709
 },
 {
 "comedian_id": "jo-koy",
-"sim": 0.673
+"sim": 0.677
 },
 {
 "comedian_id": "brent-morin",
-"sim": 0.662
+"sim": 0.664
 },
 {
 "comedian_id": "katt-williams",
-"sim": 0.642
+"sim": 0.641
 },
 {
 "comedian_id": "arsenio-hall",
-"sim": 0.626
+"sim": 0.623
 },
 {
 "comedian_id": "big-jay-oakerson",
-"sim": 0.614
+"sim": 0.613
 },
 {
 "comedian_id": "ralphie-may",
-"sim": 0.607
+"sim": 0.606
 },
 {
-"comedian_id": "eddie-murphy",
-"sim": 0.58
+"comedian_id": "deray-davis",
+"sim": 0.56
 }
 ],
 "sam-morril": [
@@ -5140,11 +5140,11 @@
 },
 {
 "comedian_id": "tiffany-haddish",
-"sim": 0.776
+"sim": 0.777
 },
 {
 "comedian_id": "rob-schneider",
-"sim": 0.7
+"sim": 0.703
 },
 {
 "comedian_id": "tig-notaro",
@@ -5164,13 +5164,13 @@
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.549
+"sim": 0.55
 }
 ],
 "sara-pascoe": [
 {
 "comedian_id": "david-cross",
-"sim": 0.77
+"sim": 0.767
 },
 {
 "comedian_id": "fred-armisen",
@@ -5185,26 +5185,26 @@
 "sim": 0.631
 },
 {
-"comedian_id": "andy-woodhull",
-"sim": 0.625
-},
-{
 "comedian_id": "maz-jobrani",
 "sim": 0.625
 },
 {
+"comedian_id": "andy-woodhull",
+"sim": 0.625
+},
+{
 "comedian_id": "todd-glass",
-"sim": 0.597
+"sim": 0.599
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.581
+"sim": 0.582
 }
 ],
 "sarah-cooper": [
 {
 "comedian_id": "kate-berlant",
-"sim": 0.893
+"sim": 0.894
 },
 {
 "comedian_id": "anjelah-johnson",
@@ -5212,19 +5212,19 @@
 },
 {
 "comedian_id": "erik-griffin",
-"sim": 0.731
+"sim": 0.732
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.711
+"sim": 0.712
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.66
+"sim": 0.661
 },
 {
 "comedian_id": "brad-williams",
-"sim": 0.638
+"sim": 0.639
 },
 {
 "comedian_id": "amanda-seales",
@@ -5232,7 +5232,7 @@
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.617
+"sim": 0.614
 }
 ],
 "sarah-millican": [
@@ -5242,11 +5242,11 @@
 },
 {
 "comedian_id": "greg-davies",
-"sim": 0.853
+"sim": 0.855
 },
 {
 "comedian_id": "russell-howard",
-"sim": 0.729
+"sim": 0.732
 },
 {
 "comedian_id": "bill-maher",
@@ -5262,7 +5262,7 @@
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.607
+"sim": 0.608
 },
 {
 "comedian_id": "seth-meyers",
@@ -5272,11 +5272,11 @@
 "sarah-silverman": [
 {
 "comedian_id": "michael-che",
-"sim": 0.554
+"sim": 0.552
 },
 {
 "comedian_id": "jimmy-carr",
-"sim": 0.548
+"sim": 0.55
 },
 {
 "comedian_id": "brian-regan",
@@ -5284,37 +5284,37 @@
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.354
+"sim": 0.356
 },
 {
 "comedian_id": "doug-stanhope",
-"sim": 0.336
+"sim": 0.335
 },
 {
 "comedian_id": "robin-williams",
-"sim": 0.309
+"sim": 0.311
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.293
+"sim": 0.294
 },
 {
 "comedian_id": "tom-segura",
-"sim": 0.291
+"sim": 0.289
 }
 ],
 "sean-lock": [
 {
 "comedian_id": "ali-wong",
-"sim": 0.53
+"sim": 0.528
 },
 {
 "comedian_id": "sebastian-maniscalco",
-"sim": 0.447
+"sim": 0.446
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.414
+"sim": 0.413
 },
 {
 "comedian_id": "ray-romano",
@@ -5322,29 +5322,29 @@
 },
 {
 "comedian_id": "demetri-martin",
-"sim": 0.385
+"sim": 0.388
 },
 {
 "comedian_id": "dylan-moran",
-"sim": 0.378
+"sim": 0.382
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.296
+"sim": 0.299
 },
 {
 "comedian_id": "joe-list",
-"sim": 0.267
+"sim": 0.266
 }
 ],
 "sebastian-maniscalco": [
 {
 "comedian_id": "dylan-moran",
-"sim": 0.577
+"sim": 0.576
 },
 {
 "comedian_id": "sean-lock",
-"sim": 0.447
+"sim": 0.446
 },
 {
 "comedian_id": "aziz-ansari",
@@ -5356,33 +5356,33 @@
 },
 {
 "comedian_id": "brian-regan",
-"sim": 0.257
+"sim": 0.26
 },
 {
 "comedian_id": "marc-maron",
-"sim": 0.241
+"sim": 0.239
 },
 {
 "comedian_id": "doug-stanhope",
-"sim": 0.235
+"sim": 0.236
 },
 {
-"comedian_id": "neal-brennan",
-"sim": 0.232
+"comedian_id": "joe-list",
+"sim": 0.233
 }
 ],
 "seth-meyers": [
 {
 "comedian_id": "andy-woodhull",
-"sim": 0.884
+"sim": 0.885
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.833
+"sim": 0.835
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.73
+"sim": 0.731
 },
 {
 "comedian_id": "t-j-miller",
@@ -5390,53 +5390,53 @@
 },
 {
 "comedian_id": "chelsea-handler",
-"sim": 0.68
+"sim": 0.682
 },
 {
 "comedian_id": "lee-mack",
-"sim": 0.646
-},
-{
-"comedian_id": "kevin-smith",
 "sim": 0.644
 },
 {
-"comedian_id": "russell-brand",
-"sim": 0.622
+"comedian_id": "kevin-smith",
+"sim": 0.643
+},
+{
+"comedian_id": "greg-davies",
+"sim": 0.624
 }
 ],
 "shane-gillis": [
 {
 "comedian_id": "mark-normand",
-"sim": 0.398
+"sim": 0.397
 },
 {
 "comedian_id": "theo-von",
-"sim": 0.376
+"sim": 0.377
 },
 {
 "comedian_id": "matt-mccusker",
-"sim": 0.355
+"sim": 0.352
 },
 {
 "comedian_id": "ali-wong",
-"sim": 0.347
+"sim": 0.344
+},
+{
+"comedian_id": "michael-che",
+"sim": 0.334
 },
 {
 "comedian_id": "bill-burr",
 "sim": 0.332
 },
 {
-"comedian_id": "michael-che",
-"sim": 0.331
-},
-{
 "comedian_id": "hannibal-buress",
-"sim": 0.321
+"sim": 0.319
 },
 {
-"comedian_id": "bo-burnham",
-"sim": 0.302
+"comedian_id": "chris-d-elia",
+"sim": 0.301
 }
 ],
 "steven-wright": [
@@ -5446,19 +5446,19 @@
 },
 {
 "comedian_id": "tom-segura",
-"sim": 0.378
+"sim": 0.376
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.332
+"sim": 0.335
 },
 {
 "comedian_id": "demetri-martin",
-"sim": 0.318
+"sim": 0.319
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.295
+"sim": 0.297
 },
 {
 "comedian_id": "matt-mccusker",
@@ -5466,21 +5466,21 @@
 },
 {
 "comedian_id": "jimmy-carr",
-"sim": 0.182
+"sim": 0.185
 },
 {
 "comedian_id": "jerry-seinfeld",
-"sim": 0.181
+"sim": 0.182
 }
 ],
 "stewart-lee": [
 {
 "comedian_id": "bill-hicks",
-"sim": 0.552
+"sim": 0.554
 },
 {
 "comedian_id": "bo-burnham",
-"sim": 0.54
+"sim": 0.528
 },
 {
 "comedian_id": "andrew-schulz",
@@ -5488,29 +5488,29 @@
 },
 {
 "comedian_id": "trevor-noah",
-"sim": 0.335
+"sim": 0.334
 },
 {
 "comedian_id": "jim-gaffigan",
-"sim": 0.295
+"sim": 0.296
 },
 {
 "comedian_id": "joan-rivers",
-"sim": 0.265
+"sim": 0.266
 },
 {
 "comedian_id": "donald-glover",
-"sim": 0.241
+"sim": 0.243
 },
 {
 "comedian_id": "lenny-bruce",
-"sim": 0.231
+"sim": 0.229
 }
 ],
 "t-j-miller": [
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.794
+"sim": 0.795
 },
 {
 "comedian_id": "nikki-glaser",
@@ -5526,7 +5526,7 @@
 },
 {
 "comedian_id": "adel-karam",
-"sim": 0.724
+"sim": 0.727
 },
 {
 "comedian_id": "christina-pazsitzky",
@@ -5534,29 +5534,29 @@
 },
 {
 "comedian_id": "greg-davies",
-"sim": 0.675
+"sim": 0.677
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.675
+"sim": 0.674
 }
 ],
 "taylor-tomlinson": [
 {
 "comedian_id": "neal-brennan",
-"sim": 0.531
+"sim": 0.53
 },
 {
 "comedian_id": "patton-oswalt",
-"sim": 0.514
+"sim": 0.516
 },
 {
 "comedian_id": "marc-maron",
-"sim": 0.377
+"sim": 0.375
 },
 {
 "comedian_id": "maria-bamford",
-"sim": 0.325
+"sim": 0.322
 },
 {
 "comedian_id": "joe-list",
@@ -5564,11 +5564,11 @@
 },
 {
 "comedian_id": "rodney-dangerfield",
-"sim": 0.27
+"sim": 0.266
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.266
+"sim": 0.265
 },
 {
 "comedian_id": "john-mulaney",
@@ -5578,41 +5578,41 @@
 "theo-von": [
 {
 "comedian_id": "sean-lock",
-"sim": 0.414
-},
-{
-"comedian_id": "louis-ck",
-"sim": 0.379
+"sim": 0.413
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.376
+"sim": 0.377
+},
+{
+"comedian_id": "louis-ck",
+"sim": 0.375
 },
 {
 "comedian_id": "mike-birbiglia",
-"sim": 0.36
+"sim": 0.357
 },
 {
 "comedian_id": "emo-philips",
-"sim": 0.328
+"sim": 0.332
 },
 {
 "comedian_id": "gary-gulman",
-"sim": 0.327
+"sim": 0.33
 },
 {
 "comedian_id": "nate-bargatze",
-"sim": 0.311
+"sim": 0.309
 },
 {
 "comedian_id": "hans-kim",
-"sim": 0.3
+"sim": 0.295
 }
 ],
 "tiffany-haddish": [
 {
 "comedian_id": "sam-morril",
-"sim": 0.776
+"sim": 0.777
 },
 {
 "comedian_id": "emily-heller",
@@ -5620,11 +5620,11 @@
 },
 {
 "comedian_id": "rob-schneider",
-"sim": 0.757
+"sim": 0.759
 },
 {
 "comedian_id": "chris-d-elia",
-"sim": 0.75
+"sim": 0.751
 },
 {
 "comedian_id": "fortune-feimster",
@@ -5632,14 +5632,14 @@
 },
 {
 "comedian_id": "pete-holmes",
-"sim": 0.609
+"sim": 0.61
 },
 {
 "comedian_id": "adam-devine",
-"sim": 0.587
+"sim": 0.586
 },
 {
-"comedian_id": "tig-notaro",
+"comedian_id": "brad-williams",
 "sim": 0.576
 }
 ],
@@ -5650,7 +5650,7 @@
 },
 {
 "comedian_id": "fred-armisen",
-"sim": 0.643
+"sim": 0.644
 },
 {
 "comedian_id": "jen-kirkman",
@@ -5670,11 +5670,11 @@
 },
 {
 "comedian_id": "ronny-chieng",
-"sim": 0.568
+"sim": 0.569
 },
 {
 "comedian_id": "drew-michael",
-"sim": 0.566
+"sim": 0.567
 }
 ],
 "todd-barry": [
@@ -5688,23 +5688,23 @@
 },
 {
 "comedian_id": "moses-storm",
-"sim": 0.638
+"sim": 0.637
 },
 {
 "comedian_id": "nikki-glaser",
 "sim": 0.62
 },
 {
+"comedian_id": "lewis-black",
+"sim": 0.589
+},
+{
 "comedian_id": "pete-holmes",
-"sim": 0.59
+"sim": 0.589
 },
 {
 "comedian_id": "al-madrigal",
-"sim": 0.586
-},
-{
-"comedian_id": "lewis-black",
-"sim": 0.585
+"sim": 0.587
 },
 {
 "comedian_id": "dave-attell",
@@ -5714,19 +5714,19 @@
 "todd-glass": [
 {
 "comedian_id": "judah-friedlander",
-"sim": 0.87
+"sim": 0.871
 },
 {
 "comedian_id": "craig-ferguson",
-"sim": 0.796
+"sim": 0.792
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.774
+"sim": 0.773
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.755
+"sim": 0.756
 },
 {
 "comedian_id": "daniel-tosh",
@@ -5734,59 +5734,59 @@
 },
 {
 "comedian_id": "russell-brand",
-"sim": 0.692
+"sim": 0.693
 },
 {
 "comedian_id": "michael-mcintyre",
-"sim": 0.673
+"sim": 0.678
 },
 {
 "comedian_id": "jerrod-carmichael",
-"sim": 0.664
+"sim": 0.665
 }
 ],
 "tom-papa": [
 {
 "comedian_id": "fred-armisen",
-"sim": 0.627
+"sim": 0.626
 },
 {
 "comedian_id": "henry-rollins",
-"sim": 0.622
+"sim": 0.623
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.618
+"sim": 0.62
 },
 {
 "comedian_id": "todd-glass",
-"sim": 0.603
+"sim": 0.604
 },
 {
 "comedian_id": "anjelah-johnson",
-"sim": 0.568
+"sim": 0.566
 },
 {
 "comedian_id": "chris-gethard",
-"sim": 0.561
+"sim": 0.562
 },
 {
 "comedian_id": "maz-jobrani",
-"sim": 0.529
+"sim": 0.522
 },
 {
 "comedian_id": "enissa-amani",
-"sim": 0.518
+"sim": 0.512
 }
 ],
 "tom-segura": [
 {
 "comedian_id": "michael-che",
-"sim": 0.584
+"sim": 0.578
 },
 {
 "comedian_id": "jimmy-carr",
-"sim": 0.475
+"sim": 0.478
 },
 {
 "comedian_id": "dick-gregory",
@@ -5794,23 +5794,23 @@
 },
 {
 "comedian_id": "hannibal-buress",
-"sim": 0.394
+"sim": 0.398
 },
 {
 "comedian_id": "steven-wright",
-"sim": 0.378
+"sim": 0.376
 },
 {
 "comedian_id": "matt-mccusker",
-"sim": 0.292
+"sim": 0.296
 },
 {
 "comedian_id": "sarah-silverman",
-"sim": 0.291
+"sim": 0.289
 },
 {
 "comedian_id": "mitch-hedberg",
-"sim": 0.287
+"sim": 0.286
 }
 ],
 "trevor-noah": [
@@ -5820,7 +5820,7 @@
 },
 {
 "comedian_id": "ricky-gervais",
-"sim": 0.475
+"sim": 0.474
 },
 {
 "comedian_id": "patton-oswalt",
@@ -5828,19 +5828,19 @@
 },
 {
 "comedian_id": "greg-giraldo",
-"sim": 0.374
+"sim": 0.376
 },
 {
 "comedian_id": "eddie-izzard",
-"sim": 0.351
+"sim": 0.348
 },
 {
 "comedian_id": "stewart-lee",
-"sim": 0.335
+"sim": 0.334
 },
 {
-"comedian_id": "george-carlin",
-"sim": 0.279
+"comedian_id": "jim-jefferies",
+"sim": 0.282
 },
 {
 "comedian_id": "demetri-martin",
@@ -5850,27 +5850,27 @@
 "urzila-carlson": [
 {
 "comedian_id": "ronny-chieng",
-"sim": 0.876
+"sim": 0.877
 },
 {
 "comedian_id": "eric-andre",
-"sim": 0.874
+"sim": 0.875
 },
 {
 "comedian_id": "catherine-cohen",
-"sim": 0.873
+"sim": 0.874
 },
 {
 "comedian_id": "tig-notaro",
 "sim": 0.689
 },
 {
-"comedian_id": "emily-heller",
-"sim": 0.64
+"comedian_id": "drew-michael",
+"sim": 0.641
 },
 {
-"comedian_id": "drew-michael",
-"sim": 0.64
+"comedian_id": "emily-heller",
+"sim": 0.641
 },
 {
 "comedian_id": "george-lopez",
@@ -5884,11 +5884,11 @@
 "vir-das": [
 {
 "comedian_id": "pete-davidson",
-"sim": 0.693
+"sim": 0.697
 },
 {
 "comedian_id": "roy-wood-jr",
-"sim": 0.664
+"sim": 0.663
 },
 {
 "comedian_id": "michelle-wolf",
@@ -5896,11 +5896,11 @@
 },
 {
 "comedian_id": "ramy-youssef",
-"sim": 0.513
+"sim": 0.514
 },
 {
 "comedian_id": "jen-kirkman",
-"sim": 0.494
+"sim": 0.496
 },
 {
 "comedian_id": "christina-pazsitzky",
@@ -5908,11 +5908,11 @@
 },
 {
 "comedian_id": "d-l-hughley",
-"sim": 0.468
+"sim": 0.464
 },
 {
 "comedian_id": "mo-amer",
-"sim": 0.44
+"sim": 0.443
 }
 ],
 "w-kamau-bell": [
@@ -5922,7 +5922,7 @@
 },
 {
 "comedian_id": "deon-cole",
-"sim": 0.64
+"sim": 0.639
 },
 {
 "comedian_id": "emily-heller",
@@ -5930,7 +5930,7 @@
 },
 {
 "comedian_id": "roy-wood-jr",
-"sim": 0.477
+"sim": 0.478
 },
 {
 "comedian_id": "brad-williams",
@@ -5938,15 +5938,15 @@
 },
 {
 "comedian_id": "colin-quinn",
-"sim": 0.425
+"sim": 0.43
 },
 {
 "comedian_id": "amanda-seales",
-"sim": 0.425
+"sim": 0.426
 },
 {
 "comedian_id": "daniel-tosh",
-"sim": 0.399
+"sim": 0.396
 }
 ],
 "wanda-sykes": [
@@ -5960,7 +5960,7 @@
 },
 {
 "comedian_id": "dick-gregory",
-"sim": 0.509
+"sim": 0.512
 },
 {
 "comedian_id": "deray-davis",
@@ -5968,7 +5968,7 @@
 },
 {
 "comedian_id": "marlon-wayans",
-"sim": 0.488
+"sim": 0.489
 },
 {
 "comedian_id": "brad-williams",
@@ -5976,7 +5976,7 @@
 },
 {
 "comedian_id": "roy-wood-jr",
-"sim": 0.47
+"sim": 0.471
 },
 {
 "comedian_id": "big-jay-oakerson",
@@ -5986,15 +5986,15 @@
 "whitney-cummings": [
 {
 "comedian_id": "iliza-shlesinger",
-"sim": 0.584
+"sim": 0.585
 },
 {
 "comedian_id": "matt-mccusker",
-"sim": 0.357
+"sim": 0.36
 },
 {
 "comedian_id": "ali-wong",
-"sim": 0.302
+"sim": 0.306
 },
 {
 "comedian_id": "michelle-wolf",
@@ -6002,33 +6002,33 @@
 },
 {
 "comedian_id": "tom-papa",
-"sim": 0.27
+"sim": 0.262
 },
 {
 "comedian_id": "amy-schumer",
-"sim": 0.254
+"sim": 0.252
 },
 {
 "comedian_id": "jim-norton",
-"sim": 0.245
+"sim": 0.244
 },
 {
 "comedian_id": "aziz-ansari",
-"sim": 0.243
+"sim": 0.238
 }
 ],
 "william-montgomery": [
 {
 "comedian_id": "casey-rocket",
-"sim": 0.641
+"sim": 0.643
 },
 {
 "comedian_id": "cam-patterson",
-"sim": 0.556
+"sim": 0.551
 },
 {
 "comedian_id": "mark-normand",
-"sim": 0.38
+"sim": 0.376
 },
 {
 "comedian_id": "richard-pryor",
@@ -6036,19 +6036,19 @@
 },
 {
 "comedian_id": "michael-che",
-"sim": 0.322
+"sim": 0.327
 },
 {
 "comedian_id": "andrew-schulz",
-"sim": 0.318
+"sim": 0.317
 },
 {
 "comedian_id": "shane-gillis",
-"sim": 0.296
+"sim": 0.299
 },
 {
 "comedian_id": "eddie-izzard",
-"sim": 0.296
+"sim": 0.297
 }
 ]
 }

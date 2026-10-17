@@ -1,0 +1,45 @@
+{
+ "comedian_id": "jesse-joyce",
+ "name": "Jesse Joyce",
+ "channels": {
+  "UCaS9I6ZOaFL-f-FYRhuzGNQ": {
+   "subs": 42,
+   "channel_views": 214426,
+   "channel": "JesseJoyce"
+  }
+ },
+ "clips": 1,
+ "total_views": 214447,
+ "total_likes": 1202,
+ "avg_views": 214447,
+ "like_rate": 0.00561,
+ "top_clip": {
+  "videoId": "sxAfcNaXem8",
+  "title": "Gossip Girl Intro",
+  "channel": "JesseJoyce",
+  "channelId": "UCaS9I6ZOaFL-f-FYRhuzGNQ",
+  "channel_subs": 42,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2008-06-23",
+  "views": 214447,
+  "likes": 1202,
+  "comments": 43,
+  "duration_s": 18
+ },
+ "rows": [
+  {
+   "videoId": "sxAfcNaXem8",
+   "title": "Gossip Girl Intro",
+   "channel": "JesseJoyce",
+   "channelId": "UCaS9I6ZOaFL-f-FYRhuzGNQ",
+   "channel_subs": 42,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2008-06-23",
+   "views": 214447,
+   "likes": 1202,
+   "comments": 43,
+   "duration_s": 18
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

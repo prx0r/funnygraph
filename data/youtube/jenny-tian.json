@@ -1,0 +1,97 @@
+{
+ "comedian_id": "jenny-tian",
+ "name": "Jenny Tian",
+ "channels": {
+  "UCUB2_TTMA1uRNlszTcYXuWw": {
+   "subs": 2,
+   "channel_views": 20732,
+   "channel": "Jenny Le Tian"
+  }
+ },
+ "clips": 5,
+ "total_views": 20732,
+ "total_likes": 54,
+ "avg_views": 4146,
+ "like_rate": 0.0026,
+ "top_clip": {
+  "videoId": "Acsb4JUIMq0",
+  "title": "Final Fantasy XIII Cloud DVD Trailer(Playsation Premier)",
+  "channel": "Jenny Le Tian",
+  "channelId": "UCUB2_TTMA1uRNlszTcYXuWw",
+  "channel_subs": 2,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2007-12-16",
+  "views": 14018,
+  "likes": 24,
+  "comments": 28,
+  "duration_s": 122
+ },
+ "rows": [
+  {
+   "videoId": "Acsb4JUIMq0",
+   "title": "Final Fantasy XIII Cloud DVD Trailer(Playsation Premier)",
+   "channel": "Jenny Le Tian",
+   "channelId": "UCUB2_TTMA1uRNlszTcYXuWw",
+   "channel_subs": 2,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2007-12-16",
+   "views": 14018,
+   "likes": 24,
+   "comments": 28,
+   "duration_s": 122
+  },
+  {
+   "videoId": "3tZXNOdZEyI",
+   "title": "Final Fantasy Versus XIII TGS 07 Leaked Footage",
+   "channel": "Jenny Le Tian",
+   "channelId": "UCUB2_TTMA1uRNlszTcYXuWw",
+   "channel_subs": 2,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2008-09-07",
+   "views": 4661,
+   "likes": 21,
+   "comments": 0,
+   "duration_s": 119
+  },
+  {
+   "videoId": "iTiwh3Olmzs",
+   "title": "Final Fantasy Versus XIII trailer",
+   "channel": "Jenny Le Tian",
+   "channelId": "UCUB2_TTMA1uRNlszTcYXuWw",
+   "channel_subs": 2,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2007-11-22",
+   "views": 1422,
+   "likes": 7,
+   "comments": 0,
+   "duration_s": 166
+  },
+  {
+   "videoId": "1aIHEJMSFg8",
+   "title": "Final Fantasy Versus XIII & Final Fantasy XIII trailer",
+   "channel": "Jenny Le Tian",
+   "channelId": "UCUB2_TTMA1uRNlszTcYXuWw",
+   "channel_subs": 2,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2007-12-31",
+   "views": 543,
+   "likes": 1,
+   "comments": 1,
+   "duration_s": 273
+  },
+  {
+   "videoId": "H5yI7BvWZ3g",
+   "title": "B2ST / Beast (\ube44\uc2a4\ud2b8) - Midnight (\ubcc4 \ud5e4\ub294 \ubc24)",
+   "channel": "Jenny Le Tian",
+   "channelId": "UCUB2_TTMA1uRNlszTcYXuWw",
+   "channel_subs": 2,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2012-07-14",
+   "views": 88,
+   "likes": 1,
+   "comments": 0,
+   "duration_s": 239
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

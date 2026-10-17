@@ -268,15 +268,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 50.0,
-    "legacy_era": 5.1,
+    "legacy": 57.8,
+    "legacy_era": 4.3,
     "audience": 10.0,
     "popularity": 43.9,
     "theory": 0.0,
     "heat": null,
     "gap_value": 0.339,
     "overrated": "overrated",
-    "canon_lag": -0.4
+    "canon_lag": -0.478
   },
   "tier": "king",
   "region": "uk",
@@ -313,5 +313,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 90,
+        "ref": true
+      },
+      "canon": {
+        "rank": 144,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 69,
+        "wr": 6.189,
+        "ref": true
+      },
+      "era": {
+        "rank": 203,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://kevinbridges.co.uk",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

@@ -293,15 +293,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 50.6,
-    "legacy_era": 6.7,
+    "legacy": 58.3,
+    "legacy_era": 5.7,
     "audience": 10.0,
     "popularity": 51.8,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.418,
     "overrated": "overrated",
-    "canon_lag": -0.406
+    "canon_lag": -0.483
   },
   "tier": "king",
   "region": "us",
@@ -351,5 +351,48 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 40.8,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 59,
+        "pct": 40.8,
+        "sweep": [
+          56,
+          59
+        ]
+      },
+      "consensus": {
+        "rank": 89,
+        "ref": true
+      },
+      "canon": {
+        "rank": 141,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 68,
+        "wr": 6.189,
+        "ref": true
+      },
+      "era": {
+        "rank": 200,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 56,
+      "hi": 59
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.kathleenmadigan.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

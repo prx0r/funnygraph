@@ -287,10 +287,10 @@
     }
   },
   "metrics": {
-    "legacy": 92.1,
-    "legacy_era": 94.9,
+    "legacy": 93.4,
+    "legacy_era": 95.7,
     "audience": null,
-    "popularity": 49.1,
+    "popularity": 75.9,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
@@ -342,5 +342,48 @@
       "well",
       "never"
     ]
+  },
+  "rating": {
+    "headline": 57.1,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 43,
+        "pct": 57.1,
+        "sweep": [
+          38,
+          43
+        ]
+      },
+      "consensus": {
+        "rank": 15,
+        "ref": true
+      },
+      "canon": {
+        "rank": 15,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 10,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 38,
+      "hi": 43
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://billmaher.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

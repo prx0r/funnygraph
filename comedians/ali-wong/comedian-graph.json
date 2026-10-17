@@ -449,15 +449,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 84.8,
-    "legacy_era": 86.5,
+    "legacy": 87.2,
+    "legacy_era": 88.6,
     "audience": 62.5,
-    "popularity": 60.5,
+    "popularity": 75.7,
     "theory": 50.0,
     "heat": null,
-    "gap_value": -0.02,
+    "gap_value": 0.132,
     "overrated": "accurately rated",
-    "canon_lag": -0.223
+    "canon_lag": -0.247
   },
   "tier": "king",
   "region": "us",
@@ -495,5 +495,48 @@
       "think",
       "come"
     ]
+  },
+  "rating": {
+    "headline": 72.4,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 28,
+        "pct": 72.4,
+        "sweep": [
+          14,
+          28
+        ]
+      },
+      "consensus": {
+        "rank": 28,
+        "ref": true
+      },
+      "canon": {
+        "rank": 44,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 17,
+        "wr": 7.5,
+        "ref": true
+      },
+      "era": {
+        "rank": 25,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 14,
+      "hi": 28
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.aliwong.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

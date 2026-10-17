@@ -220,8 +220,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 46.1,
-    "legacy_era": 73.6,
+    "legacy": 54.5,
+    "legacy_era": 77.7,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -262,5 +262,35 @@
       "lebanese",
       "other"
     ]
+  },
+  "rating": {
+    "headline": 20.4,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 97,
+        "ref": true
+      },
+      "canon": {
+        "rank": 51,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 48,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

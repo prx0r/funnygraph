@@ -246,15 +246,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 61.8,
-    "legacy_era": 16.9,
+    "legacy": 67.8,
+    "legacy_era": 14.2,
     "audience": 30.0,
     "popularity": 28.9,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.011,
     "overrated": "accurately rated",
-    "canon_lag": -0.318
+    "canon_lag": -0.378
   },
   "tier": "king",
   "region": "us",
@@ -313,5 +313,43 @@
       "television actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 30.6,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 69,
+        "pct": 30.6,
+        "sweep": [
+          69,
+          69
+        ]
+      },
+      "consensus": {
+        "rank": 69,
+        "ref": true
+      },
+      "canon": {
+        "rank": 184,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 48,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 182,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 69,
+      "hi": 69
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
   }
 }

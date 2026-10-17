@@ -230,8 +230,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 44.9,
-    "legacy_era": 72.5,
+    "legacy": 53.1,
+    "legacy_era": 76.3,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -272,5 +272,40 @@
       "think",
       "harriet"
     ]
+  },
+  "rating": {
+    "headline": 30.2,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 100,
+        "ref": true
+      },
+      "canon": {
+        "rank": 54,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 51,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.amandaseales.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

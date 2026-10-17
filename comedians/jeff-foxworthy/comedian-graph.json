@@ -281,15 +281,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 91.0,
-    "legacy_era": 7.9,
+    "legacy": 92.4,
+    "legacy_era": 6.6,
     "audience": 47.5,
-    "popularity": 54.8,
+    "popularity": 68.7,
     "theory": 25.0,
     "heat": null,
-    "gap_value": 0.073,
-    "overrated": "accurately rated",
-    "canon_lag": -0.435
+    "gap_value": 0.212,
+    "overrated": "overrated",
+    "canon_lag": -0.449
   },
   "tier": "king",
   "region": "us",
@@ -333,5 +333,48 @@
       "well",
       "said"
     ]
+  },
+  "rating": {
+    "headline": 7.1,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 92,
+        "pct": 7.1,
+        "sweep": [
+          92,
+          92
+        ]
+      },
+      "consensus": {
+        "rank": 17,
+        "ref": true
+      },
+      "canon": {
+        "rank": 28,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 28,
+        "wr": 7.214,
+        "ref": true
+      },
+      "era": {
+        "rank": 198,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 92,
+      "hi": 92
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.jefffoxworthy.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

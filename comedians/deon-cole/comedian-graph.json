@@ -237,15 +237,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 72.5,
-    "legacy_era": 79.8,
+    "legacy": 76.8,
+    "legacy_era": 82.9,
     "audience": 30.0,
     "popularity": 72.8,
     "theory": 25.0,
     "heat": null,
     "gap_value": 0.428,
     "overrated": "overrated",
-    "canon_lag": -0.425
+    "canon_lag": -0.468
   },
   "tier": "king",
   "region": "us",
@@ -292,5 +292,48 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "rating": {
+    "headline": 10.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 89,
+        "pct": 10.2,
+        "sweep": [
+          89,
+          89
+        ]
+      },
+      "consensus": {
+        "rank": 50,
+        "ref": true
+      },
+      "canon": {
+        "rank": 90,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 33,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 37,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 89,
+      "hi": 89
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.deoncole.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
+  }
 }

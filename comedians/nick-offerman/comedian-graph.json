@@ -227,8 +227,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 13.5,
-    "legacy_era": 40.5,
+    "legacy": 14.2,
+    "legacy_era": 37.0,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -277,5 +277,40 @@
         "year": null
       }
     ]
+  },
+  "rating": {
+    "headline": 31.6,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 182,
+        "ref": true
+      },
+      "canon": {
+        "rank": 166,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 134,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.offermanwoodshop.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

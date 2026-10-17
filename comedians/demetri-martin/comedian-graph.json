@@ -385,15 +385,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 80.9,
-    "legacy_era": 83.2,
+    "legacy": 83.9,
+    "legacy_era": 85.8,
     "audience": 60.0,
-    "popularity": 26.3,
+    "popularity": 48.5,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.337,
-    "overrated": "underrated",
-    "canon_lag": -0.209
+    "gap_value": -0.115,
+    "overrated": "accurately rated",
+    "canon_lag": -0.239
   },
   "tier": "king",
   "region": "us",
@@ -431,5 +431,48 @@
       "shit",
       "some"
     ]
+  },
+  "rating": {
+    "headline": 52.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 48,
+        "pct": 52.0,
+        "sweep": [
+          43,
+          48
+        ]
+      },
+      "consensus": {
+        "rank": 35,
+        "ref": true
+      },
+      "canon": {
+        "rank": 48,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 20,
+        "wr": 7.417,
+        "ref": true
+      },
+      "era": {
+        "rank": 31,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 43,
+      "hi": 48
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://demetrimartin.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

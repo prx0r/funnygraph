@@ -329,10 +329,10 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 3.9,
-    "legacy_era": 30.9,
+    "legacy": 5.2,
+    "legacy_era": 28.0,
     "audience": null,
-    "popularity": 80.7,
+    "popularity": 85.0,
     "theory": 62.5,
     "heat": null,
     "gap_value": null,
@@ -352,5 +352,48 @@
       "observational": 0.13
     },
     "n_modes": 4
+  },
+  "rating": {
+    "headline": 80.6,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 20,
+        "pct": 80.6,
+        "sweep": [
+          12,
+          25
+        ]
+      },
+      "consensus": {
+        "rank": 201,
+        "ref": true
+      },
+      "canon": {
+        "rank": 196,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 153,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 12,
+      "hi": 25
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.theovon.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

@@ -240,15 +240,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 73.6,
-    "legacy_era": 82.6,
+    "legacy": 77.7,
+    "legacy_era": 85.3,
     "audience": 30.0,
-    "popularity": 3.5,
+    "popularity": 47.6,
     "theory": 0.0,
     "heat": null,
-    "gap_value": -0.265,
-    "overrated": "underrated",
-    "canon_lag": -0.436
+    "gap_value": 0.176,
+    "overrated": "accurately rated",
+    "canon_lag": -0.477
   },
   "tier": "king",
   "region": "us",
@@ -282,5 +282,40 @@
       "time",
       "events"
     ]
+  },
+  "rating": {
+    "headline": 35.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 48,
+        "ref": true
+      },
+      "canon": {
+        "rank": 75,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 31,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 32,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://www.catherine-cohen.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

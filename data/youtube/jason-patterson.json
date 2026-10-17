@@ -1,0 +1,162 @@
+{
+ "comedian_id": "jason-patterson",
+ "name": "Jason Patterson",
+ "channels": {
+  "UCAfhcprYFqSBS2TinHBNC6A": {
+   "subs": 49,
+   "channel_views": 8574,
+   "channel": "Jason Patterson"
+  }
+ },
+ "clips": 10,
+ "total_views": 8575,
+ "total_likes": 115,
+ "avg_views": 857,
+ "like_rate": 0.01341,
+ "top_clip": {
+  "videoId": "diVf1pumL1Y",
+  "title": "It's A Perfect Situation For A Fool/By Pat Patterson",
+  "channel": "Jason Patterson",
+  "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+  "channel_subs": 49,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2013-05-01",
+  "views": 2864,
+  "likes": 16,
+  "comments": 1,
+  "duration_s": 148
+ },
+ "rows": [
+  {
+   "videoId": "diVf1pumL1Y",
+   "title": "It's A Perfect Situation For A Fool/By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-05-01",
+   "views": 2864,
+   "likes": 16,
+   "comments": 1,
+   "duration_s": 148
+  },
+  {
+   "videoId": "cX4P5caJpqg",
+   "title": "Just Across The Line/By Pat Patterson My Video version..",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-17",
+   "views": 1238,
+   "likes": 29,
+   "comments": 0,
+   "duration_s": 209
+  },
+  {
+   "videoId": "WZ9vnQpXn1A",
+   "title": "Weakness Of A Man/By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-16",
+   "views": 1219,
+   "likes": 12,
+   "comments": 4,
+   "duration_s": 150
+  },
+  {
+   "videoId": "LNPhvQ4rDX8",
+   "title": "It's A Long Time From Midnight 'Til Dawn/ Written By Melonie Emerson Taft and Sung By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-18",
+   "views": 707,
+   "likes": 13,
+   "comments": 4,
+   "duration_s": 203
+  },
+  {
+   "videoId": "c2z3_KpAkY4",
+   "title": "If There's A Sad Place Anywhere/By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-19",
+   "views": 479,
+   "likes": 8,
+   "comments": 5,
+   "duration_s": 211
+  },
+  {
+   "videoId": "uoou__Mc2hk",
+   "title": "Still Get Warmed By The Flame/ By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-16",
+   "views": 477,
+   "likes": 9,
+   "comments": 4,
+   "duration_s": 177
+  },
+  {
+   "videoId": "fRzMGY2m0rw",
+   "title": "Lady Godiva/ By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-16",
+   "views": 458,
+   "likes": 8,
+   "comments": 5,
+   "duration_s": 198
+  },
+  {
+   "videoId": "QWAbh4CVVHo",
+   "title": "Jealous Memories/By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-05-03",
+   "views": 456,
+   "likes": 7,
+   "comments": 5,
+   "duration_s": 141
+  },
+  {
+   "videoId": "Fh7FekKjMkg",
+   "title": "Don't Worry Baby/ By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-18",
+   "views": 404,
+   "likes": 9,
+   "comments": 3,
+   "duration_s": 183
+  },
+  {
+   "videoId": "81OEnqBt-gA",
+   "title": "A Picture Of Us On My Mind/Written By Bob Hardin and Sung By Pat Patterson",
+   "channel": "Jason Patterson",
+   "channelId": "UCAfhcprYFqSBS2TinHBNC6A",
+   "channel_subs": 49,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2013-04-17",
+   "views": 273,
+   "likes": 4,
+   "comments": 2,
+   "duration_s": 168
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

@@ -242,8 +242,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 56.2,
-    "legacy_era": 9.0,
+    "legacy": 63.0,
+    "legacy_era": 7.6,
     "audience": null,
     "popularity": 7.0,
     "theory": 25.0,
@@ -297,5 +297,48 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "rating": {
+    "headline": 11.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 88,
+        "pct": 11.2,
+        "sweep": [
+          88,
+          88
+        ]
+      },
+      "consensus": {
+        "rank": 79,
+        "ref": true
+      },
+      "canon": {
+        "rank": 37,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 196,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 88,
+      "hi": 88
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://officialdavidcross.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
+  }
 }

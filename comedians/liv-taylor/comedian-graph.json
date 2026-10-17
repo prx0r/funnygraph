@@ -21,10 +21,18 @@
     "expression": {},
     "modulator_range": [],
     "profile": {},
-    "operator_priors": {},
+    "operator_priors": {
+      "identity_contradiction": 0.133,
+      "self_awareness": 0.82,
+      "specificity": 0.73,
+      "escalation": 0.107,
+      "garden_path": 0.485,
+      "benign_violation": 0.885
+    },
     "preferred_theories": [],
     "threads": [],
-    "problem_space": []
+    "problem_space": [],
+    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
   },
   "discovery": {
     "discovered_from": [
@@ -59,5 +67,32 @@
     "primary": "unclassified",
     "scores": {},
     "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://livtaylor.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
   }
 }

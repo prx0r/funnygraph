@@ -62,11 +62,44 @@
     },
     {
       "comedian_id": "dylan-moran",
-      "sim": 0.052
+      "sim": 0.056
     },
     {
       "comedian_id": "andrew-schulz",
-      "sim": 0.051
+      "sim": 0.052
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "provocateur",
+    "theories": [
+      "incongruity",
+      "benign_violation",
+      "status_reversal"
+    ],
+    "via": "sarah-silverman",
+    "sim": 0.057,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

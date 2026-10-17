@@ -285,15 +285,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 60.1,
-    "legacy_era": 18.5,
+    "legacy": 66.3,
+    "legacy_era": 15.6,
     "audience": 30.0,
     "popularity": 77.2,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.472,
     "overrated": "overrated",
-    "canon_lag": -0.301
+    "canon_lag": -0.363
   },
   "tier": "king",
   "region": "us",
@@ -354,5 +354,48 @@
       "actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 27.6,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 72,
+        "pct": 27.6,
+        "sweep": [
+          72,
+          72
+        ]
+      },
+      "consensus": {
+        "rank": 72,
+        "ref": true
+      },
+      "canon": {
+        "rank": 200,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 50,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 179,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 72,
+      "hi": 72
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "http://tompapa.com",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

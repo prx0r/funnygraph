@@ -58,15 +58,48 @@
   "nearest_greats": [
     {
       "comedian_id": "gary-gulman",
-      "sim": 0.072
+      "sim": 0.085
     },
     {
       "comedian_id": "brian-regan",
-      "sim": 0.061
+      "sim": 0.071
     },
     {
       "comedian_id": "patton-oswalt",
-      "sim": 0.056
+      "sim": 0.067
     }
-  ]
+  ],
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "style_tags": {
+    "humor_type": "storytelling",
+    "theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "via": "gary-gulman",
+    "sim": 0.085,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

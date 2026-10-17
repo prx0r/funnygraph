@@ -241,15 +241,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 71.4,
-    "legacy_era": 79.2,
+    "legacy": 75.8,
+    "legacy_era": 82.5,
     "audience": 30.0,
     "popularity": 68.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": 0.384,
     "overrated": "overrated",
-    "canon_lag": -0.414
+    "canon_lag": -0.458
   },
   "tier": "king",
   "region": "us",
@@ -286,5 +286,40 @@
   },
   "recognition": {
     "awards": []
+  },
+  "rating": {
+    "headline": 29.1,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 52,
+        "ref": true
+      },
+      "canon": {
+        "rank": 106,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 35,
+        "wr": 7.103,
+        "ref": true
+      },
+      "era": {
+        "rank": 38,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.fortunefeimster.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

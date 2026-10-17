@@ -1,0 +1,45 @@
+{
+ "comedian_id": "collin-sledge",
+ "name": "Collin Sledge",
+ "channels": {
+  "UC1D41j6mqF-GBcWPYqk5ftg": {
+   "subs": 6,
+   "channel_views": 16,
+   "channel": "Collin Sledge"
+  }
+ },
+ "clips": 1,
+ "total_views": 16,
+ "total_likes": 2,
+ "avg_views": 16,
+ "like_rate": 0.125,
+ "top_clip": {
+  "videoId": "0f-sGMegWN4",
+  "title": "October 14, 2025",
+  "channel": "Collin Sledge",
+  "channelId": "UC1D41j6mqF-GBcWPYqk5ftg",
+  "channel_subs": 6,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2025-10-14",
+  "views": 16,
+  "likes": 2,
+  "comments": 0,
+  "duration_s": 58
+ },
+ "rows": [
+  {
+   "videoId": "0f-sGMegWN4",
+   "title": "October 14, 2025",
+   "channel": "Collin Sledge",
+   "channelId": "UC1D41j6mqF-GBcWPYqk5ftg",
+   "channel_subs": 6,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2025-10-14",
+   "views": 16,
+   "likes": 2,
+   "comments": 0,
+   "duration_s": 58
+  }
+ ],
+ "method": "registry-uploads (no search)"
+}

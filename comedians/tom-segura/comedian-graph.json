@@ -487,15 +487,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 83.7,
-    "legacy_era": 91.6,
+    "legacy": 86.3,
+    "legacy_era": 92.9,
     "audience": 72.5,
-    "popularity": 88.2,
+    "popularity": 93.9,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.157,
-    "overrated": "accurately rated",
-    "canon_lag": -0.112
+    "gap_value": 0.214,
+    "overrated": "overrated",
+    "canon_lag": -0.138
   },
   "tier": "king",
   "region": "us",
@@ -546,5 +546,48 @@
       "actor"
     ],
     "source": "wikidata (CC0)"
+  },
+  "rating": {
+    "headline": 26.5,
+    "coverage": "PARTIAL",
+    "provisional": null,
+    "boards": {
+      "house": {
+        "rank": 73,
+        "pct": 26.5,
+        "sweep": [
+          73,
+          73
+        ]
+      },
+      "consensus": {
+        "rank": 30,
+        "ref": true
+      },
+      "canon": {
+        "rank": 202,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 14,
+        "wr": 7.855,
+        "ref": true
+      },
+      "era": {
+        "rank": 16,
+        "ref": true
+      }
+    },
+    "interval": {
+      "lo": 73,
+      "hi": 73
+    },
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://tomsegura.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }

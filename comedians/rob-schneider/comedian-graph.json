@@ -233,8 +233,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 10.1,
-    "legacy_era": 37.1,
+    "legacy": 11.4,
+    "legacy_era": 34.1,
     "audience": null,
     "popularity": 4.4,
     "theory": 0.0,
@@ -275,5 +275,40 @@
       "come",
       "accent"
     ]
+  },
+  "rating": {
+    "headline": 25.0,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 188,
+        "ref": true
+      },
+      "canon": {
+        "rank": 176,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 140,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T15:18:02Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://www.robschneider.com/",
+    "source": "wikidata-P856",
+    "checked": "2026-10-17"
   }
 }
