@@ -700,6 +700,138 @@
           ]
         }
       ]
+    },
+    {
+      "set_id": "louis-c-k_2007-ull-ranscript",
+      "title": "2007 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/2007-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 6897
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_2010-ull-ranscript",
+      "title": "2010 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/2010-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 8916
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_2013-ull-ranscript",
+      "title": "2013 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/2013-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 5611
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_2015-ranscript",
+      "title": "2015 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/2015-ranscript.txt",
+        "format": "plain txt",
+        "words": 6362
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_2017-ull-transcript",
+      "title": "2017 Ull Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/2017-ull-transcript.txt",
+        "format": "plain txt",
+        "words": 6703
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_ouis-hewed-p-2008-ranscript",
+      "title": "Ouis Hewed P 2008 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/ouis-hewed-p-2008-ranscript.txt",
+        "format": "plain txt",
+        "words": 5930
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_ouis-ive-at-the-eacon-heatre-2011-ranscript",
+      "title": "Ouis Ive At The Eacon Heatre 2011 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/ouis-ive-at-the-eacon-heatre-2011-ranscript.txt",
+        "format": "plain txt",
+        "words": 6351
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_ouis-onologue-38-06-11-03-12-ull-ranscript",
+      "title": "Ouis Onologue 38 06 11 03 12 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/ouis-onologue-38-06-11-03-12-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 711
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_ouis-onologue-39-16-03-29-14-ull-ranscript",
+      "title": "Ouis Onologue 39 16 03 29 14 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/ouis-onologue-39-16-03-29-14-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 1051
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_ouis-onologue-ay-16-2015-ull-ranscript",
+      "title": "Ouis Onologue Ay 16 2015 Ull Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/ouis-onologue-ay-16-2015-ull-ranscript.txt",
+        "format": "plain txt",
+        "words": 981
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "set_id": "louis-c-k_ouis-orry-2021-ranscript",
+      "title": "Ouis Orry 2021 Ranscript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "transcripts/louis-c-k/ouis-orry-2021-ranscript.txt",
+        "format": "plain txt",
+        "words": 6280
+      },
+      "timing_measured": null,
+      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
     }
   ],
   "set_queue": {
@@ -928,7 +1060,8 @@
     "sets_observed": 1,
     "next": "ingest 2+ more sets \u2192 recompute operator_priors from measured frequencies \u2192 essay drafts",
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "merged_from": "louis-c-k (dup dir)"
   },
   "timing_profile": {
     "doctrine_hypothesis": "Fast speech, many pauses. 14 topic-pauses (>0.8s) are the confession holds. The two longest holds (8.16s, 5.32s) sit at the two darkest turns. Timing gates the laugh: the room needs the silence to catch up.",
@@ -1030,6 +1163,47 @@
       "imdb_rating": 5.4,
       "imdb_votes": 830,
       "transcript": "louis-c-k-live-at-the-beacon-theatre-2011-full-transcript.txt"
+    },
+    {
+      "title": "29",
+      "year": 2026,
+      "imdb_id": "tt37737315",
+      "imdb_rating": 7.7,
+      "imdb_votes": 6568,
+      "transcript": "ouis-onologue-39-16-03-29-14-ull-ranscript.txt",
+      "standout": true
+    },
+    {
+      "title": "Tully",
+      "year": 2018,
+      "imdb_id": "tt5610554",
+      "imdb_rating": 6.9,
+      "imdb_votes": 67138,
+      "transcript": "2017-ull-transcript.txt"
+    },
+    {
+      "title": "3",
+      "year": 2010,
+      "imdb_id": "tt1517177",
+      "imdb_rating": 6.7,
+      "imdb_votes": 5575,
+      "transcript": "ouis-onologue-38-06-11-03-12-ull-ranscript.txt"
+    },
+    {
+      "title": "W.",
+      "year": 2008,
+      "imdb_id": "tt1175491",
+      "imdb_rating": 6.3,
+      "imdb_votes": 51788,
+      "transcript": "ouis-hewed-p-2008-ranscript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ouis-orry-2021-ranscript.txt"
     }
   ]
 }

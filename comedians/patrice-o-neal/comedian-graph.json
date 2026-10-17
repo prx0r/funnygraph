@@ -115,6 +115,42 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "patrice-oneal-essay-01",
+      "title": "Why is Patrice O'Neal funny? The truth bully engine",
+      "thesis": "Treats every social lie as a challenge, then follows the lie until the room confesses.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "patrice-oneal-bit-01",
+      "title": "Patrice O'Neal: 'The social lie as an enemy' \u2014 how the bit works",
+      "thesis": "Treats every social lie as a challenge, then follows it until the room confesses. The room laughs because the lie is exposed AND because the exposure is done with love. The bully is the benign frame.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -130,7 +166,8 @@
       "transcripts/patrice-o-neal/atrice-eal-lephant-in-the-oom-2011-ranscript.txt"
     ],
     "theory_applied": true,
-    "deepened": "2026-10-16"
+    "deepened": "2026-10-16",
+    "merged_from": "patrice-oneal (dup dir)"
   },
   "theory_links": {
     "internal": [
@@ -216,6 +253,16 @@
       "imdb_votes": 830,
       "transcript": "atrice-eal-lephant-in-the-oom-2011-ranscript.txt",
       "standout": true
+    }
+  ],
+  "known_bits": [
+    {
+      "title": "The social lie as an enemy",
+      "why_it_works": "Treats every social lie as a challenge, then follows it until the room confesses. The room laughs because the lie is exposed AND because the exposure is done with love. The bully is the benign frame.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
     }
   ]
 }
