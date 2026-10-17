@@ -132,10 +132,16 @@ def match_special(title: str, year: int, comic_norm: str,
         if needs_name and not cn_hit:
             continue
         # matched IMDb title must share ≥2 distinctive words with parsed title,
-        # OR contain the comedian name (kills 'Up', 'Live', single-word collisions)
+        # OR contain the comedian name (kills 'Up', 'Live', single-word collisions).
+        # BLACKLISTED ids never match (franchise collisions).
+        if e["tconst"] in ("tt1049413",):
+            continue
         imdb_words = set((e["n_primary"] + " " + e["n_original"]).split())
         overlap = sum(1 for w in nt_words if w in imdb_words)
         if overlap < 2 and not cn_hit:
+            continue
+        # comedian name in title required, always (specials are 'Name: Special')
+        if not cn_hit:
             continue
         score = e["votes"] + (100000 if cn_hit else 0)
         cands.append((score, e))

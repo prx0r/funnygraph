@@ -10,7 +10,8 @@
   "wr": 8.574,
   "standout": true,
   "humor_type": "meta",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 4200000
  },
  {
   "special": "Eddie Izzard: Dress to Kill",
@@ -36,7 +37,8 @@
   "wr": 8.38,
   "standout": true,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 800000
  },
  {
   "special": "Louis C.K.: Shameless",
@@ -49,20 +51,8 @@
   "wr": 8.356,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
- },
- {
-  "special": "Up",
-  "year": 2009,
-  "comedian": "Stewart Lee",
-  "comedian_id": "stewart-lee",
-  "imdb_id": "tt1049413",
-  "rating": 8.3,
-  "votes": 1260034,
-  "wr": 8.299,
-  "standout": false,
-  "humor_type": "meta",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 800000
  },
  {
   "special": "Dave Chappelle: For What It's Worth",
@@ -75,7 +65,8 @@
   "wr": 8.267,
   "standout": true,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "Dave Chappelle: Sticks & Stones",
@@ -88,7 +79,8 @@
   "wr": 8.257,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "Bo Burnham: Make Happy",
@@ -101,7 +93,8 @@
   "wr": 8.229,
   "standout": false,
   "humor_type": "meta",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 4200000
  },
  {
   "special": "George Carlin... It's Bad for Ya!",
@@ -114,7 +107,8 @@
   "wr": 8.222,
   "standout": true,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "Louis C.K.: Hilarious",
@@ -127,7 +121,8 @@
   "wr": 8.21,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 800000
  },
  {
   "special": "George Carlin: You Are All Diseased",
@@ -140,7 +135,8 @@
   "wr": 8.166,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "Bo Burnham: what.",
@@ -153,7 +149,8 @@
   "wr": 8.119,
   "standout": false,
   "humor_type": "meta",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 4200000
  },
  {
   "special": "Bill Hicks: Relentless",
@@ -192,7 +189,8 @@
   "wr": 8.046,
   "standout": true,
   "humor_type": "dark-confessional",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 4000000
  },
  {
   "special": "George Carlin: Complaints & Grievances",
@@ -205,7 +203,8 @@
   "wr": 8.038,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "Dave Chappelle: Equanimity",
@@ -218,7 +217,8 @@
   "wr": 8.028,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "KD (A) Karuppudurai",
@@ -231,7 +231,8 @@
   "wr": 7.967,
   "standout": true,
   "humor_type": "observational",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 1100000
  },
  {
   "special": "George Carlin: Doin' It Again",
@@ -244,7 +245,8 @@
   "wr": 7.944,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "Bill Burr: Paper Tiger",
@@ -257,7 +259,8 @@
   "wr": 7.931,
   "standout": true,
   "humor_type": "rant",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 8700000
  },
  {
   "special": "Chris Rock: Bigger & Blacker",
@@ -270,7 +273,8 @@
   "wr": 7.887,
   "standout": true,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 41500000
  },
  {
   "special": "Dave Chappelle: The Closer",
@@ -283,7 +287,8 @@
   "wr": 7.871,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "Richard Pryor: Live in Concert",
@@ -296,7 +301,8 @@
   "wr": 7.862,
   "standout": true,
   "humor_type": "dark-confessional",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 2500000
  },
  {
   "special": "Chris Rock: Never Scared",
@@ -309,7 +315,8 @@
   "wr": 7.855,
   "standout": false,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 41500000
  },
  {
   "special": "Bo Burnham: Words, Words, Words",
@@ -322,7 +329,8 @@
   "wr": 7.822,
   "standout": false,
   "humor_type": "meta",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 4200000
  },
  {
   "special": "John Mulaney: The Comeback Kid",
@@ -335,7 +343,8 @@
   "wr": 7.82,
   "standout": true,
   "humor_type": "storytelling",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 21000000
  },
  {
   "special": "John Mulaney: Kid Gorgeous at Radio City",
@@ -348,7 +357,8 @@
   "wr": 7.817,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 21000000
  },
  {
   "special": "Dave Chappelle: 8:46",
@@ -361,7 +371,8 @@
   "wr": 7.805,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "Dave Chappelle: The Bird Revelation",
@@ -374,7 +385,8 @@
   "wr": 7.736,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "Hi",
@@ -387,7 +399,8 @@
   "wr": 7.719,
   "standout": false,
   "humor_type": "rant",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 8700000
  },
  {
   "special": "Hi",
@@ -400,7 +413,8 @@
   "wr": 7.719,
   "standout": true,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 19200000
  },
  {
   "special": "Jerry Seinfeld: 'I'm Telling You for the Last Time'",
@@ -413,7 +427,8 @@
   "wr": 7.692,
   "standout": true,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 1600000
  },
  {
   "special": "George Carlin: What Am I Doing in New Jersey?",
@@ -426,7 +441,8 @@
   "wr": 7.69,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "India",
@@ -439,7 +455,8 @@
   "wr": 7.686,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "Stewart Lee: Carpet Remnant World",
@@ -465,7 +482,8 @@
   "wr": 7.617,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 800000
  },
  {
   "special": "Louis C.K.: Sorry",
@@ -478,7 +496,8 @@
   "wr": 7.572,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 800000
  },
  {
   "special": "Eddie Izzard: Unrepeatable",
@@ -504,7 +523,8 @@
   "wr": 7.539,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 19200000
  },
  {
   "special": "Stewart Lee: Content Provider",
@@ -530,7 +550,8 @@
   "wr": 7.534,
   "standout": false,
   "humor_type": "rant",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 8700000
  },
  {
   "special": "Richard Pryor: Live on the Sunset Strip",
@@ -543,7 +564,8 @@
   "wr": 7.497,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 2500000
  },
  {
   "special": "Stewart Lee: 90s Comedian",
@@ -569,7 +591,8 @@
   "wr": 7.468,
   "standout": false,
   "humor_type": "clean-everyman",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 20800000
  },
  {
   "special": "Ali Wong: Baby Cobra",
@@ -582,7 +605,8 @@
   "wr": 7.447,
   "standout": true,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 6700000
  },
  {
   "special": "John Mulaney: Baby J",
@@ -595,7 +619,8 @@
   "wr": 7.441,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 21000000
  },
  {
   "special": "Tom Segura: Disgraceful",
@@ -608,7 +633,8 @@
   "wr": 7.417,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 19200000
  },
  {
   "special": "Tom Segura: Mostly Stories",
@@ -621,7 +647,8 @@
   "wr": 7.411,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 19200000
  },
  {
   "special": "Norm Macdonald: Nothing Special",
@@ -634,7 +661,8 @@
   "wr": 7.357,
   "standout": true,
   "humor_type": "absurdist",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 1500000
  },
  {
   "special": "Taylor Tomlinson: Quarter-Life Crisis",
@@ -647,7 +675,8 @@
   "wr": 7.343,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 7700000
  },
  {
   "special": "Taylor Tomlinson: Look at You",
@@ -660,7 +689,8 @@
   "wr": 7.326,
   "standout": true,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 7700000
  },
  {
   "special": "Nate Bargatze: The Greatest Average American",
@@ -673,7 +703,8 @@
   "wr": 7.297,
   "standout": false,
   "humor_type": "clean-everyman",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 20800000
  },
  {
   "special": "Demetri Martin: Live (At the Time)",
@@ -686,7 +717,8 @@
   "wr": 7.284,
   "standout": true,
   "humor_type": "one-liner",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 600000
  },
  {
   "special": "Eddie Izzard: Stripped",
@@ -712,7 +744,8 @@
   "wr": 7.257,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 6700000
  },
  {
   "special": "Nate Bargatze: Full Time Magic",
@@ -725,7 +758,8 @@
   "wr": 7.245,
   "standout": true,
   "humor_type": "clean-everyman",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 20800000
  },
  {
   "special": "Tom Segura: Ball Hog",
@@ -738,7 +772,8 @@
   "wr": 7.243,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 19200000
  },
  {
   "special": "Norm Macdonald: Hitler's Dog, Gossip & Trickery",
@@ -751,7 +786,8 @@
   "wr": 7.237,
   "standout": false,
   "humor_type": "absurdist",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 1500000
  },
  {
   "special": "Bert Kreischer: Secret Time",
@@ -764,7 +800,8 @@
   "wr": 7.224,
   "standout": true,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 13500000
  },
  {
   "special": "Go",
@@ -777,7 +814,8 @@
   "wr": 7.198,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 800000
  },
  {
   "special": "Bill Burr: Walk Your Way Out",
@@ -790,7 +828,8 @@
   "wr": 7.179,
   "standout": false,
   "humor_type": "rant",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 8700000
  },
  {
   "special": "Ron White: A Little Unprofessional",
@@ -803,7 +842,8 @@
   "wr": 7.165,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 3700000
  },
  {
   "special": "It",
@@ -816,7 +856,8 @@
   "wr": 7.16,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "Michael Che Matters",
@@ -829,7 +870,8 @@
   "wr": 7.149,
   "standout": true,
   "humor_type": "roast",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 800000
  },
  {
   "special": "Richard Pryor... Here and Now",
@@ -842,7 +884,8 @@
   "wr": 7.144,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 2500000
  },
  {
   "special": "Demetri Martin: The Overthinker",
@@ -855,7 +898,8 @@
   "wr": 7.133,
   "standout": false,
   "humor_type": "one-liner",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 600000
  },
  {
   "special": "Maria Bamford: Weakness Is the Brand",
@@ -881,7 +925,8 @@
   "wr": 7.1,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "Sing",
@@ -894,7 +939,8 @@
   "wr": 7.1,
   "standout": true,
   "humor_type": "observational",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 2000000
  },
  {
   "special": "Elf",
@@ -920,7 +966,8 @@
   "wr": 7.083,
   "standout": false,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 41500000
  },
  {
   "special": "Bert Kreischer: Hey Big Boy",
@@ -933,7 +980,8 @@
   "wr": 7.0,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 13500000
  },
  {
   "special": "Bert Kreischer: Razzle Dazzle",
@@ -946,7 +994,8 @@
   "wr": 7.0,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 13500000
  },
  {
   "special": "RED",
@@ -972,7 +1021,8 @@
   "wr": 7.0,
   "standout": false,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 41500000
  },
  {
   "special": "American Dream?",
@@ -985,7 +1035,8 @@
   "wr": 6.989,
   "standout": false,
   "humor_type": "rant",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 8700000
  },
  {
   "special": "American Dream?",
@@ -998,7 +1049,8 @@
   "wr": 6.989,
   "standout": false,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 41500000
  },
  {
   "special": "American Dream?",
@@ -1024,7 +1076,8 @@
   "wr": 6.989,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "American Dream?",
@@ -1037,7 +1090,8 @@
   "wr": 6.989,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 18100000
  },
  {
   "special": "American Dream?",
@@ -1063,7 +1117,8 @@
   "wr": 6.989,
   "standout": false,
   "humor_type": "observational",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 1200000
  },
  {
   "special": "American Dream?",
@@ -1089,7 +1144,8 @@
   "wr": 6.975,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "N\u00f4",
@@ -1102,7 +1158,8 @@
   "wr": 6.969,
   "standout": false,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 41500000
  },
  {
   "special": "N\u00f4",
@@ -1115,7 +1172,8 @@
   "wr": 6.969,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "N\u00f4",
@@ -1141,7 +1199,8 @@
   "wr": 6.969,
   "standout": false,
   "humor_type": "rant",
-  "generation": "seventies"
+  "generation": "seventies",
+  "netflix_hours": 700000
  },
  {
   "special": "N\u00f4",
@@ -1154,7 +1213,8 @@
   "wr": 6.969,
   "standout": false,
   "humor_type": "clean-everyman",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 3000000
  },
  {
   "special": "N\u00f4",
@@ -1167,7 +1227,8 @@
   "wr": 6.969,
   "standout": false,
   "humor_type": "observational",
-  "generation": "eighties-boom"
+  "generation": "eighties-boom",
+  "netflix_hours": 1600000
  },
  {
   "special": "Sarah Silverman: A Speck of Dust",
@@ -1180,7 +1241,8 @@
   "wr": 6.919,
   "standout": true,
   "humor_type": "provocateur",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 2100000
  },
  {
   "special": "Rio",
@@ -1206,7 +1268,8 @@
   "wr": 6.9,
   "standout": true,
   "humor_type": "dark-confessional",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 60400000
  },
  {
   "special": "Man\u00f4",
@@ -1219,7 +1282,8 @@
   "wr": 6.867,
   "standout": false,
   "humor_type": "provocateur",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 2100000
  },
  {
   "special": "AV",
@@ -1232,7 +1296,8 @@
   "wr": 6.865,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 23800000
  },
  {
   "special": "N\u00f6",
@@ -1245,7 +1310,8 @@
   "wr": 6.856,
   "standout": false,
   "humor_type": "dark-confessional",
-  "generation": "tens"
+  "generation": "tens",
+  "netflix_hours": 6700000
  },
  {
   "special": "N\u00f6",
@@ -1258,7 +1324,8 @@
   "wr": 6.856,
   "standout": false,
   "humor_type": "observational",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 200000
  },
  {
   "special": "N\u00f6",
@@ -1271,7 +1338,8 @@
   "wr": 6.856,
   "standout": false,
   "humor_type": "storytelling",
-  "generation": "nineties"
+  "generation": "nineties",
+  "netflix_hours": 13500000
  },
  {
   "special": "N\u00f6",
@@ -1284,7 +1352,8 @@
   "wr": 6.856,
   "standout": false,
   "humor_type": "rant",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 8700000
  },
  {
   "special": "N\u00f6",
@@ -1297,6 +1366,7 @@
   "wr": 6.856,
   "standout": false,
   "humor_type": "meta",
-  "generation": "aughts"
+  "generation": "aughts",
+  "netflix_hours": 4200000
  }
 ]
