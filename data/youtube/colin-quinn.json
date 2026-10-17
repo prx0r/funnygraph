@@ -1,0 +1,95 @@
+{
+ "comedian_id": "colin-quinn",
+ "name": "Colin Quinn",
+ "clips": 6,
+ "total_views": 7395284,
+ "total_likes": 91363,
+ "avg_views": 1232547,
+ "like_rate": 0.01235,
+ "top_clip": {
+  "videoId": "AkASbRIfupU",
+  "title": "Patrice O'Neal on Tough Crowd With Colin Quinn (Classic Patrice)",
+  "channel": "Apostle P",
+  "channel_subs": 1790,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2016-12-07",
+  "views": 2354428,
+  "likes": 26070,
+  "comments": 2342,
+  "duration_s": 1517
+ },
+ "rows": [
+  {
+   "videoId": "AkASbRIfupU",
+   "title": "Patrice O'Neal on Tough Crowd With Colin Quinn (Classic Patrice)",
+   "channel": "Apostle P",
+   "channel_subs": 1790,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2016-12-07",
+   "views": 2354428,
+   "likes": 26070,
+   "comments": 2342,
+   "duration_s": 1517
+  },
+  {
+   "videoId": "ymltNm4p2VY",
+   "title": "Tough Crowd With Colin Quinn: Leary vs. Giraldo",
+   "channel": "sneakerpimpin2381",
+   "channel_subs": 5330,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2010-04-23",
+   "views": 1803532,
+   "likes": 8525,
+   "comments": 2726,
+   "duration_s": 361
+  },
+  {
+   "videoId": "EmxFDvxO07g",
+   "title": "Colin Quinn's Odd Encounter with Bill Cosby",
+   "channel": "JRE Clips",
+   "channel_subs": 8320000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2020-10-08",
+   "views": 1085072,
+   "likes": 11930,
+   "comments": 1234,
+   "duration_s": 259
+  },
+  {
+   "videoId": "wXcZKRHnMVA",
+   "title": "Long Story Short | History of the World with Colin Quinn | Stand Up Comedy Special",
+   "channel": "Colin Quinn",
+   "channel_subs": 67400,
+   "bracket": "small (<100k)",
+   "publishedAt": "2023-09-27",
+   "views": 847493,
+   "likes": 18351,
+   "comments": 1539,
+   "duration_s": 4974
+  },
+  {
+   "videoId": "e-PGVxGEpA0",
+   "title": "Colin Quinn: Our Time Is Up | Full Stand Up Comedy Special",
+   "channel": "Colin Quinn",
+   "channel_subs": 67400,
+   "bracket": "small (<100k)",
+   "publishedAt": "2024-05-03",
+   "views": 752604,
+   "likes": 24936,
+   "comments": 2600,
+   "duration_s": 2971
+  },
+  {
+   "videoId": "M5-rHqbp4vE",
+   "title": "www.TheCollegeFix.com: Comedian Colin Quinn NAILS it on PC culture",
+   "channel": "The College Fix",
+   "channel_subs": 33800,
+   "bracket": "small (<100k)",
+   "publishedAt": "2015-08-25",
+   "views": 552155,
+   "likes": 1551,
+   "comments": 184,
+   "duration_s": 108
+  }
+ ]
+}

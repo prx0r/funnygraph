@@ -1,0 +1,95 @@
+{
+ "comedian_id": "d-l-hughley",
+ "name": "D L Hughley",
+ "clips": 6,
+ "total_views": 8287688,
+ "total_likes": 155310,
+ "avg_views": 1381281,
+ "like_rate": 0.01874,
+ "top_clip": {
+  "videoId": "e44hXvuy3OA",
+  "title": "Over an Hour of 420 Jokes - Stand-Up Comedy from Comedy Dynamics",
+  "channel": "Comedy Dynamics",
+  "channel_subs": 849000,
+  "bracket": "mid (<1M)",
+  "publishedAt": "2024-04-20",
+  "views": 2579448,
+  "likes": 18814,
+  "comments": 857,
+  "duration_s": 3667
+ },
+ "rows": [
+  {
+   "videoId": "e44hXvuy3OA",
+   "title": "Over an Hour of 420 Jokes - Stand-Up Comedy from Comedy Dynamics",
+   "channel": "Comedy Dynamics",
+   "channel_subs": 849000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2024-04-20",
+   "views": 2579448,
+   "likes": 18814,
+   "comments": 857,
+   "duration_s": 3667
+  },
+  {
+   "videoId": "bT_UP2iFtr0",
+   "title": "Don't forget to leave a like and subscribe \ud83d\ude18\u2764\ufe0f -  The Original Kings of Comedy FULL MOVIE",
+   "channel": "Audiore",
+   "channel_subs": 7610,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2021-05-07",
+   "views": 1361175,
+   "likes": 21456,
+   "comments": 1415,
+   "duration_s": 6953
+  },
+  {
+   "videoId": "ytZMnLXDxWk",
+   "title": "be happy for me! #DLHughley",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-08-06",
+   "views": 1224470,
+   "likes": 77777,
+   "comments": 957,
+   "duration_s": 59
+  },
+  {
+   "videoId": "ZL0R4Y4wLS4",
+   "title": "DL Hughley: Steve Harvey & Bernie Mac Beef Prevented Kings of Comedy 2 (Part 9)",
+   "channel": "djvlad",
+   "channel_subs": 6460000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2018-12-25",
+   "views": 1221110,
+   "likes": 11920,
+   "comments": 1854,
+   "duration_s": 389
+  },
+  {
+   "videoId": "5lMeaG_cIJs",
+   "title": "Why You Don\u2019t See Many Black Daredevils - DL Hughley",
+   "channel": "Comedy Central Stand-Up",
+   "channel_subs": 2820000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2019-09-19",
+   "views": 1134750,
+   "likes": 21139,
+   "comments": 983,
+   "duration_s": 345
+  },
+  {
+   "videoId": "ttylyzX38-E",
+   "title": "DL Hughley Strictly Revolutionary Comedy Mix",
+   "channel": "Jason Robo: Nomadic comedian, firespinner & Yarnbi",
+   "channel_subs": 25400,
+   "bracket": "small (<100k)",
+   "publishedAt": "2016-10-07",
+   "views": 766735,
+   "likes": 4204,
+   "comments": 220,
+   "duration_s": 6836
+  }
+ ]
+}

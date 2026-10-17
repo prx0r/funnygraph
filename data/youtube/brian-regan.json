@@ -1,0 +1,95 @@
+{
+ "comedian_id": "brian-regan",
+ "name": "Brian Regan",
+ "clips": 6,
+ "total_views": 34202118,
+ "total_likes": 228287,
+ "avg_views": 5700353,
+ "like_rate": 0.00667,
+ "top_clip": {
+  "videoId": "N-i9GXbptog",
+  "title": "Jim Gaffigan - Beyond the Pale - Hot Pockets",
+  "channel": "jimgaffigan",
+  "channel_subs": 1030000,
+  "bracket": "big (1M+)",
+  "publishedAt": "2010-06-14",
+  "views": 8496907,
+  "likes": 48185,
+  "comments": 2609,
+  "duration_s": 278
+ },
+ "rows": [
+  {
+   "videoId": "N-i9GXbptog",
+   "title": "Jim Gaffigan - Beyond the Pale - Hot Pockets",
+   "channel": "jimgaffigan",
+   "channel_subs": 1030000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2010-06-14",
+   "views": 8496907,
+   "likes": 48185,
+   "comments": 2609,
+   "duration_s": 278
+  },
+  {
+   "videoId": "-K6qblP_LUs",
+   "title": "MOOSEN & BOXEN cc: @BrianReganComic #boxen #moosen #brianregan #djhuntsofficial #comedyshorts #funny",
+   "channel": "DJ Hunts",
+   "channel_subs": 2340000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2023-04-24",
+   "views": 6088000,
+   "likes": 0,
+   "comments": 3614,
+   "duration_s": 60
+  },
+  {
+   "videoId": "QWzYaZDK6Is",
+   "title": "Brian Regan-Stupid In School",
+   "channel": "OreosRock555",
+   "channel_subs": 4530,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2009-03-15",
+   "views": 5877134,
+   "likes": 52189,
+   "comments": 1988,
+   "duration_s": 320
+  },
+  {
+   "videoId": "aEACJV9n3QI",
+   "title": "The Most One-Liners You'll Ever Hear In A Comedy Show. Brian Kiley - Full Special",
+   "channel": "Dry Bar Comedy",
+   "channel_subs": 3090000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2023-12-21",
+   "views": 5234393,
+   "likes": 73425,
+   "comments": 3280,
+   "duration_s": 1483
+  },
+  {
+   "videoId": "yXLUncbZKbs",
+   "title": "brian regan little league",
+   "channel": "Misc_Cloclo",
+   "channel_subs": 1680,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2007-07-14",
+   "views": 4438019,
+   "likes": 16899,
+   "comments": 1359,
+   "duration_s": 400
+  },
+  {
+   "videoId": "xkrMsPiqG6M",
+   "title": "Brian Regan Stupid in School",
+   "channel": "Lostworld17",
+   "channel_subs": 4780,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2010-04-08",
+   "views": 4067665,
+   "likes": 37589,
+   "comments": 1685,
+   "duration_s": 305
+  }
+ ]
+}

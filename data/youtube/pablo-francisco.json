@@ -1,0 +1,95 @@
+{
+ "comedian_id": "pablo-francisco",
+ "name": "Pablo Francisco",
+ "clips": 6,
+ "total_views": 24515303,
+ "total_likes": 61150,
+ "avg_views": 4085883,
+ "like_rate": 0.00249,
+ "top_clip": {
+  "videoId": "y9pAv-z2ens",
+  "title": "Pablo Francisco - Little Tortilla Boy (Stand-up Comedy)",
+  "channel": "standupcomedyvideos",
+  "channel_subs": 1500,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2007-02-11",
+  "views": 5520525,
+  "likes": 13823,
+  "comments": 858,
+  "duration_s": 102
+ },
+ "rows": [
+  {
+   "videoId": "y9pAv-z2ens",
+   "title": "Pablo Francisco - Little Tortilla Boy (Stand-up Comedy)",
+   "channel": "standupcomedyvideos",
+   "channel_subs": 1500,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2007-02-11",
+   "views": 5520525,
+   "likes": 13823,
+   "comments": 858,
+   "duration_s": 102
+  },
+  {
+   "videoId": "1jdeqKte98g",
+   "title": "Pablo Francisco - old people talk dirty",
+   "channel": "lowak",
+   "channel_subs": 3350,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2006-06-06",
+   "views": 4643894,
+   "likes": 10206,
+   "comments": 960,
+   "duration_s": 93
+  },
+  {
+   "videoId": "o_F2xwlrT_8",
+   "title": "Pablo Francisco - Mexican Comedian - Brokeback Mountain",
+   "channel": "\u2622 \u1d05\u1d20\u1d05 \u1d18\u029f\u1d00\u028f\u1d00 \u2623",
+   "channel_subs": 6010,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2006-12-14",
+   "views": 4269958,
+   "likes": 12434,
+   "comments": 1456,
+   "duration_s": 376
+  },
+  {
+   "videoId": "trrb9FDfuGo",
+   "title": "Pablo Francisco - psycho chicks",
+   "channel": "lowak",
+   "channel_subs": 3350,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2006-06-08",
+   "views": 3456898,
+   "likes": 6207,
+   "comments": 356,
+   "duration_s": 90
+  },
+  {
+   "videoId": "LgrMi7KgNW8",
+   "title": "Pablo Francisco- 'Bits and Pieces'- Part One",
+   "channel": "Scott Denoon",
+   "channel_subs": 1030,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2007-09-29",
+   "views": 3387409,
+   "likes": 9400,
+   "comments": 882,
+   "duration_s": 559
+  },
+  {
+   "videoId": "ixToQbFc53A",
+   "title": "Pablo Francisco - all about preview guy",
+   "channel": "lowak",
+   "channel_subs": 3350,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2006-06-08",
+   "views": 3236619,
+   "likes": 9080,
+   "comments": 669,
+   "duration_s": 191
+  }
+ ]
+}

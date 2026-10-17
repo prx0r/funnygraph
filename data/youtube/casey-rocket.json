@@ -1,0 +1,95 @@
+{
+ "comedian_id": "casey-rocket",
+ "name": "Casey Rocket",
+ "clips": 6,
+ "total_views": 47716245,
+ "total_likes": 748337,
+ "avg_views": 7952707,
+ "like_rate": 0.01568,
+ "top_clip": {
+  "videoId": "ZgHR4ug866Q",
+  "title": "KT #672 - DONALD TRUMP (SHANE GILLIS) + JOE BIDEN (ADAM RAY)",
+  "channel": "Kill Tony",
+  "channel_subs": 2800000,
+  "bracket": "big (1M+)",
+  "publishedAt": "2024-07-16",
+  "views": 31444698,
+  "likes": 520696,
+  "comments": 35557,
+  "duration_s": 8813
+ },
+ "rows": [
+  {
+   "videoId": "ZgHR4ug866Q",
+   "title": "KT #672 - DONALD TRUMP (SHANE GILLIS) + JOE BIDEN (ADAM RAY)",
+   "channel": "Kill Tony",
+   "channel_subs": 2800000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-07-16",
+   "views": 31444698,
+   "likes": 520696,
+   "comments": 35557,
+   "duration_s": 8813
+  },
+  {
+   "videoId": "kIM4U2c7XJQ",
+   "title": "KT #663 - DR PHIL (ADAM RAY) + AKAASH SINGH",
+   "channel": "Kill Tony",
+   "channel_subs": 2800000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-05-14",
+   "views": 5360275,
+   "likes": 72477,
+   "comments": 9338,
+   "duration_s": 7436
+  },
+  {
+   "videoId": "ghDaTYbmC9o",
+   "title": "KT #664 - KAM PATTERSON + WILLIAM MONTGOMERY + CASEY ROCKET",
+   "channel": "Kill Tony",
+   "channel_subs": 2800000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-05-21",
+   "views": 3524197,
+   "likes": 42681,
+   "comments": 4693,
+   "duration_s": 7593
+  },
+  {
+   "videoId": "Z6sSORy6Xag",
+   "title": "KT #654 - MATT MCCUSKER",
+   "channel": "Kill Tony",
+   "channel_subs": 2800000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-03-12",
+   "views": 2825273,
+   "likes": 37335,
+   "comments": 6109,
+   "duration_s": 7300
+  },
+  {
+   "videoId": "ClWf2ahkTMI",
+   "title": "Best of \"Kill Tony\": Funniest Comedians Compilation (Part 1)\ud83d\udd25 - Great Comedians",
+   "channel": "Vertides",
+   "channel_subs": 6390,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2024-07-21",
+   "views": 2401325,
+   "likes": 14835,
+   "comments": 1057,
+   "duration_s": 2200
+  },
+  {
+   "videoId": "rE9hKQ_JMsI",
+   "title": "Casey Rocket Shocks Shane Gillis & Joe Rogan.. \ud83d\ude02\ud83d\ude02 | Kill Tony",
+   "channel": "Slice Comedy",
+   "channel_subs": 339000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2025-07-24",
+   "views": 2160477,
+   "likes": 60313,
+   "comments": 274,
+   "duration_s": 55
+  }
+ ]
+}

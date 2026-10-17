@@ -85,8 +85,44 @@ def search_clips(name: str, key: str, max_results: int = 10) -> list[dict]:
         if vid:
             out.append({"videoId": vid, "title": sn.get("title", ""),
                         "channel": sn.get("channelTitle", ""),
+                        "channelId": sn.get("channelId", ""),
                         "publishedAt": sn.get("publishedAt", "")[:10]})
     return out
+
+
+def channel_subs(ids: list[str], key: str) -> dict:
+    """channelId → subs + total views. 1 unit per 50."""
+    out = {}
+    ids = [i for i in dict.fromkeys(ids) if i]
+    for i in range(0, len(ids), 50):
+        chunk = ids[i:i + 50]
+        url = (f"{API}/channels?part=statistics&id=" + ",".join(chunk)
+               + f"&key={key}")
+        try:
+            d = _get(url)
+        except Exception:
+            continue
+        for it in d.get("items") or []:
+            st = it.get("statistics") or {}
+            try:
+                out[it["id"]] = {
+                    "subs": int(st.get("subscriberCount", 0)),
+                    "channel_views": int(st.get("viewCount", 0)),
+                }
+            except (TypeError, ValueError):
+                continue
+        time.sleep(0.3)
+    return out
+
+
+def sub_bracket(subs: int) -> str:
+    if subs < 10_000:
+        return "micro (<10k)"
+    if subs < 100_000:
+        return "small (<100k)"
+    if subs < 1_000_000:
+        return "mid (<1M)"
+    return "big (1M+)"
 
 
 def video_stats(ids: list[str], key: str) -> dict:
@@ -116,13 +152,17 @@ def video_stats(ids: list[str], key: str) -> dict:
 def harvest(cid: str, name: str, key: str, n: int = 10) -> dict:
     clips = search_clips(name, key, max_results=n)
     stats = video_stats([c["videoId"] for c in clips], key) if clips else {}
+    subs = channel_subs([c.get("channelId", "") for c in clips], key)
     rows = []
     for c in clips:
         s = stats.get(c["videoId"], {})
+        ch = subs.get(c.get("channelId", ""), {})
         rows.append({
             "videoId": c["videoId"],
             "title": s.get("title") or c["title"],
             "channel": s.get("channel") or c["channel"],
+            "channel_subs": ch.get("subs", 0),
+            "bracket": sub_bracket(ch.get("subs", 0)),
             "publishedAt": s.get("publishedAt") or c["publishedAt"],
             **{k: s.get(k, 0) for k in ("views", "likes", "comments", "duration_s")},
         })
@@ -146,6 +186,8 @@ def main() -> None:
     ap.add_argument("--top", type=int, default=0, help="top N by current rank")
     ap.add_argument("--only", default="")
     ap.add_argument("--n", type=int, default=8, help="clips per comedian")
+    ap.add_argument("--refresh", action="store_true",
+                    help="re-harvest even if cached (for subs backfill)")
     args = ap.parse_args()
     key = _key()
     if not key:
@@ -173,7 +215,7 @@ def main() -> None:
     print(f"{len(comics)} comedians × ~101 units ≈ {len(comics)*101} quota")
     done = 0
     for cid, name in comics:
-        if (DATA / f"{cid}.json").exists():
+        if (DATA / f"{cid}.json").exists() and not args.refresh:
             continue
         try:
             a = harvest(cid, name, key, n=args.n)

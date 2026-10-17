@@ -1,0 +1,95 @@
+{
+ "comedian_id": "jim-jefferies",
+ "name": "Jim Jefferies",
+ "clips": 6,
+ "total_views": 54352832,
+ "total_likes": 313666,
+ "avg_views": 9058805,
+ "like_rate": 0.00577,
+ "top_clip": {
+  "videoId": "0rR9IaXH1M0",
+  "title": "Jim Jefferies -- Gun Control (Part 1) from BARE -- Netflix Special",
+  "channel": "Jim Jefferies",
+  "channel_subs": 348000,
+  "bracket": "mid (<1M)",
+  "publishedAt": "2015-10-09",
+  "views": 22794933,
+  "likes": 0,
+  "comments": 44214,
+  "duration_s": 468
+ },
+ "rows": [
+  {
+   "videoId": "0rR9IaXH1M0",
+   "title": "Jim Jefferies -- Gun Control (Part 1) from BARE -- Netflix Special",
+   "channel": "Jim Jefferies",
+   "channel_subs": 348000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2015-10-09",
+   "views": 22794933,
+   "likes": 0,
+   "comments": 44214,
+   "duration_s": 468
+  },
+  {
+   "videoId": "qFx1Cpxpx1E",
+   "title": "Jim Jefferies -- Airplane Etiquette -- Fully Functional",
+   "channel": "Jim Jefferies",
+   "channel_subs": 348000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2015-08-03",
+   "views": 8368699,
+   "likes": 0,
+   "comments": 1459,
+   "duration_s": 593
+  },
+  {
+   "videoId": "L-98RjrmqO4",
+   "title": "Jim Jefferies - Donald Trump - Full Length Official Clip -- From Freedumb Netflix Special",
+   "channel": "Jim Jefferies",
+   "channel_subs": 348000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2016-08-10",
+   "views": 7163180,
+   "likes": 0,
+   "comments": 6735,
+   "duration_s": 384
+  },
+  {
+   "videoId": "XxvsQ0S8_Ro",
+   "title": "Mansplaining at its finest #JimJefferies",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2025-08-12",
+   "views": 6450699,
+   "likes": 169294,
+   "comments": 4525,
+   "duration_s": 69
+  },
+  {
+   "videoId": "atKex-cgJqY",
+   "title": "KT #788 | The joke to end all jokes \ud83c\udfe2\ud83d\udebb\ud83d\ude05 | Angie Stroud #lol #Jokes",
+   "channel": "6ixLaughs",
+   "channel_subs": 34300,
+   "bracket": "small (<100k)",
+   "publishedAt": "2026-10-06",
+   "views": 5574453,
+   "likes": 144372,
+   "comments": 3497,
+   "duration_s": 89
+  },
+  {
+   "videoId": "1oyKVAjISmI",
+   "title": "Jim Jefferies - Freedumb - Full Length Official Clip -- From Freedumb Netflix Special",
+   "channel": "Jim Jefferies",
+   "channel_subs": 348000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2016-08-10",
+   "views": 4000868,
+   "likes": 0,
+   "comments": 2371,
+   "duration_s": 427
+  }
+ ]
+}

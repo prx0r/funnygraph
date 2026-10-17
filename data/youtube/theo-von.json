@@ -1,0 +1,95 @@
+{
+ "comedian_id": "theo-von",
+ "name": "Theo Von",
+ "clips": 6,
+ "total_views": 165802608,
+ "total_likes": 3696435,
+ "avg_views": 27633768,
+ "like_rate": 0.02229,
+ "top_clip": {
+  "videoId": "zKUpf1Vx0vs",
+  "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+  "channel": "Gilly and Keeves",
+  "channel_subs": 1130000,
+  "bracket": "big (1M+)",
+  "publishedAt": "2021-09-07",
+  "views": 58739832,
+  "likes": 695022,
+  "comments": 32750,
+  "duration_s": 2885
+ },
+ "rows": [
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "channel_subs": 1130000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2021-09-07",
+   "views": 58739832,
+   "likes": 695022,
+   "comments": 32750,
+   "duration_s": 2885
+  },
+  {
+   "videoId": "9NNbjCq9p7Q",
+   "title": "Did Theo Von actually finish school?",
+   "channel": "Get Down with Sean and Marley",
+   "channel_subs": 1010000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-04-19",
+   "views": 29569865,
+   "likes": 1434538,
+   "comments": 11658,
+   "duration_s": 37
+  },
+  {
+   "videoId": "DXkhxHP-3Ss",
+   "title": "Theo Von Offers Druski Lotion Mid-Podcast \ud83d\ude02",
+   "channel": "Strictly Funny Business",
+   "channel_subs": 128000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2024-03-23",
+   "views": 23748118,
+   "likes": 879013,
+   "comments": 8055,
+   "duration_s": 20
+  },
+  {
+   "videoId": "ehmouhdRiJI",
+   "title": "THEO VON takes it TOO FAR with LAINEY WILSON. \ud83e\udd23 #theovon #laineywilson #podcast #funny #parody",
+   "channel": "Debuted",
+   "channel_subs": 132000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2023-09-04",
+   "views": 20311158,
+   "likes": 0,
+   "comments": 2285,
+   "duration_s": 19
+  },
+  {
+   "videoId": "vC5cHjcgt5g",
+   "title": "Donald Trump | This Past Weekend w/ Theo Von #526",
+   "channel": "Theo Von",
+   "channel_subs": 4780000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-08-20",
+   "views": 17622446,
+   "likes": 478880,
+   "comments": 66600,
+   "duration_s": 3452
+  },
+  {
+   "videoId": "SQq4C7NluwY",
+   "title": "15 More Minutes of Katt Williams",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2022-05-22",
+   "views": 15811189,
+   "likes": 208982,
+   "comments": 5872,
+   "duration_s": 929
+  }
+ ]
+}

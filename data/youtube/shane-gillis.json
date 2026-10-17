@@ -1,0 +1,95 @@
+{
+ "comedian_id": "shane-gillis",
+ "name": "Shane Gillis",
+ "clips": 6,
+ "total_views": 227530578,
+ "total_likes": 6296327,
+ "avg_views": 37921763,
+ "like_rate": 0.02767,
+ "top_clip": {
+  "videoId": "oQYLTPkuK-s",
+  "title": "Tony Calls Her Up on Stage to Translate... #killtony 577 #comedy #standupcomedy",
+  "channel": "Tony\u2019s Short Shorts",
+  "channel_subs": 224000,
+  "bracket": "mid (<1M)",
+  "publishedAt": "2023-12-01",
+  "views": 79451591,
+  "likes": 3060599,
+  "comments": 5830,
+  "duration_s": 60
+ },
+ "rows": [
+  {
+   "videoId": "oQYLTPkuK-s",
+   "title": "Tony Calls Her Up on Stage to Translate... #killtony 577 #comedy #standupcomedy",
+   "channel": "Tony\u2019s Short Shorts",
+   "channel_subs": 224000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2023-12-01",
+   "views": 79451591,
+   "likes": 3060599,
+   "comments": 5830,
+   "duration_s": 60
+  },
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "channel_subs": 1130000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2021-09-07",
+   "views": 58739832,
+   "likes": 695022,
+   "comments": 32750,
+   "duration_s": 2885
+  },
+  {
+   "videoId": "ZgHR4ug866Q",
+   "title": "KT #672 - DONALD TRUMP (SHANE GILLIS) + JOE BIDEN (ADAM RAY)",
+   "channel": "Kill Tony",
+   "channel_subs": 2800000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-07-16",
+   "views": 31444698,
+   "likes": 520696,
+   "comments": 35557,
+   "duration_s": 8813
+  },
+  {
+   "videoId": "JjR_m88xtUY",
+   "title": "Shane Gillis Relates To The Middle East \ud83d\ude02",
+   "channel": "Loop Laughs",
+   "channel_subs": 71200,
+   "bracket": "small (<100k)",
+   "publishedAt": "2023-10-18",
+   "views": 20263482,
+   "likes": 1224994,
+   "comments": 6129,
+   "duration_s": 61
+  },
+  {
+   "videoId": "57pGarTBJrU",
+   "title": "Dave Chappelle Stand-Up Monologue 2025 - SNL",
+   "channel": "Saturday Night Live",
+   "channel_subs": 17400000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2025-01-19",
+   "views": 18856338,
+   "likes": 482335,
+   "comments": 32452,
+   "duration_s": 1022
+  },
+  {
+   "videoId": "2m2520TuUdk",
+   "title": "Matt Rife | Only Fans (Full Comedy Special)",
+   "channel": "800 Pound Gorilla Media",
+   "channel_subs": 684000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2023-01-20",
+   "views": 18774637,
+   "likes": 312681,
+   "comments": 9899,
+   "duration_s": 3820
+  }
+ ]
+}

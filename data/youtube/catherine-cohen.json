@@ -1,0 +1,95 @@
+{
+ "comedian_id": "catherine-cohen",
+ "name": "Catherine Cohen",
+ "clips": 6,
+ "total_views": 322809,
+ "total_likes": 4602,
+ "avg_views": 53801,
+ "like_rate": 0.01426,
+ "top_clip": {
+  "videoId": "M_qJVOJ_5Gw",
+  "title": "Catherine Cohen: The Twist\u2026? She\u2019s Gorgeous. | Official Trailer | Netflix",
+  "channel": "Netflix",
+  "channel_subs": 33700000,
+  "bracket": "big (1M+)",
+  "publishedAt": "2022-03-07",
+  "views": 96714,
+  "likes": 1121,
+  "comments": 124,
+  "duration_s": 75
+ },
+ "rows": [
+  {
+   "videoId": "M_qJVOJ_5Gw",
+   "title": "Catherine Cohen: The Twist\u2026? She\u2019s Gorgeous. | Official Trailer | Netflix",
+   "channel": "Netflix",
+   "channel_subs": 33700000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2022-03-07",
+   "views": 96714,
+   "likes": 1121,
+   "comments": 124,
+   "duration_s": 75
+  },
+  {
+   "videoId": "2-GNtSBmsfM",
+   "title": "Catherine Cohen on Women's Clothing Sizes",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2022-03-29",
+   "views": 62100,
+   "likes": 1310,
+   "comments": 60,
+   "duration_s": 268
+  },
+  {
+   "videoId": "MDYIK3XH6nE",
+   "title": "Catherine Cohen Was Literally Speechless When Netflix Gave Her a Comedy Special",
+   "channel": "Late Night with Seth Meyers",
+   "channel_subs": 5310000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2022-03-15",
+   "views": 57876,
+   "likes": 885,
+   "comments": 71,
+   "duration_s": 349
+  },
+  {
+   "videoId": "kMnLhWsLVpM",
+   "title": "Cat Cohen Had Her Lady In A Movie Moment | Catherine Cohen: The Twist\u2026? She\u2019s Gorgeous",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2022-03-15",
+   "views": 47647,
+   "likes": 634,
+   "comments": 65,
+   "duration_s": 117
+  },
+  {
+   "videoId": "stOVIcr273A",
+   "title": "Catherine Cohen at New American Comedy, March 2016",
+   "channel": "New American Comedy",
+   "channel_subs": 203,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2016-04-25",
+   "views": 34179,
+   "likes": 386,
+   "comments": 25,
+   "duration_s": 485
+  },
+  {
+   "videoId": "XPKD7Q6qyA8",
+   "title": "Catherine Cohen's Summer Anthem | \ufeffNetflix",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2023-01-28",
+   "views": 24293,
+   "likes": 266,
+   "comments": 27,
+   "duration_s": 172
+  }
+ ]
+}

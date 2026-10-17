@@ -1,0 +1,95 @@
+{
+ "comedian_id": "lewis-black",
+ "name": "Lewis Black",
+ "clips": 6,
+ "total_views": 25734832,
+ "total_likes": 1021755,
+ "avg_views": 4289138,
+ "like_rate": 0.0397,
+ "top_clip": {
+  "videoId": "UpFpIzbuuUs",
+  "title": "The Problem With Black Snape | Lewis Spears | Stand Up Comedy",
+  "channel": "Lewis Spears",
+  "channel_subs": 608000,
+  "bracket": "mid (<1M)",
+  "publishedAt": "2026-04-29",
+  "views": 9240456,
+  "likes": 518618,
+  "comments": 14275,
+  "duration_s": 121
+ },
+ "rows": [
+  {
+   "videoId": "UpFpIzbuuUs",
+   "title": "The Problem With Black Snape | Lewis Spears | Stand Up Comedy",
+   "channel": "Lewis Spears",
+   "channel_subs": 608000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2026-04-29",
+   "views": 9240456,
+   "likes": 518618,
+   "comments": 14275,
+   "duration_s": 121
+  },
+  {
+   "videoId": "ZPYkWsa77Rk",
+   "title": "While the US struggles with gun violence, Europeans have to deal with real first world problems",
+   "channel": "The Daily Show",
+   "channel_subs": 14000000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2023-08-24",
+   "views": 7833488,
+   "likes": 326554,
+   "comments": 14455,
+   "duration_s": 48
+  },
+  {
+   "videoId": "KtE_g3cHTZE",
+   "title": "Lewis Black: Tragically, I Need You (Full Special 2023)",
+   "channel": "Lewis Black",
+   "channel_subs": 252000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2023-05-02",
+   "views": 2400910,
+   "likes": 46806,
+   "comments": 3110,
+   "duration_s": 3806
+  },
+  {
+   "videoId": "yhWqls-CQww",
+   "title": "Lewis Black Gives Elon's Cybertruck Two Middle Fingers Up - Back in Black | The Daily Show",
+   "channel": "The Daily Show",
+   "channel_subs": 14000000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-05-09",
+   "views": 2173233,
+   "likes": 69647,
+   "comments": 4561,
+   "duration_s": 330
+  },
+  {
+   "videoId": "bUYUSXyp3Pg",
+   "title": "Every Black Person Needs A Few White Friends. Drew Thomas",
+   "channel": "Dry Bar Comedy",
+   "channel_subs": 3090000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-08-07",
+   "views": 2074144,
+   "likes": 48815,
+   "comments": 1649,
+   "duration_s": 247
+  },
+  {
+   "videoId": "7WlwumGkSec",
+   "title": "Lewis Black | Drinking in Wisconsin",
+   "channel": "joybuzzer",
+   "channel_subs": 1880,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2008-08-28",
+   "views": 2012601,
+   "likes": 11315,
+   "comments": 0,
+   "duration_s": 343
+  }
+ ]
+}

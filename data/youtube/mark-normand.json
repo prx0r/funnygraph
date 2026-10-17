@@ -1,0 +1,95 @@
+{
+ "comedian_id": "mark-normand",
+ "name": "Mark Normand",
+ "clips": 6,
+ "total_views": 115577905,
+ "total_likes": 2019891,
+ "avg_views": 19262984,
+ "like_rate": 0.01748,
+ "top_clip": {
+  "videoId": "zKUpf1Vx0vs",
+  "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+  "channel": "Gilly and Keeves",
+  "channel_subs": 1130000,
+  "bracket": "big (1M+)",
+  "publishedAt": "2021-09-07",
+  "views": 58739832,
+  "likes": 695022,
+  "comments": 32750,
+  "duration_s": 2885
+ },
+ "rows": [
+  {
+   "videoId": "zKUpf1Vx0vs",
+   "title": "Shane Gillis Live In Austin | Stand Up Comedy",
+   "channel": "Gilly and Keeves",
+   "channel_subs": 1130000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2021-09-07",
+   "views": 58739832,
+   "likes": 695022,
+   "comments": 32750,
+   "duration_s": 2885
+  },
+  {
+   "videoId": "6ESTVOlokEg",
+   "title": "\u201cNo PANTIES PARTY\u201d?!! \ud83d\ude02\ud83e\udd23 | First Date ft. Mark Normand #comedy",
+   "channel": "Comedy Clips Central",
+   "channel_subs": 1250000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-04-15",
+   "views": 19715731,
+   "likes": 277474,
+   "comments": 3178,
+   "duration_s": 30
+  },
+  {
+   "videoId": "tDolNU89SXI",
+   "title": "Mark Normand: Out To Lunch - Full Special",
+   "channel": "mark normand",
+   "channel_subs": 846000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2020-05-13",
+   "views": 13880668,
+   "likes": 345685,
+   "comments": 18316,
+   "duration_s": 3239
+  },
+  {
+   "videoId": "BxN3V5O1_A4",
+   "title": "Shane Gillis | Autistic People | Stand-Up On The Spot",
+   "channel": "Jeremiah Watkins",
+   "channel_subs": 222000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2022-09-01",
+   "views": 8661744,
+   "likes": 108275,
+   "comments": 2761,
+   "duration_s": 579
+  },
+  {
+   "videoId": "gJ1DNWZjC9E",
+   "title": "Mark Normand | Out To Lunch | Close to Pedophile",
+   "channel": "800 Pound Gorilla Media",
+   "channel_subs": 684000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2022-09-22",
+   "views": 8447489,
+   "likes": 461827,
+   "comments": 4240,
+   "duration_s": 32
+  },
+  {
+   "videoId": "Ol11bZZhDPY",
+   "title": "LOL Joe Rogan in 1990 was SAVAGE \ud83d\udc80 Joe Rogan on Marriage #jre #joerogan #comedy",
+   "channel": "PeakSet",
+   "channel_subs": 18000,
+   "bracket": "small (<100k)",
+   "publishedAt": "2023-03-14",
+   "views": 6132441,
+   "likes": 131608,
+   "comments": 9796,
+   "duration_s": 35
+  }
+ ]
+}

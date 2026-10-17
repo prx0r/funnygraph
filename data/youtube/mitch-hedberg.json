@@ -1,0 +1,71 @@
+{
+ "comedian_id": "mitch-hedberg",
+ "name": "Mitch Hedberg",
+ "clips": 4,
+ "total_views": 25944426,
+ "total_likes": 258182,
+ "avg_views": 6486106,
+ "like_rate": 0.00995,
+ "top_clip": {
+  "videoId": "Qqaq7MIcN0A",
+  "title": "Mitch Hedberg - Best Show Ever!",
+  "channel": "Orlando C",
+  "channel_subs": 8340,
+  "bracket": "micro (<10k)",
+  "publishedAt": "2017-07-17",
+  "views": 7376668,
+  "likes": 70036,
+  "comments": 5839,
+  "duration_s": 2592
+ },
+ "rows": [
+  {
+   "videoId": "Qqaq7MIcN0A",
+   "title": "Mitch Hedberg - Best Show Ever!",
+   "channel": "Orlando C",
+   "channel_subs": 8340,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2017-07-17",
+   "views": 7376668,
+   "likes": 70036,
+   "comments": 5839,
+   "duration_s": 2592
+  },
+  {
+   "videoId": "Z_XbtYfrNYI",
+   "title": "Mitch Hedberg: I Wish They Made Fajita Cologne | Late Night with Conan O\u2019Brien",
+   "channel": "Conan O'Brien",
+   "channel_subs": 619000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2020-01-03",
+   "views": 6590941,
+   "likes": 108305,
+   "comments": 6005,
+   "duration_s": 311
+  },
+  {
+   "videoId": "IueXtzdC6kA",
+   "title": "Mitch Hedberg - 5 minutes special",
+   "channel": "Arthur Chou",
+   "channel_subs": 639,
+   "bracket": "micro (<10k)",
+   "publishedAt": "2006-09-03",
+   "views": 6451352,
+   "likes": 23152,
+   "comments": 2390,
+   "duration_s": 356
+  },
+  {
+   "videoId": "cF8MpK-yK5o",
+   "title": "MITCH HEDBERG - HILARIOUS STAND-UP",
+   "channel": "MyTalkShowHeroes",
+   "channel_subs": 316000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2018-03-02",
+   "views": 5525465,
+   "likes": 56689,
+   "comments": 3845,
+   "duration_s": 460
+  }
+ ]
+}

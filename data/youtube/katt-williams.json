@@ -1,0 +1,95 @@
+{
+ "comedian_id": "katt-williams",
+ "name": "Katt Williams",
+ "clips": 6,
+ "total_views": 204634291,
+ "total_likes": 3040254,
+ "avg_views": 34105715,
+ "like_rate": 0.01486,
+ "top_clip": {
+  "videoId": "8oRRZiRQxTs",
+  "title": "Katt Williams Unleashed | CLUB SHAY SHAY",
+  "channel": "Club Shay Shay",
+  "channel_subs": 4320000,
+  "bracket": "big (1M+)",
+  "publishedAt": "2024-01-03",
+  "views": 94040983,
+  "likes": 1821195,
+  "comments": 242208,
+  "duration_s": 9965
+ },
+ "rows": [
+  {
+   "videoId": "8oRRZiRQxTs",
+   "title": "Katt Williams Unleashed | CLUB SHAY SHAY",
+   "channel": "Club Shay Shay",
+   "channel_subs": 4320000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-01-03",
+   "views": 94040983,
+   "likes": 1821195,
+   "comments": 242208,
+   "duration_s": 9965
+  },
+  {
+   "videoId": "kLDitGAUrno",
+   "title": "Every Day I'm Hustlin - Katt Williams: American Hustle",
+   "channel": "KUSH Comedy",
+   "channel_subs": 308000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2008-07-12",
+   "views": 30316207,
+   "likes": 231636,
+   "comments": 10566,
+   "duration_s": 226
+  },
+  {
+   "videoId": "1zb2SuW-jug",
+   "title": "Joe Rogan Experience #2111 - Katt Williams",
+   "channel": "PowerfulJRE",
+   "channel_subs": 21100000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-02-29",
+   "views": 26870791,
+   "likes": 492733,
+   "comments": 116277,
+   "duration_s": 11127
+  },
+  {
+   "videoId": "n3l4hJS0jsc",
+   "title": "40 Minutes of Black Comedy Excellence",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2021-02-16",
+   "views": 18542228,
+   "likes": 237886,
+   "comments": 6915,
+   "duration_s": 2279
+  },
+  {
+   "videoId": "_qlNEmpxQxI",
+   "title": "Poor Little Tink Tink - Katt Williams: It's Pimpin' Pimpin'",
+   "channel": "KUSH Comedy",
+   "channel_subs": 308000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2008-10-15",
+   "views": 18131588,
+   "likes": 72860,
+   "comments": 3883,
+   "duration_s": 215
+  },
+  {
+   "videoId": "WLGXxk29cxg",
+   "title": "Mike Epps Roasts Steph Curry and Draymond Green *MUST WATCH*",
+   "channel": "Boogie's Comedy Slam",
+   "channel_subs": 226000,
+   "bracket": "mid (<1M)",
+   "publishedAt": "2020-12-15",
+   "views": 16732494,
+   "likes": 183944,
+   "comments": 3487,
+   "duration_s": 181
+  }
+ ]
+}

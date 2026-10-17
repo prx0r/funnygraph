@@ -1,0 +1,95 @@
+{
+ "comedian_id": "patton-oswalt",
+ "name": "Patton Oswalt",
+ "clips": 6,
+ "total_views": 13813879,
+ "total_likes": 164030,
+ "avg_views": 2302313,
+ "like_rate": 0.01187,
+ "top_clip": {
+  "videoId": "-gbxzkU80HI",
+  "title": "Lavell Crawford: \u201cThe Devil Want Me to Stay Fat\u201d - Full Special",
+  "channel": "Comedy Central Stand-Up",
+  "channel_subs": 2820000,
+  "bracket": "big (1M+)",
+  "publishedAt": "2024-02-23",
+  "views": 4074226,
+  "likes": 62687,
+  "comments": 1948,
+  "duration_s": 1276
+ },
+ "rows": [
+  {
+   "videoId": "-gbxzkU80HI",
+   "title": "Lavell Crawford: \u201cThe Devil Want Me to Stay Fat\u201d - Full Special",
+   "channel": "Comedy Central Stand-Up",
+   "channel_subs": 2820000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-02-23",
+   "views": 4074226,
+   "likes": 62687,
+   "comments": 1948,
+   "duration_s": 1276
+  },
+  {
+   "videoId": "tfan5MacmsI",
+   "title": "Patton Oswalt - KFC Famous Bowls",
+   "channel": "Sub Pop",
+   "channel_subs": 1000000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2007-07-17",
+   "views": 2642264,
+   "likes": 9266,
+   "comments": 1167,
+   "duration_s": 147
+  },
+  {
+   "videoId": "iCVPX1tYH2E",
+   "title": "Stand-Up Comedy About Getting Old | Netflix Is A Joke",
+   "channel": "Netflix Is A Joke",
+   "channel_subs": 4590000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-06-22",
+   "views": 2225807,
+   "likes": 16966,
+   "comments": 583,
+   "duration_s": 1016
+  },
+  {
+   "videoId": "FO-LVTdNEqA",
+   "title": "Performing for the Drunkest Audience Ever - Patton Oswalt",
+   "channel": "Comedy Central Stand-Up",
+   "channel_subs": 2820000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2019-05-04",
+   "views": 1858247,
+   "likes": 32272,
+   "comments": 1579,
+   "duration_s": 522
+  },
+  {
+   "videoId": "no39xUWqhQk",
+   "title": "Keep Ya Head Up, And Ya Ass Down\u201d- Earthquake - Full Special",
+   "channel": "Comedy Central Stand-Up",
+   "channel_subs": 2820000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-06-28",
+   "views": 1590602,
+   "likes": 17698,
+   "comments": 500,
+   "duration_s": 1273
+  },
+  {
+   "videoId": "J92JsynPJ-I",
+   "title": "John Mulaney - \u201cWhat\u2019s New Pussycat?\u201d - Full Special",
+   "channel": "Comedy Central Stand-Up",
+   "channel_subs": 2820000,
+   "bracket": "big (1M+)",
+   "publishedAt": "2024-05-24",
+   "views": 1422733,
+   "likes": 25141,
+   "comments": 565,
+   "duration_s": 1276
+  }
+ ]
+}
