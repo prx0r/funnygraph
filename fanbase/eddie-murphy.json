@@ -1,0 +1,37 @@
+{
+ "n_comments": 50,
+ "distinctive_words": [
+  "eddie",
+  "michael",
+  "down",
+  "help",
+  "need",
+  "said",
+  "jackson",
+  "people",
+  "yall",
+  "murphy",
+  "pull",
+  "guys",
+  "friends",
+  "bend",
+  "sweet"
+ ],
+ "top_emoji": [
+  "\u2764",
+  "\ud83d\ude02",
+  "\ud83d\ude05",
+  "\ud83d\ude0a",
+  "\ud83e\udd7a",
+  "\ud83d\udc94",
+  "\ufe0f",
+  "\ud83d\ude2b"
+ ],
+ "laugh_rate": 0.18,
+ "timestamp_rate": 0.02,
+ "goat_rate": 0.0,
+ "avg_sentiment": 0.003,
+ "avg_length": 10.4,
+ "comedian": "Eddie Murphy",
+ "comedian_id": "eddie-murphy"
+}

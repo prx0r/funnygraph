@@ -1,0 +1,37 @@
+{
+ "n_comments": 50,
+ "distinctive_words": [
+  "dave",
+  "jimmy",
+  "chappelle",
+  "fallon",
+  "kanye",
+  "real",
+  "same",
+  "gay",
+  "dope",
+  "seeing",
+  "album",
+  "fake",
+  "person",
+  "way",
+  "years"
+ ],
+ "top_emoji": [
+  "\u2764",
+  "\ud83e\udd2c",
+  "\ud83d\ude02",
+  "\ud83d\ude06",
+  "\ud83d\ude0e",
+  "\ud83d\ude4f",
+  "\ud83d\ude0a",
+  "\ud83d\udcaf"
+ ],
+ "laugh_rate": 0.06,
+ "timestamp_rate": 0.02,
+ "goat_rate": 0.0,
+ "avg_sentiment": 0.01,
+ "avg_length": 8.6,
+ "comedian": "Dave Chappelle",
+ "comedian_id": "dave-chappelle"
+}

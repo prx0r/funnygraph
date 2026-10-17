@@ -1,0 +1,302 @@
+[
+ {
+  "word": "funniest",
+  "lift": 15.18,
+  "count": 15
+ },
+ {
+  "word": "comedians",
+  "lift": 14.48,
+  "count": 6
+ },
+ {
+  "word": "genius",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "greatest",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "price",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "apples",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "mmhmm",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "combined",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "realizes",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "losers",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "specials",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "turkey",
+  "lift": 14.26,
+  "count": 5
+ },
+ {
+  "word": "masterpiece",
+  "lift": 13.94,
+  "count": 4
+ },
+ {
+  "word": "bits",
+  "lift": 13.44,
+  "count": 3
+ },
+ {
+  "word": "draco",
+  "lift": 12.55,
+  "count": 2
+ },
+ {
+  "word": "fans",
+  "lift": 12.06,
+  "count": 5
+ },
+ {
+  "word": "wild",
+  "lift": 12.06,
+  "count": 5
+ },
+ {
+  "word": "wing",
+  "lift": 12.06,
+  "count": 5
+ },
+ {
+  "word": "comic",
+  "lift": 12.06,
+  "count": 5
+ },
+ {
+  "word": "left",
+  "lift": 11.07,
+  "count": 6
+ },
+ {
+  "word": "few",
+  "lift": 10.46,
+  "count": 5
+ },
+ {
+  "word": "generation",
+  "lift": 10.46,
+  "count": 5
+ },
+ {
+  "word": "malfoid",
+  "lift": 8.96,
+  "count": 2
+ },
+ {
+  "word": "start",
+  "lift": 8.96,
+  "count": 2
+ },
+ {
+  "word": "road",
+  "lift": 8.96,
+  "count": 2
+ },
+ {
+  "word": "winona",
+  "lift": 8.96,
+  "count": 2
+ },
+ {
+  "word": "emotional",
+  "lift": 8.96,
+  "count": 2
+ },
+ {
+  "word": "yall",
+  "lift": 7.47,
+  "count": 5
+ },
+ {
+  "word": "skits",
+  "lift": 6.97,
+  "count": 2
+ },
+ {
+  "word": "shot",
+  "lift": 6.82,
+  "count": 5
+ },
+ {
+  "word": "knows",
+  "lift": 6.27,
+  "count": 5
+ },
+ {
+  "word": "burnham",
+  "lift": 5.7,
+  "count": 2
+ },
+ {
+  "word": "absolute",
+  "lift": 5.7,
+  "count": 2
+ },
+ {
+  "word": "stop",
+  "lift": 5.7,
+  "count": 2
+ },
+ {
+  "word": "jackson",
+  "lift": 5.7,
+  "count": 2
+ },
+ {
+  "word": "used",
+  "lift": 5.41,
+  "count": 5
+ },
+ {
+  "word": "sure",
+  "lift": 4.75,
+  "count": 5
+ },
+ {
+  "word": "last",
+  "lift": 4.75,
+  "count": 5
+ },
+ {
+  "word": "trump",
+  "lift": 4.24,
+  "count": 5
+ },
+ {
+  "word": "without",
+  "lift": 4.18,
+  "count": 2
+ },
+ {
+  "word": "keep",
+  "lift": 4.02,
+  "count": 5
+ },
+ {
+  "word": "these",
+  "lift": 3.76,
+  "count": 3
+ },
+ {
+  "word": "guys",
+  "lift": 3.69,
+  "count": 2
+ },
+ {
+  "word": "ice",
+  "lift": 3.69,
+  "count": 2
+ },
+ {
+  "word": "cube",
+  "lift": 3.69,
+  "count": 2
+ },
+ {
+  "word": "put",
+  "lift": 3.3,
+  "count": 2
+ },
+ {
+  "word": "ago",
+  "lift": 3.3,
+  "count": 2
+ },
+ {
+  "word": "watching",
+  "lift": 3.28,
+  "count": 7
+ },
+ {
+  "word": "down",
+  "lift": 3.2,
+  "count": 5
+ },
+ {
+  "word": "woman",
+  "lift": 2.99,
+  "count": 2
+ },
+ {
+  "word": "ever",
+  "lift": 2.91,
+  "count": 9
+ },
+ {
+  "word": "back",
+  "lift": 2.78,
+  "count": 7
+ },
+ {
+  "word": "i've",
+  "lift": 2.73,
+  "count": 2
+ },
+ {
+  "word": "conan",
+  "lift": 2.54,
+  "count": 3
+ },
+ {
+  "word": "best",
+  "lift": 2.44,
+  "count": 6
+ },
+ {
+  "word": "years",
+  "lift": 2.39,
+  "count": 8
+ },
+ {
+  "word": "love",
+  "lift": 2.33,
+  "count": 9
+ },
+ {
+  "word": "happened",
+  "lift": 2.32,
+  "count": 2
+ },
+ {
+  "word": "michael",
+  "lift": 2.32,
+  "count": 2
+ },
+ {
+  "word": "still",
+  "lift": 2.3,
+  "count": 3
+ }
+]

@@ -1,0 +1,37 @@
+{
+ "n_comments": 50,
+ "distinctive_words": [
+  "years",
+  "it's",
+  "long",
+  "even",
+  "school",
+  "age",
+  "dating",
+  "good",
+  "woman",
+  "middle",
+  "also",
+  "married",
+  "ages",
+  "date",
+  "year"
+ ],
+ "top_emoji": [
+  "\ud83d\ude02",
+  "\ud83d\ude05",
+  "\ud83e\udd26",
+  "\u2640",
+  "\ufe0f",
+  "\ud83c\udf89",
+  "\ud83d\ude2d",
+  "\ud83e\udd23"
+ ],
+ "laugh_rate": 0.18,
+ "timestamp_rate": 0.0,
+ "goat_rate": 0.0,
+ "avg_sentiment": 0.001,
+ "avg_length": 14.0,
+ "comedian": "Taylor Tomlinson",
+ "comedian_id": "taylor-tomlinson"
+}

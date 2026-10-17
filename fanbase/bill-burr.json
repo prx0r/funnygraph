@@ -1,0 +1,35 @@
+{
+ "n_comments": 50,
+ "distinctive_words": [
+  "bill",
+  "autism",
+  "people",
+  "rick",
+  "spectrum",
+  "it's",
+  "clock",
+  "sitting",
+  "off",
+  "bad",
+  "burr",
+  "those",
+  "down",
+  "autistic",
+  "whose"
+ ],
+ "top_emoji": [
+  "\ud83d\ude02",
+  "\ud83c\udffb",
+  "\ud83d\udc4e",
+  "\ud83e\udd18",
+  "\ud83e\ude81",
+  "\ud83d\ude22"
+ ],
+ "laugh_rate": 0.16,
+ "timestamp_rate": 0.04,
+ "goat_rate": 0.0,
+ "avg_sentiment": -0.0,
+ "avg_length": 15.3,
+ "comedian": "Bill Burr",
+ "comedian_id": "bill-burr"
+}

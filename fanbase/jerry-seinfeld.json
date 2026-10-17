@@ -1,0 +1,37 @@
+{
+ "n_comments": 50,
+ "distinctive_words": [
+  "president",
+  "jerry",
+  "ever",
+  "seinfeld",
+  "obama",
+  "best",
+  "god",
+  "car",
+  "back",
+  "coolest",
+  "none",
+  "america",
+  "love",
+  "thank",
+  "whole"
+ ],
+ "top_emoji": [
+  "\u2795",
+  "\ud83d\udc9c",
+  "\u2764",
+  "\ud83d\ude02",
+  "\ufe0f",
+  "\ud83e\udebb",
+  "\ud83d\ude0a",
+  "\u271d"
+ ],
+ "laugh_rate": 0.1,
+ "timestamp_rate": 0.04,
+ "goat_rate": 0.0,
+ "avg_sentiment": 0.021,
+ "avg_length": 15.4,
+ "comedian": "Jerry Seinfeld",
+ "comedian_id": "jerry-seinfeld"
+}

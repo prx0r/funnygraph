@@ -1,0 +1,37 @@
+{
+ "n_comments": 300,
+ "distinctive_words": [
+  "kevin",
+  "hart",
+  "love",
+  "conan",
+  "ride",
+  "ever",
+  "jimmy",
+  "coaster",
+  "years",
+  "it's",
+  "now",
+  "best",
+  "ice",
+  "cube",
+  "funniest"
+ ],
+ "top_emoji": [
+  "\ud83d\ude02",
+  "\ud83e\udd23",
+  "\u2764",
+  "\ud83d\ude05",
+  "\ud83d\ude0a",
+  "\ufe0f",
+  "\ud83d\ude2d",
+  "\ud83d\ude06"
+ ],
+ "laugh_rate": 0.31,
+ "timestamp_rate": 0.063,
+ "goat_rate": 0.033,
+ "avg_sentiment": 0.029,
+ "avg_length": 10.5,
+ "comedian": "Kevin Hart",
+ "comedian_id": "kevin-hart"
+}

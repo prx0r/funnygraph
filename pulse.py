@@ -139,6 +139,7 @@ def mine_comments(video_id: str, key: str, max_results: int = 50) -> dict:
     url = (f"{API}/commentThreads?part=snippet&videoId={video_id}"
            f"&maxResults={min(100, max_results)}&orderBy=relevance"
            f"&textFormat=plainText&key={key}")
+    import hashlib
     try:
         d = _get(url)
     except Exception as e:
@@ -147,9 +148,18 @@ def mine_comments(video_id: str, key: str, max_results: int = 50) -> dict:
     for it in d.get("items") or []:
         s = (it.get("snippet") or {}).get("topLevelComment", {}).get("snippet", {})
         text = s.get("textDisplay", "")
+        # hashed author id — joinable across videos, no PII.
+        # skip when no identifier (empty would collide across strangers)
+        raw_id = (s.get("authorChannelId", {}) or {}).get("value", "")
+        if not raw_id:
+            ah = ""
+        else:
+            ah = hashlib.sha256(raw_id.encode()).hexdigest()[:16]
         comments.append({
+            "author": ah,
             "text": text[:300],
             "likes": s.get("likeCount", 0),
+            "publishedAt": (s.get("publishedAt") or "")[:10],
             "sentiment": sentiment(text),
             "has_timestamp": bool(re.search(r"\b\d{1,2}:\d{2}\b", text)),
             "goat_call": bool(re.search(
@@ -164,6 +174,7 @@ def mine_comments(video_id: str, key: str, max_results: int = 50) -> dict:
         "timestamp_laughs": sum(1 for c in comments if c["has_timestamp"]),
         "goat_calls": sum(1 for c in comments if c["goat_call"]),
         "top_quoted": sorted(comments, key=lambda c: -c["likes"])[:5],
+        "comments": comments,
     }
 
 

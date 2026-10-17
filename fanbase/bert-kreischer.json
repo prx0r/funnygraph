@@ -1,0 +1,37 @@
+{
+ "n_comments": 50,
+ "distinctive_words": [
+  "shane",
+  "snl",
+  "watching",
+  "keep",
+  "trump",
+  "back",
+  "love",
+  "gillis",
+  "tell",
+  "hard",
+  "years",
+  "makes",
+  "now",
+  "behind",
+  "himself"
+ ],
+ "top_emoji": [
+  "\ud83d\ude02",
+  "\ud83e\udd23",
+  "\ud83d\ude2d",
+  "\ud83d\ude2c",
+  "\ud83e\udd20",
+  "\ud83d\udc8b",
+  "\u2b50",
+  "\ufe0f"
+ ],
+ "laugh_rate": 0.22,
+ "timestamp_rate": 0.06,
+ "goat_rate": 0.02,
+ "avg_sentiment": 0.048,
+ "avg_length": 13.2,
+ "comedian": "Bert Kreischer",
+ "comedian_id": "bert-kreischer"
+}
