@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "sam-jay-bit-01",
+      "title": "Sam Jay: '3 in the Morning excavation' \u2014 how the bit works",
+      "thesis": "Late-night honesty about race, relationships, and self \u2014 delivered like texts to a friend. The intimacy is the engine; the flatness is the trust mechanism.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -233,7 +250,7 @@
     "legacy_era": 17.4,
     "audience": 30.0,
     "popularity": 14.9,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": -0.151,
     "overrated": "accurately rated",
@@ -244,10 +261,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "dry truth-teller",
     "repertoire": {
       "dark-confessional": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Flat delivery, sharp turn. SNL-writer precision with standup soul \u2014 every line placed, nothing wasted."
+  },
+  "known_bits": [
+    {
+      "title": "3 in the Morning excavation",
+      "why_it_works": "Late-night honesty about race, relationships, and self \u2014 delivered like texts to a friend. The intimacy is the engine; the flatness is the trust mechanism.",
+      "theory_links": [
+        "benign_violation",
+        "split_knowledge"
+      ]
+    }
+  ]
 }

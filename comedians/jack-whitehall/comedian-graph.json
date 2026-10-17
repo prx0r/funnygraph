@@ -127,6 +127,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "jack-whitehall-bit-01",
+      "title": "Jack Whitehall: 'Posh vs lad split' \u2014 how the bit works",
+      "thesis": "Performs the war between upbringing and appetite. The room laughs at the posh delivery of unposh content \u2014 the contrast never gets old because the commitment never wavers.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -260,7 +277,7 @@
     "legacy_era": 76.4,
     "audience": 30.0,
     "popularity": 91.2,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.612,
     "overrated": "massively overrated",
@@ -271,10 +288,23 @@
   "continent": "europe",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "posh chaos agent",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Polished setup, lad detonation. The gap between the private-school polish and the content is the engine \u2014 posh boy saying exactly what posh boys aren't supposed to."
+  },
+  "known_bits": [
+    {
+      "title": "Posh vs lad split",
+      "why_it_works": "Performs the war between upbringing and appetite. The room laughs at the posh delivery of unposh content \u2014 the contrast never gets old because the commitment never wavers.",
+      "theory_links": [
+        "persona_gap",
+        "status_reversal"
+      ]
+    }
+  ]
 }

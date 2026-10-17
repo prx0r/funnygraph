@@ -294,7 +294,7 @@
     "legacy_era": 82.6,
     "audience": 60.0,
     "popularity": 62.3,
-    "theory": 25.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.023,
     "overrated": "accurately rated",
@@ -305,8 +305,8 @@
   "continent": "north-america",
   "known_bits": [
     {
-      "title": "The scotch philosopher",
-      "why_it_works": "Drunk wisdom delivered with a glass in hand \u2014 the Tater Salad stories work because the teller clearly lived them. The drawl is the benign frame for genuine outlaw energy.",
+      "title": "Tater Salad aftermath",
+      "why_it_works": "The arrest story told like a war medal ceremony. Drunk wisdom delivered sober \u2014 the gap between the teller (composed) and the tale (chaos) is the engine.",
       "theory_links": [
         "storytelling",
         "persona_gap"
@@ -315,10 +315,13 @@
   ],
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "scotch philosopher",
     "repertoire": {
       "dark-confessional": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Drawl with a glass in hand. The pause for the sip IS the timing \u2014 the room waits, he drinks, the tag lands smoother for the wait."
   }
 }

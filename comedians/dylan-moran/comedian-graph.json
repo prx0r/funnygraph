@@ -129,7 +129,8 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "drunken_curmudgeon cadence \u2014 hypothesize from specials."
+    "hypothesis": "drunken_curmudgeon cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Sprawl with a hidden metronome. The sigh before the observation, the sudden precise image inside the ramble. The glass is a prop and a metronome."
   },
   "gtvh_profile": {
     "SO": "",
@@ -221,6 +222,23 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "dylan-moran-bit-01",
+      "title": "Dylan Moran: 'Modernity as a bad houseguest' \u2014 how the bit works",
+      "thesis": "Treats every innovation as a personal insult to the order of things. The curmudgeonry is warm \u2014 he loves the world he's yelling at. The sprawl IS the form; editing would kill it.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -303,7 +321,7 @@
     "legacy_era": 80.9,
     "audience": 47.5,
     "popularity": 21.1,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": -0.264,
     "overrated": "underrated",
@@ -322,5 +340,15 @@
       "observational": 0.13
     },
     "n_modes": 4
-  }
+  },
+  "known_bits": [
+    {
+      "title": "Modernity as a bad houseguest",
+      "why_it_works": "Treats every innovation as a personal insult to the order of things. The curmudgeonry is warm \u2014 he loves the world he's yelling at. The sprawl IS the form; editing would kill it.",
+      "theory_links": [
+        "rigidify",
+        "persona_gap"
+      ]
+    }
+  ]
 }

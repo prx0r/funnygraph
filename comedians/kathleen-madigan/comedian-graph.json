@@ -139,6 +139,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "kathleen-madigan-bit-01",
+      "title": "Kathleen Madigan: 'Midwest Catholic autopsy' \u2014 how the bit works",
+      "thesis": "Dissects family, faith, and drinking with insider precision. The room trusts her because she's clearly from the world she's roasting. Authenticity as armor.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -280,7 +297,7 @@
     "legacy_era": 4.5,
     "audience": 10.0,
     "popularity": 51.8,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.418,
     "overrated": "overrated",
@@ -296,5 +313,18 @@
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Conversational build, blue-collar landing. The Catholic-Missouri voice is the delivery system \u2014 plain speech carrying sharp observation."
+  },
+  "known_bits": [
+    {
+      "title": "Midwest Catholic autopsy",
+      "why_it_works": "Dissects family, faith, and drinking with insider precision. The room trusts her because she's clearly from the world she's roasting. Authenticity as armor.",
+      "theory_links": [
+        "split_knowledge",
+        "benign_violation"
+      ]
+    }
+  ]
 }

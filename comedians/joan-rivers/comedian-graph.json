@@ -216,6 +216,23 @@
         "what this reveals about the engine"
       ],
       "status": "seed"
+    },
+    {
+      "id": "joan-rivers-bit-02",
+      "title": "Joan Rivers: 'Age as a battlefield' \u2014 how the bit works",
+      "thesis": "Turns her own face/life into the primary text, annotated live. Self-targeting first buys the license to target everyone else. The workaholism is the engine; the stage is where it pays.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -232,11 +249,19 @@
   },
   "known_bits": [
     {
-      "title": "The dressed insult",
-      "why_it_works": "The insult arrives in couture \u2014 the glamour is the benign frame that makes the cruelty acceptable. The room laughs at the precision of the annotation AND the audacity of saying it. The pause before the kill is the room bracing.",
+      "title": "Can we talk? (the dressed insult)",
+      "why_it_works": "Opens with faux-intimacy, then delivers the surgical insult in couture. The glamour is the benign frame; the cruelty is precise, never sloppy. The room laughs at the annotation AND the audacity.",
       "theory_links": [
         "status_reversal",
         "benign_violation"
+      ]
+    },
+    {
+      "title": "Age as a battlefield",
+      "why_it_works": "Turns her own face/life into the primary text, annotated live. Self-targeting first buys the license to target everyone else. The workaholism is the engine; the stage is where it pays.",
+      "theory_links": [
+        "split_knowledge",
+        "status_reversal"
       ]
     }
   ],
@@ -299,7 +324,7 @@
     "legacy_era": 93.3,
     "audience": null,
     "popularity": 31.6,
-    "theory": 37.5,
+    "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,

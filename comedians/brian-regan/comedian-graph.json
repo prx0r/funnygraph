@@ -151,6 +151,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "brian-regan-bit-01",
+      "title": "Brian Regan: 'The full-body mundane' \u2014 how the bit works",
+      "thesis": "Becomes the thing he's describing with total physical commitment. Clean as doctrine: no shock available, so the observation must be perfect. The face IS the punchline.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -287,7 +304,7 @@
     "legacy_era": 67.4,
     "audience": 30.0,
     "popularity": 44.3,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.143,
     "overrated": "accurately rated",
@@ -307,5 +324,18 @@
       "dark-confessional": 0.08
     },
     "n_modes": 3
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Full-body commitment, befuddled reset. The body does the talking \u2014 becomes the UPS guy, the doctor, the animal. The reset is the breath before the next commitment."
+  },
+  "known_bits": [
+    {
+      "title": "The full-body mundane",
+      "why_it_works": "Becomes the thing he's describing with total physical commitment. Clean as doctrine: no shock available, so the observation must be perfect. The face IS the punchline.",
+      "theory_links": [
+        "literalise",
+        "incongruity"
+      ]
+    }
+  ]
 }

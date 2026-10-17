@@ -151,6 +151,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "whitney-cummings-bit-01",
+      "title": "Whitney Cummings: 'Codependency autopsy' \u2014 how the bit works",
+      "thesis": "Reverse-engineers her own relationships like systems with bugs. The engineer brain on dating chaos \u2014 flowcharts optional, fury mandatory. Smart women recognize the debugger.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -273,7 +290,7 @@
     "legacy_era": 15.7,
     "audience": 30.0,
     "popularity": 12.3,
-    "theory": 12.5,
+    "theory": 37.5,
     "heat": null,
     "gap_value": -0.177,
     "overrated": "accurately rated",
@@ -292,5 +309,15 @@
   },
   "timing_profile": {
     "doctrine_hypothesis": "Rapid analysis, personal counterexample, furious tag. Speed is the intelligence made audible."
-  }
+  },
+  "known_bits": [
+    {
+      "title": "Codependency autopsy",
+      "why_it_works": "Reverse-engineers her own relationships like systems with bugs. The engineer brain on dating chaos \u2014 flowcharts optional, fury mandatory. Smart women recognize the debugger.",
+      "theory_links": [
+        "rigidify",
+        "persona_gap"
+      ]
+    }
+  ]
 }

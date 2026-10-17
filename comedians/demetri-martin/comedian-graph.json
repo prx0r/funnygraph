@@ -286,11 +286,11 @@
   },
   "known_bits": [
     {
-      "title": "The joke as an object",
-      "why_it_works": "The joke is a load-bearing structure \u2014 remove one word and it collapses. The room laughs at the perfection of the object AND the content. The diagram (when he shows it) is the second punch.",
+      "title": "The palindromes and charts",
+      "why_it_works": "Visual aids as punchlines \u2014 the chart IS the joke, not illustration. The room laughs at the rigor AND the silliness simultaneously. Precision as a comic position.",
       "theory_links": [
         "literalise",
-        "incongruity"
+        "bisociation"
       ]
     }
   ],

@@ -215,6 +215,23 @@
         "what this reveals about the engine"
       ],
       "status": "seed"
+    },
+    {
+      "id": "steven-wright-bit-02",
+      "title": "Steven Wright: 'The one-liner as haiku with a trapdoor' \u2014 how the bit works",
+      "thesis": "Short setup, short punch, no fat. Every word pays rent. The restart is the timing device \u2014 the room is still laughing when the next one arrives.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -232,10 +249,17 @@
   "known_bits": [
     {
       "title": "Impossible objects",
-      "why_it_works": "Reports an object with impossible properties as fact. The deadpan is the benign frame \u2014 the room believes him for half a second. The half-second is the joke. literalize at max.",
+      "why_it_works": "Reports objects with impossible properties as fact ('I have a map of the United States... actual size'). The deadpan is the benign frame; the half-second of belief is the joke. Literalise at max.",
       "theory_links": [
         "literalise",
         "incongruity"
+      ]
+    },
+    {
+      "title": "The one-liner as haiku with a trapdoor",
+      "why_it_works": "Short setup, short punch, no fat. Every word pays rent. The restart is the timing device \u2014 the room is still laughing when the next one arrives.",
+      "theory_links": [
+        "two_stories"
       ]
     }
   ],
@@ -284,7 +308,7 @@
     "legacy_era": 92.1,
     "audience": null,
     "popularity": 33.3,
-    "theory": 37.5,
+    "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,

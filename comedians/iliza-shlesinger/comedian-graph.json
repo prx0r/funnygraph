@@ -175,6 +175,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "iliza-shlesinger-bit-01",
+      "title": "Iliza Shlesinger: 'Elder Millennial autopsy' \u2014 how the bit works",
+      "thesis": "Dissects her own generation's rituals (weddings, Instagram, dating) with anthropologist energy + party-girl characters. The double position (inside AND above it) is the engine.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -346,7 +363,7 @@
     "legacy_era": 86.0,
     "audience": 52.5,
     "popularity": 65.4,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.129,
     "overrated": "accurately rated",
@@ -357,10 +374,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "millennial prosecutor",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Physical sprint + character voices. The party-girl voice vs the feminist thesis \u2014 she performs both sides of the argument at full speed."
+  },
+  "known_bits": [
+    {
+      "title": "Elder Millennial autopsy",
+      "why_it_works": "Dissects her own generation's rituals (weddings, Instagram, dating) with anthropologist energy + party-girl characters. The double position (inside AND above it) is the engine.",
+      "theory_links": [
+        "status_reversal",
+        "persona_gap"
+      ]
+    }
+  ]
 }

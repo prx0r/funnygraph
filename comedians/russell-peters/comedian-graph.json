@@ -296,7 +296,7 @@
     "legacy_era": 19.1,
     "audience": 47.5,
     "popularity": 54.8,
-    "theory": 25.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.073,
     "overrated": "accurately rated",
@@ -307,8 +307,8 @@
   "continent": "north-america",
   "known_bits": [
     {
-      "title": "The accent arsenal",
-      "why_it_works": "Becomes every ethnicity in the room \u2014 Indian dad, Chinese shopkeeper, Italian mother. The room laughs at the accuracy AND the audacity. Post-racial by way of pre-racial: everybody gets it.",
+      "title": "Somebody gonna get a hurt real bad",
+      "why_it_works": "The dad-voice catchphrase that became a global meme before memes. Becomes every ethnicity in the room \u2014 the accuracy disarms the audacity. Post-racial by way of pre-racial.",
       "theory_links": [
         "persona_gap",
         "benign_violation"
@@ -317,10 +317,13 @@
   ],
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "accent arsenal",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Setup in narrator voice, detonation in character voice. The switch IS the timing \u2014 the room braces for the accent and it still lands."
   }
 }

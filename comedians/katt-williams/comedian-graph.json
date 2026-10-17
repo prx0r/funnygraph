@@ -127,6 +127,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "katt-williams-bit-01",
+      "title": "Katt Williams: 'The Pimp Chronicles sermon' \u2014 how the bit works",
+      "thesis": "Street knowledge delivered with rhetorical genius \u2014 every anecdote has a moral, every moral has a laugh. The pimp persona is the benign frame for genuinely radical observation.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -260,7 +277,7 @@
     "legacy_era": 79.8,
     "audience": 47.5,
     "popularity": 93.4,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.459,
     "overrated": "overrated",
@@ -271,10 +288,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "pimp-prophet truth-teller",
     "repertoire": {
       "dark-confessional": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Rapid-fire street philosophy with preacher cadence. The suit says showman; the content says revolutionary. Speed is the intelligence made audible."
+  },
+  "known_bits": [
+    {
+      "title": "The Pimp Chronicles sermon",
+      "why_it_works": "Street knowledge delivered with rhetorical genius \u2014 every anecdote has a moral, every moral has a laugh. The pimp persona is the benign frame for genuinely radical observation.",
+      "theory_links": [
+        "status_reversal",
+        "persona_gap"
+      ]
+    }
+  ]
 }

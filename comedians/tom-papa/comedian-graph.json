@@ -151,6 +151,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "tom-papa-bit-01",
+      "title": "Tom Papa: 'Bread and marriage' \u2014 how the bit works",
+      "thesis": "Finds existential dread in carbs and commitment, delivered with a smile. The gap between the sunny delivery and the spiraling content is the engine.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -272,7 +289,7 @@
     "legacy_era": 18.0,
     "audience": 30.0,
     "popularity": 77.2,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.472,
     "overrated": "overrated",
@@ -283,10 +300,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "clean-everyman",
-    "signature_title": null,
+    "signature_title": "cheerful neurotic",
     "repertoire": {
       "clean-everyman": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Upbeat setup, anxious spiral, cheerful landing. The cheer never breaks \u2014 that's what makes the anxiety funny instead of sad."
+  },
+  "known_bits": [
+    {
+      "title": "Bread and marriage",
+      "why_it_works": "Finds existential dread in carbs and commitment, delivered with a smile. The gap between the sunny delivery and the spiraling content is the engine.",
+      "theory_links": [
+        "benign_violation",
+        "incongruity"
+      ]
+    }
+  ]
 }

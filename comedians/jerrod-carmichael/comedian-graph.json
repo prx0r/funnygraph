@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "jerrod-carmichael-bit-01",
+      "title": "Jerrod Carmichael: 'Rothaniel confessional' \u2014 how the bit works",
+      "thesis": "Came out on stage in real time with no jokes as shield. The bravest hour in modern comedy \u2014 vulnerability with zero punchline protection. The room didn't laugh; it witnessed. Then it laughed.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -233,7 +250,7 @@
     "legacy_era": 50.0,
     "audience": 30.0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -244,10 +261,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "quiet radical",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Soft setup, devastating turn. The quiet IS the timing \u2014 the room leans in so far the punch barely needs volume. Rothaniel proved silence scales."
+  },
+  "known_bits": [
+    {
+      "title": "Rothaniel confessional",
+      "why_it_works": "Came out on stage in real time with no jokes as shield. The bravest hour in modern comedy \u2014 vulnerability with zero punchline protection. The room didn't laugh; it witnessed. Then it laughed.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

@@ -151,6 +151,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "mike-epps-bit-01",
+      "title": "Mike Epps: 'Under Rated survivor stories' \u2014 how the bit works",
+      "thesis": "Hood anecdotes told with survivor's pride and comedian's timing. The room gets the tour of a world they don't know, guided by someone who loves it. Authenticity as engine.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -286,7 +303,7 @@
     "legacy_era": 20.2,
     "audience": 30.0,
     "popularity": 85.1,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": 0.551,
     "overrated": "massively overrated",
@@ -297,10 +314,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "neighborhood philosopher",
     "repertoire": {
       "dark-confessional": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Laid-back story build, sudden character detonation. The chill is the setup; the explosion is the punch. Indy timing \u2014 never rushed."
+  },
+  "known_bits": [
+    {
+      "title": "Under Rated survivor stories",
+      "why_it_works": "Hood anecdotes told with survivor's pride and comedian's timing. The room gets the tour of a world they don't know, guided by someone who loves it. Authenticity as engine.",
+      "theory_links": [
+        "storytelling",
+        "persona_gap"
+      ]
+    }
+  ]
 }

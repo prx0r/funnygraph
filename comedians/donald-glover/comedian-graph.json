@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "donald-glover-bit-01",
+      "title": "Donald Glover: 'Awkward as weapon' \u2014 how the bit works",
+      "thesis": "Performs discomfort so precisely the room feels it physically. The irony has layers \u2014 is he awkward, playing awkward, or playing someone playing awkward? The unresolvability IS the bit.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -282,7 +299,7 @@
     "legacy_era": 77.5,
     "audience": 10.0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -293,10 +310,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "multihyphenate ironist",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Deadpan with trapdoors. The Weirdo hour plays awkwardness as a weapon \u2014 the room never knows if he's bombing on purpose until it's too late."
+  },
+  "known_bits": [
+    {
+      "title": "Awkward as weapon",
+      "why_it_works": "Performs discomfort so precisely the room feels it physically. The irony has layers \u2014 is he awkward, playing awkward, or playing someone playing awkward? The unresolvability IS the bit.",
+      "theory_links": [
+        "persona_gap",
+        "garden_path"
+      ]
+    }
+  ]
 }

@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "sam-morril-bit-01",
+      "title": "Sam Morril: 'The dry anecdote' \u2014 how the bit works",
+      "thesis": "Tells wild stories with zero affect \u2014 the gap between content (insane) and delivery (bored) is the whole joke. The withheld energy makes the room lean in.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -233,7 +250,7 @@
     "legacy_era": 16.9,
     "audience": 30.0,
     "popularity": 28.9,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": -0.011,
     "overrated": "accurately rated",
@@ -244,10 +261,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "dry technician",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Flat setup, flat punch, no tell. The dryness IS the timing \u2014 the room supplies the energy he withholds. Economy as ethic."
+  },
+  "known_bits": [
+    {
+      "title": "The dry anecdote",
+      "why_it_works": "Tells wild stories with zero affect \u2014 the gap between content (insane) and delivery (bored) is the whole joke. The withheld energy makes the room lean in.",
+      "theory_links": [
+        "incongruity",
+        "garden_path"
+      ]
+    }
+  ]
 }

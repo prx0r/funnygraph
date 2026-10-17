@@ -291,7 +291,7 @@
     "legacy_era": 95.5,
     "audience": null,
     "popularity": 49.1,
-    "theory": 25.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -302,8 +302,8 @@
   "continent": "north-america",
   "known_bits": [
     {
-      "title": "The political cross-examination",
-      "why_it_works": "Treats every pieties-of-the-week as a witness, then New-Rules them into confession. The smugness is the delivery system; the research is the weapon.",
+      "title": "New Rules as verdicts",
+      "why_it_works": "Treats weekly pieties as defendants, delivers verdicts with total certainty. The research is the weapon; the smugness is the delivery system. The room laughs at the sentence being passed.",
       "theory_links": [
         "rigidify",
         "status_reversal"
@@ -312,10 +312,13 @@
   ],
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "smug prosecutor",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "New-Rules cadence: setup, beat, verdict. The smugness is the metronome \u2014 the room knows the kill is coming and leans in anyway."
   }
 }

@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "wanda-sykes-bit-01",
+      "title": "Wanda Sykes: 'The flat verdict' \u2014 how the bit works",
+      "thesis": "States the obvious truth about race, marriage, politics with total flatness. No escalation needed \u2014 the truth stated plainly IS the punch. The eye-roll does the work of ten tags.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -228,7 +245,7 @@
     "legacy_era": 26.4,
     "audience": null,
     "popularity": 78.1,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -239,10 +256,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "exasperated truth-teller",
     "repertoire": {
       "dark-confessional": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Eye-roll setup, flat verdict. The exasperation is the metronome \u2014 the room knows the kill is coming and leans in for it."
+  },
+  "known_bits": [
+    {
+      "title": "The flat verdict",
+      "why_it_works": "States the obvious truth about race, marriage, politics with total flatness. No escalation needed \u2014 the truth stated plainly IS the punch. The eye-roll does the work of ten tags.",
+      "theory_links": [
+        "rigidify",
+        "status_reversal"
+      ]
+    }
+  ]
 }

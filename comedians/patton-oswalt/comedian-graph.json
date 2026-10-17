@@ -152,6 +152,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "patton-oswalt-bit-01",
+      "title": "Patton Oswalt: 'Pop culture as scripture' \u2014 how the bit works",
+      "thesis": "Treats franchises with theological seriousness, then finds the human truth inside. Star Wars theory that ends in grief counseling. The reference is the door; the heart is the room.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -290,7 +307,7 @@
     "legacy_era": 11.8,
     "audience": 30.0,
     "popularity": 28.5,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": -0.015,
     "overrated": "accurately rated",
@@ -309,5 +326,18 @@
       "surreal": 0.08
     },
     "n_modes": 3
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Reference-dense cascades with sincere landings. The cascade is the timing device; the sudden sincerity is the punch that makes nerds cry."
+  },
+  "known_bits": [
+    {
+      "title": "Pop culture as scripture",
+      "why_it_works": "Treats franchises with theological seriousness, then finds the human truth inside. Star Wars theory that ends in grief counseling. The reference is the door; the heart is the room.",
+      "theory_links": [
+        "bisociation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

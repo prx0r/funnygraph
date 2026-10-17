@@ -284,7 +284,7 @@
     "legacy_era": 21.3,
     "audience": null,
     "popularity": 5.3,
-    "theory": 25.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -295,8 +295,8 @@
   "continent": "north-america",
   "known_bits": [
     {
-      "title": "The civil-rights punchline",
-      "why_it_works": "Made white rooms laugh at their own racism in the 1960s \u2014 the most dangerous room-work ever attempted. The calm IS the weapon; the facts are the punchlines.",
+      "title": "The calm indictment",
+      "why_it_works": "Made white rooms laugh at their own racism in the 1960s \u2014 the most dangerous room-work ever attempted. The facts do the violating; the calm provides the benign frame. Nobody else could have survived the rooms he played.",
       "theory_links": [
         "status_reversal",
         "benign_violation"
@@ -305,10 +305,13 @@
   ],
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "civil-rights punchline",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Calm setup, devastating fact, hold for the room to catch up. The calm IS the weapon \u2014 no rant needed when the facts are the punchlines."
   }
 }

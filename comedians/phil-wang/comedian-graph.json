@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "phil-wang-bit-01",
+      "title": "Phil Wang: 'Empire politeness autopsy' \u2014 how the bit works",
+      "thesis": "Dissects British-Malaysian identity with exquisite manners and a knife. The courtesy makes the cuts land deeper \u2014 you don't see them coming.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -246,7 +263,7 @@
     "legacy_era": 19.7,
     "audience": 30.0,
     "popularity": 23.7,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": -0.063,
     "overrated": "accurately rated",
@@ -257,10 +274,23 @@
   "continent": "europe",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "polite subversive",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Gentle setup, sharp turn. The politeness IS the misdirection \u2014 the room relaxes, then the blade arrives with a smile."
+  },
+  "known_bits": [
+    {
+      "title": "Empire politeness autopsy",
+      "why_it_works": "Dissects British-Malaysian identity with exquisite manners and a knife. The courtesy makes the cuts land deeper \u2014 you don't see them coming.",
+      "theory_links": [
+        "garden_path",
+        "status_reversal"
+      ]
+    }
+  ]
 }

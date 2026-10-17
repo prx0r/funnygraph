@@ -193,7 +193,6 @@ FILL: dict[str, dict] = {
         "bits": [
             {"title": "3 in the Morning excavation", "why_it_works": "Late-night honesty about race, relationships, and self — delivered like texts to a friend. The intimacy is the engine; the flatness is the trust mechanism.", "theory_links": ["benign_violation", "split_knowledge"]},
         ]},
-    },
 }
 
 

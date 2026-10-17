@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "paul-mooney-bit-01",
+      "title": "Paul Mooney: 'The race verdict' \u2014 how the bit works",
+      "thesis": "States Hollywood's racial truth baldly from forty years inside the rooms. The authority is the engine \u2014 he was there. Negrodamus sees.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -241,7 +258,7 @@
     "legacy_era": 12.4,
     "audience": 0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -252,10 +269,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "hollywood conscience",
     "repertoire": {
       "dark-confessional": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Slow setup, devastating racial truth, hold for the room to deal with it. The elder-statesman pace forces attention \u2014 no rush, nowhere to hide."
+  },
+  "known_bits": [
+    {
+      "title": "The race verdict",
+      "why_it_works": "States Hollywood's racial truth baldly from forty years inside the rooms. The authority is the engine \u2014 he was there. Negrodamus sees.",
+      "theory_links": [
+        "status_reversal",
+        "split_knowledge"
+      ]
+    }
+  ]
 }

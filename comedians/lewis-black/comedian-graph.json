@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "lewis-black-bit-01",
+      "title": "Lewis Black: 'The finger-shake indictment' \u2014 how the bit works",
+      "thesis": "Takes a news absurdity and performs a man having a stroke about it. The apoplexy is choreographed \u2014 every sputter placed. The room laughs at the performance of losing it, safely.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -234,7 +251,7 @@
     "legacy_era": 83.2,
     "audience": null,
     "popularity": 38.6,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -245,10 +262,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "apoplexy correspondent",
     "repertoire": {
       "observational": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Simmer, sputter, explosion, finger-shake. The Daily Show rants built the cadence: reasonable man driven mad by unreasonable world, on schedule."
+  },
+  "known_bits": [
+    {
+      "title": "The finger-shake indictment",
+      "why_it_works": "Takes a news absurdity and performs a man having a stroke about it. The apoplexy is choreographed \u2014 every sputter placed. The room laughs at the performance of losing it, safely.",
+      "theory_links": [
+        "escalation",
+        "status_reversal"
+      ]
+    }
+  ]
 }

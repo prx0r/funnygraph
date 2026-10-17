@@ -115,6 +115,23 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "sarah-cooper-bit-01",
+      "title": "Sarah Cooper: 'How to medical' \u2014 how the bit works",
+      "thesis": "Lip-syncing Trump suggesting disinfectant, deadpan. The verbatim reproduction is the whole joke \u2014 no commentary needed when the source material convicts itself.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -227,7 +244,7 @@
     "legacy_era": 16.3,
     "audience": 30.0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -238,10 +255,23 @@
   "continent": "north-america",
   "modes": {
     "signature": "clean-everyman",
-    "signature_title": null,
+    "signature_title": "lip-sync satirist",
     "repertoire": {
       "clean-everyman": 1.0
     },
     "n_modes": 1
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Trump's cadence, her face. The mimicry IS the timing \u2014 every pause and sniff reproduced until the content indicts itself."
+  },
+  "known_bits": [
+    {
+      "title": "How to medical",
+      "why_it_works": "Lip-syncing Trump suggesting disinfectant, deadpan. The verbatim reproduction is the whole joke \u2014 no commentary needed when the source material convicts itself.",
+      "theory_links": [
+        "literalise",
+        "persona_gap"
+      ]
+    }
+  ]
 }

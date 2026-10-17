@@ -342,7 +342,7 @@
     "legacy_era": 15.2,
     "audience": 30.0,
     "popularity": 16.7,
-    "theory": 25.0,
+    "theory": 37.5,
     "heat": null,
     "gap_value": -0.133,
     "overrated": "accurately rated",
@@ -354,7 +354,7 @@
   "known_bits": [
     {
       "title": "The food voice",
-      "why_it_works": "Treats food opinions with religious intensity \u2014 the gap between the stakes (low) and the passion (total) is the joke. The 'treat yo self' energy made flesh.",
+      "why_it_works": "Treats food opinions with religious intensity. The gap between stakes (low) and passion (total) is the joke. Raaaandy-level commitment to the bit about nothing.",
       "theory_links": [
         "escalation",
         "incongruity"
@@ -363,11 +363,14 @@
   ],
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "millennial anthropologist",
     "repertoire": {
       "observational": 0.53,
       "storytelling": 0.47
     },
     "n_modes": 2
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Fast escalation into panic. The panic is the timing device \u2014 the room rides the escalation, the punch is the landing."
   }
 }
