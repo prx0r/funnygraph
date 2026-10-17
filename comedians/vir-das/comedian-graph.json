@@ -283,7 +283,8 @@
     "popularity": 49.3,
     "theory": 25.0,
     "heat": null,
-    "gap": -0.357,
+    "gap_value": -0.357,
+    "overrated": "underrated",
     "canon_lag": -0.044
   },
   "tier": "king",

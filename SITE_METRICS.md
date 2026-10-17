@@ -9,7 +9,7 @@
 
 ```
 LEGACY 87  |  AUDIENCE 76  |  POPULARITY 92  |  HEAT 64  |  THEORY 71
-GAP +0.21 (overrated) · LEGACY LAG -0.08 · coverage: FULL
+Overrated (+0.21) · LEGACY LAG -0.08 · coverage: FULL
 Generation: tens · Region: US · Scene: podcast
 Standout special: Beautiful Dogs (2023, IMDb 8.1)
 Closest match: Theo Von 0.43 · For fans of: Carlin, Burr

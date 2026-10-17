@@ -1,6 +1,21 @@
-# VERDICT GAP — overrated / underrated (±1.0)
+# OVERRATED — the verdict in plain English
 
-**One line:** Popularity percentile MINUS Audience percentile. The product.
+**One line:** massively overrated / overrated / accurately rated /
+underrated / massively underrated. Bounded, median-centered, no math required.
+
+## Bands (from v0.1 distribution, n=64, median +0.08)
+
+| Band | Range | Share | Examples |
+|---|---|---|---|
+| massively overrated | ≥ +0.50 | ~8% | Fluffy +0.83, Sebastian +0.73 |
+| overrated | +0.20 to +0.50 | ~25% | Gervais +0.67, Noah +0.60 |
+| accurately rated | ±0.20 | ~55% | Burr/Chappelle ±0.07 |
+| underrated | −0.20 to −0.50 | ~10% | Izzard −0.38, Vir Das −0.36 |
+| massively underrated | < −0.50 | ~5% | Hicks −0.71, Stewart Lee −0.64 |
+
+Numeric `gap_value` kept alongside for transparency; the band is the display.
+
+**Formula:** `gap_value = Popularity pct − Audience pct`, then banded above.
 
 ## Formula
 `gap = PULL_pct − CROWD_pct` (both 0-1 percentiles over comics with both signals).

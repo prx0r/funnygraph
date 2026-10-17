@@ -17,6 +17,30 @@ COMEDIANS = HERE / "comedians"
 RANK = HERE / "rankings"
 
 
+
+
+def verdict_band(gap: float | None) -> str | None:
+    """Numeric gap → plain-English verdict. Median-centered, bounded.
+
+    Thresholds from v0.1 distribution (n=64, median +0.08):
+      ≥ +0.50  massively overrated   (top ~8%: Fluffy +0.83)
+      +0.20..  overrated
+      ±0.20    accurately rated      (median band, ~60%)
+      −0.20..  underrated
+      < −0.50  massively underrated  (bottom ~5%: Hicks −0.71)
+    """
+    if gap is None:
+        return None
+    if gap >= 0.50:
+        return "massively overrated"
+    if gap >= 0.20:
+        return "overrated"
+    if gap > -0.20:
+        return "accurately rated"
+    if gap > -0.50:
+        return "underrated"
+    return "massively underrated"
+
 def pct(rank: int | None, n: int) -> float | None:
     if not rank:
         return None
@@ -109,7 +133,9 @@ def main() -> None:
         def _pct100(v):
             return v / 100 if v is not None else None
         cp, cr, pu = _pct100(m["legacy"]), _pct100(crowd), _pct100(pull)
-        m["gap"] = round(pu - cr, 3) if pu is not None and cr is not None else None
+        gap_v = round(pu - cr, 3) if pu is not None and cr is not None else None
+        m["gap_value"] = gap_v
+        m["overrated"] = verdict_band(gap_v)
         m["canon_lag"] = round(cr - cp, 3) if cr is not None and cp is not None else None
         j["metrics"] = m
         g.write_text(json.dumps(j, indent=2) + "\n", encoding="utf-8")
@@ -129,12 +155,12 @@ def main() -> None:
     print("=== AUDIENCE (top 8) ===")
     for c in top("audience", 8):
         print(f"  {c['audience']:>5}  {c['name'][:26]}")
-    print("=== OVERRATED (gap, top 8) ===")
-    for c in top("gap", 8):
-        print(f"  {c['gap']:+.2f}  {c['name'][:26]}")
-    print("=== UNDERRATED (gap, bottom 8) ===")
-    for c in top("gap", 8, rev=False):
-        print(f"  {c['gap']:+.2f}  {c['name'][:26]}")
+    print("=== OVERRATED ===")
+    for c in top("gap_value", 8):
+        print(f"  {c['overrated']:22} {c['name'][:26]} ({c['gap_value']:+.2f})")
+    print("=== UNDERRATED ===")
+    for c in top("gap_value", 8, rev=False):
+        print(f"  {c['overrated']:22} {c['name'][:26]} ({c['gap_value']:+.2f})")
     print(f"\nsaved rankings/metrics.json ({len(out)} comics)")
 
 
