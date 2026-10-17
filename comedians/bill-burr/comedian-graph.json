@@ -1,0 +1,170 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "bill-burr",
+  "name": "Bill Burr",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Red-faced rage engine who turns his own worst impulses into the bit, then argues with himself in public until the hypocrisy does the laughing.",
+    "premise": "A Massachusetts angry guy who is aware he's angry, knows the anger is wrong, and performs the argument in real time.",
+    "archetype": "rage_apologist",
+    "awareness": "aware",
+    "awareness_note": "The awareness is the act: he critiques his own rant mid-rant.",
+    "philosophy": {
+      "ontology": "The world is full of people not thinking, and he's one of them.",
+      "epistemology": "If you feel it too hard, check it out loud before you act on it.",
+      "axiology": "Self-awareness is the only moral technology that works on stage.",
+      "causality": "Unchecked id becomes a bit; checked id becomes a better bit.",
+      "agency": "Anyone can be angry; almost nobody audits the anger live."
+    },
+    "dramatic_core": {
+      "want": "to be right about how crazy everything is",
+      "fear": "becoming the guy he's yelling about",
+      "need": "the room to laugh at the anger, not with the anger",
+      "self_model": "a guy who caught himself mid-meltdown and made it a bit",
+      "blind_spots": [
+        "the rage is real even when the bit is craft",
+        "will double down when he should pivot"
+      ]
+    },
+    "misinterpretation_rule": "Takes his own worst emotional read of a situation, escalates it to the absurd conclusion, then audits the escalation.",
+    "contradictions": [
+      "rage comic with a self-help arc",
+      "traditional guy in progressive rooms",
+      "hates being famous, works like a maniac"
+    ],
+    "status_model": {
+      "desired_status": "just a guy",
+      "felt_status": "guy who became the guy while yelling about guys"
+    },
+    "expression": {
+      "default_register": "red-faced-argument",
+      "emotional_restraint": "low \u2014 the face is the scoreboard",
+      "tells": [
+        "the double-take on his own take",
+        "the 'I'm not saying...' that means he's saying it",
+        "the nervous laugh at his own darkness"
+      ]
+    },
+    "modulator_range": [
+      "rage",
+      "self-audit",
+      "story-mode",
+      "nervous-tenderness",
+      "fake-calm"
+    ],
+    "profile": {
+      "energy": 0.85,
+      "pace": "accelerating rant, sudden self-check pause",
+      "gesture_frequency": 0.75,
+      "punchline_hold_ms": 700
+    },
+    "operator_priors": {
+      "rigidify": 0.5,
+      "literalize": 0.45,
+      "double_interpret": 0.7,
+      "status_invert": 0.6,
+      "character_violation": 0.55,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "benign_violation",
+      "incongruity"
+    ],
+    "threads": [
+      "the rant that audits itself",
+      "masculinity as a meltdown",
+      "the id on a leash",
+      "anger as a love language",
+      "the everyman who became content"
+    ],
+    "problem_space": [
+      "male anger",
+      "modern annoyances as philosophy",
+      "the marriage as a sparring partner",
+      "fame as a trap"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "rage_apologist",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "rage_apologist cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "bill-burr-essay-01",
+      "title": "Why is Bill Burr funny? The rage apologist engine",
+      "thesis": "Takes his own worst emotional read of a situation, escalates it to the absurd conclusion, then audits the escalation.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

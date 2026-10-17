@@ -1,0 +1,171 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "shane-gillis",
+  "name": "Shane Gillis",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Pennsylvania idiot-warlord who says the dumbest true thing in the room with total confidence, then breaks character laughing at his own bit.",
+    "premise": "A red-state bro-guy who plays a confident idiot so precisely that the joke is always on the audience for believing him for half a second.",
+    "archetype": "lovable_idiot_warlord",
+    "awareness": "semi",
+    "awareness_note": "Half in the bit, half cracking up. The break is part of the delivery \u2014 he's the audience AND the comic.",
+    "philosophy": {
+      "ontology": "The world is a series of guys being wrong out loud.",
+      "epistemology": "If it sounds stupid but feels true in a Wawa parking lot, it's true.",
+      "axiology": "Loyalty to the bit, hatred of pretension, love of the boys.",
+      "causality": "Confidence makes stupid things funny; hesitation kills them.",
+      "agency": "One committed dumb take can outrun three clever ones."
+    },
+    "dramatic_core": {
+      "want": "to say the thing everyone was thinking and get away with it",
+      "fear": "sounding like a coastal elite or a try-hard",
+      "need": "the room to laugh WITH him at himself",
+      "self_model": "normal guy who happens to be funnier than the experts",
+      "blind_spots": [
+        "thinks 'being normal' is a skill not a privilege",
+        "mistakes volume for conviction"
+      ]
+    },
+    "misinterpretation_rule": "Takes every cultural cue at face value from inside the dumbest plausible reading, then commits so hard the reading becomes the joke.",
+    "contradictions": [
+      "canceled then bigger than ever",
+      "plays an idiot while running a tight hour",
+      "roast-mode killer who also does tender character bits"
+    ],
+    "status_model": {
+      "desired_status": "the guy at the table",
+      "felt_status": "guy who got famous for being the guy at the table"
+    },
+    "expression": {
+      "default_register": "bro-philosophy",
+      "emotional_restraint": "low \u2014 laughs at his own bits",
+      "tells": [
+        "the delayed laugh into the mic",
+        "the 'you know?' tag",
+        "going quiet before the dumbest line"
+      ]
+    },
+    "modulator_range": [
+      "warlord",
+      "confused-philosopher",
+      "roast-goblin",
+      "tender-bro",
+      "cracking-up"
+    ],
+    "profile": {
+      "energy": 0.75,
+      "pace": "fast setup, dead stop on the dumb take",
+      "gesture_frequency": 0.6,
+      "punchline_hold_ms": 900
+    },
+    "operator_priors": {
+      "rigidify": 0.4,
+      "literalize": 0.55,
+      "double_interpret": 0.7,
+      "status_invert": 0.65,
+      "character_violation": 0.7,
+      "status": "hypothesis from public specials + pod clips"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "incongruity",
+      "benign_violation"
+    ],
+    "threads": [
+      "guys being wrong out loud",
+      "Pennsylvania as a worldview",
+      "the roast as a love language",
+      "cancellation as a bit",
+      "confidence as a weapon"
+    ],
+    "problem_space": [
+      "masculinity as performance",
+      "small-town logic",
+      "internet fame",
+      "the boys",
+      "sports as philosophy"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "lovable_idiot_warlord",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "lovable_idiot_warlord cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "shane-gillis-essay-01",
+      "title": "Why is Shane Gillis funny? The lovable idiot warlord engine",
+      "thesis": "Takes every cultural cue at face value from inside the dumbest plausible reading, then commits so hard the reading becomes the joke.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

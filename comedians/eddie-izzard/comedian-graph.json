@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "eddie-izzard",
+  "name": "Eddie Izzard",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Cross-dressing surrealist historian who treats the past as a bad sitcom and performs it in heels.",
+    "premise": "A man who narrates history like a gossip, and the gossip is funnier than the textbook.",
+    "archetype": "surreal_historian",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the costume is a strategy; the history is the material.",
+    "philosophy": {
+      "ontology": "History is a series of bad decisions by men in hats.",
+      "epistemology": "If you tell it like gossip, the truth comes out faster.",
+      "axiology": "Joy is a form of intelligence.",
+      "causality": "One good character voice can make the Crusades feel like a sitcom.",
+      "agency": "Anyone can be smart; almost nobody makes the smart thing a party."
+    },
+    "dramatic_core": {
+      "want": "to make the room smarter and happier at the same time",
+      "fear": "the dry lecture \u2014 the death of the party",
+      "need": "to be the smartest person in the room who still wants to dance",
+      "self_model": "a history teacher who wandered into a cabaret",
+      "blind_spots": [
+        "the sprawl can lose the thread",
+        "the joy can hide the craft"
+      ]
+    },
+    "misinterpretation_rule": "Treats every historical event as a bad sitcom episode, and performs it with the energy of a gossip who was there.",
+    "contradictions": [
+      "the historian with the dance moves",
+      "the intellectual with the cabaret",
+      "the cross-dresser who became a national treasure"
+    ],
+    "status_model": {
+      "desired_status": "the smartest person at the party",
+      "felt_status": "a man who left the lecture for the dance floor"
+    },
+    "expression": {
+      "default_register": "surreal-historian",
+      "emotional_restraint": "low \u2014 the joy is the point",
+      "tells": [
+        "the character voice switch",
+        "the dance move as punctuation",
+        "the sudden history lesson in a silly voice"
+      ]
+    },
+    "modulator_range": [
+      "historian",
+      "surrealist",
+      "cabaret",
+      "tender-wisdom",
+      "character-swarm"
+    ],
+    "profile": {
+      "energy": 0.8,
+      "pace": "sprawl with a hidden metronome",
+      "gesture_frequency": 0.8,
+      "punchline_hold_ms": 700
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.5,
+      "double_interpret": 0.65,
+      "status_invert": 0.35,
+      "character_violation": 0.55,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "threads": [
+      "history as a bad sitcom",
+      "the gossip as a historian",
+      "joy as intelligence",
+      "the costume as a strategy",
+      "the cabaret as a philosophy"
+    ],
+    "problem_space": [
+      "history as content",
+      "gender as a performance",
+      "the party as a lecture"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "surreal_historian",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "surreal_historian cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "bisociation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "eddie-izzard-essay-01",
+      "title": "Why is Eddie Izzard funny? The surreal historian engine",
+      "thesis": "Treats every historical event as a bad sitcom episode, and performs it with the energy of a gossip who was there.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

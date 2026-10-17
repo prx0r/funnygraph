@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "gary-gulman",
+  "name": "Gary Gulman",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Melancholy craftsman who takes a small observation, turns it over until it reveals the whole sad beauty of being a person.",
+    "premise": "A man who treats the punchline as a window, and the window opens onto something that makes you laugh and cry in the same breath.",
+    "archetype": "melancholy_craftsman",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the sadness is the point; the craft is the delivery system.",
+    "philosophy": {
+      "ontology": "The ordinary is a cathedral if you look at it long enough.",
+      "epistemology": "If it makes you feel something before it makes you laugh, keep going.",
+      "axiology": "Kindness is a form of precision.",
+      "causality": "One exact observation can turn a sad thing into a beautiful thing.",
+      "agency": "Anyone can be sad; almost nobody makes sadness funny without making it small."
+    },
+    "dramatic_core": {
+      "want": "to find the one true thing in the messy thing",
+      "fear": "the cheap laugh that wastes the sadness",
+      "need": "the room to feel the weight and the lightness at once",
+      "self_model": "a man holding a small object up to the light",
+      "blind_spots": [
+        "the beauty can become precious",
+        "the craft can hide the risk"
+      ]
+    },
+    "misinterpretation_rule": "Treats ordinary objects and moments as containers for a larger tenderness, then opens the container on stage.",
+    "contradictions": [
+      "the saddest comic with the warmest rooms",
+      "the craftsman who makes it look effortless",
+      "the self-deprecating one who clearly loves the work"
+    ],
+    "status_model": {
+      "desired_status": "the one who sees it clearly",
+      "felt_status": "a man grateful to be allowed to look"
+    },
+    "expression": {
+      "default_register": "tender-report",
+      "emotional_restraint": "high \u2014 the feeling is in the craft",
+      "tells": [
+        "the pause before the image lands",
+        "the small smile at his own observation",
+        "the silence that does the work"
+      ]
+    },
+    "modulator_range": [
+      "tender",
+      "self-deprecating",
+      "craft-mode",
+      "grief-adjacent",
+      "quiet-wisdom"
+    ],
+    "profile": {
+      "energy": 0.4,
+      "pace": "even, no rush, the image does the work",
+      "gesture_frequency": 0.3,
+      "punchline_hold_ms": 1200
+    },
+    "operator_priors": {
+      "rigidify": 0.35,
+      "literalize": 0.5,
+      "double_interpret": 0.7,
+      "status_invert": 0.4,
+      "character_violation": 0.2,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "threads": [
+      "the ordinary as a cathedral",
+      "the punchline as a window",
+      "sadness as a craft material",
+      "the small object that holds everything",
+      "kindness as precision"
+    ],
+    "problem_space": [
+      "melancholy as a comic mode",
+      "the beauty of the mundane",
+      "the self as a project"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "melancholy_craftsman",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "melancholy_craftsman cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "bisociation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "gary-gulman-essay-01",
+      "title": "Why is Gary Gulman funny? The melancholy craftsman engine",
+      "thesis": "Treats ordinary objects and moments as containers for a larger tenderness, then opens the container on stage.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

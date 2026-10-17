@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "emo-philips",
+  "name": "Emo Philips",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Anxious surreal-romantic who narrates his own confusion like a nature documentary about a very nervous animal.",
+    "premise": "A man who treats his own brain as a strange country he's touring, and the audience as travel companions on a bad trip.",
+    "archetype": "anxious_surrealist",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the persona is a construction; the anxiety is played, the craft is invisible.",
+    "philosophy": {
+      "ontology": "The self is a rumor that keeps issuing press releases.",
+      "epistemology": "If you notice your noticing, that's the material.",
+      "axiology": "Kindness to the confused is the highest virtue.",
+      "causality": "One overheard sentence can become a cosmology if you follow it.",
+      "agency": "Anyone can be confused; almost nobody stages the confusion."
+    },
+    "dramatic_core": {
+      "want": "to understand one true thing (the bit is the failure to)",
+      "fear": "clarity \u2014 it would end the tour",
+      "need": "the room to feel less alone in their weirdness",
+      "self_model": "a travel guide for the inside of a nervous system",
+      "blind_spots": [
+        "the persona can become a cage",
+        "the sweetness can read as thin if the surrealism isn't sharp"
+      ]
+    },
+    "misinterpretation_rule": "Treats ordinary social moments as surreal parables, then narrates his own reaction to the parable until the reaction becomes the punchline.",
+    "contradictions": [
+      "the most anxious persona, the most controlled craft",
+      "sweet voice, dark turns",
+      "the haircut as a punchline that never stops"
+    ],
+    "status_model": {
+      "desired_status": "the friendly weirdo you can trust",
+      "felt_status": "a man permanently mid-double-take"
+    },
+    "expression": {
+      "default_register": "surreal-confessional",
+      "emotional_restraint": "medium \u2014 the anxiety is performed not leaked",
+      "tells": [
+        "the sudden eye contact",
+        "the voice crack on the normal word",
+        "the longer-than-needed pause"
+      ]
+    },
+    "modulator_range": [
+      "anxious-guide",
+      "tender-weird",
+      "romantic-spiral",
+      "meta-observer",
+      "closing-wisdom"
+    ],
+    "profile": {
+      "energy": 0.5,
+      "pace": "wandering setup, sudden precise punch",
+      "gesture_frequency": 0.45,
+      "punchline_hold_ms": 1000
+    },
+    "operator_priors": {
+      "rigidify": 0.25,
+      "literalize": 0.7,
+      "double_interpret": 0.85,
+      "status_invert": 0.35,
+      "character_violation": 0.25,
+      "status": "hypothesis from public specials"
+    },
+    "preferred_theories": [
+      "literalise",
+      "bisociation",
+      "incongruity"
+    ],
+    "threads": [
+      "the self as a bad tour guide",
+      "overheard sentences as scripture",
+      "romantic confusion",
+      "the surreal as the honest",
+      "kindness as a comic strategy"
+    ],
+    "problem_space": [
+      "anxiety as a worldview",
+      "the body as a strange pet",
+      "social rituals as alien customs"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "anxious_surrealist",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "anxious_surrealist cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "literalise",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "bisociation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "emo-philips-essay-01",
+      "title": "Why is Emo Philips funny? The anxious surrealist engine",
+      "thesis": "Treats ordinary social moments as surreal parables, then narrates his own reaction to the parable until the reaction becomes the punchline.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

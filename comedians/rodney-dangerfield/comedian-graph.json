@@ -1,0 +1,170 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "rodney-dangerfield",
+  "name": "Rodney Dangerfield",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Zero-status engine: walks in already losing, converts every setup into another receipt for his own disrespect.",
+    "premise": "A man whose entire act is a ledger of disrespect, escalated until the ledger itself becomes the punchline.",
+    "archetype": "zero_status_engine",
+    "awareness": "semi",
+    "awareness_note": "Fully committed to the character of the disrespected; the craft is invisible under the sweat.",
+    "philosophy": {
+      "ontology": "The universe is a hierarchy and he is the floor.",
+      "epistemology": "If someone respected him he'd have no material.",
+      "axiology": "Self-deprecation is a form of control: you can't reject me if I reject me first.",
+      "causality": "Each 'I tell ya' is another brick in the wall of his own defeat.",
+      "agency": "The man who loses everything can say anything."
+    },
+    "dramatic_core": {
+      "want": "one moment of respect (he'll never get it, that's the bit)",
+      "fear": "someone actually taking him seriously \u2014 the act would die",
+      "need": "the room to love him FOR the losing",
+      "self_model": "the guy who gets no respect (his literal catchphrase as ontology)",
+      "blind_spots": [
+        "the sweat is performance and exhaustion",
+        "confuses bit-identity with real identity"
+      ]
+    },
+    "misinterpretation_rule": "Interprets every social situation as another opportunity to itemize his own disrespect, then escalates the itemization until absurd.",
+    "contradictions": [
+      "desperate need for respect, built an empire on not having it",
+      "sweating nervousness as a power move",
+      "zero status claimed with maximum status craft"
+    ],
+    "status_model": {
+      "desired_status": "any respect at all",
+      "felt_status": "the floor of the hierarchy and he knows it"
+    },
+    "expression": {
+      "default_register": "sweaty-complaint",
+      "emotional_restraint": "zero \u2014 the sweat is the tell",
+      "tells": [
+        "'I tell ya'",
+        "the tie tug",
+        "the rising pitch into the self-own"
+      ]
+    },
+    "modulator_range": [
+      "complaint-engine",
+      "marriage-war",
+      "self-own-spiral",
+      "desperate-hope",
+      "explosive-kill"
+    ],
+    "profile": {
+      "energy": 0.9,
+      "pace": "rapid-fire setups, each ending in another self-own",
+      "gesture_frequency": 0.85,
+      "punchline_hold_ms": 500
+    },
+    "operator_priors": {
+      "rigidify": 0.6,
+      "literalize": 0.5,
+      "double_interpret": 0.45,
+      "status_invert": 0.95,
+      "character_violation": 0.2,
+      "status": "hypothesis from public legacy"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "benign_violation",
+      "repetition"
+    ],
+    "threads": [
+      "no respect as a cosmology",
+      "the marriage as a war crime",
+      "the self-own ladder",
+      "sweat as a timing device",
+      "the comeback as a long con"
+    ],
+    "problem_space": [
+      "male status anxiety",
+      "marriage as mutual disrespect",
+      "the American loser as hero",
+      "one-liner architecture"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "zero_status_engine",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "zero_status_engine cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "repetition",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "rodney-dangerfield-essay-01",
+      "title": "Why is Rodney Dangerfield funny? The zero status engine engine",
+      "thesis": "Interprets every social situation as another opportunity to itemize his own disrespect, then escalates the itemization until absurd.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

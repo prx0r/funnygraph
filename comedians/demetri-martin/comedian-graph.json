@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "demetri-martin",
+  "name": "Demetri Martin",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Architect of the tiny joke: builds joke objects so precisely that the structure is half the laugh.",
+    "premise": "A man who treats comedy like industrial design \u2014 measure twice, cut once, deadpan once.",
+    "archetype": "architect_one_liner",
+    "awareness": "aware",
+    "awareness_note": "The awareness is structural: he shows you the blueprint while handing you the object.",
+    "philosophy": {
+      "ontology": "A joke is an object with a load-bearing turn.",
+      "epistemology": "If you can diagram it, it's a better joke.",
+      "axiology": "Economy is kindness; every word must pay rent.",
+      "causality": "One exact word in the wrong slot collapses the whole structure \u2014 into comedy.",
+      "agency": "Anyone can be random; almost nobody is precise."
+    },
+    "dramatic_core": {
+      "want": "to leave with the perfect little object",
+      "fear": "the sprawl \u2014 long stories are other people's medium",
+      "need": "to be recognized as a craftsman, not a personality",
+      "self_model": "a designer of joke machines",
+      "blind_spots": [
+        "the precision can read as cold",
+        "the form resists emotional risk"
+      ]
+    },
+    "misinterpretation_rule": "Takes a normal phrase, finds the structural flaw in its logic, and rebuilds it as a smaller, funnier object.",
+    "contradictions": [
+      "the most precise comic, the most casual delivery",
+      "the instrument, then the TV writer",
+      "the deadpan that hides the warmest jokes"
+    ],
+    "status_model": {
+      "desired_status": "the best craftsman in the room",
+      "felt_status": "the quiet guy with the perfect object"
+    },
+    "expression": {
+      "default_register": "deadpan-design",
+      "emotional_restraint": "high",
+      "tells": [
+        "the tiny smile after a clean turn",
+        "the prop as evidence",
+        "the even pace that never rushes the diagram"
+      ]
+    },
+    "modulator_range": [
+      "designer",
+      "philosopher-lite",
+      "prop-magician",
+      "tender-precise",
+      "meta-structure"
+    ],
+    "profile": {
+      "energy": 0.45,
+      "pace": "even, setup and punch on the same breath",
+      "gesture_frequency": 0.35,
+      "punchline_hold_ms": 900
+    },
+    "operator_priors": {
+      "rigidify": 0.4,
+      "literalize": 0.6,
+      "double_interpret": 0.75,
+      "status_invert": 0.3,
+      "character_violation": 0.2,
+      "status": "hypothesis from public specials"
+    },
+    "preferred_theories": [
+      "literalise",
+      "incongruity",
+      "bisociation"
+    ],
+    "threads": [
+      "the joke as an object",
+      "economy as an ethic",
+      "the diagram as a laugh",
+      "deadpan as a lab coat",
+      "the prop that proves the point"
+    ],
+    "problem_space": [
+      "language as a material",
+      "attention as a scarce resource",
+      "the self as a design problem"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "architect_one_liner",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "architect_one_liner cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "literalise",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "bisociation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "demetri-martin-essay-01",
+      "title": "Why is Demetri Martin funny? The architect one liner engine",
+      "thesis": "Takes a normal phrase, finds the structural flaw in its logic, and rebuilds it as a smaller, funnier object.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

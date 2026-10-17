@@ -1,0 +1,534 @@
+{
+ "schema": "pogtown.comedian-axes.v1",
+ "note": "Projection layer over theory/comedians/*/comedian-graph.json. Every value hypothesis unless status=measured. Regenerate when graphs update \u2014 this is a view, not a store. Stage personas only.",
+ "created": "2026-10-15",
+ "roster": [
+  "louis-ck",
+  "norm-macdonald",
+  "jerry-seinfeld",
+  "dave-chappelle",
+  "mitch-hedberg",
+  "george-carlin",
+  "chris-rock"
+ ],
+ "axes": {
+  "A1_status_capital": {
+   "type": "numeric_0_1",
+   "theory": "status economics (louis-ck/personality.md \u00a74)",
+   "values": {
+    "louis-ck": {
+     "v": 0.0,
+     "status": "hypothesis-from-persona"
+    },
+    "mitch-hedberg": {
+     "v": 0.25,
+     "status": "hypothesis"
+    },
+    "norm-macdonald": {
+     "v": 0.45,
+     "status": "hypothesis-from-personality-md"
+    },
+    "jerry-seinfeld": {
+     "v": 0.7,
+     "status": "hypothesis-from-personality-md"
+    },
+    "george-carlin": {
+     "v": 0.75,
+     "status": "hypothesis"
+    },
+    "dave-chappelle": {
+     "v": 0.85,
+     "status": "hypothesis-from-personality-md"
+    },
+    "chris-rock": {
+     "v": 0.85,
+     "status": "hypothesis"
+    }
+   }
+  },
+  "A2_exit_strategy": {
+   "type": "categorical",
+   "vocab": [
+    "floor",
+    "chair",
+    "outside",
+    "chain",
+    "pulpit",
+    "throne",
+    "courtroom"
+   ],
+   "distance": "nominal \u2014 different category = max distance",
+   "values": {
+    "louis-ck": "floor",
+    "norm-macdonald": "chair",
+    "jerry-seinfeld": "outside",
+    "mitch-hedberg": "chain",
+    "george-carlin": "pulpit",
+    "dave-chappelle": "throne",
+    "chris-rock": "courtroom"
+   }
+  },
+  "A3_timing_doctrine": {
+   "type": "categorical_plus_numeric",
+   "vocab": [
+    "big_stop",
+    "never_stop",
+    "surgical",
+    "sermon",
+    "percussive",
+    "reload"
+   ],
+   "values": {
+    "louis-ck": {
+     "doctrine": "big_stop",
+     "pauses_per_min": 28.5,
+     "max_hold_s": 8.16,
+     "hold_placement": "mid_story",
+     "status": "measured (roadrage 120-240s)"
+    },
+    "norm-macdonald": {
+     "doctrine": "never_stop",
+     "pauses_per_min": 3.0,
+     "max_hold_s": 1.7,
+     "hold_placement": "pre_punch_escalating",
+     "status": "measured (moth 30-150s, ASR-noisy text, boundaries trusted)"
+    },
+    "jerry-seinfeld": {
+     "doctrine": "surgical",
+     "pauses_per_min": null,
+     "max_hold_s": null,
+     "hold_placement": "between_chain",
+     "status": "hypothesis"
+    },
+    "dave-chappelle": {
+     "doctrine": "sermon",
+     "pauses_per_min": null,
+     "max_hold_s": null,
+     "hold_placement": "post_point",
+     "status": "hypothesis"
+    },
+    "mitch-hedberg": {
+     "doctrine": "reload",
+     "pauses_per_min": null,
+     "max_hold_s": null,
+     "hold_placement": "between_chain",
+     "status": "hypothesis"
+    },
+    "george-carlin": {
+     "doctrine": "sermon",
+     "pauses_per_min": null,
+     "max_hold_s": null,
+     "hold_placement": "post_point",
+     "status": "hypothesis"
+    },
+    "chris-rock": {
+     "doctrine": "percussive",
+     "pauses_per_min": null,
+     "max_hold_s": null,
+     "hold_placement": "between_chain",
+     "status": "hypothesis"
+    }
+   }
+  },
+  "A4_target_direction": {
+   "type": "categorical",
+   "vocab": [
+    "self",
+    "peers",
+    "powerful",
+    "systems",
+    "objects",
+    "code"
+   ],
+   "theory": "GTVH TA (gtvh.py)",
+   "values": {
+    "louis-ck": {
+     "ta": "self",
+     "status": "measured (roadrage: TA=self every beat)"
+    },
+    "norm-macdonald": {
+     "ta": "self/none",
+     "status": "hypothesis"
+    },
+    "jerry-seinfeld": {
+     "ta": "code",
+     "status": "hypothesis"
+    },
+    "dave-chappelle": {
+     "ta": "systems",
+     "status": "hypothesis"
+    },
+    "mitch-hedberg": {
+     "ta": "objects",
+     "status": "hypothesis"
+    },
+    "george-carlin": {
+     "ta": "systems/powerful",
+     "status": "hypothesis"
+    },
+    "chris-rock": {
+     "ta": "systems/peers",
+     "status": "hypothesis"
+    }
+   }
+  },
+  "A5_hsq": {
+   "type": "numeric_0_1_x4",
+   "theory": "Martin et al. 2003 Humor Styles Questionnaire",
+   "dims": [
+    "self_defeating",
+    "self_enhancing",
+    "affiliative",
+    "aggressive"
+   ],
+   "values": {
+    "louis-ck": {
+     "self_defeating": 0.95,
+     "self_enhancing": 0.7,
+     "affiliative": 0.5,
+     "aggressive": 0.1,
+     "status": "hypothesis-from-personality-md"
+    },
+    "norm-macdonald": {
+     "self_defeating": 0.2,
+     "self_enhancing": 0.9,
+     "affiliative": 0.4,
+     "aggressive": 0.45,
+     "status": "hypothesis-from-personality-md"
+    },
+    "jerry-seinfeld": {
+     "self_defeating": 0.15,
+     "self_enhancing": 0.5,
+     "affiliative": 0.6,
+     "aggressive": 0.35,
+     "status": "hypothesis-from-personality-md"
+    },
+    "dave-chappelle": {
+     "self_defeating": 0.2,
+     "self_enhancing": 0.7,
+     "affiliative": 0.5,
+     "aggressive": 0.45,
+     "status": "hypothesis-from-personality-md"
+    },
+    "mitch-hedberg": {
+     "self_defeating": 0.35,
+     "self_enhancing": 0.6,
+     "affiliative": 0.7,
+     "aggressive": 0.1,
+     "status": "hypothesis"
+    },
+    "george-carlin": {
+     "self_defeating": 0.1,
+     "self_enhancing": 0.6,
+     "affiliative": 0.2,
+     "aggressive": 0.85,
+     "status": "hypothesis"
+    },
+    "chris-rock": {
+     "self_defeating": 0.3,
+     "self_enhancing": 0.6,
+     "affiliative": 0.5,
+     "aggressive": 0.6,
+     "status": "hypothesis"
+    }
+   }
+  },
+  "A6_big_five_persona": {
+   "type": "numeric_0_1_x5",
+   "theory": "Big Five persona estimates (Ruch et al. 2009 caveat: real comedians low-C/E/A; persona often inverts population)",
+   "dims": [
+    "openness",
+    "conscientiousness",
+    "extraversion",
+    "agreeableness",
+    "neuroticism_display"
+   ],
+   "values": {
+    "louis-ck": {
+     "openness": 0.75,
+     "conscientiousness": 0.25,
+     "extraversion": 0.45,
+     "agreeableness": 0.35,
+     "neuroticism_display": 0.85,
+     "status": "hypothesis-from-personality-md"
+    },
+    "norm-macdonald": {
+     "openness": 0.9,
+     "conscientiousness": 0.95,
+     "extraversion": 0.3,
+     "agreeableness": 0.45,
+     "neuroticism_display": 0.3,
+     "status": "hypothesis-from-personality-md"
+    },
+    "jerry-seinfeld": {
+     "openness": 0.7,
+     "conscientiousness": 0.9,
+     "extraversion": 0.6,
+     "agreeableness": 0.5,
+     "neuroticism_display": 0.45,
+     "status": "hypothesis-from-personality-md"
+    },
+    "dave-chappelle": {
+     "openness": 0.85,
+     "conscientiousness": 0.7,
+     "extraversion": 0.55,
+     "agreeableness": 0.4,
+     "neuroticism_display": 0.35,
+     "status": "hypothesis-from-personality-md"
+    },
+    "mitch-hedberg": {
+     "openness": 0.95,
+     "conscientiousness": 0.5,
+     "extraversion": 0.25,
+     "agreeableness": 0.6,
+     "neuroticism_display": 0.4,
+     "status": "hypothesis"
+    },
+    "george-carlin": {
+     "openness": 0.95,
+     "conscientiousness": 0.85,
+     "extraversion": 0.65,
+     "agreeableness": 0.15,
+     "neuroticism_display": 0.3,
+     "status": "hypothesis"
+    },
+    "chris-rock": {
+     "openness": 0.7,
+     "conscientiousness": 0.75,
+     "extraversion": 0.75,
+     "agreeableness": 0.3,
+     "neuroticism_display": 0.45,
+     "status": "hypothesis"
+    }
+   }
+  },
+  "A7_awareness": {
+   "type": "numeric_0_1",
+   "theory": "Head frame via SPEC-graph-v2: unaware=unearned-confidence, aware=neurotic, fluctuating=constructed innocent",
+   "vocab_labels": {
+    "0": "unaware",
+    "0.5": "fluctuating",
+    "1.0": "aware"
+   },
+   "values": {
+    "louis-ck": 1.0,
+    "norm-macdonald": 0.5,
+    "jerry-seinfeld": 1.0,
+    "dave-chappelle": 1.0,
+    "mitch-hedberg": 0.5,
+    "george-carlin": 1.0,
+    "chris-rock": 1.0
+   }
+  },
+  "A8_operator_signature": {
+   "type": "radar_vector",
+   "theory": "operator registry (audition/generate.py OPERATORS)",
+   "values": {
+    "louis-ck": {
+     "split_knowledge": 0.85,
+     "expose_self_blindness": 0.8,
+     "character_violation": 0.75,
+     "double_interpret": 0.7,
+     "rigidify": 0.5,
+     "literalize": 0.4
+    },
+    "norm-macdonald": {
+     "false_analogy": 0.9,
+     "repeat_variation": 0.85,
+     "split_knowledge": 0.7,
+     "double_interpret": 0.65,
+     "rigidify": 0.4
+    },
+    "jerry-seinfeld": {
+     "rigidify": 0.95,
+     "literalize": 0.85,
+     "double_interpret": 0.65,
+     "false_analogy": 0.5,
+     "juxtapose": 0.4
+    },
+    "dave-chappelle": {
+     "split_knowledge": 0.9,
+     "double_interpret": 0.85,
+     "status_invert": 0.75,
+     "character_violation": 0.6,
+     "expose_self_blindness": 0.5
+    },
+    "mitch-hedberg": {
+     "literalize": 0.9,
+     "double_interpret": 0.85,
+     "rigidify": 0.6,
+     "juxtapose": 0.55
+    },
+    "george-carlin": {
+     "rigidify": 0.9,
+     "literalize": 0.8,
+     "double_interpret": 0.75,
+     "status_invert": 0.7,
+     "character_violation": 0.5
+    },
+    "chris-rock": {
+     "double_interpret": 0.85,
+     "status_invert": 0.75,
+     "split_knowledge": 0.7,
+     "character_violation": 0.6,
+     "juxtapose": 0.55
+    }
+   }
+  },
+  "A9_gtvh_fingerprint": {
+   "type": "categorical_triple",
+   "theory": "GTVH KRs (audition/gtvh.py vocab)",
+   "dims": [
+    "SO",
+    "LM",
+    "NS"
+   ],
+   "values": {
+    "louis-ck": {
+     "SO": "caring/cruel",
+     "LM": "garden_path+perspective_shift",
+     "NS": "anecdote",
+     "status": "measured-beats+hypo"
+    },
+    "norm-macdonald": {
+     "SO": "normal/absurd",
+     "LM": "false_analogy+garden_path",
+     "NS": "narrative",
+     "status": "hypothesis"
+    },
+    "jerry-seinfeld": {
+     "SO": "normal/absurd",
+     "LM": "rigidify",
+     "NS": "one-liner-chain/monologue-list",
+     "status": "hypothesis"
+    },
+    "dave-chappelle": {
+     "SO": "normal/absurd-social",
+     "LM": "double_interpret+status_invert",
+     "NS": "anecdote/character-chain",
+     "status": "hypothesis"
+    },
+    "mitch-hedberg": {
+     "SO": "normal/absurd",
+     "LM": "literalize+double_interpret",
+     "NS": "one-liner-chain",
+     "status": "hypothesis"
+    },
+    "george-carlin": {
+     "SO": "sacred/profane",
+     "LM": "rigidify+literalize",
+     "NS": "monologue-list",
+     "status": "hypothesis"
+    },
+    "chris-rock": {
+     "SO": "normal/absurd-social",
+     "LM": "double_interpret+juxtapose",
+     "NS": "monologue-list/anecdote",
+     "status": "hypothesis"
+    }
+   }
+  },
+  "A10_persona_lock": {
+   "type": "composite",
+   "theory": "attribution classifier confidence = how much the text carries the fingerprint (StyloSpeaker2025 validates; Romanowski2025 constrains: mechanism not funniness)",
+   "source": "theory/research/classifier/light_report.json (LIGHT pass, n=1357, topic confound uncontrolled)",
+   "sub_metrics": {
+    "text_accuracy": "holdout accuracy per comedian",
+    "mean_confidence": "mean predict_proba max on holdout",
+    "verdict": "text-fingerprint (high acc+conf) vs delivery-fingerprint (low acc, fingerprint in audio)"
+   },
+   "values": {
+    "chris-rock": {
+     "text_accuracy": 0.5,
+     "mean_confidence": 0.283,
+     "confused_most_with": "dave-chappelle",
+     "verdict": "text-fingerprint"
+    },
+    "dave-chappelle": {
+     "text_accuracy": 0.28,
+     "mean_confidence": 0.275,
+     "confused_most_with": "george-carlin",
+     "verdict": "delivery-fingerprint"
+    },
+    "george-carlin": {
+     "text_accuracy": 0.32,
+     "mean_confidence": 0.27,
+     "confused_most_with": "jerry-seinfeld",
+     "verdict": "mixed"
+    },
+    "jerry-seinfeld": {
+     "text_accuracy": 0.4,
+     "mean_confidence": 0.255,
+     "confused_most_with": "george-carlin",
+     "verdict": "mixed"
+    },
+    "louis-ck": {
+     "text_accuracy": 0.48,
+     "mean_confidence": 0.28,
+     "confused_most_with": "dave-chappelle",
+     "verdict": "text-fingerprint"
+    },
+    "mitch-hedberg": {
+     "text_accuracy": 0.4,
+     "mean_confidence": 0.308,
+     "confused_most_with": "chris-rock",
+     "verdict": "mixed"
+    },
+    "norm-macdonald": {
+     "text_accuracy": 0.48,
+     "mean_confidence": 0.29,
+     "confused_most_with": "louis-ck",
+     "verdict": "text-fingerprint"
+    }
+   },
+   "interpretation": {
+    "norm-macdonald": "highest text fingerprint \u2014 the never-stop drawl is lexical",
+    "dave-chappelle": "lowest \u2014 holds/character-voices carry him, not words",
+    "seinfeld_carlin_bidirectional": "auditor and pulpit share text-space; both dissect language, neither confesses"
+   }
+  }
+ },
+ "recommended_plots": [
+  {
+   "id": "status_x_exit",
+   "x": "A1_status_capital",
+   "y": "A2_exit_strategy",
+   "read": "who can say what from where"
+  },
+  {
+   "id": "timing_scatter",
+   "x": "pauses_per_min (A3)",
+   "y": "max_hold_s (A3)",
+   "read": "measured timing doctrines; currently Louis vs Norm only \u2014 others fill as sets land"
+  },
+  {
+   "id": "hsq_plane",
+   "x": "self_defeating (A5)",
+   "y": "aggressive (A5)",
+   "read": "tortured vs resolute vs prophetic corners"
+  },
+  {
+   "id": "big_five_radar",
+   "axes": "A6",
+   "read": "persona polygons; Norm high-C/low-N vs Louis low-C/high-N is the starkest"
+  },
+  {
+   "id": "operator_radar",
+   "axes": "A8",
+   "read": "mechanism fingerprints; Seinfeld rigidify-heavy vs Chappelle split_knowledge-heavy"
+  },
+  {
+   "id": "awareness_x_target",
+   "x": "A7_awareness",
+   "y": "A4_target_direction",
+   "read": "the two constructed innocents cluster at fluctuating/non-self; the aware confessor is alone at aware/self"
+  }
+ ],
+ "provenance_rules": [
+  "every plotted value carries measured|hypothesis from its graph",
+  "never plot hypothesis against measurement without labeling both",
+  "n>=3 sets before any operator/HSQ value leaves hypothesis",
+  "stage persona only",
+  "projection is derived \u2014 graphs are source of truth; regenerate this file when graphs update"
+ ]
+}

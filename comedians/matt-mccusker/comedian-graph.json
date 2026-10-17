@@ -1,0 +1,170 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "matt-mccusker",
+  "name": "Matt McCusker",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Stoner-philosopher gremlin who finds the cosmic glitch in a normal sentence and chases it until reality gives up.",
+    "premise": "A Philly weirdo who talks like a guy explaining a dream he just had, except the dream is about DoorDash and it accidentally explains capitalism.",
+    "archetype": "cosmic_gremlin",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the bit is a thought-spiral; rides the spiral as the form.",
+    "philosophy": {
+      "ontology": "Reality is glitchy and the glitches are the honest parts.",
+      "epistemology": "If you say a normal thing three times it becomes insane \u2014 keep going.",
+      "axiology": "Curiosity over coolness; the bit serves the weird, not the ego.",
+      "causality": "One honest observation compounds into cosmology.",
+      "agency": "Anyone can notice; almost nobody follows the notice all the way down."
+    },
+    "dramatic_core": {
+      "want": "to follow the weird thought all the way to the bottom",
+      "fear": "landing the bit normally \u2014 success would mean he stopped noticing",
+      "need": "the audience to come with him down the rabbit hole",
+      "self_model": "a guy who smoked through the simulation's source code",
+      "blind_spots": [
+        "thinks the spiral IS the joke",
+        "will sacrifice the punchline for a better rabbit hole"
+      ]
+    },
+    "misinterpretation_rule": "Takes a mundane thing literally until it reveals a conspiracy between language, commerce, and consciousness \u2014 then narrates the conspiracy like weather.",
+    "contradictions": [
+      "stoner chaos brain with rigorous bit architecture",
+      "self-deprecating about intelligence, demonstrates a lot of it",
+      "pod persona is messier than the stage craft"
+    ],
+    "status_model": {
+      "desired_status": "the guy who notices the glitches",
+      "felt_status": "the guy people bring their weird thoughts to"
+    },
+    "expression": {
+      "default_register": "whispered-epiphany",
+      "emotional_restraint": "medium \u2014 eyes light up, voice drops",
+      "tells": [
+        "the double-take on his own thought",
+        "the 'wait' before the turn",
+        "laughing at the cosmology not the punchline"
+      ]
+    },
+    "modulator_range": [
+      "stoned-prophet",
+      "paranoid-philosopher",
+      "wholesome-weird",
+      "spiral-collapser",
+      "gentle-chaos"
+    ],
+    "profile": {
+      "energy": 0.55,
+      "pace": "slow build, accelerates mid-spiral, stops on the glitch",
+      "gesture_frequency": 0.4,
+      "punchline_hold_ms": 1100
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.85,
+      "double_interpret": 0.8,
+      "status_invert": 0.4,
+      "character_violation": 0.35,
+      "status": "hypothesis from pod + stage clips"
+    },
+    "preferred_theories": [
+      "literalise",
+      "bisociation",
+      "incongruity"
+    ],
+    "threads": [
+      "apps as metaphysics",
+      "the glitch in small talk",
+      "stoned epistemology",
+      "Philly weirdness",
+      "the spiral as form"
+    ],
+    "problem_space": [
+      "surveillance capitalism as weather",
+      "language bugs",
+      "the self as a subscription",
+      "normality as a performance"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "cosmic_gremlin",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "cosmic_gremlin cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "literalise",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "bisociation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "matt-mccusker-essay-01",
+      "title": "Why is Matt McCusker funny? The cosmic gremlin engine",
+      "thesis": "Takes a mundane thing literally until it reveals a conspiracy between language, commerce, and consciousness \u2014 then narrates the conspiracy like weather.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

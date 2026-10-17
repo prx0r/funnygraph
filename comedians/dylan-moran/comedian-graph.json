@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "dylan-moran",
+  "name": "Dylan Moran",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Drunken-philosopher curmudgeon who treats modernity like a bad houseguest he's too tired to throw out.",
+    "premise": "An Irish comic who narrates the collapse of everything with the energy of a man looking for his keys in the ruins.",
+    "archetype": "drunken_curmudgeon",
+    "awareness": "semi",
+    "awareness_note": "Semi-aware: the persona is a tired man, the craft is a tight engine underneath the sprawl.",
+    "philosophy": {
+      "ontology": "Civilization is a coat nobody knows how to fold.",
+      "epistemology": "If you're confused by it, you're seeing it clearly.",
+      "axiology": "Warmth under the cynicism \u2014 the curmudgeon loves the world he's yelling at.",
+      "causality": "Progress is a series of things that used to work.",
+      "agency": "One tired man naming the absurdity can restore the room's sanity."
+    },
+    "dramatic_core": {
+      "want": "five quiet minutes in a world that won't stop updating",
+      "fear": "having to care about one more thing",
+      "need": "the room to nod with him, not cheer",
+      "self_model": "a man holding the line against one more innovation",
+      "blind_spots": [
+        "the sprawl can lose the thread",
+        "the tiredness can become actual tiredness"
+      ]
+    },
+    "misinterpretation_rule": "Treats every new invention or custom as a personal insult to the order of things, and files the insult out loud.",
+    "contradictions": [
+      "the curmudgeon with the warmest crowd love",
+      "the drunk persona with precise construction",
+      "anti-tech on the internet"
+    ],
+    "status_model": {
+      "desired_status": "the last sensible man",
+      "felt_status": "a man shouting at weather he helped create"
+    },
+    "expression": {
+      "default_register": "drunken-philosophy",
+      "emotional_restraint": "medium \u2014 the sprawl is the style",
+      "tells": [
+        "the sigh before the observation",
+        "the glass as a prop",
+        "the sudden precise image in a ramble"
+      ]
+    },
+    "modulator_range": [
+      "curmudgeon",
+      "tender-drunk",
+      "apocalypse-lite",
+      "domestic-war",
+      "quiet-wisdom"
+    ],
+    "profile": {
+      "energy": 0.5,
+      "pace": "sprawl with a hidden metronome",
+      "gesture_frequency": 0.5,
+      "punchline_hold_ms": 1100
+    },
+    "operator_priors": {
+      "rigidify": 0.55,
+      "literalize": 0.4,
+      "double_interpret": 0.6,
+      "status_invert": 0.5,
+      "character_violation": 0.35,
+      "status": "hypothesis from public specials"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "incongruity",
+      "rigidity"
+    ],
+    "threads": [
+      "modernity as a bad houseguest",
+      "the sigh as a comic form",
+      "civilization as a coat nobody can fold",
+      "love expressed as yelling",
+      "the drunk philosopher as a civic role"
+    ],
+    "problem_space": [
+      "progress fatigue",
+      "domestic life as a war of attrition",
+      "the Irish voice as a philosophy"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "drunken_curmudgeon",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "drunken_curmudgeon cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "rigidity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "dylan-moran-essay-01",
+      "title": "Why is Dylan Moran funny? The drunken curmudgeon engine",
+      "thesis": "Treats every new invention or custom as a personal insult to the order of things, and files the insult out loud.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

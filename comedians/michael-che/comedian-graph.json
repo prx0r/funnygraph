@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "michael-che",
+  "name": "Michael Che",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Newsdesk grin assassin who says the dangerous thing in the friendliest voice and lets the contrast do the work.",
+    "premise": "A man who treats the news as a set of jokes the culture is telling itself, and he's just reading them out loud.",
+    "archetype": "grin_assassin",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the grin is a weapon; the contrast is the craft.",
+    "philosophy": {
+      "ontology": "The news is a comedy writers' room that forgot it was funny.",
+      "epistemology": "If it's too soon, it's probably exactly on time.",
+      "axiology": "The grin is a delivery system for the dangerous thing.",
+      "causality": "One good contrast can collapse a whole news cycle's self-seriousness.",
+      "agency": "Anyone can be edgy; almost nobody smiles while doing it."
+    },
+    "dramatic_core": {
+      "want": "to say the thing and get away with it",
+      "fear": "the room turning on him \u2014 the grin is the safety net",
+      "need": "to be the one who names it first",
+      "self_model": "a man with a grin and a grenade",
+      "blind_spots": [
+        "the grin can hide the risk",
+        "the news-cycle material can date fast"
+      ]
+    },
+    "misinterpretation_rule": "Treats every headline as a joke the culture is already telling, and reads it back to them in a friendly voice.",
+    "contradictions": [
+      "the dangerous thing in the friendliest voice",
+      "the newsdesk comic who hates the newsdesk",
+      "the grin that is both weapon and shield"
+    ],
+    "status_model": {
+      "desired_status": "the one who names it first",
+      "felt_status": "a man grinning at the edge of the knife"
+    },
+    "expression": {
+      "default_register": "grin-assassin",
+      "emotional_restraint": "high \u2014 the grin covers everything",
+      "tells": [
+        "the grin before the kill",
+        "the casual shrug after the grenade",
+        "the pause that lets the room decide how to feel"
+      ]
+    },
+    "modulator_range": [
+      "grin",
+      "news-desk",
+      "roast-adjacent",
+      "tender-turn",
+      "quiet-kill"
+    ],
+    "profile": {
+      "energy": 0.6,
+      "pace": "even, grin as a metronome",
+      "gesture_frequency": 0.4,
+      "punchline_hold_ms": 800
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.4,
+      "double_interpret": 0.65,
+      "status_invert": 0.55,
+      "character_violation": 0.35,
+      "status": "hypothesis from newsdesk + specials"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "benign_violation",
+      "incongruity"
+    ],
+    "threads": [
+      "the news as a comedy writers' room",
+      "the grin as a weapon",
+      "the dangerous thing in a friendly voice",
+      "the headline as a setup",
+      "the contrast as a form"
+    ],
+    "problem_space": [
+      "news as content",
+      "the edge as a strategy",
+      "the grin as a survival mechanism"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "grin_assassin",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "grin_assassin cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "michael-che-essay-01",
+      "title": "Why is Michael Che funny? The grin assassin engine",
+      "thesis": "Treats every headline as a joke the culture is already telling, and reads it back to them in a friendly voice.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "george-carlin",
+  "name": "George Carlin",
+  "note": "STAGE PERSONA graph. Graph-only (no personality.md yet). 0 sets measured — all hypothesis. Historical figure; stage persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-15",
+  "annotator": "mimo-v2.5",
+
+  "identity": {
+    "deal": "Language prophet who holds the culture's own words up against its own rules until the hypocrisy does the laughing for him.",
+    "premise": "A curmudgeon philosopher-comic who treats English as a crime scene and the audience as the jury he's been empanelling for forty years.",
+    "archetype": "prophet_curmudgeon",
+    "awareness": "aware",
+    "awareness_note": "Peak aware-comic: the awareness IS the act. No persona gap (unlike Norm/Hedberg's constructed innocents); the man and the rage are the performance.",
+    "philosophy": {
+      "ontology": "Civilization is a set of euphemisms arranged to hide what's actually happening.",
+      "epistemology": "The real meaning is always in the words people avoid; follow the avoidance.",
+      "axiology": "Honesty about language is honesty about power; both are in short supply.",
+      "causality": "Soft language makes soft thinking makes soft atrocity.",
+      "agency": "One comic naming the euphemism out loud can puncture a whole policy."
+    },
+    "dramatic_core": {
+      "want": "one more euphemism dragged into the light",
+      "fear": "becoming the thing he's angry at — irrelevant, soft, saying 'persons of substance'",
+      "need": "the audience to leave smarter AND madder",
+      "self_model": "the last honest man with a thesaurus",
+      "blind_spots": ["unknown — needs multi-set observation"]
+    },
+    "misinterpretation_rule": "Treats any soft phrase as a crime scene: reconstruct what actually happened from the words people chose not to use.",
+    "contradictions": [
+      "hated the establishment, became an institution",
+      "rage delivered with the timing of a song-and-dance man",
+      "preached individuality from the most copied stage persona in comedy"
+    ],
+    "status_model": {"desired_status": "the language's inspector general", "felt_status": "curmudgeon prophet with a Grateful Dead following"},
+    "expression": {"default_register": "prophetic-rant", "emotional_restraint": "low-medium — the anger is the point, but engineered", "tells": ["the eyebrow on the key word", "the acceleration into the list", "the sudden drop to deadpan on the killer"]},
+    "modulator_range": ["prophetic", "curmudgeonly", "gleefully-cruel", "weary-scholar", "mock-innocent"],
+    "profile": {"energy": 0.65, "pace": "accelerating lists, hard stops on the key word", "gesture_frequency": 0.5, "punchline_hold_ms": 1200, "note": "hypothesis"},
+    "operator_priors": {
+      "rigidify": 0.9,
+      "literalize": 0.8,
+      "double_interpret": 0.75,
+      "status_invert": 0.7,
+      "character_violation": 0.5,
+      "status": "authored hypothesis — 0 sets"
+    },
+    "preferred_theories": ["rigidity", "literalise", "status_reversal", "bisociation"],
+    "threads": ["euphemisms as crime scenes", "the list as sermon form", "baseball/airplane as civilization metaphors", "the seven-words taboo as constitutional question"],
+    "problem_space": ["the English language", "consumer culture", "religion as vocabulary", "political soft language", "death and its job titles"]
+  },
+
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "prophet_curmudgeon",
+    "archetype_def": "NEW cell — the preacher who never calls it preaching. Engine fit (hypothesis): sage_narrator high-tempo + mock_indignant_engine. Needs archetypes.json add (engine lane).",
+    "measured_acoustics": null,
+    "jev_state": {"status": "NOT RUN"},
+    "world_transfer_proven": null
+  },
+
+  "sets": [],
+  "set_queue": {"note": "First ingest: 'Jammin' in New York' or 'You Are All Diseases' era — language-prophet at full power. Word-timed ASR needed.", "blocked_on": "audio access"},
+
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "the list sermon: accelerates through a run of examples (rising rate, rising pitch), hard-stops on the key word (the euphemism being executed), lets the stop do the indignant work, then restarts the list engine. Timing is rhetorical, not confessional or mechanical — it's a preacher's cadence, not a storyteller's.",
+    "stop_start": ["start: list accelerates (rate up, pitch up)", "stop: the key word lands hard", "hold: the room's outrage/laughter catches up", "start: next list, the sermon continues"]
+  },
+
+  "gtvh_profile": {
+    "SO": "sacred/profane — the whole engine; the sacred is the euphemism, the profane is the truth underneath",
+    "LM": "rigidify + literalize — hold the soft phrase to its own literal meaning until it breaks",
+    "TA": "powerful / language itself — never punches down; the butt is the vocabulary of power",
+    "NS": "monologue-list — the list is the signature form",
+    "note": "authored hypothesis"
+  },
+
+  "theory_links": {
+    "internal": [
+      {"id": "rigidify", "cite": "operator registry", "claim": "apply the literal rule until it breaks", "applies_to": "the euphemism-execution move"},
+      {"id": "list-sermon", "cite": "SPEC-theory-blocks / public specials knowledge", "claim": "lists as rhetorical acceleration devices", "applies_to": "his primary narrative form"}
+    ],
+    "external": [
+      {"id": "seven-words", "cite": "public-domain knowledge of the routine as cultural object", "claim": "language taboo as a testable constitutional question", "applies_to": "the thesis that comedy can be jurisprudence"}
+    ]
+  },
+
+  "essay_seeds": [
+    {
+      "id": "carlin-essay-01",
+      "title": "The sermon that never calls itself preaching: Carlin's timing as rhetoric",
+      "thesis": "His timing isn't confessional (Louis) or mechanical (Hedberg) or defensive (Norm) — it's rhetorical. The list accelerates like a sermon building to its amen, the key word lands like a gavel, the hold lets the congregation catch up. This makes him the structural ancestor of every 'prophetic' comic on our axes, and the reason his TA is language itself: you can't punch a person for a word they didn't coin, but you can execute the word.",
+      "evidence": ["timing_profile.hypothesis", "gtvh_profile", "axes.json target-direction axis"],
+      "outline": ["rhetorical timing vs other doctrines", "the list as amen-corner", "why TA=language is the perfect target for a word-craft comic", "the inheritance: Chappelle's hold, Rock's rhythm, Jeselnik's precision all pass through this"],
+      "status": "seed"
+    }
+  ],
+
+  "provenance": {
+    "persona": "authored from public reputation (NYT 'Master of Words', genre tags: dark comedy/social criticism/language analysis, Grammy spoken-word career)",
+    "rules_held": ["stage persona only", "no verbatim lines", "0 sets = all hypothesis", "historical figure — no biography, persona-as-acted only"],
+    "sets_observed": 0,
+    "next": "ingest language-prophet era set; the list-sermon timing is the thing to measure"
+  }
+}

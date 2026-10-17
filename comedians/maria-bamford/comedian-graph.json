@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "maria-bamford",
+  "name": "Maria Bamford",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Character-vault who turns mental illness, family, and the ads in her head into a one-woman show that shouldn't work and always does.",
+    "premise": "A woman who treats her own breakdown as a cast of characters and gives each one a voice.",
+    "archetype": "character_vault",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the vulnerability is radical; the craft is the safety net.",
+    "philosophy": {
+      "ontology": "The self is a chorus of voices, some of them lying.",
+      "epistemology": "If you can give the darkness a voice, you can talk to it.",
+      "axiology": "Honesty about the illness is a form of survival.",
+      "causality": "One good character voice can make the unspeakable discussable.",
+      "agency": "Anyone can be a mess; almost nobody makes the mess into a cast."
+    },
+    "dramatic_core": {
+      "want": "to survive the story by making the room survive it with her",
+      "fear": "the real breakdown on stage \u2014 but that's also the material",
+      "need": "to be loved for the mess, not despite it",
+      "self_model": "a one-woman chorus of a nervous system",
+      "blind_spots": [
+        "the chaos can lose the thread",
+        "the vulnerability can become a cage"
+      ]
+    },
+    "misinterpretation_rule": "Treats every internal voice as a character with its own agenda, then stages the meeting.",
+    "contradictions": [
+      "the most fragile persona with the most controlled craft",
+      "the dark material delivered with cartoon energy",
+      "the cult favorite who became a cult"
+    ],
+    "status_model": {
+      "desired_status": "the one who names the voices",
+      "felt_status": "a woman conducting an orchestra of her own symptoms"
+    },
+    "expression": {
+      "default_register": "character-vault",
+      "emotional_restraint": "variable \u2014 from whisper to cartoon",
+      "tells": [
+        "the instant character switch",
+        "the voice crack on the real thing",
+        "the laugh that is also a flinch"
+      ]
+    },
+    "modulator_range": [
+      "character-swarm",
+      "tender-confession",
+      "commercial-parody",
+      "breakdown-narration",
+      "quiet-kill"
+    ],
+    "profile": {
+      "energy": 0.7,
+      "pace": "rapid character switches, freeze on the real",
+      "gesture_frequency": 0.6,
+      "punchline_hold_ms": 600
+    },
+    "operator_priors": {
+      "rigidify": 0.2,
+      "literalize": 0.4,
+      "double_interpret": 0.75,
+      "status_invert": 0.7,
+      "character_violation": 0.85,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "character_violation",
+      "bisociation",
+      "incongruity"
+    ],
+    "threads": [
+      "the self as a cast",
+      "mental illness as a character",
+      "the ad in the head",
+      "the breakdown as a form",
+      "kindness as a survival strategy"
+    ],
+    "problem_space": [
+      "mental health as material",
+      "the voice as a character engine",
+      "the body as a betrayal"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "character_vault",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "character_vault cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "character_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "bisociation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "maria-bamford-essay-01",
+      "title": "Why is Maria Bamford funny? The character vault engine",
+      "thesis": "Treats every internal voice as a character with its own agenda, then stages the meeting.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

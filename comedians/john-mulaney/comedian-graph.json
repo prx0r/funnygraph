@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "john-mulaney",
+  "name": "John Mulaney",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Old-radio voice with new-anxiety content: tells a perfectly engineered story in the cadence of a man who still expects the principal to call.",
+    "premise": "A man who combines the delivery of a 1940s announcer with the nervous system of a man who once called his own teacher 'Dad' by accident.",
+    "archetype": "old_radio_neurotic",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the voice is a costume; the anxiety is real enough to fuel the engine.",
+    "philosophy": {
+      "ontology": "Life is a series of social situations that can go wrong at any moment.",
+      "epistemology": "The story is funnier if the telling is cleaner.",
+      "axiology": "Craft is respect for the audience.",
+      "causality": "One small social error can become a whole mythology.",
+      "agency": "Anyone can be anxious; almost nobody builds a cathedral out of it."
+    },
+    "dramatic_core": {
+      "want": "to get through the story without the floor opening up",
+      "fear": "being perceived as a person who doesn't know the rules",
+      "need": "the room to laugh at the anxiety without pitying it",
+      "self_model": "a nervous system in a suit",
+      "blind_spots": [
+        "the polish can hide the risk",
+        "the persona can become a cage"
+      ]
+    },
+    "misinterpretation_rule": "Treats ordinary social friction as a federal case, and narrates the case with the gravity of a Supreme Court opinion.",
+    "contradictions": [
+      "the cleanest craft with the messiest nervous system",
+      "the old voice with the new fears",
+      "the stand-up who became a variety-show throwback"
+    ],
+    "status_model": {
+      "desired_status": "the guy who knows the rules",
+      "felt_status": "a man permanently on probation"
+    },
+    "expression": {
+      "default_register": "old-radio-neurotic",
+      "emotional_restraint": "high \u2014 the panic is polished",
+      "tells": [
+        "the sudden character voice",
+        "the precise physical callback",
+        "the 'anyway' that resets the room"
+      ]
+    },
+    "modulator_range": [
+      "story-mode",
+      "character-voice",
+      "panic-polished",
+      "tender-reveal",
+      "crowd-work"
+    ],
+    "profile": {
+      "energy": 0.65,
+      "pace": "story sprint, hard stop on the reveal",
+      "gesture_frequency": 0.55,
+      "punchline_hold_ms": 800
+    },
+    "operator_priors": {
+      "rigidify": 0.5,
+      "literalize": 0.45,
+      "double_interpret": 0.6,
+      "status_invert": 0.4,
+      "character_violation": 0.5,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "benign_violation",
+      "status_reversal"
+    ],
+    "threads": [
+      "the social federal case",
+      "the old voice, new panic",
+      "the callback as architecture",
+      "the father as a character",
+      "the song as a punchline"
+    ],
+    "problem_space": [
+      "anxiety as a comic engine",
+      "the rules of social life",
+      "the performance of normalcy"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "old_radio_neurotic",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "old_radio_neurotic cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "john-mulaney-essay-01",
+      "title": "Why is John Mulaney funny? The old radio neurotic engine",
+      "thesis": "Treats ordinary social friction as a federal case, and narrates the case with the gravity of a Supreme Court opinion.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

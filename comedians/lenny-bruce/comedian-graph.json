@@ -1,0 +1,170 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "lenny-bruce",
+  "name": "Lenny Bruce",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Jazz-confessional anarchist who used the courtroom, the gutter, and the pulpit interchangeably until the act and the trial were the same bit.",
+    "premise": "A man who treated language taboos as the real subject of comedy, and paid for it in courtrooms.",
+    "archetype": "prophet_curmudgeon",
+    "awareness": "aware",
+    "awareness_note": "The bit was the defense; the trial was the bit.",
+    "philosophy": {
+      "ontology": "Reality is the word you're not allowed to say.",
+      "epistemology": "Follow the taboo; that's where the truth is hiding.",
+      "axiology": "Free speech is a physical act, not a principle.",
+      "causality": "Naming the dirty word cleans the room \u2014 or gets you arrested.",
+      "agency": "One comic's mouth can force a society to look at itself."
+    },
+    "dramatic_core": {
+      "want": "to say the word and survive saying it",
+      "fear": "self-censorship \u2014 the internal cop is worse than the external one",
+      "need": "the audience to leave free-er than they came",
+      "self_model": "a defendant who happens to be funny",
+      "blind_spots": [
+        "the trial ate the act",
+        "confused martyrdom with craft"
+      ]
+    },
+    "misinterpretation_rule": "Treats every social convention as a coded law, then performs the law's absurdity by breaking it live.",
+    "contradictions": [
+      "preached freedom while trapped by addiction",
+      "the filth was in service of purity",
+      "died before the culture caught up"
+    ],
+    "status_model": {
+      "desired_status": "the free man in the room",
+      "felt_status": "defendant on tour"
+    },
+    "expression": {
+      "default_register": "jazz-confessional",
+      "emotional_restraint": "variable \u2014 from scholar to street",
+      "tells": [
+        "the improvised digression that becomes the bit",
+        "the courtroom voice",
+        "the sudden tenderness"
+      ]
+    },
+    "modulator_range": [
+      "anarchist",
+      "scholar",
+      "street-jazz",
+      "martyr",
+      "tender-heretic"
+    ],
+    "profile": {
+      "energy": 0.7,
+      "pace": "jazz digressions that snap back to the thesis",
+      "gesture_frequency": 0.5,
+      "punchline_hold_ms": 800
+    },
+    "operator_priors": {
+      "rigidify": 0.5,
+      "literalize": 0.7,
+      "double_interpret": 0.75,
+      "status_invert": 0.85,
+      "character_violation": 0.4,
+      "status": "hypothesis from public legacy"
+    },
+    "preferred_theories": [
+      "literalise",
+      "status_reversal",
+      "incongruity"
+    ],
+    "threads": [
+      "the dirty word as a constitutional question",
+      "the courtroom as a stage",
+      "jazz time as comic time",
+      "addiction as both subject and saboteur",
+      "the digression as the form"
+    ],
+    "problem_space": [
+      "free speech",
+      "religion as language",
+      "the cop inside the head",
+      "American hypocrisy"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "prophet_curmudgeon",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "prophet_curmudgeon cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "literalise",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "lenny-bruce-essay-01",
+      "title": "Why is Lenny Bruce funny? The prophet curmudgeon engine",
+      "thesis": "Treats every social convention as a coded law, then performs the law's absurdity by breaking it live.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "patrice-oneal",
+  "name": "Patrice O'Neal",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Truth-telling bully who loved the room so much he'd fight it until it told the truth back.",
+    "premise": "A man who treated every social lie as an enemy, and the audience as a suspect he was interrogating with love.",
+    "archetype": "truth_bully",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the bully is a love language; the craft is the interrogation.",
+    "philosophy": {
+      "ontology": "Social life is a series of lies everyone agrees to tell.",
+      "epistemology": "If the room is uncomfortable, you're over the target.",
+      "axiology": "The truth is a form of love, even when it doesn't feel like it.",
+      "causality": "One good interrogation can collapse a whole room's self-image.",
+      "agency": "Anyone can be a bully; almost nobody bullies toward the truth."
+    },
+    "dramatic_core": {
+      "want": "the room to stop lying",
+      "fear": "being the one who lied \u2014 he'd turn on himself first",
+      "need": "to be loved for the truth, not despite it",
+      "self_model": "a man holding a mirror up to the room and not letting go",
+      "blind_spots": [
+        "the bully can become a cage",
+        "the truth can lose the room"
+      ]
+    },
+    "misinterpretation_rule": "Treats every social lie as a challenge, then follows the lie until the room confesses.",
+    "contradictions": [
+      "the bully with the biggest heart",
+      "the truth-teller who loved the lie-tellers",
+      "the man who fought the room and won it"
+    ],
+    "status_model": {
+      "desired_status": "the one who tells the truth",
+      "felt_status": "a man permanently at war with the room he loves"
+    },
+    "expression": {
+      "default_register": "truth-bully",
+      "emotional_restraint": "low \u2014 the love is in the fight",
+      "tells": [
+        "the sudden tender turn",
+        "the interrogation voice",
+        "the laugh that is also a cry"
+      ]
+    },
+    "modulator_range": [
+      "bully",
+      "truth-teller",
+      "tender-turn",
+      "relationship-spar",
+      "quiet-wisdom"
+    ],
+    "profile": {
+      "energy": 0.8,
+      "pace": "accelerating interrogation, hard stop on the kill",
+      "gesture_frequency": 0.6,
+      "punchline_hold_ms": 900
+    },
+    "operator_priors": {
+      "rigidify": 0.6,
+      "literalize": 0.5,
+      "double_interpret": 0.55,
+      "status_invert": 0.7,
+      "character_violation": 0.45,
+      "status": "hypothesis from specials + Opie & Anthony"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "rigidity",
+      "benign_violation"
+    ],
+    "threads": [
+      "the social lie as an enemy",
+      "the bully as a love language",
+      "the room as a suspect",
+      "the truth as a form of care",
+      "the interrogation as a comic form"
+    ],
+    "problem_space": [
+      "honesty as a weapon",
+      "masculinity as a performance",
+      "the room as a character"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "truth_bully",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "truth_bully cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "rigidity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "patrice-oneal-essay-01",
+      "title": "Why is Patrice O'Neal funny? The truth bully engine",
+      "thesis": "Treats every social lie as a challenge, then follows the lie until the room confesses.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

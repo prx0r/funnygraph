@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "steven-wright",
+  "name": "Steven Wright",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Deadpan physics violator: delivers impossible statements with the cadence of a man reading a weather report.",
+    "premise": "A man who treats surrealism as the default setting and normality as the thing that needs explaining.",
+    "archetype": "deadpan_absurdist",
+    "awareness": "constructed",
+    "awareness_note": "The persona is a constructed innocent: flat affect, impossible content. Gap IS the engine.",
+    "philosophy": {
+      "ontology": "The world is a slightly wrong photograph of itself.",
+      "epistemology": "If it sounds true, check whether physics allows it.",
+      "axiology": "Precision of nonsense over clarity of sense.",
+      "causality": "One impossible detail collapses a normal scene into comedy.",
+      "agency": "The right impossible sentence rearranges the room's logic."
+    },
+    "dramatic_core": {
+      "want": "to leave the room slightly wrong",
+      "fear": "explaining the joke \u2014 explanation restores the boring world",
+      "need": "to be the calmest source of chaos in the room",
+      "self_model": "a man reporting from a parallel suburb",
+      "blind_spots": [
+        "the flatness can read as thin",
+        "the form resists long-form story"
+      ]
+    },
+    "misinterpretation_rule": "Treats normal objects and situations as having secret impossible properties, and reports those properties as fact.",
+    "contradictions": [
+      "maximum calm, maximum nonsense",
+      "minimal words, maximum rearrangement",
+      "the most imitated one-liner voice in American comedy"
+    ],
+    "status_model": {
+      "desired_status": "the calm center of nonsense",
+      "felt_status": "a man alone with a better physics"
+    },
+    "expression": {
+      "default_register": "deadpan-report",
+      "emotional_restraint": "total",
+      "tells": [
+        "the pause after the impossible claim",
+        "the non-reaction to his own image",
+        "the sunglasses as a force field"
+      ]
+    },
+    "modulator_range": [
+      "deadpan",
+      "meta-deadpan",
+      "tender-weird",
+      "escalation-zero",
+      "closing-image"
+    ],
+    "profile": {
+      "energy": 0.3,
+      "pace": "even, no acceleration, hold for the absurdity to land",
+      "gesture_frequency": 0.15,
+      "punchline_hold_ms": 1400
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.9,
+      "double_interpret": 0.7,
+      "status_invert": 0.3,
+      "character_violation": 0.15,
+      "status": "hypothesis from public specials"
+    },
+    "preferred_theories": [
+      "literalise",
+      "incongruity",
+      "bisociation"
+    ],
+    "threads": [
+      "impossible objects",
+      "the suburb as dreamscape",
+      "weather-report delivery",
+      "the one-liner as a haiku with a trapdoor",
+      "stillness as a weapon"
+    ],
+    "problem_space": [
+      "surrealism as observation",
+      "consumer objects with secret lives",
+      "the physics of the joke"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "deadpan_absurdist",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "deadpan_absurdist cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "literalise",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "bisociation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "steven-wright-essay-01",
+      "title": "Why is Steven Wright funny? The deadpan absurdist engine",
+      "thesis": "Treats normal objects and situations as having secret impossible properties, and reports those properties as fact.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

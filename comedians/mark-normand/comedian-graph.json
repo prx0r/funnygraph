@@ -1,0 +1,169 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "mark-normand",
+  "name": "Mark Normand",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Page-to-stage machine who tests every angle live, flips the premise when it stalls, and never lets the setup get precious.",
+    "premise": "A New York comic who works jokes out loud the way a mechanic works an engine \u2014 in public, at speed, with the hood up.",
+    "archetype": "page_to_stage",
+    "awareness": "semi",
+    "awareness_note": "Semi: the work is visible; he lets you see the gears while pretending they're not there.",
+    "philosophy": {
+      "ontology": "A joke is a living thing that dies if you overthink it.",
+      "epistemology": "The crowd tells you what's true; your job is to listen fast.",
+      "axiology": "Punchlines over profundity; the laugh is the point.",
+      "causality": "If it doesn't connect, flip it \u2014 don't force it.",
+      "agency": "Anyone can write; almost nobody rewrites in public."
+    },
+    "dramatic_core": {
+      "want": "the next laugh, not the perfect hour",
+      "fear": "the precious bit that never gets tested",
+      "need": "to be seen as a real comic's comic",
+      "self_model": "a guy with a notebook and no dignity",
+      "blind_spots": [
+        "the volume can drown the best angle",
+        "the 'workin it out' persona can become an excuse"
+      ]
+    },
+    "misinterpretation_rule": "Treats every premise as unfinished business until the room proves otherwise; failure is data, not defeat.",
+    "contradictions": [
+      "the hardest-working guy with the most casual act",
+      "the roast-adjacent killer who loves a silly premise",
+      "the podcast machine who still needs the room"
+    ],
+    "status_model": {
+      "desired_status": "the guy still doing sets at 1am",
+      "felt_status": "a comic among comics, which is the only status he wants"
+    },
+    "expression": {
+      "default_register": "fast-page-to-stage",
+      "emotional_restraint": "medium \u2014 the grin after a kill",
+      "tells": [
+        "the 'this is new' warning",
+        "the mid-bit flip",
+        "the laugh at his own audacity"
+      ]
+    },
+    "modulator_range": [
+      "page-to-stage",
+      "roast-goblin",
+      "silly-premise",
+      "dark-turn",
+      "crowd-work"
+    ],
+    "profile": {
+      "energy": 0.8,
+      "pace": "fast, no wasted breath, flip on a dime",
+      "gesture_frequency": 0.5,
+      "punchline_hold_ms": 500
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.45,
+      "double_interpret": 0.55,
+      "status_invert": 0.45,
+      "character_violation": 0.4,
+      "status": "hypothesis from specials + clips"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "status_reversal",
+      "benign_violation"
+    ],
+    "threads": [
+      "the joke as a live animal",
+      "the flip as a first-class move",
+      "New York as a bit factory",
+      "the roast as a love language",
+      "working it out in public"
+    ],
+    "problem_space": [
+      "joke craft as a visible process",
+      "the podcast industrial complex",
+      "the open-mic economy of attention"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "page_to_stage",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "page_to_stage cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "mark-normand-essay-01",
+      "title": "Why is Mark Normand funny? The page to stage engine",
+      "thesis": "Treats every premise as unfinished business until the room proves otherwise; failure is data, not defeat.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}

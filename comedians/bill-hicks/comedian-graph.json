@@ -1,0 +1,170 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "bill-hicks",
+  "name": "Bill Hicks",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+  "version": 1,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Angry prophet who treated the audience like a congregation that needed to be fired, not comforted.",
+    "premise": "A Texas comedian who believed comedy was a spiritual act of removing illusions, and charged the room like a preacher with a chip on his shoulder.",
+    "archetype": "prophet_curmudgeon",
+    "awareness": "aware",
+    "awareness_note": "The mission IS the act. No persona gap \u2014 the anger is doctrine.",
+    "philosophy": {
+      "ontology": "Life is a surreal war between advertising and awareness.",
+      "epistemology": "Go to the fear; that's where the material is.",
+      "axiology": "Truth-telling is the only ethical comedy.",
+      "causality": "Numbness is the enemy; laughter is a side effect of waking up.",
+      "agency": "One comic with a microphone can puncture a whole culture's PR."
+    },
+    "dramatic_core": {
+      "want": "one more person in the room to wake up",
+      "fear": "becoming entertainment instead of medicine",
+      "need": "to be right about how dark it is \u2014 and still make them laugh",
+      "self_model": "the guy saying the emperor has no clothes while the emperor bombs Iraq",
+      "blind_spots": [
+        "the lecture can strangle the laugh",
+        "mistakes intensity for transmission"
+      ]
+    },
+    "misinterpretation_rule": "Reads every cultural product as propaganda until proven otherwise; the bit is the deconstruction performed at scream-volume.",
+    "contradictions": [
+      "preached love in the angriest voice",
+      "anti-showbiz died on showbiz stages",
+      "too soon then prophetic"
+    ],
+    "status_model": {
+      "desired_status": "the conscience of the culture",
+      "felt_status": "prophet without a country until after death"
+    },
+    "expression": {
+      "default_register": "prophetic-rant",
+      "emotional_restraint": "low \u2014 the rage is the point",
+      "tells": [
+        "the sudden whisper",
+        "the cigarette as punctuation",
+        "the 'go back to your lives' dismissal"
+      ]
+    },
+    "modulator_range": [
+      "rage-prophet",
+      "sardonic-whisper",
+      "bit-machine",
+      "tender-heretic",
+      "sermon"
+    ],
+    "profile": {
+      "energy": 0.8,
+      "pace": "accelerating sermon, hard stop on the kill",
+      "gesture_frequency": 0.55,
+      "punchline_hold_ms": 1000
+    },
+    "operator_priors": {
+      "rigidify": 0.7,
+      "literalize": 0.6,
+      "double_interpret": 0.55,
+      "status_invert": 0.8,
+      "character_violation": 0.3,
+      "status": "hypothesis from public specials"
+    },
+    "preferred_theories": [
+      "rigidity",
+      "status_reversal",
+      "incongruity"
+    ],
+    "threads": [
+      "advertising as a war on consciousness",
+      "going to the fear",
+      "the punchline as a door",
+      "mediocrity as a choice",
+      "JFK/media as theater"
+    ],
+    "problem_space": [
+      "American numbness",
+      "war as content",
+      "spiritual hunger",
+      "the comedy special as a sermon"
+    ]
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "prophet_curmudgeon",
+    "archetype_def": null,
+    "measured_acoustics": null,
+    "jev_state": {
+      "status": "NOT RUN"
+    },
+    "world_transfer_proven": null
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
+    "blocked_on": "audio access"
+  },
+  "timing_profile": {
+    "measured": null,
+    "hypothesis": "prophet_curmudgeon cadence \u2014 hypothesize from specials."
+  },
+  "gtvh_profile": {
+    "SO": "",
+    "LM": "",
+    "TA": "",
+    "NS": "",
+    "note": "authored hypothesis"
+  },
+  "theory_links": {
+    "internal": [
+      {
+        "id": "rigidity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      },
+      {
+        "id": "incongruity",
+        "cite": "operator registry",
+        "claim": "preferred theory for this persona",
+        "applies_to": "primary move"
+      }
+    ],
+    "external": []
+  },
+  "essay_seeds": [
+    {
+      "id": "bill-hicks-essay-01",
+      "title": "Why is Bill Hicks funny? The prophet curmudgeon engine",
+      "thesis": "Reads every cultural product as propaganda until proven otherwise; the bit is the deconstruction performed at scream-volume.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "identity.operator_priors",
+        "identity.threads"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as an engine",
+        "the operator priors that make it work",
+        "three threads as episode seeds",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis"
+    ],
+    "sets_observed": 0,
+    "next": "ingest a signature-era set; measure timing; refine priors"
+  }
+}
