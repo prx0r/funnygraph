@@ -1,125 +1,125 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "jay-jurden",
-  "name": "Jay Jurden",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "Debut hour Yes Ma'am, punchline-packed",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "comedyville-2026"
-    ],
-    "discovery_note": "Debut hour Yes Ma'am, punchline-packed"
-  },
-  "theory_score": null,
-  "nearest_greats": [
-    {
-      "comedian_id": "gary-gulman",
-      "sim": 0.04
-    },
-    {
-      "comedian_id": "bill-hicks",
-      "sim": 0.023
-    },
-    {
-      "comedian_id": "stewart-lee",
-      "sim": 0.021
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "jay-jurden",
+ "name": "Jay Jurden",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Debut hour Yes Ma'am, punchline-packed",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "comedyville-2026"
   ],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
+  "discovery_note": "Debut hour Yes Ma'am, punchline-packed"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "gary-gulman",
+   "sim": 0.045
   },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 12.5,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+  {
+   "comedian_id": "bill-hicks",
+   "sim": 0.027
   },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "rating": {
-    "headline": 12.5,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "style_tags": {
-    "humor_type": "storytelling",
-    "theories": [
-      "incongruity",
-      "bisociation",
-      "benign_violation"
-    ],
-    "via": "gary-gulman",
-    "sim": 0.04,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  },
-  "website": {
-    "url": "https://jayjurden.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
-  },
-  "known_bits": [
-    {
-      "title": "Yes Ma'am (Black, Southern, queer love letter)",
-      "why_it_works": "Punchline-dense hour where three identity frames collide per premise: juxtapose at speed \u2014 the density IS the style, love letter as misdirection for precision. (Deadline 2026; hypothesis)",
-      "theory_links": [
-        "juxtapose",
-        "identity_contradict"
-      ],
-      "source": "deadline-2026",
-      "status": "hypothesis (press-described, unmeasured)"
-    }
+  {
+   "comedian_id": "rodney-dangerfield",
+   "sim": 0.026
+  }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
   ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 12.5,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 12.5,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "website": {
+  "url": "https://jayjurden.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "known_bits": [
+  {
+   "title": "Yes Ma'am (Black, Southern, queer love letter)",
+   "why_it_works": "Punchline-dense hour where three identity frames collide per premise: juxtapose at speed \u2014 the density IS the style, love letter as misdirection for precision. (Deadline 2026; hypothesis)",
+   "theory_links": [
+    "juxtapose",
+    "identity_contradict"
+   ],
+   "source": "deadline-2026",
+   "status": "hypothesis (press-described, unmeasured)"
+  }
+ ],
+ "style_tags": {
+  "humor_type": "storytelling",
+  "theories": [
+   "incongruity",
+   "bisociation",
+   "benign_violation"
+  ],
+  "via": "gary-gulman",
+  "sim": 0.045,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

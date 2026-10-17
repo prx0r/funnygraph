@@ -1,253 +1,811 @@
 {
  "note": "Bradley-Terry strengths from list-implied pairs (rank-breaking; Khetan & Oh 2016), MM estimation (Hunter 2004). Comics in no pairs absent (BT undefined).",
- "n_pairs": 701,
- "tau_vs_borda_critics": 0.8756,
- "tau_vs_consensus": 0.6902,
+ "n_pairs": 4283,
+ "tau_vs_borda_critics": 0.6419,
+ "tau_vs_consensus": 0.639,
  "rows": [
   {
    "rank": 1,
-   "comedian_id": "richard-pryor",
-   "name": "Richard Pryor",
-   "bt_strength": 0.993039
+   "comedian_id": "peter-kay",
+   "name": "Peter Kay",
+   "bt_strength": 0.939929
   },
   {
    "rank": 2,
-   "comedian_id": "george-carlin",
-   "name": "George Carlin",
-   "bt_strength": 0.006885
+   "comedian_id": "harry-hill",
+   "name": "Harry Hill",
+   "bt_strength": 0.053671
   },
   {
    "rank": 3,
-   "comedian_id": "lenny-bruce",
-   "name": "Lenny Bruce",
-   "bt_strength": 7.6e-05
+   "comedian_id": "bill-bailey",
+   "name": "Bill Bailey",
+   "bt_strength": 0.005486
   },
   {
    "rank": 4,
-   "comedian_id": "chris-rock",
-   "name": "Chris Rock",
-   "bt_strength": 1e-06
+   "comedian_id": "victoria-wood",
+   "name": "Victoria Wood",
+   "bt_strength": 0.000757
   },
   {
    "rank": 5,
-   "comedian_id": "jerry-seinfeld",
-   "name": "Jerry Seinfeld",
-   "bt_strength": 0.0
+   "comedian_id": "jack-dee",
+   "name": "Jack Dee",
+   "bt_strength": 0.000126
   },
   {
    "rank": 6,
+   "comedian_id": "woody-allen",
+   "name": "Woody Allen",
+   "bt_strength": 2.4e-05
+  },
+  {
+   "rank": 7,
+   "comedian_id": "jerry-sadowitz",
+   "name": "Jerry Sadowitz",
+   "bt_strength": 5e-06
+  },
+  {
+   "rank": 8,
+   "comedian_id": "al-murray",
+   "name": "Al Murray",
+   "bt_strength": 1e-06
+  },
+  {
+   "rank": 9,
+   "comedian_id": "alexei-sayle",
+   "name": "Alexei Sayle",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 10,
+   "comedian_id": "les-dawson",
+   "name": "Les Dawson",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 11,
+   "comedian_id": "jasper-carrott",
+   "name": "Jasper Carrott",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 12,
+   "comedian_id": "ben-elton",
+   "name": "Ben Elton",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 13,
+   "comedian_id": "jo-brand",
+   "name": "Jo Brand",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 14,
+   "comedian_id": "richard-pryor",
+   "name": "Richard Pryor",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 15,
+   "comedian_id": "lee-evans",
+   "name": "Lee Evans",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 16,
+   "comedian_id": "steve-coogan",
+   "name": "Steve Coogan",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 17,
+   "comedian_id": "bernard-manning",
+   "name": "Bernard Manning",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 18,
+   "comedian_id": "bob-monkhouse",
+   "name": "Bob Monkhouse",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 19,
+   "comedian_id": "george-carlin",
+   "name": "George Carlin",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 20,
+   "comedian_id": "roy-chubby-brown",
+   "name": "Roy Chubby Brown",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 21,
+   "comedian_id": "david-baddiel",
+   "name": "David Baddiel",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 22,
+   "comedian_id": "chris-rock",
+   "name": "Chris Rock",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 23,
+   "comedian_id": "denis-leary",
+   "name": "Denis Leary",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 24,
+   "comedian_id": "steve-martin",
+   "name": "Steve Martin",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 25,
+   "comedian_id": "lenny-bruce",
+   "name": "Lenny Bruce",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 26,
+   "comedian_id": "mark-thomas",
+   "name": "Mark Thomas",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 27,
    "comedian_id": "robin-williams",
    "name": "Robin Williams",
    "bt_strength": 0.0
   },
   {
-   "rank": 7,
-   "comedian_id": "bill-hicks",
-   "name": "Bill Hicks",
+   "rank": 28,
+   "comedian_id": "bob-newhart",
+   "name": "Bob Newhart",
    "bt_strength": 0.0
   },
   {
-   "rank": 8,
+   "rank": 29,
    "comedian_id": "joan-rivers",
    "name": "Joan Rivers",
    "bt_strength": 0.0
   },
   {
-   "rank": 9,
-   "comedian_id": "dave-chappelle",
-   "name": "Dave Chappelle",
-   "bt_strength": 0.0
-  },
-  {
-   "rank": 10,
+   "rank": 30,
    "comedian_id": "steven-wright",
    "name": "Steven Wright",
    "bt_strength": 0.0
   },
   {
-   "rank": 11,
-   "comedian_id": "ray-romano",
-   "name": "Ray Romano",
+   "rank": 31,
+   "comedian_id": "jim-davidson",
+   "name": "Jim Davidson",
    "bt_strength": 0.0
   },
   {
-   "rank": 12,
-   "comedian_id": "rodney-dangerfield",
-   "name": "Rodney Dangerfield",
+   "rank": 32,
+   "comedian_id": "andy-kaufman",
+   "name": "Andy Kaufman",
    "bt_strength": 0.0
   },
   {
-   "rank": 13,
+   "rank": 33,
+   "comedian_id": "mort-sahl",
+   "name": "Mort Sahl",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 34,
    "comedian_id": "eddie-murphy",
    "name": "Eddie Murphy",
    "bt_strength": 0.0
   },
   {
-   "rank": 14,
-   "comedian_id": "bill-maher",
-   "name": "Bill Maher",
-   "bt_strength": 0.0
-  },
-  {
-   "rank": 15,
+   "rank": 35,
    "comedian_id": "billy-connolly",
    "name": "Billy Connolly",
    "bt_strength": 0.0
   },
   {
-   "rank": 16,
+   "rank": 36,
+   "comedian_id": "bill-hicks",
+   "name": "Bill Hicks",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 37,
+   "comedian_id": "dave-chappelle",
+   "name": "Dave Chappelle",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 38,
    "comedian_id": "bill-burr",
    "name": "Bill Burr",
    "bt_strength": 0.0
   },
   {
-   "rank": 17,
-   "comedian_id": "adam-sandler",
-   "name": "Adam Sandler",
+   "rank": 39,
+   "comedian_id": "lily-tomlin",
+   "name": "Lily Tomlin",
    "bt_strength": 0.0
   },
   {
-   "rank": 18,
-   "comedian_id": "kevin-hart",
-   "name": "Kevin Hart",
+   "rank": 40,
+   "comedian_id": "don-rickles",
+   "name": "Don Rickles",
    "bt_strength": 0.0
   },
   {
-   "rank": 19,
-   "comedian_id": "lewis-black",
-   "name": "Lewis Black",
+   "rank": 41,
+   "comedian_id": "ray-romano",
+   "name": "Ray Romano",
    "bt_strength": 0.0
   },
   {
-   "rank": 20,
+   "rank": 42,
+   "comedian_id": "jonathan-winters",
+   "name": "Jonathan Winters",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 43,
+   "comedian_id": "rodney-dangerfield",
+   "name": "Rodney Dangerfield",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 44,
+   "comedian_id": "albert-brooks",
+   "name": "Albert Brooks",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 45,
+   "comedian_id": "redd-foxx",
+   "name": "Redd Foxx",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 46,
    "comedian_id": "mitch-hedberg",
    "name": "Mitch Hedberg",
    "bt_strength": 0.0
   },
   {
-   "rank": 21,
-   "comedian_id": "d-l-hughley",
-   "name": "D L Hughley",
-   "bt_strength": 0.0
-  },
-  {
-   "rank": 22,
+   "rank": 47,
    "comedian_id": "louis-ck",
    "name": "Louis C.K.",
    "bt_strength": 0.0
   },
   {
-   "rank": 23,
-   "comedian_id": "colin-quinn",
-   "name": "Colin Quinn",
+   "rank": 48,
+   "comedian_id": "andrew-dice-clay",
+   "name": "Andrew Dice Clay",
    "bt_strength": 0.0
   },
   {
-   "rank": 24,
-   "comedian_id": "jeff-foxworthy",
-   "name": "Jeff Foxworthy",
+   "rank": 49,
+   "comedian_id": "jerry-seinfeld",
+   "name": "Jerry Seinfeld",
    "bt_strength": 0.0
   },
   {
-   "rank": 25,
-   "comedian_id": "eddie-griffin",
-   "name": "Eddie Griffin",
+   "rank": 50,
+   "comedian_id": "robert-klein",
+   "name": "Robert Klein",
    "bt_strength": 0.0
   },
   {
-   "rank": 26,
-   "comedian_id": "eddie-izzard",
-   "name": "Eddie Izzard",
+   "rank": 51,
+   "comedian_id": "roseanne-barr",
+   "name": "Roseanne Barr",
    "bt_strength": 0.0
   },
   {
-   "rank": 27,
+   "rank": 52,
+   "comedian_id": "bill-maher",
+   "name": "Bill Maher",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 53,
+   "comedian_id": "garry-shandling",
+   "name": "Garry Shandling",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 54,
+   "comedian_id": "moms-mabley",
+   "name": "Moms Mabley",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 55,
+   "comedian_id": "jenny-eclair",
+   "name": "Jenny Eclair",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 56,
+   "comedian_id": "adam-sandler",
+   "name": "Adam Sandler",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 57,
+   "comedian_id": "george-burns",
+   "name": "George Burns",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 58,
+   "comedian_id": "phyllis-diller",
+   "name": "Phyllis Diller",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 59,
    "comedian_id": "sarah-silverman",
    "name": "Sarah Silverman",
    "bt_strength": 0.0
   },
   {
-   "rank": 28,
-   "comedian_id": "dick-gregory",
-   "name": "Dick Gregory",
-   "bt_strength": 0.0
-  },
-  {
-   "rank": 29,
-   "comedian_id": "cedric-the-entertainer",
-   "name": "Cedric The Entertainer",
-   "bt_strength": 0.0
-  },
-  {
-   "rank": 30,
+   "rank": 60,
    "comedian_id": "patrice-o-neal",
    "name": "Patrice O Neal",
    "bt_strength": 0.0
   },
   {
-   "rank": 31,
-   "comedian_id": "patton-oswalt",
-   "name": "Patton Oswalt",
+   "rank": 61,
+   "comedian_id": "dick-gregory",
+   "name": "Dick Gregory",
    "bt_strength": 0.0
   },
   {
-   "rank": 32,
-   "comedian_id": "norm-macdonald",
-   "name": "Norm Macdonald",
+   "rank": 62,
+   "comedian_id": "lewis-black",
+   "name": "Lewis Black",
    "bt_strength": 0.0
   },
   {
-   "rank": 33,
+   "rank": 63,
+   "comedian_id": "eddie-izzard",
+   "name": "Eddie Izzard",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 64,
+   "comedian_id": "d-l-hughley",
+   "name": "D L Hughley",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 65,
+   "comedian_id": "kevin-hart",
+   "name": "Kevin Hart",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 66,
    "comedian_id": "tig-notaro",
    "name": "Tig Notaro",
    "bt_strength": 0.0
   },
   {
-   "rank": 34,
-   "comedian_id": "wanda-sykes",
-   "name": "Wanda Sykes",
+   "rank": 67,
+   "comedian_id": "maria-bamford",
+   "name": "Maria Bamford",
    "bt_strength": 0.0
   },
   {
-   "rank": 35,
-   "comedian_id": "david-cross",
-   "name": "David Cross",
+   "rank": 68,
+   "comedian_id": "colin-quinn",
+   "name": "Colin Quinn",
    "bt_strength": 0.0
   },
   {
-   "rank": 36,
+   "rank": 69,
+   "comedian_id": "daniel-kitson",
+   "name": "Daniel Kitson",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 70,
+   "comedian_id": "hannibal-buress",
+   "name": "Hannibal Buress",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 71,
+   "comedian_id": "henny-youngman",
+   "name": "Henny Youngman",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 72,
+   "comedian_id": "paul-mooney",
+   "name": "Paul Mooney",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 73,
+   "comedian_id": "bernie-mac",
+   "name": "Bernie Mac",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 74,
+   "comedian_id": "jeff-foxworthy",
+   "name": "Jeff Foxworthy",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 75,
+   "comedian_id": "sean-hughes",
+   "name": "Sean Hughes",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 76,
+   "comedian_id": "whoopi-goldberg",
+   "name": "Whoopi Goldberg",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 77,
+   "comedian_id": "norm-macdonald",
+   "name": "Norm Macdonald",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 78,
+   "comedian_id": "eddie-griffin",
+   "name": "Eddie Griffin",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 79,
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 80,
+   "comedian_id": "gilbert-gottfried",
+   "name": "Gilbert Gottfried",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 81,
+   "comedian_id": "aziz-ansari",
+   "name": "Aziz Ansari",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 82,
+   "comedian_id": "jim-gaffigan",
+   "name": "Jim Gaffigan",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 83,
+   "comedian_id": "todd-barry",
+   "name": "Todd Barry",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 84,
    "comedian_id": "amy-schumer",
    "name": "Amy Schumer",
    "bt_strength": 0.0
   },
   {
-   "rank": 37,
-   "comedian_id": "kevin-james",
-   "name": "Kevin James",
+   "rank": 85,
+   "comedian_id": "cedric-the-entertainer",
+   "name": "Cedric The Entertainer",
    "bt_strength": 0.0
   },
   {
-   "rank": 38,
+   "rank": 86,
+   "comedian_id": "johnny-vegas",
+   "name": "Johnny Vegas",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 87,
    "comedian_id": "russell-peters",
    "name": "Russell Peters",
    "bt_strength": 0.0
   },
   {
-   "rank": 39,
+   "rank": 88,
+   "comedian_id": "wanda-sykes",
+   "name": "Wanda Sykes",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 89,
    "comedian_id": "reggie-watts",
    "name": "Reggie Watts",
    "bt_strength": 0.0
   },
   {
-   "rank": 40,
+   "rank": 90,
+   "comedian_id": "margaret-cho",
+   "name": "Margaret Cho",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 91,
+   "comedian_id": "john-mulaney",
+   "name": "John Mulaney",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 92,
+   "comedian_id": "david-cross",
+   "name": "David Cross",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 93,
+   "comedian_id": "paul-ogrady",
+   "name": "Paul O'Grady",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 94,
+   "comedian_id": "paul-f-tompkins",
+   "name": "Paul F. Tompkins",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 95,
+   "comedian_id": "kevin-james",
+   "name": "Kevin James",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 96,
+   "comedian_id": "rob-newman",
+   "name": "Rob Newman",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 97,
    "comedian_id": "dana-carvey",
    "name": "Dana Carvey",
    "bt_strength": 0.0
   },
   {
-   "rank": 41,
-   "comedian_id": "aziz-ansari",
-   "name": "Aziz Ansari",
+   "rank": 98,
+   "comedian_id": "mike-birbiglia",
+   "name": "Mike Birbiglia",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 99,
+   "comedian_id": "jackie-mason",
+   "name": "Jackie Mason",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 100,
+   "comedian_id": "ken-dodd",
+   "name": "Ken Dodd",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 101,
+   "comedian_id": "graham-norton",
+   "name": "Graham Norton",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 102,
+   "comedian_id": "bob-hope",
+   "name": "Bob Hope",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 103,
+   "comedian_id": "lenny-henry",
+   "name": "Lenny Henry",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 104,
+   "comedian_id": "tommy-cooper",
+   "name": "Tommy Cooper",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 105,
+   "comedian_id": "julian-clary",
+   "name": "Julian Clary",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 106,
+   "comedian_id": "dave-spikey",
+   "name": "Dave Spikey",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 107,
+   "comedian_id": "omid-djalili",
+   "name": "Omid Djalili",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 108,
+   "comedian_id": "phill-jupitus",
+   "name": "Phill Jupitus",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 109,
+   "comedian_id": "alan-davies",
+   "name": "Alan Davies",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 110,
+   "comedian_id": "rhona-cameron",
+   "name": "Rhona Cameron",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 111,
+   "comedian_id": "chris-addison",
+   "name": "Chris Addison",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 112,
+   "comedian_id": "mike-reid",
+   "name": "Mike Reid",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 113,
+   "comedian_id": "lee-hurst",
+   "name": "Lee Hurst",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 114,
+   "comedian_id": "jethro",
+   "name": "Jethro",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 115,
+   "comedian_id": "john-thomson",
+   "name": "John Thomson",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 116,
+   "comedian_id": "frankie-howerd",
+   "name": "Frankie Howerd",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 117,
+   "comedian_id": "ed-byrne",
+   "name": "Ed Byrne",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 118,
+   "comedian_id": "dave-gorman",
+   "name": "Dave Gorman",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 119,
+   "comedian_id": "arthur-smith",
+   "name": "Arthur Smith",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 120,
+   "comedian_id": "chic-murray",
+   "name": "Chic Murray",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 121,
+   "comedian_id": "frank-carson",
+   "name": "Frank Carson",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 122,
+   "comedian_id": "freddie-starr",
+   "name": "Freddie Starr",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 123,
+   "comedian_id": "barry-humphries",
+   "name": "Barry Humphries",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 124,
+   "comedian_id": "tommy-trinder",
+   "name": "Tommy Trinder",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 125,
+   "comedian_id": "harry-enfield",
+   "name": "Harry Enfield",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 126,
+   "comedian_id": "reginald-d-hunter",
+   "name": "Reginald D Hunter",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 127,
+   "comedian_id": "ronnie-corbett",
+   "name": "Ronnie Corbett",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 128,
+   "comedian_id": "joe-pasquale",
+   "name": "Joe Pasquale",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 129,
+   "comedian_id": "paul-merton",
+   "name": "Paul Merton",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 130,
+   "comedian_id": "rik-mayall",
+   "name": "Rik Mayall",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 131,
+   "comedian_id": "ardal-ohanlon",
+   "name": "Ardal O'Hanlon",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 132,
+   "comedian_id": "alan-carr",
+   "name": "Alan Carr",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 133,
+   "comedian_id": "patrick-kielty",
+   "name": "Patrick Kielty",
+   "bt_strength": 0.0
+  },
+  {
+   "rank": 134,
+   "comedian_id": "tim-vine",
+   "name": "Tim Vine",
    "bt_strength": 0.0
   }
  ]

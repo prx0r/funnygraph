@@ -1,122 +1,122 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "kam-patterson",
-  "name": "Kam Patterson",
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "kam-patterson",
+ "name": "Kam Patterson",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {
+   "rigidity": 0.08,
+   "status_reversal": 0.073,
+   "identity_contradiction": 0.185,
+   "self_awareness": 0.4,
+   "specificity": 0.807,
+   "escalation": 0.07,
+   "garden_path": 0.49,
+   "benign_violation": 0.823,
+   "audience_alliance": 0.088
+  },
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": [],
+  "operator_priors_status": "measured-kt-jezv: judge-aggregated over 30 mechanism reads (10 ops); judge-measured, not transcript-measured"
+ },
+ "discovery": {
+  "discovered_from": [
+   "kill-tony-minutes"
+  ],
+  "discovery_note": "",
+  "kt_appearances": 3
+ },
+ "theory_score": {
+  "n_chunks": 26,
+  "coherence_rate": 0.731,
+  "human_band_rate": 0.692,
+  "mean_ai_conf": 0.55,
+  "theory_score": 0.712
+ },
+ "nearest_greats": [],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
   "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {
-      "rigidity": 0.08,
-      "status_reversal": 0.073,
-      "identity_contradiction": 0.185,
-      "self_awareness": 0.4,
-      "specificity": 0.807,
-      "escalation": 0.07,
-      "garden_path": 0.49,
-      "benign_violation": 0.823,
-      "audience_alliance": 0.088
-    },
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": [],
-    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 30 mechanism reads (10 ops); judge-measured, not transcript-measured"
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "material_words": 444,
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 31.0,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "discovery": {
-    "discovered_from": [
-      "kill-tony-minutes"
-    ],
-    "discovery_note": "",
-    "kt_appearances": 3
-  },
-  "theory_score": {
-    "n_chunks": 26,
-    "coherence_rate": 0.731,
-    "human_band_rate": 0.692,
-    "mean_ai_conf": 0.55,
-    "theory_score": 0.712
-  },
-  "nearest_greats": [],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "material_words": 444,
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 31.0,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCg_t40P3yMez1_JwNfMVEyQ",
-    "handle": "kampatterson",
-    "title": "Kam Patterson",
-    "subs": 29,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "stale",
-    "checked": "2026-10-17",
-    "clips": 6,
-    "newest_upload": "2023-11-26",
-    "name_match_rate": 0.0,
-    "other_names": []
-  },
-  "website": {
-    "url": "https://kampatterson.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
-  }
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCg_t40P3yMez1_JwNfMVEyQ",
+  "handle": "kampatterson",
+  "title": "Kam Patterson",
+  "subs": 29,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "stale",
+  "checked": "2026-10-17",
+  "clips": 6,
+  "newest_upload": "2023-11-26",
+  "name_match_rate": 0.0,
+  "other_names": []
+ },
+ "website": {
+  "url": "https://kampatterson.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ }
 }

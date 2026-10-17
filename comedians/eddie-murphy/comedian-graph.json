@@ -276,7 +276,8 @@
         "award": "Golden Globe Cecil B. DeMille Award",
         "year": null
       }
-    ]
+    ],
+    "paste_2017": 11
   },
   "specials_rated": [
     {
@@ -335,15 +336,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 96.7,
-    "legacy_era": 96.7,
+    "legacy": 98.0,
+    "legacy_era": 98.0,
     "audience": 77.5,
     "popularity": 77.3,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.002,
     "overrated": "accurately rated",
-    "canon_lag": -0.192
+    "canon_lag": -0.205
   },
   "tier": "king",
   "region": "us",
@@ -397,20 +398,20 @@
     ]
   },
   "rating": {
-    "headline": 74.5,
+    "headline": 77.7,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 26,
-        "pct": 74.5,
+        "pct": 77.7,
         "sweep": [
           16,
-          48
+          66
         ]
       },
       "consensus": {
-        "rank": 8,
+        "rank": 7,
         "ref": true
       },
       "canon": {
@@ -418,20 +419,28 @@
         "ref": true
       },
       "peoples": {
-        "rank": 9,
+        "rank": 10,
         "wr": 8.085,
         "ref": true
       },
       "era": {
-        "rank": 8,
+        "rank": 7,
         "ref": true
       }
     },
     "interval": {
       "lo": 16,
-      "hi": 48
+      "hi": 66
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "98744f0b-20fc-4bb2-9ac4-e2041058911f",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

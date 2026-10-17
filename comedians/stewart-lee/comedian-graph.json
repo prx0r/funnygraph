@@ -448,15 +448,15 @@
     }
   },
   "metrics": {
-    "legacy": 89.1,
-    "legacy_era": 89.6,
+    "legacy": 76.3,
+    "legacy_era": 85.4,
     "audience": 87.5,
     "popularity": 64.1,
     "theory": 50.0,
     "heat": null,
     "gap_value": -0.234,
     "overrated": "underrated",
-    "canon_lag": -0.016
+    "canon_lag": 0.112
   },
   "tier": "king",
   "region": "uk",
@@ -509,46 +509,66 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 90.8,
+    "headline": 92.0,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 10,
-        "pct": 90.8,
+        "pct": 92.0,
         "sweep": [
           8,
-          33
+          50
         ]
       },
       "consensus": {
-        "rank": 24,
+        "rank": 71,
         "ref": true
       },
       "canon": {
-        "rank": 193,
+        "rank": 150,
         "ref": true
       },
       "peoples": {
-        "rank": 8,
+        "rank": 9,
         "wr": 8.092,
         "ref": true
       },
       "era": {
-        "rank": 23,
+        "rank": 44,
         "ref": true
       }
     },
     "interval": {
       "lo": 8,
-      "hi": 33
+      "hi": 50
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.stewartlee.co.uk/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Chortle Awards",
+        "year": null
+      }
+    ]
+  },
+  "musicbrainz": {
+    "id": "24b32b17-429d-4274-87b0-9339655fcd0d",
+    "status": "ok",
+    "tags": [
+      "anti-humor",
+      "comedy",
+      "deadpan",
+      "satire",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

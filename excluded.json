@@ -1,6 +1,7 @@
 {
  "excluded": [
-  "ellen-degeneres"
+  "ellen-degeneres",
+  "bobby-lee"
  ],
  "reason": "owner prerogative (2026-10-17)",
  "rule": "excluded comedians are removed from graphs, boards, and future harvests; historical pulse snapshots stay immutable"

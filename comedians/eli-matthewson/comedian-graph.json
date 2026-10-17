@@ -1,121 +1,125 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "eli-matthewson",
-  "name": "Eli Matthewson",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "discover.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "youtube-uploads:angel-comedy"
-    ],
-    "discovery_note": "Name-mined from angel-comedy uploads (registry playlist, no search).",
-    "evidence": [
-      {
-        "videoId": "lu1B8yy4tvY",
-        "title": "Your 20s vs Your 30s | Eli Matthewson @ Angel Comedy Club London | #standupcomedy",
-        "views": 268,
-        "publishedAt": "2026-04-17"
-      }
-    ],
-    "subs": "unknown (performer channel unregistered)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 37.2,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCVgmkGlvVVtCFu51Nu1hXsQ",
-    "handle": "elimatthewson",
-    "title": "Eli Matthewson",
-    "subs": 386,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "active",
-    "checked": "2026-10-17",
-    "clips": 21,
-    "newest_upload": "2026-01-21",
-    "name_match_rate": 0.62,
-    "other_names": []
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "stewart-lee",
-      "sim": 0.04
-    },
-    {
-      "comedian_id": "bo-burnham",
-      "sim": 0.023
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "eli-matthewson",
+ "name": "Eli Matthewson",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "youtube-uploads:angel-comedy"
   ],
-  "style_tags": {
-    "humor_type": "meta",
-    "theories": [
-      "rigidity",
-      "bisociation",
-      "status_reversal"
-    ],
-    "via": "stewart-lee",
-    "sim": 0.04,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "Name-mined from angel-comedy uploads (registry playlist, no search).",
+  "evidence": [
+   {
+    "videoId": "lu1B8yy4tvY",
+    "title": "Your 20s vs Your 30s | Eli Matthewson @ Angel Comedy Club London | #standupcomedy",
+    "views": 268,
+    "publishedAt": "2026-04-17"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 37.2,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCVgmkGlvVVtCFu51Nu1hXsQ",
+  "handle": "elimatthewson",
+  "title": "Eli Matthewson",
+  "subs": 386,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "active",
+  "checked": "2026-10-17",
+  "clips": 21,
+  "newest_upload": "2026-01-21",
+  "name_match_rate": 0.62,
+  "other_names": []
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "stewart-lee",
+   "sim": 0.068
+  },
+  {
+   "comedian_id": "bo-burnham",
+   "sim": 0.039
+  },
+  {
+   "comedian_id": "trevor-noah",
+   "sim": 0.026
   }
+ ],
+ "style_tags": {
+  "humor_type": "meta",
+  "theories": [
+   "rigidity",
+   "bisociation",
+   "status_reversal"
+  ],
+  "via": "stewart-lee",
+  "sim": 0.068,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

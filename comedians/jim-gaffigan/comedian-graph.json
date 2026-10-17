@@ -151,6 +151,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "jim-gaffigan-bit-01",
+      "title": "Jim Gaffigan: 'Hot Pockets as sacrament' \u2014 how the bit works",
+      "thesis": "Treats a frozen snack like a religious experience the whole room shares. Recognition comedy at max: the laugh is self-recognition, and the clean frame lets everyone admit it at once.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "jim-gaffigan-bit-02",
+      "title": "Jim Gaffigan: 'The audience voice' \u2014 how the bit works",
+      "thesis": "Performs the crowd's inner monologue in a whisper ('cold... pizza...'). The room hears its own id on stage and surrenders. Second-person standup: you're the bit.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -252,6 +286,15 @@
       "imdb_rating": 6.2,
       "imdb_votes": 220,
       "transcript": "im-affigan-omedy-onster-2021-ranscript.txt"
+    },
+    {
+      "special": "Jim Gaffigan: Beyond the Pale",
+      "year": 2006,
+      "imdb_id": "tt0815456",
+      "imdb_rating": 7.8,
+      "imdb_votes": 4429,
+      "source": "critic-list:flavorwire-2013",
+      "standout": false
     }
   ],
   "bio": {
@@ -283,15 +326,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 73.5,
-    "legacy_era": 79.1,
-    "audience": 30.0,
+    "legacy": 73.2,
+    "legacy_era": 74.6,
+    "audience": 70.0,
     "popularity": 82.5,
-    "theory": 12.5,
+    "theory": 50.0,
     "heat": null,
-    "gap_value": 0.525,
-    "overrated": "massively overrated",
-    "canon_lag": -0.435
+    "gap_value": 0.125,
+    "overrated": "accurately rated",
+    "canon_lag": -0.032
   },
   "tier": "king",
   "region": "us",
@@ -330,44 +373,63 @@
     ]
   },
   "recognition": {
-    "awards": []
+    "awards": [],
+    "paste_2017": 40
   },
   "rating": {
-    "headline": 3.1,
+    "headline": 68.8,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 96,
-        "pct": 3.1,
+        "rank": 36,
+        "pct": 68.8,
         "sweep": [
-          96,
-          96
+          27,
+          36
         ]
       },
       "consensus": {
-        "rank": 57,
+        "rank": 80,
         "ref": true
       },
       "canon": {
-        "rank": 131,
+        "rank": 111,
         "ref": true
       },
       "peoples": {
-        "rank": 38,
-        "wr": 7.103,
+        "rank": 20,
+        "wr": 7.77,
         "ref": true
       },
       "era": {
-        "rank": 45,
+        "rank": 76,
         "ref": true
       }
     },
     "interval": {
-      "lo": 96,
-      "hi": 96
+      "lo": 27,
+      "hi": 36
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "Hot Pockets as sacrament",
+      "why_it_works": "Treats a frozen snack like a religious experience the whole room shares. Recognition comedy at max: the laugh is self-recognition, and the clean frame lets everyone admit it at once.",
+      "theory_links": [
+        "split_knowledge",
+        "benign_violation"
+      ]
+    },
+    {
+      "title": "The audience voice",
+      "why_it_works": "Performs the crowd's inner monologue in a whisper ('cold... pizza...'). The room hears its own id on stage and surrenders. Second-person standup: you're the bit.",
+      "theory_links": [
+        "split_knowledge",
+        "status_reversal"
+      ]
+    }
+  ]
 }

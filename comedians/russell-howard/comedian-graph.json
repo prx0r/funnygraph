@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 9.0,
-    "legacy_era": 31.8,
+    "legacy": 35.6,
+    "legacy_era": 27.8,
     "audience": null,
     "popularity": 42.1,
     "theory": 0.0,
@@ -277,7 +277,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 50.0,
+    "headline": 51.4,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -285,11 +285,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 193,
+        "rank": 191,
         "ref": true
       },
       "canon": {
-        "rank": 182,
+        "rank": 148,
         "ref": true
       },
       "peoples": {
@@ -298,17 +298,25 @@
         "ref": true
       },
       "era": {
-        "rank": 145,
+        "rank": 214,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.russell-howard.co.uk/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Chortle Award for Best Comp\u00e8re",
+        "year": 2006
+      }
+    ]
   }
 }

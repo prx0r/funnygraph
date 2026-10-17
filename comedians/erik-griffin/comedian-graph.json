@@ -218,8 +218,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 33.7,
-    "legacy_era": 56.9,
+    "legacy": 20.3,
+    "legacy_era": 53.9,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -265,7 +265,7 @@
     "awards": []
   },
   "rating": {
-    "headline": 30.6,
+    "headline": 23.2,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -273,11 +273,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 141,
+        "rank": 236,
         "ref": true
       },
       "canon": {
-        "rank": 104,
+        "rank": 205,
         "ref": true
       },
       "peoples": {
@@ -286,12 +286,12 @@
         "ref": true
       },
       "era": {
-        "rank": 92,
+        "rank": 137,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

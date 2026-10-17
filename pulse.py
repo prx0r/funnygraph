@@ -204,37 +204,46 @@ def sentiment(text: str) -> float:
     return round((p - n) / max(1, len(words)), 3)
 
 
-def mine_comments(video_id: str, key: str, max_results: int = 50) -> dict:
-    url = (f"{API}/commentThreads?part=snippet&videoId={video_id}"
-           f"&maxResults={min(100, max_results)}&orderBy=relevance"
-           f"&textFormat=plainText&key={key}")
+def mine_comments(video_id: str, key: str, max_results: int = 50,
+                  pages: int = 1) -> dict:
     import hashlib
-    try:
-        d = _get(url)
-    except Exception as e:
-        return {"videoId": video_id, "error": str(e)[:100]}
-    comments = []
-    for it in d.get("items") or []:
-        s = (it.get("snippet") or {}).get("topLevelComment", {}).get("snippet", {})
-        text = s.get("textDisplay", "")
-        # hashed author id — joinable across videos, no PII.
-        # skip when no identifier (empty would collide across strangers)
-        raw_id = (s.get("authorChannelId", {}) or {}).get("value", "")
-        if not raw_id:
-            ah = ""
-        else:
-            ah = hashlib.sha256(raw_id.encode()).hexdigest()[:16]
-        comments.append({
-            "author": ah,
-            "text": text[:300],
-            "likes": s.get("likeCount", 0),
-            "publishedAt": (s.get("publishedAt") or "")[:10],
-            "sentiment": sentiment(text),
-            "has_timestamp": bool(re.search(r"\b\d{1,2}:\d{2}\b", text)),
-            "goat_call": bool(re.search(
-                r"\b(goat|greatest|best ever|funniest|genius|masterpiece)\b",
-                text, re.I)),
-        })
+    comments, token = [], ""
+    for _ in range(max(1, pages)):
+        url = (f"{API}/commentThreads?part=snippet&videoId={video_id}"
+               f"&maxResults={min(100, max_results)}&orderBy=relevance"
+               f"&textFormat=plainText&key={key}"
+               + (f"&pageToken={token}" if token else ""))
+        try:
+            d = _get(url)
+        except Exception as e:
+            if not comments:
+                return {"videoId": video_id, "error": str(e)[:100]}
+            break
+        for it in d.get("items") or []:
+            s = (it.get("snippet") or {}).get("topLevelComment", {}).get("snippet", {})
+            text = s.get("textDisplay", "")
+            # hashed author id — joinable across videos, no PII.
+            # skip when no identifier (empty would collide across strangers)
+            raw_id = (s.get("authorChannelId", {}) or {}).get("value", "")
+            if not raw_id:
+                ah = ""
+            else:
+                ah = hashlib.sha256(raw_id.encode()).hexdigest()[:16]
+            comments.append({
+                "author": ah,
+                "text": text[:300],
+                "likes": s.get("likeCount", 0),
+                "publishedAt": (s.get("publishedAt") or "")[:10],
+                "sentiment": sentiment(text),
+                "has_timestamp": bool(re.search(r"\b\d{1,2}:\d{2}\b", text)),
+                "goat_call": bool(re.search(
+                    r"\b(goat|greatest|best ever|funniest|genius|masterpiece)\b",
+                    text, re.I)),
+            })
+        token = d.get("nextPageToken", "")
+        if not token:
+            break
+        time.sleep(0.4)
     n = len(comments)
     return {
         "videoId": video_id,
@@ -456,6 +465,8 @@ def main() -> None:
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--mine-comments", action="store_true")
     ap.add_argument("--top", type=int, default=20)
+    ap.add_argument("--pages", type=int, default=1,
+                    help="comment pages per video (100/page, 1 unit each)")
     args = ap.parse_args()
     if args.snapshot:
         snapshot()
@@ -464,7 +475,7 @@ def main() -> None:
         vids = sorted(all_tracked(), key=lambda v: -v.get("views", 0))[:args.top]
         out = []
         for v in vids:
-            m = mine_comments(v["videoId"], key)
+            m = mine_comments(v["videoId"], key, pages=args.pages)
             m["title"] = v["title"][:60]
             m["comedian"] = v["comedian"]
             out.append(m)

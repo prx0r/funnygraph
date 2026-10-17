@@ -1,113 +1,113 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "sam-roberts",
-  "name": "Sam Roberts",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "discover.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "youtube-uploads:kill-tony"
-    ],
-    "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
-    "evidence": [
-      {
-        "videoId": "xjh8ZL0Irw8",
-        "title": "Kill Tony #180 - Jim Norton, Sam Roberts & Earl Skakel",
-        "views": 120336,
-        "publishedAt": "2016-12-15"
-      }
-    ],
-    "subs": "unknown (performer channel unregistered)",
-    "region_method": "venue-scene (overwrite on origin evidence)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "hans-kim",
-      "sim": 0.071
-    },
-    {
-      "comedian_id": "cam-patterson",
-      "sim": 0.064
-    },
-    {
-      "comedian_id": "william-montgomery",
-      "sim": 0.057
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "sam-roberts",
+ "name": "Sam Roberts",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "youtube-uploads:kill-tony"
   ],
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "literalise",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "hans-kim",
-    "sim": 0.071,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
+  "evidence": [
+   {
+    "videoId": "xjh8ZL0Irw8",
+    "title": "Kill Tony #180 - Jim Norton, Sam Roberts & Earl Skakel",
+    "views": 120336,
+    "publishedAt": "2016-12-15"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)",
+  "region_method": "venue-scene (overwrite on origin evidence)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "region": "us"
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "hans-kim",
+   "sim": 0.081
+  },
+  {
+   "comedian_id": "cam-patterson",
+   "sim": 0.079
+  },
+  {
+   "comedian_id": "william-montgomery",
+   "sim": 0.062
+  }
+ ],
+ "region": "us",
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "literalise",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "hans-kim",
+  "sim": 0.081,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

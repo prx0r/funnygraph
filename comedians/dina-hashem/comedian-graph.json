@@ -1,127 +1,127 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "dina-hashem",
-  "name": "Dina Hashem",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "Deadpan restraint, Prime Dark Little Whispers",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "gold-2026"
-    ],
-    "discovery_note": "Deadpan restraint, Prime Dark Little Whispers"
-  },
-  "theory_score": null,
-  "nearest_greats": [
-    {
-      "comedian_id": "anthony-jeselnik",
-      "sim": 0.075
-    },
-    {
-      "comedian_id": "ray-romano",
-      "sim": 0.072
-    },
-    {
-      "comedian_id": "hans-kim",
-      "sim": 0.071
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "dina-hashem",
+ "name": "Dina Hashem",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Deadpan restraint, Prime Dark Little Whispers",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "gold-2026"
   ],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
+  "discovery_note": "Deadpan restraint, Prime Dark Little Whispers"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "anthony-jeselnik",
+   "sim": 0.09
   },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 11.0,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+  {
+   "comedian_id": "hans-kim",
+   "sim": 0.081
   },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCukmQ5E4GAufwK2SSN0pdPw",
-    "handle": "dinahashem",
-    "title": "dinahashem",
-    "subs": 0,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
-    "status": "dormant",
-    "checked": "2026-10-17",
-    "clips": 0,
-    "newest_upload": "",
-    "name_match_rate": 0.0,
-    "other_names": []
-  },
-  "style_tags": {
-    "humor_type": "roast",
-    "theories": [
-      "two_stories",
-      "benign_violation"
-    ],
-    "via": "anthony-jeselnik",
-    "sim": 0.075,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  },
-  "website": {
-    "url": "https://dinahashem.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
+  {
+   "comedian_id": "tom-segura",
+   "sim": 0.079
   }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 11.0,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCukmQ5E4GAufwK2SSN0pdPw",
+  "handle": "dinahashem",
+  "title": "dinahashem",
+  "subs": 0,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+  "status": "dormant",
+  "checked": "2026-10-17",
+  "clips": 0,
+  "newest_upload": "",
+  "name_match_rate": 0.0,
+  "other_names": []
+ },
+ "website": {
+  "url": "https://dinahashem.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "style_tags": {
+  "humor_type": "roast",
+  "theories": [
+   "two_stories",
+   "benign_violation"
+  ],
+  "via": "anthony-jeselnik",
+  "sim": 0.09,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

@@ -1,0 +1,53 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "viv-ford",
+ "name": "Viv Ford",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "venue-roster:on-the-mic"
+  ],
+  "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
+  "evidence": [
+   {
+    "roster": "https://www.onthemic.co.uk/comedians/?letter=V",
+    "venue": "on-the-mic",
+    "profile": "https://www.onthemic.co.uk/comedians_list/viv-ford/"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "nearest_greats": []
+}

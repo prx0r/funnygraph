@@ -391,7 +391,8 @@
         "award": "Grammy Award for Best Comedy Album",
         "year": 1980
       }
-    ]
+    ],
+    "paste_2017": 14
   },
   "specials_rated": [
     {
@@ -402,6 +403,15 @@
       "imdb_votes": 350047,
       "transcript": "robin-williams-weapons-self-destruction.txt",
       "standout": true
+    },
+    {
+      "special": "Robin Williams: An Evening at the Met",
+      "year": 1986,
+      "imdb_id": "tt0196055",
+      "imdb_rating": 8.3,
+      "imdb_votes": 1720,
+      "source": "critic-list:rs-2015",
+      "standout": false
     }
   ],
   "humor_type": {
@@ -432,15 +442,15 @@
     }
   },
   "metrics": {
-    "legacy": 97.2,
-    "legacy_era": 95.3,
-    "audience": 52.5,
+    "legacy": 98.6,
+    "legacy_era": 96.3,
+    "audience": 82.5,
     "popularity": 85.5,
     "theory": 62.5,
     "heat": null,
-    "gap_value": 0.33,
-    "overrated": "overrated",
-    "canon_lag": -0.447
+    "gap_value": 0.03,
+    "overrated": "accurately rated",
+    "canon_lag": -0.161
   },
   "tier": "king",
   "region": "us",
@@ -480,41 +490,51 @@
     ]
   },
   "rating": {
-    "headline": 94.9,
+    "headline": 94.6,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 6,
-        "pct": 94.9,
+        "rank": 7,
+        "pct": 94.6,
         "sweep": [
-          5,
-          10
+          6,
+          11
         ]
       },
       "consensus": {
-        "rank": 7,
+        "rank": 5,
         "ref": true
       },
       "canon": {
-        "rank": 2,
+        "rank": 3,
         "ref": true
       },
       "peoples": {
-        "rank": 54,
+        "rank": 67,
         "wr": 7.101,
         "ref": true
       },
       "era": {
-        "rank": 11,
+        "rank": 12,
         "ref": true
       }
     },
     "interval": {
-      "lo": 5,
-      "hi": 10
+      "lo": 6,
+      "hi": 11
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "536e8e61-8040-40a1-8b35-a2c6996dc44f",
+    "status": "ok",
+    "tags": [
+      "american",
+      "comedy",
+      "death by suicide"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

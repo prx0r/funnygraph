@@ -1,126 +1,126 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "angie-stroud",
-  "name": "Angie Stroud",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "discover.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "youtube-uploads:youtube-uploads:kill-tony"
-    ],
-    "discovery_note": "Name-mined from youtube-uploads:kill-tony uploads (registry playlist, no search).",
-    "evidence": [
-      {
-        "videoId": "atKex-cgJqY",
-        "title": "KT #788 | The joke to end all jokes \ud83c\udfe2\ud83d\udebb\ud83d\ude05 | Angie Stroud #lol #Jokes",
-        "views": 5574453,
-        "publishedAt": "2026-10-06"
-      }
-    ],
-    "subs": "unknown (performer channel unregistered)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 14.5,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCNdlmj0_I1sFNJKsE6lx_hA",
-    "handle": "angiestroud",
-    "title": "Angie Stroud",
-    "subs": 0,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
-    "status": "dormant",
-    "checked": "2026-10-17",
-    "clips": 0,
-    "newest_upload": "",
-    "name_match_rate": 0.0,
-    "other_names": []
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "hans-kim",
-      "sim": 0.062
-    },
-    {
-      "comedian_id": "cam-patterson",
-      "sim": 0.056
-    },
-    {
-      "comedian_id": "william-montgomery",
-      "sim": 0.049
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "angie-stroud",
+ "name": "Angie Stroud",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "youtube-uploads:youtube-uploads:kill-tony"
   ],
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "literalise",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "hans-kim",
-    "sim": 0.062,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "Name-mined from youtube-uploads:kill-tony uploads (registry playlist, no search).",
+  "evidence": [
+   {
+    "videoId": "atKex-cgJqY",
+    "title": "KT #788 | The joke to end all jokes \ud83c\udfe2\ud83d\udebb\ud83d\ude05 | Angie Stroud #lol #Jokes",
+    "views": 5574453,
+    "publishedAt": "2026-10-06"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 14.5,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCNdlmj0_I1sFNJKsE6lx_hA",
+  "handle": "angiestroud",
+  "title": "Angie Stroud",
+  "subs": 0,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+  "status": "dormant",
+  "checked": "2026-10-17",
+  "clips": 0,
+  "newest_upload": "",
+  "name_match_rate": 0.0,
+  "other_names": []
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "hans-kim",
+   "sim": 0.086
+  },
+  {
+   "comedian_id": "cam-patterson",
+   "sim": 0.084
+  },
+  {
+   "comedian_id": "william-montgomery",
+   "sim": 0.065
   }
+ ],
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "literalise",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "hans-kim",
+  "sim": 0.086,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

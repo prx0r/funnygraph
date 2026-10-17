@@ -424,6 +424,24 @@
       "theory_links": [
         "garden_path"
       ]
+    },
+    {
+      "title": "fight in front of white people",
+      "why_it_works": "Quoted back by 3 distinct fans (3 occurrences): transmitted material \u2014 survived the audience-to-comment journey intact.",
+      "theory_links": [
+        "quote_back"
+      ],
+      "source": "F3 fanbase mining",
+      "status": "measured-fanquoted"
+    },
+    {
+      "title": "if you have parents",
+      "why_it_works": "Quoted back by 3 distinct fans (3 occurrences): transmitted material \u2014 survived the audience-to-comment journey intact.",
+      "theory_links": [
+        "quote_back"
+      ],
+      "source": "F3 fanbase mining",
+      "status": "measured-fanquoted"
     }
   ],
   "generation": {
@@ -461,7 +479,8 @@
         "award": "Primetime Emmy Award for Outstanding Writing for a Variety Series",
         "year": null
       }
-    ]
+    ],
+    "paste_2017": 2
   },
   "specials_rated": [
     {
@@ -572,15 +591,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 98.6,
-    "legacy_era": 97.2,
+    "legacy": 99.3,
+    "legacy_era": 98.3,
     "audience": 75.0,
     "popularity": 97.1,
-    "theory": 50.0,
+    "theory": 62.5,
     "heat": null,
     "gap_value": 0.221,
     "overrated": "overrated",
-    "canon_lag": -0.236
+    "canon_lag": -0.243
   },
   "tier": "king",
   "region": "us",
@@ -618,46 +637,59 @@
     ]
   },
   "rating": {
-    "headline": 93.9,
+    "headline": 97.3,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 7,
-        "pct": 93.9,
+        "rank": 4,
+        "pct": 97.3,
         "sweep": [
-          5,
-          18
+          4,
+          5
         ]
       },
       "consensus": {
-        "rank": 4,
+        "rank": 3,
         "ref": true
       },
       "canon": {
-        "rank": 5,
+        "rank": 4,
         "ref": true
       },
       "peoples": {
-        "rank": 11,
+        "rank": 12,
         "wr": 7.97,
         "ref": true
       },
       "era": {
-        "rank": 7,
+        "rank": 6,
         "ref": true
       }
     },
     "interval": {
-      "lo": 5,
-      "hi": 18
+      "lo": 4,
+      "hi": 5
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.chrisrock.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "172805a7-6f84-4bb3-8b3b-6dc5bc33b103",
+    "status": "ok",
+    "tags": [
+      "2008 universal fire victim",
+      "comedy",
+      "musical parody",
+      "satire",
+      "sketch comedy",
+      "stand-up comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

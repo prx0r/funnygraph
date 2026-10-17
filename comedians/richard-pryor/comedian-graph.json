@@ -380,7 +380,38 @@
   "recognition": {
     "comedy_central_2004": 1,
     "rolling_stone_2017": 1,
-    "trajectory_2004_2017": "stable"
+    "trajectory_2004_2017": "stable",
+    "paste_2017": 1,
+    "awards": [
+      {
+        "award": "Grammy Lifetime Achievement Award",
+        "year": 2006
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1976
+      },
+      {
+        "award": "Mark Twain Prize for American Humor",
+        "year": 1998
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1982
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1974
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Variety Special",
+        "year": null
+      },
+      {
+        "award": "Writers Guild of America Award",
+        "year": null
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -473,15 +504,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 99.5,
-    "legacy_era": 98.6,
+    "legacy": 99.7,
+    "legacy_era": 99.0,
     "audience": 75.0,
     "popularity": 63.8,
     "theory": 50.0,
     "heat": null,
     "gap_value": -0.112,
     "overrated": "accurately rated",
-    "canon_lag": -0.245
+    "canon_lag": -0.247
   },
   "tier": "king",
   "region": "us",
@@ -521,16 +552,16 @@
     ]
   },
   "rating": {
-    "headline": 77.6,
+    "headline": 80.4,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 23,
-        "pct": 77.6,
+        "pct": 80.4,
         "sweep": [
           18,
-          29
+          44
         ]
       },
       "consensus": {
@@ -538,11 +569,11 @@
         "ref": true
       },
       "canon": {
-        "rank": 3,
+        "rank": 1,
         "ref": true
       },
       "peoples": {
-        "rank": 12,
+        "rank": 13,
         "wr": 7.963,
         "ref": true
       },
@@ -553,9 +584,17 @@
     },
     "interval": {
       "lo": 18,
-      "hi": 29
+      "hi": 44
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "ba503a17-848c-4773-aa58-208f4163124f",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

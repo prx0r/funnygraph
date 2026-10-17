@@ -380,7 +380,14 @@
     "breakthrough": "1990s"
   },
   "recognition": {
-    "rolling_stone_2017": 31
+    "rolling_stone_2017": 31,
+    "paste_2017": 32,
+    "awards": [
+      {
+        "award": "star on Hollywood Walk of Fame",
+        "year": null
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -459,15 +466,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 79.6,
-    "legacy_era": 12.3,
+    "legacy": 83.7,
+    "legacy_era": 24.1,
     "audience": 47.5,
     "popularity": 56.1,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.086,
     "overrated": "accurately rated",
-    "canon_lag": -0.321
+    "canon_lag": -0.362
   },
   "tier": "king",
   "region": "us",
@@ -521,41 +528,41 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 63.3,
+    "headline": 53.6,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 37,
-        "pct": 63.3,
+        "rank": 53,
+        "pct": 53.6,
         "sweep": [
-          31,
-          37
+          47,
+          53
         ]
       },
       "consensus": {
-        "rank": 44,
+        "rank": 49,
         "ref": true
       },
       "canon": {
-        "rank": 32,
+        "rank": 50,
         "ref": true
       },
       "peoples": {
-        "rank": 56,
+        "rank": 70,
         "wr": 6.964,
         "ref": true
       },
       "era": {
-        "rank": 186,
+        "rank": 225,
         "ref": true
       }
     },
     "interval": {
-      "lo": 31,
-      "hi": 37
+      "lo": 47,
+      "hi": 53
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

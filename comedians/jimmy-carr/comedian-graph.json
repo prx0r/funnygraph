@@ -350,7 +350,44 @@
     "scene": "uk-panel",
     "breakthrough": "2000s"
   },
-  "specials_rated": [],
+  "specials_rated": [
+    {
+      "special": "Jimmy Carr: Comedian",
+      "year": 2007,
+      "imdb_id": "tt1172061",
+      "imdb_rating": 7.9,
+      "imdb_votes": 1417,
+      "source": "known-title",
+      "standout": false
+    },
+    {
+      "special": "Jimmy Carr: Making People Laugh",
+      "year": 2010,
+      "imdb_id": "tt1794821",
+      "imdb_rating": 7.8,
+      "imdb_votes": 1257,
+      "source": "known-title",
+      "standout": false
+    },
+    {
+      "special": "Jimmy Carr: Being Funny",
+      "year": 2011,
+      "imdb_id": "tt2120780",
+      "imdb_rating": 7.7,
+      "imdb_votes": 1316,
+      "source": "known-title",
+      "standout": false
+    },
+    {
+      "special": "Jimmy Carr: Laughing and Joking",
+      "year": 2013,
+      "imdb_id": "tt3486648",
+      "imdb_rating": 7.8,
+      "imdb_votes": 1373,
+      "source": "known-title",
+      "standout": false
+    }
+  ],
   "bio": {
     "wikidata_id": "Q964454",
     "dob": "1972-09-15",
@@ -382,15 +419,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 23.7,
-    "legacy_era": 46.9,
-    "audience": null,
+    "legacy": 72.2,
+    "legacy_era": 83.0,
+    "audience": 72.5,
     "popularity": 80.7,
     "theory": 62.5,
     "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+    "gap_value": 0.082,
+    "overrated": "accurately rated",
+    "canon_lag": 0.003
   },
   "tier": "king",
   "region": "uk",
@@ -437,46 +474,54 @@
     ]
   },
   "rating": {
-    "headline": 84.7,
+    "headline": 86.6,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 16,
-        "pct": 84.7,
+        "pct": 86.6,
         "sweep": [
-          7,
+          8,
           21
         ]
       },
       "consensus": {
-        "rank": 162,
+        "rank": 83,
         "ref": true
       },
       "canon": {
-        "rank": 133,
+        "rank": 146,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 18,
+        "wr": 7.796,
         "ref": true
       },
       "era": {
-        "rank": 113,
+        "rank": 51,
         "ref": true
       }
     },
     "interval": {
-      "lo": 7,
+      "lo": 8,
       "hi": 21
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.jimmycarr.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "youtube_channel": {
+    "id": "UCf9BO33b-MnIxB5y0azrxmg",
+    "handle": "JimmyCarr",
+    "title": "Jimmy Carr",
+    "subs": 2230000,
+    "via": "forHandle-verified",
+    "source": "UK push (verified, no search)"
   }
 }

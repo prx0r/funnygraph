@@ -213,8 +213,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 27.0,
-    "legacy_era": 50.2,
+    "legacy": 16.3,
+    "legacy_era": 49.5,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -257,7 +257,7 @@
     ]
   },
   "rating": {
-    "headline": 20.4,
+    "headline": 17.2,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -265,11 +265,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 155,
+        "rank": 248,
         "ref": true
       },
       "canon": {
-        "rank": 122,
+        "rank": 221,
         "ref": true
       },
       "peoples": {
@@ -278,17 +278,28 @@
         "ref": true
       },
       "era": {
-        "rank": 106,
+        "rank": 150,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://henryrollins.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "656b39fb-979c-4c57-bb87-61d1a8eb38d1",
+    "status": "ok",
+    "tags": [
+      "alternative metal",
+      "comedy",
+      "hardcore punk",
+      "spoken word"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

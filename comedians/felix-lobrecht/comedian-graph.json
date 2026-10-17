@@ -1,105 +1,105 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "felix-lobrecht",
-  "name": "Felix Lobrecht",
-  "tier": "indie",
-  "region": "germany",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/global",
-  "note": "Biggest German comic right now. Gemischtes Hack podcast empire, Sonne und Beton. Berlin working-class voice.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "curated-eu-pacific"
-    ],
-    "discovery_note": "Biggest German comic right now. Gemischtes Hack podcast empire, Sonne und Beton. Berlin working-class voice."
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "continent": "europe",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "mark-normand",
-      "sim": 0.059
-    },
-    {
-      "comedian_id": "dave-chappelle",
-      "sim": 0.052
-    },
-    {
-      "comedian_id": "andrew-schulz",
-      "sim": 0.037
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "felix-lobrecht",
+ "name": "Felix Lobrecht",
+ "tier": "indie",
+ "region": "germany",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/global",
+ "note": "Biggest German comic right now. Gemischtes Hack podcast empire, Sonne und Beton. Berlin working-class voice.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-eu-pacific"
   ],
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
+  "discovery_note": "Biggest German comic right now. Gemischtes Hack podcast empire, Sonne und Beton. Berlin working-class voice."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "continent": "europe",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "mark-normand",
+   "sim": 0.098
   },
-  "style_tags": {
-    "humor_type": "crowd-improv",
-    "theories": [
-      "incongruity",
-      "status_reversal",
-      "benign_violation"
-    ],
-    "via": "mark-normand",
-    "sim": 0.059,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "dave-chappelle",
+   "sim": 0.086
+  },
+  {
+   "comedian_id": "andrew-schulz",
+   "sim": 0.057
   }
+ ],
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "style_tags": {
+  "humor_type": "crowd-improv",
+  "theories": [
+   "incongruity",
+   "status_reversal",
+   "benign_violation"
+  ],
+  "via": "mark-normand",
+  "sim": 0.098,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

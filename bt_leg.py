@@ -41,7 +41,9 @@ def implied_pairs(comics: dict) -> dict[tuple[str, str], list[int]]:
     pairs: dict[tuple[str, str], list[int]] = defaultdict(lambda: [0])
     lists = 0
     for key, year in (("comedy_central_2004", 2004),
-                      ("rolling_stone_2017", 2017)):
+                      ("rolling_stone_2017", 2017),
+                      ("paste_2017", 2017),
+                      ("c4_2007", 2007)):
         order = []
         for cid, j in comics.items():
             rec = j.get("recognition") or {}

@@ -1,0 +1,79 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "whoopi-goldberg",
+  "name": "Whoopi Goldberg",
+  "tier": "king",
+  "region": "us",
+  "generation": {
+    "id": "eighties-boom"
+  },
+  "recognition": {
+    "paste_2017": 37
+  },
+  "identity": {
+    "deal": "",
+    "operator_priors": {}
+  },
+  "known_bits": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "king",
+    "rule": "Paste-2017 legend: established by list inclusion",
+    "note": "Direct from Broadway; EGOT"
+  },
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "critic_lists.py",
+  "specials_rated": [
+    {
+      "special": "Whoopi Goldberg: Direct from Broadway",
+      "year": 1985,
+      "imdb_id": "tt0457207",
+      "imdb_rating": 8.4,
+      "imdb_votes": 272,
+      "source": "critic-list:rs-2015",
+      "standout": false
+    }
+  ],
+  "metrics": {
+    "legacy": 81.0,
+    "legacy_era": 25.8,
+    "audience": 85.0,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": 0.04
+  },
+  "rating": {
+    "headline": 50.5,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 57,
+        "ref": true
+      },
+      "canon": {
+        "rank": 103,
+        "ref": true
+      },
+      "peoples": {
+        "rank": 16,
+        "wr": 7.817,
+        "ref": true
+      },
+      "era": {
+        "rank": 220,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T16:38:04Z",
+    "pipeline": "rate/v1"
+  }
+}

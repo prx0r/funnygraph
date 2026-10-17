@@ -109,6 +109,13 @@ FOUNTAINS = ["kill-tony", "dry-bar", "just-for-laughs", "dont-tell-comedy",
 # Winners/lineups behind JS calendars or Facebook login: skipped, noted.
 ROSTERS = {
     "angel-comedy": "https://www.angelcomedy.co.uk/comedians/",
+    # On The Mic (onthemic.co.uk): 1707-comedian Edinburgh directory.
+    # A-Z index (?letter=X) + per-comic pages (/comedians_list/<slug>/)
+    # carrying bio, TV/panel credits, representation, official websites.
+    # Link-label extraction (names are link text — no NLP, near-zero junk).
+    # Use: coverage cross-check (who are we missing?), websites, credits.
+    "on-the-mic": ["https://www.onthemic.co.uk/comedians/?letter=" + c
+                   for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"],
     # UNTESTED (fetch + verify before wiring): topsecretcomedy lineups,
     # komedia Krater lineups, just-the-tonic new-act nights.
 }
@@ -129,6 +136,13 @@ SHOWNAME_BLOCK = {"behind-the-tape", "behind-tape", "cold-open", "cold-openers",
 # UCn7zFtvhBRfUpJcW_6fU0mA = LIAM NELSON the DJ (EDM tracks), not the comic.
 # link/guess/audit skip these permanently.
 COLLISION_BLOCK = {"UCn7zFtvhBRfUpJcW_6fU0mA"}
+# Nav-boilerplate link texts that match the name regex but aren't people
+# (2026-10-17: "More Info", "On The Mic", "Print Interviews" drafted as
+# comics from OTM pages — the href filter passes since they link to real
+# comic pages; the TEXT is boilerplate).
+NAVTEXT_BLOCK = {"more info", "on the mic", "print interviews", "full bio",
+                 "read more", "view all", "watch comedy", "more details",
+                 "click here", "see more"}
 
 SHOW_RE = re.compile(r"#\d{2,4}|\bkt\b|kill.?tony|\bw/|ft\.|guests?|"
                       r"\blive\b|episode|\bep\b|\bvs\.?|battle|finals?|"
@@ -626,79 +640,95 @@ def mine_rosters() -> None:
     import urllib.request as _rq
     queue, known = load_queue(), existing_slugs()
     drafted = 0
-    for venue, url in ROSTERS.items():
-        try:
-            req = _rq.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            html = _rq.urlopen(req, timeout=30).read().decode("utf-8", "replace")
-        except Exception as e:
-            print(f"  {venue}: fetch fail {type(e).__name__}")
-            continue
-        # (name, page-url) pairs from headers + links
-        pairs: dict[str, str] = {}
-        for m in re.finditer(
-                r'<a[^>]+href="([^"]+)"[^>]*>\s*(?:<[^>]+>\s*)*'
-                r"([A-Z][A-Za-z'’.-]+(?:\s+[A-Z][A-Za-z'’.-]+){1,2})\s*"
-                r"(?:<[^>]+>\s*)*</a>", html):
-            href, raw = m.group(1), re.sub(r"\s+", " ", m.group(2)).strip()
-            if re.match(r"^[A-Z][a-z'-]+(\s+[A-Z][a-z'-]+){1,2}$", raw):
-                pairs.setdefault(raw, href)
-        if not pairs:  # fallback: bare headers, no links
-            for raw in set(re.findall(
-                    r"^#{2,3}\s+([A-Z][A-Za-z'’.-]+(?:\s+[A-Z][A-Za-z'’.-]+){1,2})\s*$",
-                    html, re.M)):
-                pairs.setdefault(raw, "")
-        seen = 0
-        for name, href in sorted(pairs.items()):
-            slug = slugify(name)
-            if not slug or slug in known or slug in queue:
+    for venue, urls in ROSTERS.items():
+        if isinstance(urls, str):
+            urls = [urls]
+        for url in urls:
+            try:
+                req = _rq.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                html = _rq.urlopen(req, timeout=30).read().decode("utf-8", "replace")
+            except Exception as e:
+                print(f"  {venue}: fetch fail {type(e).__name__} {url[-12:]}")
                 continue
-            ev = {"roster": url, "venue": venue}
-            page_url = href if href.startswith("http") else (
-                "https://www.angelcomedy.co.uk" + href
-                if href.startswith("/") else "")
-            bio, socials = "", {}
-            if page_url:
-                try:
-                    req2 = _rq.Request(page_url,
-                                       headers={"User-Agent": "Mozilla/5.0"})
-                    ph = _rq.urlopen(req2, timeout=20).read().decode(
-                        "utf-8", "replace")
-                    txt = _strip_tags(ph)
-                    m = re.search(r"Biography(.{200,1200})", txt)
-                    bio = (m.group(1)[:600] if m else txt[:600])
-                    for sm in re.finditer(
-                            r'https?://(?:www\.)?(instagram\.com|tiktok\.com|'
-                            r'twitter\.com|x\.com|youtube\.com)/([A-Za-z0-9_.@/-]+)',
-                            ph):
-                        socials.setdefault(sm.group(1).split(".")[0],
-                                           sm.group(0)[:120])
-                except Exception:
-                    pass
-                time.sleep(0.4)
-            if draft_indie(slug, name, ev, f"venue-roster:{venue}"):
-                drafted += 1
-                known.add(slug)
-                if bio or socials:
+            # (name, page-url) pairs from headers + links.
+            # VENUE-SCOPED href filter (2026-10-17: unscoped links drafted
+            # menu items — "Watch Comedy", "Christmas Parties" — as comics):
+            # only comedian-profile URLs yield names.
+            pairs: dict[str, str] = {}
+            must = {"angel-comedy": "/comedians/",
+                    "on-the-mic": "/comedians_list/"}.get(venue, "")
+            for m in re.finditer(
+                    r'<a[^>]+href="([^"]+)"[^>]*>\s*(?:<[^>]+>\s*)*'
+                    r"([A-Z][A-Za-z'’.-]+(?:\s+[A-Z][A-Za-z'’.-]+){1,2})\s*"
+                    r"(?:<[^>]+>\s*)*</a>", html):
+                href, raw = m.group(1), re.sub(r"\s+", " ", m.group(2)).strip()
+                if must and must not in href:
+                    continue
+                if re.match(r"^[A-Z][a-z'-]+(\s+[A-Z][a-z'-]+){1,2}$", raw):
+                    pairs.setdefault(raw, href)
+            if not pairs:  # fallback: bare headers, no links
+                for raw in set(re.findall(
+                        r"^#{2,3}\s+([A-Z][A-Za-z'’.-]+(?:\s+[A-Z][A-Za-z'’.-]+){1,2})\s*$",
+                        html, re.M)):
+                    pairs.setdefault(raw, "")
+            seen = 0
+            for name, href in sorted(pairs.items()):
+                slug = slugify(name)
+                if not slug or slug in known or slug in queue:
+                    continue
+                if name.lower() in NAVTEXT_BLOCK:
+                    continue
+                ev = {"roster": url, "venue": venue}
+                base = {"angel-comedy": "https://www.angelcomedy.co.uk",
+                        "on-the-mic": "https://www.onthemic.co.uk"}.get(venue, "")
+                page_url = href if href.startswith("http") else (
+                    base + href if href.startswith("/") and base else "")
+                bio, socials = "", {}
+                if page_url and venue != "on-the-mic":
                     try:
-                        gpath = COMEDIANS / slug / "comedian-graph.json"
-                        g = json.loads(gpath.read_text())
-                        if bio:
-                            g["discovery"]["bio_note"] = bio
-                        if socials:
-                            g["socials"] = {**g.get("socials", {}), **{
-                                k: {"url": v, "source": f"venue-bio:{venue}"}
-                                for k, v in socials.items()}}
-                        gpath.write_text(json.dumps(g, indent=1) + "\n",
-                                         encoding="utf-8")
-                    except (OSError, json.JSONDecodeError):
+                        req2 = _rq.Request(page_url,
+                                           headers={"User-Agent": "Mozilla/5.0"})
+                        ph = _rq.urlopen(req2, timeout=20).read().decode(
+                            "utf-8", "replace")
+                        txt = _strip_tags(ph)
+                        m2 = re.search(r"Biography(.{200,1200})", txt)
+                        bio = (m2.group(1)[:600] if m2 else txt[:600])
+                        for sm in re.finditer(
+                                r'https?://(?:www\.)?(instagram\.com|tiktok\.com|'
+                                r'twitter\.com|x\.com|youtube\.com)/([A-Za-z0-9_.@/-]+)',
+                                ph):
+                            socials.setdefault(sm.group(1).split(".")[0],
+                                               sm.group(0)[:120])
+                    except Exception:
                         pass
-            queue[slug] = {"name": name, "status": "drafted",
-                           "evidence": ev, "src": f"venue-roster:{venue}",
-                           "bio_fetched": bool(bio or socials),
-                           "first_seen": datetime.now(timezone.utc)
-                           .strftime("%Y-%m-%d")}
-            seen += 1
-        print(f"  {venue}: {seen} new names ({drafted} drafted)")
+                    time.sleep(0.4)
+                if page_url and venue == "on-the-mic":
+                    ev["profile"] = page_url  # per-comic page: phase-2 enrichment
+                if draft_indie(slug, name, ev, f"venue-roster:{venue}"):
+                    drafted += 1
+                    known.add(slug)
+                    if bio or socials:
+                        try:
+                            gpath = COMEDIANS / slug / "comedian-graph.json"
+                            g = json.loads(gpath.read_text())
+                            if bio:
+                                g["discovery"]["bio_note"] = bio
+                            if socials:
+                                g["socials"] = {**g.get("socials", {}), **{
+                                    k: {"url": v, "source": f"venue-bio:{venue}"}
+                                    for k, v in socials.items()}}
+                            gpath.write_text(json.dumps(g, indent=1) + "\n",
+                                             encoding="utf-8")
+                        except (OSError, json.JSONDecodeError):
+                            pass
+                queue[slug] = {"name": name, "status": "drafted",
+                               "evidence": ev, "src": f"venue-roster:{venue}",
+                               "bio_fetched": bool(bio or socials),
+                               "first_seen": datetime.now(timezone.utc)
+                               .strftime("%Y-%m-%d")}
+                seen += 1
+            print(f"  {venue} [{url[-8:]}]: {seen} new names ({drafted} drafted total)")
+            time.sleep(0.5)
     QUEUE.write_text(json.dumps(queue, indent=1))
     print(f"roster drafts: {drafted}")
 

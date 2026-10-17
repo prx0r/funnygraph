@@ -224,7 +224,14 @@
   "recognition": {
     "comedy_central_2004": 70,
     "rolling_stone_2017": 50,
-    "trajectory_2004_2017": "rise"
+    "trajectory_2004_2017": "rise",
+    "paste_2017": 44,
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Variety Series",
+        "year": null
+      }
+    ]
   },
   "humor_type": {
     "primary": "dark-confessional",
@@ -241,8 +248,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 73.9,
-    "legacy_era": 23.7,
+    "legacy": 63.4,
+    "legacy_era": 22.7,
     "audience": null,
     "popularity": 78.1,
     "theory": 37.5,
@@ -312,24 +319,24 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 25.5,
+    "headline": 18.8,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 74,
-        "pct": 25.5,
+        "rank": 92,
+        "pct": 18.8,
         "sweep": [
-          74,
-          74
+          92,
+          92
         ]
       },
       "consensus": {
-        "rank": 56,
+        "rank": 109,
         "ref": true
       },
       "canon": {
-        "rank": 29,
+        "rank": 81,
         "ref": true
       },
       "peoples": {
@@ -338,15 +345,15 @@
         "ref": true
       },
       "era": {
-        "rank": 162,
+        "rank": 229,
         "ref": true
       }
     },
     "interval": {
-      "lo": 74,
-      "hi": 74
+      "lo": 92,
+      "hi": 92
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

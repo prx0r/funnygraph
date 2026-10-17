@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 4.3,
-    "legacy_era": 26.5,
+    "legacy": 45.1,
+    "legacy_era": 10.8,
     "audience": null,
     "popularity": 13.2,
     "theory": 0.0,
@@ -277,19 +277,19 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 38.8,
+    "headline": 34.3,
     "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "provisional": "type-prior",
     "boards": {
       "house": {
         "rank": null
       },
       "consensus": {
-        "rank": 203,
+        "rank": 163,
         "ref": true
       },
       "canon": {
-        "rank": 198,
+        "rank": 116,
         "ref": true
       },
       "peoples": {
@@ -298,17 +298,21 @@
         "ref": true
       },
       "era": {
-        "rank": 156,
+        "rank": 264,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.toddbarry.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "paste_2017": 42,
+    "awards": []
   }
 }

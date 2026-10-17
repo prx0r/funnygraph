@@ -271,8 +271,8 @@
     "method": "archetype+theories"
   },
   "metrics": {
-    "legacy": 29.4,
-    "legacy_era": 52.6,
+    "legacy": 17.6,
+    "legacy_era": 50.8,
     "audience": null,
     "popularity": null,
     "theory": 37.5,
@@ -299,24 +299,24 @@
     "awards": []
   },
   "rating": {
-    "headline": 46.9,
+    "headline": 37.5,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 53,
-        "pct": 46.9,
+        "rank": 71,
+        "pct": 37.5,
         "sweep": [
-          50,
-          53
+          68,
+          71
         ]
       },
       "consensus": {
-        "rank": 150,
+        "rank": 244,
         "ref": true
       },
       "canon": {
-        "rank": 115,
+        "rank": 215,
         "ref": true
       },
       "peoples": {
@@ -325,15 +325,23 @@
         "ref": true
       },
       "era": {
-        "rank": 101,
+        "rank": 146,
         "ref": true
       }
     },
     "interval": {
-      "lo": 50,
-      "hi": 53
+      "lo": 68,
+      "hi": 71
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "6c0c066e-1453-468e-b509-7ca2398e8e84",
+    "status": "ok",
+    "tags": [
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

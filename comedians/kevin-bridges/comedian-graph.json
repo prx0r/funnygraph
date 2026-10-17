@@ -139,6 +139,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "kevin-bridges-bit-01",
+      "title": "Kevin Bridges: 'Scottish mundanity epic' \u2014 how the bit works",
+      "thesis": "Elevates chip shops, schemes, and family holidays into epic narrative. Hyper-local detail that somehow plays everywhere \u2014 specificity as universality.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "kevin-bridges-bit-02",
+      "title": "Kevin Bridges: 'The act-out' \u2014 how the bit works",
+      "thesis": "Full physical reenactments of strangers. The commitment sells it: he doesn't do impressions, he temporarily becomes the pal, the bouncer, the dad.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -268,22 +302,22 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 57.8,
-    "legacy_era": 4.3,
+    "legacy": 38.0,
+    "legacy_era": 7.8,
     "audience": 10.0,
     "popularity": 43.9,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.339,
     "overrated": "overrated",
-    "canon_lag": -0.478
+    "canon_lag": -0.28
   },
   "tier": "king",
   "region": "uk",
   "continent": "europe",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "clydebank everyman",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -315,38 +349,67 @@
     "awards": []
   },
   "rating": {
-    "headline": 31.6,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 65.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 40,
+        "pct": 65.2,
+        "sweep": [
+          32,
+          40
+        ]
       },
       "consensus": {
-        "rank": 90,
+        "rank": 184,
         "ref": true
       },
       "canon": {
-        "rank": 144,
+        "rank": 240,
         "ref": true
       },
       "peoples": {
-        "rank": 69,
+        "rank": 83,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 203,
+        "rank": 273,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 32,
+      "hi": 40
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://kevinbridges.co.uk",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Glaswegian machine-gun storytelling with act-outs. The accent does half the work; the relentless specificity does the rest."
+  },
+  "known_bits": [
+    {
+      "title": "Scottish mundanity epic",
+      "why_it_works": "Elevates chip shops, schemes, and family holidays into epic narrative. Hyper-local detail that somehow plays everywhere \u2014 specificity as universality.",
+      "theory_links": [
+        "specificity",
+        "storytelling"
+      ]
+    },
+    {
+      "title": "The act-out",
+      "why_it_works": "Full physical reenactments of strangers. The commitment sells it: he doesn't do impressions, he temporarily becomes the pal, the bouncer, the dad.",
+      "theory_links": [
+        "character_violation",
+        "exaggeration"
+      ]
+    }
+  ]
 }

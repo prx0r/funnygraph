@@ -48,8 +48,8 @@
     "promoted": "2026-10-17: established (TV/specials/touring); KT-draft corrected on audit"
   },
   "metrics": {
-    "legacy": 14.7,
-    "legacy_era": 37.4,
+    "legacy": 8.8,
+    "legacy_era": 41.7,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -67,11 +67,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 181,
+        "rank": 270,
         "ref": true
       },
       "canon": {
-        "rank": 163,
+        "rank": 256,
         "ref": true
       },
       "peoples": {
@@ -80,17 +80,18 @@
         "ref": true
       },
       "era": {
-        "rank": 133,
+        "rank": 173,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://natashaleggero.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "region": "us"
 }

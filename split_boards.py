@@ -83,6 +83,13 @@ def main() -> None:
     for i, (cid, w, best) in enumerate(rated, 1):
         y = best.get("year") or ymin
         momentum = round((y - ymin) / max(1, ymax - ymin), 3)
+        # approval rate: % of rated specials >= 7.5 (binary approval lens,
+        # RT-Tomatometer-flavored; SHOWN not blended — means are gameable,
+        # approval is robust. METHODOLOGY steal-list item, now live.)
+        sp = comics[cid].get("specials_rated") or []
+        ok = [s for s in sp if isinstance(s.get("imdb_rating"), (int, float))]
+        appr = round(sum(1 for s in ok if s["imdb_rating"] >= 7.5)
+                     / max(1, len(ok)), 3) if ok else None
         peoples.append({
             "rank": i,
             "comedian_id": cid,
@@ -92,6 +99,8 @@ def main() -> None:
             "standout_year": y,
             "standout_votes": best.get("imdb_votes"),
             "momentum_recency": momentum,
+            "n_specials_rated": len(ok),
+            "approval_rate": appr,
             "generation": (comics[cid].get("generation") or {}).get("id"),
         })
     (OUT / "peoples.json").write_text(json.dumps({

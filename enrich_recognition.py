@@ -103,18 +103,35 @@ def awards_for(qid: str) -> list[dict]:
         except (KeyError, TypeError):
             continue
     # keep the ones that matter, cap at 12
+    # 2026-10-17: regional legs added (GAPS #3 roadmap) — comedy-world
+    # prestige outside the US mainstream: Humour Awards (NG), Edinburgh
+    # lineage (Perrier/IF/Foster/Dave's), Melbourne Barry+Moosehead,
+    # BAFTA/British Comedy/Chortle/National Comedy (UK), AACTA/Logie (AU),
+    # Juno/Canadian Comedy/Felix (CA). Equal filters, not equal weights
+    # (weights stay asserted in rank_comedians AWARD_W — too sparse to fit).
     keep = [a for a in out if any(
         w in a["award"].lower() for w in
         ("grammy", "mark twain", "emmy", "peabody", "kennedy",
          "pulitzer", "tony", "oscar", "golden globe", "eddie",
-         "writers guild", "producers guild", "critics"))] or out[:12]
+         "writers guild", "producers guild", "critics",
+         "humour award", "edinburgh comedy", "perrier", "if.comedy",
+         "foster's edinburgh", "dave's edinburgh", "barry award",
+         "moosehead", "bafta", "british comedy award", "chortle",
+         "national comedy award", "aacta", "logie award", "juno",
+         "canadian comedy", "felix award"))] or out[:12]
     return keep[:12]
 
 
 def main() -> None:
+    import argparse as _ap
+    _a = _ap.ArgumentParser()
+    _a.add_argument("--refresh-awards", action="store_true",
+                    help="re-fetch P166 for graphs that already have awards "
+                         "(merges new regional labels)")
+    _args = _a.parse_args()
     ranks = load_ranks()
     cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
-    n_rank = n_aw = 0
+    n_rank = n_aw = n_ref = 0
     for d in sorted(COMEDIANS.iterdir()):
         g = d / "comedian-graph.json"
         if not g.exists():
@@ -139,10 +156,15 @@ def main() -> None:
         # awards via cached QID
         bio = j.get("bio") or {}
         qid = bio.get("wikidata_id") or (cache.get(d.name) or {}).get("wikidata_id")
-        if qid and "awards" not in rec:
+        if qid and ("awards" not in rec or _args.refresh_awards):
             print(f"  {d.name} awards...", flush=True)
             try:
                 aw = awards_for(qid)
+                if _args.refresh_awards and isinstance(rec.get("awards"), list):
+                    seen = {(a.get("award"), a.get("year")) for a in rec["awards"]}
+                    aw = rec["awards"] + [a for a in aw if (a.get("award"), a.get("year")) not in seen]
+                    if len(aw) > len(rec["awards"]):
+                        n_ref += 1
                 if aw:
                     rec["awards"] = aw
                     n_aw += 1
@@ -155,7 +177,7 @@ def main() -> None:
         if rec:
             j["recognition"] = rec
             g.write_text(json.dumps(j, indent=2) + "\n", encoding="utf-8")
-    print(f"\n=== rankings: {n_rank} comics ranked, awards: {n_aw} ===")
+    print(f"\n=== rankings: {n_rank} comics ranked, awards: {n_aw} (refreshed {n_ref}) ===")
 
 
 if __name__ == "__main__":

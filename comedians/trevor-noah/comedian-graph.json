@@ -187,6 +187,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "trevor-noah-bit-01",
+      "title": "Trevor Noah: 'Accents as arguments' \u2014 how the bit works",
+      "thesis": "Performs world leaders and cab drivers in their own cadences; the impression IS the analysis. You laugh at the accuracy, then realize you agreed with the politics.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "trevor-noah-bit-02",
+      "title": "Trevor Noah: 'Outsider's America' \u2014 how the bit works",
+      "thesis": "South African lens on US absurdity (guns, race, fast food) \u2014 the foreigner's obvious question nobody local can answer. Naivety as scalpel.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -308,15 +342,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 65.9,
-    "legacy_era": 11.8,
+    "legacy": 47.1,
+    "legacy_era": 20.7,
     "audience": 30.0,
     "popularity": 89.5,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.595,
     "overrated": "massively overrated",
-    "canon_lag": -0.359
+    "canon_lag": -0.171
   },
   "tier": "king",
   "region": "south-africa",
@@ -356,38 +390,67 @@
     ]
   },
   "rating": {
-    "headline": 57.1,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 50.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 57,
+        "pct": 50.0,
+        "sweep": [
+          52,
+          57
+        ]
       },
       "consensus": {
-        "rank": 73,
+        "rank": 157,
         "ref": true
       },
       "canon": {
-        "rank": 204,
+        "rank": 289,
         "ref": true
       },
       "peoples": {
-        "rank": 51,
+        "rank": 64,
         "wr": 7.103,
         "ref": true
       },
       "era": {
-        "rank": 187,
+        "rank": 235,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 52,
+      "hi": 57
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://trevornoah.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Accent-hopping with total control \u2014 seven languages of setup, one punchline. The mimicry earns the political point before the point arrives."
+  },
+  "known_bits": [
+    {
+      "title": "Accents as arguments",
+      "why_it_works": "Performs world leaders and cab drivers in their own cadences; the impression IS the analysis. You laugh at the accuracy, then realize you agreed with the politics.",
+      "theory_links": [
+        "mistake_identity",
+        "double_interpret"
+      ]
+    },
+    {
+      "title": "Outsider's America",
+      "why_it_works": "South African lens on US absurdity (guns, race, fast food) \u2014 the foreigner's obvious question nobody local can answer. Naivety as scalpel.",
+      "theory_links": [
+        "split_knowledge",
+        "juxtapose"
+      ]
+    }
+  ]
 }

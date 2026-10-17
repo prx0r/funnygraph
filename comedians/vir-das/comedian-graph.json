@@ -277,15 +277,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 90.0,
-    "legacy_era": 91.0,
+    "legacy": 77.0,
+    "legacy_era": 88.5,
     "audience": 85.0,
     "popularity": 64.1,
     "theory": 25.0,
     "heat": null,
     "gap_value": -0.209,
     "overrated": "underrated",
-    "canon_lag": -0.05
+    "canon_lag": 0.08
   },
   "tier": "king",
   "region": "india",
@@ -331,24 +331,24 @@
     ]
   },
   "rating": {
-    "headline": 5.1,
+    "headline": 0.9,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 94,
-        "pct": 5.1,
+        "rank": 112,
+        "pct": 0.9,
         "sweep": [
-          94,
-          94
+          112,
+          112
         ]
       },
       "consensus": {
-        "rank": 22,
+        "rank": 69,
         "ref": true
       },
       "canon": {
-        "rank": 206,
+        "rank": 139,
         "ref": true
       },
       "peoples": {
@@ -357,15 +357,24 @@
         "ref": true
       },
       "era": {
-        "rank": 20,
+        "rank": 35,
         "ref": true
       }
     },
     "interval": {
-      "lo": 94,
-      "hi": 94
+      "lo": 112,
+      "hi": 112
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "International Emmy Award (Best Comedy)",
+        "year": 2023,
+        "source": "curated-press: iemmys.tv/The Hindu"
+      }
+    ]
   }
 }

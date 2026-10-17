@@ -222,15 +222,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 43.1,
-    "legacy_era": 66.3,
-    "audience": null,
+    "legacy": 68.5,
+    "legacy_era": 89.5,
+    "audience": 60.0,
     "popularity": null,
     "theory": 25.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": null
+    "canon_lag": -0.085
   },
   "tier": "king",
   "region": "us",
@@ -279,46 +279,57 @@
     }
   ],
   "rating": {
-    "headline": 18.4,
+    "headline": 12.5,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 81,
-        "pct": 18.4,
+        "rank": 99,
+        "pct": 12.5,
         "sweep": [
-          81,
-          81
+          99,
+          99
         ]
       },
       "consensus": {
-        "rank": 121,
+        "rank": 94,
         "ref": true
       },
       "canon": {
-        "rank": 79,
+        "rank": 182,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 28,
+        "wr": 7.444,
         "ref": true
       },
       "era": {
-        "rank": 72,
+        "rank": 32,
         "ref": true
       }
     },
     "interval": {
-      "lo": 81,
-      "hi": 81
+      "lo": 99,
+      "hi": 99
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://chrisgeth.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "specials_rated": [
+    {
+      "special": "Chris Gethard: Career Suicide",
+      "year": 2017,
+      "imdb_id": "tt6794460",
+      "imdb_rating": 7.4,
+      "imdb_votes": 641,
+      "source": "critic-list:paste-2017",
+      "standout": false
+    }
+  ]
 }

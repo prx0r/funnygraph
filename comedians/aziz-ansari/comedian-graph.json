@@ -310,7 +310,8 @@
         "award": "Primetime Emmy Award for Outstanding Writing for a Comedy Series",
         "year": 2017
       }
-    ]
+    ],
+    "paste_2017": 33
   },
   "specials_rated": [
     {
@@ -338,15 +339,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 84.4,
-    "legacy_era": 12.8,
+    "legacy": 79.7,
+    "legacy_era": 79.0,
     "audience": 30.0,
     "popularity": 16.7,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.133,
     "overrated": "accurately rated",
-    "canon_lag": -0.544
+    "canon_lag": -0.497
   },
   "tier": "king",
   "region": "us",
@@ -396,41 +397,41 @@
     ]
   },
   "rating": {
-    "headline": 58.2,
+    "headline": 47.3,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 42,
-        "pct": 58.2,
+        "rank": 60,
+        "pct": 47.3,
         "sweep": [
-          37,
-          42
+          55,
+          60
         ]
       },
       "consensus": {
-        "rank": 34,
+        "rank": 61,
         "ref": true
       },
       "canon": {
-        "rank": 39,
+        "rank": 72,
         "ref": true
       },
       "peoples": {
-        "rank": 29,
+        "rank": 44,
         "wr": 7.103,
         "ref": true
       },
       "era": {
-        "rank": 185,
+        "rank": 63,
         "ref": true
       }
     },
     "interval": {
-      "lo": 37,
-      "hi": 42
+      "lo": 55,
+      "hi": 60
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

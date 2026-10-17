@@ -151,6 +151,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "neal-brennan-bit-01",
+      "title": "Neal Brennan: 'Depression as material science' \u2014 how the bit works",
+      "thesis": "Dissects his own depression on stage with writerly precision. The audience laughs at sentences they'd cry at in any other context \u2014 framing transmutes pain.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "neal-brennan-bit-02",
+      "title": "Neal Brennan: '3 Mics (the format bit)' \u2014 how the bit works",
+      "thesis": "One mic standup, one mic one-liners, one mic straight talk: the special's structure IS the thesis about performance vs honesty.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -290,15 +324,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 70.6,
-    "legacy_era": 20.4,
+    "legacy": 50.8,
+    "legacy_era": 17.3,
     "audience": 30.0,
     "popularity": 69.3,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.393,
     "overrated": "overrated",
-    "canon_lag": -0.406
+    "canon_lag": -0.208
   },
   "tier": "king",
   "region": "us",
@@ -339,38 +373,67 @@
     "awards": []
   },
   "rating": {
-    "headline": 48.4,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 58.0,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 48,
+        "pct": 58.0,
+        "sweep": [
+          41,
+          48
+        ]
       },
       "consensus": {
-        "rank": 63,
+        "rank": 146,
         "ref": true
       },
       "canon": {
-        "rank": 165,
+        "rank": 258,
         "ref": true
       },
       "peoples": {
-        "rank": 44,
+        "rank": 58,
         "wr": 7.103,
         "ref": true
       },
       "era": {
-        "rank": 169,
+        "rank": 245,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 41,
+      "hi": 48
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://nealbrennan.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Chappelle's Show co-creator doing solo autopsy: tight writing, therapy pacing. Jokes arrive like diagnoses \u2014 precise, unwelcome, correct."
+  },
+  "known_bits": [
+    {
+      "title": "Depression as material science",
+      "why_it_works": "Dissects his own depression on stage with writerly precision. The audience laughs at sentences they'd cry at in any other context \u2014 framing transmutes pain.",
+      "theory_links": [
+        "expose_self_blindness",
+        "reframe"
+      ]
+    },
+    {
+      "title": "3 Mics (the format bit)",
+      "why_it_works": "One mic standup, one mic one-liners, one mic straight talk: the special's structure IS the thesis about performance vs honesty.",
+      "theory_links": [
+        "meta",
+        "juxtapose"
+      ]
+    }
+  ]
 }

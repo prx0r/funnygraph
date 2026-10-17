@@ -127,6 +127,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "hannah-gadsby-bit-01",
+      "title": "Hannah Gadsby: 'Nanette (the anti-special)' \u2014 how the bit works",
+      "thesis": "Builds an hour of jokes, then refuses the release and tells the trauma straight. Whether you call it comedy or not, the structure weaponized every laugh that came before it.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "hannah-gadsby-bit-02",
+      "title": "Hannah Gadsby: 'Art-history takedowns' \u2014 how the bit works",
+      "thesis": "Art historian's eye on misogyny in the canon: lectures that detonate. Expertise as setup, fury as punchline.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -264,22 +298,22 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 55.5,
-    "legacy_era": 0.9,
+    "legacy": 34.9,
+    "legacy_era": 2.4,
     "audience": 30.0,
     "popularity": 60.5,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.305,
     "overrated": "overrated",
-    "canon_lag": -0.255
+    "canon_lag": -0.049
   },
   "tier": "king",
   "region": "australia",
   "continent": "oceania",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "trauma lecturer",
     "repertoire": {
       "observational": 1.0
     },
@@ -311,38 +345,67 @@
     "awards": []
   },
   "rating": {
-    "headline": 39.8,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 69.6,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 35,
+        "pct": 69.6,
+        "sweep": [
+          25,
+          35
+        ]
       },
       "consensus": {
-        "rank": 95,
+        "rank": 193,
         "ref": true
       },
       "canon": {
-        "rank": 116,
+        "rank": 216,
         "ref": true
       },
       "peoples": {
-        "rank": 75,
+        "rank": 89,
         "wr": 4.674,
         "ref": true
       },
       "era": {
-        "rank": 210,
+        "rank": 289,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 25,
+      "hi": 35
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.hannahgadsby.com.au/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Nanette structure: comedy that withdraws the laugh on purpose. The tension-release cycle gets broken deliberately \u2014 the absence of the punchline is the point."
+  },
+  "known_bits": [
+    {
+      "title": "Nanette (the anti-special)",
+      "why_it_works": "Builds an hour of jokes, then refuses the release and tells the trauma straight. Whether you call it comedy or not, the structure weaponized every laugh that came before it.",
+      "theory_links": [
+        "meta",
+        "subversion"
+      ]
+    },
+    {
+      "title": "Art-history takedowns",
+      "why_it_works": "Art historian's eye on misogyny in the canon: lectures that detonate. Expertise as setup, fury as punchline.",
+      "theory_links": [
+        "unmask",
+        "status_reversal"
+      ]
+    }
+  ]
 }

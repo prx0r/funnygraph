@@ -1,0 +1,77 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "lanessa-long",
+ "name": "Lanessa Long",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "venue-roster:on-the-mic"
+  ],
+  "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
+  "evidence": [
+   {
+    "roster": "https://www.onthemic.co.uk/comedians/?letter=L",
+    "venue": "on-the-mic",
+    "profile": "https://www.onthemic.co.uk/comedians_list/lanessa-long/"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "james-acaster",
+   "sim": 0.122
+  },
+  {
+   "comedian_id": "rodney-dangerfield",
+   "sim": 0.077
+  },
+  {
+   "comedian_id": "norm-macdonald",
+   "sim": 0.07
+  }
+ ],
+ "style_tags": {
+  "humor_type": "meta",
+  "theories": [
+   "rigidity",
+   "literalise",
+   "bisociation"
+  ],
+  "via": "james-acaster",
+  "sim": 0.122,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
+}

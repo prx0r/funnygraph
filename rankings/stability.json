@@ -1,24 +1,24 @@
 {
  "note": "Rank intervals across 72 regimes (60 weight-grid + 3 leave-one-leg-out + 8 WR-prior perturbations, Kemenization displacement measured separately). A position is a STABLE CLAIM iff width<=5.",
  "kemenization_displacement": {
-  "max_displacement": 19,
-  "mean_displacement": 0.645,
-  "moved": 56
+  "max_displacement": 22,
+  "mean_displacement": 1.803,
+  "moved": 118
  },
  "n_regimes": 71,
- "n_stable": 18,
+ "n_stable": 12,
  "rows": [
   {
    "comedian_id": "george-carlin",
    "name": "George Carlin",
    "default_rank": 1,
-   "median_rank": 1,
+   "median_rank": 2,
    "p5_rank": 1,
    "p95_rank": 2,
    "width": 1,
    "loo": {
     "no-critics": 1,
-    "no-audience": 1,
+    "no-audience": 2,
     "no-awards": 2
    },
    "stable": true
@@ -27,25 +27,70 @@
    "comedian_id": "richard-pryor",
    "name": "Richard Pryor",
    "default_rank": 2,
-   "median_rank": 2,
+   "median_rank": 1,
    "p5_rank": 1,
-   "p95_rank": 6,
-   "width": 5,
+   "p95_rank": 2,
+   "width": 1,
    "loo": {
-    "no-critics": 15,
-    "no-audience": 2,
+    "no-critics": 3,
+    "no-audience": 1,
     "no-awards": 1
    },
    "stable": true
   },
   {
+   "comedian_id": "chris-rock",
+   "name": "Chris Rock",
+   "default_rank": 3,
+   "median_rank": 3,
+   "p5_rank": 3,
+   "p95_rank": 4,
+   "width": 1,
+   "loo": {
+    "no-critics": 10,
+    "no-audience": 3,
+    "no-awards": 3
+   },
+   "stable": true
+  },
+  {
+   "comedian_id": "steve-martin",
+   "name": "Steve Martin",
+   "default_rank": 4,
+   "median_rank": 4,
+   "p5_rank": 4,
+   "p95_rank": 8,
+   "width": 4,
+   "loo": {
+    "no-critics": 28,
+    "no-audience": 5,
+    "no-awards": 4
+   },
+   "stable": true
+  },
+  {
+   "comedian_id": "robin-williams",
+   "name": "Robin Williams",
+   "default_rank": 5,
+   "median_rank": 6,
+   "p5_rank": 3,
+   "p95_rank": 11,
+   "width": 8,
+   "loo": {
+    "no-critics": 25,
+    "no-audience": 6,
+    "no-awards": 9
+   },
+   "stable": false
+  },
+  {
    "comedian_id": "dave-chappelle",
    "name": "Dave Chappelle",
-   "default_rank": 3,
+   "default_rank": 6,
    "median_rank": 6,
-   "p5_rank": 2,
-   "p95_rank": 9,
-   "width": 7,
+   "p5_rank": 4,
+   "p95_rank": 14,
+   "width": 10,
    "loo": {
     "no-critics": 2,
     "no-audience": 7,
@@ -54,75 +99,15 @@
    "stable": false
   },
   {
-   "comedian_id": "chris-rock",
-   "name": "Chris Rock",
-   "default_rank": 4,
-   "median_rank": 3,
-   "p5_rank": 3,
-   "p95_rank": 5,
-   "width": 2,
-   "loo": {
-    "no-critics": 8,
-    "no-audience": 4,
-    "no-awards": 3
-   },
-   "stable": true
-  },
-  {
-   "comedian_id": "jerry-seinfeld",
-   "name": "Jerry Seinfeld",
-   "default_rank": 5,
-   "median_rank": 5,
-   "p5_rank": 4,
-   "p95_rank": 8,
-   "width": 4,
-   "loo": {
-    "no-critics": 12,
-    "no-audience": 6,
-    "no-awards": 4
-   },
-   "stable": true
-  },
-  {
-   "comedian_id": "bill-hicks",
-   "name": "Bill Hicks",
-   "default_rank": 6,
-   "median_rank": 7,
-   "p5_rank": 5,
-   "p95_rank": 10,
-   "width": 5,
-   "loo": {
-    "no-critics": 9,
-    "no-audience": 9,
-    "no-awards": 5
-   },
-   "stable": true
-  },
-  {
-   "comedian_id": "robin-williams",
-   "name": "Robin Williams",
-   "default_rank": 7,
-   "median_rank": 6,
-   "p5_rank": 2,
-   "p95_rank": 11,
-   "width": 9,
-   "loo": {
-    "no-critics": 18,
-    "no-audience": 5,
-    "no-awards": 9
-   },
-   "stable": false
-  },
-  {
    "comedian_id": "eddie-murphy",
    "name": "Eddie Murphy",
-   "default_rank": 8,
-   "median_rank": 8,
-   "p5_rank": 4,
-   "p95_rank": 11,
+   "default_rank": 7,
+   "median_rank": 7,
+   "p5_rank": 5,
+   "p95_rank": 12,
    "width": 7,
    "loo": {
-    "no-critics": 3,
+    "no-critics": 4,
     "no-audience": 8,
     "no-awards": 8
    },
@@ -131,14 +116,29 @@
   {
    "comedian_id": "lenny-bruce",
    "name": "Lenny Bruce",
-   "default_rank": 9,
-   "median_rank": 7,
-   "p5_rank": 3,
-   "p95_rank": 17,
-   "width": 14,
+   "default_rank": 8,
+   "median_rank": 8,
+   "p5_rank": 4,
+   "p95_rank": 12,
+   "width": 8,
    "loo": {
-    "no-critics": 63,
-    "no-audience": 3,
+    "no-critics": 77,
+    "no-audience": 4,
+    "no-awards": 5
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bill-hicks",
+   "name": "Bill Hicks",
+   "default_rank": 9,
+   "median_rank": 9,
+   "p5_rank": 5,
+   "p95_rank": 14,
+   "width": 9,
+   "loo": {
+    "no-critics": 11,
+    "no-audience": 14,
     "no-awards": 6
    },
    "stable": false
@@ -149,282 +149,282 @@
    "default_rank": 10,
    "median_rank": 10,
    "p5_rank": 8,
-   "p95_rank": 13,
-   "width": 5,
+   "p95_rank": 20,
+   "width": 12,
    "loo": {
-    "no-critics": 6,
-    "no-audience": 13,
+    "no-critics": 7,
+    "no-audience": 18,
     "no-awards": 10
    },
-   "stable": true
+   "stable": false
   },
   {
-   "comedian_id": "eddie-izzard",
-   "name": "Eddie Izzard",
+   "comedian_id": "jerry-seinfeld",
+   "name": "Jerry Seinfeld",
    "default_rank": 11,
-   "median_rank": 12,
-   "p5_rank": 9,
-   "p95_rank": 14,
-   "width": 5,
+   "median_rank": 13,
+   "p5_rank": 10,
+   "p95_rank": 21,
+   "width": 11,
    "loo": {
-    "no-critics": 4,
-    "no-audience": 14,
+    "no-critics": 16,
+    "no-audience": 20,
     "no-awards": 11
    },
-   "stable": true
+   "stable": false
   },
   {
    "comedian_id": "joan-rivers",
    "name": "Joan Rivers",
    "default_rank": 12,
    "median_rank": 11,
-   "p5_rank": 8,
-   "p95_rank": 43,
-   "width": 35,
+   "p5_rank": 7,
+   "p95_rank": 29,
+   "width": 22,
    "loo": {
-    "no-critics": 79,
-    "no-audience": 10,
+    "no-critics": 94,
+    "no-audience": 9,
     "no-awards": 12
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bob-newhart",
+   "name": "Bob Newhart",
+   "default_rank": 13,
+   "median_rank": 12,
+   "p5_rank": 8,
+   "p95_rank": 30,
+   "width": 22,
+   "loo": {
+    "no-critics": 132,
+    "no-audience": 10,
+    "no-awards": 13
    },
    "stable": false
   },
   {
    "comedian_id": "steven-wright",
    "name": "Steven Wright",
-   "default_rank": 13,
-   "median_rank": 13,
-   "p5_rank": 10,
-   "p95_rank": 48,
-   "width": 38,
+   "default_rank": 14,
+   "median_rank": 14,
+   "p5_rank": 9,
+   "p95_rank": 31,
+   "width": 22,
    "loo": {
-    "no-critics": 197,
+    "no-critics": 278,
     "no-audience": 11,
-    "no-awards": 13
+    "no-awards": 14
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "andy-kaufman",
+   "name": "Andy Kaufman",
+   "default_rank": 15,
+   "median_rank": 15,
+   "p5_rank": 10,
+   "p95_rank": 33,
+   "width": 23,
+   "loo": {
+    "no-critics": 115,
+    "no-audience": 12,
+    "no-awards": 15
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mort-sahl",
+   "name": "Mort Sahl",
+   "default_rank": 16,
+   "median_rank": 16,
+   "p5_rank": 11,
+   "p95_rank": 34,
+   "width": 23,
+   "loo": {
+    "no-critics": 240,
+    "no-audience": 13,
+    "no-awards": 16
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "don-rickles",
+   "name": "Don Rickles",
+   "default_rank": 17,
+   "median_rank": 17,
+   "p5_rank": 15,
+   "p95_rank": 44,
+   "width": 29,
+   "loo": {
+    "no-critics": 163,
+    "no-audience": 15,
+    "no-awards": 17
    },
    "stable": false
   },
   {
    "comedian_id": "rodney-dangerfield",
    "name": "Rodney Dangerfield",
-   "default_rank": 14,
-   "median_rank": 14,
-   "p5_rank": 12,
-   "p95_rank": 51,
-   "width": 39,
+   "default_rank": 18,
+   "median_rank": 18,
+   "p5_rank": 16,
+   "p95_rank": 48,
+   "width": 32,
    "loo": {
-    "no-critics": 185,
-    "no-audience": 12,
-    "no-awards": 14
+    "no-critics": 264,
+    "no-audience": 16,
+    "no-awards": 18
    },
    "stable": false
   },
   {
-   "comedian_id": "bill-maher",
-   "name": "Bill Maher",
-   "default_rank": 15,
+   "comedian_id": "jonathan-winters",
+   "name": "Jonathan Winters",
+   "default_rank": 19,
    "median_rank": 19,
-   "p5_rank": 15,
-   "p95_rank": 62,
-   "width": 47,
+   "p5_rank": 17,
+   "p95_rank": 49,
+   "width": 32,
    "loo": {
-    "no-critics": 69,
-    "no-audience": 15,
+    "no-critics": 215,
+    "no-audience": 17,
+    "no-awards": 19
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "albert-brooks",
+   "name": "Albert Brooks",
+   "default_rank": 20,
+   "median_rank": 20,
+   "p5_rank": 18,
+   "p95_rank": 52,
+   "width": 34,
+   "loo": {
+    "no-critics": 109,
+    "no-audience": 19,
+    "no-awards": 20
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "redd-foxx",
+   "name": "Redd Foxx",
+   "default_rank": 21,
+   "median_rank": 21,
+   "p5_rank": 19,
+   "p95_rank": 53,
+   "width": 34,
+   "loo": {
+    "no-critics": 257,
+    "no-audience": 21,
     "no-awards": 21
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "robert-klein",
+   "name": "Robert Klein",
+   "default_rank": 22,
+   "median_rank": 22,
+   "p5_rank": 22,
+   "p95_rank": 57,
+   "width": 35,
+   "loo": {
+    "no-critics": 263,
+    "no-audience": 22,
+    "no-awards": 22
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "roseanne-barr",
+   "name": "Roseanne Barr",
+   "default_rank": 23,
+   "median_rank": 23,
+   "p5_rank": 23,
+   "p95_rank": 58,
+   "width": 35,
+   "loo": {
+    "no-critics": 268,
+    "no-audience": 23,
+    "no-awards": 23
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "garry-shandling",
+   "name": "Garry Shandling",
+   "default_rank": 24,
+   "median_rank": 24,
+   "p5_rank": 24,
+   "p95_rank": 63,
+   "width": 39,
+   "loo": {
+    "no-critics": 180,
+    "no-audience": 24,
+    "no-awards": 24
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "eddie-izzard",
+   "name": "Eddie Izzard",
+   "default_rank": 25,
+   "median_rank": 25,
+   "p5_rank": 11,
+   "p95_rank": 56,
+   "width": 45,
+   "loo": {
+    "no-critics": 5,
+    "no-audience": 46,
+    "no-awards": 25
    },
    "stable": false
   },
   {
    "comedian_id": "bill-burr",
    "name": "Bill Burr",
-   "default_rank": 16,
-   "median_rank": 15,
-   "p5_rank": 11,
-   "p95_rank": 20,
-   "width": 9,
-   "loo": {
-    "no-critics": 13,
-    "no-audience": 20,
-    "no-awards": 15
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "jeff-foxworthy",
-   "name": "Jeff Foxworthy",
-   "default_rank": 17,
-   "median_rank": 19,
-   "p5_rank": 16,
-   "p95_rank": 29,
-   "width": 13,
-   "loo": {
-    "no-critics": 30,
-    "no-audience": 26,
-    "no-awards": 16
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "kevin-hart",
-   "name": "Kevin Hart",
-   "default_rank": 18,
-   "median_rank": 18,
-   "p5_rank": 16,
-   "p95_rank": 43,
-   "width": 27,
-   "loo": {
-    "no-critics": 53,
-    "no-audience": 18,
-    "no-awards": 17
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "bo-burnham",
-   "name": "Bo Burnham",
-   "default_rank": 19,
-   "median_rank": 21,
-   "p5_rank": 12,
-   "p95_rank": 57,
-   "width": 45,
-   "loo": {
-    "no-critics": 5,
-    "no-audience": 45,
-    "no-awards": 19
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "john-mulaney",
-   "name": "John Mulaney",
-   "default_rank": 20,
-   "median_rank": 22,
+   "default_rank": 26,
+   "median_rank": 26,
    "p5_rank": 13,
-   "p95_rank": 136,
-   "width": 123,
+   "p95_rank": 59,
+   "width": 46,
    "loo": {
-    "no-critics": 7,
-    "no-audience": 40,
+    "no-critics": 14,
+    "no-audience": 59,
+    "no-awards": 26
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mitch-hedberg",
+   "name": "Mitch Hedberg",
+   "default_rank": 27,
+   "median_rank": 27,
+   "p5_rank": 25,
+   "p95_rank": 73,
+   "width": 48,
+   "loo": {
+    "no-critics": 102,
+    "no-audience": 25,
     "no-awards": 27
    },
    "stable": false
   },
   {
-   "comedian_id": "ray-romano",
-   "name": "Ray Romano",
-   "default_rank": 21,
-   "median_rank": 20,
-   "p5_rank": 15,
-   "p95_rank": 66,
-   "width": 51,
-   "loo": {
-    "no-critics": 182,
-    "no-audience": 16,
-    "no-awards": 20
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "vir-das",
-   "name": "Vir Das",
-   "default_rank": 22,
-   "median_rank": 27,
-   "p5_rank": 14,
-   "p95_rank": 206,
-   "width": 192,
-   "loo": {
-    "no-critics": 10,
-    "no-audience": 206,
-    "no-awards": 22
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "billy-connolly",
-   "name": "Billy Connolly",
-   "default_rank": 23,
-   "median_rank": 23,
-   "p5_rank": 17,
-   "p95_rank": 69,
-   "width": 52,
-   "loo": {
-    "no-critics": 97,
-    "no-audience": 17,
-    "no-awards": 23
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "stewart-lee",
-   "name": "Stewart Lee",
-   "default_rank": 24,
-   "median_rank": 29,
-   "p5_rank": 15,
-   "p95_rank": 193,
-   "width": 178,
-   "loo": {
-    "no-critics": 11,
-    "no-audience": 193,
-    "no-awards": 24
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "norm-macdonald",
-   "name": "Norm Macdonald",
-   "default_rank": 25,
-   "median_rank": 22,
-   "p5_rank": 17,
-   "p95_rank": 39,
-   "width": 22,
-   "loo": {
-    "no-critics": 20,
-    "no-audience": 36,
-    "no-awards": 18
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "patton-oswalt",
-   "name": "Patton Oswalt",
-   "default_rank": 26,
-   "median_rank": 28,
-   "p5_rank": 20,
-   "p95_rank": 39,
-   "width": 19,
-   "loo": {
-    "no-critics": 39,
-    "no-audience": 29,
-    "no-awards": 30
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "adam-sandler",
-   "name": "Adam Sandler",
-   "default_rank": 27,
-   "median_rank": 25,
-   "p5_rank": 18,
-   "p95_rank": 67,
-   "width": 49,
-   "loo": {
-    "no-critics": 73,
-    "no-audience": 19,
-    "no-awards": 32
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "ali-wong",
-   "name": "Ali Wong",
+   "comedian_id": "phyllis-diller",
+   "name": "Phyllis Diller",
    "default_rank": 28,
-   "median_rank": 33,
-   "p5_rank": 16,
-   "p95_rank": 45,
-   "width": 29,
+   "median_rank": 28,
+   "p5_rank": 26,
+   "p95_rank": 76,
+   "width": 50,
    "loo": {
-    "no-critics": 14,
-    "no-audience": 44,
-    "no-awards": 31
+    "no-critics": 254,
+    "no-audience": 26,
+    "no-awards": 28
    },
    "stable": false
   },
@@ -432,2744 +432,4004 @@
    "comedian_id": "dick-gregory",
    "name": "Dick Gregory",
    "default_rank": 29,
-   "median_rank": 26,
-   "p5_rank": 19,
-   "p95_rank": 71,
+   "median_rank": 29,
+   "p5_rank": 27,
+   "p95_rank": 79,
    "width": 52,
    "loo": {
-    "no-critics": 123,
-    "no-audience": 21,
-    "no-awards": 26
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "tom-segura",
-   "name": "Tom Segura",
-   "default_rank": 30,
-   "median_rank": 33,
-   "p5_rank": 18,
-   "p95_rank": 202,
-   "width": 184,
-   "loo": {
-    "no-critics": 16,
-    "no-audience": 202,
-    "no-awards": 28
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "nate-bargatze",
-   "name": "Nate Bargatze",
-   "default_rank": 31,
-   "median_rank": 37,
-   "p5_rank": 20,
-   "p95_rank": 164,
-   "width": 144,
-   "loo": {
-    "no-critics": 17,
-    "no-audience": 164,
+    "no-critics": 161,
+    "no-audience": 27,
     "no-awards": 29
    },
    "stable": false
   },
   {
-   "comedian_id": "ron-white",
-   "name": "Ron White",
-   "default_rank": 32,
-   "median_rank": 40,
-   "p5_rank": 23,
-   "p95_rank": 178,
-   "width": 155,
+   "comedian_id": "peter-kay",
+   "name": "Peter Kay",
+   "default_rank": 30,
+   "median_rank": 31,
+   "p5_rank": 28,
+   "p95_rank": 82,
+   "width": 54,
    "loo": {
-    "no-critics": 21,
-    "no-audience": 178,
-    "no-awards": 34
+    "no-critics": 252,
+    "no-audience": 28,
+    "no-awards": 31
    },
    "stable": false
   },
   {
-   "comedian_id": "russell-peters",
-   "name": "Russell Peters",
-   "default_rank": 33,
-   "median_rank": 29,
-   "p5_rank": 23,
-   "p95_rank": 40,
-   "width": 17,
-   "loo": {
-    "no-critics": 27,
-    "no-audience": 38,
-    "no-awards": 25
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "aziz-ansari",
-   "name": "Aziz Ansari",
-   "default_rank": 34,
-   "median_rank": 35,
-   "p5_rank": 25,
-   "p95_rank": 40,
-   "width": 15,
-   "loo": {
-    "no-critics": 25,
-    "no-audience": 39,
-    "no-awards": 37
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "demetri-martin",
-   "name": "Demetri Martin",
-   "default_rank": 35,
-   "median_rank": 40,
-   "p5_rank": 22,
+   "comedian_id": "harry-hill",
+   "name": "Harry Hill",
+   "default_rank": 31,
+   "median_rank": 32,
+   "p5_rank": 29,
    "p95_rank": 84,
-   "width": 62,
+   "width": 55,
    "loo": {
-    "no-critics": 19,
-    "no-audience": 48,
-    "no-awards": 36
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "taylor-tomlinson",
-   "name": "Taylor Tomlinson",
-   "default_rank": 36,
-   "median_rank": 43,
-   "p5_rank": 25,
-   "p95_rank": 195,
-   "width": 170,
-   "loo": {
-    "no-critics": 23,
-    "no-audience": 195,
-    "no-awards": 38
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "katt-williams",
-   "name": "Katt Williams",
-   "default_rank": 37,
-   "median_rank": 42,
-   "p5_rank": 25,
-   "p95_rank": 141,
-   "width": 116,
-   "loo": {
-    "no-critics": 22,
-    "no-audience": 47,
-    "no-awards": 42
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "mitch-hedberg",
-   "name": "Mitch Hedberg",
-   "default_rank": 38,
-   "median_rank": 30,
-   "p5_rank": 22,
-   "p95_rank": 73,
-   "width": 51,
-   "loo": {
-    "no-critics": 83,
-    "no-audience": 22,
+    "no-critics": 192,
+    "no-audience": 29,
     "no-awards": 33
    },
    "stable": false
   },
   {
-   "comedian_id": "lewis-black",
-   "name": "Lewis Black",
-   "default_rank": 39,
-   "median_rank": 35,
-   "p5_rank": 23,
-   "p95_rank": 77,
-   "width": 54,
+   "comedian_id": "bill-bailey",
+   "name": "Bill Bailey",
+   "default_rank": 32,
+   "median_rank": 33,
+   "p5_rank": 30,
+   "p95_rank": 85,
+   "width": 55,
    "loo": {
-    "no-critics": 166,
-    "no-audience": 23,
-    "no-awards": 39
+    "no-critics": 129,
+    "no-audience": 30,
+    "no-awards": 34
    },
    "stable": false
   },
   {
-   "comedian_id": "dylan-moran",
-   "name": "Dylan Moran",
-   "default_rank": 40,
-   "median_rank": 43,
-   "p5_rank": 27,
-   "p95_rank": 98,
-   "width": 71,
+   "comedian_id": "victoria-wood",
+   "name": "Victoria Wood",
+   "default_rank": 33,
+   "median_rank": 34,
+   "p5_rank": 31,
+   "p95_rank": 88,
+   "width": 57,
    "loo": {
-    "no-critics": 24,
-    "no-audience": 98,
+    "no-critics": 290,
+    "no-audience": 31,
+    "no-awards": 35
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "moms-mabley",
+   "name": "Moms Mabley",
+   "default_rank": 34,
+   "median_rank": 35,
+   "p5_rank": 32,
+   "p95_rank": 90,
+   "width": 58,
+   "loo": {
+    "no-critics": 239,
+    "no-audience": 32,
+    "no-awards": 36
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jack-dee",
+   "name": "Jack Dee",
+   "default_rank": 35,
+   "median_rank": 37,
+   "p5_rank": 33,
+   "p95_rank": 91,
+   "width": 58,
+   "loo": {
+    "no-critics": 197,
+    "no-audience": 33,
+    "no-awards": 37
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "woody-allen",
+   "name": "Woody Allen",
+   "default_rank": 36,
+   "median_rank": 38,
+   "p5_rank": 34,
+   "p95_rank": 93,
+   "width": 59,
+   "loo": {
+    "no-critics": 294,
+    "no-audience": 34,
+    "no-awards": 38
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jerry-sadowitz",
+   "name": "Jerry Sadowitz",
+   "default_rank": 37,
+   "median_rank": 39,
+   "p5_rank": 35,
+   "p95_rank": 94,
+   "width": 59,
+   "loo": {
+    "no-critics": 204,
+    "no-audience": 35,
     "no-awards": 40
    },
    "stable": false
   },
   {
-   "comedian_id": "pablo-francisco",
-   "name": "Pablo Francisco",
-   "default_rank": 41,
-   "median_rank": 45,
-   "p5_rank": 29,
-   "p95_rank": 168,
-   "width": 139,
+   "comedian_id": "al-murray",
+   "name": "Al Murray",
+   "default_rank": 38,
+   "median_rank": 42,
+   "p5_rank": 36,
+   "p95_rank": 96,
+   "width": 60,
    "loo": {
-    "no-critics": 26,
-    "no-audience": 168,
+    "no-critics": 106,
+    "no-audience": 36,
+    "no-awards": 42
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "alexei-sayle",
+   "name": "Alexei Sayle",
+   "default_rank": 39,
+   "median_rank": 43,
+   "p5_rank": 37,
+   "p95_rank": 97,
+   "width": 60,
+   "loo": {
+    "no-critics": 110,
+    "no-audience": 37,
     "no-awards": 43
    },
    "stable": false
   },
   {
-   "comedian_id": "bert-kreischer",
-   "name": "Bert Kreischer",
-   "default_rank": 42,
-   "median_rank": 47,
-   "p5_rank": 30,
-   "p95_rank": 62,
-   "width": 32,
+   "comedian_id": "les-dawson",
+   "name": "Les Dawson",
+   "default_rank": 40,
+   "median_rank": 44,
+   "p5_rank": 38,
+   "p95_rank": 99,
+   "width": 61,
    "loo": {
-    "no-critics": 28,
-    "no-audience": 62,
+    "no-critics": 228,
+    "no-audience": 38,
     "no-awards": 44
    },
    "stable": false
   },
   {
-   "comedian_id": "michael-che",
-   "name": "Michael Che",
-   "default_rank": 43,
-   "median_rank": 48,
-   "p5_rank": 33,
-   "p95_rank": 155,
-   "width": 122,
+   "comedian_id": "jasper-carrott",
+   "name": "Jasper Carrott",
+   "default_rank": 41,
+   "median_rank": 46,
+   "p5_rank": 39,
+   "p95_rank": 100,
+   "width": 61,
    "loo": {
-    "no-critics": 29,
-    "no-audience": 155,
-    "no-awards": 45
+    "no-critics": 200,
+    "no-audience": 39,
+    "no-awards": 46
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "george-burns",
+   "name": "George Burns",
+   "default_rank": 42,
+   "median_rank": 47,
+   "p5_rank": 40,
+   "p95_rank": 101,
+   "width": 61,
+   "loo": {
+    "no-critics": 183,
+    "no-audience": 40,
+    "no-awards": 47
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "default_rank": 43,
+   "median_rank": 32,
+   "p5_rank": 15,
+   "p95_rank": 76,
+   "width": 61,
+   "loo": {
+    "no-critics": 15,
+    "no-audience": 68,
+    "no-awards": 32
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ben-elton",
+   "name": "Ben Elton",
+   "default_rank": 44,
+   "median_rank": 48,
+   "p5_rank": 41,
+   "p95_rank": 103,
+   "width": 62,
+   "loo": {
+    "no-critics": 125,
+    "no-audience": 41,
+    "no-awards": 50
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "norm-macdonald",
+   "name": "Norm Macdonald",
+   "default_rank": 45,
+   "median_rank": 37,
+   "p5_rank": 22,
+   "p95_rank": 74,
+   "width": 52,
+   "loo": {
+    "no-critics": 27,
+    "no-audience": 72,
+    "no-awards": 30
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jo-brand",
+   "name": "Jo Brand",
+   "default_rank": 46,
+   "median_rank": 49,
+   "p5_rank": 42,
+   "p95_rank": 104,
+   "width": 62,
+   "loo": {
+    "no-critics": 209,
+    "no-audience": 42,
+    "no-awards": 51
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bernie-mac",
+   "name": "Bernie Mac",
+   "default_rank": 47,
+   "median_rank": 50,
+   "p5_rank": 43,
+   "p95_rank": 105,
+   "width": 62,
+   "loo": {
+    "no-critics": 127,
+    "no-audience": 43,
+    "no-awards": 52
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "lee-evans",
+   "name": "Lee Evans",
+   "default_rank": 48,
+   "median_rank": 51,
+   "p5_rank": 44,
+   "p95_rank": 106,
+   "width": 62,
+   "loo": {
+    "no-critics": 225,
+    "no-audience": 44,
+    "no-awards": 53
    },
    "stable": false
   },
   {
    "comedian_id": "sarah-silverman",
    "name": "Sarah Silverman",
-   "default_rank": 44,
-   "median_rank": 33,
-   "p5_rank": 18,
-   "p95_rank": 54,
-   "width": 36,
+   "default_rank": 49,
+   "median_rank": 43,
+   "p5_rank": 29,
+   "p95_rank": 62,
+   "width": 33,
    "loo": {
-    "no-critics": 58,
-    "no-audience": 30,
-    "no-awards": 35
+    "no-critics": 72,
+    "no-audience": 49,
+    "no-awards": 39
    },
    "stable": false
   },
   {
-   "comedian_id": "d-l-hughley",
-   "name": "D L Hughley",
-   "default_rank": 45,
-   "median_rank": 37,
-   "p5_rank": 24,
-   "p95_rank": 70,
-   "width": 46,
+   "comedian_id": "steve-coogan",
+   "name": "Steve Coogan",
+   "default_rank": 50,
+   "median_rank": 54,
+   "p5_rank": 45,
+   "p95_rank": 107,
+   "width": 62,
    "loo": {
-    "no-critics": 80,
-    "no-audience": 24,
+    "no-critics": 277,
+    "no-audience": 45,
+    "no-awards": 54
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bernard-manning",
+   "name": "Bernard Manning",
+   "default_rank": 51,
+   "median_rank": 55,
+   "p5_rank": 46,
+   "p95_rank": 108,
+   "width": 62,
+   "loo": {
+    "no-critics": 126,
+    "no-audience": 47,
+    "no-awards": 55
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "lewis-black",
+   "name": "Lewis Black",
+   "default_rank": 52,
+   "median_rank": 45,
+   "p5_rank": 20,
+   "p95_rank": 89,
+   "width": 69,
+   "loo": {
+    "no-critics": 21,
+    "no-audience": 88,
     "no-awards": 41
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bob-monkhouse",
+   "name": "Bob Monkhouse",
+   "default_rank": 53,
+   "median_rank": 57,
+   "p5_rank": 48,
+   "p95_rank": 109,
+   "width": 61,
+   "loo": {
+    "no-critics": 131,
+    "no-audience": 50,
+    "no-awards": 58
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "roy-chubby-brown",
+   "name": "Roy Chubby Brown",
+   "default_rank": 54,
+   "median_rank": 59,
+   "p5_rank": 49,
+   "p95_rank": 110,
+   "width": 61,
+   "loo": {
+    "no-critics": 269,
+    "no-audience": 51,
+    "no-awards": 59
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "david-baddiel",
+   "name": "David Baddiel",
+   "default_rank": 55,
+   "median_rank": 60,
+   "p5_rank": 50,
+   "p95_rank": 112,
+   "width": 62,
+   "loo": {
+    "no-critics": 158,
+    "no-audience": 52,
+    "no-awards": 60
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kevin-hart",
+   "name": "Kevin Hart",
+   "default_rank": 56,
+   "median_rank": 45,
+   "p5_rank": 30,
+   "p95_rank": 59,
+   "width": 29,
+   "loo": {
+    "no-critics": 66,
+    "no-audience": 48,
+    "no-awards": 45
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "whoopi-goldberg",
+   "name": "Whoopi Goldberg",
+   "default_rank": 57,
+   "median_rank": 53,
+   "p5_rank": 20,
+   "p95_rank": 103,
+   "width": 83,
+   "loo": {
+    "no-critics": 20,
+    "no-audience": 100,
+    "no-awards": 48
    },
    "stable": false
   },
   {
    "comedian_id": "colin-quinn",
    "name": "Colin Quinn",
-   "default_rank": 46,
-   "median_rank": 45,
-   "p5_rank": 25,
-   "p95_rank": 80,
-   "width": 55,
+   "default_rank": 58,
+   "median_rank": 54,
+   "p5_rank": 24,
+   "p95_rank": 99,
+   "width": 75,
    "loo": {
-    "no-critics": 114,
-    "no-audience": 25,
-    "no-awards": 47
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "brian-regan",
-   "name": "Brian Regan",
-   "default_rank": 47,
-   "median_rank": 50,
-   "p5_rank": 35,
-   "p95_rank": 68,
-   "width": 33,
-   "loo": {
-    "no-critics": 31,
-    "no-audience": 68,
-    "no-awards": 48
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "catherine-cohen",
-   "name": "Catherine Cohen",
-   "default_rank": 48,
-   "median_rank": 51,
-   "p5_rank": 36,
-   "p95_rank": 75,
-   "width": 39,
-   "loo": {
-    "no-critics": 32,
-    "no-audience": 75,
+    "no-critics": 24,
+    "no-audience": 96,
     "no-awards": 49
    },
    "stable": false
   },
   {
-   "comedian_id": "chelsea-handler",
-   "name": "Chelsea Handler",
-   "default_rank": 49,
-   "median_rank": 53,
-   "p5_rank": 37,
-   "p95_rank": 76,
-   "width": 39,
-   "loo": {
-    "no-critics": 34,
-    "no-audience": 76,
-    "no-awards": 50
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "deon-cole",
-   "name": "Deon Cole",
-   "default_rank": 50,
-   "median_rank": 54,
-   "p5_rank": 38,
-   "p95_rank": 90,
-   "width": 52,
-   "loo": {
-    "no-critics": 35,
-    "no-audience": 90,
-    "no-awards": 51
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "drew-michael",
-   "name": "Drew Michael",
-   "default_rank": 51,
-   "median_rank": 55,
-   "p5_rank": 39,
-   "p95_rank": 96,
-   "width": 57,
-   "loo": {
-    "no-critics": 37,
-    "no-audience": 96,
-    "no-awards": 52
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "fortune-feimster",
-   "name": "Fortune Feimster",
-   "default_rank": 52,
-   "median_rank": 57,
-   "p5_rank": 40,
-   "p95_rank": 106,
-   "width": 66,
-   "loo": {
-    "no-critics": 38,
-    "no-audience": 106,
-    "no-awards": 53
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "jack-whitehall",
-   "name": "Jack Whitehall",
-   "default_rank": 53,
-   "median_rank": 58,
-   "p5_rank": 42,
-   "p95_rank": 125,
-   "width": 83,
-   "loo": {
-    "no-critics": 40,
-    "no-audience": 125,
-    "no-awards": 54
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "jerrod-carmichael",
-   "name": "Jerrod Carmichael",
-   "default_rank": 54,
-   "median_rank": 49,
-   "p5_rank": 36,
-   "p95_rank": 126,
-   "width": 90,
-   "loo": {
-    "no-critics": 33,
-    "no-audience": 46,
-    "no-awards": 55
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "donald-glover",
-   "name": "Donald Glover",
-   "default_rank": 55,
-   "median_rank": 49,
-   "p5_rank": 16,
-   "p95_rank": 88,
-   "width": 72,
-   "loo": {
-    "no-critics": 36,
-    "no-audience": 32,
-    "no-awards": 85
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "wanda-sykes",
-   "name": "Wanda Sykes",
-   "default_rank": 56,
-   "median_rank": 52,
-   "p5_rank": 27,
-   "p95_rank": 82,
-   "width": 55,
-   "loo": {
-    "no-critics": 208,
-    "no-audience": 27,
-    "no-awards": 56
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "jim-gaffigan",
-   "name": "Jim Gaffigan",
-   "default_rank": 57,
-   "median_rank": 59,
-   "p5_rank": 44,
-   "p95_rank": 131,
-   "width": 87,
-   "loo": {
-    "no-critics": 41,
-    "no-audience": 131,
-    "no-awards": 57
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "joe-list",
-   "name": "Joe List",
-   "default_rank": 58,
-   "median_rank": 61,
-   "p5_rank": 45,
-   "p95_rank": 136,
-   "width": 91,
-   "loo": {
-    "no-critics": 42,
-    "no-audience": 136,
-    "no-awards": 59
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "kate-berlant",
-   "name": "Kate Berlant",
+   "comedian_id": "john-mulaney",
+   "name": "John Mulaney",
    "default_rank": 59,
-   "median_rank": 62,
-   "p5_rank": 46,
-   "p95_rank": 140,
-   "width": 94,
+   "median_rank": 59,
+   "p5_rank": 15,
+   "p95_rank": 122,
+   "width": 107,
    "loo": {
-    "no-critics": 43,
-    "no-audience": 140,
-    "no-awards": 60
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "mike-epps",
-   "name": "Mike Epps",
-   "default_rank": 60,
-   "median_rank": 63,
-   "p5_rank": 47,
-   "p95_rank": 159,
-   "width": 112,
-   "loo": {
-    "no-critics": 44,
-    "no-audience": 159,
-    "no-awards": 61
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "mo-amer",
-   "name": "Mo Amer",
-   "default_rank": 61,
-   "median_rank": 64,
-   "p5_rank": 48,
-   "p95_rank": 160,
-   "width": 112,
-   "loo": {
-    "no-critics": 45,
-    "no-audience": 160,
-    "no-awards": 62
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "moses-storm",
-   "name": "Moses Storm",
-   "default_rank": 62,
-   "median_rank": 65,
-   "p5_rank": 49,
-   "p95_rank": 161,
-   "width": 112,
-   "loo": {
-    "no-critics": 46,
-    "no-audience": 161,
-    "no-awards": 63
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "neal-brennan",
-   "name": "Neal Brennan",
-   "default_rank": 63,
-   "median_rank": 67,
-   "p5_rank": 51,
-   "p95_rank": 165,
-   "width": 114,
-   "loo": {
-    "no-critics": 47,
-    "no-audience": 165,
-    "no-awards": 64
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "phil-wang",
-   "name": "Phil Wang",
-   "default_rank": 64,
-   "median_rank": 68,
-   "p5_rank": 53,
-   "p95_rank": 172,
-   "width": 119,
-   "loo": {
-    "no-critics": 48,
-    "no-audience": 172,
+    "no-critics": 8,
+    "no-audience": 111,
     "no-awards": 65
    },
    "stable": false
   },
   {
-   "comedian_id": "eddie-griffin",
-   "name": "Eddie Griffin",
-   "default_rank": 65,
-   "median_rank": 43,
-   "p5_rank": 28,
-   "p95_rank": 65,
-   "width": 37,
+   "comedian_id": "ray-romano",
+   "name": "Ray Romano",
+   "default_rank": 60,
+   "median_rank": 63,
+   "p5_rank": 39,
+   "p95_rank": 99,
+   "width": 60,
    "loo": {
-    "no-critics": 68,
-    "no-audience": 28,
-    "no-awards": 46
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "patrice-o-neal",
-   "name": "Patrice O Neal",
-   "default_rank": 66,
-   "median_rank": 55,
-   "p5_rank": 30,
-   "p95_rank": 76,
-   "width": 46,
-   "loo": {
-    "no-critics": 74,
-    "no-audience": 31,
-    "no-awards": 58
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "amy-schumer",
-   "name": "Amy Schumer",
-   "default_rank": 67,
-   "median_rank": 61,
-   "p5_rank": 29,
-   "p95_rank": 81,
-   "width": 52,
-   "loo": {
-    "no-critics": 67,
-    "no-audience": 33,
-    "no-awards": 76
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "sam-jay",
-   "name": "Sam Jay",
-   "default_rank": 68,
-   "median_rank": 69,
-   "p5_rank": 54,
-   "p95_rank": 183,
-   "width": 129,
-   "loo": {
-    "no-critics": 49,
-    "no-audience": 183,
-    "no-awards": 66
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "sam-morril",
-   "name": "Sam Morril",
-   "default_rank": 69,
-   "median_rank": 70,
-   "p5_rank": 56,
-   "p95_rank": 184,
-   "width": 128,
-   "loo": {
-    "no-critics": 50,
-    "no-audience": 184,
-    "no-awards": 67
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "sarah-cooper",
-   "name": "Sarah Cooper",
-   "default_rank": 70,
-   "median_rank": 71,
-   "p5_rank": 57,
-   "p95_rank": 187,
-   "width": 130,
-   "loo": {
-    "no-critics": 51,
-    "no-audience": 187,
-    "no-awards": 68
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "cedric-the-entertainer",
-   "name": "Cedric The Entertainer",
-   "default_rank": 71,
-   "median_rank": 67,
-   "p5_rank": 32,
-   "p95_rank": 85,
-   "width": 53,
-   "loo": {
-    "no-critics": 108,
-    "no-audience": 34,
-    "no-awards": 69
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "tom-papa",
-   "name": "Tom Papa",
-   "default_rank": 72,
-   "median_rank": 73,
-   "p5_rank": 58,
-   "p95_rank": 200,
-   "width": 142,
-   "loo": {
-    "no-critics": 52,
-    "no-audience": 200,
-    "no-awards": 70
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "trevor-noah",
-   "name": "Trevor Noah",
-   "default_rank": 73,
-   "median_rank": 74,
-   "p5_rank": 59,
-   "p95_rank": 204,
-   "width": 145,
-   "loo": {
-    "no-critics": 54,
-    "no-audience": 204,
-    "no-awards": 71
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "whitney-cummings",
-   "name": "Whitney Cummings",
-   "default_rank": 74,
-   "median_rank": 75,
-   "p5_rank": 60,
-   "p95_rank": 209,
-   "width": 149,
-   "loo": {
-    "no-critics": 55,
-    "no-audience": 209,
-    "no-awards": 72
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "tig-notaro",
-   "name": "Tig Notaro",
-   "default_rank": 75,
-   "median_rank": 72,
-   "p5_rank": 33,
-   "p95_rank": 87,
-   "width": 54,
-   "loo": {
-    "no-critics": 201,
-    "no-audience": 35,
+    "no-critics": 82,
+    "no-audience": 53,
     "no-awards": 73
    },
    "stable": false
   },
   {
-   "comedian_id": "iliza-shlesinger",
-   "name": "Iliza Shlesinger",
-   "default_rank": 76,
-   "median_rank": 76,
-   "p5_rank": 47,
-   "p95_rank": 124,
-   "width": 77,
+   "comedian_id": "aziz-ansari",
+   "name": "Aziz Ansari",
+   "default_rank": 61,
+   "median_rank": 56,
+   "p5_rank": 35,
+   "p95_rank": 81,
+   "width": 46,
    "loo": {
-    "no-critics": 56,
-    "no-audience": 124,
+    "no-critics": 39,
+    "no-audience": 78,
+    "no-awards": 56
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bo-burnham",
+   "name": "Bo Burnham",
+   "default_rank": 62,
+   "median_rank": 70,
+   "p5_rank": 14,
+   "p95_rank": 150,
+   "width": 136,
+   "loo": {
+    "no-critics": 6,
+    "no-audience": 135,
+    "no-awards": 67
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "denis-leary",
+   "name": "Denis Leary",
+   "default_rank": 63,
+   "median_rank": 61,
+   "p5_rank": 51,
+   "p95_rank": 113,
+   "width": 62,
+   "loo": {
+    "no-critics": 159,
+    "no-audience": 54,
+    "no-awards": 61
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "lily-tomlin",
+   "name": "Lily Tomlin",
+   "default_rank": 64,
+   "median_rank": 64,
+   "p5_rank": 53,
+   "p95_rank": 114,
+   "width": 61,
+   "loo": {
+    "no-critics": 229,
+    "no-audience": 56,
+    "no-awards": 62
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mark-thomas",
+   "name": "Mark Thomas",
+   "default_rank": 65,
+   "median_rank": 65,
+   "p5_rank": 54,
+   "p95_rank": 115,
+   "width": 61,
+   "loo": {
+    "no-critics": 233,
+    "no-audience": 57,
+    "no-awards": 63
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "billy-connolly",
+   "name": "Billy Connolly",
+   "default_rank": 66,
+   "median_rank": 63,
+   "p5_rank": 54,
+   "p95_rank": 109,
+   "width": 55,
+   "loo": {
+    "no-critics": 97,
+    "no-audience": 55,
+    "no-awards": 64
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jim-davidson",
+   "name": "Jim Davidson",
+   "default_rank": 67,
+   "median_rank": 66,
+   "p5_rank": 57,
+   "p95_rank": 117,
+   "width": 60,
+   "loo": {
+    "no-critics": 207,
+    "no-audience": 58,
+    "no-awards": 66
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "andrew-dice-clay",
+   "name": "Andrew Dice Clay",
+   "default_rank": 68,
+   "median_rank": 68,
+   "p5_rank": 59,
+   "p95_rank": 117,
+   "width": 58,
+   "loo": {
+    "no-critics": 113,
+    "no-audience": 60,
+    "no-awards": 68
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "vir-das",
+   "name": "Vir Das",
+   "default_rank": 69,
+   "median_rank": 77,
+   "p5_rank": 17,
+   "p95_rank": 290,
+   "width": 273,
+   "loo": {
+    "no-critics": 9,
+    "no-audience": 143,
     "no-awards": 74
    },
    "stable": false
   },
   {
-   "comedian_id": "paul-mooney",
-   "name": "Paul Mooney",
-   "default_rank": 77,
-   "median_rank": 77,
-   "p5_rank": 61,
-   "p95_rank": 169,
-   "width": 108,
+   "comedian_id": "jenny-eclair",
+   "name": "Jenny Eclair",
+   "default_rank": 70,
+   "median_rank": 69,
+   "p5_rank": 60,
+   "p95_rank": 120,
+   "width": 60,
    "loo": {
-    "no-critics": 57,
-    "no-audience": 169,
-    "no-awards": 75
+    "no-critics": 203,
+    "no-audience": 61,
+    "no-awards": 69
    },
    "stable": false
   },
   {
-   "comedian_id": "hannibal-buress",
-   "name": "Hannibal Buress",
-   "default_rank": 78,
-   "median_rank": 78,
-   "p5_rank": 64,
-   "p95_rank": 117,
-   "width": 53,
+   "comedian_id": "stewart-lee",
+   "name": "Stewart Lee",
+   "default_rank": 71,
+   "median_rank": 81,
+   "p5_rank": 20,
+   "p95_rank": 278,
+   "width": 258,
    "loo": {
-    "no-critics": 59,
-    "no-audience": 117,
+    "no-critics": 12,
+    "no-audience": 152,
     "no-awards": 77
    },
    "stable": false
   },
   {
-   "comedian_id": "david-cross",
-   "name": "David Cross",
-   "default_rank": 79,
-   "median_rank": 77,
-   "p5_rank": 37,
-   "p95_rank": 87,
-   "width": 50,
-   "loo": {
-    "no-critics": 78,
-    "no-audience": 37,
-    "no-awards": 81
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "maria-bamford",
-   "name": "Maria Bamford",
-   "default_rank": 80,
-   "median_rank": 80,
-   "p5_rank": 68,
-   "p95_rank": 150,
-   "width": 82,
-   "loo": {
-    "no-critics": 60,
-    "no-audience": 150,
-    "no-awards": 78
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "jim-jefferies",
-   "name": "Jim Jefferies",
-   "default_rank": 81,
-   "median_rank": 81,
-   "p5_rank": 69,
-   "p95_rank": 132,
-   "width": 63,
-   "loo": {
-    "no-critics": 61,
-    "no-audience": 132,
-    "no-awards": 79
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "marc-maron",
-   "name": "Marc Maron",
-   "default_rank": 82,
-   "median_rank": 82,
-   "p5_rank": 71,
-   "p95_rank": 149,
-   "width": 78,
-   "loo": {
-    "no-critics": 62,
-    "no-audience": 149,
-    "no-awards": 80
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "gabriel-iglesias",
-   "name": "Gabriel Iglesias",
-   "default_rank": 83,
-   "median_rank": 84,
-   "p5_rank": 75,
-   "p95_rank": 109,
-   "width": 34,
-   "loo": {
-    "no-critics": 64,
-    "no-audience": 109,
-    "no-awards": 82
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "daniel-tosh",
-   "name": "Daniel Tosh",
-   "default_rank": 84,
-   "median_rank": 84,
-   "p5_rank": 78,
-   "p95_rank": 87,
-   "width": 9,
-   "loo": {
-    "no-critics": 65,
-    "no-audience": 86,
-    "no-awards": 83
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "reggie-watts",
-   "name": "Reggie Watts",
-   "default_rank": 85,
-   "median_rank": 84,
-   "p5_rank": 38,
-   "p95_rank": 92,
-   "width": 54,
-   "loo": {
-    "no-critics": 183,
-    "no-audience": 41,
-    "no-awards": 84
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "kevin-james",
-   "name": "Kevin James",
-   "default_rank": 86,
-   "median_rank": 85,
-   "p5_rank": 39,
-   "p95_rank": 93,
-   "width": 54,
-   "loo": {
-    "no-critics": 162,
-    "no-audience": 42,
-    "no-awards": 86
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "dana-carvey",
-   "name": "Dana Carvey",
-   "default_rank": 87,
-   "median_rank": 85,
-   "p5_rank": 41,
-   "p95_rank": 91,
-   "width": 50,
-   "loo": {
-    "no-critics": 77,
-    "no-audience": 43,
-    "no-awards": 90
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "doug-stanhope",
-   "name": "Doug Stanhope",
-   "default_rank": 88,
-   "median_rank": 88,
-   "p5_rank": 80,
-   "p95_rank": 95,
-   "width": 15,
-   "loo": {
-    "no-critics": 66,
-    "no-audience": 95,
-    "no-awards": 87
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "kathleen-madigan",
-   "name": "Kathleen Madigan",
-   "default_rank": 89,
-   "median_rank": 89,
-   "p5_rank": 82,
-   "p95_rank": 141,
-   "width": 59,
-   "loo": {
-    "no-critics": 70,
-    "no-audience": 141,
-    "no-awards": 88
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "kevin-bridges",
-   "name": "Kevin Bridges",
-   "default_rank": 90,
-   "median_rank": 90,
-   "p5_rank": 84,
-   "p95_rank": 144,
+   "comedian_id": "sean-hughes",
+   "name": "Sean Hughes",
+   "default_rank": 72,
+   "median_rank": 70,
+   "p5_rank": 61,
+   "p95_rank": 121,
    "width": 60,
    "loo": {
-    "no-critics": 71,
-    "no-audience": 144,
-    "no-awards": 89
+    "no-critics": 274,
+    "no-audience": 62,
+    "no-awards": 70
    },
    "stable": false
   },
   {
-   "comedian_id": "mike-birbiglia",
-   "name": "Mike Birbiglia",
-   "default_rank": 91,
-   "median_rank": 91,
-   "p5_rank": 86,
-   "p95_rank": 158,
-   "width": 72,
-   "loo": {
-    "no-critics": 72,
-    "no-audience": 158,
-    "no-awards": 91
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "ricky-gervais",
-   "name": "Ricky Gervais",
-   "default_rank": 92,
-   "median_rank": 92,
-   "p5_rank": 89,
-   "p95_rank": 175,
-   "width": 86,
-   "loo": {
-    "no-critics": 75,
-    "no-audience": 175,
-    "no-awards": 92
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "sebastian-maniscalco",
-   "name": "Sebastian Maniscalco",
-   "default_rank": 93,
-   "median_rank": 93,
-   "p5_rank": 91,
-   "p95_rank": 190,
-   "width": 99,
-   "loo": {
-    "no-critics": 76,
-    "no-audience": 190,
-    "no-awards": 93
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "jim-norton",
-   "name": "Jim Norton",
-   "default_rank": 94,
-   "median_rank": 94,
-   "p5_rank": 49,
-   "p95_rank": 161,
-   "width": 112,
-   "loo": {
-    "no-critics": 81,
-    "no-audience": 49,
-    "no-awards": 161
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "hannah-gadsby",
-   "name": "Hannah Gadsby",
-   "default_rank": 95,
-   "median_rank": 95,
-   "p5_rank": 94,
-   "p95_rank": 116,
-   "width": 22,
-   "loo": {
-    "no-critics": 82,
-    "no-audience": 116,
-    "no-awards": 94
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "adam-devine",
-   "name": "Adam Devine",
-   "default_rank": 96,
-   "median_rank": 96,
-   "p5_rank": 42,
-   "p95_rank": 96,
-   "width": 54,
-   "loo": {
-    "no-critics": 84,
-    "no-audience": 50,
-    "no-awards": 95
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "adel-karam",
-   "name": "Adel Karam",
-   "default_rank": 97,
-   "median_rank": 97,
-   "p5_rank": 43,
-   "p95_rank": 97,
-   "width": 54,
-   "loo": {
-    "no-critics": 85,
-    "no-audience": 51,
-    "no-awards": 96
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "al-madrigal",
-   "name": "Al Madrigal",
-   "default_rank": 98,
-   "median_rank": 98,
-   "p5_rank": 44,
-   "p95_rank": 98,
-   "width": 54,
-   "loo": {
-    "no-critics": 86,
-    "no-audience": 52,
-    "no-awards": 97
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "alison-spittle",
-   "name": "Alison Spittle",
-   "default_rank": 99,
-   "median_rank": 99,
-   "p5_rank": 46,
-   "p95_rank": 99,
-   "width": 53,
-   "loo": {
-    "no-critics": 87,
-    "no-audience": 53,
-    "no-awards": 98
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "amanda-seales",
-   "name": "Amanda Seales",
-   "default_rank": 100,
-   "median_rank": 100,
-   "p5_rank": 47,
-   "p95_rank": 100,
-   "width": 53,
-   "loo": {
-    "no-critics": 88,
-    "no-audience": 54,
-    "no-awards": 99
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "andrew-schulz",
-   "name": "Andrew Schulz",
-   "default_rank": 101,
-   "median_rank": 101,
-   "p5_rank": 48,
-   "p95_rank": 101,
-   "width": 53,
-   "loo": {
-    "no-critics": 89,
-    "no-audience": 55,
-    "no-awards": 100
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "andy-woodhull",
-   "name": "Andy Woodhull",
-   "default_rank": 102,
-   "median_rank": 102,
-   "p5_rank": 49,
-   "p95_rank": 102,
-   "width": 53,
-   "loo": {
-    "no-critics": 90,
-    "no-audience": 56,
-    "no-awards": 101
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "angela-barnes",
-   "name": "Angela Barnes",
-   "default_rank": 103,
-   "median_rank": 103,
-   "p5_rank": 50,
-   "p95_rank": 103,
-   "width": 53,
-   "loo": {
-    "no-critics": 91,
-    "no-audience": 57,
-    "no-awards": 102
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "anjelah-johnson",
-   "name": "Anjelah Johnson",
-   "default_rank": 104,
-   "median_rank": 104,
-   "p5_rank": 51,
-   "p95_rank": 104,
-   "width": 53,
-   "loo": {
-    "no-critics": 92,
-    "no-audience": 58,
-    "no-awards": 103
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "anthony-jeselnik",
-   "name": "Anthony Jeselnik",
-   "default_rank": 105,
-   "median_rank": 105,
-   "p5_rank": 52,
-   "p95_rank": 105,
-   "width": 53,
-   "loo": {
-    "no-critics": 93,
-    "no-audience": 59,
-    "no-awards": 104
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "ari-shaffir",
-   "name": "Ari Shaffir",
-   "default_rank": 106,
-   "median_rank": 106,
-   "p5_rank": 53,
-   "p95_rank": 106,
-   "width": 53,
-   "loo": {
-    "no-critics": 94,
-    "no-audience": 60,
-    "no-awards": 105
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "arsenio-hall",
-   "name": "Arsenio Hall",
-   "default_rank": 107,
-   "median_rank": 107,
-   "p5_rank": 54,
-   "p95_rank": 107,
-   "width": 53,
-   "loo": {
-    "no-critics": 95,
-    "no-audience": 61,
-    "no-awards": 106
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "big-jay-oakerson",
-   "name": "Big Jay Oakerson",
-   "default_rank": 108,
-   "median_rank": 108,
-   "p5_rank": 56,
-   "p95_rank": 108,
-   "width": 52,
-   "loo": {
-    "no-critics": 96,
-    "no-audience": 63,
-    "no-awards": 107
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "bobby-lee",
-   "name": "Bobby Lee",
-   "default_rank": 109,
-   "median_rank": 109,
-   "p5_rank": 58,
-   "p95_rank": 109,
-   "width": 51,
-   "loo": {
-    "no-critics": 98,
-    "no-audience": 64,
-    "no-awards": 108
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "brad-williams",
-   "name": "Brad Williams",
-   "default_rank": 110,
-   "median_rank": 110,
-   "p5_rank": 59,
-   "p95_rank": 110,
-   "width": 51,
-   "loo": {
-    "no-critics": 99,
-    "no-audience": 65,
-    "no-awards": 109
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "brendan-schaub",
-   "name": "Brendan Schaub",
-   "default_rank": 111,
-   "median_rank": 111,
-   "p5_rank": 60,
-   "p95_rank": 111,
-   "width": 51,
-   "loo": {
-    "no-critics": 100,
-    "no-audience": 66,
-    "no-awards": 110
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "brent-morin",
-   "name": "Brent Morin",
-   "default_rank": 112,
-   "median_rank": 112,
-   "p5_rank": 61,
-   "p95_rank": 112,
-   "width": 51,
-   "loo": {
-    "no-critics": 101,
-    "no-audience": 67,
-    "no-awards": 111
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "bridget-christie",
-   "name": "Bridget Christie",
-   "default_rank": 113,
-   "median_rank": 113,
-   "p5_rank": 63,
-   "p95_rank": 113,
-   "width": 50,
-   "loo": {
-    "no-critics": 102,
-    "no-audience": 69,
-    "no-awards": 112
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "bridget-everett",
-   "name": "Bridget Everett",
-   "default_rank": 114,
-   "median_rank": 114,
-   "p5_rank": 64,
-   "p95_rank": 114,
-   "width": 50,
-   "loo": {
-    "no-critics": 103,
-    "no-audience": 70,
-    "no-awards": 113
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "brody-stevens",
-   "name": "Brody Stevens",
-   "default_rank": 115,
-   "median_rank": 115,
-   "p5_rank": 65,
-   "p95_rank": 115,
-   "width": 50,
-   "loo": {
-    "no-critics": 104,
-    "no-audience": 71,
-    "no-awards": 114
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "cam-patterson",
-   "name": "Cam Patterson",
-   "default_rank": 116,
-   "median_rank": 116,
-   "p5_rank": 66,
-   "p95_rank": 116,
-   "width": 50,
-   "loo": {
-    "no-critics": 105,
-    "no-audience": 72,
-    "no-awards": 115
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "casey-rocket",
-   "name": "Casey Rocket",
-   "default_rank": 117,
-   "median_rank": 117,
-   "p5_rank": 67,
-   "p95_rank": 117,
-   "width": 50,
-   "loo": {
-    "no-critics": 106,
-    "no-audience": 73,
-    "no-awards": 116
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "catherine-bohart",
-   "name": "Catherine Bohart",
-   "default_rank": 118,
-   "median_rank": 118,
-   "p5_rank": 68,
-   "p95_rank": 118,
-   "width": 50,
-   "loo": {
-    "no-critics": 107,
-    "no-audience": 74,
-    "no-awards": 117
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "chelsea-peretti",
-   "name": "Chelsea Peretti",
-   "default_rank": 119,
-   "median_rank": 119,
-   "p5_rank": 71,
-   "p95_rank": 119,
-   "width": 48,
-   "loo": {
-    "no-critics": 109,
-    "no-audience": 77,
-    "no-awards": 118
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "chris-d-elia",
-   "name": "Chris D Elia",
-   "default_rank": 120,
-   "median_rank": 120,
-   "p5_rank": 72,
-   "p95_rank": 120,
-   "width": 48,
-   "loo": {
-    "no-critics": 110,
-    "no-audience": 78,
-    "no-awards": 119
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "chris-gethard",
-   "name": "Chris Gethard",
-   "default_rank": 121,
-   "median_rank": 121,
-   "p5_rank": 73,
-   "p95_rank": 121,
-   "width": 48,
-   "loo": {
-    "no-critics": 111,
-    "no-audience": 79,
-    "no-awards": 120
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "chris-tucker",
-   "name": "Chris Tucker",
-   "default_rank": 122,
-   "median_rank": 122,
-   "p5_rank": 74,
+   "comedian_id": "henny-youngman",
+   "name": "Henny Youngman",
+   "default_rank": 73,
+   "median_rank": 71,
+   "p5_rank": 62,
    "p95_rank": 122,
-   "width": 48,
+   "width": 60,
    "loo": {
-    "no-critics": 112,
-    "no-audience": 80,
-    "no-awards": 121
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "christina-pazsitzky",
-   "name": "Christina Pazsitzky",
-   "default_rank": 123,
-   "median_rank": 123,
-   "p5_rank": 75,
-   "p95_rank": 123,
-   "width": 48,
-   "loo": {
-    "no-critics": 113,
-    "no-audience": 81,
-    "no-awards": 122
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "craig-ferguson",
-   "name": "Craig Ferguson",
-   "default_rank": 124,
-   "median_rank": 124,
-   "p5_rank": 76,
-   "p95_rank": 124,
-   "width": 48,
-   "loo": {
-    "no-critics": 115,
-    "no-audience": 82,
-    "no-awards": 123
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "cristela-alonzo",
-   "name": "Cristela Alonzo",
-   "default_rank": 125,
-   "median_rank": 125,
-   "p5_rank": 77,
-   "p95_rank": 125,
-   "width": 48,
-   "loo": {
-    "no-critics": 116,
-    "no-audience": 83,
-    "no-awards": 124
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "dan-soder",
-   "name": "Dan Soder",
-   "default_rank": 126,
-   "median_rank": 126,
-   "p5_rank": 78,
-   "p95_rank": 126,
-   "width": 48,
-   "loo": {
-    "no-critics": 117,
-    "no-audience": 84,
-    "no-awards": 125
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "daniel-kitson",
-   "name": "Daniel Kitson",
-   "default_rank": 127,
-   "median_rank": 127,
-   "p5_rank": 79,
-   "p95_rank": 127,
-   "width": 48,
-   "loo": {
-    "no-critics": 118,
-    "no-audience": 85,
-    "no-awards": 126
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "dave-allen",
-   "name": "Dave Allen",
-   "default_rank": 128,
-   "median_rank": 128,
-   "p5_rank": 81,
-   "p95_rank": 128,
-   "width": 47,
-   "loo": {
-    "no-critics": 119,
-    "no-audience": 87,
-    "no-awards": 127
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "dave-attell",
-   "name": "Dave Attell",
-   "default_rank": 129,
-   "median_rank": 129,
-   "p5_rank": 82,
-   "p95_rank": 129,
-   "width": 47,
-   "loo": {
-    "no-critics": 120,
-    "no-audience": 88,
-    "no-awards": 128
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "dave-smith",
-   "name": "Dave Smith",
-   "default_rank": 130,
-   "median_rank": 130,
-   "p5_rank": 83,
-   "p95_rank": 130,
-   "width": 47,
-   "loo": {
-    "no-critics": 121,
-    "no-audience": 89,
-    "no-awards": 129
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "deray-davis",
-   "name": "Deray Davis",
-   "default_rank": 131,
-   "median_rank": 131,
-   "p5_rank": 86,
-   "p95_rank": 131,
-   "width": 45,
-   "loo": {
-    "no-critics": 122,
-    "no-audience": 91,
-    "no-awards": 130
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "dom-irrera",
-   "name": "Dom Irrera",
-   "default_rank": 132,
-   "median_rank": 132,
-   "p5_rank": 87,
-   "p95_rank": 132,
-   "width": 45,
-   "loo": {
-    "no-critics": 124,
-    "no-audience": 92,
-    "no-awards": 131
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "donnell-rawlings",
-   "name": "Donnell Rawlings",
-   "default_rank": 133,
-   "median_rank": 133,
-   "p5_rank": 89,
-   "p95_rank": 133,
-   "width": 44,
-   "loo": {
-    "no-critics": 125,
-    "no-audience": 93,
-    "no-awards": 132
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "doug-benson",
-   "name": "Doug Benson",
-   "default_rank": 134,
-   "median_rank": 134,
-   "p5_rank": 90,
-   "p95_rank": 134,
-   "width": 44,
-   "loo": {
-    "no-critics": 126,
-    "no-audience": 94,
-    "no-awards": 133
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "duncan-trussell",
-   "name": "Duncan Trussell",
-   "default_rank": 135,
-   "median_rank": 135,
-   "p5_rank": 93,
-   "p95_rank": 135,
-   "width": 42,
-   "loo": {
-    "no-critics": 127,
-    "no-audience": 97,
-    "no-awards": 134
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "eleanor-kerrigan",
-   "name": "Eleanor Kerrigan",
-   "default_rank": 136,
-   "median_rank": 136,
-   "p5_rank": 95,
-   "p95_rank": 136,
-   "width": 41,
-   "loo": {
-    "no-critics": 128,
-    "no-audience": 99,
-    "no-awards": 135
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "emily-heller",
-   "name": "Emily Heller",
-   "default_rank": 137,
-   "median_rank": 137,
-   "p5_rank": 96,
-   "p95_rank": 137,
-   "width": 41,
-   "loo": {
-    "no-critics": 129,
-    "no-audience": 100,
-    "no-awards": 136
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "emo-philips",
-   "name": "Emo Philips",
-   "default_rank": 138,
-   "median_rank": 138,
-   "p5_rank": 97,
-   "p95_rank": 138,
-   "width": 41,
-   "loo": {
-    "no-critics": 130,
-    "no-audience": 101,
-    "no-awards": 137
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "enissa-amani",
-   "name": "Enissa Amani",
-   "default_rank": 139,
-   "median_rank": 139,
-   "p5_rank": 98,
-   "p95_rank": 139,
-   "width": 41,
-   "loo": {
-    "no-critics": 131,
-    "no-audience": 102,
-    "no-awards": 138
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "eric-andre",
-   "name": "Eric Andre",
-   "default_rank": 140,
-   "median_rank": 140,
-   "p5_rank": 99,
-   "p95_rank": 140,
-   "width": 41,
-   "loo": {
-    "no-critics": 132,
-    "no-audience": 103,
-    "no-awards": 139
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "erik-griffin",
-   "name": "Erik Griffin",
-   "default_rank": 141,
-   "median_rank": 141,
-   "p5_rank": 100,
-   "p95_rank": 141,
-   "width": 41,
-   "loo": {
-    "no-critics": 133,
-    "no-audience": 104,
-    "no-awards": 140
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "fahim-anwar",
-   "name": "Fahim Anwar",
-   "default_rank": 142,
-   "median_rank": 142,
-   "p5_rank": 101,
-   "p95_rank": 142,
-   "width": 41,
-   "loo": {
-    "no-critics": 134,
-    "no-audience": 105,
-    "no-awards": 141
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "frank-skinner",
-   "name": "Frank Skinner",
-   "default_rank": 143,
-   "median_rank": 143,
-   "p5_rank": 103,
-   "p95_rank": 143,
-   "width": 40,
-   "loo": {
-    "no-critics": 135,
-    "no-audience": 107,
-    "no-awards": 142
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "fred-armisen",
-   "name": "Fred Armisen",
-   "default_rank": 144,
-   "median_rank": 144,
-   "p5_rank": 104,
-   "p95_rank": 144,
-   "width": 40,
-   "loo": {
-    "no-critics": 136,
-    "no-audience": 108,
-    "no-awards": 143
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "gary-gulman",
-   "name": "Gary Gulman",
-   "default_rank": 145,
-   "median_rank": 145,
-   "p5_rank": 106,
-   "p95_rank": 145,
-   "width": 39,
-   "loo": {
-    "no-critics": 137,
-    "no-audience": 110,
-    "no-awards": 144
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "gary-owen",
-   "name": "Gary Owen",
-   "default_rank": 146,
-   "median_rank": 146,
-   "p5_rank": 107,
-   "p95_rank": 146,
-   "width": 39,
-   "loo": {
-    "no-critics": 138,
-    "no-audience": 111,
-    "no-awards": 145
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "george-lopez",
-   "name": "George Lopez",
-   "default_rank": 147,
-   "median_rank": 147,
-   "p5_rank": 108,
-   "p95_rank": 147,
-   "width": 39,
-   "loo": {
-    "no-critics": 139,
-    "no-audience": 112,
-    "no-awards": 146
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "greg-davies",
-   "name": "Greg Davies",
-   "default_rank": 148,
-   "median_rank": 148,
-   "p5_rank": 109,
-   "p95_rank": 148,
-   "width": 39,
-   "loo": {
-    "no-critics": 140,
-    "no-audience": 113,
-    "no-awards": 147
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "greg-fitzsimmons",
-   "name": "Greg Fitzsimmons",
-   "default_rank": 149,
-   "median_rank": 149,
-   "p5_rank": 110,
-   "p95_rank": 149,
-   "width": 39,
-   "loo": {
-    "no-critics": 141,
-    "no-audience": 114,
-    "no-awards": 148
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "greg-giraldo",
-   "name": "Greg Giraldo",
-   "default_rank": 150,
-   "median_rank": 150,
-   "p5_rank": 111,
-   "p95_rank": 150,
-   "width": 39,
-   "loo": {
-    "no-critics": 142,
-    "no-audience": 115,
-    "no-awards": 149
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "hans-kim",
-   "name": "Hans Kim",
-   "default_rank": 151,
-   "median_rank": 151,
-   "p5_rank": 114,
-   "p95_rank": 151,
-   "width": 37,
-   "loo": {
-    "no-critics": 143,
-    "no-audience": 118,
-    "no-awards": 150
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "harland-williams",
-   "name": "Harland Williams",
-   "default_rank": 152,
-   "median_rank": 152,
-   "p5_rank": 115,
-   "p95_rank": 152,
-   "width": 37,
-   "loo": {
-    "no-critics": 144,
-    "no-audience": 119,
-    "no-awards": 151
+    "no-critics": 194,
+    "no-audience": 63,
+    "no-awards": 71
    },
    "stable": false
   },
   {
    "comedian_id": "hasan-minhaj",
    "name": "Hasan Minhaj",
-   "default_rank": 153,
-   "median_rank": 153,
-   "p5_rank": 116,
-   "p95_rank": 153,
-   "width": 37,
+   "default_rank": 74,
+   "median_rank": 80,
+   "p5_rank": 21,
+   "p95_rank": 219,
+   "width": 198,
    "loo": {
-    "no-critics": 145,
-    "no-audience": 120,
-    "no-awards": 152
+    "no-critics": 13,
+    "no-audience": 219,
+    "no-awards": 75
    },
    "stable": false
   },
   {
-   "comedian_id": "helen-bauer",
-   "name": "Helen Bauer",
-   "default_rank": 154,
-   "median_rank": 154,
-   "p5_rank": 117,
-   "p95_rank": 154,
-   "width": 37,
+   "comedian_id": "johnny-vegas",
+   "name": "Johnny Vegas",
+   "default_rank": 75,
+   "median_rank": 73,
+   "p5_rank": 64,
+   "p95_rank": 124,
+   "width": 60,
    "loo": {
-    "no-critics": 146,
-    "no-audience": 121,
-    "no-awards": 153
+    "no-critics": 214,
+    "no-audience": 64,
+    "no-awards": 76
    },
    "stable": false
   },
   {
-   "comedian_id": "henry-rollins",
-   "name": "Henry Rollins",
-   "default_rank": 155,
-   "median_rank": 155,
-   "p5_rank": 118,
-   "p95_rank": 155,
-   "width": 37,
+   "comedian_id": "paul-ogrady",
+   "name": "Paul O'Grady",
+   "default_rank": 76,
+   "median_rank": 74,
+   "p5_rank": 65,
+   "p95_rank": 126,
+   "width": 61,
    "loo": {
-    "no-critics": 147,
-    "no-audience": 122,
-    "no-awards": 154
+    "no-critics": 249,
+    "no-audience": 65,
+    "no-awards": 78
    },
    "stable": false
   },
   {
-   "comedian_id": "ian-edwards",
-   "name": "Ian Edwards",
-   "default_rank": 156,
-   "median_rank": 156,
-   "p5_rank": 119,
-   "p95_rank": 156,
-   "width": 37,
+   "comedian_id": "rob-newman",
+   "name": "Rob Newman",
+   "default_rank": 77,
+   "median_rank": 77,
+   "p5_rank": 66,
+   "p95_rank": 127,
+   "width": 61,
    "loo": {
-    "no-critics": 148,
-    "no-audience": 123,
-    "no-awards": 155
+    "no-critics": 261,
+    "no-audience": 66,
+    "no-awards": 79
    },
    "stable": false
   },
   {
-   "comedian_id": "jak-knight",
-   "name": "Jak Knight",
-   "default_rank": 157,
-   "median_rank": 157,
-   "p5_rank": 122,
-   "p95_rank": 157,
-   "width": 35,
+   "comedian_id": "bill-maher",
+   "name": "Bill Maher",
+   "default_rank": 78,
+   "median_rank": 79,
+   "p5_rank": 53,
+   "p95_rank": 113,
+   "width": 60,
    "loo": {
-    "no-critics": 149,
-    "no-audience": 126,
-    "no-awards": 156
+    "no-critics": 81,
+    "no-audience": 67,
+    "no-awards": 94
    },
    "stable": false
   },
   {
-   "comedian_id": "james-acaster",
-   "name": "James Acaster",
-   "default_rank": 158,
-   "median_rank": 158,
-   "p5_rank": 123,
-   "p95_rank": 158,
-   "width": 35,
+   "comedian_id": "tom-segura",
+   "name": "Tom Segura",
+   "default_rank": 79,
+   "median_rank": 87,
+   "p5_rank": 27,
+   "p95_rank": 287,
+   "width": 260,
    "loo": {
-    "no-critics": 150,
-    "no-audience": 127,
-    "no-awards": 157
+    "no-critics": 18,
+    "no-audience": 287,
+    "no-awards": 80
    },
    "stable": false
   },
   {
-   "comedian_id": "jeff-garlin",
-   "name": "Jeff Garlin",
-   "default_rank": 159,
-   "median_rank": 159,
-   "p5_rank": 124,
-   "p95_rank": 159,
-   "width": 35,
+   "comedian_id": "jim-gaffigan",
+   "name": "Jim Gaffigan",
+   "default_rank": 80,
+   "median_rank": 64,
+   "p5_rank": 25,
+   "p95_rank": 111,
+   "width": 86,
    "loo": {
-    "no-critics": 151,
-    "no-audience": 128,
-    "no-awards": 158
+    "no-critics": 23,
+    "no-audience": 110,
+    "no-awards": 57
    },
    "stable": false
   },
   {
-   "comedian_id": "jen-kirkman",
-   "name": "Jen Kirkman",
-   "default_rank": 160,
-   "median_rank": 160,
-   "p5_rank": 125,
-   "p95_rank": 160,
-   "width": 35,
+   "comedian_id": "greg-davies",
+   "name": "Greg Davies",
+   "default_rank": 81,
+   "median_rank": 88,
+   "p5_rank": 27,
+   "p95_rank": 200,
+   "width": 173,
    "loo": {
-    "no-critics": 152,
-    "no-audience": 129,
-    "no-awards": 159
+    "no-critics": 17,
+    "no-audience": 132,
+    "no-awards": 87
    },
    "stable": false
   },
   {
-   "comedian_id": "jesus-trejo",
-   "name": "Jesus Trejo",
-   "default_rank": 161,
-   "median_rank": 161,
-   "p5_rank": 127,
-   "p95_rank": 161,
-   "width": 34,
+   "comedian_id": "jackie-mason",
+   "name": "Jackie Mason",
+   "default_rank": 82,
+   "median_rank": 79,
+   "p5_rank": 67,
+   "p95_rank": 129,
+   "width": 62,
    "loo": {
-    "no-critics": 153,
-    "no-audience": 130,
-    "no-awards": 160
+    "no-critics": 198,
+    "no-audience": 69,
+    "no-awards": 81
    },
    "stable": false
   },
   {
    "comedian_id": "jimmy-carr",
    "name": "Jimmy Carr",
-   "default_rank": 162,
-   "median_rank": 162,
-   "p5_rank": 131,
-   "p95_rank": 162,
-   "width": 31,
+   "default_rank": 83,
+   "median_rank": 87,
+   "p5_rank": 26,
+   "p95_rank": 220,
+   "width": 194,
    "loo": {
-    "no-critics": 154,
-    "no-audience": 133,
-    "no-awards": 162
+    "no-critics": 19,
+    "no-audience": 148,
+    "no-awards": 83
    },
    "stable": false
   },
   {
-   "comedian_id": "jimmy-o-yang",
-   "name": "Jimmy O Yang",
-   "default_rank": 163,
-   "median_rank": 163,
-   "p5_rank": 132,
-   "p95_rank": 163,
-   "width": 31,
+   "comedian_id": "ken-dodd",
+   "name": "Ken Dodd",
+   "default_rank": 84,
+   "median_rank": 82,
+   "p5_rank": 68,
+   "p95_rank": 132,
+   "width": 64,
    "loo": {
-    "no-critics": 155,
+    "no-critics": 220,
+    "no-audience": 70,
+    "no-awards": 82
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ali-wong",
+   "name": "Ali Wong",
+   "default_rank": 85,
+   "median_rank": 96,
+   "p5_rank": 32,
+   "p95_rank": 138,
+   "width": 106,
+   "loo": {
+    "no-critics": 22,
     "no-audience": 134,
-    "no-awards": 163
+    "no-awards": 93
    },
    "stable": false
   },
   {
-   "comedian_id": "jo-koy",
-   "name": "Jo Koy",
-   "default_rank": 164,
-   "median_rank": 164,
-   "p5_rank": 133,
-   "p95_rank": 164,
-   "width": 31,
+   "comedian_id": "graham-norton",
+   "name": "Graham Norton",
+   "default_rank": 86,
+   "median_rank": 83,
+   "p5_rank": 69,
+   "p95_rank": 133,
+   "width": 64,
    "loo": {
-    "no-critics": 156,
-    "no-audience": 135,
-    "no-awards": 164
+    "no-critics": 186,
+    "no-audience": 71,
+    "no-awards": 84
    },
    "stable": false
   },
   {
-   "comedian_id": "joe-rogan",
-   "name": "Joe Rogan",
-   "default_rank": 165,
-   "median_rank": 165,
-   "p5_rank": 135,
-   "p95_rank": 165,
-   "width": 30,
+   "comedian_id": "bob-hope",
+   "name": "Bob Hope",
+   "default_rank": 87,
+   "median_rank": 85,
+   "p5_rank": 71,
+   "p95_rank": 133,
+   "width": 62,
    "loo": {
-    "no-critics": 157,
-    "no-audience": 137,
-    "no-awards": 165
+    "no-critics": 130,
+    "no-audience": 73,
+    "no-awards": 85
    },
    "stable": false
   },
   {
-   "comedian_id": "josh-wolf",
-   "name": "Josh Wolf",
-   "default_rank": 166,
-   "median_rank": 166,
-   "p5_rank": 137,
-   "p95_rank": 166,
-   "width": 29,
+   "comedian_id": "lenny-henry",
+   "name": "Lenny Henry",
+   "default_rank": 88,
+   "median_rank": 88,
+   "p5_rank": 72,
+   "p95_rank": 135,
+   "width": 63,
    "loo": {
-    "no-critics": 158,
-    "no-audience": 138,
-    "no-awards": 166
+    "no-critics": 227,
+    "no-audience": 74,
+    "no-awards": 89
    },
    "stable": false
   },
   {
-   "comedian_id": "judah-friedlander",
-   "name": "Judah Friedlander",
-   "default_rank": 167,
-   "median_rank": 167,
-   "p5_rank": 138,
-   "p95_rank": 167,
-   "width": 29,
+   "comedian_id": "nate-bargatze",
+   "name": "Nate Bargatze",
+   "default_rank": 89,
+   "median_rank": 102,
+   "p5_rank": 31,
+   "p95_rank": 257,
+   "width": 226,
    "loo": {
-    "no-critics": 159,
-    "no-audience": 139,
-    "no-awards": 167
+    "no-critics": 26,
+    "no-audience": 257,
+    "no-awards": 91
    },
    "stable": false
   },
   {
-   "comedian_id": "kavin-jay",
-   "name": "Kavin Jay",
-   "default_rank": 168,
-   "median_rank": 168,
-   "p5_rank": 142,
-   "p95_rank": 168,
-   "width": 26,
+   "comedian_id": "gilbert-gottfried",
+   "name": "Gilbert Gottfried",
+   "default_rank": 90,
+   "median_rank": 89,
+   "p5_rank": 73,
+   "p95_rank": 136,
+   "width": 63,
    "loo": {
-    "no-critics": 160,
-    "no-audience": 142,
-    "no-awards": 168
+    "no-critics": 185,
+    "no-audience": 75,
+    "no-awards": 92
    },
    "stable": false
   },
   {
-   "comedian_id": "ken-jeong",
-   "name": "Ken Jeong",
-   "default_rank": 169,
-   "median_rank": 169,
-   "p5_rank": 143,
-   "p95_rank": 169,
-   "width": 26,
+   "comedian_id": "tommy-cooper",
+   "name": "Tommy Cooper",
+   "default_rank": 91,
+   "median_rank": 90,
+   "p5_rank": 75,
+   "p95_rank": 137,
+   "width": 62,
    "loo": {
-    "no-critics": 161,
-    "no-audience": 143,
-    "no-awards": 169
+    "no-critics": 286,
+    "no-audience": 76,
+    "no-awards": 95
    },
    "stable": false
   },
   {
-   "comedian_id": "kevin-smith",
-   "name": "Kevin Smith",
-   "default_rank": 170,
-   "median_rank": 170,
-   "p5_rank": 145,
-   "p95_rank": 170,
-   "width": 25,
+   "comedian_id": "julian-clary",
+   "name": "Julian Clary",
+   "default_rank": 92,
+   "median_rank": 93,
+   "p5_rank": 77,
+   "p95_rank": 139,
+   "width": 62,
    "loo": {
-    "no-critics": 163,
-    "no-audience": 145,
-    "no-awards": 170
+    "no-critics": 218,
+    "no-audience": 77,
+    "no-awards": 98
    },
    "stable": false
   },
   {
-   "comedian_id": "kirk-fox",
-   "name": "Kirk Fox",
-   "default_rank": 171,
-   "median_rank": 171,
-   "p5_rank": 146,
-   "p95_rank": 171,
-   "width": 25,
+   "comedian_id": "jeff-foxworthy",
+   "name": "Jeff Foxworthy",
+   "default_rank": 93,
+   "median_rank": 77,
+   "p5_rank": 48,
+   "p95_rank": 106,
+   "width": 58,
    "loo": {
-    "no-critics": 164,
-    "no-audience": 146,
-    "no-awards": 171
+    "no-critics": 46,
+    "no-audience": 104,
+    "no-awards": 72
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "chris-gethard",
+   "name": "Chris Gethard",
+   "default_rank": 94,
+   "median_rank": 108,
+   "p5_rank": 38,
+   "p95_rank": 182,
+   "width": 144,
+   "loo": {
+    "no-critics": 29,
+    "no-audience": 182,
+    "no-awards": 100
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "reggie-watts",
+   "name": "Reggie Watts",
+   "default_rank": 95,
+   "median_rank": 95,
+   "p5_rank": 43,
+   "p95_rank": 132,
+   "width": 89,
+   "loo": {
+    "no-critics": 38,
+    "no-audience": 126,
+    "no-awards": 86
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ron-white",
+   "name": "Ron White",
+   "default_rank": 96,
+   "median_rank": 108,
+   "p5_rank": 41,
+   "p95_rank": 269,
+   "width": 228,
+   "loo": {
+    "no-critics": 31,
+    "no-audience": 269,
+    "no-awards": 101
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "adam-sandler",
+   "name": "Adam Sandler",
+   "default_rank": 97,
+   "median_rank": 96,
+   "p5_rank": 76,
+   "p95_rank": 130,
+   "width": 54,
+   "loo": {
+    "no-critics": 88,
+    "no-audience": 79,
+    "no-awards": 111
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "david-cross",
+   "name": "David Cross",
+   "default_rank": 98,
+   "median_rank": 91,
+   "p5_rank": 42,
+   "p95_rank": 125,
+   "width": 83,
+   "loo": {
+    "no-critics": 34,
+    "no-audience": 122,
+    "no-awards": 88
    },
    "stable": false
   },
   {
    "comedian_id": "lee-mack",
    "name": "Lee Mack",
-   "default_rank": 172,
-   "median_rank": 172,
-   "p5_rank": 147,
-   "p95_rank": 172,
-   "width": 25,
+   "default_rank": 99,
+   "median_rank": 110,
+   "p5_rank": 38,
+   "p95_rank": 235,
+   "width": 197,
    "loo": {
-    "no-critics": 165,
-    "no-audience": 147,
-    "no-awards": 172
+    "no-critics": 30,
+    "no-audience": 149,
+    "no-awards": 104
    },
    "stable": false
   },
   {
-   "comedian_id": "lisa-lampanelli",
-   "name": "Lisa Lampanelli",
-   "default_rank": 173,
-   "median_rank": 173,
-   "p5_rank": 148,
-   "p95_rank": 173,
-   "width": 25,
-   "loo": {
-    "no-critics": 167,
-    "no-audience": 148,
-    "no-awards": 173
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "mark-normand",
-   "name": "Mark Normand",
-   "default_rank": 174,
-   "median_rank": 174,
-   "p5_rank": 151,
-   "p95_rank": 174,
-   "width": 23,
-   "loo": {
-    "no-critics": 168,
-    "no-audience": 151,
-    "no-awards": 174
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "marlon-wayans",
-   "name": "Marlon Wayans",
-   "default_rank": 175,
-   "median_rank": 175,
-   "p5_rank": 152,
+   "comedian_id": "demetri-martin",
+   "name": "Demetri Martin",
+   "default_rank": 100,
+   "median_rank": 111,
+   "p5_rank": 41,
    "p95_rank": 175,
-   "width": 23,
+   "width": 134,
    "loo": {
-    "no-critics": 169,
-    "no-audience": 152,
-    "no-awards": 175
+    "no-critics": 32,
+    "no-audience": 144,
+    "no-awards": 106
    },
    "stable": false
   },
   {
-   "comedian_id": "matt-mccusker",
-   "name": "Matt McCusker",
-   "default_rank": 176,
-   "median_rank": 176,
-   "p5_rank": 153,
-   "p95_rank": 176,
-   "width": 23,
+   "comedian_id": "dave-spikey",
+   "name": "Dave Spikey",
+   "default_rank": 101,
+   "median_rank": 99,
+   "p5_rank": 78,
+   "p95_rank": 141,
+   "width": 63,
    "loo": {
-    "no-critics": 170,
-    "no-audience": 153,
-    "no-awards": 176
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "maz-jobrani",
-   "name": "Maz Jobrani",
-   "default_rank": 177,
-   "median_rank": 177,
-   "p5_rank": 154,
-   "p95_rank": 177,
-   "width": 23,
-   "loo": {
-    "no-critics": 171,
-    "no-audience": 154,
-    "no-awards": 177
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "michael-mcintyre",
-   "name": "Michael Mcintyre",
-   "default_rank": 178,
-   "median_rank": 178,
-   "p5_rank": 156,
-   "p95_rank": 178,
-   "width": 22,
-   "loo": {
-    "no-critics": 172,
-    "no-audience": 156,
-    "no-awards": 178
+    "no-critics": 157,
+    "no-audience": 80,
+    "no-awards": 102
    },
    "stable": false
   },
   {
    "comedian_id": "michelle-wolf",
    "name": "Michelle Wolf",
-   "default_rank": 179,
-   "median_rank": 179,
-   "p5_rank": 157,
-   "p95_rank": 179,
-   "width": 22,
+   "default_rank": 102,
+   "median_rank": 112,
+   "p5_rank": 42,
+   "p95_rank": 251,
+   "width": 209,
    "loo": {
-    "no-critics": 173,
-    "no-audience": 157,
-    "no-awards": 179
+    "no-critics": 33,
+    "no-audience": 251,
+    "no-awards": 103
    },
    "stable": false
   },
   {
-   "comedian_id": "moshe-kasher",
-   "name": "Moshe Kasher",
-   "default_rank": 180,
-   "median_rank": 180,
-   "p5_rank": 162,
-   "p95_rank": 180,
-   "width": 18,
+   "comedian_id": "omid-djalili",
+   "name": "Omid Djalili",
+   "default_rank": 103,
+   "median_rank": 101,
+   "p5_rank": 79,
+   "p95_rank": 142,
+   "width": 63,
    "loo": {
-    "no-critics": 174,
-    "no-audience": 162,
-    "no-awards": 180
+    "no-critics": 245,
+    "no-audience": 81,
+    "no-awards": 105
    },
    "stable": false
   },
   {
-   "comedian_id": "natasha-leggero",
-   "name": "Natasha Leggero",
-   "default_rank": 181,
-   "median_rank": 181,
-   "p5_rank": 163,
-   "p95_rank": 181,
-   "width": 18,
+   "comedian_id": "taylor-tomlinson",
+   "name": "Taylor Tomlinson",
+   "default_rank": 104,
+   "median_rank": 118,
+   "p5_rank": 46,
+   "p95_rank": 282,
+   "width": 236,
    "loo": {
-    "no-critics": 175,
-    "no-audience": 163,
-    "no-awards": 181
+    "no-critics": 35,
+    "no-audience": 282,
+    "no-awards": 107
    },
    "stable": false
   },
   {
-   "comedian_id": "nick-offerman",
-   "name": "Nick Offerman",
-   "default_rank": 182,
-   "median_rank": 182,
-   "p5_rank": 166,
-   "p95_rank": 182,
-   "width": 16,
+   "comedian_id": "katt-williams",
+   "name": "Katt Williams",
+   "default_rank": 105,
+   "median_rank": 116,
+   "p5_rank": 50,
+   "p95_rank": 229,
+   "width": 179,
    "loo": {
-    "no-critics": 176,
-    "no-audience": 166,
-    "no-awards": 182
+    "no-critics": 36,
+    "no-audience": 141,
+    "no-awards": 112
    },
    "stable": false
   },
   {
-   "comedian_id": "nikki-glaser",
-   "name": "Nikki Glaser",
-   "default_rank": 183,
-   "median_rank": 183,
-   "p5_rank": 167,
-   "p95_rank": 183,
-   "width": 16,
-   "loo": {
-    "no-critics": 177,
-    "no-audience": 167,
-    "no-awards": 183
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "pete-davidson",
-   "name": "Pete Davidson",
-   "default_rank": 184,
-   "median_rank": 184,
-   "p5_rank": 170,
-   "p95_rank": 184,
-   "width": 14,
-   "loo": {
-    "no-critics": 178,
-    "no-audience": 170,
-    "no-awards": 184
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "pete-holmes",
-   "name": "Pete Holmes",
-   "default_rank": 185,
-   "median_rank": 185,
-   "p5_rank": 171,
+   "comedian_id": "dylan-moran",
+   "name": "Dylan Moran",
+   "default_rank": 106,
+   "median_rank": 118,
+   "p5_rank": 47,
    "p95_rank": 185,
-   "width": 14,
+   "width": 138,
    "loo": {
-    "no-critics": 179,
-    "no-audience": 171,
-    "no-awards": 185
+    "no-critics": 37,
+    "no-audience": 145,
+    "no-awards": 109
    },
    "stable": false
   },
   {
-   "comedian_id": "ralphie-may",
-   "name": "Ralphie May",
-   "default_rank": 186,
-   "median_rank": 186,
-   "p5_rank": 173,
-   "p95_rank": 186,
-   "width": 13,
+   "comedian_id": "phill-jupitus",
+   "name": "Phill Jupitus",
+   "default_rank": 107,
+   "median_rank": 103,
+   "p5_rank": 80,
+   "p95_rank": 144,
+   "width": 64,
    "loo": {
-    "no-critics": 180,
-    "no-audience": 173,
-    "no-awards": 186
+    "no-critics": 253,
+    "no-audience": 82,
+    "no-awards": 108
    },
    "stable": false
   },
   {
-   "comedian_id": "ramy-youssef",
-   "name": "Ramy Youssef",
-   "default_rank": 187,
-   "median_rank": 187,
-   "p5_rank": 174,
-   "p95_rank": 187,
-   "width": 13,
+   "comedian_id": "alan-davies",
+   "name": "Alan Davies",
+   "default_rank": 108,
+   "median_rank": 108,
+   "p5_rank": 82,
+   "p95_rank": 144,
+   "width": 62,
    "loo": {
-    "no-critics": 181,
-    "no-audience": 174,
-    "no-awards": 187
+    "no-critics": 108,
+    "no-audience": 84,
+    "no-awards": 110
    },
    "stable": false
   },
   {
-   "comedian_id": "rob-schneider",
-   "name": "Rob Schneider",
-   "default_rank": 188,
-   "median_rank": 188,
-   "p5_rank": 176,
-   "p95_rank": 188,
-   "width": 12,
+   "comedian_id": "wanda-sykes",
+   "name": "Wanda Sykes",
+   "default_rank": 109,
+   "median_rank": 105,
+   "p5_rank": 82,
+   "p95_rank": 140,
+   "width": 58,
    "loo": {
-    "no-critics": 184,
-    "no-audience": 176,
-    "no-awards": 188
+    "no-critics": 95,
+    "no-audience": 83,
+    "no-awards": 115
    },
    "stable": false
   },
   {
-   "comedian_id": "ron-funches",
-   "name": "Ron Funches",
-   "default_rank": 189,
-   "median_rank": 189,
-   "p5_rank": 177,
-   "p95_rank": 189,
-   "width": 12,
+   "comedian_id": "pablo-francisco",
+   "name": "Pablo Francisco",
+   "default_rank": 110,
+   "median_rank": 124,
+   "p5_rank": 53,
+   "p95_rank": 261,
+   "width": 208,
    "loo": {
-    "no-critics": 186,
-    "no-audience": 177,
-    "no-awards": 189
+    "no-critics": 40,
+    "no-audience": 261,
+    "no-awards": 113
    },
    "stable": false
   },
   {
-   "comedian_id": "ronny-chieng",
-   "name": "Ronny Chieng",
-   "default_rank": 190,
-   "median_rank": 190,
-   "p5_rank": 179,
-   "p95_rank": 190,
-   "width": 11,
+   "comedian_id": "rhona-cameron",
+   "name": "Rhona Cameron",
+   "default_rank": 111,
+   "median_rank": 111,
+   "p5_rank": 84,
+   "p95_rank": 148,
+   "width": 64,
    "loo": {
-    "no-critics": 187,
-    "no-audience": 179,
-    "no-awards": 190
+    "no-critics": 259,
+    "no-audience": 85,
+    "no-awards": 114
    },
    "stable": false
   },
   {
-   "comedian_id": "roy-wood-jr",
-   "name": "Roy Wood Jr",
-   "default_rank": 191,
-   "median_rank": 191,
-   "p5_rank": 180,
-   "p95_rank": 191,
-   "width": 11,
+   "comedian_id": "russell-peters",
+   "name": "Russell Peters",
+   "default_rank": 112,
+   "median_rank": 99,
+   "p5_rank": 49,
+   "p95_rank": 123,
+   "width": 74,
    "loo": {
-    "no-critics": 188,
-    "no-audience": 180,
-    "no-awards": 191
+    "no-critics": 42,
+    "no-audience": 123,
+    "no-awards": 90
    },
    "stable": false
   },
   {
-   "comedian_id": "russell-brand",
-   "name": "Russell Brand",
-   "default_rank": 192,
-   "median_rank": 192,
-   "p5_rank": 181,
-   "p95_rank": 192,
-   "width": 11,
+   "comedian_id": "bert-kreischer",
+   "name": "Bert Kreischer",
+   "default_rank": 113,
+   "median_rank": 126,
+   "p5_rank": 56,
+   "p95_rank": 166,
+   "width": 110,
    "loo": {
-    "no-critics": 189,
-    "no-audience": 181,
-    "no-awards": 192
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "russell-howard",
-   "name": "Russell Howard",
-   "default_rank": 193,
-   "median_rank": 193,
-   "p5_rank": 182,
-   "p95_rank": 193,
-   "width": 11,
-   "loo": {
-    "no-critics": 190,
-    "no-audience": 182,
-    "no-awards": 193
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "sam-tripoli",
-   "name": "Sam Tripoli",
-   "default_rank": 194,
-   "median_rank": 194,
-   "p5_rank": 185,
-   "p95_rank": 194,
-   "width": 9,
-   "loo": {
-    "no-critics": 191,
-    "no-audience": 185,
-    "no-awards": 194
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "sara-pascoe",
-   "name": "Sara Pascoe",
-   "default_rank": 195,
-   "median_rank": 195,
-   "p5_rank": 186,
-   "p95_rank": 195,
-   "width": 9,
-   "loo": {
-    "no-critics": 192,
-    "no-audience": 186,
-    "no-awards": 195
-   },
-   "stable": false
-  },
-  {
-   "comedian_id": "sarah-millican",
-   "name": "Sarah Millican",
-   "default_rank": 196,
-   "median_rank": 196,
-   "p5_rank": 188,
-   "p95_rank": 196,
-   "width": 8,
-   "loo": {
-    "no-critics": 193,
-    "no-audience": 188,
-    "no-awards": 196
+    "no-critics": 43,
+    "no-audience": 166,
+    "no-awards": 117
    },
    "stable": false
   },
   {
    "comedian_id": "sean-lock",
    "name": "Sean Lock",
+   "default_rank": 114,
+   "median_rank": 122,
+   "p5_rank": 55,
+   "p95_rank": 274,
+   "width": 219,
+   "loo": {
+    "no-critics": 41,
+    "no-audience": 151,
+    "no-awards": 119
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "chris-addison",
+   "name": "Chris Addison",
+   "default_rank": 115,
+   "median_rank": 116,
+   "p5_rank": 86,
+   "p95_rank": 149,
+   "width": 63,
+   "loo": {
+    "no-critics": 145,
+    "no-audience": 86,
+    "no-awards": 118
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "michael-che",
+   "name": "Michael Che",
+   "default_rank": 116,
+   "median_rank": 130,
+   "p5_rank": 58,
+   "p95_rank": 249,
+   "width": 191,
+   "loo": {
+    "no-critics": 45,
+    "no-audience": 249,
+    "no-awards": 120
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "maria-bamford",
+   "name": "Maria Bamford",
+   "default_rank": 117,
+   "median_rank": 92,
+   "p5_rank": 89,
+   "p95_rank": 105,
+   "width": 16,
+   "loo": {
+    "no-critics": 74,
+    "no-audience": 89,
+    "no-awards": 96
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "paul-mooney",
+   "name": "Paul Mooney",
+   "default_rank": 118,
+   "median_rank": 97,
+   "p5_rank": 78,
+   "p95_rank": 104,
+   "width": 26,
+   "loo": {
+    "no-critics": 71,
+    "no-audience": 97,
+    "no-awards": 97
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "hannibal-buress",
+   "name": "Hannibal Buress",
+   "default_rank": 119,
+   "median_rank": 97,
+   "p5_rank": 88,
+   "p95_rank": 106,
+   "width": 18,
+   "loo": {
+    "no-critics": 73,
+    "no-audience": 94,
+    "no-awards": 99
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "donald-glover",
+   "name": "Donald Glover",
+   "default_rank": 120,
+   "median_rank": 117,
+   "p5_rank": 40,
+   "p95_rank": 179,
+   "width": 139,
+   "loo": {
+    "no-critics": 44,
+    "no-audience": 102,
+    "no-awards": 175
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mike-reid",
+   "name": "Mike Reid",
+   "default_rank": 121,
+   "median_rank": 117,
+   "p5_rank": 87,
+   "p95_rank": 152,
+   "width": 65,
+   "loo": {
+    "no-critics": 238,
+    "no-audience": 87,
+    "no-awards": 121
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "lee-hurst",
+   "name": "Lee Hurst",
+   "default_rank": 122,
+   "median_rank": 121,
+   "p5_rank": 90,
+   "p95_rank": 153,
+   "width": 63,
+   "loo": {
+    "no-critics": 226,
+    "no-audience": 90,
+    "no-awards": 123
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "brian-regan",
+   "name": "Brian Regan",
+   "default_rank": 123,
+   "median_rank": 130,
+   "p5_rank": 62,
+   "p95_rank": 171,
+   "width": 109,
+   "loo": {
+    "no-critics": 47,
+    "no-audience": 171,
+    "no-awards": 124
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "catherine-cohen",
+   "name": "Catherine Cohen",
+   "default_rank": 124,
+   "median_rank": 133,
+   "p5_rank": 63,
+   "p95_rank": 178,
+   "width": 115,
+   "loo": {
+    "no-critics": 49,
+    "no-audience": 178,
+    "no-awards": 125
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jerrod-carmichael",
+   "name": "Jerrod Carmichael",
+   "default_rank": 125,
+   "median_rank": 130,
+   "p5_rank": 64,
+   "p95_rank": 216,
+   "width": 152,
+   "loo": {
+    "no-critics": 48,
+    "no-audience": 136,
+    "no-awards": 136
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "patrice-o-neal",
+   "name": "Patrice O Neal",
+   "default_rank": 126,
+   "median_rank": 112,
+   "p5_rank": 91,
+   "p95_rank": 135,
+   "width": 44,
+   "loo": {
+    "no-critics": 90,
+    "no-audience": 91,
+    "no-awards": 116
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "d-l-hughley",
+   "name": "D L Hughley",
+   "default_rank": 127,
+   "median_rank": 118,
+   "p5_rank": 92,
+   "p95_rank": 145,
+   "width": 53,
+   "loo": {
+    "no-critics": 96,
+    "no-audience": 92,
+    "no-awards": 122
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jethro",
+   "name": "Jethro",
+   "default_rank": 128,
+   "median_rank": 123,
+   "p5_rank": 93,
+   "p95_rank": 154,
+   "width": 61,
+   "loo": {
+    "no-critics": 206,
+    "no-audience": 93,
+    "no-awards": 126
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "chelsea-handler",
+   "name": "Chelsea Handler",
+   "default_rank": 129,
+   "median_rank": 135,
+   "p5_rank": 64,
+   "p95_rank": 179,
+   "width": 115,
+   "loo": {
+    "no-critics": 50,
+    "no-audience": 179,
+    "no-awards": 127
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "deon-cole",
+   "name": "Deon Cole",
+   "default_rank": 130,
+   "median_rank": 136,
+   "p5_rank": 67,
+   "p95_rank": 192,
+   "width": 125,
+   "loo": {
+    "no-critics": 51,
+    "no-audience": 192,
+    "no-awards": 128
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "john-thomson",
+   "name": "John Thomson",
+   "default_rank": 131,
+   "median_rank": 125,
+   "p5_rank": 95,
+   "p95_rank": 155,
+   "width": 60,
+   "loo": {
+    "no-critics": 213,
+    "no-audience": 95,
+    "no-awards": 130
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "drew-michael",
+   "name": "Drew Michael",
+   "default_rank": 132,
+   "median_rank": 138,
+   "p5_rank": 68,
+   "p95_rank": 198,
+   "width": 130,
+   "loo": {
+    "no-critics": 52,
+    "no-audience": 198,
+    "no-awards": 131
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "fortune-feimster",
+   "name": "Fortune Feimster",
+   "default_rank": 133,
+   "median_rank": 139,
+   "p5_rank": 69,
+   "p95_rank": 207,
+   "width": 138,
+   "loo": {
+    "no-critics": 53,
+    "no-audience": 207,
+    "no-awards": 132
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "frankie-howerd",
+   "name": "Frankie Howerd",
+   "default_rank": 134,
+   "median_rank": 129,
+   "p5_rank": 98,
+   "p95_rank": 157,
+   "width": 59,
+   "loo": {
+    "no-critics": 177,
+    "no-audience": 98,
+    "no-awards": 133
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jack-whitehall",
+   "name": "Jack Whitehall",
+   "default_rank": 135,
+   "median_rank": 140,
+   "p5_rank": 70,
+   "p95_rank": 224,
+   "width": 154,
+   "loo": {
+    "no-critics": 54,
+    "no-audience": 224,
+    "no-awards": 134
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "tig-notaro",
+   "name": "Tig Notaro",
+   "default_rank": 136,
+   "median_rank": 130,
+   "p5_rank": 99,
+   "p95_rank": 158,
+   "width": 59,
+   "loo": {
+    "no-critics": 281,
+    "no-audience": 99,
+    "no-awards": 135
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "joe-list",
+   "name": "Joe List",
+   "default_rank": 137,
+   "median_rank": 143,
+   "p5_rank": 71,
+   "p95_rank": 232,
+   "width": 161,
+   "loo": {
+    "no-critics": 55,
+    "no-audience": 232,
+    "no-awards": 137
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ed-byrne",
+   "name": "Ed Byrne",
+   "default_rank": 138,
+   "median_rank": 134,
+   "p5_rank": 101,
+   "p95_rank": 159,
+   "width": 58,
+   "loo": {
+    "no-critics": 167,
+    "no-audience": 101,
+    "no-awards": 138
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kate-berlant",
+   "name": "Kate Berlant",
+   "default_rank": 139,
+   "median_rank": 144,
+   "p5_rank": 72,
+   "p95_rank": 236,
+   "width": 164,
+   "loo": {
+    "no-critics": 56,
+    "no-audience": 236,
+    "no-awards": 139
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "daniel-kitson",
+   "name": "Daniel Kitson",
+   "default_rank": 140,
+   "median_rank": 137,
+   "p5_rank": 102,
+   "p95_rank": 160,
+   "width": 58,
+   "loo": {
+    "no-critics": 152,
+    "no-audience": 103,
+    "no-awards": 140
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mike-epps",
+   "name": "Mike Epps",
+   "default_rank": 141,
+   "median_rank": 146,
+   "p5_rank": 73,
+   "p95_rank": 252,
+   "width": 179,
+   "loo": {
+    "no-critics": 57,
+    "no-audience": 252,
+    "no-awards": 141
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "dave-gorman",
+   "name": "Dave Gorman",
+   "default_rank": 142,
+   "median_rank": 139,
+   "p5_rank": 104,
+   "p95_rank": 161,
+   "width": 57,
+   "loo": {
+    "no-critics": 155,
+    "no-audience": 105,
+    "no-awards": 142
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mo-amer",
+   "name": "Mo Amer",
+   "default_rank": 143,
+   "median_rank": 147,
+   "p5_rank": 75,
+   "p95_rank": 253,
+   "width": 178,
+   "loo": {
+    "no-critics": 58,
+    "no-audience": 253,
+    "no-awards": 143
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "moses-storm",
+   "name": "Moses Storm",
+   "default_rank": 144,
+   "median_rank": 149,
+   "p5_rank": 76,
+   "p95_rank": 254,
+   "width": 178,
+   "loo": {
+    "no-critics": 59,
+    "no-audience": 254,
+    "no-awards": 144
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "arthur-smith",
+   "name": "Arthur Smith",
+   "default_rank": 145,
+   "median_rank": 141,
+   "p5_rank": 105,
+   "p95_rank": 162,
+   "width": 57,
+   "loo": {
+    "no-critics": 123,
+    "no-audience": 106,
+    "no-awards": 145
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "neal-brennan",
+   "name": "Neal Brennan",
+   "default_rank": 146,
+   "median_rank": 152,
+   "p5_rank": 79,
+   "p95_rank": 258,
+   "width": 179,
+   "loo": {
+    "no-critics": 60,
+    "no-audience": 258,
+    "no-awards": 146
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "phil-wang",
+   "name": "Phil Wang",
+   "default_rank": 147,
+   "median_rank": 153,
+   "p5_rank": 82,
+   "p95_rank": 264,
+   "width": 182,
+   "loo": {
+    "no-critics": 61,
+    "no-audience": 264,
+    "no-awards": 147
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "eddie-griffin",
+   "name": "Eddie Griffin",
+   "default_rank": 148,
+   "median_rank": 126,
+   "p5_rank": 106,
+   "p95_rank": 140,
+   "width": 34,
+   "loo": {
+    "no-critics": 85,
+    "no-audience": 107,
+    "no-awards": 129
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "chic-murray",
+   "name": "Chic Murray",
+   "default_rank": 149,
+   "median_rank": 144,
+   "p5_rank": 107,
+   "p95_rank": 164,
+   "width": 57,
+   "loo": {
+    "no-critics": 144,
+    "no-audience": 108,
+    "no-awards": 148
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "sam-jay",
+   "name": "Sam Jay",
+   "default_rank": 150,
+   "median_rank": 154,
+   "p5_rank": 83,
+   "p95_rank": 273,
+   "width": 190,
+   "loo": {
+    "no-critics": 62,
+    "no-audience": 273,
+    "no-awards": 149
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "amy-schumer",
+   "name": "Amy Schumer",
+   "default_rank": 151,
+   "median_rank": 142,
+   "p5_rank": 86,
+   "p95_rank": 170,
+   "width": 84,
+   "loo": {
+    "no-critics": 80,
+    "no-audience": 109,
+    "no-awards": 166
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "sam-morril",
+   "name": "Sam Morril",
+   "default_rank": 152,
+   "median_rank": 156,
+   "p5_rank": 85,
+   "p95_rank": 274,
+   "width": 189,
+   "loo": {
+    "no-critics": 63,
+    "no-audience": 274,
+    "no-awards": 150
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "frank-carson",
+   "name": "Frank Carson",
+   "default_rank": 153,
+   "median_rank": 149,
+   "p5_rank": 109,
+   "p95_rank": 166,
+   "width": 57,
+   "loo": {
+    "no-critics": 175,
+    "no-audience": 112,
+    "no-awards": 151
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "sarah-cooper",
+   "name": "Sarah Cooper",
+   "default_rank": 154,
+   "median_rank": 158,
+   "p5_rank": 89,
+   "p95_rank": 277,
+   "width": 188,
+   "loo": {
+    "no-critics": 64,
+    "no-audience": 277,
+    "no-awards": 152
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "tom-papa",
+   "name": "Tom Papa",
+   "default_rank": 155,
+   "median_rank": 161,
+   "p5_rank": 95,
+   "p95_rank": 285,
+   "width": 190,
+   "loo": {
+    "no-critics": 65,
+    "no-audience": 285,
+    "no-awards": 153
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "freddie-starr",
+   "name": "Freddie Starr",
+   "default_rank": 156,
+   "median_rank": 152,
+   "p5_rank": 110,
+   "p95_rank": 168,
+   "width": 58,
+   "loo": {
+    "no-critics": 179,
+    "no-audience": 113,
+    "no-awards": 154
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "trevor-noah",
+   "name": "Trevor Noah",
+   "default_rank": 157,
+   "median_rank": 163,
+   "p5_rank": 99,
+   "p95_rank": 289,
+   "width": 190,
+   "loo": {
+    "no-critics": 67,
+    "no-audience": 289,
+    "no-awards": 155
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "whitney-cummings",
+   "name": "Whitney Cummings",
+   "default_rank": 158,
+   "median_rank": 164,
+   "p5_rank": 102,
+   "p95_rank": 293,
+   "width": 191,
+   "loo": {
+    "no-critics": 68,
+    "no-audience": 293,
+    "no-awards": 156
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "tiffany-haddish",
+   "name": "Tiffany Haddish",
+   "default_rank": 159,
+   "median_rank": 155,
+   "p5_rank": 111,
+   "p95_rank": 282,
+   "width": 171,
+   "loo": {
+    "no-critics": 69,
+    "no-audience": 142,
+    "no-awards": 162
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "margaret-cho",
+   "name": "Margaret Cho",
+   "default_rank": 160,
+   "median_rank": 155,
+   "p5_rank": 111,
+   "p95_rank": 170,
+   "width": 59,
+   "loo": {
+    "no-critics": 231,
+    "no-audience": 114,
+    "no-awards": 157
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "barry-humphries",
+   "name": "Barry Humphries",
+   "default_rank": 161,
+   "median_rank": 155,
+   "p5_rank": 112,
+   "p95_rank": 170,
+   "width": 58,
+   "loo": {
+    "no-critics": 124,
+    "no-audience": 115,
+    "no-awards": 158
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "iliza-shlesinger",
+   "name": "Iliza Shlesinger",
+   "default_rank": 162,
+   "median_rank": 164,
+   "p5_rank": 106,
+   "p95_rank": 223,
+   "width": 117,
+   "loo": {
+    "no-critics": 70,
+    "no-audience": 223,
+    "no-awards": 159
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "todd-barry",
+   "name": "Todd Barry",
+   "default_rank": 163,
+   "median_rank": 158,
+   "p5_rank": 113,
+   "p95_rank": 172,
+   "width": 59,
+   "loo": {
+    "no-critics": 283,
+    "no-audience": 116,
+    "no-awards": 160
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "tommy-trinder",
+   "name": "Tommy Trinder",
+   "default_rank": 164,
+   "median_rank": 160,
+   "p5_rank": 114,
+   "p95_rank": 173,
+   "width": 59,
+   "loo": {
+    "no-critics": 287,
+    "no-audience": 117,
+    "no-awards": 161
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "harry-enfield",
+   "name": "Harry Enfield",
+   "default_rank": 165,
+   "median_rank": 163,
+   "p5_rank": 115,
+   "p95_rank": 174,
+   "width": 59,
+   "loo": {
+    "no-critics": 191,
+    "no-audience": 118,
+    "no-awards": 163
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "cedric-the-entertainer",
+   "name": "Cedric The Entertainer",
+   "default_rank": 166,
+   "median_rank": 163,
+   "p5_rank": 116,
+   "p95_rank": 175,
+   "width": 59,
+   "loo": {
+    "no-critics": 142,
+    "no-audience": 119,
+    "no-awards": 164
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "reginald-d-hunter",
+   "name": "Reginald D Hunter",
+   "default_rank": 167,
+   "median_rank": 166,
+   "p5_rank": 117,
+   "p95_rank": 176,
+   "width": 59,
+   "loo": {
+    "no-critics": 258,
+    "no-audience": 120,
+    "no-awards": 165
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jim-jefferies",
+   "name": "Jim Jefferies",
+   "default_rank": 168,
+   "median_rank": 169,
+   "p5_rank": 131,
+   "p95_rank": 229,
+   "width": 98,
+   "loo": {
+    "no-critics": 75,
+    "no-audience": 229,
+    "no-awards": 167
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ronnie-corbett",
+   "name": "Ronnie Corbett",
+   "default_rank": 169,
+   "median_rank": 168,
+   "p5_rank": 119,
+   "p95_rank": 179,
+   "width": 60,
+   "loo": {
+    "no-critics": 266,
+    "no-audience": 121,
+    "no-awards": 168
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "marc-maron",
+   "name": "Marc Maron",
+   "default_rank": 170,
+   "median_rank": 171,
+   "p5_rank": 136,
+   "p95_rank": 244,
+   "width": 108,
+   "loo": {
+    "no-critics": 76,
+    "no-audience": 244,
+    "no-awards": 169
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "joe-pasquale",
+   "name": "Joe Pasquale",
+   "default_rank": 171,
+   "median_rank": 170,
+   "p5_rank": 121,
+   "p95_rank": 181,
+   "width": 60,
+   "loo": {
+    "no-critics": 211,
+    "no-audience": 124,
+    "no-awards": 170
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "gabriel-iglesias",
+   "name": "Gabriel Iglesias",
+   "default_rank": 172,
+   "median_rank": 173,
+   "p5_rank": 143,
+   "p95_rank": 210,
+   "width": 67,
+   "loo": {
+    "no-critics": 78,
+    "no-audience": 210,
+    "no-awards": 171
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "daniel-tosh",
+   "name": "Daniel Tosh",
+   "default_rank": 173,
+   "median_rank": 173,
+   "p5_rank": 148,
+   "p95_rank": 188,
+   "width": 40,
+   "loo": {
+    "no-critics": 79,
+    "no-audience": 188,
+    "no-awards": 172
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "paul-merton",
+   "name": "Paul Merton",
+   "default_rank": 174,
+   "median_rank": 172,
+   "p5_rank": 123,
+   "p95_rank": 183,
+   "width": 60,
+   "loo": {
+    "no-critics": 248,
+    "no-audience": 125,
+    "no-awards": 173
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mike-birbiglia",
+   "name": "Mike Birbiglia",
+   "default_rank": 175,
+   "median_rank": 174,
+   "p5_rank": 132,
+   "p95_rank": 177,
+   "width": 45,
+   "loo": {
+    "no-critics": 89,
+    "no-audience": 138,
+    "no-awards": 174
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ricky-gervais",
+   "name": "Ricky Gervais",
+   "default_rank": 176,
+   "median_rank": 176,
+   "p5_rank": 126,
+   "p95_rank": 260,
+   "width": 134,
+   "loo": {
+    "no-critics": 83,
+    "no-audience": 137,
+    "no-awards": 185
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "paul-f-tompkins",
+   "name": "Paul F. Tompkins",
+   "default_rank": 177,
+   "median_rank": 176,
+   "p5_rank": 126,
+   "p95_rank": 185,
+   "width": 59,
+   "loo": {
+    "no-critics": 247,
+    "no-audience": 127,
+    "no-awards": 176
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "doug-stanhope",
+   "name": "Doug Stanhope",
+   "default_rank": 178,
+   "median_rank": 179,
+   "p5_rank": 153,
+   "p95_rank": 197,
+   "width": 44,
+   "loo": {
+    "no-critics": 84,
+    "no-audience": 197,
+    "no-awards": 177
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "rik-mayall",
+   "name": "Rik Mayall",
+   "default_rank": 179,
+   "median_rank": 178,
+   "p5_rank": 127,
+   "p95_rank": 186,
+   "width": 59,
+   "loo": {
+    "no-critics": 260,
+    "no-audience": 128,
+    "no-awards": 178
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "dana-carvey",
+   "name": "Dana Carvey",
+   "default_rank": 180,
+   "median_rank": 177,
+   "p5_rank": 127,
+   "p95_rank": 185,
+   "width": 58,
+   "loo": {
+    "no-critics": 93,
+    "no-audience": 129,
+    "no-awards": 184
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kathleen-madigan",
+   "name": "Kathleen Madigan",
+   "default_rank": 181,
+   "median_rank": 182,
+   "p5_rank": 158,
+   "p95_rank": 237,
+   "width": 79,
+   "loo": {
+    "no-critics": 86,
+    "no-audience": 237,
+    "no-awards": 179
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kevin-james",
+   "name": "Kevin James",
+   "default_rank": 182,
+   "median_rank": 180,
+   "p5_rank": 128,
+   "p95_rank": 187,
+   "width": 59,
+   "loo": {
+    "no-critics": 222,
+    "no-audience": 130,
+    "no-awards": 180
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ardal-ohanlon",
+   "name": "Ardal O'Hanlon",
+   "default_rank": 183,
+   "median_rank": 181,
+   "p5_rank": 129,
+   "p95_rank": 187,
+   "width": 58,
+   "loo": {
+    "no-critics": 120,
+    "no-audience": 131,
+    "no-awards": 181
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kevin-bridges",
+   "name": "Kevin Bridges",
+   "default_rank": 184,
+   "median_rank": 184,
+   "p5_rank": 164,
+   "p95_rank": 240,
+   "width": 76,
+   "loo": {
+    "no-critics": 87,
+    "no-audience": 240,
+    "no-awards": 182
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "alan-carr",
+   "name": "Alan Carr",
+   "default_rank": 185,
+   "median_rank": 184,
+   "p5_rank": 130,
+   "p95_rank": 190,
+   "width": 60,
+   "loo": {
+    "no-critics": 107,
+    "no-audience": 133,
+    "no-awards": 183
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "sarah-millican",
+   "name": "Sarah Millican",
+   "default_rank": 186,
+   "median_rank": 186,
+   "p5_rank": 130,
+   "p95_rank": 283,
+   "width": 153,
+   "loo": {
+    "no-critics": 91,
+    "no-audience": 139,
+    "no-awards": 283
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "patrick-kielty",
+   "name": "Patrick Kielty",
+   "default_rank": 187,
+   "median_rank": 187,
+   "p5_rank": 133,
+   "p95_rank": 192,
+   "width": 59,
+   "loo": {
+    "no-critics": 246,
+    "no-audience": 140,
+    "no-awards": 186
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "sebastian-maniscalco",
+   "name": "Sebastian Maniscalco",
+   "default_rank": 188,
+   "median_rank": 188,
+   "p5_rank": 179,
+   "p95_rank": 278,
+   "width": 99,
+   "loo": {
+    "no-critics": 92,
+    "no-audience": 278,
+    "no-awards": 187
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "james-acaster",
+   "name": "James Acaster",
+   "default_rank": 189,
+   "median_rank": 189,
+   "p5_rank": 143,
+   "p95_rank": 247,
+   "width": 104,
+   "loo": {
+    "no-critics": 98,
+    "no-audience": 146,
+    "no-awards": 247
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jim-norton",
+   "name": "Jim Norton",
+   "default_rank": 190,
+   "median_rank": 190,
+   "p5_rank": 144,
+   "p95_rank": 251,
+   "width": 107,
+   "loo": {
+    "no-critics": 99,
+    "no-audience": 147,
+    "no-awards": 251
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "russell-howard",
+   "name": "Russell Howard",
+   "default_rank": 191,
+   "median_rank": 191,
+   "p5_rank": 147,
+   "p95_rank": 280,
+   "width": 133,
+   "loo": {
+    "no-critics": 100,
+    "no-audience": 150,
+    "no-awards": 280
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "tim-vine",
+   "name": "Tim Vine",
+   "default_rank": 192,
+   "median_rank": 189,
+   "p5_rank": 134,
+   "p95_rank": 193,
+   "width": 59,
+   "loo": {
+    "no-critics": 282,
+    "no-audience": 153,
+    "no-awards": 188
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "hannah-gadsby",
+   "name": "Hannah Gadsby",
+   "default_rank": 193,
+   "median_rank": 193,
+   "p5_rank": 187,
+   "p95_rank": 216,
+   "width": 29,
+   "loo": {
+    "no-critics": 101,
+    "no-audience": 216,
+    "no-awards": 189
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "adam-devine",
+   "name": "Adam Devine",
+   "default_rank": 194,
+   "median_rank": 194,
+   "p5_rank": 135,
+   "p95_rank": 194,
+   "width": 59,
+   "loo": {
+    "no-critics": 103,
+    "no-audience": 154,
+    "no-awards": 190
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "adel-karam",
+   "name": "Adel Karam",
+   "default_rank": 195,
+   "median_rank": 195,
+   "p5_rank": 136,
+   "p95_rank": 195,
+   "width": 59,
+   "loo": {
+    "no-critics": 104,
+    "no-audience": 155,
+    "no-awards": 191
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "al-madrigal",
+   "name": "Al Madrigal",
+   "default_rank": 196,
+   "median_rank": 196,
+   "p5_rank": 137,
+   "p95_rank": 196,
+   "width": 59,
+   "loo": {
+    "no-critics": 105,
+    "no-audience": 156,
+    "no-awards": 192
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "alison-spittle",
+   "name": "Alison Spittle",
    "default_rank": 197,
    "median_rank": 197,
-   "p5_rank": 189,
+   "p5_rank": 139,
    "p95_rank": 197,
-   "width": 8,
+   "width": 58,
    "loo": {
-    "no-critics": 194,
-    "no-audience": 189,
+    "no-critics": 111,
+    "no-audience": 157,
+    "no-awards": 193
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "amanda-seales",
+   "name": "Amanda Seales",
+   "default_rank": 198,
+   "median_rank": 198,
+   "p5_rank": 140,
+   "p95_rank": 198,
+   "width": 58,
+   "loo": {
+    "no-critics": 112,
+    "no-audience": 158,
+    "no-awards": 194
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "andrew-schulz",
+   "name": "Andrew Schulz",
+   "default_rank": 199,
+   "median_rank": 199,
+   "p5_rank": 141,
+   "p95_rank": 199,
+   "width": 58,
+   "loo": {
+    "no-critics": 114,
+    "no-audience": 159,
+    "no-awards": 195
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "andy-woodhull",
+   "name": "Andy Woodhull",
+   "default_rank": 200,
+   "median_rank": 200,
+   "p5_rank": 142,
+   "p95_rank": 200,
+   "width": 58,
+   "loo": {
+    "no-critics": 116,
+    "no-audience": 160,
+    "no-awards": 196
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "angela-barnes",
+   "name": "Angela Barnes",
+   "default_rank": 201,
+   "median_rank": 201,
+   "p5_rank": 143,
+   "p95_rank": 201,
+   "width": 58,
+   "loo": {
+    "no-critics": 117,
+    "no-audience": 161,
     "no-awards": 197
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "anjelah-johnson",
+   "name": "Anjelah Johnson",
+   "default_rank": 202,
+   "median_rank": 202,
+   "p5_rank": 144,
+   "p95_rank": 202,
+   "width": 58,
+   "loo": {
+    "no-critics": 118,
+    "no-audience": 162,
+    "no-awards": 198
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "anthony-jeselnik",
+   "name": "Anthony Jeselnik",
+   "default_rank": 203,
+   "median_rank": 203,
+   "p5_rank": 145,
+   "p95_rank": 203,
+   "width": 58,
+   "loo": {
+    "no-critics": 119,
+    "no-audience": 163,
+    "no-awards": 199
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ari-shaffir",
+   "name": "Ari Shaffir",
+   "default_rank": 204,
+   "median_rank": 204,
+   "p5_rank": 146,
+   "p95_rank": 204,
+   "width": 58,
+   "loo": {
+    "no-critics": 121,
+    "no-audience": 164,
+    "no-awards": 200
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "arsenio-hall",
+   "name": "Arsenio Hall",
+   "default_rank": 205,
+   "median_rank": 205,
+   "p5_rank": 147,
+   "p95_rank": 205,
+   "width": 58,
+   "loo": {
+    "no-critics": 122,
+    "no-audience": 165,
+    "no-awards": 201
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "big-jay-oakerson",
+   "name": "Big Jay Oakerson",
+   "default_rank": 206,
+   "median_rank": 206,
+   "p5_rank": 149,
+   "p95_rank": 206,
+   "width": 57,
+   "loo": {
+    "no-critics": 128,
+    "no-audience": 167,
+    "no-awards": 202
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "brad-williams",
+   "name": "Brad Williams",
+   "default_rank": 207,
+   "median_rank": 207,
+   "p5_rank": 151,
+   "p95_rank": 207,
+   "width": 56,
+   "loo": {
+    "no-critics": 133,
+    "no-audience": 168,
+    "no-awards": 203
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "brendan-schaub",
+   "name": "Brendan Schaub",
+   "default_rank": 208,
+   "median_rank": 208,
+   "p5_rank": 152,
+   "p95_rank": 208,
+   "width": 56,
+   "loo": {
+    "no-critics": 134,
+    "no-audience": 169,
+    "no-awards": 204
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "brent-morin",
+   "name": "Brent Morin",
+   "default_rank": 209,
+   "median_rank": 209,
+   "p5_rank": 153,
+   "p95_rank": 209,
+   "width": 56,
+   "loo": {
+    "no-critics": 135,
+    "no-audience": 170,
+    "no-awards": 205
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bridget-christie",
+   "name": "Bridget Christie",
+   "default_rank": 210,
+   "median_rank": 210,
+   "p5_rank": 155,
+   "p95_rank": 210,
+   "width": 55,
+   "loo": {
+    "no-critics": 136,
+    "no-audience": 172,
+    "no-awards": 206
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "bridget-everett",
+   "name": "Bridget Everett",
+   "default_rank": 211,
+   "median_rank": 211,
+   "p5_rank": 156,
+   "p95_rank": 211,
+   "width": 55,
+   "loo": {
+    "no-critics": 137,
+    "no-audience": 173,
+    "no-awards": 207
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "brody-stevens",
+   "name": "Brody Stevens",
+   "default_rank": 212,
+   "median_rank": 212,
+   "p5_rank": 157,
+   "p95_rank": 212,
+   "width": 55,
+   "loo": {
+    "no-critics": 138,
+    "no-audience": 174,
+    "no-awards": 208
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "cam-patterson",
+   "name": "Cam Patterson",
+   "default_rank": 213,
+   "median_rank": 213,
+   "p5_rank": 158,
+   "p95_rank": 213,
+   "width": 55,
+   "loo": {
+    "no-critics": 139,
+    "no-audience": 175,
+    "no-awards": 209
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "casey-rocket",
+   "name": "Casey Rocket",
+   "default_rank": 214,
+   "median_rank": 214,
+   "p5_rank": 159,
+   "p95_rank": 214,
+   "width": 55,
+   "loo": {
+    "no-critics": 140,
+    "no-audience": 176,
+    "no-awards": 210
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "catherine-bohart",
+   "name": "Catherine Bohart",
+   "default_rank": 215,
+   "median_rank": 215,
+   "p5_rank": 160,
+   "p95_rank": 215,
+   "width": 55,
+   "loo": {
+    "no-critics": 141,
+    "no-audience": 177,
+    "no-awards": 211
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "chelsea-peretti",
+   "name": "Chelsea Peretti",
+   "default_rank": 216,
+   "median_rank": 216,
+   "p5_rank": 163,
+   "p95_rank": 216,
+   "width": 53,
+   "loo": {
+    "no-critics": 143,
+    "no-audience": 180,
+    "no-awards": 212
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "chris-d-elia",
+   "name": "Chris D Elia",
+   "default_rank": 217,
+   "median_rank": 217,
+   "p5_rank": 164,
+   "p95_rank": 217,
+   "width": 53,
+   "loo": {
+    "no-critics": 146,
+    "no-audience": 181,
+    "no-awards": 213
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "chris-tucker",
+   "name": "Chris Tucker",
+   "default_rank": 218,
+   "median_rank": 218,
+   "p5_rank": 166,
+   "p95_rank": 218,
+   "width": 52,
+   "loo": {
+    "no-critics": 147,
+    "no-audience": 183,
+    "no-awards": 214
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "christina-pazsitzky",
+   "name": "Christina Pazsitzky",
+   "default_rank": 219,
+   "median_rank": 219,
+   "p5_rank": 167,
+   "p95_rank": 219,
+   "width": 52,
+   "loo": {
+    "no-critics": 148,
+    "no-audience": 184,
+    "no-awards": 215
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "craig-ferguson",
+   "name": "Craig Ferguson",
+   "default_rank": 220,
+   "median_rank": 220,
+   "p5_rank": 168,
+   "p95_rank": 220,
+   "width": 52,
+   "loo": {
+    "no-critics": 149,
+    "no-audience": 185,
+    "no-awards": 216
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "cristela-alonzo",
+   "name": "Cristela Alonzo",
+   "default_rank": 221,
+   "median_rank": 221,
+   "p5_rank": 169,
+   "p95_rank": 221,
+   "width": 52,
+   "loo": {
+    "no-critics": 150,
+    "no-audience": 186,
+    "no-awards": 217
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "dan-soder",
+   "name": "Dan Soder",
+   "default_rank": 222,
+   "median_rank": 222,
+   "p5_rank": 170,
+   "p95_rank": 222,
+   "width": 52,
+   "loo": {
+    "no-critics": 151,
+    "no-audience": 187,
+    "no-awards": 218
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "dave-allen",
+   "name": "Dave Allen",
+   "default_rank": 223,
+   "median_rank": 223,
+   "p5_rank": 172,
+   "p95_rank": 223,
+   "width": 51,
+   "loo": {
+    "no-critics": 153,
+    "no-audience": 189,
+    "no-awards": 219
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "dave-attell",
+   "name": "Dave Attell",
+   "default_rank": 224,
+   "median_rank": 224,
+   "p5_rank": 173,
+   "p95_rank": 224,
+   "width": 51,
+   "loo": {
+    "no-critics": 154,
+    "no-audience": 190,
+    "no-awards": 220
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "dave-smith",
+   "name": "Dave Smith",
+   "default_rank": 225,
+   "median_rank": 225,
+   "p5_rank": 174,
+   "p95_rank": 225,
+   "width": 51,
+   "loo": {
+    "no-critics": 156,
+    "no-audience": 191,
+    "no-awards": 221
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "deray-davis",
+   "name": "Deray Davis",
+   "default_rank": 226,
+   "median_rank": 226,
+   "p5_rank": 177,
+   "p95_rank": 226,
+   "width": 49,
+   "loo": {
+    "no-critics": 160,
+    "no-audience": 193,
+    "no-awards": 222
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "dom-irrera",
+   "name": "Dom Irrera",
+   "default_rank": 227,
+   "median_rank": 227,
+   "p5_rank": 178,
+   "p95_rank": 227,
+   "width": 49,
+   "loo": {
+    "no-critics": 162,
+    "no-audience": 194,
+    "no-awards": 223
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "donnell-rawlings",
+   "name": "Donnell Rawlings",
+   "default_rank": 228,
+   "median_rank": 228,
+   "p5_rank": 180,
+   "p95_rank": 228,
+   "width": 48,
+   "loo": {
+    "no-critics": 164,
+    "no-audience": 195,
+    "no-awards": 224
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "doug-benson",
+   "name": "Doug Benson",
+   "default_rank": 229,
+   "median_rank": 229,
+   "p5_rank": 181,
+   "p95_rank": 229,
+   "width": 48,
+   "loo": {
+    "no-critics": 165,
+    "no-audience": 196,
+    "no-awards": 225
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "duncan-trussell",
+   "name": "Duncan Trussell",
+   "default_rank": 230,
+   "median_rank": 230,
+   "p5_rank": 184,
+   "p95_rank": 230,
+   "width": 46,
+   "loo": {
+    "no-critics": 166,
+    "no-audience": 199,
+    "no-awards": 226
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "eleanor-kerrigan",
+   "name": "Eleanor Kerrigan",
+   "default_rank": 231,
+   "median_rank": 231,
+   "p5_rank": 186,
+   "p95_rank": 231,
+   "width": 45,
+   "loo": {
+    "no-critics": 168,
+    "no-audience": 200,
+    "no-awards": 227
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "emily-heller",
+   "name": "Emily Heller",
+   "default_rank": 232,
+   "median_rank": 232,
+   "p5_rank": 187,
+   "p95_rank": 232,
+   "width": 45,
+   "loo": {
+    "no-critics": 169,
+    "no-audience": 201,
+    "no-awards": 228
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "emo-philips",
+   "name": "Emo Philips",
+   "default_rank": 233,
+   "median_rank": 233,
+   "p5_rank": 188,
+   "p95_rank": 233,
+   "width": 45,
+   "loo": {
+    "no-critics": 170,
+    "no-audience": 202,
+    "no-awards": 229
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "enissa-amani",
+   "name": "Enissa Amani",
+   "default_rank": 234,
+   "median_rank": 234,
+   "p5_rank": 189,
+   "p95_rank": 234,
+   "width": 45,
+   "loo": {
+    "no-critics": 171,
+    "no-audience": 203,
+    "no-awards": 230
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "eric-andre",
+   "name": "Eric Andre",
+   "default_rank": 235,
+   "median_rank": 235,
+   "p5_rank": 190,
+   "p95_rank": 235,
+   "width": 45,
+   "loo": {
+    "no-critics": 172,
+    "no-audience": 204,
+    "no-awards": 231
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "erik-griffin",
+   "name": "Erik Griffin",
+   "default_rank": 236,
+   "median_rank": 236,
+   "p5_rank": 191,
+   "p95_rank": 236,
+   "width": 45,
+   "loo": {
+    "no-critics": 173,
+    "no-audience": 205,
+    "no-awards": 232
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "fahim-anwar",
+   "name": "Fahim Anwar",
+   "default_rank": 237,
+   "median_rank": 237,
+   "p5_rank": 192,
+   "p95_rank": 237,
+   "width": 45,
+   "loo": {
+    "no-critics": 174,
+    "no-audience": 206,
+    "no-awards": 233
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "frank-skinner",
+   "name": "Frank Skinner",
+   "default_rank": 238,
+   "median_rank": 238,
+   "p5_rank": 194,
+   "p95_rank": 238,
+   "width": 44,
+   "loo": {
+    "no-critics": 176,
+    "no-audience": 208,
+    "no-awards": 234
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "fred-armisen",
+   "name": "Fred Armisen",
+   "default_rank": 239,
+   "median_rank": 239,
+   "p5_rank": 195,
+   "p95_rank": 239,
+   "width": 44,
+   "loo": {
+    "no-critics": 178,
+    "no-audience": 209,
+    "no-awards": 235
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "gary-gulman",
+   "name": "Gary Gulman",
+   "default_rank": 240,
+   "median_rank": 240,
+   "p5_rank": 197,
+   "p95_rank": 240,
+   "width": 43,
+   "loo": {
+    "no-critics": 181,
+    "no-audience": 211,
+    "no-awards": 236
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "gary-owen",
+   "name": "Gary Owen",
+   "default_rank": 241,
+   "median_rank": 241,
+   "p5_rank": 198,
+   "p95_rank": 241,
+   "width": 43,
+   "loo": {
+    "no-critics": 182,
+    "no-audience": 212,
+    "no-awards": 237
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "george-lopez",
+   "name": "George Lopez",
+   "default_rank": 242,
+   "median_rank": 242,
+   "p5_rank": 199,
+   "p95_rank": 242,
+   "width": 43,
+   "loo": {
+    "no-critics": 184,
+    "no-audience": 213,
+    "no-awards": 238
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "greg-fitzsimmons",
+   "name": "Greg Fitzsimmons",
+   "default_rank": 243,
+   "median_rank": 243,
+   "p5_rank": 201,
+   "p95_rank": 243,
+   "width": 42,
+   "loo": {
+    "no-critics": 187,
+    "no-audience": 214,
+    "no-awards": 239
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "greg-giraldo",
+   "name": "Greg Giraldo",
+   "default_rank": 244,
+   "median_rank": 244,
+   "p5_rank": 202,
+   "p95_rank": 244,
+   "width": 42,
+   "loo": {
+    "no-critics": 188,
+    "no-audience": 215,
+    "no-awards": 240
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "hans-kim",
+   "name": "Hans Kim",
+   "default_rank": 245,
+   "median_rank": 245,
+   "p5_rank": 204,
+   "p95_rank": 245,
+   "width": 41,
+   "loo": {
+    "no-critics": 189,
+    "no-audience": 217,
+    "no-awards": 241
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "harland-williams",
+   "name": "Harland Williams",
+   "default_rank": 246,
+   "median_rank": 246,
+   "p5_rank": 205,
+   "p95_rank": 246,
+   "width": 41,
+   "loo": {
+    "no-critics": 190,
+    "no-audience": 218,
+    "no-awards": 242
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "helen-bauer",
+   "name": "Helen Bauer",
+   "default_rank": 247,
+   "median_rank": 247,
+   "p5_rank": 207,
+   "p95_rank": 247,
+   "width": 40,
+   "loo": {
+    "no-critics": 193,
+    "no-audience": 220,
+    "no-awards": 243
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "henry-rollins",
+   "name": "Henry Rollins",
+   "default_rank": 248,
+   "median_rank": 248,
+   "p5_rank": 208,
+   "p95_rank": 248,
+   "width": 40,
+   "loo": {
+    "no-critics": 195,
+    "no-audience": 221,
+    "no-awards": 244
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ian-edwards",
+   "name": "Ian Edwards",
+   "default_rank": 249,
+   "median_rank": 249,
+   "p5_rank": 209,
+   "p95_rank": 249,
+   "width": 40,
+   "loo": {
+    "no-critics": 196,
+    "no-audience": 222,
+    "no-awards": 245
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jak-knight",
+   "name": "Jak Knight",
+   "default_rank": 250,
+   "median_rank": 250,
+   "p5_rank": 212,
+   "p95_rank": 250,
+   "width": 38,
+   "loo": {
+    "no-critics": 199,
+    "no-audience": 225,
+    "no-awards": 246
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jeff-garlin",
+   "name": "Jeff Garlin",
+   "default_rank": 251,
+   "median_rank": 251,
+   "p5_rank": 214,
+   "p95_rank": 251,
+   "width": 37,
+   "loo": {
+    "no-critics": 201,
+    "no-audience": 226,
+    "no-awards": 248
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jen-kirkman",
+   "name": "Jen Kirkman",
+   "default_rank": 252,
+   "median_rank": 252,
+   "p5_rank": 215,
+   "p95_rank": 252,
+   "width": 37,
+   "loo": {
+    "no-critics": 202,
+    "no-audience": 227,
+    "no-awards": 249
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jesus-trejo",
+   "name": "Jesus Trejo",
+   "default_rank": 253,
+   "median_rank": 253,
+   "p5_rank": 217,
+   "p95_rank": 253,
+   "width": 36,
+   "loo": {
+    "no-critics": 205,
+    "no-audience": 228,
+    "no-awards": 250
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jimmy-o-yang",
+   "name": "Jimmy O Yang",
+   "default_rank": 254,
+   "median_rank": 254,
+   "p5_rank": 221,
+   "p95_rank": 254,
+   "width": 33,
+   "loo": {
+    "no-critics": 208,
+    "no-audience": 230,
+    "no-awards": 252
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "jo-koy",
+   "name": "Jo Koy",
+   "default_rank": 255,
+   "median_rank": 255,
+   "p5_rank": 222,
+   "p95_rank": 255,
+   "width": 33,
+   "loo": {
+    "no-critics": 210,
+    "no-audience": 231,
+    "no-awards": 253
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "joe-rogan",
+   "name": "Joe Rogan",
+   "default_rank": 256,
+   "median_rank": 256,
+   "p5_rank": 224,
+   "p95_rank": 256,
+   "width": 32,
+   "loo": {
+    "no-critics": 212,
+    "no-audience": 233,
+    "no-awards": 254
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "josh-wolf",
+   "name": "Josh Wolf",
+   "default_rank": 257,
+   "median_rank": 257,
+   "p5_rank": 225,
+   "p95_rank": 257,
+   "width": 32,
+   "loo": {
+    "no-critics": 216,
+    "no-audience": 234,
+    "no-awards": 255
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "judah-friedlander",
+   "name": "Judah Friedlander",
+   "default_rank": 258,
+   "median_rank": 258,
+   "p5_rank": 226,
+   "p95_rank": 258,
+   "width": 32,
+   "loo": {
+    "no-critics": 217,
+    "no-audience": 235,
+    "no-awards": 256
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kavin-jay",
+   "name": "Kavin Jay",
+   "default_rank": 259,
+   "median_rank": 259,
+   "p5_rank": 230,
+   "p95_rank": 259,
+   "width": 29,
+   "loo": {
+    "no-critics": 219,
+    "no-audience": 238,
+    "no-awards": 257
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ken-jeong",
+   "name": "Ken Jeong",
+   "default_rank": 260,
+   "median_rank": 260,
+   "p5_rank": 231,
+   "p95_rank": 260,
+   "width": 29,
+   "loo": {
+    "no-critics": 221,
+    "no-audience": 239,
+    "no-awards": 258
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kevin-smith",
+   "name": "Kevin Smith",
+   "default_rank": 261,
+   "median_rank": 261,
+   "p5_rank": 233,
+   "p95_rank": 261,
+   "width": 28,
+   "loo": {
+    "no-critics": 223,
+    "no-audience": 241,
+    "no-awards": 259
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "kirk-fox",
+   "name": "Kirk Fox",
+   "default_rank": 262,
+   "median_rank": 262,
+   "p5_rank": 234,
+   "p95_rank": 262,
+   "width": 28,
+   "loo": {
+    "no-critics": 224,
+    "no-audience": 242,
+    "no-awards": 260
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "lisa-lampanelli",
+   "name": "Lisa Lampanelli",
+   "default_rank": 263,
+   "median_rank": 263,
+   "p5_rank": 236,
+   "p95_rank": 263,
+   "width": 27,
+   "loo": {
+    "no-critics": 230,
+    "no-audience": 243,
+    "no-awards": 261
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "mark-normand",
+   "name": "Mark Normand",
+   "default_rank": 264,
+   "median_rank": 264,
+   "p5_rank": 238,
+   "p95_rank": 264,
+   "width": 26,
+   "loo": {
+    "no-critics": 232,
+    "no-audience": 245,
+    "no-awards": 262
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "marlon-wayans",
+   "name": "Marlon Wayans",
+   "default_rank": 265,
+   "median_rank": 265,
+   "p5_rank": 239,
+   "p95_rank": 265,
+   "width": 26,
+   "loo": {
+    "no-critics": 234,
+    "no-audience": 246,
+    "no-awards": 263
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "matt-mccusker",
+   "name": "Matt McCusker",
+   "default_rank": 266,
+   "median_rank": 266,
+   "p5_rank": 240,
+   "p95_rank": 266,
+   "width": 26,
+   "loo": {
+    "no-critics": 235,
+    "no-audience": 247,
+    "no-awards": 264
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "maz-jobrani",
+   "name": "Maz Jobrani",
+   "default_rank": 267,
+   "median_rank": 267,
+   "p5_rank": 241,
+   "p95_rank": 267,
+   "width": 26,
+   "loo": {
+    "no-critics": 236,
+    "no-audience": 248,
+    "no-awards": 265
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "michael-mcintyre",
+   "name": "Michael Mcintyre",
+   "default_rank": 268,
+   "median_rank": 268,
+   "p5_rank": 243,
+   "p95_rank": 268,
+   "width": 25,
+   "loo": {
+    "no-critics": 237,
+    "no-audience": 250,
+    "no-awards": 266
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "moshe-kasher",
+   "name": "Moshe Kasher",
+   "default_rank": 269,
+   "median_rank": 269,
+   "p5_rank": 248,
+   "p95_rank": 269,
+   "width": 21,
+   "loo": {
+    "no-critics": 241,
+    "no-audience": 255,
+    "no-awards": 267
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "natasha-leggero",
+   "name": "Natasha Leggero",
+   "default_rank": 270,
+   "median_rank": 270,
+   "p5_rank": 249,
+   "p95_rank": 270,
+   "width": 21,
+   "loo": {
+    "no-critics": 242,
+    "no-audience": 256,
+    "no-awards": 268
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "nick-offerman",
+   "name": "Nick Offerman",
+   "default_rank": 271,
+   "median_rank": 271,
+   "p5_rank": 252,
+   "p95_rank": 271,
+   "width": 19,
+   "loo": {
+    "no-critics": 243,
+    "no-audience": 259,
+    "no-awards": 269
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "nikki-glaser",
+   "name": "Nikki Glaser",
+   "default_rank": 272,
+   "median_rank": 272,
+   "p5_rank": 253,
+   "p95_rank": 272,
+   "width": 19,
+   "loo": {
+    "no-critics": 244,
+    "no-audience": 260,
+    "no-awards": 270
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "pete-davidson",
+   "name": "Pete Davidson",
+   "default_rank": 273,
+   "median_rank": 273,
+   "p5_rank": 255,
+   "p95_rank": 273,
+   "width": 18,
+   "loo": {
+    "no-critics": 250,
+    "no-audience": 262,
+    "no-awards": 271
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "pete-holmes",
+   "name": "Pete Holmes",
+   "default_rank": 274,
+   "median_rank": 274,
+   "p5_rank": 256,
+   "p95_rank": 274,
+   "width": 18,
+   "loo": {
+    "no-critics": 251,
+    "no-audience": 263,
+    "no-awards": 272
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ralphie-may",
+   "name": "Ralphie May",
+   "default_rank": 275,
+   "median_rank": 275,
+   "p5_rank": 258,
+   "p95_rank": 275,
+   "width": 17,
+   "loo": {
+    "no-critics": 255,
+    "no-audience": 265,
+    "no-awards": 273
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ramy-youssef",
+   "name": "Ramy Youssef",
+   "default_rank": 276,
+   "median_rank": 276,
+   "p5_rank": 259,
+   "p95_rank": 276,
+   "width": 17,
+   "loo": {
+    "no-critics": 256,
+    "no-audience": 266,
+    "no-awards": 274
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "rob-schneider",
+   "name": "Rob Schneider",
+   "default_rank": 277,
+   "median_rank": 277,
+   "p5_rank": 261,
+   "p95_rank": 277,
+   "width": 16,
+   "loo": {
+    "no-critics": 262,
+    "no-audience": 267,
+    "no-awards": 275
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ron-funches",
+   "name": "Ron Funches",
+   "default_rank": 278,
+   "median_rank": 278,
+   "p5_rank": 262,
+   "p95_rank": 278,
+   "width": 16,
+   "loo": {
+    "no-critics": 265,
+    "no-audience": 268,
+    "no-awards": 276
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "ronny-chieng",
+   "name": "Ronny Chieng",
+   "default_rank": 279,
+   "median_rank": 279,
+   "p5_rank": 264,
+   "p95_rank": 279,
+   "width": 15,
+   "loo": {
+    "no-critics": 267,
+    "no-audience": 270,
+    "no-awards": 277
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "roy-wood-jr",
+   "name": "Roy Wood Jr",
+   "default_rank": 280,
+   "median_rank": 280,
+   "p5_rank": 265,
+   "p95_rank": 280,
+   "width": 15,
+   "loo": {
+    "no-critics": 270,
+    "no-audience": 271,
+    "no-awards": 278
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "russell-brand",
+   "name": "Russell Brand",
+   "default_rank": 281,
+   "median_rank": 281,
+   "p5_rank": 266,
+   "p95_rank": 281,
+   "width": 15,
+   "loo": {
+    "no-critics": 271,
+    "no-audience": 272,
+    "no-awards": 279
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "sam-tripoli",
+   "name": "Sam Tripoli",
+   "default_rank": 282,
+   "median_rank": 282,
+   "p5_rank": 270,
+   "p95_rank": 282,
+   "width": 12,
+   "loo": {
+    "no-critics": 272,
+    "no-audience": 275,
+    "no-awards": 281
+   },
+   "stable": false
+  },
+  {
+   "comedian_id": "sara-pascoe",
+   "name": "Sara Pascoe",
+   "default_rank": 283,
+   "median_rank": 283,
+   "p5_rank": 271,
+   "p95_rank": 283,
+   "width": 12,
+   "loo": {
+    "no-critics": 273,
+    "no-audience": 276,
+    "no-awards": 282
    },
    "stable": false
   },
   {
    "comedian_id": "seth-meyers",
    "name": "Seth Meyers",
-   "default_rank": 198,
-   "median_rank": 198,
-   "p5_rank": 191,
-   "p95_rank": 198,
-   "width": 7,
+   "default_rank": 284,
+   "median_rank": 284,
+   "p5_rank": 276,
+   "p95_rank": 284,
+   "width": 8,
    "loo": {
-    "no-critics": 195,
-    "no-audience": 191,
-    "no-awards": 198
+    "no-critics": 275,
+    "no-audience": 279,
+    "no-awards": 284
    },
    "stable": false
   },
   {
    "comedian_id": "shane-gillis",
    "name": "Shane Gillis",
-   "default_rank": 199,
-   "median_rank": 199,
-   "p5_rank": 192,
-   "p95_rank": 199,
-   "width": 7,
+   "default_rank": 285,
+   "median_rank": 285,
+   "p5_rank": 277,
+   "p95_rank": 285,
+   "width": 8,
    "loo": {
-    "no-critics": 196,
-    "no-audience": 192,
-    "no-awards": 199
+    "no-critics": 276,
+    "no-audience": 280,
+    "no-awards": 285
    },
    "stable": false
   },
   {
    "comedian_id": "t-j-miller",
    "name": "T J Miller",
-   "default_rank": 200,
-   "median_rank": 200,
-   "p5_rank": 194,
-   "p95_rank": 200,
-   "width": 6,
+   "default_rank": 286,
+   "median_rank": 286,
+   "p5_rank": 279,
+   "p95_rank": 286,
+   "width": 7,
    "loo": {
-    "no-critics": 198,
-    "no-audience": 194,
-    "no-awards": 200
+    "no-critics": 279,
+    "no-audience": 281,
+    "no-awards": 286
    },
    "stable": false
   },
   {
    "comedian_id": "theo-von",
    "name": "Theo Von",
-   "default_rank": 201,
-   "median_rank": 201,
-   "p5_rank": 196,
-   "p95_rank": 201,
-   "width": 5,
+   "default_rank": 287,
+   "median_rank": 287,
+   "p5_rank": 281,
+   "p95_rank": 287,
+   "width": 6,
    "loo": {
-    "no-critics": 199,
-    "no-audience": 196,
-    "no-awards": 201
+    "no-critics": 280,
+    "no-audience": 283,
+    "no-awards": 287
    },
-   "stable": true
-  },
-  {
-   "comedian_id": "tiffany-haddish",
-   "name": "Tiffany Haddish",
-   "default_rank": 202,
-   "median_rank": 202,
-   "p5_rank": 197,
-   "p95_rank": 202,
-   "width": 5,
-   "loo": {
-    "no-critics": 200,
-    "no-audience": 197,
-    "no-awards": 202
-   },
-   "stable": true
-  },
-  {
-   "comedian_id": "todd-barry",
-   "name": "Todd Barry",
-   "default_rank": 203,
-   "median_rank": 203,
-   "p5_rank": 198,
-   "p95_rank": 203,
-   "width": 5,
-   "loo": {
-    "no-critics": 202,
-    "no-audience": 198,
-    "no-awards": 203
-   },
-   "stable": true
+   "stable": false
   },
   {
    "comedian_id": "todd-glass",
    "name": "Todd Glass",
-   "default_rank": 204,
-   "median_rank": 204,
-   "p5_rank": 199,
-   "p95_rank": 204,
+   "default_rank": 288,
+   "median_rank": 288,
+   "p5_rank": 283,
+   "p95_rank": 288,
    "width": 5,
    "loo": {
-    "no-critics": 203,
-    "no-audience": 199,
-    "no-awards": 204
+    "no-critics": 284,
+    "no-audience": 284,
+    "no-awards": 288
    },
    "stable": true
   },
   {
    "comedian_id": "tom-rhodes",
    "name": "Tom Rhodes",
-   "default_rank": 205,
-   "median_rank": 205,
-   "p5_rank": 201,
-   "p95_rank": 205,
+   "default_rank": 289,
+   "median_rank": 289,
+   "p5_rank": 285,
+   "p95_rank": 289,
    "width": 4,
    "loo": {
-    "no-critics": 204,
-    "no-audience": 201,
-    "no-awards": 205
+    "no-critics": 285,
+    "no-audience": 286,
+    "no-awards": 289
    },
    "stable": true
   },
   {
    "comedian_id": "tony-hinchcliffe",
    "name": "Tony Hinchcliffe",
-   "default_rank": 206,
-   "median_rank": 206,
-   "p5_rank": 203,
-   "p95_rank": 206,
+   "default_rank": 290,
+   "median_rank": 290,
+   "p5_rank": 287,
+   "p95_rank": 290,
    "width": 3,
    "loo": {
-    "no-critics": 205,
-    "no-audience": 203,
-    "no-awards": 206
+    "no-critics": 288,
+    "no-audience": 288,
+    "no-awards": 290
    },
    "stable": true
   },
   {
    "comedian_id": "urzila-carlson",
    "name": "Urzila Carlson",
-   "default_rank": 207,
-   "median_rank": 207,
-   "p5_rank": 205,
-   "p95_rank": 207,
+   "default_rank": 291,
+   "median_rank": 291,
+   "p5_rank": 289,
+   "p95_rank": 291,
    "width": 2,
    "loo": {
-    "no-critics": 206,
-    "no-audience": 205,
-    "no-awards": 207
+    "no-critics": 289,
+    "no-audience": 290,
+    "no-awards": 291
    },
    "stable": true
   },
   {
    "comedian_id": "w-kamau-bell",
    "name": "W Kamau Bell",
-   "default_rank": 208,
-   "median_rank": 208,
-   "p5_rank": 207,
-   "p95_rank": 208,
+   "default_rank": 292,
+   "median_rank": 292,
+   "p5_rank": 291,
+   "p95_rank": 292,
    "width": 1,
    "loo": {
-    "no-critics": 207,
-    "no-audience": 207,
-    "no-awards": 208
+    "no-critics": 291,
+    "no-audience": 291,
+    "no-awards": 292
    },
    "stable": true
   },
   {
    "comedian_id": "wheeler-walker",
    "name": "Wheeler Walker",
-   "default_rank": 209,
-   "median_rank": 209,
-   "p5_rank": 208,
-   "p95_rank": 209,
+   "default_rank": 293,
+   "median_rank": 293,
+   "p5_rank": 292,
+   "p95_rank": 293,
    "width": 1,
    "loo": {
-    "no-critics": 209,
-    "no-audience": 208,
-    "no-awards": 209
+    "no-critics": 292,
+    "no-audience": 292,
+    "no-awards": 293
    },
    "stable": true
   },
   {
    "comedian_id": "william-montgomery",
    "name": "William Montgomery",
-   "default_rank": 210,
-   "median_rank": 210,
-   "p5_rank": 210,
-   "p95_rank": 210,
+   "default_rank": 294,
+   "median_rank": 294,
+   "p5_rank": 294,
+   "p95_rank": 294,
    "width": 0,
    "loo": {
-    "no-critics": 210,
-    "no-audience": 210,
-    "no-awards": 210
+    "no-critics": 293,
+    "no-audience": 294,
+    "no-awards": 294
    },
    "stable": true
   },
   {
    "comedian_id": "yakov-smirnoff",
    "name": "Yakov Smirnoff",
-   "default_rank": 211,
-   "median_rank": 211,
-   "p5_rank": 211,
-   "p95_rank": 211,
+   "default_rank": 295,
+   "median_rank": 295,
+   "p5_rank": 295,
+   "p95_rank": 295,
    "width": 0,
    "loo": {
-    "no-critics": 211,
-    "no-audience": 211,
-    "no-awards": 211
+    "no-critics": 295,
+    "no-audience": 295,
+    "no-awards": 295
    },
    "stable": true
   }

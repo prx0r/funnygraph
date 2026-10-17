@@ -1,121 +1,119 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "ali-woods",
-  "name": "Ali Woods",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "discover.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "venue-roster:angel-comedy"
-    ],
-    "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
-    "evidence": [
-      {
-        "roster": "https://www.angelcomedy.co.uk/comedians/",
-        "venue": "angel-comedy"
-      }
-    ],
-    "subs": "unknown (performer channel unregistered)",
-    "region_method": "venue-scene (overwrite on origin evidence)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 9.0,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCkZ7E_ER0rPLFMrkqlfihcA",
-    "handle": "aliwoods",
-    "title": "aliwoods",
-    "subs": 1,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "dormant",
-    "checked": "2026-10-17",
-    "clips": 0,
-    "newest_upload": "",
-    "name_match_rate": 0.0,
-    "other_names": []
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "stewart-lee",
-      "sim": 0.038
-    },
-    {
-      "comedian_id": "bo-burnham",
-      "sim": 0.021
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "ali-woods",
+ "name": "Ali Woods",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "venue-roster:angel-comedy"
   ],
-  "style_tags": {
-    "humor_type": "meta",
-    "theories": [
-      "rigidity",
-      "bisociation",
-      "status_reversal"
-    ],
-    "via": "stewart-lee",
-    "sim": 0.038,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
+  "evidence": [
+   {
+    "roster": "https://www.angelcomedy.co.uk/comedians/",
+    "venue": "angel-comedy"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)",
+  "region_method": "venue-scene (overwrite on origin evidence)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 9.0,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "region": "uk"
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCkZ7E_ER0rPLFMrkqlfihcA",
+  "handle": "AliWoods",
+  "title": "aliwoods",
+  "subs": 1,
+  "via": "forHandle-verified",
+  "source": "UK push Angel bios (verified, no search)"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "stewart-lee",
+   "sim": 0.064
+  },
+  {
+   "comedian_id": "bo-burnham",
+   "sim": 0.037
+  },
+  {
+   "comedian_id": "trevor-noah",
+   "sim": 0.025
+  }
+ ],
+ "region": "uk",
+ "style_tags": {
+  "humor_type": "meta",
+  "theories": [
+   "rigidity",
+   "bisociation",
+   "status_reversal"
+  ],
+  "via": "stewart-lee",
+  "sim": 0.064,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

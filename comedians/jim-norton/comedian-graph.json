@@ -151,6 +151,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "jim-norton-bit-01",
+      "title": "Jim Norton: 'Shame as celebration' \u2014 how the bit works",
+      "thesis": "Confesses the unconfessable with visible delight. The audience's disgust and envy arrive together \u2014 he's free in exactly the way they aren't.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "jim-norton-bit-02",
+      "title": "Jim Norton: 'The Opie-Anthony id' \u2014 how the bit works",
+      "thesis": "Two decades as radio's id made the persona: says what the room represses, gets punished by the room's laughter instead of its judgment.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -273,11 +307,11 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 55.9,
-    "legacy_era": 17.1,
+    "legacy": 35.9,
+    "legacy_era": 31.2,
     "audience": null,
     "popularity": 10.5,
-    "theory": 12.5,
+    "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
@@ -288,7 +322,7 @@
   "continent": "europe",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "gleeful degenerate",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -328,24 +362,24 @@
     ]
   },
   "rating": {
-    "headline": 2.0,
+    "headline": 67.0,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 97,
-        "pct": 2.0,
+        "rank": 38,
+        "pct": 67.0,
         "sweep": [
-          97,
-          97
+          29,
+          38
         ]
       },
       "consensus": {
-        "rank": 94,
+        "rank": 190,
         "ref": true
       },
       "canon": {
-        "rank": 49,
+        "rank": 145,
         "ref": true
       },
       "peoples": {
@@ -354,20 +388,38 @@
         "ref": true
       },
       "era": {
-        "rank": 176,
+        "rank": 204,
         "ref": true
       }
     },
     "interval": {
-      "lo": 97,
-      "hi": 97
+      "lo": 29,
+      "hi": 38
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://jimnorton.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "Shame as celebration",
+      "why_it_works": "Confesses the unconfessable with visible delight. The audience's disgust and envy arrive together \u2014 he's free in exactly the way they aren't.",
+      "theory_links": [
+        "benign_violation",
+        "expose_self_blindness"
+      ]
+    },
+    {
+      "title": "The Opie-Anthony id",
+      "why_it_works": "Two decades as radio's id made the persona: says what the room represses, gets punished by the room's laughter instead of its judgment.",
+      "theory_links": [
+        "taboo",
+        "relief"
+      ]
+    }
+  ]
 }

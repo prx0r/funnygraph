@@ -220,8 +220,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 7.6,
-    "legacy_era": 30.3,
+    "legacy": 37.3,
+    "legacy_era": 30.9,
     "audience": null,
     "popularity": 17.5,
     "theory": 0.0,
@@ -285,11 +285,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 196,
+        "rank": 186,
         "ref": true
       },
       "canon": {
-        "rank": 188,
+        "rank": 133,
         "ref": true
       },
       "peoples": {
@@ -298,17 +298,25 @@
         "ref": true
       },
       "era": {
-        "rank": 148,
+        "rank": 205,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://sarahmillican.co.uk/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Edinburgh Comedy Awards",
+        "year": 2008
+      }
+    ]
   }
 }

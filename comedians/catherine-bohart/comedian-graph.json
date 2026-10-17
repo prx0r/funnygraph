@@ -46,8 +46,8 @@
     "promoted": "2026-10-17: established (national TV/tours/awards); venue-roster draft corrected on audit"
   },
   "metrics": {
-    "legacy": 44.5,
-    "legacy_era": 67.8,
+    "legacy": 27.5,
+    "legacy_era": 61.4,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -65,11 +65,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 118,
+        "rank": 215,
         "ref": true
       },
       "canon": {
-        "rank": 74,
+        "rank": 177,
         "ref": true
       },
       "peoples": {
@@ -78,17 +78,18 @@
         "ref": true
       },
       "era": {
-        "rank": 69,
+        "rank": 115,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://catherinebohart.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "region": "uk"
 }

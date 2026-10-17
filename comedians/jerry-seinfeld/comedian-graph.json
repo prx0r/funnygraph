@@ -356,7 +356,8 @@
         "award": "Primetime Emmy Award for Outstanding Comedy Series",
         "year": 1992
       }
-    ]
+    ],
+    "paste_2017": 50
   },
   "specials_rated": [
     {
@@ -441,15 +442,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 98.1,
-    "legacy_era": 94.8,
+    "legacy": 96.6,
+    "legacy_era": 93.6,
     "audience": 70.0,
     "popularity": 71.7,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.017,
     "overrated": "accurately rated",
-    "canon_lag": -0.281
+    "canon_lag": -0.266
   },
   "tier": "king",
   "region": "us",
@@ -488,46 +489,54 @@
     ]
   },
   "rating": {
-    "headline": 95.9,
+    "headline": 95.5,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 5,
-        "pct": 95.9,
+        "rank": 6,
+        "pct": 95.5,
         "sweep": [
           2,
-          21
+          26
         ]
       },
       "consensus": {
-        "rank": 5,
+        "rank": 11,
         "ref": true
       },
       "canon": {
-        "rank": 7,
+        "rank": 17,
         "ref": true
       },
       "peoples": {
-        "rank": 15,
+        "rank": 19,
         "wr": 7.778,
         "ref": true
       },
       "era": {
-        "rank": 12,
+        "rank": 20,
         "ref": true
       }
     },
     "interval": {
       "lo": 2,
-      "hi": 21
+      "hi": 26
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://jerryseinfeld.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "27cd1225-3fa2-4ec6-bba9-ef5c1f09cbcc",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

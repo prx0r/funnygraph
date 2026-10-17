@@ -252,7 +252,8 @@
         "award": "Phoenix Award",
         "year": 1993
       }
-    ]
+    ],
+    "paste_2017": 23
   },
   "humor_type": {
     "primary": "observational",
@@ -280,8 +281,8 @@
     }
   },
   "metrics": {
-    "legacy": 86.7,
-    "legacy_era": 16.6,
+    "legacy": 90.5,
+    "legacy_era": 78.3,
     "audience": null,
     "popularity": 53.8,
     "theory": 37.5,
@@ -337,16 +338,16 @@
     ]
   },
   "rating": {
-    "headline": 51.0,
+    "headline": 41.1,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 49,
-        "pct": 51.0,
+        "rank": 67,
+        "pct": 41.1,
         "sweep": [
-          44,
-          49
+          62,
+          67
         ]
       },
       "consensus": {
@@ -354,7 +355,7 @@
         "ref": true
       },
       "canon": {
-        "rank": 21,
+        "rank": 27,
         "ref": true
       },
       "peoples": {
@@ -363,15 +364,15 @@
         "ref": true
       },
       "era": {
-        "rank": 177,
+        "rank": 65,
         "ref": true
       }
     },
     "interval": {
-      "lo": 44,
-      "hi": 49
+      "lo": 62,
+      "hi": 67
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   }
 }

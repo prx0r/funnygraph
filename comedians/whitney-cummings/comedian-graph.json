@@ -286,15 +286,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 65.4,
-    "legacy_era": 13.7,
+    "legacy": 46.8,
+    "legacy_era": 17.0,
     "audience": 30.0,
     "popularity": 12.3,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.177,
     "overrated": "accurately rated",
-    "canon_lag": -0.354
+    "canon_lag": -0.168
   },
   "tier": "king",
   "region": "us",
@@ -357,46 +357,49 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 24.5,
+    "headline": 17.9,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 75,
-        "pct": 24.5,
+        "rank": 93,
+        "pct": 17.9,
         "sweep": [
-          75,
-          75
+          93,
+          93
         ]
       },
       "consensus": {
-        "rank": 74,
+        "rank": 158,
         "ref": true
       },
       "canon": {
-        "rank": 209,
+        "rank": 293,
         "ref": true
       },
       "peoples": {
-        "rank": 52,
+        "rank": 65,
         "wr": 7.103,
         "ref": true
       },
       "era": {
-        "rank": 183,
+        "rank": 246,
         "ref": true
       }
     },
     "interval": {
-      "lo": 75,
-      "hi": 75
+      "lo": 93,
+      "hi": 93
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.whitneycummings.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": []
   }
 }

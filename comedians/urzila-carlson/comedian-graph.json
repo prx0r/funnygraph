@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 2.4,
-    "legacy_era": 24.6,
+    "legacy": 1.7,
+    "legacy_era": 34.6,
     "audience": null,
     "popularity": 21.1,
     "theory": 0.0,
@@ -275,7 +275,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 28.6,
+    "headline": 47.9,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -283,11 +283,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 207,
+        "rank": 291,
         "ref": true
       },
       "canon": {
-        "rank": 205,
+        "rank": 290,
         "ref": true
       },
       "peoples": {
@@ -296,17 +296,20 @@
         "ref": true
       },
       "era": {
-        "rank": 160,
+        "rank": 194,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://urzilacarlson.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": []
   }
 }

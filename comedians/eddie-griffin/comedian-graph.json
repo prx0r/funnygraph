@@ -268,15 +268,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 69.7,
-    "legacy_era": 7.1,
+    "legacy": 50.2,
+    "legacy_era": 1.0,
     "audience": 10.0,
     "popularity": null,
     "theory": 25.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.597
+    "canon_lag": -0.402
   },
   "tier": "king",
   "region": "us",
@@ -325,41 +325,54 @@
     }
   ],
   "rating": {
-    "headline": 8.2,
+    "headline": 3.6,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 91,
-        "pct": 8.2,
+        "rank": 109,
+        "pct": 3.6,
         "sweep": [
-          91,
-          91
+          109,
+          109
         ]
       },
       "consensus": {
-        "rank": 65,
+        "rank": 148,
         "ref": true
       },
       "canon": {
-        "rank": 30,
+        "rank": 109,
         "ref": true
       },
       "peoples": {
-        "rank": 67,
+        "rank": 81,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 197,
+        "rank": 293,
         "ref": true
       }
     },
     "interval": {
-      "lo": 91,
-      "hi": 91
+      "lo": 109,
+      "hi": 109
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "bc6c1d4e-080c-46cc-b6c8-9bf28460543b",
+    "status": "ok",
+    "tags": [
+      "black comedy",
+      "comedy",
+      "improvisational theatre",
+      "observational comedy",
+      "ribaldry",
+      "satire"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

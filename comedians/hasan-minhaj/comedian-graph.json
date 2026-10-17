@@ -233,15 +233,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 28.0,
-    "legacy_era": 51.2,
-    "audience": null,
+    "legacy": 75.2,
+    "legacy_era": 94.2,
+    "audience": 80.0,
     "popularity": 64.0,
     "theory": 0.0,
     "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+    "gap_value": -0.16,
+    "overrated": "accurately rated",
+    "canon_lag": 0.048
   },
   "tier": "king",
   "region": "us",
@@ -280,7 +280,7 @@
     "awards": []
   },
   "rating": {
-    "headline": 35.7,
+    "headline": 34.3,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -288,30 +288,41 @@
         "rank": null
       },
       "consensus": {
-        "rank": 153,
+        "rank": 74,
         "ref": true
       },
       "canon": {
-        "rank": 120,
+        "rank": 219,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 8,
+        "wr": 8.16,
         "ref": true
       },
       "era": {
-        "rank": 104,
+        "rank": 18,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://hasanminhaj.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "specials_rated": [
+    {
+      "special": "Hasan Minhaj: Homecoming King",
+      "year": 2017,
+      "imdb_id": "tt6900644",
+      "imdb_rating": 8.2,
+      "imdb_votes": 8206,
+      "source": "critic-list:paste-2017",
+      "standout": false
+    }
+  ]
 }

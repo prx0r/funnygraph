@@ -8,6 +8,7 @@
 | comedian_id | ordered | reason |
 |---|---|---|
 | ellen-degeneres | owner, 2026-10-17 | owner's prerogative ("i hate her lol" — verbatim) |
+| bobby-lee | owner, 2026-10-17 | noise reduction ("should be nowhere near this" — verbatim). Graph RETAINED on disk (deviation from Ellen precedent, reversible); skipped in all boards/pipelines via excluded.json. Full purge (graph+transcripts) on owner word. |
 
 ## Rule
 Excluded comedians: no graph, no transcripts, no boards, no future harvests.

@@ -275,7 +275,8 @@
         "award": "Grammy Awards",
         "year": null
       }
-    ]
+    ],
+    "paste_2017": 43
   },
   "specials_rated": [
     {
@@ -285,6 +286,24 @@
       "imdb_rating": 6.2,
       "imdb_votes": 220,
       "transcript": "atton-swalt-e-ll-cream-2022-ranscript.txt"
+    },
+    {
+      "special": "Patton Oswalt: No Reason to Complain",
+      "year": 2004,
+      "imdb_id": "tt0846724",
+      "imdb_rating": 7.6,
+      "imdb_votes": 948,
+      "source": "critic-list:flavorwire-2013",
+      "standout": false
+    },
+    {
+      "special": "Patton Oswalt: Annihilation",
+      "year": 2017,
+      "imdb_id": "tt7026230",
+      "imdb_rating": 7.2,
+      "imdb_votes": 2608,
+      "source": "critic-list:paste-2017",
+      "standout": false
     }
   ],
   "bio": {
@@ -317,15 +336,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 88.1,
-    "legacy_era": 18.0,
-    "audience": 30.0,
+    "legacy": 85.8,
+    "legacy_era": 86.1,
+    "audience": 65.0,
     "popularity": 46.7,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.167,
+    "gap_value": -0.183,
     "overrated": "accurately rated",
-    "canon_lag": -0.581
+    "canon_lag": -0.208
   },
   "tier": "king",
   "region": "us",
@@ -377,46 +396,57 @@
     ]
   },
   "rating": {
-    "headline": 36.7,
+    "headline": 28.6,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 63,
-        "pct": 36.7,
+        "rank": 81,
+        "pct": 28.6,
         "sweep": [
-          62,
-          63
+          80,
+          81
         ]
       },
       "consensus": {
-        "rank": 26,
+        "rank": 43,
         "ref": true
       },
       "canon": {
-        "rank": 27,
+        "rank": 59,
         "ref": true
       },
       "peoples": {
-        "rank": 45,
-        "wr": 7.103,
+        "rank": 23,
+        "wr": 7.565,
         "ref": true
       },
       "era": {
-        "rank": 174,
+        "rank": 42,
         "ref": true
       }
     },
     "interval": {
-      "lo": 62,
-      "hi": 63
+      "lo": 80,
+      "hi": 81
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.pattonoswalt.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "d9562589-942d-4971-a030-77df0503366d",
+    "status": "ok",
+    "tags": [
+      "_edit",
+      "comedy",
+      "standup",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

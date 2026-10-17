@@ -449,15 +449,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 87.2,
-    "legacy_era": 88.6,
+    "legacy": 71.5,
+    "legacy_era": 87.5,
     "audience": 62.5,
     "popularity": 75.7,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.132,
     "overrated": "accurately rated",
-    "canon_lag": -0.247
+    "canon_lag": -0.09
   },
   "tier": "king",
   "region": "us",
@@ -497,46 +497,55 @@
     ]
   },
   "rating": {
-    "headline": 72.4,
+    "headline": 75.9,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 28,
-        "pct": 72.4,
+        "pct": 75.9,
         "sweep": [
-          14,
+          15,
           28
         ]
       },
       "consensus": {
-        "rank": 28,
+        "rank": 85,
         "ref": true
       },
       "canon": {
-        "rank": 44,
+        "rank": 127,
         "ref": true
       },
       "peoples": {
-        "rank": 17,
+        "rank": 25,
         "wr": 7.5,
         "ref": true
       },
       "era": {
-        "rank": 25,
+        "rank": 38,
         "ref": true
       }
     },
     "interval": {
-      "lo": 14,
+      "lo": 15,
       "hi": 28
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://www.aliwong.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "ddcc57ca-d776-4b18-9923-c4164547f3a5",
+    "status": "ok",
+    "tags": [
+      "comedian",
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

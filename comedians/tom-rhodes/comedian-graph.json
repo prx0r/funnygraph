@@ -48,8 +48,8 @@
     "promoted": "2026-10-17: established (TV/specials/touring); KT-draft corrected on audit"
   },
   "metrics": {
-    "legacy": 3.3,
-    "legacy_era": 25.6,
+    "legacy": 2.4,
+    "legacy_era": 35.2,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -67,11 +67,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 205,
+        "rank": 289,
         "ref": true
       },
       "canon": {
-        "rank": 201,
+        "rank": 286,
         "ref": true
       },
       "peoples": {
@@ -80,12 +80,13 @@
         "ref": true
       },
       "era": {
-        "rank": 158,
+        "rank": 192,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "region": "us"
 }

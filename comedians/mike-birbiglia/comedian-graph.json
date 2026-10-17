@@ -151,6 +151,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "mike-birbiglia-bit-01",
+      "title": "Mike Birbiglia: 'Sleepwalk With Me (the long story)' \u2014 how the bit works",
+      "thesis": "Turns a sleep disorder into a one-man show about fear and marriage. Narrative standup where the story earns jokes a one-liner never could.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "mike-birbiglia-bit-02",
+      "title": "Mike Birbiglia: 'Catholic guilt inventory' \u2014 how the bit works",
+      "thesis": "Catalogs guilt like a priest catalogs sins \u2014 his own. The religion is the frame; the neurosis is the art.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -251,6 +285,24 @@
       "imdb_votes": 830,
       "transcript": "ike-irbiglia-y-irlfriend-s-oyfriend-2013-ranscript.txt",
       "standout": true
+    },
+    {
+      "special": "Mike Birbiglia: My Girlfriend's Boyfriend",
+      "year": 2013,
+      "imdb_id": "tt2937390",
+      "imdb_rating": 7.9,
+      "imdb_votes": 3890,
+      "source": "critic-list:vulture-2014",
+      "standout": false
+    },
+    {
+      "special": "Mike Birbiglia: Thank God for Jokes",
+      "year": 2017,
+      "imdb_id": "tt6608034",
+      "imdb_rating": 7.5,
+      "imdb_votes": 2972,
+      "source": "critic-list:paste-2017",
+      "standout": false
     }
   ],
   "bio": {
@@ -284,15 +336,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 57.4,
-    "legacy_era": 3.8,
-    "audience": 10.0,
+    "legacy": 41.0,
+    "legacy_era": 0.3,
+    "audience": 72.5,
     "popularity": 79.8,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
-    "gap_value": 0.698,
-    "overrated": "massively overrated",
-    "canon_lag": -0.474
+    "gap_value": 0.073,
+    "overrated": "accurately rated",
+    "canon_lag": 0.315
   },
   "tier": "king",
   "region": "us",
@@ -330,41 +382,71 @@
     ]
   },
   "recognition": {
-    "awards": []
+    "awards": [],
+    "paste_2017": 49
   },
   "rating": {
-    "headline": 63.9,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 59.8,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 46,
+        "pct": 59.8,
+        "sweep": [
+          38,
+          46
+        ]
       },
       "consensus": {
-        "rank": 91,
+        "rank": 175,
         "ref": true
       },
       "canon": {
-        "rank": 158,
+        "rank": 151,
         "ref": true
       },
       "peoples": {
-        "rank": 70,
+        "rank": 84,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 204,
+        "rank": 295,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 38,
+      "hi": 46
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.birbigs.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Monologist's patience: ten-minute stories, callbacks planted like time bombs. The laugh you get at minute nine was loaded at minute two."
+  },
+  "known_bits": [
+    {
+      "title": "Sleepwalk With Me (the long story)",
+      "why_it_works": "Turns a sleep disorder into a one-man show about fear and marriage. Narrative standup where the story earns jokes a one-liner never could.",
+      "theory_links": [
+        "storytelling",
+        "expose_self_blindness"
+      ]
+    },
+    {
+      "title": "Catholic guilt inventory",
+      "why_it_works": "Catalogs guilt like a priest catalogs sins \u2014 his own. The religion is the frame; the neurosis is the art.",
+      "theory_links": [
+        "rigidify",
+        "benign_violation"
+      ]
+    }
+  ]
 }

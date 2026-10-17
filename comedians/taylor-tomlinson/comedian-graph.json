@@ -389,15 +389,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 83.4,
-    "legacy_era": 89.1,
+    "legacy": 65.1,
+    "legacy_era": 85.8,
     "audience": 60.0,
     "popularity": 90.6,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.306,
     "overrated": "overrated",
-    "canon_lag": -0.234
+    "canon_lag": -0.051
   },
   "tier": "king",
   "region": "us",
@@ -447,46 +447,49 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 61.2,
+    "headline": 50.9,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 39,
-        "pct": 61.2,
+        "rank": 56,
+        "pct": 50.9,
         "sweep": [
-          34,
-          39
+          51,
+          56
         ]
       },
       "consensus": {
-        "rank": 36,
+        "rank": 104,
         "ref": true
       },
       "canon": {
-        "rank": 195,
+        "rank": 282,
         "ref": true
       },
       "peoples": {
-        "rank": 21,
+        "rank": 33,
         "wr": 7.41,
         "ref": true
       },
       "era": {
-        "rank": 24,
+        "rank": 43,
         "ref": true
       }
     },
     "interval": {
-      "lo": 34,
-      "hi": 39
+      "lo": 51,
+      "hi": 56
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://ttomcomedy.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": []
   }
 }

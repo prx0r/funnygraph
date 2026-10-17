@@ -1,103 +1,103 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "ismael-loutfi",
-  "name": "Ismael Loutfi",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "deadline-2026"
-    ],
-    "discovery_note": "CC half hour Sound It Out, 2x DTC sets, JFL New Face 2016"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "gabriel-iglesias",
-      "sim": 0.106
-    },
-    {
-      "comedian_id": "shane-gillis",
-      "sim": 0.043
-    },
-    {
-      "comedian_id": "john-mulaney",
-      "sim": 0.036
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "ismael-loutfi",
+ "name": "Ismael Loutfi",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "deadline-2026"
   ],
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [],
-    "via": "gabriel-iglesias",
-    "sim": 0.106,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "CC half hour Sound It Out, 2x DTC sets, JFL New Face 2016"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "website": {
-    "url": "https://ismaelloutfi.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "gabriel-iglesias",
+   "sim": 0.11
+  },
+  {
+   "comedian_id": "shane-gillis",
+   "sim": 0.046
+  },
+  {
+   "comedian_id": "mark-normand",
+   "sim": 0.042
   }
+ ],
+ "website": {
+  "url": "https://ismaelloutfi.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [],
+  "via": "gabriel-iglesias",
+  "sim": 0.11,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

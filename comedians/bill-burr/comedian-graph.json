@@ -537,6 +537,15 @@
       "imdb_rating": 5.5,
       "imdb_votes": 68184,
       "transcript": "bill-burr-you-people-are-all-same.txt"
+    },
+    {
+      "special": "Bill Burr: Let It Go",
+      "year": 2010,
+      "imdb_id": "tt1717578",
+      "imdb_rating": 8.3,
+      "imdb_votes": 6178,
+      "source": "critic-list:flavorwire-2013",
+      "standout": false
     }
   ],
   "humor_type": {
@@ -573,15 +582,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 92.9,
-    "legacy_era": 98.1,
-    "audience": 75.0,
+    "legacy": 91.5,
+    "legacy_era": 96.6,
+    "audience": 82.5,
     "popularity": 91.2,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.162,
+    "gap_value": 0.087,
     "overrated": "accurately rated",
-    "canon_lag": -0.179
+    "canon_lag": -0.09
   },
   "tier": "king",
   "region": "us",
@@ -621,33 +630,33 @@
     ]
   },
   "rating": {
-    "headline": 87.8,
+    "headline": 89.3,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 13,
-        "pct": 87.8,
+        "pct": 89.3,
         "sweep": [
           13,
           21
         ]
       },
       "consensus": {
-        "rank": 16,
+        "rank": 26,
         "ref": true
       },
       "canon": {
-        "rank": 20,
+        "rank": 61,
         "ref": true
       },
       "peoples": {
-        "rank": 10,
+        "rank": 11,
         "wr": 7.982,
         "ref": true
       },
       "era": {
-        "rank": 5,
+        "rank": 11,
         "ref": true
       }
     },
@@ -655,7 +664,7 @@
       "lo": 13,
       "hi": 21
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

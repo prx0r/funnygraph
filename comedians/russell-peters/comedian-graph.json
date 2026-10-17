@@ -248,7 +248,13 @@
     "breakthrough": "1990s"
   },
   "recognition": {
-    "rolling_stone_2017": 44
+    "rolling_stone_2017": 44,
+    "awards": [
+      {
+        "award": "Canada's Walk of Fame",
+        "year": 2011
+      }
+    ]
   },
   "specials_rated": [
     {
@@ -292,15 +298,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 84.8,
-    "legacy_era": 19.4,
+    "legacy": 62.4,
+    "legacy_era": 8.1,
     "audience": 47.5,
     "popularity": 61.1,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.136,
     "overrated": "accurately rated",
-    "canon_lag": -0.373
+    "canon_lag": -0.149
   },
   "tier": "king",
   "region": "canada",
@@ -363,41 +369,41 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 32.7,
+    "headline": 25.0,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 67,
-        "pct": 32.7,
+        "rank": 85,
+        "pct": 25.0,
         "sweep": [
-          67,
-          67
+          85,
+          85
         ]
       },
       "consensus": {
-        "rank": 33,
+        "rank": 112,
         "ref": true
       },
       "canon": {
-        "rank": 40,
+        "rank": 124,
         "ref": true
       },
       "peoples": {
-        "rank": 25,
+        "rank": 39,
         "wr": 7.378,
         "ref": true
       },
       "era": {
-        "rank": 171,
+        "rank": 272,
         "ref": true
       }
     },
     "interval": {
-      "lo": 67,
-      "hi": 67
+      "lo": 85,
+      "hi": 85
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

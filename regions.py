@@ -182,12 +182,69 @@ def board() -> None:
         print(f"  {r:15} {n}")
 
 
+def countries() -> None:
+    """Top comedians per country (us/uk/ca/au/nz): kings by house + local indies.
+
+    Country pages need both canon and discovery: established kings ranked
+    by house percentile, plus the best local indies by headline (rising
+    locals). Regions come from graphs (origin/scene tags); thin countries
+    show thin boards with the badge, never padded.
+    Output: rankings/by_country.json.
+    """
+    house = {r["comedian_id"]: r for r in
+             json.loads((HERE / "rankings" / "house.json").read_text())["rows"]}
+    ratings = {r["comedian_id"]: r for r in
+               json.loads((HERE / "rankings" / "ratings.json").read_text())["rows"]}
+    targets = {"us": "United States", "uk": "United Kingdom",
+               "canada": "Canada", "australia": "Australia",
+               "new-zealand": "New Zealand"}
+    out = {}
+    for code, label in targets.items():
+        kings, indies = [], []
+        for d in sorted(COMEDIANS.iterdir()):
+            g = d / "comedian-graph.json"
+            if not g.exists() or d.name in EXCLUDED:
+                continue
+            try:
+                j = json.loads(g.read_text())
+            except json.JSONDecodeError:
+                continue
+            r = j.get("region")
+            r = r if isinstance(r, str) else (r or {}).get("id", "")
+            if r != code:
+                continue
+            row = {"comedian_id": d.name, "name": j.get("name", d.name)}
+            if j.get("tier", "king") == "king" and d.name in house:
+                h = house[d.name]
+                row.update({"house": h["house"], "house_pct": h["house_pct"],
+                            "rank": h["rank"], "coverage": h["coverage"]})
+                kings.append(row)
+            elif j.get("tier") == "indie":
+                rt = ratings.get(d.name, {})
+                row.update({"headline": rt.get("headline"),
+                            "provisional": rt.get("provisional")})
+                indies.append(row)
+        kings.sort(key=lambda r: -r["house"])
+        indies.sort(key=lambda r: -(r["headline"] or -1))
+        out[code] = {"label": label, "n_kings": len(kings),
+                     "n_indies": len(indies),
+                     "thin": len(kings) < 5,
+                     "kings": kings[:15], "rising": indies[:10]}
+    (HERE / "rankings" / "by_country.json").write_text(json.dumps(out, indent=1))
+    for code, v in out.items():
+        top = v["kings"][0]["name"] if v["kings"] else "—"
+        print(f"  {code:12} {len(v['kings']):>3} kings, {len(v['rising']):>3} indies "
+              f"{'(THIN)' if v['thin'] else ''} #1 {top}")
+    print("saved rankings/by_country.json")
+
+
 def main() -> None:
     import argparse
     ap = argparse.ArgumentParser()
     ap.add_argument("--tag-all", action="store_true")
     ap.add_argument("--seed-global", action="store_true")
     ap.add_argument("--board", action="store_true")
+    ap.add_argument("--countries", action="store_true")
     args = ap.parse_args()
     if args.tag_all:
         tag_all()
@@ -195,6 +252,8 @@ def main() -> None:
         seed_global()
     if args.board:
         board()
+    if args.countries:
+        countries()
     if not any(vars(args).values()):
         ap.print_help()
 

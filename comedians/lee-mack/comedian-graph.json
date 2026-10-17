@@ -127,6 +127,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "lee-mack-bit-01",
+      "title": "Lee Mack: 'Suffering as sitcom engine' \u2014 how the bit works",
+      "thesis": "Plays the put-upon straight man to a chaotic world (and sitcom). The moan is musical \u2014 audiences laugh at the inevitability before the punchline lands.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "lee-mack-bit-02",
+      "title": "Lee Mack: 'Quick wit under fire' \u2014 how the bit works",
+      "thesis": "Would I Lie to You? turned his heckler-brain into a panel-show weapon. The speed IS the bit: thinking faster than everyone in the room, live.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -240,22 +274,22 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 19.0,
-    "legacy_era": 42.2,
-    "audience": null,
+    "legacy": 66.8,
+    "legacy_era": 73.2,
+    "audience": 55.0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": null
+    "canon_lag": -0.118
   },
   "tier": "king",
   "region": "uk",
   "continent": "europe",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "put-upon everyman",
     "repertoire": {
       "observational": 1.0
     },
@@ -292,15 +326,20 @@
     ]
   },
   "rating": {
-    "headline": 75.5,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 64.3,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 41,
+        "pct": 64.3,
+        "sweep": [
+          33,
+          41
+        ]
       },
       "consensus": {
-        "rank": 172,
+        "rank": 99,
         "ref": true
       },
       "canon": {
@@ -308,17 +347,60 @@
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 31,
+        "wr": 7.42,
         "ref": true
       },
       "era": {
-        "rank": 123,
+        "rank": 80,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 33,
+      "hi": 41
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "specials_rated": [
+    {
+      "special": "Lee Mack: Going Out Live",
+      "year": 2010,
+      "imdb_id": "tt2170475",
+      "imdb_rating": 7.2,
+      "imdb_votes": 183,
+      "source": "known-title",
+      "standout": false
+    }
+  ],
+  "timing_profile": {
+    "doctrine_hypothesis": "Rapid-fire moaning with perfect sitcom timing \u2014 the complaint arrives before the setup finishes. Not Going Out rhythm: chaos enters, Lee suffers, audience sides with the sufferer."
+  },
+  "known_bits": [
+    {
+      "title": "Suffering as sitcom engine",
+      "why_it_works": "Plays the put-upon straight man to a chaotic world (and sitcom). The moan is musical \u2014 audiences laugh at the inevitability before the punchline lands.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    },
+    {
+      "title": "Quick wit under fire",
+      "why_it_works": "Would I Lie to You? turned his heckler-brain into a panel-show weapon. The speed IS the bit: thinking faster than everyone in the room, live.",
+      "theory_links": [
+        "split_knowledge",
+        "superiority"
+      ]
+    }
+  ],
+  "youtube_channel": {
+    "id": "UCCwNLAU8YZk2SuviSjR3CQA",
+    "handle": "LeeMack",
+    "title": "Lee Mack",
+    "subs": 61000,
+    "via": "forHandle-verified",
+    "source": "UK push (verified, no search)"
   }
 }

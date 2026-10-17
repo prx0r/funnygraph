@@ -48,8 +48,8 @@
     "promoted": "2026-10-17: established (TV/specials/touring); KT-draft corrected on audit"
   },
   "metrics": {
-    "legacy": 24.2,
-    "legacy_era": 47.4,
+    "legacy": 14.6,
+    "legacy_era": 47.8,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -67,11 +67,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 161,
+        "rank": 253,
         "ref": true
       },
       "canon": {
-        "rank": 130,
+        "rank": 228,
         "ref": true
       },
       "peoples": {
@@ -80,17 +80,18 @@
         "ref": true
       },
       "era": {
-        "rank": 112,
+        "rank": 155,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://jesustrejo.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "region": "us"
 }

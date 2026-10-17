@@ -227,8 +227,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 11.8,
-    "legacy_era": 34.6,
+    "legacy": 6.8,
+    "legacy_era": 39.7,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -271,7 +271,7 @@
     ]
   },
   "rating": {
-    "headline": 41.8,
+    "headline": 33.0,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -279,11 +279,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 187,
+        "rank": 276,
         "ref": true
       },
       "canon": {
-        "rank": 174,
+        "rank": 266,
         "ref": true
       },
       "peoples": {
@@ -292,17 +292,20 @@
         "ref": true
       },
       "era": {
-        "rank": 139,
+        "rank": 179,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://ramyyoussef.net",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": []
   }
 }

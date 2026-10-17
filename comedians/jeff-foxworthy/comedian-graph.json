@@ -281,15 +281,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 92.4,
-    "legacy_era": 6.6,
+    "legacy": 68.8,
+    "legacy_era": 7.1,
     "audience": 47.5,
     "popularity": 68.7,
     "theory": 25.0,
     "heat": null,
     "gap_value": 0.212,
     "overrated": "overrated",
-    "canon_lag": -0.449
+    "canon_lag": -0.213
   },
   "tier": "king",
   "region": "us",
@@ -335,46 +335,54 @@
     ]
   },
   "rating": {
-    "headline": 7.1,
+    "headline": 2.7,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 92,
-        "pct": 7.1,
+        "rank": 110,
+        "pct": 2.7,
         "sweep": [
-          92,
-          92
+          110,
+          110
         ]
       },
       "consensus": {
-        "rank": 17,
+        "rank": 93,
         "ref": true
       },
       "canon": {
-        "rank": 28,
+        "rank": 106,
         "ref": true
       },
       "peoples": {
-        "rank": 28,
+        "rank": 43,
         "wr": 7.214,
         "ref": true
       },
       "era": {
-        "rank": 198,
+        "rank": 275,
         "ref": true
       }
     },
     "interval": {
-      "lo": 92,
-      "hi": 92
+      "lo": 110,
+      "hi": 110
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.jefffoxworthy.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "6d3c8710-afdf-4c99-bb7c-c53d924b8254",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

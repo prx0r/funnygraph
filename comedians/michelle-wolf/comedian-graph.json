@@ -244,15 +244,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 15.6,
-    "legacy_era": 38.9,
-    "audience": null,
+    "legacy": 65.8,
+    "legacy_era": 86.8,
+    "audience": 60.0,
     "popularity": 63.2,
     "theory": 0.0,
     "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+    "gap_value": 0.032,
+    "overrated": "accurately rated",
+    "canon_lag": -0.058
   },
   "tier": "king",
   "region": "us",
@@ -291,7 +291,7 @@
     "awards": []
   },
   "rating": {
-    "headline": 5.1,
+    "headline": 0.9,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -299,30 +299,50 @@
         "rank": null
       },
       "consensus": {
-        "rank": 179,
+        "rank": 102,
         "ref": true
       },
       "canon": {
-        "rank": 157,
+        "rank": 251,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 30,
+        "wr": 7.428,
         "ref": true
       },
       "era": {
-        "rank": 130,
+        "rank": 40,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.michelleisawolf.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "specials_rated": [
+    {
+      "special": "Michelle Wolf: Nice Lady",
+      "year": 2017,
+      "imdb_id": "tt7666792",
+      "imdb_rating": 7.4,
+      "imdb_votes": 1265,
+      "source": "critic-list:paste-2017",
+      "standout": false
+    }
+  ],
+  "musicbrainz": {
+    "id": "9611b2df-97c4-4993-a486-58957ad5d193",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

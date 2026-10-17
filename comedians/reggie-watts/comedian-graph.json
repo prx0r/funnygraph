@@ -115,6 +115,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "reggie-watts-bit-01",
+      "title": "Reggie Watts: 'The song that eats itself' \u2014 how the bit works",
+      "thesis": "Loop-pedal compositions that collapse into nonsense mid-groove. The audience's musical expectations get built and mugged in the same minute.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "reggie-watts-bit-02",
+      "title": "Reggie Watts: 'Fake TED talk' \u2014 how the bit works",
+      "thesis": "Performs expertise fluently about nothing. The form of sense with the content of static \u2014 authority as costume.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -205,7 +239,8 @@
     "breakthrough": "2000s musical-comedy"
   },
   "recognition": {
-    "rolling_stone_2017": 46
+    "rolling_stone_2017": 46,
+    "awards": []
   },
   "bio": {
     "wikidata_id": "Q3423441",
@@ -230,22 +265,22 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 60.2,
-    "legacy_era": 11.4,
-    "audience": null,
+    "legacy": 68.1,
+    "legacy_era": 12.2,
+    "audience": 55.0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": null
+    "canon_lag": -0.131
   },
   "tier": "king",
   "region": "us",
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "loop-station alien",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -274,38 +309,78 @@
     ]
   },
   "rating": {
-    "headline": 31.6,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 56.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 50,
+        "pct": 56.2,
+        "sweep": [
+          43,
+          50
+        ]
       },
       "consensus": {
-        "rank": 85,
+        "rank": 95,
         "ref": true
       },
       "canon": {
-        "rank": 42,
+        "rank": 132,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 34,
+        "wr": 7.384,
         "ref": true
       },
       "era": {
-        "rank": 188,
+        "rank": 260,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 43,
+      "hi": 50
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.reggiewatts.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Builds soundscapes live, then derails them on purpose. The music promises structure; the derailment is the set."
+  },
+  "known_bits": [
+    {
+      "title": "The song that eats itself",
+      "why_it_works": "Loop-pedal compositions that collapse into nonsense mid-groove. The audience's musical expectations get built and mugged in the same minute.",
+      "theory_links": [
+        "juxtapose",
+        "absurd"
+      ]
+    },
+    {
+      "title": "Fake TED talk",
+      "why_it_works": "Performs expertise fluently about nothing. The form of sense with the content of static \u2014 authority as costume.",
+      "theory_links": [
+        "mistake_identity",
+        "rigidify"
+      ]
+    }
+  ],
+  "specials_rated": [
+    {
+      "special": "Reggie Watts: Why $#!+ So Crazy?",
+      "year": 2010,
+      "imdb_id": "tt1683941",
+      "imdb_rating": 7.2,
+      "imdb_votes": 317,
+      "source": "critic-list:flavorwire-2013",
+      "standout": false
+    }
+  ]
 }

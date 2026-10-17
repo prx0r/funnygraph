@@ -1,128 +1,128 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "ari-matti",
-  "name": "Ari Matti",
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "ari-matti",
+ "name": "Ari Matti",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {
+   "rigidity": 0.055,
+   "status_reversal": 0.223,
+   "identity_contradiction": 0.212,
+   "self_awareness": 0.681,
+   "specificity": 0.623,
+   "escalation": 0.114,
+   "garden_path": 0.491,
+   "benign_violation": 0.867
+  },
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": [],
+  "operator_priors_status": "measured-kt-jezv: judge-aggregated over 40 mechanism reads (10 ops); judge-measured, not transcript-measured"
+ },
+ "discovery": {
+  "discovered_from": [
+   "kill-tony-minutes"
+  ],
+  "discovery_note": "",
+  "kt_appearances": 4
+ },
+ "theory_score": null,
+ "nearest_greats": [],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
   "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {
-      "rigidity": 0.055,
-      "status_reversal": 0.223,
-      "identity_contradiction": 0.212,
-      "self_awareness": 0.681,
-      "specificity": 0.623,
-      "escalation": 0.114,
-      "garden_path": 0.491,
-      "benign_violation": 0.867
-    },
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": [],
-    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 40 mechanism reads (10 ops); judge-measured, not transcript-measured"
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 32.4,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "bio": {
+  "wikidata_id": "Q130496880",
+  "dob": "1992-01-20",
+  "dod": null,
+  "birthplace": "Tallinn",
+  "citizenship": "Estonia",
+  "occupations": [
+   "stand-up comedian"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "recognition": {
+  "awards": []
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "discovery": {
-    "discovered_from": [
-      "kill-tony-minutes"
-    ],
-    "discovery_note": "",
-    "kt_appearances": 4
-  },
-  "theory_score": null,
-  "nearest_greats": [],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 32.4,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "bio": {
-    "wikidata_id": "Q130496880",
-    "dob": "1992-01-20",
-    "dod": null,
-    "birthplace": "Tallinn",
-    "citizenship": "Estonia",
-    "occupations": [
-      "stand-up comedian"
-    ],
-    "source": "wikidata (CC0)"
-  },
-  "recognition": {
-    "awards": []
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCQSBM0iYP1uWwZKGb3dClRQ",
-    "handle": "arimatti",
-    "title": "AriMatti",
-    "subs": 13,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "stale",
-    "checked": "2026-10-17",
-    "clips": 8,
-    "newest_upload": "2016-05-10",
-    "name_match_rate": 0.0,
-    "other_names": []
-  },
-  "website": {
-    "url": "https://arimatti.com/",
-    "source": "wikidata-P856",
-    "checked": "2026-10-17"
-  }
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCQSBM0iYP1uWwZKGb3dClRQ",
+  "handle": "arimatti",
+  "title": "AriMatti",
+  "subs": 13,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "stale",
+  "checked": "2026-10-17",
+  "clips": 8,
+  "newest_upload": "2016-05-10",
+  "name_match_rate": 0.0,
+  "other_names": []
+ },
+ "website": {
+  "url": "https://arimatti.com/",
+  "source": "wikidata-P856",
+  "checked": "2026-10-17"
+ }
 }

@@ -7,21 +7,43 @@
 > (kendall_w.py, stability.py, mallows_phi.py, bt_leg.py, split_boards.py —
 > see PAPER_ARXIV.md). The rest stand.
 
-## Fitted result (fit_weights.py): the legs disagree
+## Fitted result (fit_weights.py): the legs disagree — WITH A CAVEAT (runs A+B)
 
-Hid RS2017, predicted it from CC2004+IMDb+awards over 16 comics on both lists:
+Hide RS2017, predict it from CC2004+IMDb+awards.
+
+Run A (day-zero, n=16):
 
 | Weights (CC, IMDb, awards) | Kendall concordance |
 |---|---|
 | (1, 0, 0) — CC only | **0.692** |
-| (3, 2, 1) — current | 0.658 |
+| (3, 2, 1) — asserted | 0.658 |
 | best found | 0.692 at (1, 0, 0) |
 
-**Adding IMDb + awards made canon prediction WORSE.** They don't refine the
-critics' signal — they measure something else (audience taste ≠ critic canon).
-Averaging legs destroys both signals. The fix is not better weights; it's
-**stop averaging, model the disagreement**: separate CANON and PEOPLE'S
-CHOICE boards, with the gap as the product.
+Run B (2026-10-17, n=29 — more graphs carry both ranks now; 2 members
+gained critic-matched specials; several gained awards):
+
+| Weights (CC, IMDb, awards) | Kendall concordance |
+|---|---|
+| (1, 0, 0) — CC only | 0.635 |
+| (3, 2, 1) — asserted | 0.677 |
+| best found | **0.709 at (1, 2, 1)** |
+
+**The grid search flipped direction between runs.** n≈16–29 grid fits are
+FRAGILE — a few members' features move the estimate ±0.05. Do not steer
+product by either run alone. The split boards stand on the STABLE evidence
+instead: pairwise taus (n=178–232, τ ca≈.18–.20 with tight CIs) and
+Mallows precision ordering — critics and audiences measure different
+things whether or not any given grid run favors blending. The v0.2 papers
+cited Run A as proof; corrected in §§ below to weak-signal status.
+
+**Run A read:** adding IMDb + awards made canon prediction worse — they
+measure something else (audience taste ≠ critic canon). **Run B read:**
+with fuller audience features, blending helps. Both reads are consistent
+with the stable finding (taus): the legs measure different things; whether
+a tiny grid run rewards blending depends on feature coverage that week.
+Product stance unchanged: **stop averaging, model the disagreement** —
+separate CANON and PEOPLE'S CHOICE boards, with the gap as the product.
+The gap is now justified by taus, not by either grid run.
 
 ## Gap list
 
@@ -38,7 +60,12 @@ as a new leg with a 2026 timestamp (TOP2026.md).**
 - Rating drift: platform-wide inflation over time uncorrected.
 - **Fix: time-decayed momentum (rating velocity), vote-count floors per era.**
 
-### 3. Awards leg sparse + mainstream-biased (HIGH)
+### 3. Awards leg sparse + mainstream-biased (HIGH) — 🔶 PARTIAL (v0.2+)
+Filter + weights now accept regional legs (11 labels landed: British
+Comedy/Chortle/Edinburgh; Matafeo Edinburgh + Vir Das Emmy curated from
+source). Wikidata P166 is the binding constraint for NG/AU scenes —
+bios/QIDs missing, not just filtered. Weights asserted (too sparse to
+fit — stated in code).
 13/181 scored. Grammys favor recorded mainstream; Mark Twain is lifetime
 achievement (old comics); alt/underground systematically excluded.
 **Fix: more QIDs (bios running), plus comedy-specific awards (American Comedy

@@ -48,8 +48,8 @@
     "promoted": "2026-10-17: national footprint (tours/TV); indie draft corrected on audit"
   },
   "metrics": {
-    "legacy": 53.5,
-    "legacy_era": 76.8,
+    "legacy": 33.6,
+    "legacy_era": 67.5,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -67,11 +67,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 99,
+        "rank": 197,
         "ref": true
       },
       "canon": {
-        "rank": 53,
+        "rank": 157,
         "ref": true
       },
       "peoples": {
@@ -80,12 +80,13 @@
         "ref": true
       },
       "era": {
-        "rank": 50,
+        "rank": 97,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "region": "ireland"
 }

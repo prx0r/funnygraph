@@ -2,50 +2,50 @@
  "note": "Inter-leg concordance. tau-b handles ties (awards zeros). W needs complete rankings: full-coverage subset only. CIs by resampling comics (1000 reps).",
  "pairwise_tau_b": {
   "critics_vs_audience": {
-   "tau_b": 0.22,
+   "tau_b": -0.036,
    "ci95": [
-    0.099,
-    0.363
+    -0.125,
+    0.08
    ],
-   "n": 211
+   "n": 295
   },
   "critics_vs_awards": {
-   "tau_b": 0.443,
+   "tau_b": 0.103,
    "ci95": [
-    0.258,
-    0.594
+    -0.007,
+    0.219
    ],
-   "n": 211
+   "n": 295
   },
   "audience_vs_awards": {
-   "tau_b": 0.312,
+   "tau_b": 0.374,
    "ci95": [
-    0.172,
-    0.426
+    0.266,
+    0.492
    ],
-   "n": 211
+   "n": 295
   }
  },
  "kendalls_W_all3": {
-  "W": 0.4375,
-  "chi2_p": 0.21676668202263094,
-  "n": 11
+  "W": 0.5921,
+  "chi2_p": 0.040573805994142065,
+  "n": 14
  },
  "kendalls_W_critics_audience": {
-  "W": 0.707,
-  "chi2_p": 0.09391269604802432,
-  "n": 23
+  "W": 0.6796,
+  "chi2_p": 0.07897538624818545,
+  "n": 35
  },
  "leg_centrality": {
-  "critics": 0.332,
-  "audience": 0.266,
-  "awards": 0.378
+  "critics": 0.034,
+  "audience": 0.169,
+  "awards": 0.238
  },
  "coverage": {
-  "critics": 41,
-  "audience": 76,
-  "awards": 25,
-  "all_three": 11,
-  "n_kings": 211
+  "critics": 134,
+  "audience": 90,
+  "awards": 41,
+  "all_three": 14,
+  "n_kings": 295
  }
 }

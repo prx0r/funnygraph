@@ -10,6 +10,8 @@
    "standout_year": 2021,
    "standout_votes": 60396,
    "momentum_recency": 0.909,
+   "n_specials_rated": 5,
+   "approval_rate": 0.8,
    "generation": "aughts"
   },
   {
@@ -21,6 +23,8 @@
    "standout_year": 1998,
    "standout_votes": 7781,
    "momentum_recency": 0.491,
+   "n_specials_rated": 5,
+   "approval_rate": 0.6,
    "generation": "nineties"
   },
   {
@@ -32,6 +36,8 @@
    "standout_year": 2008,
    "standout_votes": 11507,
    "momentum_recency": 0.673,
+   "n_specials_rated": 7,
+   "approval_rate": 0.714,
    "generation": "nineties"
   },
   {
@@ -43,6 +49,8 @@
    "standout_year": 2004,
    "standout_votes": 9534,
    "momentum_recency": 0.6,
+   "n_specials_rated": 15,
+   "approval_rate": 0.4,
    "generation": "nineties"
   },
   {
@@ -54,6 +62,8 @@
    "standout_year": 1992,
    "standout_votes": 2756,
    "momentum_recency": 0.382,
+   "n_specials_rated": 4,
+   "approval_rate": 0.5,
    "generation": "nineties"
   },
   {
@@ -65,6 +75,8 @@
    "standout_year": 2008,
    "standout_votes": 6881,
    "momentum_recency": 0.673,
+   "n_specials_rated": 14,
+   "approval_rate": 0.429,
    "generation": "seventies"
   },
   {
@@ -76,10 +88,25 @@
    "standout_year": 2019,
    "standout_votes": 2232,
    "momentum_recency": 0.873,
+   "n_specials_rated": 1,
+   "approval_rate": 1.0,
    "generation": "aughts"
   },
   {
    "rank": 8,
+   "comedian_id": "hasan-minhaj",
+   "name": "Hasan Minhaj",
+   "wr": 8.16,
+   "standout": "Hasan Minhaj: Homecoming King",
+   "standout_year": 2017,
+   "standout_votes": 8206,
+   "momentum_recency": 0.836,
+   "n_specials_rated": 1,
+   "approval_rate": 1.0,
+   "generation": "tens"
+  },
+  {
+   "rank": 9,
    "comedian_id": "stewart-lee",
    "name": "Stewart Lee",
    "wr": 8.092,
@@ -87,10 +114,12 @@
    "standout_year": 2012,
    "standout_votes": 726,
    "momentum_recency": 0.745,
+   "n_specials_rated": 5,
+   "approval_rate": 0.6,
    "generation": "nineties"
   },
   {
-   "rank": 9,
+   "rank": 10,
    "comedian_id": "eddie-murphy",
    "name": "Eddie Murphy",
    "wr": 8.085,
@@ -98,10 +127,12 @@
    "standout_year": 1983,
    "standout_votes": 19538,
    "momentum_recency": 0.218,
+   "n_specials_rated": 1,
+   "approval_rate": 1.0,
    "generation": "eighties-boom"
   },
   {
-   "rank": 10,
+   "rank": 11,
    "comedian_id": "bill-burr",
    "name": "Bill Burr",
    "wr": 7.982,
@@ -109,10 +140,12 @@
    "standout_year": 2019,
    "standout_votes": 13449,
    "momentum_recency": 0.873,
+   "n_specials_rated": 9,
+   "approval_rate": 0.444,
    "generation": "aughts"
   },
   {
-   "rank": 11,
+   "rank": 12,
    "comedian_id": "chris-rock",
    "name": "Chris Rock",
    "wr": 7.97,
@@ -120,10 +153,12 @@
    "standout_year": 1999,
    "standout_votes": 7833,
    "momentum_recency": 0.509,
+   "n_specials_rated": 9,
+   "approval_rate": 0.222,
    "generation": "eighties-boom"
   },
   {
-   "rank": 12,
+   "rank": 13,
    "comedian_id": "richard-pryor",
    "name": "Richard Pryor",
    "wr": 7.963,
@@ -131,10 +166,12 @@
    "standout_year": 1979,
    "standout_votes": 6262,
    "momentum_recency": 0.145,
+   "n_specials_rated": 5,
+   "approval_rate": 0.4,
    "generation": "seventies"
   },
   {
-   "rank": 13,
+   "rank": 14,
    "comedian_id": "john-mulaney",
    "name": "John Mulaney",
    "wr": 7.881,
@@ -142,10 +179,12 @@
    "standout_year": 2015,
    "standout_votes": 10227,
    "momentum_recency": 0.8,
+   "n_specials_rated": 6,
+   "approval_rate": 0.5,
    "generation": "aughts"
   },
   {
-   "rank": 14,
+   "rank": 15,
    "comedian_id": "tom-segura",
    "name": "Tom Segura",
    "wr": 7.855,
@@ -153,10 +192,51 @@
    "standout_year": 2026,
    "standout_votes": 3982,
    "momentum_recency": 1.0,
+   "n_specials_rated": 8,
+   "approval_rate": 0.5,
    "generation": "tens"
   },
   {
-   "rank": 15,
+   "rank": 16,
+   "comedian_id": "whoopi-goldberg",
+   "name": "Whoopi Goldberg",
+   "wr": 7.817,
+   "standout": "Whoopi Goldberg: Direct from Broadway",
+   "standout_year": 1985,
+   "standout_votes": 272,
+   "momentum_recency": 0.255,
+   "n_specials_rated": 1,
+   "approval_rate": 1.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 17,
+   "comedian_id": "lewis-black",
+   "name": "Lewis Black",
+   "wr": 7.806,
+   "standout": "Lewis Black: Black on Broadway",
+   "standout_year": 2004,
+   "standout_votes": 1621,
+   "momentum_recency": 0.6,
+   "n_specials_rated": 1,
+   "approval_rate": 1.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 18,
+   "comedian_id": "jimmy-carr",
+   "name": "Jimmy Carr",
+   "wr": 7.796,
+   "standout": "Jimmy Carr: Comedian",
+   "standout_year": 2007,
+   "standout_votes": 1417,
+   "momentum_recency": 0.655,
+   "n_specials_rated": 4,
+   "approval_rate": 1.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 19,
    "comedian_id": "jerry-seinfeld",
    "name": "Jerry Seinfeld",
    "wr": 7.778,
@@ -164,10 +244,64 @@
    "standout_year": 1998,
    "standout_votes": 6378,
    "momentum_recency": 0.491,
+   "n_specials_rated": 4,
+   "approval_rate": 0.25,
    "generation": "eighties-boom"
   },
   {
-   "rank": 16,
+   "rank": 20,
+   "comedian_id": "jim-gaffigan",
+   "name": "Jim Gaffigan",
+   "wr": 7.77,
+   "standout": "Jim Gaffigan: Beyond the Pale",
+   "standout_year": 2006,
+   "standout_votes": 4429,
+   "momentum_recency": 0.636,
+   "n_specials_rated": 2,
+   "approval_rate": 0.5,
+   "generation": "aughts"
+  },
+  {
+   "rank": 21,
+   "comedian_id": "colin-quinn",
+   "name": "Colin Quinn",
+   "wr": 7.668,
+   "standout": "Colin Quinn: Long Story Short",
+   "standout_year": 2011,
+   "standout_votes": 633,
+   "momentum_recency": 0.727,
+   "n_specials_rated": 1,
+   "approval_rate": 1.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 22,
+   "comedian_id": "greg-davies",
+   "name": "Greg Davies",
+   "wr": 7.614,
+   "standout": "Greg Davies: Firing Cheeseballs at a Dog",
+   "standout_year": 2011,
+   "standout_votes": 669,
+   "momentum_recency": 0.727,
+   "n_specials_rated": 2,
+   "approval_rate": 0.5,
+   "generation": "aughts"
+  },
+  {
+   "rank": 23,
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "wr": 7.565,
+   "standout": "Patton Oswalt: No Reason to Complain",
+   "standout_year": 2004,
+   "standout_votes": 948,
+   "momentum_recency": 0.6,
+   "n_specials_rated": 3,
+   "approval_rate": 0.333,
+   "generation": "nineties"
+  },
+  {
+   "rank": 24,
    "comedian_id": "nate-bargatze",
    "name": "Nate Bargatze",
    "wr": 7.558,
@@ -175,10 +309,12 @@
    "standout_year": 2015,
    "standout_votes": 689,
    "momentum_recency": 0.8,
+   "n_specials_rated": 5,
+   "approval_rate": 0.4,
    "generation": "tens"
   },
   {
-   "rank": 17,
+   "rank": 25,
    "comedian_id": "ali-wong",
    "name": "Ali Wong",
    "wr": 7.5,
@@ -186,10 +322,12 @@
    "standout_year": 2016,
    "standout_votes": 8500,
    "momentum_recency": 0.818,
+   "n_specials_rated": 4,
+   "approval_rate": 0.25,
    "generation": "tens"
   },
   {
-   "rank": 18,
+   "rank": 26,
    "comedian_id": "norm-macdonald",
    "name": "Norm Macdonald",
    "wr": 7.5,
@@ -197,10 +335,38 @@
    "standout_year": 2022,
    "standout_votes": 2493,
    "momentum_recency": 0.927,
+   "n_specials_rated": 3,
+   "approval_rate": 0.333,
    "generation": "nineties"
   },
   {
-   "rank": 19,
+   "rank": 27,
+   "comedian_id": "steve-martin",
+   "name": "Steve Martin",
+   "wr": 7.47,
+   "standout": "Steve Martin: A Wild and Crazy Guy",
+   "standout_year": 1978,
+   "standout_votes": 214,
+   "momentum_recency": 0.127,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 28,
+   "comedian_id": "chris-gethard",
+   "name": "Chris Gethard",
+   "wr": 7.444,
+   "standout": "Chris Gethard: Career Suicide",
+   "standout_year": 2017,
+   "standout_votes": 641,
+   "momentum_recency": 0.836,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
+   "generation": null
+  },
+  {
+   "rank": 29,
    "comedian_id": "ron-white",
    "name": "Ron White",
    "wr": 7.442,
@@ -208,10 +374,38 @@
    "standout_year": 2012,
    "standout_votes": 702,
    "momentum_recency": 0.745,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 20,
+   "rank": 30,
+   "comedian_id": "michelle-wolf",
+   "name": "Michelle Wolf",
+   "wr": 7.428,
+   "standout": "Michelle Wolf: Nice Lady",
+   "standout_year": 2017,
+   "standout_votes": 1265,
+   "momentum_recency": 0.836,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
+   "generation": "tens"
+  },
+  {
+   "rank": 31,
+   "comedian_id": "lee-mack",
+   "name": "Lee Mack",
+   "wr": 7.42,
+   "standout": "Lee Mack: Going Out Live",
+   "standout_year": 2010,
+   "standout_votes": 183,
+   "momentum_recency": 0.709,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 32,
    "comedian_id": "demetri-martin",
    "name": "Demetri Martin",
    "wr": 7.417,
@@ -219,10 +413,12 @@
    "standout_year": 2015,
    "standout_votes": 2455,
    "momentum_recency": 0.8,
+   "n_specials_rated": 3,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 21,
+   "rank": 33,
    "comedian_id": "taylor-tomlinson",
    "name": "Taylor Tomlinson",
    "wr": 7.41,
@@ -230,10 +426,38 @@
    "standout_year": 2022,
    "standout_votes": 4430,
    "momentum_recency": 0.927,
+   "n_specials_rated": 3,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 22,
+   "rank": 34,
+   "comedian_id": "reggie-watts",
+   "name": "Reggie Watts",
+   "wr": 7.384,
+   "standout": "Reggie Watts: Why $#!+ So Crazy?",
+   "standout_year": 2010,
+   "standout_votes": 317,
+   "momentum_recency": 0.709,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 35,
+   "comedian_id": "david-cross",
+   "name": "David Cross",
+   "wr": 7.383,
+   "standout": "David Cross: The Pride Is Back",
+   "standout_year": 1999,
+   "standout_votes": 712,
+   "momentum_recency": 0.509,
+   "n_specials_rated": 2,
+   "approval_rate": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 36,
    "comedian_id": "dylan-moran",
    "name": "Dylan Moran",
    "wr": 7.378,
@@ -241,10 +465,12 @@
    "standout_year": 2005,
    "standout_votes": 128,
    "momentum_recency": 0.618,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 23,
+   "rank": 37,
    "comedian_id": "katt-williams",
    "name": "Katt Williams",
    "wr": 7.378,
@@ -252,10 +478,12 @@
    "standout_year": 2005,
    "standout_votes": 128,
    "momentum_recency": 0.618,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 24,
+   "rank": 38,
    "comedian_id": "pablo-francisco",
    "name": "Pablo Francisco",
    "wr": 7.378,
@@ -263,10 +491,12 @@
    "standout_year": 2005,
    "standout_votes": 128,
    "momentum_recency": 0.618,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 25,
+   "rank": 39,
    "comedian_id": "russell-peters",
    "name": "Russell Peters",
    "wr": 7.378,
@@ -274,10 +504,12 @@
    "standout_year": 2005,
    "standout_votes": 128,
    "momentum_recency": 0.618,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 26,
+   "rank": 40,
    "comedian_id": "bert-kreischer",
    "name": "Bert Kreischer",
    "wr": 7.329,
@@ -285,10 +517,25 @@
    "standout_year": 2018,
    "standout_votes": 2928,
    "momentum_recency": 0.855,
+   "n_specials_rated": 6,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 27,
+   "rank": 41,
+   "comedian_id": "sean-lock",
+   "name": "Sean Lock",
+   "wr": 7.286,
+   "standout": "Sean Lock: Lockipedia Live",
+   "standout_year": 2010,
+   "standout_votes": 573,
+   "momentum_recency": 0.709,
+   "n_specials_rated": 2,
+   "approval_rate": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 42,
    "comedian_id": "michael-che",
    "name": "Michael Che",
    "wr": 7.244,
@@ -296,10 +543,12 @@
    "standout_year": 2016,
    "standout_votes": 2923,
    "momentum_recency": 0.818,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 28,
+   "rank": 43,
    "comedian_id": "jeff-foxworthy",
    "name": "Jeff Foxworthy",
    "wr": 7.214,
@@ -307,10 +556,12 @@
    "standout_year": 1998,
    "standout_votes": 456,
    "momentum_recency": 0.491,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "eighties-boom"
   },
   {
-   "rank": 29,
+   "rank": 44,
    "comedian_id": "aziz-ansari",
    "name": "Aziz Ansari",
    "wr": 7.103,
@@ -318,10 +569,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 30,
+   "rank": 45,
    "comedian_id": "brian-regan",
    "name": "Brian Regan",
    "wr": 7.103,
@@ -329,10 +582,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 31,
+   "rank": 46,
    "comedian_id": "catherine-cohen",
    "name": "Catherine Cohen",
    "wr": 7.103,
@@ -340,10 +595,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 32,
+   "rank": 47,
    "comedian_id": "chelsea-handler",
    "name": "Chelsea Handler",
    "wr": 7.103,
@@ -351,10 +608,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 33,
+   "rank": 48,
    "comedian_id": "deon-cole",
    "name": "Deon Cole",
    "wr": 7.103,
@@ -362,10 +621,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": null
   },
   {
-   "rank": 34,
+   "rank": 49,
    "comedian_id": "drew-michael",
    "name": "Drew Michael",
    "wr": 7.103,
@@ -373,10 +634,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": null
   },
   {
-   "rank": 35,
+   "rank": 50,
    "comedian_id": "fortune-feimster",
    "name": "Fortune Feimster",
    "wr": 7.103,
@@ -384,10 +647,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 36,
+   "rank": 51,
    "comedian_id": "jack-whitehall",
    "name": "Jack Whitehall",
    "wr": 7.103,
@@ -395,10 +660,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 37,
+   "rank": 52,
    "comedian_id": "jerrod-carmichael",
    "name": "Jerrod Carmichael",
    "wr": 7.103,
@@ -406,21 +673,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": null
   },
   {
-   "rank": 38,
-   "comedian_id": "jim-gaffigan",
-   "name": "Jim Gaffigan",
-   "wr": 7.103,
-   "standout": "N\u00f6",
-   "standout_year": 2021,
-   "standout_votes": 220,
-   "momentum_recency": 0.909,
-   "generation": "aughts"
-  },
-  {
-   "rank": 39,
+   "rank": 53,
    "comedian_id": "joe-list",
    "name": "Joe List",
    "wr": 7.103,
@@ -428,10 +686,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 40,
+   "rank": 54,
    "comedian_id": "kate-berlant",
    "name": "Kate Berlant",
    "wr": 7.103,
@@ -439,10 +699,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 41,
+   "rank": 55,
    "comedian_id": "mike-epps",
    "name": "Mike Epps",
    "wr": 7.103,
@@ -450,10 +712,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 42,
+   "rank": 56,
    "comedian_id": "mo-amer",
    "name": "Mo Amer",
    "wr": 7.103,
@@ -461,10 +725,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 43,
+   "rank": 57,
    "comedian_id": "moses-storm",
    "name": "Moses Storm",
    "wr": 7.103,
@@ -472,10 +738,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 44,
+   "rank": 58,
    "comedian_id": "neal-brennan",
    "name": "Neal Brennan",
    "wr": 7.103,
@@ -483,21 +751,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 2,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 45,
-   "comedian_id": "patton-oswalt",
-   "name": "Patton Oswalt",
-   "wr": 7.103,
-   "standout": "N\u00f6",
-   "standout_year": 2021,
-   "standout_votes": 220,
-   "momentum_recency": 0.909,
-   "generation": "nineties"
-  },
-  {
-   "rank": 46,
+   "rank": 59,
    "comedian_id": "phil-wang",
    "name": "Phil Wang",
    "wr": 7.103,
@@ -505,10 +764,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 47,
+   "rank": 60,
    "comedian_id": "sam-jay",
    "name": "Sam Jay",
    "wr": 7.103,
@@ -516,10 +777,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 48,
+   "rank": 61,
    "comedian_id": "sam-morril",
    "name": "Sam Morril",
    "wr": 7.103,
@@ -527,10 +790,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 49,
+   "rank": 62,
    "comedian_id": "sarah-cooper",
    "name": "Sarah Cooper",
    "wr": 7.103,
@@ -538,10 +803,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "twenties"
   },
   {
-   "rank": 50,
+   "rank": 63,
    "comedian_id": "tom-papa",
    "name": "Tom Papa",
    "wr": 7.103,
@@ -549,10 +816,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 51,
+   "rank": 64,
    "comedian_id": "trevor-noah",
    "name": "Trevor Noah",
    "wr": 7.103,
@@ -560,10 +829,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 52,
+   "rank": 65,
    "comedian_id": "whitney-cummings",
    "name": "Whitney Cummings",
    "wr": 7.103,
@@ -571,10 +842,12 @@
    "standout_year": 2021,
    "standout_votes": 220,
    "momentum_recency": 0.909,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 53,
+   "rank": 66,
    "comedian_id": "iliza-shlesinger",
    "name": "Iliza Shlesinger",
    "wr": 7.101,
@@ -582,10 +855,12 @@
    "standout_year": 2016,
    "standout_votes": 217819,
    "momentum_recency": 0.818,
+   "n_specials_rated": 3,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 54,
+   "rank": 67,
    "comedian_id": "robin-williams",
    "name": "Robin Williams",
    "wr": 7.101,
@@ -593,10 +868,12 @@
    "standout_year": 2003,
    "standout_votes": 350047,
    "momentum_recency": 0.582,
+   "n_specials_rated": 2,
+   "approval_rate": 0.5,
    "generation": "seventies"
   },
   {
-   "rank": 55,
+   "rank": 68,
    "comedian_id": "paul-mooney",
    "name": "Paul Mooney",
    "wr": 7.053,
@@ -604,10 +881,25 @@
    "standout_year": 2014,
    "standout_votes": 109,
    "momentum_recency": 0.782,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 56,
+   "rank": 69,
+   "comedian_id": "tiffany-haddish",
+   "name": "Tiffany Haddish",
+   "wr": 6.99,
+   "standout": "Tiffany Haddish: She Ready! From the Hood to Hollywood",
+   "standout_year": 2017,
+   "standout_votes": 653,
+   "momentum_recency": 0.836,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
+   "generation": "tens"
+  },
+  {
+   "rank": 70,
    "comedian_id": "sarah-silverman",
    "name": "Sarah Silverman",
    "wr": 6.964,
@@ -615,10 +907,12 @@
    "standout_year": 2017,
    "standout_votes": 4176,
    "momentum_recency": 0.836,
+   "n_specials_rated": 5,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 57,
+   "rank": 71,
    "comedian_id": "kevin-hart",
    "name": "Kevin Hart",
    "wr": 6.901,
@@ -626,10 +920,12 @@
    "standout_year": 2011,
    "standout_votes": 278628,
    "momentum_recency": 0.727,
+   "n_specials_rated": 9,
+   "approval_rate": 0.111,
    "generation": "aughts"
   },
   {
-   "rank": 58,
+   "rank": 72,
    "comedian_id": "hannibal-buress",
    "name": "Hannibal Buress",
    "wr": 6.809,
@@ -637,10 +933,12 @@
    "standout_year": 2016,
    "standout_votes": 1652,
    "momentum_recency": 0.818,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": null
   },
   {
-   "rank": 59,
+   "rank": 73,
    "comedian_id": "maria-bamford",
    "name": "Maria Bamford",
    "wr": 6.62,
@@ -648,10 +946,12 @@
    "standout_year": 2017,
    "standout_votes": 1049,
    "momentum_recency": 0.836,
+   "n_specials_rated": 2,
+   "approval_rate": 0.5,
    "generation": "aughts"
   },
   {
-   "rank": 60,
+   "rank": 74,
    "comedian_id": "jim-jefferies",
    "name": "Jim Jefferies",
    "wr": 6.552,
@@ -659,10 +959,12 @@
    "standout_year": 2009,
    "standout_votes": 3120,
    "momentum_recency": 0.691,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": null
   },
   {
-   "rank": 61,
+   "rank": 75,
    "comedian_id": "marc-maron",
    "name": "Marc Maron",
    "wr": 6.487,
@@ -670,10 +972,12 @@
    "standout_year": 2024,
    "standout_votes": 1040,
    "momentum_recency": 0.964,
+   "n_specials_rated": 2,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 62,
+   "rank": 76,
    "comedian_id": "lenny-bruce",
    "name": "Lenny Bruce",
    "wr": 6.465,
@@ -681,10 +985,12 @@
    "standout_year": 1971,
    "standout_votes": 3141,
    "momentum_recency": 0.0,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "pioneers"
   },
   {
-   "rank": 63,
+   "rank": 77,
    "comedian_id": "gabriel-iglesias",
    "name": "Gabriel Iglesias",
    "wr": 6.2,
@@ -692,10 +998,12 @@
    "standout_year": 2023,
    "standout_votes": 812,
    "momentum_recency": 0.945,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 64,
+   "rank": 78,
    "comedian_id": "daniel-tosh",
    "name": "Daniel Tosh",
    "wr": 6.189,
@@ -703,10 +1011,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 65,
+   "rank": 79,
    "comedian_id": "donald-glover",
    "name": "Donald Glover",
    "wr": 6.189,
@@ -714,10 +1024,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 66,
+   "rank": 80,
    "comedian_id": "doug-stanhope",
    "name": "Doug Stanhope",
    "wr": 6.189,
@@ -725,10 +1037,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 67,
+   "rank": 81,
    "comedian_id": "eddie-griffin",
    "name": "Eddie Griffin",
    "wr": 6.189,
@@ -736,10 +1050,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 68,
+   "rank": 82,
    "comedian_id": "kathleen-madigan",
    "name": "Kathleen Madigan",
    "wr": 6.189,
@@ -747,10 +1063,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 2,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 69,
+   "rank": 83,
    "comedian_id": "kevin-bridges",
    "name": "Kevin Bridges",
    "wr": 6.189,
@@ -758,10 +1076,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 70,
+   "rank": 84,
    "comedian_id": "mike-birbiglia",
    "name": "Mike Birbiglia",
    "wr": 6.189,
@@ -769,10 +1089,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 3,
+   "approval_rate": 0.667,
    "generation": "aughts"
   },
   {
-   "rank": 71,
+   "rank": 85,
    "comedian_id": "patrice-o-neal",
    "name": "Patrice O Neal",
    "wr": 6.189,
@@ -780,10 +1102,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 2,
+   "approval_rate": 0.5,
    "generation": "nineties"
   },
   {
-   "rank": 72,
+   "rank": 86,
    "comedian_id": "ricky-gervais",
    "name": "Ricky Gervais",
    "wr": 6.189,
@@ -791,10 +1115,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 2,
+   "approval_rate": 0.0,
    "generation": "aughts"
   },
   {
-   "rank": 73,
+   "rank": 87,
    "comedian_id": "sebastian-maniscalco",
    "name": "Sebastian Maniscalco",
    "wr": 6.189,
@@ -802,10 +1128,12 @@
    "standout_year": 2012,
    "standout_votes": 830,
    "momentum_recency": 0.745,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   },
   {
-   "rank": 74,
+   "rank": 88,
    "comedian_id": "d-l-hughley",
    "name": "D L Hughley",
    "wr": 4.786,
@@ -813,10 +1141,12 @@
    "standout_year": 2006,
    "standout_votes": 760,
    "momentum_recency": 0.636,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "eighties-boom"
   },
   {
-   "rank": 75,
+   "rank": 89,
    "comedian_id": "hannah-gadsby",
    "name": "Hannah Gadsby",
    "wr": 4.674,
@@ -824,10 +1154,12 @@
    "standout_year": 2017,
    "standout_votes": 549,
    "momentum_recency": 0.836,
+   "n_specials_rated": 2,
+   "approval_rate": 0.0,
    "generation": "tens"
   },
   {
-   "rank": 76,
+   "rank": 90,
    "comedian_id": "mitch-hedberg",
    "name": "Mitch Hedberg",
    "wr": 3.043,
@@ -835,6 +1167,8 @@
    "standout_year": 1996,
    "standout_votes": 9164,
    "momentum_recency": 0.455,
+   "n_specials_rated": 1,
+   "approval_rate": 0.0,
    "generation": "nineties"
   }
  ]

@@ -248,15 +248,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 82.0,
-    "legacy_era": 84.8,
-    "audience": null,
+    "legacy": 82.7,
+    "legacy_era": 73.9,
+    "audience": 72.5,
     "popularity": 71.0,
     "theory": 37.5,
     "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+    "gap_value": -0.015,
+    "overrated": "accurately rated",
+    "canon_lag": -0.102
   },
   "tier": "king",
   "region": "us",
@@ -305,46 +305,66 @@
     ]
   },
   "rating": {
-    "headline": 38.8,
+    "headline": 30.4,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 61,
-        "pct": 38.8,
+        "rank": 79,
+        "pct": 30.4,
         "sweep": [
-          60,
-          61
+          78,
+          79
         ]
       },
       "consensus": {
-        "rank": 39,
+        "rank": 52,
         "ref": true
       },
       "canon": {
-        "rank": 23,
+        "rank": 90,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 17,
+        "wr": 7.806,
         "ref": true
       },
       "era": {
-        "rank": 33,
+        "rank": 78,
         "ref": true
       }
     },
     "interval": {
-      "lo": 60,
-      "hi": 61
+      "lo": 78,
+      "hi": 79
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://lewisblack.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "specials_rated": [
+    {
+      "special": "Lewis Black: Black on Broadway",
+      "year": 2004,
+      "imdb_id": "tt0414224",
+      "imdb_rating": 7.9,
+      "imdb_votes": 1621,
+      "source": "critic-list:flavorwire-2013",
+      "standout": false
+    }
+  ],
+  "musicbrainz": {
+    "id": "96774518-0e32-4a69-8aa3-8df0527fb6af",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

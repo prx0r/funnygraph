@@ -329,8 +329,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 5.2,
-    "legacy_era": 28.0,
+    "legacy": 3.0,
+    "legacy_era": 35.9,
     "audience": null,
     "popularity": 85.0,
     "theory": 62.5,
@@ -354,24 +354,24 @@
     "n_modes": 4
   },
   "rating": {
-    "headline": 80.6,
+    "headline": 83.0,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 20,
-        "pct": 80.6,
+        "pct": 83.0,
         "sweep": [
-          12,
+          13,
           25
         ]
       },
       "consensus": {
-        "rank": 201,
+        "rank": 287,
         "ref": true
       },
       "canon": {
-        "rank": 196,
+        "rank": 283,
         "ref": true
       },
       "peoples": {
@@ -380,20 +380,28 @@
         "ref": true
       },
       "era": {
-        "rank": 153,
+        "rank": 190,
         "ref": true
       }
     },
     "interval": {
-      "lo": 12,
+      "lo": 13,
       "hi": 25
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://www.theovon.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "2d882965-1c72-474a-afc9-69fc2e571a20",
+    "status": "ok",
+    "tags": [
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

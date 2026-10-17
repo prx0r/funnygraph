@@ -23,11 +23,20 @@ OUT = HERE / "rankings"
 # generation → first year (for postdate rule: comic can't be on older lists)
 GEN_START = {"pioneers": 1950, "seventies": 1970, "eighties-boom": 1980,
              "nineties": 1990, "aughts": 2000, "tens": 2010, "twenties": 2020}
-LIST_YEARS = {"cc2004": 2004, "rs2017": 2017}
+LIST_YEARS = {"cc2004": 2004, "rs2017": 2017, "paste2017": 2017, "c4_2007": 2007}
 
 AWARD_W = {"mark twain": 3.0, "grammy": 2.0, "emmy": 1.5, "peabody": 1.5,
            "kennedy": 2.5, "pulitzer": 2.0, "tony": 1.0, "oscar": 1.0,
-           "golden globe": 1.0, "writers guild": 1.0, "critics": 1.0}
+           "golden globe": 1.0, "writers guild": 1.0, "critics": 1.0,
+           "bafta": 1.5, "edinburgh comedy": 2.0, "perrier": 2.0,
+           "humour award": 1.5, "barry award": 1.5, "moosehead": 1.0,
+           "british comedy award": 1.0, "chortle": 1.0,
+           "national comedy award": 1.0, "aacta": 1.0, "logie award": 1.0,
+           "juno": 1.0, "canadian comedy": 1.0, "felix award": 1.0,
+           "if.comedy": 2.0, "foster's edinburgh": 2.0, "dave's edinburgh": 2.0}
+# Regional weights asserted (same status as the rest of this table):
+# Edinburgh lineage = festival-top-tier (2.0); nationalindustry/comedy press
+# = 1.0-1.5. Too sparse to fit; revisit at 50+ regionally-awarded comics.
 
 
 TIER_RANKED = ("king",)  # indies excluded from canon until promoted
@@ -105,8 +114,8 @@ def main() -> None:
     comics = load_comics()
     print(f"{len(comics)} comedians")
 
-    # ── leg 1: critics (CC2004 + RS2017, Borda each, summed) ──
-    cc_order, rs_order = [], []
+    # ── leg 1: critics (CC2004 + RS2017 + Paste2017 + C4-2007, Borda each, summed) ──
+    cc_order, rs_order, pa_order, c4_order = [], [], [], []
     for cid, j in comics.items():
         rec = j.get("recognition") or {}
         gen = (j.get("generation") or {}).get("id", "")
@@ -115,15 +124,28 @@ def main() -> None:
             cc_order.append((rec["comedy_central_2004"], cid))
         if rec.get("rolling_stone_2017") and gs <= 2017:
             rs_order.append((rec["rolling_stone_2017"], cid))
+        if rec.get("paste_2017") and gs <= 2017:
+            pa_order.append((rec["paste_2017"], cid))
+        if rec.get("c4_2007") and gs <= 2007:
+            c4_order.append((rec["c4_2007"], cid))
     cc_order.sort()
     rs_order.sort()
+    pa_order.sort()
+    c4_order.sort()
     cc_b = borda_leg([c for _, c in cc_order])
     rs_b = borda_leg([c for _, c in rs_order])
+    pa_b = borda_leg([c for _, c in pa_order])
+    c4_b = borda_leg([c for _, c in c4_order])
     # normalize each to 0..1 by its own max
-    cc_m, rs_m = max(cc_b.values(), default=1), max(rs_b.values(), default=1)
-    critics = {cid: round(cc_b.get(cid, 0) / cc_m + rs_b.get(cid, 0) / rs_m, 4)
+    cc_m = max(cc_b.values(), default=1)
+    rs_m = max(rs_b.values(), default=1)
+    pa_m = max(pa_b.values(), default=1)
+    c4_m = max(c4_b.values(), default=1)
+    critics = {cid: round(cc_b.get(cid, 0) / cc_m + rs_b.get(cid, 0) / rs_m
+                          + pa_b.get(cid, 0) / pa_m + c4_b.get(cid, 0) / c4_m, 4)
                for cid in comics}
-    print(f"critics leg: CC={len(cc_order)} RS={len(rs_order)}")
+    print(f"critics leg: CC={len(cc_order)} RS={len(rs_order)} "
+          f"Paste={len(pa_order)} C4={len(c4_order)}")
 
     # ── leg 2: audience (IMDb WR → ranking → Borda) ──
     wr = {}

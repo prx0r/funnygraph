@@ -1,117 +1,117 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "uncle-lazer",
-  "name": "Uncle Lazer",
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "uncle-lazer",
+ "name": "Uncle Lazer",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {
+   "status_reversal": 0.102,
+   "identity_contradiction": 0.755,
+   "self_awareness": 0.665,
+   "specificity": 0.88,
+   "escalation": 0.27,
+   "garden_path": 0.755,
+   "benign_violation": 0.895
+  },
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": [],
+  "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
+ },
+ "discovery": {
+  "discovered_from": [
+   "kill-tony-minutes"
+  ],
+  "discovery_note": "",
+  "kt_appearances": 2
+ },
+ "theory_score": null,
+ "nearest_greats": [],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
   "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {
-      "status_reversal": 0.102,
-      "identity_contradiction": 0.755,
-      "self_awareness": 0.665,
-      "specificity": 0.88,
-      "escalation": 0.27,
-      "garden_path": 0.755,
-      "benign_violation": 0.895
-    },
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": [],
-    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 65.5,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "discovery": {
-    "discovered_from": [
-      "kill-tony-minutes"
-    ],
-    "discovery_note": "",
-    "kt_appearances": 2
-  },
-  "theory_score": null,
-  "nearest_greats": [],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 65.5,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UClovHhKRjGE5_vcwhzFocDw",
-    "handle": "unclelazer",
-    "title": "Uncle Lazer",
-    "subs": 86600,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "variety",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-10",
-    "name_match_rate": 0.38,
-    "other_names": [
-      "Filming Jackass",
-      "Guerilla Gonzo",
-      "Haunted New Orleans",
-      "Heidi Regina",
-      "How Uncle Lazer",
-      "Kim Congdon",
-      "Koe Wetzel",
-      "Lindsay Lee"
-    ]
-  }
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UClovHhKRjGE5_vcwhzFocDw",
+  "handle": "unclelazer",
+  "title": "Uncle Lazer",
+  "subs": 86600,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "variety",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-10",
+  "name_match_rate": 0.38,
+  "other_names": [
+   "Filming Jackass",
+   "Guerilla Gonzo",
+   "Haunted New Orleans",
+   "Heidi Regina",
+   "How Uncle Lazer",
+   "Kim Congdon",
+   "Koe Wetzel",
+   "Lindsay Lee"
+  ]
+ }
 }

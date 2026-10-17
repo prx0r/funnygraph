@@ -310,15 +310,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 63.5,
-    "legacy_era": 1.9,
+    "legacy": 60.0,
+    "legacy_era": 1.4,
     "audience": 40.0,
     "popularity": 6.1,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.339,
     "overrated": "underrated",
-    "canon_lag": -0.235
+    "canon_lag": -0.2
   },
   "tier": "king",
   "region": "us",
@@ -358,49 +358,59 @@
     ]
   },
   "recognition": {
-    "awards": []
+    "awards": [],
+    "paste_2017": 35
   },
   "rating": {
-    "headline": 45.9,
+    "headline": 36.6,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 54,
-        "pct": 45.9,
+        "rank": 72,
+        "pct": 36.6,
         "sweep": [
-          51,
-          54
+          69,
+          72
         ]
       },
       "consensus": {
-        "rank": 78,
+        "rank": 119,
         "ref": true
       },
       "canon": {
-        "rank": 117,
+        "rank": 97,
         "ref": true
       },
       "peoples": {
-        "rank": 58,
+        "rank": 72,
         "wr": 6.809,
         "ref": true
       },
       "era": {
-        "rank": 208,
+        "rank": 292,
         "ref": true
       }
     },
     "interval": {
-      "lo": 51,
-      "hi": 54
+      "lo": 69,
+      "hi": 72
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://hannibalburess.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "85d89558-8bd3-45a6-8864-105918f29757",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "standup"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

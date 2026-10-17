@@ -212,6 +212,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "jim-jefferies-bit-01",
+      "title": "Jim Jefferies: 'Gun control as logic bomb' \u2014 how the bit works",
+      "thesis": "Takes the American gun debate and wins it with arithmetic, not morality. The room came for filth and got checkmated \u2014 the dirtiest clean argument in comedy.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "jim-jefferies-bit-02",
+      "title": "Jim Jefferies: 'Atheist provocations' \u2014 how the bit works",
+      "thesis": "Religion bits engineered to offend the premise, not the person. The blasphemy is structural: remove the sacred protection and watch the logic underneath.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -342,15 +376,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 62.1,
-    "legacy_era": 1.4,
+    "legacy": 43.4,
+    "legacy_era": 4.8,
     "audience": 35.0,
     "popularity": 81.8,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.468,
     "overrated": "overrated",
-    "canon_lag": -0.271
+    "canon_lag": -0.084
   },
   "tier": "king",
   "region": "australia",
@@ -392,38 +426,67 @@
     "awards": []
   },
   "rating": {
-    "headline": 61.2,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 67.9,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 37,
+        "pct": 67.9,
+        "sweep": [
+          28,
+          37
+        ]
       },
       "consensus": {
-        "rank": 81,
+        "rank": 168,
         "ref": true
       },
       "canon": {
-        "rank": 132,
+        "rank": 229,
         "ref": true
       },
       "peoples": {
-        "rank": 60,
+        "rank": 74,
         "wr": 6.552,
         "ref": true
       },
       "era": {
-        "rank": 209,
+        "rank": 282,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 28,
+      "hi": 37
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://www.jimjefferies.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Aussie barrage \u2014 long profane setups detonated by one clean logical killshot. The swearing is camouflage for syllogisms."
+  },
+  "known_bits": [
+    {
+      "title": "Gun control as logic bomb",
+      "why_it_works": "Takes the American gun debate and wins it with arithmetic, not morality. The room came for filth and got checkmated \u2014 the dirtiest clean argument in comedy.",
+      "theory_links": [
+        "rigidify",
+        "false_analogy"
+      ]
+    },
+    {
+      "title": "Atheist provocations",
+      "why_it_works": "Religion bits engineered to offend the premise, not the person. The blasphemy is structural: remove the sacred protection and watch the logic underneath.",
+      "theory_links": [
+        "unmask",
+        "benign_violation"
+      ]
+    }
+  ]
 }

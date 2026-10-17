@@ -1,131 +1,131 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "jenny-tian",
-  "name": "Jenny Tian",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "deadline-2026"
-    ],
-    "discovery_note": "Sydney circuit -> NYC, 2 self-released hours (900k/266k), Edinburgh + West End sellouts"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 34.5,
-    "theory": 12.5,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 12.5,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "socials": {
-    "tiktok": {
-      "note": "broke out on TikTok, millions of likes",
-      "followers": "1M+ collective",
-      "source": "deadline-2026"
-    }
-  },
-  "youtube_channel": {
-    "id": "UCUB2_TTMA1uRNlszTcYXuWw",
-    "handle": "jennytian",
-    "title": "Jenny Le Tian",
-    "subs": 2,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "stale",
-    "checked": "2026-10-17",
-    "clips": 5,
-    "newest_upload": "2012-07-14",
-    "name_match_rate": 0.0,
-    "other_names": []
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "jim-norton",
-      "sim": 0.051
-    },
-    {
-      "comedian_id": "joe-list",
-      "sim": 0.037
-    },
-    {
-      "comedian_id": "rodney-dangerfield",
-      "sim": 0.03
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "jenny-tian",
+ "name": "Jenny Tian",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "deadline-2026"
   ],
-  "style_tags": {
-    "humor_type": "dark-confessional",
-    "theories": [],
-    "via": "jim-norton",
-    "sim": 0.051,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  },
-  "known_bits": [
-    {
-      "title": "Internet-fame immigrant tale",
-      "why_it_works": "Multimedia hours narrating TikTok fame + Chinese-Australian shuttling: the medium documents the message \u2014 fame story told in the fame format (form-content collapse). (Deadline 2026; hypothesis)",
-      "theory_links": [
-        "double_interpret",
-        "status_invert"
-      ],
-      "source": "deadline-2026",
-      "status": "hypothesis (press-described, unmeasured)"
-    }
+  "discovery_note": "Sydney circuit -> NYC, 2 self-released hours (900k/266k), Edinburgh + West End sellouts"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
   ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 34.5,
+  "theory": 12.5,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 12.5,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "socials": {
+  "tiktok": {
+   "note": "broke out on TikTok, millions of likes",
+   "followers": "1M+ collective",
+   "source": "deadline-2026"
+  }
+ },
+ "youtube_channel": {
+  "id": "UCUB2_TTMA1uRNlszTcYXuWw",
+  "handle": "jennytian",
+  "title": "Jenny Le Tian",
+  "subs": 2,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "stale",
+  "checked": "2026-10-17",
+  "clips": 5,
+  "newest_upload": "2012-07-14",
+  "name_match_rate": 0.0,
+  "other_names": []
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "jim-norton",
+   "sim": 0.075
+  },
+  {
+   "comedian_id": "joe-list",
+   "sim": 0.054
+  },
+  {
+   "comedian_id": "rodney-dangerfield",
+   "sim": 0.05
+  }
+ ],
+ "known_bits": [
+  {
+   "title": "Internet-fame immigrant tale",
+   "why_it_works": "Multimedia hours narrating TikTok fame + Chinese-Australian shuttling: the medium documents the message \u2014 fame story told in the fame format (form-content collapse). (Deadline 2026; hypothesis)",
+   "theory_links": [
+    "double_interpret",
+    "status_invert"
+   ],
+   "source": "deadline-2026",
+   "status": "hypothesis (press-described, unmeasured)"
+  }
+ ],
+ "style_tags": {
+  "humor_type": "dark-confessional",
+  "theories": [],
+  "via": "jim-norton",
+  "sim": 0.075,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

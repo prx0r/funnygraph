@@ -285,7 +285,8 @@
     "comedy_central_2004": 3,
     "rolling_stone_2017": 3,
     "trajectory_2004_2017": "stable",
-    "awards": []
+    "awards": [],
+    "paste_2017": 13
   },
   "specials_rated": [
     {
@@ -340,15 +341,15 @@
     }
   },
   "metrics": {
-    "legacy": 96.2,
-    "legacy_era": 93.8,
+    "legacy": 97.6,
+    "legacy_era": 94.9,
     "audience": 32.5,
     "popularity": 55.2,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.227,
     "overrated": "overrated",
-    "canon_lag": -0.637
+    "canon_lag": -0.651
   },
   "tier": "king",
   "region": "us",
@@ -405,41 +406,51 @@
     ]
   },
   "rating": {
-    "headline": 78.6,
+    "headline": 81.2,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 22,
-        "pct": 78.6,
+        "pct": 81.2,
         "sweep": [
           9,
-          59
+          77
         ]
       },
       "consensus": {
-        "rank": 9,
+        "rank": 8,
         "ref": true
       },
       "canon": {
-        "rank": 4,
+        "rank": 5,
         "ref": true
       },
       "peoples": {
-        "rank": 62,
+        "rank": 76,
         "wr": 6.465,
         "ref": true
       },
       "era": {
-        "rank": 14,
+        "rank": 16,
         "ref": true
       }
     },
     "interval": {
       "lo": 9,
-      "hi": 59
+      "hi": 77
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "37a6a415-a555-47c2-affd-d003effab463",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "death by heroin",
+      "death by overdose"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

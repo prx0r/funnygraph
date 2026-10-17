@@ -2,7 +2,7 @@
   "schema": "pogtown.comedian.v1",
   "comedian_id": "tommy-tiernan",
   "name": "Tommy Tiernan",
-  "tier": "indie",
+  "tier": "king",
   "region": "ireland",
   "version": 1,
   "created": "2026-10-17",
@@ -36,7 +36,8 @@
   "sets": [],
   "essay_seeds": [],
   "provenance": {
-    "tier": "indie"
+    "tier": "king",
+    "promoted": "2026-10-17: established (tours/TV); OTM audit"
   },
   "continent": "europe",
   "metrics": {
@@ -88,7 +89,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {

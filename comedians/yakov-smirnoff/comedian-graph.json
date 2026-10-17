@@ -62,8 +62,8 @@
     }
   ],
   "metrics": {
-    "legacy": 0.5,
-    "legacy_era": 22.3,
+    "legacy": 0.3,
+    "legacy_era": 33.2,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -81,11 +81,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 211,
+        "rank": 295,
         "ref": true
       },
       "canon": {
-        "rank": 211,
+        "rank": 295,
         "ref": true
       },
       "peoples": {
@@ -94,17 +94,18 @@
         "ref": true
       },
       "era": {
-        "rank": 165,
+        "rank": 198,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://yakovsmirnoff.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "region": "us"
 }

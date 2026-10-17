@@ -19,12 +19,13 @@ Borda per leg → weighted sum → local Kemenization. Our contributions: (1) a
 postdate-aware missing-data rule extending Dwork's partial-list treatment;
 (2) era-normalized comparison via within-generation median z-scores
 (missing = neutral, minimum group 5); (3) fitted rather than asserted
-weights — Mallows dispersion per leg implies precision weights, and a
-hide-one-list experiment shows critics-only predicts the held-out list
-(0.692) better than any blend (≤0.658), so we publish CANON and PEOPLE'S
-CHOICE as separate elections; (4) rank-breaking Bradley-Terry on
-list-implied pairs validates Borda as the aggregation (τ = 0.876);
-(5) every position carries a 72-regime stability interval — only 15/178
+weights — Mallows dispersion per leg implies precision weights; the
+hide-one-list experiment is run but FRAGILE (direction flipped across
+runs at n≈20 — weak signal, see GAPS.md), so CANON and PEOPLE'S CHOICE
+ship as separate elections on pairwise-tau evidence instead; (4) rank-breaking Bradley-Terry on
+list-implied pairs validates Borda as the aggregation (τ ≈ 0.64–0.88
+across 2–4 lists);
+(5) every position carries a 71-regime stability interval — only a minority stable (12/295 latest)
 positions are stable claims. All inputs, weights, code, and disagreements
 are public. No prior academic work attempts comedian ranking.
 
@@ -143,27 +144,28 @@ uses (3,2,1); weighting the cost by leg precision is v0.3 work.
 
 Rank-breaking (Khetan & Oh 2016): CC2004 yields 406 pairs, RS2017 378
 pairs (among kings), 701 unique; MM estimation (Hunter 2004) to 1e-12.
-Result: **BT order vs Borda critics leg τ = +0.876 (n=41)** — Borda is an
+Result: **BT order vs Borda critics leg τ = +0.642 (n=69, 4 lists; was +0.876 on 2)** — Borda is an
 excellent cheap stand-in for the pairwise MLE on the same data. BT vs full
-consensus τ = +0.690. Caveat: unregularized BT concentrates mass on
+consensus τ = +0.639. Caveat: unregularized BT concentrates mass on
 undefeated players (Pryor 0.993); the ORDER is the finding, strengths are
 uncalibrated (weak-prior regularization is v0.3 work).
 
 ### 4.5 Weight fitting: Mallows φ and the split boards (new in v0.2)
 
 Fitting the Mallows dispersion per leg against consensus (RIM exact
-moment-match, Fligner & Verducci 1986): critics φ=0.721, audience φ=0.869,
-awards φ=0.828. Precision-implied weights: **critics 0.498, audience
-0.214, awards 0.288** — the asserted (3,2,1) over-weighted audience and
+moment-match, Fligner & Verducci 1986, current run: critics φ=0.824, audience φ=0.903,
+awards φ=0.859. Precision-implied weights: **critics 0.433, audience
+0.227, awards 0.340** (run values move with coverage; ordering is the finding) — the asserted (3,2,1) over-weighted audience and
 under-weighted awards. Caveat: fitting against consensus is circular
 (legs agree with consensus partly by construction), so absolute φ values
 are lower bounds on noise; the PRECISION ORDERING is the finding.
 
-The hide-one-list experiment (fit_weights.py, n=16 comics on both lists):
-CC-only predicts RS2017 at **0.692**, best blend 0.692 at (1,0,0), current
-(3,2,1) at 0.658. **Blending critics with audience destroys canon
-signal.** Obeyed in v0.2: CANON board (critics+awards, Mallows weights
-0.634/0.366 — no asserted weights) and PEOPLE'S board (audience WR only;
+The hide-one-list experiment (fit_weights.py — Run A n=16: CC-only 0.692
+beats blends; Run B n=29: best blend (1,2,1) 0.709 beats CC-only 0.635):
+n≈20 grid fits are FRAGILE and flipped direction between runs (GAPS.md).
+Weak signal, both directions observed — the split rests on pairwise taus
+and Mallows ordering, not on grid search. Obeyed since v0.2: CANON board (critics+awards, Mallows weights
+0.560/0.440 — no asserted weights) and PEOPLE'S board (audience WR only;
 recency shown, never blended) are now primary; the weighted consensus is
 the legacy view. Canon #1 Carlin; People's #1 Burnham (Inside, WR 8.591).
 
@@ -181,15 +183,14 @@ Era-adjusted top: Chappelle 13.02, Carlin 11.38, Hicks 10.98.
 - Per-position s.d. across scoring legs (disagreement.json; top: Lenny
   Bruce 0.83 — canonized, unwatched).
 - Inter-leg concordance (kendall_w.py, rankings/agreement.json):
-  τ(critics,audience)=+0.177 [95% CI +0.032,+0.303];
+  τ(critics,audience)=−0.036 [95% CI −0.125,+0.080] (was +0.177 pre-C4; UK-public-poll critics diverge from US-skewed audiences);
   τ(critics,awards)=+0.425 [+0.267,+0.565];
-  τ(audience,awards)=+0.290 [+0.151,+0.419].
-  Kendall's W over 11 full-coverage comics = 0.438 (χ² p=0.22 —
-  **cannot reject independence**). The legs do not significantly agree;
-  that is WHY they ship separately. Awards is the most central leg
-  (mean τ 0.357).
+  τ(audience,awards)=+0.374 [+0.266,+0.492].
+  Kendall's W over 14 full-coverage comics = 0.592 (χ² p=0.041 —
+  **independence rejected at α=.05** — the legs agree weakly but really;
+  they still ship separately (agreement is thin, disagreement is content).
 - Regime-stability intervals (stability.py, 71 regimes: 60 weight-grid +
-  3 leave-one-leg-out + 8 WR-prior perturbations): **15/178 positions
+  3 leave-one-leg-out + 8 WR-prior perturbations): minority stable (12/295 latest),
   stable** (|p95−p5| ≤ 5). Carlin #1 [1,2] is a claim; Vir Das #22
   [14,175] is a question. Every position ships its interval.
 

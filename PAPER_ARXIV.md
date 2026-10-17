@@ -28,14 +28,14 @@ Theory) whose gaps are themselves the product.
 Methodological contributions: (1) a postdate-aware extension of Dwork's
 partial-list rule, stated with its exact operational scope; (2) fitted
 rather than asserted leg weights — Mallows dispersion per leg implies
-precision weights, and a hide-one-list experiment (n=16) shows
-critics-only prediction (Kendall 0.692) beats every blend (≤0.658), so we
-publish CANON and PEOPLE'S CHOICE as separate elections; (3) rank-breaking
+precision weights; the hide-one-list experiment is fragile across runs
+(weak signal — see GAPS.md Runs A+B), so CANON and PEOPLE'S CHOICE ship
+as separate elections on pairwise-tau evidence instead; (3) rank-breaking
 Bradley-Terry on list-implied pairs validates Borda as the aggregator
-(τ = +0.876); (4) inter-leg concordance analysis shows the legs barely
-agree (τ(critics,audience) = +0.177; Kendall's W = 0.438, p = 0.22 over
+(τ ≈ +0.64–0.88 as lists grow 2→4); (4) inter-leg concordance analysis shows the legs barely
+agree (τ(critics,audience) ≈ −0.04–+0.20 across runs; Kendall's W = 0.59, p = 0.04 over
 full-coverage comics) — formal license for the split; (5) 71-regime
-stability analysis finds only 15/178 positions stable, and we publish all
+stability analysis finds only a minority of positions stable (12/295 latest), and we publish all
 intervals. A direct M5-redo (authored vs measured priors, +.18, up from
 −.05 via text proxies) is reported alongside the failed proxy test, not
 buried; (7) the house election uses first-party signals only — external
@@ -320,7 +320,7 @@ Borda is a 5-approximation to the Kemeny optimum (Dwork et al. 2001) at
 O(n log n); exact Kemeny is NP-hard at n=178 (Bartholdi et al. 1989), so
 the choice is approximation-with-guarantee versus intractability.
 *Empirics:* rank-breaking Bradley-Terry on the same lists' implied pairs
-agrees with the Borda order at τ = +0.876 (§4.5) — Borda is validated as
+agrees with the Borda order at τ ≈ +0.64–0.88 (§4.5, decaying as lists multiply) — Borda is validated as
 the cheap stand-in, not merely assumed. *Auditability:* any reader can
 recompute Borda by hand; almost no reader can audit an MCMC Kemeny
 sampler. We trade the last mile of optimality for total transparency,
@@ -360,7 +360,7 @@ machinery already supports any award).
 Two build stages. *Stage 1 (built, v0.2):* rank-breaking on list-implied
 pairs — CC2004 yields 406 pairs, RS2017 378 (among kings), 701 unique;
 MM estimation (Hunter 2004) to 1e-12. Result: BT order vs Borda critics
-τ = +0.876 (n=41); vs full consensus +0.690. Caveat (stated):
+τ = +0.642 (n=69, 4 lists) down from +0.876 (n=41, 2 lists); vs full consensus +0.639. Caveat (stated):
 unregularized BT concentrates mass on undefeated players (Pryor 0.993 vs
 Carlin 0.007); the ORDER is validated, strengths are uncalibrated —
 weak-prior regularization is scheduled. *Stage 2 (designed):* blind arena
@@ -404,20 +404,23 @@ legs): Chappelle 13.02, Carlin 11.38, Hicks 10.98 top the adjusted board.
 
 ### 4.9 Weights: from asserted to fitted
 
-*Experiment 1 — hide one list.* Predict RS2017 from CC2004+IMDb+awards
-over the 16 comics on both lists: CC-only 0.692; best grid blend 0.692
-at (1,0,0); asserted (3,2,1) 0.658. Adding audience and awards legs made
-canon prediction WORSE. They measure something else (audience taste ≠
-critic canon). The fix is not better weights; it is §4.10.
+*Experiment 1 — hide one list.* Predict RS2017 from CC2004+IMDb+awards.
+Run A (n=16): CC-only 0.692, best blend 0.692 at (1,0,0), asserted
+(3,2,1) 0.658. Run B (n=29, fuller features): best (1,2,1) 0.709,
+asserted 0.677, CC-only 0.635 — direction FLIPPED. n≈20 grid fits are
+fragile (±0.05 on a few members' features); this experiment is weak
+signal, both directions observed. It does not steer product: the split
+rests on pairwise taus (stable, large-n), and §4.10 stands on those.
+Documented fully in GAPS.md (Runs A+B).
 
 *Experiment 2 — Mallows φ per leg.* Moment-matched against consensus via
-the exact RIM expectation (Fligner & Verducci 1986): critics φ=0.721,
-audience φ=0.869, awards φ=0.828. Precision-implied weights: critics
-0.498, audience 0.214, awards 0.288 — the asserted (3,2,1) over-weighted
+the exact RIM expectation (Fligner & Verducci 1986), current run: critics φ=0.824,
+audience φ=0.903, awards φ=0.859. Precision-implied weights: critics
+0.433, audience 0.227, awards 0.340 (run values move with coverage; ordering is the finding) — the asserted (3,2,1) over-weighted
 audience and under-weighted awards. Circularity caveat (stated): fitting
 against consensus lower-bounds noise; the precision ORDERING is the
 finding, not absolute φ. CANON weights renormalized from precisions:
-critics 0.634, awards 0.366 — zero asserted weights in the canon board.
+critics 0.560, awards 0.440 — zero asserted weights in the canon board.
 
 ### 4.10 Split elections (obeying the fit)
 
@@ -513,13 +516,11 @@ theory_content (18 measured comics, 7 type boards).
 
 ## 6. Validation
 
-6.1 **Agreement analysis** (kendall_w.py): pairwise τ-b with bootstrap
-CIs; Kendall's W = 0.438, p = 0.22 — independence not rejected on 11
-full-coverage comics. Awards most central leg (0.357).
-6.2 **Stability analysis** (stability.py): 71 regimes; 15/178 stable;
+6.1 **Agreement analysis** (kendall_w.py): pairwise τ-b with bootstrap CIs — τ(ca)=−0.036 [−0.125,+0.080], τ(cw)=+0.103, τ(aw)=+0.374; Kendall's W = 0.592, p = 0.041 on 14 full-coverage comics (significant — the legs agree weakly but really). Awards most central leg (0.238).
+6.2 **Stability analysis** (stability.py): 71 regimes; 12/295 stable (latest);
 Kemenization displacement max 19/mean 0.76/56 moved. One-leg wonders
 collapse under LOO — correctly: their ranks ARE one-leg artifacts.
-6.3 **BT validation** (bt_leg.py): τ = +0.876 vs Borda critics.
+6.3 **BT validation** (bt_leg.py): τ = +0.642 vs Borda critics (4 lists, 4283 pairs; was +0.876 on 2 lists).
 6.4 **Construct tests** (ml_analysis.py, theory_content.py): ratings
 regression R² = 0.09 (profanity ≈ 0 effect; double-interp +/vocab-div
 −); Greengross text-proxy test FAILS (r = −0.05), direct M5-redo
@@ -559,11 +560,12 @@ election built only from what we measured ourselves, with everyone
 else's judgments displayed alongside as labeled reference rather than
 smuggled into our number. Every failure mode is published alongside.
 The strongest claims in this paper are negative —
-blending destroys signal (0.658 < 0.692), legs don't significantly agree
-(p = 0.22), text-proxy theory priors don't predict ratings (r = −0.05,
-direct retest +.18 — weak either way), only 15/178
+small-n grid fits flip direction across runs (fragile — see GAPS.md),
+critics and audiences barely agree (τ ≈ 0, W p = 0.04 on n=14),
+text-proxy theory priors don't predict ratings (r = −0.05,
+direct retest +.18 — weak either way), only a minority of
 positions are stable — and negatives are what make the positives (Norm #1
-on owned evidence, sweep [1,3]; Borda ≈ BT at 0.876; precision-implied
+on owned evidence, sweep [1,3]; Borda ≈ BT at τ ≈ 0.64–0.88; precision-implied
 weights) believable.
 Definitive, here, means auditable — not uncontested.
 
@@ -797,5 +799,5 @@ Definitive, here, means auditable — not uncontested.
   mean z-scores; n=179/181; asserted (3,2,1); single consensus.
 - v0.2 (2026-10-17 PM, this manuscript): corpus-calibrated m=500/C=7.5;
   median z-scores; 178 kings; Mallows-implied weights; CANON/PEOPLE'S
-  split primary; BT validation (τ=0.876); agreement + stability + Mallows
+  split primary; BT validation (τ≈0.64–0.88); agreement + stability + Mallows
   machinery; crowd-raw correction; HEAT null admission; full bibliography.

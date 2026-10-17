@@ -1,110 +1,110 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "elouise-eftos",
-  "name": "Elouise Eftos",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "edinburgh-2025-newcomer"
-    ],
-    "discovery_note": "Best Newcomer nominee 2025, Australia's First Attractive Comedian"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 12.5,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 12.5,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "bill-hicks",
-      "sim": 0.039
-    },
-    {
-      "comedian_id": "bo-burnham",
-      "sim": 0.03
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "elouise-eftos",
+ "name": "Elouise Eftos",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "edinburgh-2025-newcomer"
   ],
-  "style_tags": {
-    "humor_type": "rant",
-    "theories": [
-      "rigidity",
-      "status_reversal",
-      "incongruity"
-    ],
-    "via": "bill-hicks",
-    "sim": 0.039,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  },
-  "known_bits": [
-    {
-      "title": "Australia's First Attractive Comedian",
-      "why_it_works": "Title-as-premise: national self-image vs the claim \u2014 status_invert where the boast is the setup and Australianness is the punchline. (Edinburgh 2025; premise-inferred hypothesis)",
-      "theory_links": [
-        "status_invert",
-        "identity_contradict"
-      ],
-      "source": "edinburgh-2025-newcomer",
-      "status": "hypothesis (press-described, unmeasured)"
-    }
+  "discovery_note": "Best Newcomer nominee 2025, Australia's First Attractive Comedian"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
   ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 12.5,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 12.5,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "bill-hicks",
+   "sim": 0.053
+  },
+  {
+   "comedian_id": "bo-burnham",
+   "sim": 0.041
+  }
+ ],
+ "known_bits": [
+  {
+   "title": "Australia's First Attractive Comedian",
+   "why_it_works": "Title-as-premise: national self-image vs the claim \u2014 status_invert where the boast is the setup and Australianness is the punchline. (Edinburgh 2025; premise-inferred hypothesis)",
+   "theory_links": [
+    "status_invert",
+    "identity_contradict"
+   ],
+   "source": "edinburgh-2025-newcomer",
+   "status": "hypothesis (press-described, unmeasured)"
+  }
+ ],
+ "style_tags": {
+  "humor_type": "rant",
+  "theories": [
+   "rigidity",
+   "status_reversal",
+   "incongruity"
+  ],
+  "via": "bill-hicks",
+  "sim": 0.053,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

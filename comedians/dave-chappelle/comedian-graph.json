@@ -588,7 +588,8 @@
         "award": "Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series",
         "year": 2017
       }
-    ]
+    ],
+    "paste_2017": 10
   },
   "specials_rated": [
     {
@@ -747,7 +748,7 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 99.1,
+    "legacy": 98.3,
     "legacy_era": 100.0,
     "audience": 85.0,
     "popularity": 97.8,
@@ -755,7 +756,7 @@
     "heat": null,
     "gap_value": 0.128,
     "overrated": "accurately rated",
-    "canon_lag": -0.141
+    "canon_lag": -0.133
   },
   "tier": "king",
   "region": "us",
@@ -794,24 +795,24 @@
     ]
   },
   "rating": {
-    "headline": 92.9,
+    "headline": 93.8,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 8,
-        "pct": 92.9,
+        "pct": 93.8,
         "sweep": [
           6,
-          19
+          20
         ]
       },
       "consensus": {
-        "rank": 3,
+        "rank": 6,
         "ref": true
       },
       "canon": {
-        "rank": 6,
+        "rank": 7,
         "ref": true
       },
       "peoples": {
@@ -826,9 +827,18 @@
     },
     "interval": {
       "lo": 6,
-      "hi": 19
+      "hi": 20
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "7e37a1bf-3442-4c60-9dda-06989b869eab",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

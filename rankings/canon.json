@@ -1,79 +1,79 @@
 {
- "note": "ALL-TIME CANON: establishment election (critics + awards). Weights fitted, not asserted (Mallows precision: 0.634/0.366).",
+ "note": "ALL-TIME CANON: establishment election (critics + awards). Weights fitted, not asserted (Mallows precision: 0.560/0.440).",
  "weights": {
-  "critics": 0.6338,
-  "awards": 0.3662
+  "critics": 0.5603,
+  "awards": 0.4397
  },
  "rows": [
   {
    "rank": 1,
-   "comedian_id": "george-carlin",
-   "name": "George Carlin",
-   "score": 1.5282,
-   "critics": 1.9298,
-   "awards": 0.8333,
+   "comedian_id": "richard-pryor",
+   "name": "Richard Pryor",
+   "score": 2.0107,
+   "critics": 3.0,
+   "awards": 0.75,
    "generation": "seventies"
   },
   {
    "rank": 2,
-   "comedian_id": "robin-williams",
-   "name": "Robin Williams",
-   "score": 1.2997,
-   "critics": 1.4729,
-   "awards": 1.0,
+   "comedian_id": "george-carlin",
+   "name": "George Carlin",
+   "score": 1.9992,
+   "critics": 2.9142,
+   "awards": 0.8333,
    "generation": "seventies"
   },
   {
    "rank": 3,
-   "comedian_id": "richard-pryor",
-   "name": "Richard Pryor",
-   "score": 1.2675,
-   "critics": 2.0,
-   "awards": 0.0,
+   "comedian_id": "robin-williams",
+   "name": "Robin Williams",
+   "score": 1.7325,
+   "critics": 2.3074,
+   "awards": 1.0,
    "generation": "seventies"
   },
   {
    "rank": 4,
-   "comedian_id": "lenny-bruce",
-   "name": "Lenny Bruce",
-   "score": 1.1785,
-   "critics": 1.8596,
-   "awards": 0.0,
-   "generation": "pioneers"
-  },
-  {
-   "rank": 5,
    "comedian_id": "chris-rock",
    "name": "Chris Rock",
-   "score": 1.1725,
-   "critics": 1.7537,
+   "score": 1.6545,
+   "critics": 2.822,
    "awards": 0.1667,
    "generation": "eighties-boom"
   },
   {
+   "rank": 5,
+   "comedian_id": "lenny-bruce",
+   "name": "Lenny Bruce",
+   "score": 1.4933,
+   "critics": 2.6652,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
    "rank": 6,
-   "comedian_id": "dave-chappelle",
-   "name": "Dave Chappelle",
-   "score": 1.0605,
-   "critics": 1.3362,
-   "awards": 0.5833,
-   "generation": "nineties"
+   "comedian_id": "steve-martin",
+   "name": "Steve Martin",
+   "score": 1.4822,
+   "critics": 2.6453,
+   "awards": 0.0,
+   "generation": "seventies"
   },
   {
    "rank": 7,
-   "comedian_id": "jerry-seinfeld",
-   "name": "Jerry Seinfeld",
-   "score": 1.0514,
-   "critics": 1.5788,
-   "awards": 0.1389,
-   "generation": "eighties-boom"
+   "comedian_id": "dave-chappelle",
+   "name": "Dave Chappelle",
+   "score": 1.4341,
+   "critics": 2.1017,
+   "awards": 0.5833,
+   "generation": "nineties"
   },
   {
    "rank": 8,
    "comedian_id": "eddie-murphy",
    "name": "Eddie Murphy",
-   "score": 0.9691,
-   "critics": 1.2562,
+   "score": 1.3941,
+   "critics": 2.1176,
    "awards": 0.4722,
    "generation": "eighties-boom"
   },
@@ -81,373 +81,1309 @@
    "rank": 9,
    "comedian_id": "joan-rivers",
    "name": "Joan Rivers",
-   "score": 0.9008,
-   "critics": 1.3732,
+   "score": 1.2844,
+   "critics": 2.227,
    "awards": 0.0833,
    "generation": "eighties-boom"
   },
   {
    "rank": 10,
-   "comedian_id": "bill-hicks",
-   "name": "Bill Hicks",
-   "score": 0.889,
-   "critics": 1.4027,
+   "comedian_id": "bob-newhart",
+   "name": "Bob Newhart",
+   "score": 1.2458,
+   "critics": 2.2235,
    "awards": 0.0,
-   "generation": "nineties"
+   "generation": "pioneers"
   },
   {
    "rank": 11,
    "comedian_id": "steven-wright",
    "name": "Steven Wright",
-   "score": 0.8445,
-   "critics": 1.3325,
+   "score": 1.2371,
+   "critics": 2.2079,
    "awards": 0.0,
    "generation": "eighties-boom"
   },
   {
    "rank": 12,
-   "comedian_id": "rodney-dangerfield",
-   "name": "Rodney Dangerfield",
-   "score": 0.7953,
-   "critics": 1.2549,
-   "awards": 0.0,
-   "generation": "pioneers"
-  },
-  {
-   "rank": 13,
-   "comedian_id": "louis-ck",
-   "name": "Louis C.K.",
-   "score": 0.6487,
-   "critics": 0.9273,
-   "awards": 0.1667,
-   "generation": "nineties"
-  },
-  {
-   "rank": 14,
-   "comedian_id": "eddie-izzard",
-   "name": "Eddie Izzard",
-   "score": 0.5301,
-   "critics": 0.7401,
-   "awards": 0.1667,
-   "generation": "nineties"
-  },
-  {
-   "rank": 15,
-   "comedian_id": "bill-maher",
-   "name": "Bill Maher",
-   "score": 0.4849,
-   "critics": 0.6207,
-   "awards": 0.25,
-   "generation": "aughts"
-  },
-  {
-   "rank": 16,
-   "comedian_id": "ray-romano",
-   "name": "Ray Romano",
-   "score": 0.4152,
-   "critics": 0.6552,
-   "awards": 0.0,
-   "generation": "eighties-boom"
-  },
-  {
-   "rank": 17,
-   "comedian_id": "kevin-hart",
-   "name": "Kevin Hart",
-   "score": 0.4006,
-   "critics": 0.5357,
-   "awards": 0.1667,
-   "generation": "aughts"
-  },
-  {
-   "rank": 18,
-   "comedian_id": "adam-sandler",
-   "name": "Adam Sandler",
-   "score": 0.3888,
-   "critics": 0.5172,
-   "awards": 0.1667,
-   "generation": "eighties-boom"
-  },
-  {
-   "rank": 19,
-   "comedian_id": "billy-connolly",
-   "name": "Billy Connolly",
-   "score": 0.3848,
-   "critics": 0.6071,
+   "comedian_id": "andy-kaufman",
+   "name": "Andy Kaufman",
+   "score": 1.2095,
+   "critics": 2.1586,
    "awards": 0.0,
    "generation": "seventies"
   },
   {
-   "rank": 20,
-   "comedian_id": "bill-burr",
-   "name": "Bill Burr",
-   "score": 0.3621,
-   "critics": 0.5714,
+   "rank": 13,
+   "comedian_id": "mort-sahl",
+   "name": "Mort Sahl",
+   "score": 1.2002,
+   "critics": 2.142,
    "awards": 0.0,
-   "generation": "aughts"
+   "generation": "pioneers"
+  },
+  {
+   "rank": 14,
+   "comedian_id": "bill-hicks",
+   "name": "Bill Hicks",
+   "score": 1.1846,
+   "critics": 2.1142,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 15,
+   "comedian_id": "don-rickles",
+   "name": "Don Rickles",
+   "score": 1.0592,
+   "critics": 1.8905,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 16,
+   "comedian_id": "louis-ck",
+   "name": "Louis C.K.",
+   "score": 1.0424,
+   "critics": 1.7296,
+   "awards": 0.1667,
+   "generation": "nineties"
+  },
+  {
+   "rank": 17,
+   "comedian_id": "jerry-seinfeld",
+   "name": "Jerry Seinfeld",
+   "score": 1.0171,
+   "critics": 1.7063,
+   "awards": 0.1389,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 18,
+   "comedian_id": "rodney-dangerfield",
+   "name": "Rodney Dangerfield",
+   "score": 1.0157,
+   "critics": 1.8128,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 19,
+   "comedian_id": "jonathan-winters",
+   "name": "Jonathan Winters",
+   "score": 1.0138,
+   "critics": 1.8094,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 20,
+   "comedian_id": "albert-brooks",
+   "name": "Albert Brooks",
+   "score": 0.9867,
+   "critics": 1.761,
+   "awards": 0.0,
+   "generation": "seventies"
   },
   {
    "rank": 21,
-   "comedian_id": "dick-gregory",
-   "name": "Dick Gregory",
-   "score": 0.3574,
-   "critics": 0.564,
+   "comedian_id": "redd-foxx",
+   "name": "Redd Foxx",
+   "score": 0.9804,
+   "critics": 1.7497,
    "awards": 0.0,
    "generation": "pioneers"
   },
   {
    "rank": 22,
-   "comedian_id": "mitch-hedberg",
-   "name": "Mitch Hedberg",
-   "score": 0.3169,
-   "critics": 0.5,
+   "comedian_id": "robert-klein",
+   "name": "Robert Klein",
+   "score": 0.9011,
+   "critics": 1.6082,
    "awards": 0.0,
-   "generation": "nineties"
+   "generation": "seventies"
   },
   {
    "rank": 23,
-   "comedian_id": "lewis-black",
-   "name": "Lewis Black",
-   "score": 0.306,
-   "critics": 0.4828,
+   "comedian_id": "roseanne-barr",
+   "name": "Roseanne Barr",
+   "score": 0.9001,
+   "critics": 1.6065,
    "awards": 0.0,
-   "generation": "nineties"
+   "generation": "eighties-boom"
   },
   {
    "rank": 24,
-   "comedian_id": "donald-glover",
-   "name": "Donald Glover",
-   "score": 0.3052,
-   "critics": 0.0,
-   "awards": 0.8333,
-   "generation": "aughts"
+   "comedian_id": "garry-shandling",
+   "name": "Garry Shandling",
+   "score": 0.8053,
+   "critics": 1.4372,
+   "awards": 0.0,
+   "generation": "eighties-boom"
   },
   {
    "rank": 25,
-   "comedian_id": "d-l-hughley",
-   "name": "D L Hughley",
-   "score": 0.2841,
-   "critics": 0.4483,
+   "comedian_id": "mitch-hedberg",
+   "name": "Mitch Hedberg",
+   "score": 0.6512,
+   "critics": 1.1623,
    "awards": 0.0,
-   "generation": "eighties-boom"
+   "generation": "nineties"
   },
   {
    "rank": 26,
-   "comedian_id": "colin-quinn",
-   "name": "Colin Quinn",
-   "score": 0.2622,
-   "critics": 0.4138,
+   "comedian_id": "phyllis-diller",
+   "name": "Phyllis Diller",
+   "score": 0.6271,
+   "critics": 1.1192,
    "awards": 0.0,
-   "generation": "nineties"
+   "generation": "pioneers"
   },
   {
    "rank": 27,
-   "comedian_id": "patton-oswalt",
-   "name": "Patton Oswalt",
-   "score": 0.25,
-   "critics": 0.25,
-   "awards": 0.25,
-   "generation": "nineties"
+   "comedian_id": "dick-gregory",
+   "name": "Dick Gregory",
+   "score": 0.5999,
+   "critics": 1.0707,
+   "awards": 0.0,
+   "generation": "pioneers"
   },
   {
    "rank": 28,
-   "comedian_id": "jeff-foxworthy",
-   "name": "Jeff Foxworthy",
-   "score": 0.2404,
-   "critics": 0.3793,
+   "comedian_id": "peter-kay",
+   "name": "Peter Kay",
+   "score": 0.5603,
+   "critics": 1.0,
    "awards": 0.0,
-   "generation": "eighties-boom"
+   "generation": "aughts"
   },
   {
    "rank": 29,
-   "comedian_id": "wanda-sykes",
-   "name": "Wanda Sykes",
-   "score": 0.2193,
-   "critics": 0.3461,
+   "comedian_id": "harry-hill",
+   "name": "Harry Hill",
+   "score": 0.5516,
+   "critics": 0.9844,
    "awards": 0.0,
    "generation": "nineties"
   },
   {
    "rank": 30,
-   "comedian_id": "eddie-griffin",
-   "name": "Eddie Griffin",
-   "score": 0.2185,
-   "critics": 0.3448,
+   "comedian_id": "bill-bailey",
+   "name": "Bill Bailey",
+   "score": 0.5428,
+   "critics": 0.9688,
    "awards": 0.0,
    "generation": "nineties"
   },
   {
    "rank": 31,
-   "comedian_id": "amy-schumer",
-   "name": "Amy Schumer",
-   "score": 0.2149,
-   "critics": 0.1786,
-   "awards": 0.2778,
-   "generation": "aughts"
+   "comedian_id": "victoria-wood",
+   "name": "Victoria Wood",
+   "score": 0.534,
+   "critics": 0.9531,
+   "awards": 0.0,
+   "generation": "eighties-boom"
   },
   {
    "rank": 32,
-   "comedian_id": "sarah-silverman",
-   "name": "Sarah Silverman",
-   "score": 0.2037,
-   "critics": 0.3214,
+   "comedian_id": "moms-mabley",
+   "name": "Moms Mabley",
+   "score": 0.5276,
+   "critics": 0.9416,
    "awards": 0.0,
-   "generation": "nineties"
+   "generation": "pioneers"
   },
   {
    "rank": 33,
-   "comedian_id": "patrice-o-neal",
-   "name": "Patrice O Neal",
-   "score": 0.1811,
-   "critics": 0.2857,
+   "comedian_id": "jack-dee",
+   "name": "Jack Dee",
+   "score": 0.5253,
+   "critics": 0.9375,
    "awards": 0.0,
    "generation": "nineties"
   },
   {
    "rank": 34,
-   "comedian_id": "cedric-the-entertainer",
-   "name": "Cedric The Entertainer",
-   "score": 0.153,
-   "critics": 0.2414,
+   "comedian_id": "woody-allen",
+   "name": "Woody Allen",
+   "score": 0.5165,
+   "critics": 0.9219,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 35,
+   "comedian_id": "jerry-sadowitz",
+   "name": "Jerry Sadowitz",
+   "score": 0.5077,
+   "critics": 0.9062,
    "awards": 0.0,
    "generation": "eighties-boom"
   },
   {
-   "rank": 35,
-   "comedian_id": "tig-notaro",
-   "name": "Tig Notaro",
-   "score": 0.1358,
-   "critics": 0.2143,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
    "rank": 36,
-   "comedian_id": "john-mulaney",
-   "name": "John Mulaney",
-   "score": 0.1322,
-   "critics": 0.0,
-   "awards": 0.3611,
-   "generation": "aughts"
+   "comedian_id": "eddie-izzard",
+   "name": "Eddie Izzard",
+   "score": 0.5019,
+   "critics": 0.6778,
+   "awards": 0.2778,
+   "generation": "nineties"
   },
   {
    "rank": 37,
-   "comedian_id": "david-cross",
-   "name": "David Cross",
-   "score": 0.1179,
-   "critics": 0.1379,
-   "awards": 0.0833,
+   "comedian_id": "al-murray",
+   "name": "Al Murray",
+   "score": 0.499,
+   "critics": 0.8906,
+   "awards": 0.0,
    "generation": "nineties"
   },
   {
    "rank": 38,
-   "comedian_id": "norm-macdonald",
-   "name": "Norm Macdonald",
-   "score": 0.1093,
-   "critics": 0.1724,
+   "comedian_id": "alexei-sayle",
+   "name": "Alexei Sayle",
+   "score": 0.4903,
+   "critics": 0.875,
    "awards": 0.0,
-   "generation": "nineties"
+   "generation": "eighties-boom"
   },
   {
    "rank": 39,
-   "comedian_id": "aziz-ansari",
-   "name": "Aziz Ansari",
-   "score": 0.1063,
-   "critics": 0.0714,
+   "comedian_id": "les-dawson",
+   "name": "Les Dawson",
+   "score": 0.4815,
+   "critics": 0.8594,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 40,
+   "comedian_id": "jasper-carrott",
+   "name": "Jasper Carrott",
+   "score": 0.4728,
+   "critics": 0.8438,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 41,
+   "comedian_id": "george-burns",
+   "name": "George Burns",
+   "score": 0.4724,
+   "critics": 0.8431,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 42,
+   "comedian_id": "kevin-hart",
+   "name": "Kevin Hart",
+   "score": 0.4642,
+   "critics": 0.6976,
    "awards": 0.1667,
    "generation": "aughts"
   },
   {
-   "rank": 40,
-   "comedian_id": "russell-peters",
-   "name": "Russell Peters",
-   "score": 0.0906,
-   "critics": 0.1429,
-   "awards": 0.0,
-   "generation": "nineties"
-  },
-  {
-   "rank": 41,
-   "comedian_id": "dana-carvey",
-   "name": "Dana Carvey",
-   "score": 0.0742,
-   "critics": 0.069,
-   "awards": 0.0833,
-   "generation": "eighties-boom"
-  },
-  {
-   "rank": 42,
-   "comedian_id": "reggie-watts",
-   "name": "Reggie Watts",
-   "score": 0.0679,
-   "critics": 0.1071,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
    "rank": 43,
-   "comedian_id": "kevin-james",
-   "name": "Kevin James",
-   "score": 0.0655,
-   "critics": 0.1034,
+   "comedian_id": "ben-elton",
+   "name": "Ben Elton",
+   "score": 0.464,
+   "critics": 0.8281,
    "awards": 0.0,
    "generation": "eighties-boom"
   },
   {
    "rank": 44,
+   "comedian_id": "ray-romano",
+   "name": "Ray Romano",
+   "score": 0.4585,
+   "critics": 0.6222,
+   "awards": 0.25,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 45,
+   "comedian_id": "jo-brand",
+   "name": "Jo Brand",
+   "score": 0.4552,
+   "critics": 0.8125,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 46,
+   "comedian_id": "bernie-mac",
+   "name": "Bernie Mac",
+   "score": 0.4541,
+   "critics": 0.8104,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 47,
+   "comedian_id": "lee-evans",
+   "name": "Lee Evans",
+   "score": 0.4465,
+   "critics": 0.7969,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 48,
+   "comedian_id": "steve-coogan",
+   "name": "Steve Coogan",
+   "score": 0.4377,
+   "critics": 0.7812,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 49,
+   "comedian_id": "bernard-manning",
+   "name": "Bernard Manning",
+   "score": 0.429,
+   "critics": 0.7656,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 50,
+   "comedian_id": "sarah-silverman",
+   "name": "Sarah Silverman",
+   "score": 0.421,
+   "critics": 0.7514,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 51,
+   "comedian_id": "bob-monkhouse",
+   "name": "Bob Monkhouse",
+   "score": 0.4202,
+   "critics": 0.75,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 52,
+   "comedian_id": "roy-chubby-brown",
+   "name": "Roy Chubby Brown",
+   "score": 0.4115,
+   "critics": 0.7344,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 53,
+   "comedian_id": "billy-connolly",
+   "name": "Billy Connolly",
+   "score": 0.4065,
+   "critics": 0.6818,
+   "awards": 0.0556,
+   "generation": "seventies"
+  },
+  {
+   "rank": 54,
+   "comedian_id": "david-baddiel",
+   "name": "David Baddiel",
+   "score": 0.4027,
+   "critics": 0.7188,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 55,
+   "comedian_id": "denis-leary",
+   "name": "Denis Leary",
+   "score": 0.3939,
+   "critics": 0.7031,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 56,
+   "comedian_id": "lily-tomlin",
+   "name": "Lily Tomlin",
+   "score": 0.3888,
+   "critics": 0.6939,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 57,
+   "comedian_id": "mark-thomas",
+   "name": "Mark Thomas",
+   "score": 0.3852,
+   "critics": 0.6875,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 58,
+   "comedian_id": "bill-maher",
+   "name": "Bill Maher",
+   "score": 0.3839,
+   "critics": 0.4889,
+   "awards": 0.25,
+   "generation": "aughts"
+  },
+  {
+   "rank": 59,
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "score": 0.3797,
+   "critics": 0.4814,
+   "awards": 0.25,
+   "generation": "nineties"
+  },
+  {
+   "rank": 60,
+   "comedian_id": "jim-davidson",
+   "name": "Jim Davidson",
+   "score": 0.3765,
+   "critics": 0.6719,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 61,
+   "comedian_id": "bill-burr",
+   "name": "Bill Burr",
+   "score": 0.3693,
+   "critics": 0.6591,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 62,
+   "comedian_id": "andrew-dice-clay",
+   "name": "Andrew Dice Clay",
+   "score": 0.3677,
+   "critics": 0.6562,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 63,
+   "comedian_id": "donald-glover",
+   "name": "Donald Glover",
+   "score": 0.3664,
+   "critics": 0.0,
+   "awards": 0.8333,
+   "generation": "aughts"
+  },
+  {
+   "rank": 64,
+   "comedian_id": "jenny-eclair",
+   "name": "Jenny Eclair",
+   "score": 0.3589,
+   "critics": 0.6406,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 65,
+   "comedian_id": "sean-hughes",
+   "name": "Sean Hughes",
+   "score": 0.3502,
+   "critics": 0.625,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 66,
+   "comedian_id": "henny-youngman",
+   "name": "Henny Youngman",
+   "score": 0.3489,
+   "critics": 0.6227,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 67,
+   "comedian_id": "johnny-vegas",
+   "name": "Johnny Vegas",
+   "score": 0.3414,
+   "critics": 0.6094,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 68,
+   "comedian_id": "paul-ogrady",
+   "name": "Paul O'Grady",
+   "score": 0.3327,
+   "critics": 0.5938,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 69,
+   "comedian_id": "rob-newman",
+   "name": "Rob Newman",
+   "score": 0.3239,
+   "critics": 0.5781,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 70,
+   "comedian_id": "jackie-mason",
+   "name": "Jackie Mason",
+   "score": 0.3152,
+   "critics": 0.5625,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 71,
+   "comedian_id": "ken-dodd",
+   "name": "Ken Dodd",
+   "score": 0.3064,
+   "critics": 0.5469,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 72,
+   "comedian_id": "aziz-ansari",
+   "name": "Aziz Ansari",
+   "score": 0.3046,
+   "critics": 0.4128,
+   "awards": 0.1667,
+   "generation": "aughts"
+  },
+  {
+   "rank": 73,
+   "comedian_id": "graham-norton",
+   "name": "Graham Norton",
+   "score": 0.2976,
+   "critics": 0.5312,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 74,
+   "comedian_id": "adam-sandler",
+   "name": "Adam Sandler",
+   "score": 0.2974,
+   "critics": 0.4,
+   "awards": 0.1667,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 75,
+   "comedian_id": "norm-macdonald",
+   "name": "Norm Macdonald",
+   "score": 0.291,
+   "critics": 0.5193,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 76,
+   "comedian_id": "bob-hope",
+   "name": "Bob Hope",
+   "score": 0.2889,
+   "critics": 0.5156,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 77,
+   "comedian_id": "lenny-henry",
+   "name": "Lenny Henry",
+   "score": 0.2802,
+   "critics": 0.5,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 78,
+   "comedian_id": "gilbert-gottfried",
+   "name": "Gilbert Gottfried",
+   "score": 0.2762,
+   "critics": 0.493,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 79,
+   "comedian_id": "tommy-cooper",
+   "name": "Tommy Cooper",
+   "score": 0.2714,
+   "critics": 0.4844,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 80,
+   "comedian_id": "julian-clary",
+   "name": "Julian Clary",
+   "score": 0.2627,
+   "critics": 0.4688,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 81,
+   "comedian_id": "wanda-sykes",
+   "name": "Wanda Sykes",
+   "score": 0.2539,
+   "critics": 0.3878,
+   "awards": 0.0833,
+   "generation": "nineties"
+  },
+  {
+   "rank": 82,
+   "comedian_id": "dave-spikey",
+   "name": "Dave Spikey",
+   "score": 0.2539,
+   "critics": 0.4531,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 83,
+   "comedian_id": "omid-djalili",
+   "name": "Omid Djalili",
+   "score": 0.2451,
+   "critics": 0.4375,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 84,
+   "comedian_id": "phill-jupitus",
+   "name": "Phill Jupitus",
+   "score": 0.2364,
+   "critics": 0.4219,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 85,
+   "comedian_id": "alan-davies",
+   "name": "Alan Davies",
+   "score": 0.2276,
+   "critics": 0.4062,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 86,
+   "comedian_id": "rhona-cameron",
+   "name": "Rhona Cameron",
+   "score": 0.2189,
+   "critics": 0.3906,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 87,
+   "comedian_id": "john-mulaney",
+   "name": "John Mulaney",
+   "score": 0.2159,
+   "critics": 0.102,
+   "awards": 0.3611,
+   "generation": "aughts"
+  },
+  {
+   "rank": 88,
+   "comedian_id": "chris-addison",
+   "name": "Chris Addison",
+   "score": 0.2101,
+   "critics": 0.375,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 89,
+   "comedian_id": "mike-reid",
+   "name": "Mike Reid",
+   "score": 0.2014,
+   "critics": 0.3594,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 90,
+   "comedian_id": "lewis-black",
+   "name": "Lewis Black",
+   "score": 0.1992,
+   "critics": 0.3556,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 91,
+   "comedian_id": "amy-schumer",
+   "name": "Amy Schumer",
+   "score": 0.1986,
+   "critics": 0.1364,
+   "awards": 0.2778,
+   "generation": "aughts"
+  },
+  {
+   "rank": 92,
+   "comedian_id": "maria-bamford",
+   "name": "Maria Bamford",
+   "score": 0.1944,
+   "critics": 0.3469,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 93,
+   "comedian_id": "lee-hurst",
+   "name": "Lee Hurst",
+   "score": 0.1926,
+   "critics": 0.3438,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 94,
+   "comedian_id": "patrice-o-neal",
+   "name": "Patrice O Neal",
+   "score": 0.191,
+   "critics": 0.3409,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 95,
+   "comedian_id": "d-l-hughley",
+   "name": "D L Hughley",
+   "score": 0.1867,
+   "critics": 0.3333,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 96,
+   "comedian_id": "jethro",
+   "name": "Jethro",
+   "score": 0.1838,
+   "critics": 0.3281,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 97,
+   "comedian_id": "hannibal-buress",
+   "name": "Hannibal Buress",
+   "score": 0.1829,
+   "critics": 0.3265,
+   "awards": 0.0,
+   "generation": null
+  },
+  {
+   "rank": 98,
+   "comedian_id": "john-thomson",
+   "name": "John Thomson",
+   "score": 0.1751,
+   "critics": 0.3125,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 99,
+   "comedian_id": "colin-quinn",
+   "name": "Colin Quinn",
+   "score": 0.1743,
+   "critics": 0.3111,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 100,
+   "comedian_id": "paul-mooney",
+   "name": "Paul Mooney",
+   "score": 0.1715,
+   "critics": 0.3061,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 101,
+   "comedian_id": "frankie-howerd",
+   "name": "Frankie Howerd",
+   "score": 0.1664,
+   "critics": 0.2969,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 102,
+   "comedian_id": "tig-notaro",
+   "name": "Tig Notaro",
+   "score": 0.1656,
+   "critics": 0.2955,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 103,
+   "comedian_id": "whoopi-goldberg",
+   "name": "Whoopi Goldberg",
+   "score": 0.1601,
+   "critics": 0.2857,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 104,
+   "comedian_id": "ed-byrne",
+   "name": "Ed Byrne",
+   "score": 0.1576,
+   "critics": 0.2812,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 105,
+   "comedian_id": "daniel-kitson",
+   "name": "Daniel Kitson",
+   "score": 0.1528,
+   "critics": 0.2727,
+   "awards": 0.0,
+   "generation": null
+  },
+  {
+   "rank": 106,
+   "comedian_id": "jeff-foxworthy",
+   "name": "Jeff Foxworthy",
+   "score": 0.1494,
+   "critics": 0.2667,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 107,
+   "comedian_id": "dave-gorman",
+   "name": "Dave Gorman",
+   "score": 0.1488,
+   "critics": 0.2656,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 108,
+   "comedian_id": "arthur-smith",
+   "name": "Arthur Smith",
+   "score": 0.1401,
+   "critics": 0.25,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 109,
+   "comedian_id": "eddie-griffin",
+   "name": "Eddie Griffin",
+   "score": 0.1369,
+   "critics": 0.2444,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 110,
+   "comedian_id": "chic-murray",
+   "name": "Chic Murray",
+   "score": 0.1313,
+   "critics": 0.2344,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 111,
+   "comedian_id": "jim-gaffigan",
+   "name": "Jim Gaffigan",
+   "score": 0.1258,
+   "critics": 0.2245,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 112,
+   "comedian_id": "frank-carson",
+   "name": "Frank Carson",
+   "score": 0.1226,
+   "critics": 0.2188,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 113,
+   "comedian_id": "freddie-starr",
+   "name": "Freddie Starr",
+   "score": 0.1138,
+   "critics": 0.2031,
+   "awards": 0.0,
+   "generation": "seventies"
+  },
+  {
+   "rank": 114,
+   "comedian_id": "margaret-cho",
+   "name": "Margaret Cho",
+   "score": 0.1068,
+   "critics": 0.1906,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 115,
+   "comedian_id": "barry-humphries",
+   "name": "Barry Humphries",
+   "score": 0.1051,
+   "critics": 0.1875,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 116,
+   "comedian_id": "todd-barry",
+   "name": "Todd Barry",
+   "score": 0.1029,
+   "critics": 0.1837,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 117,
+   "comedian_id": "tommy-trinder",
+   "name": "Tommy Trinder",
+   "score": 0.0963,
+   "critics": 0.1719,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 118,
+   "comedian_id": "harry-enfield",
+   "name": "Harry Enfield",
+   "score": 0.0875,
+   "critics": 0.1562,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 119,
+   "comedian_id": "cedric-the-entertainer",
+   "name": "Cedric The Entertainer",
+   "score": 0.0872,
+   "critics": 0.1556,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 120,
+   "comedian_id": "david-cross",
+   "name": "David Cross",
+   "score": 0.0864,
+   "critics": 0.0889,
+   "awards": 0.0833,
+   "generation": "nineties"
+  },
+  {
+   "rank": 121,
+   "comedian_id": "reginald-d-hunter",
+   "name": "Reginald D Hunter",
+   "score": 0.0788,
+   "critics": 0.1406,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 122,
+   "comedian_id": "greg-davies",
+   "name": "Greg Davies",
+   "score": 0.0733,
+   "critics": 0.0,
+   "awards": 0.1667,
+   "generation": "aughts"
+  },
+  {
+   "rank": 123,
+   "comedian_id": "ronnie-corbett",
+   "name": "Ronnie Corbett",
+   "score": 0.07,
+   "critics": 0.125,
+   "awards": 0.0,
+   "generation": "pioneers"
+  },
+  {
+   "rank": 124,
+   "comedian_id": "russell-peters",
+   "name": "Russell Peters",
+   "score": 0.0637,
+   "critics": 0.1136,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 125,
+   "comedian_id": "dana-carvey",
+   "name": "Dana Carvey",
+   "score": 0.0615,
+   "critics": 0.0444,
+   "awards": 0.0833,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 126,
+   "comedian_id": "joe-pasquale",
+   "name": "Joe Pasquale",
+   "score": 0.0613,
+   "critics": 0.1094,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 127,
    "comedian_id": "ali-wong",
    "name": "Ali Wong",
-   "score": 0.0509,
+   "score": 0.0611,
    "critics": 0.0,
    "awards": 0.1389,
    "generation": "tens"
   },
   {
-   "rank": 45,
+   "rank": 128,
    "comedian_id": "bo-burnham",
    "name": "Bo Burnham",
-   "score": 0.0509,
+   "score": 0.0611,
    "critics": 0.0,
    "awards": 0.1389,
    "generation": "aughts"
   },
   {
-   "rank": 46,
+   "rank": 129,
    "comedian_id": "jerrod-carmichael",
    "name": "Jerrod Carmichael",
-   "score": 0.0509,
+   "score": 0.0611,
    "critics": 0.0,
    "awards": 0.1389,
    "generation": null
   },
   {
-   "rank": 47,
+   "rank": 130,
+   "comedian_id": "ricky-gervais",
+   "name": "Ricky Gervais",
+   "score": 0.0611,
+   "critics": 0.0,
+   "awards": 0.1389,
+   "generation": "aughts"
+  },
+  {
+   "rank": 131,
+   "comedian_id": "paul-merton",
+   "name": "Paul Merton",
+   "score": 0.0526,
+   "critics": 0.0938,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 132,
+   "comedian_id": "reggie-watts",
+   "name": "Reggie Watts",
+   "score": 0.0509,
+   "critics": 0.0909,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 133,
+   "comedian_id": "sarah-millican",
+   "name": "Sarah Millican",
+   "score": 0.0489,
+   "critics": 0.0,
+   "awards": 0.1111,
+   "generation": "aughts"
+  },
+  {
+   "rank": 134,
+   "comedian_id": "paul-f-tompkins",
+   "name": "Paul F. Tompkins",
+   "score": 0.0457,
+   "critics": 0.0816,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 135,
+   "comedian_id": "rik-mayall",
+   "name": "Rik Mayall",
+   "score": 0.0438,
+   "critics": 0.0781,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 136,
+   "comedian_id": "kevin-james",
+   "name": "Kevin James",
+   "score": 0.0374,
+   "critics": 0.0667,
+   "awards": 0.0,
+   "generation": "eighties-boom"
+  },
+  {
+   "rank": 137,
    "comedian_id": "katt-williams",
    "name": "Katt Williams",
-   "score": 0.0305,
+   "score": 0.0366,
    "critics": 0.0,
    "awards": 0.0833,
    "generation": "nineties"
   },
   {
-   "rank": 48,
+   "rank": 138,
+   "comedian_id": "tiffany-haddish",
+   "name": "Tiffany Haddish",
+   "score": 0.0366,
+   "critics": 0.0,
+   "awards": 0.0833,
+   "generation": "tens"
+  },
+  {
+   "rank": 139,
+   "comedian_id": "vir-das",
+   "name": "Vir Das",
+   "score": 0.0366,
+   "critics": 0.0,
+   "awards": 0.0833,
+   "generation": "aughts"
+  },
+  {
+   "rank": 140,
+   "comedian_id": "ardal-ohanlon",
+   "name": "Ardal O'Hanlon",
+   "score": 0.035,
+   "critics": 0.0625,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 141,
+   "comedian_id": "alan-carr",
+   "name": "Alan Carr",
+   "score": 0.0263,
+   "critics": 0.0469,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 142,
    "comedian_id": "demetri-martin",
    "name": "Demetri Martin",
-   "score": 0.0204,
+   "score": 0.0244,
    "critics": 0.0,
    "awards": 0.0556,
    "generation": "aughts"
   },
   {
-   "rank": 49,
-   "comedian_id": "jim-norton",
-   "name": "Jim Norton",
-   "score": 0.0204,
+   "rank": 143,
+   "comedian_id": "dylan-moran",
+   "name": "Dylan Moran",
+   "score": 0.0244,
    "critics": 0.0,
    "awards": 0.0556,
    "generation": "nineties"
   },
   {
-   "rank": 50,
+   "rank": 144,
+   "comedian_id": "james-acaster",
+   "name": "James Acaster",
+   "score": 0.0244,
+   "critics": 0.0,
+   "awards": 0.0556,
+   "generation": "tens"
+  },
+  {
+   "rank": 145,
+   "comedian_id": "jim-norton",
+   "name": "Jim Norton",
+   "score": 0.0244,
+   "critics": 0.0,
+   "awards": 0.0556,
+   "generation": "nineties"
+  },
+  {
+   "rank": 146,
+   "comedian_id": "jimmy-carr",
+   "name": "Jimmy Carr",
+   "score": 0.0244,
+   "critics": 0.0,
+   "awards": 0.0556,
+   "generation": "aughts"
+  },
+  {
+   "rank": 147,
+   "comedian_id": "lee-mack",
+   "name": "Lee Mack",
+   "score": 0.0244,
+   "critics": 0.0,
+   "awards": 0.0556,
+   "generation": "nineties"
+  },
+  {
+   "rank": 148,
+   "comedian_id": "russell-howard",
+   "name": "Russell Howard",
+   "score": 0.0244,
+   "critics": 0.0,
+   "awards": 0.0556,
+   "generation": "aughts"
+  },
+  {
+   "rank": 149,
+   "comedian_id": "sean-lock",
+   "name": "Sean Lock",
+   "score": 0.0244,
+   "critics": 0.0,
+   "awards": 0.0556,
+   "generation": "nineties"
+  },
+  {
+   "rank": 150,
+   "comedian_id": "stewart-lee",
+   "name": "Stewart Lee",
+   "score": 0.0244,
+   "critics": 0.0,
+   "awards": 0.0556,
+   "generation": "nineties"
+  },
+  {
+   "rank": 151,
+   "comedian_id": "mike-birbiglia",
+   "name": "Mike Birbiglia",
+   "score": 0.0229,
+   "critics": 0.0408,
+   "awards": 0.0,
+   "generation": "aughts"
+  },
+  {
+   "rank": 152,
+   "comedian_id": "patrick-kielty",
+   "name": "Patrick Kielty",
+   "score": 0.0175,
+   "critics": 0.0312,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 153,
+   "comedian_id": "tim-vine",
+   "name": "Tim Vine",
+   "score": 0.0087,
+   "critics": 0.0156,
+   "awards": 0.0,
+   "generation": "nineties"
+  },
+  {
+   "rank": 154,
    "comedian_id": "adam-devine",
    "name": "Adam Devine",
    "score": 0.0,
@@ -456,7 +1392,7 @@
    "generation": null
   },
   {
-   "rank": 51,
+   "rank": 155,
    "comedian_id": "adel-karam",
    "name": "Adel Karam",
    "score": 0.0,
@@ -465,7 +1401,7 @@
    "generation": null
   },
   {
-   "rank": 52,
+   "rank": 156,
    "comedian_id": "al-madrigal",
    "name": "Al Madrigal",
    "score": 0.0,
@@ -474,7 +1410,7 @@
    "generation": null
   },
   {
-   "rank": 53,
+   "rank": 157,
    "comedian_id": "alison-spittle",
    "name": "Alison Spittle",
    "score": 0.0,
@@ -483,7 +1419,7 @@
    "generation": null
   },
   {
-   "rank": 54,
+   "rank": 158,
    "comedian_id": "amanda-seales",
    "name": "Amanda Seales",
    "score": 0.0,
@@ -492,7 +1428,7 @@
    "generation": "tens"
   },
   {
-   "rank": 55,
+   "rank": 159,
    "comedian_id": "andrew-schulz",
    "name": "Andrew Schulz",
    "score": 0.0,
@@ -501,7 +1437,7 @@
    "generation": "tens"
   },
   {
-   "rank": 56,
+   "rank": 160,
    "comedian_id": "andy-woodhull",
    "name": "Andy Woodhull",
    "score": 0.0,
@@ -510,7 +1446,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 57,
+   "rank": 161,
    "comedian_id": "angela-barnes",
    "name": "Angela Barnes",
    "score": 0.0,
@@ -519,7 +1455,7 @@
    "generation": null
   },
   {
-   "rank": 58,
+   "rank": 162,
    "comedian_id": "anjelah-johnson",
    "name": "Anjelah Johnson",
    "score": 0.0,
@@ -528,7 +1464,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 59,
+   "rank": 163,
    "comedian_id": "anthony-jeselnik",
    "name": "Anthony Jeselnik",
    "score": 0.0,
@@ -537,7 +1473,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 60,
+   "rank": 164,
    "comedian_id": "ari-shaffir",
    "name": "Ari Shaffir",
    "score": 0.0,
@@ -546,7 +1482,7 @@
    "generation": "tens"
   },
   {
-   "rank": 61,
+   "rank": 165,
    "comedian_id": "arsenio-hall",
    "name": "Arsenio Hall",
    "score": 0.0,
@@ -555,7 +1491,7 @@
    "generation": null
   },
   {
-   "rank": 62,
+   "rank": 166,
    "comedian_id": "bert-kreischer",
    "name": "Bert Kreischer",
    "score": 0.0,
@@ -564,7 +1500,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 63,
+   "rank": 167,
    "comedian_id": "big-jay-oakerson",
    "name": "Big Jay Oakerson",
    "score": 0.0,
@@ -573,16 +1509,7 @@
    "generation": "tens"
   },
   {
-   "rank": 64,
-   "comedian_id": "bobby-lee",
-   "name": "Bobby Lee",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": null
-  },
-  {
-   "rank": 65,
+   "rank": 168,
    "comedian_id": "brad-williams",
    "name": "Brad Williams",
    "score": 0.0,
@@ -591,7 +1518,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 66,
+   "rank": 169,
    "comedian_id": "brendan-schaub",
    "name": "Brendan Schaub",
    "score": 0.0,
@@ -600,7 +1527,7 @@
    "generation": null
   },
   {
-   "rank": 67,
+   "rank": 170,
    "comedian_id": "brent-morin",
    "name": "Brent Morin",
    "score": 0.0,
@@ -609,7 +1536,7 @@
    "generation": "tens"
   },
   {
-   "rank": 68,
+   "rank": 171,
    "comedian_id": "brian-regan",
    "name": "Brian Regan",
    "score": 0.0,
@@ -618,7 +1545,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 69,
+   "rank": 172,
    "comedian_id": "bridget-christie",
    "name": "Bridget Christie",
    "score": 0.0,
@@ -627,7 +1554,7 @@
    "generation": null
   },
   {
-   "rank": 70,
+   "rank": 173,
    "comedian_id": "bridget-everett",
    "name": "Bridget Everett",
    "score": 0.0,
@@ -636,7 +1563,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 71,
+   "rank": 174,
    "comedian_id": "brody-stevens",
    "name": "Brody Stevens",
    "score": 0.0,
@@ -645,7 +1572,7 @@
    "generation": null
   },
   {
-   "rank": 72,
+   "rank": 175,
    "comedian_id": "cam-patterson",
    "name": "Cam Patterson",
    "score": 0.0,
@@ -654,7 +1581,7 @@
    "generation": "twenties"
   },
   {
-   "rank": 73,
+   "rank": 176,
    "comedian_id": "casey-rocket",
    "name": "Casey Rocket",
    "score": 0.0,
@@ -663,7 +1590,7 @@
    "generation": "twenties"
   },
   {
-   "rank": 74,
+   "rank": 177,
    "comedian_id": "catherine-bohart",
    "name": "Catherine Bohart",
    "score": 0.0,
@@ -672,7 +1599,7 @@
    "generation": null
   },
   {
-   "rank": 75,
+   "rank": 178,
    "comedian_id": "catherine-cohen",
    "name": "Catherine Cohen",
    "score": 0.0,
@@ -681,7 +1608,7 @@
    "generation": "tens"
   },
   {
-   "rank": 76,
+   "rank": 179,
    "comedian_id": "chelsea-handler",
    "name": "Chelsea Handler",
    "score": 0.0,
@@ -690,7 +1617,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 77,
+   "rank": 180,
    "comedian_id": "chelsea-peretti",
    "name": "Chelsea Peretti",
    "score": 0.0,
@@ -699,7 +1626,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 78,
+   "rank": 181,
    "comedian_id": "chris-d-elia",
    "name": "Chris D Elia",
    "score": 0.0,
@@ -708,7 +1635,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 79,
+   "rank": 182,
    "comedian_id": "chris-gethard",
    "name": "Chris Gethard",
    "score": 0.0,
@@ -717,7 +1644,7 @@
    "generation": null
   },
   {
-   "rank": 80,
+   "rank": 183,
    "comedian_id": "chris-tucker",
    "name": "Chris Tucker",
    "score": 0.0,
@@ -726,7 +1653,7 @@
    "generation": "eighties-boom"
   },
   {
-   "rank": 81,
+   "rank": 184,
    "comedian_id": "christina-pazsitzky",
    "name": "Christina Pazsitzky",
    "score": 0.0,
@@ -735,7 +1662,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 82,
+   "rank": 185,
    "comedian_id": "craig-ferguson",
    "name": "Craig Ferguson",
    "score": 0.0,
@@ -744,7 +1671,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 83,
+   "rank": 186,
    "comedian_id": "cristela-alonzo",
    "name": "Cristela Alonzo",
    "score": 0.0,
@@ -753,7 +1680,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 84,
+   "rank": 187,
    "comedian_id": "dan-soder",
    "name": "Dan Soder",
    "score": 0.0,
@@ -762,16 +1689,7 @@
    "generation": "tens"
   },
   {
-   "rank": 85,
-   "comedian_id": "daniel-kitson",
-   "name": "Daniel Kitson",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": null
-  },
-  {
-   "rank": 86,
+   "rank": 188,
    "comedian_id": "daniel-tosh",
    "name": "Daniel Tosh",
    "score": 0.0,
@@ -780,7 +1698,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 87,
+   "rank": 189,
    "comedian_id": "dave-allen",
    "name": "Dave Allen",
    "score": 0.0,
@@ -789,7 +1707,7 @@
    "generation": "pioneers"
   },
   {
-   "rank": 88,
+   "rank": 190,
    "comedian_id": "dave-attell",
    "name": "Dave Attell",
    "score": 0.0,
@@ -798,7 +1716,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 89,
+   "rank": 191,
    "comedian_id": "dave-smith",
    "name": "Dave Smith",
    "score": 0.0,
@@ -807,7 +1725,7 @@
    "generation": null
   },
   {
-   "rank": 90,
+   "rank": 192,
    "comedian_id": "deon-cole",
    "name": "Deon Cole",
    "score": 0.0,
@@ -816,7 +1734,7 @@
    "generation": null
   },
   {
-   "rank": 91,
+   "rank": 193,
    "comedian_id": "deray-davis",
    "name": "Deray Davis",
    "score": 0.0,
@@ -825,7 +1743,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 92,
+   "rank": 194,
    "comedian_id": "dom-irrera",
    "name": "Dom Irrera",
    "score": 0.0,
@@ -834,7 +1752,7 @@
    "generation": null
   },
   {
-   "rank": 93,
+   "rank": 195,
    "comedian_id": "donnell-rawlings",
    "name": "Donnell Rawlings",
    "score": 0.0,
@@ -843,7 +1761,7 @@
    "generation": null
   },
   {
-   "rank": 94,
+   "rank": 196,
    "comedian_id": "doug-benson",
    "name": "Doug Benson",
    "score": 0.0,
@@ -852,7 +1770,7 @@
    "generation": null
   },
   {
-   "rank": 95,
+   "rank": 197,
    "comedian_id": "doug-stanhope",
    "name": "Doug Stanhope",
    "score": 0.0,
@@ -861,7 +1779,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 96,
+   "rank": 198,
    "comedian_id": "drew-michael",
    "name": "Drew Michael",
    "score": 0.0,
@@ -870,7 +1788,7 @@
    "generation": null
   },
   {
-   "rank": 97,
+   "rank": 199,
    "comedian_id": "duncan-trussell",
    "name": "Duncan Trussell",
    "score": 0.0,
@@ -879,16 +1797,7 @@
    "generation": null
   },
   {
-   "rank": 98,
-   "comedian_id": "dylan-moran",
-   "name": "Dylan Moran",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "nineties"
-  },
-  {
-   "rank": 99,
+   "rank": 200,
    "comedian_id": "eleanor-kerrigan",
    "name": "Eleanor Kerrigan",
    "score": 0.0,
@@ -897,7 +1806,7 @@
    "generation": null
   },
   {
-   "rank": 100,
+   "rank": 201,
    "comedian_id": "emily-heller",
    "name": "Emily Heller",
    "score": 0.0,
@@ -906,7 +1815,7 @@
    "generation": "tens"
   },
   {
-   "rank": 101,
+   "rank": 202,
    "comedian_id": "emo-philips",
    "name": "Emo Philips",
    "score": 0.0,
@@ -915,7 +1824,7 @@
    "generation": "eighties-boom"
   },
   {
-   "rank": 102,
+   "rank": 203,
    "comedian_id": "enissa-amani",
    "name": "Enissa Amani",
    "score": 0.0,
@@ -924,7 +1833,7 @@
    "generation": "tens"
   },
   {
-   "rank": 103,
+   "rank": 204,
    "comedian_id": "eric-andre",
    "name": "Eric Andre",
    "score": 0.0,
@@ -933,7 +1842,7 @@
    "generation": null
   },
   {
-   "rank": 104,
+   "rank": 205,
    "comedian_id": "erik-griffin",
    "name": "Erik Griffin",
    "score": 0.0,
@@ -942,7 +1851,7 @@
    "generation": null
   },
   {
-   "rank": 105,
+   "rank": 206,
    "comedian_id": "fahim-anwar",
    "name": "Fahim Anwar",
    "score": 0.0,
@@ -951,7 +1860,7 @@
    "generation": "tens"
   },
   {
-   "rank": 106,
+   "rank": 207,
    "comedian_id": "fortune-feimster",
    "name": "Fortune Feimster",
    "score": 0.0,
@@ -960,7 +1869,7 @@
    "generation": "tens"
   },
   {
-   "rank": 107,
+   "rank": 208,
    "comedian_id": "frank-skinner",
    "name": "Frank Skinner",
    "score": 0.0,
@@ -969,7 +1878,7 @@
    "generation": null
   },
   {
-   "rank": 108,
+   "rank": 209,
    "comedian_id": "fred-armisen",
    "name": "Fred Armisen",
    "score": 0.0,
@@ -978,7 +1887,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 109,
+   "rank": 210,
    "comedian_id": "gabriel-iglesias",
    "name": "Gabriel Iglesias",
    "score": 0.0,
@@ -987,7 +1896,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 110,
+   "rank": 211,
    "comedian_id": "gary-gulman",
    "name": "Gary Gulman",
    "score": 0.0,
@@ -996,7 +1905,7 @@
    "generation": null
   },
   {
-   "rank": 111,
+   "rank": 212,
    "comedian_id": "gary-owen",
    "name": "Gary Owen",
    "score": 0.0,
@@ -1005,7 +1914,7 @@
    "generation": null
   },
   {
-   "rank": 112,
+   "rank": 213,
    "comedian_id": "george-lopez",
    "name": "George Lopez",
    "score": 0.0,
@@ -1014,16 +1923,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 113,
-   "comedian_id": "greg-davies",
-   "name": "Greg Davies",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 114,
+   "rank": 214,
    "comedian_id": "greg-fitzsimmons",
    "name": "Greg Fitzsimmons",
    "score": 0.0,
@@ -1032,7 +1932,7 @@
    "generation": null
   },
   {
-   "rank": 115,
+   "rank": 215,
    "comedian_id": "greg-giraldo",
    "name": "Greg Giraldo",
    "score": 0.0,
@@ -1041,7 +1941,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 116,
+   "rank": 216,
    "comedian_id": "hannah-gadsby",
    "name": "Hannah Gadsby",
    "score": 0.0,
@@ -1050,16 +1950,7 @@
    "generation": "tens"
   },
   {
-   "rank": 117,
-   "comedian_id": "hannibal-buress",
-   "name": "Hannibal Buress",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": null
-  },
-  {
-   "rank": 118,
+   "rank": 217,
    "comedian_id": "hans-kim",
    "name": "Hans Kim",
    "score": 0.0,
@@ -1068,7 +1959,7 @@
    "generation": "twenties"
   },
   {
-   "rank": 119,
+   "rank": 218,
    "comedian_id": "harland-williams",
    "name": "Harland Williams",
    "score": 0.0,
@@ -1077,7 +1968,7 @@
    "generation": null
   },
   {
-   "rank": 120,
+   "rank": 219,
    "comedian_id": "hasan-minhaj",
    "name": "Hasan Minhaj",
    "score": 0.0,
@@ -1086,7 +1977,7 @@
    "generation": "tens"
   },
   {
-   "rank": 121,
+   "rank": 220,
    "comedian_id": "helen-bauer",
    "name": "Helen Bauer",
    "score": 0.0,
@@ -1095,7 +1986,7 @@
    "generation": null
   },
   {
-   "rank": 122,
+   "rank": 221,
    "comedian_id": "henry-rollins",
    "name": "Henry Rollins",
    "score": 0.0,
@@ -1104,7 +1995,7 @@
    "generation": "eighties-boom"
   },
   {
-   "rank": 123,
+   "rank": 222,
    "comedian_id": "ian-edwards",
    "name": "Ian Edwards",
    "score": 0.0,
@@ -1113,7 +2004,7 @@
    "generation": null
   },
   {
-   "rank": 124,
+   "rank": 223,
    "comedian_id": "iliza-shlesinger",
    "name": "Iliza Shlesinger",
    "score": 0.0,
@@ -1122,7 +2013,7 @@
    "generation": "tens"
   },
   {
-   "rank": 125,
+   "rank": 224,
    "comedian_id": "jack-whitehall",
    "name": "Jack Whitehall",
    "score": 0.0,
@@ -1131,7 +2022,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 126,
+   "rank": 225,
    "comedian_id": "jak-knight",
    "name": "Jak Knight",
    "score": 0.0,
@@ -1140,16 +2031,7 @@
    "generation": null
   },
   {
-   "rank": 127,
-   "comedian_id": "james-acaster",
-   "name": "James Acaster",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "tens"
-  },
-  {
-   "rank": 128,
+   "rank": 226,
    "comedian_id": "jeff-garlin",
    "name": "Jeff Garlin",
    "score": 0.0,
@@ -1158,7 +2040,7 @@
    "generation": null
   },
   {
-   "rank": 129,
+   "rank": 227,
    "comedian_id": "jen-kirkman",
    "name": "Jen Kirkman",
    "score": 0.0,
@@ -1167,7 +2049,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 130,
+   "rank": 228,
    "comedian_id": "jesus-trejo",
    "name": "Jesus Trejo",
    "score": 0.0,
@@ -1176,16 +2058,7 @@
    "generation": null
   },
   {
-   "rank": 131,
-   "comedian_id": "jim-gaffigan",
-   "name": "Jim Gaffigan",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 132,
+   "rank": 229,
    "comedian_id": "jim-jefferies",
    "name": "Jim Jefferies",
    "score": 0.0,
@@ -1194,16 +2067,7 @@
    "generation": null
   },
   {
-   "rank": 133,
-   "comedian_id": "jimmy-carr",
-   "name": "Jimmy Carr",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 134,
+   "rank": 230,
    "comedian_id": "jimmy-o-yang",
    "name": "Jimmy O Yang",
    "score": 0.0,
@@ -1212,7 +2076,7 @@
    "generation": "tens"
   },
   {
-   "rank": 135,
+   "rank": 231,
    "comedian_id": "jo-koy",
    "name": "Jo Koy",
    "score": 0.0,
@@ -1221,7 +2085,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 136,
+   "rank": 232,
    "comedian_id": "joe-list",
    "name": "Joe List",
    "score": 0.0,
@@ -1230,7 +2094,7 @@
    "generation": "tens"
   },
   {
-   "rank": 137,
+   "rank": 233,
    "comedian_id": "joe-rogan",
    "name": "Joe Rogan",
    "score": 0.0,
@@ -1239,7 +2103,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 138,
+   "rank": 234,
    "comedian_id": "josh-wolf",
    "name": "Josh Wolf",
    "score": 0.0,
@@ -1248,7 +2112,7 @@
    "generation": null
   },
   {
-   "rank": 139,
+   "rank": 235,
    "comedian_id": "judah-friedlander",
    "name": "Judah Friedlander",
    "score": 0.0,
@@ -1257,7 +2121,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 140,
+   "rank": 236,
    "comedian_id": "kate-berlant",
    "name": "Kate Berlant",
    "score": 0.0,
@@ -1266,7 +2130,7 @@
    "generation": "tens"
   },
   {
-   "rank": 141,
+   "rank": 237,
    "comedian_id": "kathleen-madigan",
    "name": "Kathleen Madigan",
    "score": 0.0,
@@ -1275,7 +2139,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 142,
+   "rank": 238,
    "comedian_id": "kavin-jay",
    "name": "Kavin Jay",
    "score": 0.0,
@@ -1284,7 +2148,7 @@
    "generation": "tens"
   },
   {
-   "rank": 143,
+   "rank": 239,
    "comedian_id": "ken-jeong",
    "name": "Ken Jeong",
    "score": 0.0,
@@ -1293,7 +2157,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 144,
+   "rank": 240,
    "comedian_id": "kevin-bridges",
    "name": "Kevin Bridges",
    "score": 0.0,
@@ -1302,7 +2166,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 145,
+   "rank": 241,
    "comedian_id": "kevin-smith",
    "name": "Kevin Smith",
    "score": 0.0,
@@ -1311,7 +2175,7 @@
    "generation": null
   },
   {
-   "rank": 146,
+   "rank": 242,
    "comedian_id": "kirk-fox",
    "name": "Kirk Fox",
    "score": 0.0,
@@ -1320,16 +2184,7 @@
    "generation": null
   },
   {
-   "rank": 147,
-   "comedian_id": "lee-mack",
-   "name": "Lee Mack",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "nineties"
-  },
-  {
-   "rank": 148,
+   "rank": 243,
    "comedian_id": "lisa-lampanelli",
    "name": "Lisa Lampanelli",
    "score": 0.0,
@@ -1338,7 +2193,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 149,
+   "rank": 244,
    "comedian_id": "marc-maron",
    "name": "Marc Maron",
    "score": 0.0,
@@ -1347,16 +2202,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 150,
-   "comedian_id": "maria-bamford",
-   "name": "Maria Bamford",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 151,
+   "rank": 245,
    "comedian_id": "mark-normand",
    "name": "Mark Normand",
    "score": 0.0,
@@ -1365,7 +2211,7 @@
    "generation": "tens"
   },
   {
-   "rank": 152,
+   "rank": 246,
    "comedian_id": "marlon-wayans",
    "name": "Marlon Wayans",
    "score": 0.0,
@@ -1374,7 +2220,7 @@
    "generation": "eighties-boom"
   },
   {
-   "rank": 153,
+   "rank": 247,
    "comedian_id": "matt-mccusker",
    "name": "Matt McCusker",
    "score": 0.0,
@@ -1383,7 +2229,7 @@
    "generation": "tens"
   },
   {
-   "rank": 154,
+   "rank": 248,
    "comedian_id": "maz-jobrani",
    "name": "Maz Jobrani",
    "score": 0.0,
@@ -1392,7 +2238,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 155,
+   "rank": 249,
    "comedian_id": "michael-che",
    "name": "Michael Che",
    "score": 0.0,
@@ -1401,7 +2247,7 @@
    "generation": "tens"
   },
   {
-   "rank": 156,
+   "rank": 250,
    "comedian_id": "michael-mcintyre",
    "name": "Michael Mcintyre",
    "score": 0.0,
@@ -1410,7 +2256,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 157,
+   "rank": 251,
    "comedian_id": "michelle-wolf",
    "name": "Michelle Wolf",
    "score": 0.0,
@@ -1419,16 +2265,7 @@
    "generation": "tens"
   },
   {
-   "rank": 158,
-   "comedian_id": "mike-birbiglia",
-   "name": "Mike Birbiglia",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 159,
+   "rank": 252,
    "comedian_id": "mike-epps",
    "name": "Mike Epps",
    "score": 0.0,
@@ -1437,7 +2274,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 160,
+   "rank": 253,
    "comedian_id": "mo-amer",
    "name": "Mo Amer",
    "score": 0.0,
@@ -1446,7 +2283,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 161,
+   "rank": 254,
    "comedian_id": "moses-storm",
    "name": "Moses Storm",
    "score": 0.0,
@@ -1455,7 +2292,7 @@
    "generation": "tens"
   },
   {
-   "rank": 162,
+   "rank": 255,
    "comedian_id": "moshe-kasher",
    "name": "Moshe Kasher",
    "score": 0.0,
@@ -1464,7 +2301,7 @@
    "generation": null
   },
   {
-   "rank": 163,
+   "rank": 256,
    "comedian_id": "natasha-leggero",
    "name": "Natasha Leggero",
    "score": 0.0,
@@ -1473,7 +2310,7 @@
    "generation": null
   },
   {
-   "rank": 164,
+   "rank": 257,
    "comedian_id": "nate-bargatze",
    "name": "Nate Bargatze",
    "score": 0.0,
@@ -1482,7 +2319,7 @@
    "generation": "tens"
   },
   {
-   "rank": 165,
+   "rank": 258,
    "comedian_id": "neal-brennan",
    "name": "Neal Brennan",
    "score": 0.0,
@@ -1491,7 +2328,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 166,
+   "rank": 259,
    "comedian_id": "nick-offerman",
    "name": "Nick Offerman",
    "score": 0.0,
@@ -1500,7 +2337,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 167,
+   "rank": 260,
    "comedian_id": "nikki-glaser",
    "name": "Nikki Glaser",
    "score": 0.0,
@@ -1509,7 +2346,7 @@
    "generation": "tens"
   },
   {
-   "rank": 168,
+   "rank": 261,
    "comedian_id": "pablo-francisco",
    "name": "Pablo Francisco",
    "score": 0.0,
@@ -1518,16 +2355,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 169,
-   "comedian_id": "paul-mooney",
-   "name": "Paul Mooney",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "nineties"
-  },
-  {
-   "rank": 170,
+   "rank": 262,
    "comedian_id": "pete-davidson",
    "name": "Pete Davidson",
    "score": 0.0,
@@ -1536,7 +2364,7 @@
    "generation": "tens"
   },
   {
-   "rank": 171,
+   "rank": 263,
    "comedian_id": "pete-holmes",
    "name": "Pete Holmes",
    "score": 0.0,
@@ -1545,7 +2373,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 172,
+   "rank": 264,
    "comedian_id": "phil-wang",
    "name": "Phil Wang",
    "score": 0.0,
@@ -1554,7 +2382,7 @@
    "generation": "tens"
   },
   {
-   "rank": 173,
+   "rank": 265,
    "comedian_id": "ralphie-may",
    "name": "Ralphie May",
    "score": 0.0,
@@ -1563,7 +2391,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 174,
+   "rank": 266,
    "comedian_id": "ramy-youssef",
    "name": "Ramy Youssef",
    "score": 0.0,
@@ -1572,16 +2400,7 @@
    "generation": "tens"
   },
   {
-   "rank": 175,
-   "comedian_id": "ricky-gervais",
-   "name": "Ricky Gervais",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 176,
+   "rank": 267,
    "comedian_id": "rob-schneider",
    "name": "Rob Schneider",
    "score": 0.0,
@@ -1590,7 +2409,7 @@
    "generation": "eighties-boom"
   },
   {
-   "rank": 177,
+   "rank": 268,
    "comedian_id": "ron-funches",
    "name": "Ron Funches",
    "score": 0.0,
@@ -1599,7 +2418,7 @@
    "generation": null
   },
   {
-   "rank": 178,
+   "rank": 269,
    "comedian_id": "ron-white",
    "name": "Ron White",
    "score": 0.0,
@@ -1608,7 +2427,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 179,
+   "rank": 270,
    "comedian_id": "ronny-chieng",
    "name": "Ronny Chieng",
    "score": 0.0,
@@ -1617,7 +2436,7 @@
    "generation": "tens"
   },
   {
-   "rank": 180,
+   "rank": 271,
    "comedian_id": "roy-wood-jr",
    "name": "Roy Wood Jr",
    "score": 0.0,
@@ -1626,7 +2445,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 181,
+   "rank": 272,
    "comedian_id": "russell-brand",
    "name": "Russell Brand",
    "score": 0.0,
@@ -1635,16 +2454,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 182,
-   "comedian_id": "russell-howard",
-   "name": "Russell Howard",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 183,
+   "rank": 273,
    "comedian_id": "sam-jay",
    "name": "Sam Jay",
    "score": 0.0,
@@ -1653,7 +2463,7 @@
    "generation": "tens"
   },
   {
-   "rank": 184,
+   "rank": 274,
    "comedian_id": "sam-morril",
    "name": "Sam Morril",
    "score": 0.0,
@@ -1662,7 +2472,7 @@
    "generation": "tens"
   },
   {
-   "rank": 185,
+   "rank": 275,
    "comedian_id": "sam-tripoli",
    "name": "Sam Tripoli",
    "score": 0.0,
@@ -1671,7 +2481,7 @@
    "generation": null
   },
   {
-   "rank": 186,
+   "rank": 276,
    "comedian_id": "sara-pascoe",
    "name": "Sara Pascoe",
    "score": 0.0,
@@ -1680,7 +2490,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 187,
+   "rank": 277,
    "comedian_id": "sarah-cooper",
    "name": "Sarah Cooper",
    "score": 0.0,
@@ -1689,25 +2499,7 @@
    "generation": "twenties"
   },
   {
-   "rank": 188,
-   "comedian_id": "sarah-millican",
-   "name": "Sarah Millican",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 189,
-   "comedian_id": "sean-lock",
-   "name": "Sean Lock",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "nineties"
-  },
-  {
-   "rank": 190,
+   "rank": 278,
    "comedian_id": "sebastian-maniscalco",
    "name": "Sebastian Maniscalco",
    "score": 0.0,
@@ -1716,7 +2508,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 191,
+   "rank": 279,
    "comedian_id": "seth-meyers",
    "name": "Seth Meyers",
    "score": 0.0,
@@ -1725,7 +2517,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 192,
+   "rank": 280,
    "comedian_id": "shane-gillis",
    "name": "Shane Gillis",
    "score": 0.0,
@@ -1734,16 +2526,7 @@
    "generation": "tens"
   },
   {
-   "rank": 193,
-   "comedian_id": "stewart-lee",
-   "name": "Stewart Lee",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "nineties"
-  },
-  {
-   "rank": 194,
+   "rank": 281,
    "comedian_id": "t-j-miller",
    "name": "T J Miller",
    "score": 0.0,
@@ -1752,7 +2535,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 195,
+   "rank": 282,
    "comedian_id": "taylor-tomlinson",
    "name": "Taylor Tomlinson",
    "score": 0.0,
@@ -1761,7 +2544,7 @@
    "generation": "tens"
   },
   {
-   "rank": 196,
+   "rank": 283,
    "comedian_id": "theo-von",
    "name": "Theo Von",
    "score": 0.0,
@@ -1770,25 +2553,7 @@
    "generation": "tens"
   },
   {
-   "rank": 197,
-   "comedian_id": "tiffany-haddish",
-   "name": "Tiffany Haddish",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "tens"
-  },
-  {
-   "rank": 198,
-   "comedian_id": "todd-barry",
-   "name": "Todd Barry",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "nineties"
-  },
-  {
-   "rank": 199,
+   "rank": 284,
    "comedian_id": "todd-glass",
    "name": "Todd Glass",
    "score": 0.0,
@@ -1797,7 +2562,7 @@
    "generation": "nineties"
   },
   {
-   "rank": 200,
+   "rank": 285,
    "comedian_id": "tom-papa",
    "name": "Tom Papa",
    "score": 0.0,
@@ -1806,7 +2571,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 201,
+   "rank": 286,
    "comedian_id": "tom-rhodes",
    "name": "Tom Rhodes",
    "score": 0.0,
@@ -1815,7 +2580,7 @@
    "generation": null
   },
   {
-   "rank": 202,
+   "rank": 287,
    "comedian_id": "tom-segura",
    "name": "Tom Segura",
    "score": 0.0,
@@ -1824,7 +2589,7 @@
    "generation": "tens"
   },
   {
-   "rank": 203,
+   "rank": 288,
    "comedian_id": "tony-hinchcliffe",
    "name": "Tony Hinchcliffe",
    "score": 0.0,
@@ -1833,7 +2598,7 @@
    "generation": null
   },
   {
-   "rank": 204,
+   "rank": 289,
    "comedian_id": "trevor-noah",
    "name": "Trevor Noah",
    "score": 0.0,
@@ -1842,7 +2607,7 @@
    "generation": "tens"
   },
   {
-   "rank": 205,
+   "rank": 290,
    "comedian_id": "urzila-carlson",
    "name": "Urzila Carlson",
    "score": 0.0,
@@ -1851,16 +2616,7 @@
    "generation": "tens"
   },
   {
-   "rank": 206,
-   "comedian_id": "vir-das",
-   "name": "Vir Das",
-   "score": 0.0,
-   "critics": 0.0,
-   "awards": 0.0,
-   "generation": "aughts"
-  },
-  {
-   "rank": 207,
+   "rank": 291,
    "comedian_id": "w-kamau-bell",
    "name": "W Kamau Bell",
    "score": 0.0,
@@ -1869,7 +2625,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 208,
+   "rank": 292,
    "comedian_id": "wheeler-walker",
    "name": "Wheeler Walker",
    "score": 0.0,
@@ -1878,7 +2634,7 @@
    "generation": null
   },
   {
-   "rank": 209,
+   "rank": 293,
    "comedian_id": "whitney-cummings",
    "name": "Whitney Cummings",
    "score": 0.0,
@@ -1887,7 +2643,7 @@
    "generation": "aughts"
   },
   {
-   "rank": 210,
+   "rank": 294,
    "comedian_id": "william-montgomery",
    "name": "William Montgomery",
    "score": 0.0,
@@ -1896,7 +2652,7 @@
    "generation": "twenties"
   },
   {
-   "rank": 211,
+   "rank": 295,
    "comedian_id": "yakov-smirnoff",
    "name": "Yakov Smirnoff",
    "score": 0.0,

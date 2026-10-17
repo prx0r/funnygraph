@@ -1,0 +1,25 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "jon-richardson",
+  "name": "Jon Richardson",
+  "tier": "king",
+  "region": "uk",
+  "generation": {
+    "id": "aughts"
+  },
+  "recognition": {},
+  "identity": {
+    "deal": "",
+    "operator_priors": {}
+  },
+  "known_bits": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "king",
+    "rule": "established national TV/touring",
+    "note": "8 Out of 10 Cats captain, tours; OTM-listed but undrafted"
+  },
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "manual (OTM audit)"
+}

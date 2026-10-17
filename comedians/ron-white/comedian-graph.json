@@ -290,15 +290,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 85.3,
-    "legacy_era": 88.1,
+    "legacy": 67.8,
+    "legacy_era": 77.6,
     "audience": 60.0,
     "popularity": 71.4,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.114,
     "overrated": "accurately rated",
-    "canon_lag": -0.253
+    "canon_lag": -0.078
   },
   "tier": "king",
   "region": "us",
@@ -347,41 +347,56 @@
     ]
   },
   "rating": {
-    "headline": 75.5,
+    "headline": 78.6,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 25,
-        "pct": 75.5,
+        "pct": 78.6,
         "sweep": [
           14,
-          66
+          84
         ]
       },
       "consensus": {
-        "rank": 32,
+        "rank": 96,
         "ref": true
       },
       "canon": {
-        "rank": 178,
+        "rank": 269,
         "ref": true
       },
       "peoples": {
-        "rank": 19,
+        "rank": 29,
         "wr": 7.442,
         "ref": true
       },
       "era": {
-        "rank": 26,
+        "rank": 67,
         "ref": true
       }
     },
     "interval": {
       "lo": 14,
-      "hi": 66
+      "hi": 84
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "musicbrainz": {
+    "id": "4baa285d-ed96-47a2-ba41-e3d4006f208e",
+    "status": "ok",
+    "tags": [
+      "blue comedy",
+      "comedy",
+      "country comedy",
+      "observational comedy",
+      "satire"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

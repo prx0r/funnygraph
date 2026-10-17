@@ -48,8 +48,8 @@
     "promoted": "2026-10-17: established (TV/specials/touring); KT-draft corrected on audit"
   },
   "metrics": {
-    "legacy": 8.5,
-    "legacy_era": 31.3,
+    "legacy": 4.8,
+    "legacy_era": 37.6,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -67,11 +67,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 194,
+        "rank": 282,
         "ref": true
       },
       "canon": {
-        "rank": 185,
+        "rank": 275,
         "ref": true
       },
       "peoples": {
@@ -80,17 +80,18 @@
         "ref": true
       },
       "era": {
-        "rank": 146,
+        "rank": 185,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://samtripoli.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "region": "us"
 }

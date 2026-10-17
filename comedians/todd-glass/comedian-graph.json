@@ -213,8 +213,8 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 3.8,
-    "legacy_era": 26.1,
+    "legacy": 2.7,
+    "legacy_era": 35.6,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -270,7 +270,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 15.3,
+    "headline": 9.8,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -278,11 +278,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 204,
+        "rank": 288,
         "ref": true
       },
       "canon": {
-        "rank": 199,
+        "rank": 284,
         "ref": true
       },
       "peoples": {
@@ -291,17 +291,20 @@
         "ref": true
       },
       "era": {
-        "rank": 157,
+        "rank": 191,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.toddglass.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": []
   }
 }

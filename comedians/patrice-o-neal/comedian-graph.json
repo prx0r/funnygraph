@@ -254,6 +254,15 @@
       "imdb_votes": 830,
       "transcript": "atrice-eal-lephant-in-the-oom-2011-ranscript.txt",
       "standout": true
+    },
+    {
+      "special": "Patrice O'Neal: Elephant in the Room",
+      "year": 2011,
+      "imdb_id": "tt1625345",
+      "imdb_rating": 8.2,
+      "imdb_votes": 1818,
+      "source": "critic-list:rs-2015",
+      "standout": false
     }
   ],
   "known_bits": [
@@ -289,15 +298,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 69.2,
-    "legacy_era": 2.8,
-    "audience": 10.0,
+    "legacy": 57.6,
+    "legacy_era": 1.7,
+    "audience": 80.0,
     "popularity": null,
     "theory": 25.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.592
+    "canon_lag": 0.224
   },
   "tier": "king",
   "region": "us",
@@ -333,41 +342,41 @@
     ]
   },
   "rating": {
-    "headline": 6.1,
+    "headline": 1.8,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 93,
-        "pct": 6.1,
+        "rank": 111,
+        "pct": 1.8,
         "sweep": [
-          93,
-          93
+          111,
+          111
         ]
       },
       "consensus": {
-        "rank": 66,
+        "rank": 126,
         "ref": true
       },
       "canon": {
-        "rank": 33,
+        "rank": 94,
         "ref": true
       },
       "peoples": {
-        "rank": 71,
+        "rank": 85,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 206,
+        "rank": 291,
         "ref": true
       }
     },
     "interval": {
-      "lo": 93,
-      "hi": 93
+      "lo": 111,
+      "hi": 111
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   }
 }

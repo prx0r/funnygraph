@@ -657,7 +657,8 @@
   },
   "recognition": {
     "comedy_central_2004": 83,
-    "awards": []
+    "awards": [],
+    "paste_2017": 31
   },
   "specials_rated": [
     {
@@ -733,15 +734,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 88.6,
-    "legacy_era": 82.0,
+    "legacy": 85.1,
+    "legacy_era": 78.0,
     "audience": 62.5,
     "popularity": 54.1,
     "theory": 87.5,
     "heat": null,
     "gap_value": -0.084,
     "overrated": "accurately rated",
-    "canon_lag": -0.261
+    "canon_lag": -0.226
   },
   "tier": "king",
   "region": "canada",
@@ -792,20 +793,20 @@
         ]
       },
       "consensus": {
-        "rank": 25,
+        "rank": 45,
         "ref": true
       },
       "canon": {
-        "rank": 38,
+        "rank": 75,
         "ref": true
       },
       "peoples": {
-        "rank": 18,
+        "rank": 26,
         "wr": 7.5,
         "ref": true
       },
       "era": {
-        "rank": 39,
+        "rank": 66,
         "ref": true
       }
     },
@@ -813,7 +814,7 @@
       "lo": 1,
       "hi": 3
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   }
 }

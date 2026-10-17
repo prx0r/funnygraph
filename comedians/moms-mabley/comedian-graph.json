@@ -1,0 +1,69 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "moms-mabley",
+  "name": "Moms Mabley",
+  "tier": "king",
+  "region": "us",
+  "generation": {
+    "id": "pioneers"
+  },
+  "recognition": {
+    "paste_2017": 15,
+    "rolling_stone_2017": 39
+  },
+  "identity": {
+    "deal": "",
+    "operator_priors": {}
+  },
+  "known_bits": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "king",
+    "rule": "Paste-2017 legend: established by list inclusion",
+    "note": "Chitlin Circuit legend; Apollo"
+  },
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "critic_lists.py",
+  "metrics": {
+    "legacy": 88.8,
+    "legacy_era": 72.9,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 50.5,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 34,
+        "ref": true
+      },
+      "canon": {
+        "rank": 32,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 81,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T16:38:04Z",
+    "pipeline": "rate/v1"
+  }
+}

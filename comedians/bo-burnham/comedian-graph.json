@@ -483,15 +483,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 91.5,
-    "legacy_era": 92.4,
+    "legacy": 79.3,
+    "legacy_era": 90.8,
     "audience": 90.0,
     "popularity": 85.6,
     "theory": 50.0,
     "heat": null,
     "gap_value": -0.044,
     "overrated": "accurately rated",
-    "canon_lag": -0.015
+    "canon_lag": 0.107
   },
   "tier": "king",
   "region": "us",
@@ -531,24 +531,24 @@
     ]
   },
   "rating": {
-    "headline": 71.4,
+    "headline": 75.0,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 29,
-        "pct": 71.4,
+        "pct": 75.0,
         "sweep": [
-          17,
+          18,
           29
         ]
       },
       "consensus": {
-        "rank": 19,
+        "rank": 62,
         "ref": true
       },
       "canon": {
-        "rank": 45,
+        "rank": 128,
         "ref": true
       },
       "peoples": {
@@ -557,20 +557,33 @@
         "ref": true
       },
       "era": {
-        "rank": 17,
+        "rank": 28,
         "ref": true
       }
     },
     "interval": {
-      "lo": 17,
+      "lo": 18,
       "hi": 29
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://www.boburnham.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "889db25c-d1df-457a-b0d1-c405f34a01f3",
+    "status": "ok",
+    "tags": [
+      "acoustic",
+      "comedy",
+      "comedy rock",
+      "piano",
+      "standup comedy",
+      "youtube"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

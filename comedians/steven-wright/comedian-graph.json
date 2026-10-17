@@ -274,7 +274,14 @@
   "recognition": {
     "comedy_central_2004": 23,
     "rolling_stone_2017": 15,
-    "trajectory_2004_2017": "rise"
+    "trajectory_2004_2017": "rise",
+    "paste_2017": 9,
+    "awards": [
+      {
+        "award": "Academy Award for Best Live Action Short Film",
+        "year": 1989
+      }
+    ]
   },
   "humor_type": {
     "primary": "absurdist",
@@ -304,8 +311,8 @@
     }
   },
   "metrics": {
-    "legacy": 94.3,
-    "legacy_era": 94.3,
+    "legacy": 95.6,
+    "legacy_era": 97.0,
     "audience": null,
     "popularity": 68.3,
     "theory": 50.0,
@@ -342,20 +349,20 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 62.2,
+    "headline": 51.8,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 38,
-        "pct": 62.2,
+        "rank": 55,
+        "pct": 51.8,
         "sweep": [
-          32,
-          38
+          49,
+          55
         ]
       },
       "consensus": {
-        "rank": 13,
+        "rank": 14,
         "ref": true
       },
       "canon": {
@@ -368,20 +375,29 @@
         "ref": true
       },
       "era": {
-        "rank": 13,
+        "rank": 10,
         "ref": true
       }
     },
     "interval": {
-      "lo": 32,
-      "hi": 38
+      "lo": 49,
+      "hi": 55
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.stevenwright.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "specials_rated": [],
+  "musicbrainz": {
+    "id": "af5f3654-49da-4172-beb2-6d0ae1034f88",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

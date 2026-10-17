@@ -513,15 +513,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 91.0,
-    "legacy_era": 91.9,
+    "legacy": 80.3,
+    "legacy_era": 75.2,
     "audience": 72.5,
     "popularity": 89.1,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.166,
     "overrated": "accurately rated",
-    "canon_lag": -0.185
+    "canon_lag": -0.078
   },
   "tier": "king",
   "region": "us",
@@ -582,49 +582,59 @@
         "award": "Writers Guild of America Award for Television: Comedy-Variety Talk Series",
         "year": 2010
       }
-    ]
+    ],
+    "paste_2017": 46
   },
   "rating": {
-    "headline": 91.8,
+    "headline": 92.9,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 9,
-        "pct": 91.8,
+        "pct": 92.9,
         "sweep": [
           7,
-          23
+          31
         ]
       },
       "consensus": {
-        "rank": 20,
+        "rank": 59,
         "ref": true
       },
       "canon": {
-        "rank": 36,
+        "rank": 87,
         "ref": true
       },
       "peoples": {
-        "rank": 13,
+        "rank": 14,
         "wr": 7.881,
         "ref": true
       },
       "era": {
-        "rank": 18,
+        "rank": 74,
         "ref": true
       }
     },
     "interval": {
       "lo": 7,
-      "hi": 23
+      "hi": 31
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.johnmulaney.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "c2159cf3-40a5-4215-a30b-a952ac3f8aca",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

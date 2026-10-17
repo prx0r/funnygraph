@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 6.6,
-    "legacy_era": 29.4,
+    "legacy": 4.1,
+    "legacy_era": 37.0,
     "audience": null,
     "popularity": 38.6,
     "theory": 0.0,
@@ -277,7 +277,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 20.4,
+    "headline": 14.3,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -285,11 +285,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 198,
+        "rank": 284,
         "ref": true
       },
       "canon": {
-        "rank": 191,
+        "rank": 279,
         "ref": true
       },
       "peoples": {
@@ -298,17 +298,20 @@
         "ref": true
       },
       "era": {
-        "rank": 150,
+        "rank": 187,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://sethmeyers.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "recognition": {
+    "awards": []
   }
 }

@@ -48,8 +48,8 @@
     "promoted": "2026-10-17: established (TV/specials/touring); KT-draft corrected on audit"
   },
   "metrics": {
-    "legacy": 2.8,
-    "legacy_era": 25.1,
+    "legacy": 2.0,
+    "legacy_era": 34.9,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -67,11 +67,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 206,
+        "rank": 290,
         "ref": true
       },
       "canon": {
-        "rank": 203,
+        "rank": 288,
         "ref": true
       },
       "peoples": {
@@ -80,17 +80,18 @@
         "ref": true
       },
       "era": {
-        "rank": 159,
+        "rank": 193,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://tonyhinchcliffe.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "region": "us"
 }

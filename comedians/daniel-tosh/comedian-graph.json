@@ -139,6 +139,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "daniel-tosh-bit-01",
+      "title": "Daniel Tosh: 'Web Redemption vivisection' \u2014 how the bit works",
+      "thesis": "Takes viral humiliation and re-edits it into a morality autopsy. The audience laughs at the victim, then at themselves for laughing \u2014 Tosh directs both laughs.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "daniel-tosh-bit-02",
+      "title": "Daniel Tosh: 'The punchline as fine print' \u2014 how the bit works",
+      "thesis": "Long shaggy setups collapsing into one brutal contractual sentence. The fine print was the joke all along.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -267,22 +301,22 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 60.7,
-    "legacy_era": 6.2,
+    "legacy": 41.7,
+    "legacy_era": 10.5,
     "audience": 10.0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.507
+    "canon_lag": -0.317
   },
   "tier": "king",
   "region": "us",
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "smug clip surgeon",
     "repertoire": {
       "observational": 1.0
     },
@@ -311,38 +345,67 @@
     ]
   },
   "rating": {
-    "headline": 15.3,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 74.1,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 30,
+        "pct": 74.1,
+        "sweep": [
+          19,
+          30
+        ]
       },
       "consensus": {
-        "rank": 84,
+        "rank": 173,
         "ref": true
       },
       "canon": {
-        "rank": 86,
+        "rank": 188,
         "ref": true
       },
       "peoples": {
-        "rank": 64,
+        "rank": 78,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 199,
+        "rank": 265,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 19,
+      "hi": 30
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.danieltosh.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Web Redemption rhythm: play the clip, pause exactly one beat too long, vivisect. The cruelty is editorial \u2014 timing does the punching."
+  },
+  "known_bits": [
+    {
+      "title": "Web Redemption vivisection",
+      "why_it_works": "Takes viral humiliation and re-edits it into a morality autopsy. The audience laughs at the victim, then at themselves for laughing \u2014 Tosh directs both laughs.",
+      "theory_links": [
+        "status_reversal",
+        "superiority"
+      ]
+    },
+    {
+      "title": "The punchline as fine print",
+      "why_it_works": "Long shaggy setups collapsing into one brutal contractual sentence. The fine print was the joke all along.",
+      "theory_links": [
+        "garden_path",
+        "literalize"
+      ]
+    }
+  ]
 }

@@ -151,6 +151,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "sebastian-maniscalco-bit-01",
+      "title": "Sebastian Maniscalco: 'Doorways and indignities' \u2014 how the bit works",
+      "thesis": "Manners-based outrage at modern life (door holders, buffets, airports). The pettiness is total and therefore universal \u2014 everyone has been Sebastian.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "sebastian-maniscalco-bit-02",
+      "title": "Sebastian Maniscalco: 'The dad as prophet' \u2014 how the bit works",
+      "thesis": "Immigrant-father logic applied to everything. The old world judges the new one and is usually right, which is the uncomfortable part.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -270,15 +304,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 56.4,
-    "legacy_era": 4.7,
+    "legacy": 36.6,
+    "legacy_era": 3.0,
     "audience": 10.0,
     "popularity": 83.3,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.733,
     "overrated": "massively overrated",
-    "canon_lag": -0.464
+    "canon_lag": -0.266
   },
   "tier": "king",
   "region": "us",
@@ -330,38 +364,70 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 63.5,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 52.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 54,
+        "pct": 52.7,
+        "sweep": [
+          48,
+          54
+        ]
       },
       "consensus": {
-        "rank": 93,
+        "rank": 188,
         "ref": true
       },
       "canon": {
-        "rank": 190,
+        "rank": 278,
         "ref": true
       },
       "peoples": {
-        "rank": 73,
+        "rank": 87,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 202,
+        "rank": 287,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 48,
+      "hi": 54
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://sebastianlive.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Full-body exasperation \u2014 the shrug, the hands, the walk-away. Physical punctuation on every indignity, escalating until the bit is a workout."
+  },
+  "known_bits": [
+    {
+      "title": "Doorways and indignities",
+      "why_it_works": "Manners-based outrage at modern life (door holders, buffets, airports). The pettiness is total and therefore universal \u2014 everyone has been Sebastian.",
+      "theory_links": [
+        "rigidify",
+        "exaggeration"
+      ]
+    },
+    {
+      "title": "The dad as prophet",
+      "why_it_works": "Immigrant-father logic applied to everything. The old world judges the new one and is usually right, which is the uncomfortable part.",
+      "theory_links": [
+        "status_reversal",
+        "split_knowledge"
+      ]
+    }
+  ],
+  "recognition": {
+    "awards": []
   }
 }

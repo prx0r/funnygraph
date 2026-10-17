@@ -18,7 +18,7 @@ regions, the metrics reproduce known truths with numbers attached for the
 first time (Hicks −0.70 underrated, Iglesias +0.83 overrated, median +0.087,
 n=64) and surface new ones (Norm Macdonald's invisibility explained by a
 9-video official channel). The central claim: popularity and quality are
-different elections — inter-leg τ(critics,audience) = +0.177 — and their
+different elections — inter-leg τ(critics,audience) ≈ 0 (−0.036 latest) — and their
 gap is more informative than either alone. All code, data, and weights are
 public; every score carries a coverage badge. Related work covers
 clip-level humour scoring and special-level linguistic prediction of IMDb
@@ -106,7 +106,7 @@ anglo-skew. Generations are worldwide cohorts. See SITE_METRICS.md.
 
 - **Face validity:** gap extremes match critical consensus — now with
   numbers attached for the first time.
-- **Discriminant validity (new v0.2):** τ(critics,audience) = +0.177
+- **Discriminant validity:** τ(critics,audience) ≈ 0 (−0.036 [−0.125,+0.080])
   (agreement.json) — the lenses measure different things, which is the
   license for the gap product. A gap between identical lenses would be
   noise; ours is signal.
@@ -114,7 +114,7 @@ anglo-skew. Generations are worldwide cohorts. See SITE_METRICS.md.
   affiliative styles succeed — our operator_priors do not predict Audience
   (r=−0.05, M5). The theory lens measures documentation depth, not joke
   quality; we do not claim otherwise.
-- **Stability:** only 15/178 consensus positions stable across 71 regimes —
+- **Stability:** only a minority of positions stable (12/295 latest) across 71 regimes —
   gap verdicts inherit this; banded verdicts (±0.20 accurate band) are
   robust by construction, exact gap_values are not claims.
 - **Falsifier:** if gap rankings invert under equal-coverage subsamples,

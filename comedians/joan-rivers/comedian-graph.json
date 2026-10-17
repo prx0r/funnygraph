@@ -282,7 +282,8 @@
         "award": "Daytime Emmy Award for Outstanding Talk Show Host",
         "year": 1990
       }
-    ]
+    ],
+    "paste_2017": 5
   },
   "bio": {
     "wikidata_id": "Q240933",
@@ -326,8 +327,8 @@
     }
   },
   "metrics": {
-    "legacy": 94.8,
-    "legacy_era": 93.4,
+    "legacy": 96.3,
+    "legacy_era": 95.9,
     "audience": null,
     "popularity": 67.6,
     "theory": 50.0,
@@ -350,16 +351,16 @@
     "n_modes": 3
   },
   "rating": {
-    "headline": 69.4,
+    "headline": 66.1,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 31,
-        "pct": 69.4,
+        "rank": 39,
+        "pct": 66.1,
         "sweep": [
-          22,
-          31
+          30,
+          39
         ]
       },
       "consensus": {
@@ -376,20 +377,28 @@
         "ref": true
       },
       "era": {
-        "rank": 15,
+        "rank": 13,
         "ref": true
       }
     },
     "interval": {
-      "lo": 22,
-      "hi": 31
+      "lo": 30,
+      "hi": 39
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.joanrivers.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "648c2c29-f8da-4c8f-ae39-52e6ccd71198",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

@@ -115,6 +115,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "pablo-francisco-bit-01",
+      "title": "Pablo Francisco: 'Trailer voice derailments' \u2014 how the bit works",
+      "thesis": "Narrates mundane life in epic trailer cadence. The form-content mismatch does all the work \u2014 'in a world' applied to breakfast.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "pablo-francisco-bit-02",
+      "title": "Pablo Francisco: 'The soundboard set' \u2014 how the bit works",
+      "thesis": "Arnie, Tortuga, video game noises: a one-man foley stage. Impression density so high the bits blur into pure virtuosity display.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -234,22 +268,22 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 81.0,
-    "legacy_era": 86.7,
+    "legacy": 63.0,
+    "legacy_era": 76.6,
     "audience": 47.5,
     "popularity": 69.7,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.222,
     "overrated": "overrated",
-    "canon_lag": -0.335
+    "canon_lag": -0.155
   },
   "tier": "king",
   "region": "us",
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "vocal impressionist",
     "repertoire": {
       "observational": 1.0
     },
@@ -281,33 +315,62 @@
     "awards": []
   },
   "rating": {
-    "headline": 35.7,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 57.1,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 49,
+        "pct": 57.1,
+        "sweep": [
+          42,
+          49
+        ]
       },
       "consensus": {
-        "rank": 41,
+        "rank": 110,
         "ref": true
       },
       "canon": {
-        "rank": 168,
+        "rank": 261,
         "ref": true
       },
       "peoples": {
-        "rank": 24,
+        "rank": 38,
         "wr": 7.378,
         "ref": true
       },
       "era": {
-        "rank": 29,
+        "rank": 70,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 42,
+      "hi": 49
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Movie-trailer voice as instrument: drops into Don LaFontaine mid-bit and the room loses it. Sound effects are punchlines, not garnish."
+  },
+  "known_bits": [
+    {
+      "title": "Trailer voice derailments",
+      "why_it_works": "Narrates mundane life in epic trailer cadence. The form-content mismatch does all the work \u2014 'in a world' applied to breakfast.",
+      "theory_links": [
+        "juxtapose",
+        "mistake_identity"
+      ]
+    },
+    {
+      "title": "The soundboard set",
+      "why_it_works": "Arnie, Tortuga, video game noises: a one-man foley stage. Impression density so high the bits blur into pure virtuosity display.",
+      "theory_links": [
+        "repeat_variation",
+        "exaggeration"
+      ]
+    }
+  ]
 }

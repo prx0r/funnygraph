@@ -1,0 +1,71 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "don-rickles",
+  "name": "Don Rickles",
+  "tier": "king",
+  "region": "us",
+  "generation": {
+    "id": "pioneers"
+  },
+  "recognition": {
+    "paste_2017": 20,
+    "comedy_central_2004": 17,
+    "rolling_stone_2017": 23,
+    "trajectory_2004_2017": "fall"
+  },
+  "identity": {
+    "deal": "",
+    "operator_priors": {}
+  },
+  "known_bits": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "king",
+    "rule": "Paste-2017 legend: established by list inclusion",
+    "note": "Merchant of venom; insult pioneer"
+  },
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "critic_lists.py",
+  "metrics": {
+    "legacy": 94.6,
+    "legacy_era": 93.9,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 50.5,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 17,
+        "ref": true
+      },
+      "canon": {
+        "rank": 15,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 19,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T16:38:04Z",
+    "pipeline": "rate/v1"
+  }
+}

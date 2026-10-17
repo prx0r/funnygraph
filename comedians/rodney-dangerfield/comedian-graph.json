@@ -277,7 +277,14 @@
   "recognition": {
     "comedy_central_2004": 7,
     "rolling_stone_2017": 26,
-    "trajectory_2004_2017": "fall"
+    "trajectory_2004_2017": "fall",
+    "paste_2017": 27,
+    "awards": [
+      {
+        "award": "star on Hollywood Walk of Fame",
+        "year": null
+      }
+    ]
   },
   "bio": {
     "wikidata_id": "Q436386",
@@ -321,8 +328,8 @@
     }
   },
   "metrics": {
-    "legacy": 93.8,
-    "legacy_era": 90.5,
+    "legacy": 94.2,
+    "legacy_era": 92.5,
     "audience": null,
     "popularity": 86.2,
     "theory": 50.0,
@@ -345,24 +352,24 @@
     "n_modes": 3
   },
   "rating": {
-    "headline": 64.3,
+    "headline": 54.5,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 36,
-        "pct": 64.3,
+        "rank": 52,
+        "pct": 54.5,
         "sweep": [
-          30,
-          36
+          46,
+          52
         ]
       },
       "consensus": {
-        "rank": 14,
+        "rank": 18,
         "ref": true
       },
       "canon": {
-        "rank": 12,
+        "rank": 18,
         "ref": true
       },
       "peoples": {
@@ -371,15 +378,15 @@
         "ref": true
       },
       "era": {
-        "rank": 21,
+        "rank": 23,
         "ref": true
       }
     },
     "interval": {
-      "lo": 30,
-      "hi": 36
+      "lo": 46,
+      "hi": 52
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

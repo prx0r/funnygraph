@@ -1,118 +1,118 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "biswa-kalyan-rath",
-  "name": "Biswa Kalyan Rath",
-  "tier": "indie",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "region": "india",
-  "discovery": {
-    "discovered_from": [
-      "youtube-native",
-      "iit"
-    ],
-    "discovery_note": "IIT \u2192 Oracle \u2192 Pretentious Movie Reviews \u2192 Biswa Mast Aadmi 8.3. 829k subs."
-  },
-  "continent": "asia",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "bio": {
-    "wikidata_id": "Q23007900",
-    "dob": "1990-00-00",
-    "dod": null,
-    "birthplace": "Odisha",
-    "citizenship": "India",
-    "occupations": [
-      "comedian",
-      "television actor",
-      "film actor",
-      "television director"
-    ],
-    "source": "wikidata (CC0)"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "bert-kreischer",
-      "sim": 0.03
-    },
-    {
-      "comedian_id": "gabriel-iglesias",
-      "sim": 0.026
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "biswa-kalyan-rath",
+ "name": "Biswa Kalyan Rath",
+ "tier": "indie",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "region": "india",
+ "discovery": {
+  "discovered_from": [
+   "youtube-native",
+   "iit"
   ],
-  "recognition": {
-    "awards": []
+  "discovery_note": "IIT \u2192 Oracle \u2192 Pretentious Movie Reviews \u2192 Biswa Mast Aadmi 8.3. 829k subs."
+ },
+ "continent": "asia",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "bio": {
+  "wikidata_id": "Q23007900",
+  "dob": "1990-00-00",
+  "dod": null,
+  "birthplace": "Odisha",
+  "citizenship": "India",
+  "occupations": [
+   "comedian",
+   "television actor",
+   "film actor",
+   "television director"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "bert-kreischer",
+   "sim": 0.032
   },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "style_tags": {
-    "humor_type": "storytelling",
-    "theories": [
-      "benign_violation",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "bert-kreischer",
-    "sim": 0.03,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "gabriel-iglesias",
+   "sim": 0.029
   }
+ ],
+ "recognition": {
+  "awards": []
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "style_tags": {
+  "humor_type": "storytelling",
+  "theories": [
+   "benign_violation",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "bert-kreischer",
+  "sim": 0.032,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

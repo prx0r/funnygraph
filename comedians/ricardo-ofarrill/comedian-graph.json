@@ -1,106 +1,106 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "ricardo-ofarrill",
-  "name": "Ricardo O'Farrill",
-  "tier": "indie",
-  "region": "mexico",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/latam-es",
-  "note": "Second Spanish Netflix special. Early LatAm wave with Sof\u00eda + Ballarta (Netflix's 4-special 2016 bet).",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "curated-latam-es",
-      "press"
-    ],
-    "discovery_note": "Second Spanish Netflix special. Early LatAm wave with Sof\u00eda + Ballarta (Netflix's 4-special 2016 bet)."
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "continent": "north-america",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "stewart-lee",
-      "sim": 0.063
-    },
-    {
-      "comedian_id": "bert-kreischer",
-      "sim": 0.058
-    },
-    {
-      "comedian_id": "andrew-schulz",
-      "sim": 0.047
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "ricardo-ofarrill",
+ "name": "Ricardo O'Farrill",
+ "tier": "indie",
+ "region": "mexico",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/latam-es",
+ "note": "Second Spanish Netflix special. Early LatAm wave with Sof\u00eda + Ballarta (Netflix's 4-special 2016 bet).",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-latam-es",
+   "press"
   ],
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
+  "discovery_note": "Second Spanish Netflix special. Early LatAm wave with Sof\u00eda + Ballarta (Netflix's 4-special 2016 bet)."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "continent": "north-america",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "stewart-lee",
+   "sim": 0.074
   },
-  "style_tags": {
-    "humor_type": "meta",
-    "theories": [
-      "rigidity",
-      "bisociation",
-      "status_reversal"
-    ],
-    "via": "stewart-lee",
-    "sim": 0.063,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "bert-kreischer",
+   "sim": 0.068
+  },
+  {
+   "comedian_id": "andrew-schulz",
+   "sim": 0.056
   }
+ ],
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "style_tags": {
+  "humor_type": "meta",
+  "theories": [
+   "rigidity",
+   "bisociation",
+   "status_reversal"
+  ],
+  "via": "stewart-lee",
+  "sim": 0.074,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

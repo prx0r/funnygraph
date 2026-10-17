@@ -1,0 +1,690 @@
+{
+ "note": "GOAT-Special third leg (ENDPOINTS #2): critic-list citations per special (RS2015/Vulture2014/Flavorwire2013/Paste2017). Ranked by citation count, then best rank. Cosby skipped.",
+ "n_cited": 11,
+ "n_unmatched": 62,
+ "board": [
+  {
+   "key": "dave-chappelle::N\u00f4",
+   "comedian": "Dave Chappelle",
+   "special": "N\u00f4",
+   "year": 1998,
+   "wr": 7.214,
+   "n_lists": 4,
+   "best_rank": 6,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 10,
+     "comedian": "Dave Chappelle",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    },
+    {
+     "list": "vulture-2014",
+     "rank": 8,
+     "comedian": "Dave Chappelle",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    },
+    {
+     "list": "flavorwire-2013",
+     "rank": 6,
+     "comedian": "Dave Chappelle",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    },
+    {
+     "list": "paste-2017",
+     "rank": 20,
+     "comedian": "Dave Chappelle",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    }
+   ]
+  },
+  {
+   "key": "chris-rock::N\u00f4",
+   "comedian": "Chris Rock",
+   "special": "N\u00f4",
+   "year": 1998,
+   "wr": 7.214,
+   "n_lists": 3,
+   "best_rank": 1,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 6,
+     "comedian": "Chris Rock",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    },
+    {
+     "list": "vulture-2014",
+     "rank": 2,
+     "comedian": "Chris Rock",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    },
+    {
+     "list": "flavorwire-2013",
+     "rank": 1,
+     "comedian": "Chris Rock",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    }
+   ]
+  },
+  {
+   "key": "george-carlin::N\u00f4",
+   "comedian": "George Carlin",
+   "special": "N\u00f4",
+   "year": 1998,
+   "wr": 7.214,
+   "n_lists": 3,
+   "best_rank": 3,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 8,
+     "comedian": "George Carlin",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    },
+    {
+     "list": "vulture-2014",
+     "rank": 3,
+     "comedian": "George Carlin",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    },
+    {
+     "list": "flavorwire-2013",
+     "rank": 3,
+     "comedian": "George Carlin",
+     "special": "N\u00f4",
+     "year": 1998,
+     "wr": 7.214
+    }
+   ]
+  },
+  {
+   "key": "eddie-murphy::Eddie Murphy: Delirious",
+   "comedian": "Eddie Murphy",
+   "special": "Eddie Murphy: Delirious",
+   "year": 1983,
+   "wr": 8.085,
+   "n_lists": 3,
+   "best_rank": 4,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 9,
+     "comedian": "Eddie Murphy",
+     "special": "Eddie Murphy: Delirious",
+     "year": 1983,
+     "wr": 8.085
+    },
+    {
+     "list": "vulture-2014",
+     "rank": 5,
+     "comedian": "Eddie Murphy",
+     "special": "Eddie Murphy: Delirious",
+     "year": 1983,
+     "wr": 8.085
+    },
+    {
+     "list": "flavorwire-2013",
+     "rank": 4,
+     "comedian": "Eddie Murphy",
+     "special": "Eddie Murphy: Delirious",
+     "year": 1983,
+     "wr": 8.085
+    }
+   ]
+  },
+  {
+   "key": "eddie-izzard::Eddie Izzard: Dress to Kill",
+   "comedian": "Eddie Izzard",
+   "special": "Eddie Izzard: Dress to Kill",
+   "year": 1998,
+   "wr": 8.534,
+   "n_lists": 3,
+   "best_rank": 6,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 14,
+     "comedian": "Eddie Izzard",
+     "special": "Eddie Izzard: Dress to Kill",
+     "year": 1998,
+     "wr": 8.534
+    },
+    {
+     "list": "vulture-2014",
+     "rank": 20,
+     "comedian": "Eddie Izzard",
+     "special": "Eddie Izzard: Dress to Kill",
+     "year": 1998,
+     "wr": 8.534
+    },
+    {
+     "list": "flavorwire-2013",
+     "rank": 6,
+     "comedian": "Eddie Izzard",
+     "special": "Eddie Izzard: Dress to Kill",
+     "year": 1998,
+     "wr": 8.534
+    }
+   ]
+  },
+  {
+   "key": "richard-pryor::Richard Pryor: Live in Concert",
+   "comedian": "Richard Pryor",
+   "special": "Richard Pryor: Live in Concert",
+   "year": 1979,
+   "wr": 7.963,
+   "n_lists": 2,
+   "best_rank": 1,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 1,
+     "comedian": "Richard Pryor",
+     "special": "Richard Pryor: Live in Concert",
+     "year": 1979,
+     "wr": 7.963
+    },
+    {
+     "list": "flavorwire-2013",
+     "rank": 5,
+     "comedian": "Richard Pryor",
+     "special": "Richard Pryor: Live in Concert",
+     "year": 1979,
+     "wr": 7.963
+    }
+   ]
+  },
+  {
+   "key": "louis-ck::Louis C.K.: Shameless",
+   "comedian": "Louis C.K.",
+   "special": "Louis C.K.: Shameless",
+   "year": 2007,
+   "wr": 8.45,
+   "n_lists": 2,
+   "best_rank": 6,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 7,
+     "comedian": "Louis C.K.",
+     "special": "Louis C.K.: Shameless",
+     "year": 2007,
+     "wr": 8.45
+    },
+    {
+     "list": "vulture-2014",
+     "rank": 6,
+     "comedian": "Louis C.K.",
+     "special": "Louis C.K.: Shameless",
+     "year": 2007,
+     "wr": 8.45
+    }
+   ]
+  },
+  {
+   "key": "bill-hicks::Bill Hicks: Relentless",
+   "comedian": "Bill Hicks",
+   "special": "Bill Hicks: Relentless",
+   "year": 1992,
+   "wr": 8.346,
+   "n_lists": 2,
+   "best_rank": 8,
+   "cites": [
+    {
+     "list": "rs-2015",
+     "rank": 13,
+     "comedian": "Bill Hicks",
+     "special": "Bill Hicks: Relentless",
+     "year": 1992,
+     "wr": 8.346
+    },
+    {
+     "list": "flavorwire-2013",
+     "rank": 8,
+     "comedian": "Bill Hicks",
+     "special": "Bill Hicks: Relentless",
+     "year": 1992,
+     "wr": 8.346
+    }
+   ]
+  },
+  {
+   "key": "richard-pryor::Richard Pryor: Live on the Sunset Strip",
+   "comedian": "Richard Pryor",
+   "special": "Richard Pryor: Live on the Sunset Strip",
+   "year": 1982,
+   "wr": 7.591,
+   "n_lists": 1,
+   "best_rank": 1,
+   "cites": [
+    {
+     "list": "vulture-2014",
+     "rank": 1,
+     "comedian": "Richard Pryor",
+     "special": "Richard Pryor: Live on the Sunset Strip",
+     "year": 1982,
+     "wr": 7.591
+    }
+   ]
+  },
+  {
+   "key": "louis-ck::Louis C.K.: Chewed Up",
+   "comedian": "Louis C.K.",
+   "special": "Louis C.K.: Chewed Up",
+   "year": 2008,
+   "wr": 8.458,
+   "n_lists": 1,
+   "best_rank": 2,
+   "cites": [
+    {
+     "list": "flavorwire-2013",
+     "rank": 2,
+     "comedian": "Louis C.K.",
+     "special": "Louis C.K.: Chewed Up",
+     "year": 2008,
+     "wr": 8.458
+    }
+   ]
+  },
+  {
+   "key": "bill-hicks::Bill Hicks: Revelations",
+   "comedian": "Bill Hicks",
+   "special": "Bill Hicks: Revelations",
+   "year": 1993,
+   "wr": 8.282,
+   "n_lists": 1,
+   "best_rank": 12,
+   "cites": [
+    {
+     "list": "vulture-2014",
+     "rank": 12,
+     "comedian": "Bill Hicks",
+     "special": "Bill Hicks: Revelations",
+     "year": 1993,
+     "wr": 8.282
+    }
+   ]
+  }
+ ],
+ "unmatched": [
+  {
+   "list": "rs-2015",
+   "comedian": "mitch-hedberg",
+   "title": "Comedy Central Presents",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "denis-leary",
+   "title": "No Cure for Cancer",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "dennis-miller",
+   "title": "Black and White",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "patrice-o-neal",
+   "title": "Elephant in the Room",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "janeane-garofalo",
+   "title": "HBO Comedy Half-Hour",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "kevin-hart",
+   "title": "Let Me Explain",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "david-cross",
+   "title": "The Pride Is Back",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "sam-kinison",
+   "title": "Breaking All the Rules",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "steven-wright",
+   "title": "A Steven Wright Special",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "sarah-silverman",
+   "title": "Jesus Is Magic",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "roseanne-barr",
+   "title": "The Roseanne Barr Show",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "whoopi-goldberg",
+   "title": "Direct From Broadway",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "bill-cosby",
+   "title": "Himself",
+   "why": "skipped"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "robin-williams",
+   "title": "An Evening at the Met",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "robert-klein",
+   "title": "An Evening With Robert Klein",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "wanda-sykes",
+   "title": "Ima Be Me",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "rs-2015",
+   "comedian": "david-cross",
+   "title": "Let America Laugh",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "mike-birbiglia",
+   "title": "My Girlfriends Boyfriend",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "whoopi-goldberg",
+   "title": "Direct From Broadway",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "zach-galifianakis",
+   "title": "Live at the Purple Onion",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "roseanne-barr",
+   "title": "The Roseanne Barr Show",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "mitch-hedberg",
+   "title": "Comedy Central Half Hour",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "maria-bamford",
+   "title": "The Special Special Special",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "janeane-garofalo",
+   "title": "HBO Comedy Half Hour",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "steven-wright",
+   "title": "A Steven Wright Special",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "paula-poundstone",
+   "title": "Cats Cops and Stuff",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "bill-cosby",
+   "title": "Himself",
+   "why": "skipped"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "robin-williams",
+   "title": "An Evening with Robin Williams",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "vulture-2014",
+   "comedian": "steve-martin",
+   "title": "A Wild and Crazy Guy",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "steven-wright",
+   "title": "A Steven Wright Special",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "jim-gaffigan",
+   "title": "Beyond the Pale",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "bill-burr",
+   "title": "Let It Go",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "maria-bamford",
+   "title": "The Special Special Special",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "mike-birbiglia",
+   "title": "My Girlfriends Boyfriend",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "patton-oswalt",
+   "title": "No Reason to Complain",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "colin-quinn",
+   "title": "Long Story Short",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "lewis-black",
+   "title": "Black on Broadway",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "rob-delaney",
+   "title": "Live at the Bowery Ballroom",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "reggie-watts",
+   "title": "Why Shit So Crazy",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "wanda-sykes",
+   "title": "Ima Be Me",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "robin-williams",
+   "title": "Live at the Met",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "patrice-o-neal",
+   "title": "Elephant in the Room",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "kevin-hart",
+   "title": "Seriously Funny",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "denis-leary",
+   "title": "No Cure for Cancer",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "dennis-miller",
+   "title": "Mr Miller Goes to Washington",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "david-cross",
+   "title": "Let America Laugh",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "janeane-garofalo",
+   "title": "HBO Comedy Half Hour",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "paula-poundstone",
+   "title": "Cops Cats and Stuff",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "roseanne-barr",
+   "title": "The Roseanne Barr Show",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "whoopi-goldberg",
+   "title": "Direct From Broadway",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "steve-martin",
+   "title": "A Wild and Crazy Guy",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "zach-galifianakis",
+   "title": "Live at the Purple Onion",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "flavorwire-2013",
+   "comedian": "sam-kinison",
+   "title": "Breaking the Rules",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "paste-2017",
+   "comedian": "maria-bamford",
+   "title": "Old Baby",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "paste-2017",
+   "comedian": "michelle-wolf",
+   "title": "Nice Lady",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "paste-2017",
+   "comedian": "chris-gethard",
+   "title": "Career Suicide",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "paste-2017",
+   "comedian": "hasan-minhaj",
+   "title": "Homecoming King",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "paste-2017",
+   "comedian": "patton-oswalt",
+   "title": "Annihilation",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "paste-2017",
+   "comedian": "mike-birbiglia",
+   "title": "Thank God for Jokes",
+   "why": "no-imdb-match"
+  },
+  {
+   "list": "paste-2017",
+   "comedian": "tiffany-haddish",
+   "title": "She Ready",
+   "why": "no-imdb-match"
+  }
+ ]
+}

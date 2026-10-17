@@ -395,7 +395,8 @@
     "comedy_central_2004": 19,
     "rolling_stone_2017": 13,
     "trajectory_2004_2017": "rise",
-    "awards": []
+    "awards": [],
+    "paste_2017": 18
   },
   "specials_rated": [
     {
@@ -460,15 +461,15 @@
     }
   },
   "metrics": {
-    "legacy": 97.6,
-    "legacy_era": 99.1,
+    "legacy": 97.3,
+    "legacy_era": 99.7,
     "audience": 87.5,
     "popularity": 59.3,
     "theory": 50.0,
     "heat": null,
     "gap_value": -0.282,
     "overrated": "underrated",
-    "canon_lag": -0.101
+    "canon_lag": -0.098
   },
   "tier": "king",
   "region": "us",
@@ -507,24 +508,24 @@
     ]
   },
   "rating": {
-    "headline": 89.8,
+    "headline": 91.1,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 11,
-        "pct": 89.8,
+        "pct": 91.1,
         "sweep": [
           11,
           19
         ]
       },
       "consensus": {
-        "rank": 6,
+        "rank": 9,
         "ref": true
       },
       "canon": {
-        "rank": 10,
+        "rank": 14,
         "ref": true
       },
       "peoples": {
@@ -533,7 +534,7 @@
         "ref": true
       },
       "era": {
-        "rank": 3,
+        "rank": 2,
         "ref": true
       }
     },
@@ -541,12 +542,21 @@
       "lo": 11,
       "hi": 19
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.billhicks.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "c53d4269-cb9c-4940-92ec-f398fa47b190",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

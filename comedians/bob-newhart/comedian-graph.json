@@ -1,0 +1,81 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "bob-newhart",
+  "name": "Bob Newhart",
+  "tier": "king",
+  "region": "us",
+  "generation": {
+    "id": "pioneers"
+  },
+  "recognition": {
+    "paste_2017": 7,
+    "comedy_central_2004": 14,
+    "rolling_stone_2017": 21,
+    "trajectory_2004_2017": "fall"
+  },
+  "identity": {
+    "deal": "",
+    "operator_priors": {}
+  },
+  "known_bits": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "king",
+    "rule": "Paste-2017 legend: established by list inclusion",
+    "note": "Button-Down Mind; deadpan phone calls"
+  },
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "critic_lists.py",
+  "metrics": {
+    "legacy": 95.9,
+    "legacy_era": 95.6,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 50.5,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 13,
+        "ref": true
+      },
+      "canon": {
+        "rank": 10,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 14,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T16:38:04Z",
+    "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "14abda46-7ed4-4cf6-b4c6-f694166cd5f0",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "deadpan",
+      "satire"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
+  }
+}

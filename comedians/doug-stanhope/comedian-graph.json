@@ -165,7 +165,8 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "degenerate_philosopher cadence \u2014 hypothesize from specials."
+    "hypothesis": "degenerate_philosopher cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Rant architecture: drink in hand, premise as indictment, no exit ramp. The bit ends when the point is proven, not when the laugh lands."
   },
   "gtvh_profile": {
     "SO": "",
@@ -257,6 +258,40 @@
         "what makes this persona impossible to copy"
       ],
       "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "doug-stanhope-bit-01",
+      "title": "Doug Stanhope: 'The anti-PC sermon' \u2014 how the bit works",
+      "thesis": "Attacks pieties from below, not above \u2014 the drunk in the bar out-argues the panel. Offense is the method, not the goal; the goal is the uncomfortable truth underneath.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "doug-stanhope-bit-02",
+      "title": "Doug Stanhope: 'Libertarian eulogies' \u2014 how the bit works",
+      "thesis": "Freedom funerals for dead norms. The politics are incidental; the performance is a man refusing to pretend, which reads as courage whatever you believe.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -325,15 +360,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 58.8,
-    "legacy_era": 8.1,
+    "legacy": 40.0,
+    "legacy_era": 5.8,
     "audience": 10.0,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.488
+    "canon_lag": -0.3
   },
   "tier": "king",
   "region": "us",
@@ -372,38 +407,64 @@
     ]
   },
   "rating": {
-    "headline": 68.7,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 73.2,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 31,
+        "pct": 73.2,
+        "sweep": [
+          21,
+          31
+        ]
       },
       "consensus": {
-        "rank": 88,
+        "rank": 178,
         "ref": true
       },
       "canon": {
-        "rank": 95,
+        "rank": 197,
         "ref": true
       },
       "peoples": {
-        "rank": 66,
+        "rank": 80,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 195,
+        "rank": 279,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 21,
+      "hi": 31
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.dougstanhope.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "known_bits": [
+    {
+      "title": "The anti-PC sermon",
+      "why_it_works": "Attacks pieties from below, not above \u2014 the drunk in the bar out-argues the panel. Offense is the method, not the goal; the goal is the uncomfortable truth underneath.",
+      "theory_links": [
+        "unmask",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "Libertarian eulogies",
+      "why_it_works": "Freedom funerals for dead norms. The politics are incidental; the performance is a man refusing to pretend, which reads as courage whatever you believe.",
+      "theory_links": [
+        "taboo",
+        "expose_self_blindness"
+      ]
+    }
+  ]
 }

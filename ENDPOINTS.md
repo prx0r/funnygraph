@@ -15,10 +15,13 @@
 - **Needs:** P1 coverage 18→50+ (annotation), P4 arena votes (TOP2026).
 
 ## 2. Greatest Special of All Time ✅ LIVE
-- **Criteria:** IMDb WR (Top-250 shrinkage) + Netflix hours as corroboration.
-- **Pipelines:** enrich_ratings.py + netflix_reports.py. Built.
+- **Criteria:** IMDb WR (Top-250 shrinkage) + Netflix hours as corroboration
+  + critic-list citations as third leg.
+- **Pipelines:** enrich_ratings.py + netflix_reports.py + critic_lists.py.
+  Built.
 - **Current:** Inside 8.6 (60k) vs Dress to Kill 8.6 (7.8k) vs Chewed Up 8.5.
-- **Needs:** critic special lists (Paste/RS special ranks) as third leg.
+  Critic citations: Chappelle (4 lists), Rock/Carlin/Murphy/Izzard (3 each).
+- **Needs:** annual refresh as new lists publish.
 
 ## 3. Best Special by Decade ✅ LIVE (just built)
 - **Criteria:** top WR per decade from specials.json.
@@ -32,7 +35,7 @@
 
 ## 5. Most Overrated / Underrated ✅ LIVE
 - **Criteria:** Verdict Gap bands (docs/metrics/overrated.md).
-- **Current:** Fluffy +0.83 / Hicks −0.75.
+- **Current:** Fluffy +0.83 / Hicks −0.70.
 
 ## 6. Breakout of the Year 🔶 NEEDS 2026 legs
 - **Criteria:** rating velocity + first-time-ranked + arena + critic survey.
@@ -48,10 +51,12 @@
 - **Criteria:** within-generation rank (rankings/by_generation.json).
 - **Current:** 7 era boards.
 
-## 9. Best by Country / Continent ✅ LIVE (structure) / 🔶 data thin
-- **Criteria:** region-filtered consensus + local awards legs.
-- **Pipelines:** rankings/by_continent.json built; regional awards missing.
-- **Blocked on:** non-US awards legs, non-English IMDb coverage.
+## 9. Best by Country ✅ LIVE (5 countries populated)
+- **Criteria:** kings by house + local rising indies (by_country.json).
+- **Current:** US (Louis #1), UK (Stewart Lee #1, Acaster/Carr/Lock/Izzard chase),
+  Canada (Norm, thin), Australia (Gadsby, thin), NZ (6 rising, no kings yet).
+- **Blocked on:** non-US awards legs (partially live: British/Chortle/Edinburgh
+  now score), non-English IMDb coverage.
 
 ## 10. Comedian of the Week / Rising Star / New Comic 🔶 PARTIAL (boards live, velocity pending)
 - **Criteria:** weekly velocity + bracket (pulse.py built + upgraded).

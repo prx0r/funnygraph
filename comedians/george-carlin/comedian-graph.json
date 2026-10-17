@@ -647,7 +647,8 @@
         "award": "Grammy Award for Best Comedy Album",
         "year": 1993
       }
-    ]
+    ],
+    "paste_2017": 3
   },
   "specials_rated": [
     {
@@ -813,7 +814,7 @@
   },
   "metrics": {
     "legacy": 100.0,
-    "legacy_era": 99.5,
+    "legacy_era": 99.3,
     "audience": 85.0,
     "popularity": 58.1,
     "theory": 62.5,
@@ -858,16 +859,16 @@
     ]
   },
   "rating": {
-    "headline": 98.0,
+    "headline": 98.2,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 3,
-        "pct": 98.0,
+        "pct": 98.2,
         "sweep": [
           1,
-          5
+          6
         ]
       },
       "consensus": {
@@ -875,7 +876,7 @@
         "ref": true
       },
       "canon": {
-        "rank": 1,
+        "rank": 2,
         "ref": true
       },
       "peoples": {
@@ -884,20 +885,29 @@
         "ref": true
       },
       "era": {
-        "rank": 2,
+        "rank": 3,
         "ref": true
       }
     },
     "interval": {
       "lo": 1,
-      "hi": 5
+      "hi": 6
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://georgecarlin.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "5a79e923-b2ef-45fd-bc48-9beebdb21e78",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "standup comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

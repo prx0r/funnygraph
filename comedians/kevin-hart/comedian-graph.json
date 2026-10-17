@@ -310,7 +310,8 @@
         "award": "Mark Twain Prize for American Humor",
         "year": 2024
       }
-    ]
+    ],
+    "paste_2017": 48
   },
   "specials_rated": [
     {
@@ -377,6 +378,15 @@
       "imdb_rating": 5.4,
       "imdb_votes": 830,
       "transcript": "evin-art-et-e-xplain-2013-ranscript.txt"
+    },
+    {
+      "special": "Kevin Hart: Seriously Funny",
+      "year": 2010,
+      "imdb_id": "tt1714196",
+      "imdb_rating": 7.5,
+      "imdb_votes": 6127,
+      "source": "critic-list:flavorwire-2013",
+      "standout": false
     }
   ],
   "bio": {
@@ -425,15 +435,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 91.9,
-    "legacy_era": 90.0,
-    "audience": 47.5,
+    "legacy": 81.4,
+    "legacy_era": 87.8,
+    "audience": 62.5,
     "popularity": 100.0,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.525,
-    "overrated": "massively overrated",
-    "canon_lag": -0.444
+    "gap_value": 0.375,
+    "overrated": "overrated",
+    "canon_lag": -0.189
   },
   "tier": "king",
   "region": "us",
@@ -487,41 +497,50 @@
     ]
   },
   "rating": {
-    "headline": 73.5,
+    "headline": 76.8,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 27,
-        "pct": 73.5,
+        "pct": 76.8,
         "sweep": [
           17,
-          58
+          76
         ]
       },
       "consensus": {
-        "rank": 18,
+        "rank": 56,
         "ref": true
       },
       "canon": {
-        "rank": 17,
+        "rank": 42,
         "ref": true
       },
       "peoples": {
-        "rank": 57,
+        "rank": 71,
         "wr": 6.901,
         "ref": true
       },
       "era": {
-        "rank": 22,
+        "rank": 37,
         "ref": true
       }
     },
     "interval": {
       "lo": 17,
-      "hi": 58
+      "hi": 76
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "45c44cc4-71c7-4c6f-aae3-3a59036f8d49",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "homophobe"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

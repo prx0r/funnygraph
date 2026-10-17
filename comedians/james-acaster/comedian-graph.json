@@ -334,8 +334,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 25.6,
-    "legacy_era": 48.8,
+    "legacy": 36.3,
+    "legacy_era": 24.8,
     "audience": null,
     "popularity": 58.8,
     "theory": 62.5,
@@ -359,24 +359,24 @@
     "n_modes": 2
   },
   "rating": {
-    "headline": 85.7,
+    "headline": 87.5,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 15,
-        "pct": 85.7,
+        "pct": 87.5,
         "sweep": [
-          6,
+          7,
           20
         ]
       },
       "consensus": {
-        "rank": 158,
+        "rank": 189,
         "ref": true
       },
       "canon": {
-        "rank": 127,
+        "rank": 144,
         "ref": true
       },
       "peoples": {
@@ -385,20 +385,31 @@
         "ref": true
       },
       "era": {
-        "rank": 109,
+        "rank": 223,
         "ref": true
       }
     },
     "interval": {
-      "lo": 6,
+      "lo": 7,
       "hi": 20
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://jamesacaster.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "060f1355-6deb-4e99-bf4a-65868f6a1a1e",
+    "status": "ok",
+    "tags": [
+      "comedian",
+      "comedy",
+      "drummer",
+      "united kingdom"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

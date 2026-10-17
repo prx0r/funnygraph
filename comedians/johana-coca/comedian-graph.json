@@ -1,116 +1,116 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "johana-coca",
-  "name": "Johana Coca",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "gold-2026"
-    ],
-    "discovery_note": "Family/culture personal stories (GOLD list)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 23.4,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCJjEFhhVnupTOxP1bf85-sA",
-    "handle": "johanacoca",
-    "title": "Johana Coca",
-    "subs": 0,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
-    "status": "dormant",
-    "checked": "2026-10-17",
-    "clips": 0,
-    "newest_upload": "",
-    "name_match_rate": 0.0,
-    "other_names": []
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "trevor-noah",
-      "sim": 0.064
-    },
-    {
-      "comedian_id": "bert-kreischer",
-      "sim": 0.063
-    },
-    {
-      "comedian_id": "patton-oswalt",
-      "sim": 0.061
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "johana-coca",
+ "name": "Johana Coca",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "gold-2026"
   ],
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "incongruity",
-      "bisociation"
-    ],
-    "via": "trevor-noah",
-    "sim": 0.064,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "Family/culture personal stories (GOLD list)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 23.4,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCJjEFhhVnupTOxP1bf85-sA",
+  "handle": "johanacoca",
+  "title": "Johana Coca",
+  "subs": 0,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+  "status": "dormant",
+  "checked": "2026-10-17",
+  "clips": 0,
+  "newest_upload": "",
+  "name_match_rate": 0.0,
+  "other_names": []
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "patton-oswalt",
+   "sim": 0.073
+  },
+  {
+   "comedian_id": "trevor-noah",
+   "sim": 0.073
+  },
+  {
+   "comedian_id": "bert-kreischer",
+   "sim": 0.069
   }
+ ],
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "incongruity",
+   "bisociation"
+  ],
+  "via": "patton-oswalt",
+  "sim": 0.073,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

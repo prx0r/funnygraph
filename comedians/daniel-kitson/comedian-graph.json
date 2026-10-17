@@ -46,8 +46,8 @@
     "promoted": "2026-10-17: established (national TV/tours/awards); venue-roster draft corrected on audit"
   },
   "metrics": {
-    "legacy": 40.3,
-    "legacy_era": 63.5,
+    "legacy": 52.9,
+    "legacy_era": 11.9,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -65,11 +65,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 127,
+        "rank": 140,
         "ref": true
       },
       "canon": {
-        "rank": 85,
+        "rank": 105,
         "ref": true
       },
       "peoples": {
@@ -78,17 +78,21 @@
         "ref": true
       },
       "era": {
-        "rank": 78,
+        "rank": 261,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://danielkitson.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "recognition": {
+    "rolling_stone_2017": 36
+  },
+  "region": "uk"
 }

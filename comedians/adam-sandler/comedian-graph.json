@@ -276,8 +276,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 87.7,
-    "legacy_era": 19.9,
+    "legacy": 67.1,
+    "legacy_era": 29.5,
     "audience": null,
     "popularity": 79.0,
     "theory": 37.5,
@@ -333,24 +333,24 @@
     ]
   },
   "rating": {
-    "headline": 60.2,
+    "headline": 49.1,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 40,
-        "pct": 60.2,
+        "rank": 58,
+        "pct": 49.1,
         "sweep": [
-          35,
-          40
+          53,
+          58
         ]
       },
       "consensus": {
-        "rank": 27,
+        "rank": 98,
         "ref": true
       },
       "canon": {
-        "rank": 18,
+        "rank": 74,
         "ref": true
       },
       "peoples": {
@@ -359,15 +359,26 @@
         "ref": true
       },
       "era": {
-        "rank": 170,
+        "rank": 209,
         "ref": true
       }
     },
     "interval": {
-      "lo": 35,
-      "hi": 40
+      "lo": 53,
+      "hi": 58
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "dfc6d0b8-3d0b-4b33-9b3f-dff972e25594",
+    "status": "ok",
+    "tags": [
+      "alternative rock",
+      "comedy",
+      "rock",
+      "saturday night live"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

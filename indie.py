@@ -138,6 +138,8 @@ def _indies() -> list[tuple[str, dict, Path]]:
         g = d / "comedian-graph.json"
         if not g.exists():
             continue
+        if d.name in EXCLUDED:
+            continue
         try:
             j = json.loads(g.read_text())
         except json.JSONDecodeError:
@@ -152,6 +154,8 @@ def _kings() -> list[tuple[str, dict]]:
     for d in sorted(COMEDIANS.iterdir()):
         g = d / "comedian-graph.json"
         if not g.exists():
+            continue
+        if d.name in EXCLUDED:
             continue
         try:
             j = json.loads(g.read_text())

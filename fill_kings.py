@@ -5,6 +5,134 @@ import json
 from pathlib import Path
 
 FILL: dict[str, dict] = {
+    "lee-mack": {
+        "sigtitle": "put-upon everyman",
+        "timing": "Rapid-fire moaning with perfect sitcom timing — the complaint arrives before the setup finishes. Not Going Out rhythm: chaos enters, Lee suffers, audience sides with the sufferer.",
+        "bits": [
+            {"title": "Suffering as sitcom engine", "why_it_works": "Plays the put-upon straight man to a chaotic world (and sitcom). The moan is musical — audiences laugh at the inevitability before the punchline lands.", "theory_links": ["status_reversal", "benign_violation"]},
+            {"title": "Quick wit under fire", "why_it_works": "Would I Lie to You? turned his heckler-brain into a panel-show weapon. The speed IS the bit: thinking faster than everyone in the room, live.", "theory_links": ["split_knowledge", "superiority"]},
+        ]},
+    "greg-davies": {
+        "sigtitle": "giant man-child",
+        "timing": "Six-foot-eight storytelling that shrinks him to a child mid-bit. Towering presence, tiny-guy energy — the size gap does half the work before a word lands.",
+        "bits": [
+            {"title": "The teacher who never grew up", "why_it_works": "Wealdstone-era school stories where the six-foot-eight man is always the scared kid. Scale inversion: biggest body, smallest courage.", "theory_links": ["status_invert", "expose_self_blindness"]},
+            {"title": "Full Fat Legend excess", "why_it_works": "Gluttony and laziness elevated to philosophy. The excess is total and therefore innocent — nobody diets in a Greg Davies bit.", "theory_links": ["rigidify", "exaggeration"]},
+        ]},
+
+    "jim-gaffigan": {
+        "sigtitle": "clean glutton",
+        "timing": "Whispered asides inside clean setups. The voice drops to a murmur for the inner monologue, then pops back loud for the responsible adult. The audience voice IS the act — he performs the crowd's thoughts back at them.",
+        "bits": [
+            {"title": "Hot Pockets as sacrament", "why_it_works": "Treats a frozen snack like a religious experience the whole room shares. Recognition comedy at max: the laugh is self-recognition, and the clean frame lets everyone admit it at once.", "theory_links": ["split_knowledge", "benign_violation"]},
+            {"title": "The audience voice", "why_it_works": "Performs the crowd's inner monologue in a whisper ('cold... pizza...'). The room hears its own id on stage and surrenders. Second-person standup: you're the bit.", "theory_links": ["split_knowledge", "status_reversal"]},
+        ]},
+    "marc-maron": {
+        "sigtitle": "wounded interrogator",
+        "timing": "Neurotic sprint that decelerates into the real question. Rants collapse into confessions; the garage becomes a therapy office with better lighting.",
+        "bits": [
+            {"title": "The rant-to-wound turn", "why_it_works": "Opens furious at the world, lands furious at himself. The anger is real, the target moves inward mid-bit — vulnerability as punchline structure.", "theory_links": ["expose_self_blindness", "status_reversal"]},
+            {"title": "Boomer dread inventory", "why_it_works": "Catalogs aging, cats, anxiety meds as a generational condition report. Misery loves company and Maron takes attendance.", "theory_links": ["split_knowledge", "benign_violation"]},
+        ]},
+    "trevor-noah": {
+        "sigtitle": "polyglot explainer",
+        "timing": "Accent-hopping with total control — seven languages of setup, one punchline. The mimicry earns the political point before the point arrives.",
+        "bits": [
+            {"title": "Accents as arguments", "why_it_works": "Performs world leaders and cab drivers in their own cadences; the impression IS the analysis. You laugh at the accuracy, then realize you agreed with the politics.", "theory_links": ["mistake_identity", "double_interpret"]},
+            {"title": "Outsider's America", "why_it_works": "South African lens on US absurdity (guns, race, fast food) — the foreigner's obvious question nobody local can answer. Naivety as scalpel.", "theory_links": ["split_knowledge", "juxtapose"]},
+        ]},
+    "jim-jefferies": {
+        "sigtitle": "gun-toting contrarian",
+        "timing": "Aussie barrage — long profane setups detonated by one clean logical killshot. The swearing is camouflage for syllogisms.",
+        "bits": [
+            {"title": "Gun control as logic bomb", "why_it_works": "Takes the American gun debate and wins it with arithmetic, not morality. The room came for filth and got checkmated — the dirtiest clean argument in comedy.", "theory_links": ["rigidify", "false_analogy"]},
+            {"title": "Atheist provocations", "why_it_works": "Religion bits engineered to offend the premise, not the person. The blasphemy is structural: remove the sacred protection and watch the logic underneath.", "theory_links": ["unmask", "benign_violation"]},
+        ]},
+    "daniel-tosh": {
+        "sigtitle": "smug clip surgeon",
+        "timing": "Web Redemption rhythm: play the clip, pause exactly one beat too long, vivisect. The cruelty is editorial — timing does the punching.",
+        "bits": [
+            {"title": "Web Redemption vivisection", "why_it_works": "Takes viral humiliation and re-edits it into a morality autopsy. The audience laughs at the victim, then at themselves for laughing — Tosh directs both laughs.", "theory_links": ["status_reversal", "superiority"]},
+            {"title": "The punchline as fine print", "why_it_works": "Long shaggy setups collapsing into one brutal contractual sentence. The fine print was the joke all along.", "theory_links": ["garden_path", "literalize"]},
+        ]},
+    "reggie-watts": {
+        "sigtitle": "loop-station alien",
+        "timing": "Builds soundscapes live, then derails them on purpose. The music promises structure; the derailment is the set.",
+        "bits": [
+            {"title": "The song that eats itself", "why_it_works": "Loop-pedal compositions that collapse into nonsense mid-groove. The audience's musical expectations get built and mugged in the same minute.", "theory_links": ["juxtapose", "absurd"]},
+            {"title": "Fake TED talk", "why_it_works": "Performs expertise fluently about nothing. The form of sense with the content of static — authority as costume.", "theory_links": ["mistake_identity", "rigidify"]},
+        ]},
+    "ricky-gervais": {
+        "sigtitle": "smug atheist provocateur",
+        "timing": "Globes-hosting smirk as permanent delivery: says the unsayable like he's reading minutes. The room's shock is pre-counted.",
+        "bits": [
+            {"title": "Awards-show executions", "why_it_works": "Roasts the room that hired him, on their own broadcast. The hostage dynamic IS the bit — Hollywood paying to be insulted on television.", "theory_links": ["status_reversal", "benign_violation"]},
+            {"title": "Religion as heckler bait", "why_it_works": "Baits the faithful with philosophy 101 delivered as playground taunts. The atheism is sincere; the cruelty is the marketing.", "theory_links": ["unmask", "provocation"]},
+        ]},
+    "sebastian-maniscalco": {
+        "sigtitle": "aggrieved physical",
+        "timing": "Full-body exasperation — the shrug, the hands, the walk-away. Physical punctuation on every indignity, escalating until the bit is a workout.",
+        "bits": [
+            {"title": "Doorways and indignities", "why_it_works": "Manners-based outrage at modern life (door holders, buffets, airports). The pettiness is total and therefore universal — everyone has been Sebastian.", "theory_links": ["rigidify", "exaggeration"]},
+            {"title": "The dad as prophet", "why_it_works": "Immigrant-father logic applied to everything. The old world judges the new one and is usually right, which is the uncomfortable part.", "theory_links": ["status_reversal", "split_knowledge"]},
+        ]},
+    "jim-norton": {
+        "sigtitle": "gleeful degenerate",
+        "timing": "Chipmunk confessionals at machine-gun pace. The worse the admission, the brighter the delivery — shame performed as joy.",
+        "bits": [
+            {"title": "Shame as celebration", "why_it_works": "Confesses the unconfessable with visible delight. The audience's disgust and envy arrive together — he's free in exactly the way they aren't.", "theory_links": ["benign_violation", "expose_self_blindness"]},
+            {"title": "The Opie-Anthony id", "why_it_works": "Two decades as radio's id made the persona: says what the room represses, gets punished by the room's laughter instead of its judgment.", "theory_links": ["taboo", "relief"]},
+        ]},
+    "mike-birbiglia": {
+        "sigtitle": "storytelling mensch",
+        "timing": "Monologist's patience: ten-minute stories, callbacks planted like time bombs. The laugh you get at minute nine was loaded at minute two.",
+        "bits": [
+            {"title": "Sleepwalk With Me (the long story)", "why_it_works": "Turns a sleep disorder into a one-man show about fear and marriage. Narrative standup where the story earns jokes a one-liner never could.", "theory_links": ["storytelling", "expose_self_blindness"]},
+            {"title": "Catholic guilt inventory", "why_it_works": "Catalogs guilt like a priest catalogs sins — his own. The religion is the frame; the neurosis is the art.", "theory_links": ["rigidify", "benign_violation"]},
+        ]},
+    "doug-stanhope": {
+        "sigtitle": "drunk prophet",
+        "timing": "Rant architecture: drink in hand, premise as indictment, no exit ramp. The bit ends when the point is proven, not when the laugh lands.",
+        "bits": [
+            {"title": "The anti-PC sermon", "why_it_works": "Attacks pieties from below, not above — the drunk in the bar out-argues the panel. Offense is the method, not the goal; the goal is the uncomfortable truth underneath.", "theory_links": ["unmask", "status_reversal"]},
+            {"title": "Libertarian eulogies", "why_it_works": "Freedom funerals for dead norms. The politics are incidental; the performance is a man refusing to pretend, which reads as courage whatever you believe.", "theory_links": ["taboo", "expose_self_blindness"]},
+        ]},
+    "neal-brennan": {
+        "sigtitle": "depressed architect",
+        "timing": "Chappelle's Show co-creator doing solo autopsy: tight writing, therapy pacing. Jokes arrive like diagnoses — precise, unwelcome, correct.",
+        "bits": [
+            {"title": "Depression as material science", "why_it_works": "Dissects his own depression on stage with writerly precision. The audience laughs at sentences they'd cry at in any other context — framing transmutes pain.", "theory_links": ["expose_self_blindness", "reframe"]},
+            {"title": "3 Mics (the format bit)", "why_it_works": "One mic standup, one mic one-liners, one mic straight talk: the special's structure IS the thesis about performance vs honesty.", "theory_links": ["meta", "juxtapose"]},
+        ]},
+    "kevin-bridges": {
+        "sigtitle": "clydebank everyman",
+        "timing": "Glaswegian machine-gun storytelling with act-outs. The accent does half the work; the relentless specificity does the rest.",
+        "bits": [
+            {"title": "Scottish mundanity epic", "why_it_works": "Elevates chip shops, schemes, and family holidays into epic narrative. Hyper-local detail that somehow plays everywhere — specificity as universality.", "theory_links": ["specificity", "storytelling"]},
+            {"title": "The act-out", "why_it_works": "Full physical reenactments of strangers. The commitment sells it: he doesn't do impressions, he temporarily becomes the pal, the bouncer, the dad.", "theory_links": ["character_violation", "exaggeration"]},
+        ]},
+    "hannah-gadsby": {
+        "sigtitle": "trauma lecturer",
+        "timing": "Nanette structure: comedy that withdraws the laugh on purpose. The tension-release cycle gets broken deliberately — the absence of the punchline is the point.",
+        "bits": [
+            {"title": "Nanette (the anti-special)", "why_it_works": "Builds an hour of jokes, then refuses the release and tells the trauma straight. Whether you call it comedy or not, the structure weaponized every laugh that came before it.", "theory_links": ["meta", "subversion"]},
+            {"title": "Art-history takedowns", "why_it_works": "Art historian's eye on misogyny in the canon: lectures that detonate. Expertise as setup, fury as punchline.", "theory_links": ["unmask", "status_reversal"]},
+        ]},
+    "gabriel-iglesias": {
+        "sigtitle": "fluffy storyteller",
+        "timing": "Voices and sound effects as punctuation — the story pauses so Fluffy can BECOME every character in it. Family-friendly maximalism.",
+        "bits": [
+            {"title": "Voices as cast", "why_it_works": "Performs entire family gatherings solo, switching voices mid-sentence. The virtuosity is the joke: one man, twelve people, zero shame.", "theory_links": ["character_violation", "exaggeration"]},
+            {"title": "Weight as running bit", "why_it_works": "Makes his own size the through-line of the act without self-pity. The audience is invited to laugh WITH the premise, never at the person.", "theory_links": ["benign_violation", "reframe"]},
+        ]},
+    "pablo-francisco": {
+        "sigtitle": "vocal impressionist",
+        "timing": "Movie-trailer voice as instrument: drops into Don LaFontaine mid-bit and the room loses it. Sound effects are punchlines, not garnish.",
+        "bits": [
+            {"title": "Trailer voice derailments", "why_it_works": "Narrates mundane life in epic trailer cadence. The form-content mismatch does all the work — 'in a world' applied to breakfast.", "theory_links": ["juxtapose", "mistake_identity"]},
+            {"title": "The soundboard set", "why_it_works": "Arnie, Tortuga, video game noises: a one-man foley stage. Impression density so high the bits blur into pure virtuosity display.", "theory_links": ["repeat_variation", "exaggeration"]},
+        ]},
+
     "joan-rivers": {
         "sigtitle": "glamour assassin",
         "timing": "Rapid setup, surgical hold, kill. The pause before the kill lets the room see it coming and not escape. The hand on the hip is punctuation.",

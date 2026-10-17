@@ -62,8 +62,8 @@
     }
   ],
   "metrics": {
-    "legacy": 36.5,
-    "legacy_era": 59.7,
+    "legacy": 22.4,
+    "legacy_era": 55.9,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -81,11 +81,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 135,
+        "rank": 230,
         "ref": true
       },
       "canon": {
-        "rank": 97,
+        "rank": 199,
         "ref": true
       },
       "peoples": {
@@ -94,17 +94,18 @@
         "ref": true
       },
       "era": {
-        "rank": 86,
+        "rank": 131,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://duncantrussell.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "region": "us"
 }

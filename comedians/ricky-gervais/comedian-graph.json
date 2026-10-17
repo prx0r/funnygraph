@@ -211,6 +211,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "ricky-gervais-bit-01",
+      "title": "Ricky Gervais: 'Awards-show executions' \u2014 how the bit works",
+      "thesis": "Roasts the room that hired him, on their own broadcast. The hostage dynamic IS the bit \u2014 Hollywood paying to be insulted on television.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "ricky-gervais-bit-02",
+      "title": "Ricky Gervais: 'Religion as heckler bait' \u2014 how the bit works",
+      "thesis": "Baits the faithful with philosophy 101 delivered as playground taunts. The atheism is sincere; the cruelty is the marketing.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -357,15 +391,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 56.9,
-    "legacy_era": 3.3,
+    "legacy": 40.7,
+    "legacy_era": 5.4,
     "audience": 30.0,
     "popularity": 96.5,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.665,
     "overrated": "massively overrated",
-    "canon_lag": -0.269
+    "canon_lag": -0.107
   },
   "tier": "king",
   "region": "uk",
@@ -404,33 +438,74 @@
     ]
   },
   "rating": {
-    "headline": 60.5,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 55.4,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 51,
+        "pct": 55.4,
+        "sweep": [
+          45,
+          51
+        ]
       },
       "consensus": {
-        "rank": 92,
+        "rank": 176,
         "ref": true
       },
       "canon": {
-        "rank": 175,
+        "rank": 130,
         "ref": true
       },
       "peoples": {
-        "rank": 72,
+        "rank": 86,
         "wr": 6.189,
         "ref": true
       },
       "era": {
-        "rank": 205,
+        "rank": 280,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 45,
+      "hi": 51
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Globes-hosting smirk as permanent delivery: says the unsayable like he's reading minutes. The room's shock is pre-counted."
+  },
+  "known_bits": [
+    {
+      "title": "Awards-show executions",
+      "why_it_works": "Roasts the room that hired him, on their own broadcast. The hostage dynamic IS the bit \u2014 Hollywood paying to be insulted on television.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    },
+    {
+      "title": "Religion as heckler bait",
+      "why_it_works": "Baits the faithful with philosophy 101 delivered as playground taunts. The atheism is sincere; the cruelty is the marketing.",
+      "theory_links": [
+        "unmask",
+        "provocation"
+      ]
+    }
+  ],
+  "recognition": {
+    "awards": [
+      {
+        "award": "Writers Guild of America Award",
+        "year": null
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series",
+        "year": 2007
+      }
+    ]
   }
 }

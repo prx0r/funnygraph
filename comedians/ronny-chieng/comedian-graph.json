@@ -233,8 +233,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 10.4,
-    "legacy_era": 33.2,
+    "legacy": 5.8,
+    "legacy_era": 38.6,
     "audience": null,
     "popularity": 71.1,
     "theory": 0.0,
@@ -277,7 +277,7 @@
     ]
   },
   "rating": {
-    "headline": 35.7,
+    "headline": 34.3,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -285,11 +285,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 190,
+        "rank": 279,
         "ref": true
       },
       "canon": {
-        "rank": 179,
+        "rank": 270,
         "ref": true
       },
       "peoples": {
@@ -298,12 +298,20 @@
         "ref": true
       },
       "era": {
-        "rank": 142,
+        "rank": 182,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Asia's Most Influential Malaysia",
+        "year": 2021
+      }
+    ]
   }
 }

@@ -151,6 +151,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "marc-maron-bit-01",
+      "title": "Marc Maron: 'The rant-to-wound turn' \u2014 how the bit works",
+      "thesis": "Opens furious at the world, lands furious at himself. The anger is real, the target moves inward mid-bit \u2014 vulnerability as punchline structure.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "marc-maron-bit-02",
+      "title": "Marc Maron: 'Boomer dread inventory' \u2014 how the bit works",
+      "thesis": "Catalogs aging, cats, anxiety meds as a generational condition report. Misery loves company and Maron takes attendance.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -292,15 +326,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 61.6,
-    "legacy_era": 10.9,
+    "legacy": 42.7,
+    "legacy_era": 8.8,
     "audience": 30.0,
     "popularity": 29.8,
-    "theory": 12.5,
+    "theory": 50.0,
     "heat": null,
     "gap_value": -0.002,
     "overrated": "accurately rated",
-    "canon_lag": -0.316
+    "canon_lag": -0.127
   },
   "tier": "king",
   "region": "us",
@@ -342,46 +376,72 @@
     "awards": []
   },
   "rating": {
-    "headline": 1.0,
+    "headline": 63.4,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 98,
-        "pct": 1.0,
+        "rank": 42,
+        "pct": 63.4,
         "sweep": [
-          98,
-          98
+          34,
+          42
         ]
       },
       "consensus": {
-        "rank": 82,
+        "rank": 170,
         "ref": true
       },
       "canon": {
-        "rank": 149,
+        "rank": 244,
         "ref": true
       },
       "peoples": {
-        "rank": 61,
+        "rank": 75,
         "wr": 6.487,
         "ref": true
       },
       "era": {
-        "rank": 189,
+        "rank": 270,
         "ref": true
       }
     },
     "interval": {
-      "lo": 98,
-      "hi": 98
+      "lo": 34,
+      "hi": 42
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.wtfpod.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "known_bits": [
+    {
+      "title": "The rant-to-wound turn",
+      "why_it_works": "Opens furious at the world, lands furious at himself. The anger is real, the target moves inward mid-bit \u2014 vulnerability as punchline structure.",
+      "theory_links": [
+        "expose_self_blindness",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "Boomer dread inventory",
+      "why_it_works": "Catalogs aging, cats, anxiety meds as a generational condition report. Misery loves company and Maron takes attendance.",
+      "theory_links": [
+        "split_knowledge",
+        "benign_violation"
+      ]
+    }
+  ],
+  "musicbrainz": {
+    "id": "9d16d8f8-2b58-465b-bd1e-aba28e12de75",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

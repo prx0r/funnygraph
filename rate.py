@@ -91,6 +91,7 @@ CORE_STAGES = [
     ("metrics.py", [], True),          # 5-lens panel -> graphs + metrics.json
     ("theory_content.py", [], False),  # needs characters2; warn-skip if absent
     ("house_rank.py", [], True),       # PROPRIETARY board (needs theory+metrics)
+    ("regions.py", ["--countries"], True),  # per-country boards (needs house+ratings)
 ]
 VALID_STAGES = [
     ("kendall_w.py", ["--boots", "200"], False),

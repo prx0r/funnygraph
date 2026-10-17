@@ -40,7 +40,7 @@ OUT = HERE / "rankings"
 
 def compute_legs(comics: dict) -> dict[str, dict[str, float]]:
     """Exact leg recipe from rank_comedians.py. Returns {leg: {cid: score}}."""
-    cc_order, rs_order = [], []
+    cc_order, rs_order, pa_order, c4_order = [], [], [], []
     for cid, j in comics.items():
         rec = j.get("recognition") or {}
         gen = (j.get("generation") or {}).get("id", "")
@@ -49,13 +49,25 @@ def compute_legs(comics: dict) -> dict[str, dict[str, float]]:
             cc_order.append((rec["comedy_central_2004"], cid))
         if rec.get("rolling_stone_2017") and gs <= 2017:
             rs_order.append((rec["rolling_stone_2017"], cid))
+        if rec.get("paste_2017") and gs <= 2017:
+            pa_order.append((rec["paste_2017"], cid))
+        if rec.get("c4_2007") and gs <= 2007:
+            c4_order.append((rec["c4_2007"], cid))
     cc_order.sort()
     rs_order.sort()
+    pa_order.sort()
+    c4_order.sort()
     cc_b = borda_leg([c for _, c in cc_order])
     rs_b = borda_leg([c for _, c in rs_order])
+    pa_b = borda_leg([c for _, c in pa_order])
+    c4_b = borda_leg([c for _, c in c4_order])
     cc_m = max(cc_b.values(), default=1)
     rs_m = max(rs_b.values(), default=1)
-    critics = {cid: round(cc_b.get(cid, 0) / cc_m + rs_b.get(cid, 0) / rs_m, 4)
+    pa_m = max(pa_b.values(), default=1)
+    c4_m = max(c4_b.values(), default=1)
+    critics = {cid: round(cc_b.get(cid, 0) / cc_m + rs_b.get(cid, 0) / rs_m
+                          + pa_b.get(cid, 0) / pa_m
+                          + c4_b.get(cid, 0) / c4_m, 4)
                for cid in comics}
 
     wr = {}

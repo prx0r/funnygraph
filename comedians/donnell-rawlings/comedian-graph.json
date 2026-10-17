@@ -62,8 +62,8 @@
     }
   ],
   "metrics": {
-    "legacy": 37.4,
-    "legacy_era": 60.7,
+    "legacy": 23.1,
+    "legacy_era": 56.6,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -81,11 +81,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 133,
+        "rank": 228,
         "ref": true
       },
       "canon": {
-        "rank": 93,
+        "rank": 195,
         "ref": true
       },
       "peoples": {
@@ -94,12 +94,13 @@
         "ref": true
       },
       "era": {
-        "rank": 84,
+        "rank": 129,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "region": "us"
 }

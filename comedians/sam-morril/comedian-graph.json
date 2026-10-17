@@ -246,15 +246,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 67.8,
-    "legacy_era": 14.2,
+    "legacy": 48.8,
+    "legacy_era": 23.4,
     "audience": 30.0,
     "popularity": 28.9,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.011,
     "overrated": "accurately rated",
-    "canon_lag": -0.378
+    "canon_lag": -0.188
   },
   "tier": "king",
   "region": "us",
@@ -315,41 +315,44 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 30.6,
+    "headline": 23.2,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 69,
-        "pct": 30.6,
+        "rank": 87,
+        "pct": 23.2,
         "sweep": [
-          69,
-          69
+          87,
+          87
         ]
       },
       "consensus": {
-        "rank": 69,
+        "rank": 152,
         "ref": true
       },
       "canon": {
-        "rank": 184,
+        "rank": 274,
         "ref": true
       },
       "peoples": {
-        "rank": 48,
+        "rank": 61,
         "wr": 7.103,
         "ref": true
       },
       "era": {
-        "rank": 182,
+        "rank": 227,
         "ref": true
       }
     },
     "interval": {
-      "lo": 69,
-      "hi": 69
+      "lo": 87,
+      "hi": 87
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "recognition": {
+    "awards": []
   }
 }

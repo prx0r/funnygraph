@@ -1,0 +1,785 @@
+{
+ "Bert Kreischer": {
+  "n_comments": 100,
+  "timestamp_laughs": 13,
+  "goat_calls": 3,
+  "quotables": [
+   {
+    "phrase": "shane is a national",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "shane is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "the production quality is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Bo Burnham": {
+  "n_comments": 200,
+  "timestamp_laughs": 15,
+  "goat_calls": 9,
+  "quotables": [
+   {
+    "phrase": "could i interest you",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "i interest you in",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "could i interest you in",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "years later and this",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "later and this is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "years later and this is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "and this is still",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "you bo i hope",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "you say the oceans",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "say the oceans rising",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "the oceans rising like",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "oceans rising like i",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "rising like i give",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "like i give a",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "i give a shit",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Chris Rock": {
+  "n_comments": 200,
+  "timestamp_laughs": 2,
+  "goat_calls": 1,
+  "quotables": [
+   {
+    "phrase": "fight in front of",
+    "n": 4,
+    "authors": 4,
+    "quoted": 0,
+    "score": 8
+   },
+   {
+    "phrase": "in front of white",
+    "n": 3,
+    "authors": 3,
+    "quoted": 0,
+    "score": 6
+   },
+   {
+    "phrase": "front of white people",
+    "n": 3,
+    "authors": 3,
+    "quoted": 0,
+    "score": 6
+   },
+   {
+    "phrase": "fight in front of white",
+    "n": 3,
+    "authors": 3,
+    "quoted": 0,
+    "score": 6
+   },
+   {
+    "phrase": "in front of white people",
+    "n": 3,
+    "authors": 3,
+    "quoted": 0,
+    "score": 6
+   },
+   {
+    "phrase": "fight in front of white people",
+    "n": 3,
+    "authors": 3,
+    "quoted": 0,
+    "score": 6
+   },
+   {
+    "phrase": "if you have parents",
+    "n": 3,
+    "authors": 3,
+    "quoted": 0,
+    "score": 6
+   },
+   {
+    "phrase": "in the black community",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "literally laughing at the",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "laughing at the joke",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "literally laughing at the joke",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "and that was the",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "don't fight in front",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "don't fight in front of",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Jerry Seinfeld": {
+  "n_comments": 100,
+  "timestamp_laughs": 4,
+  "goat_calls": 1,
+  "quotables": [
+   {
+    "phrase": "you re a comedian",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "re a comedian with",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "a comedian with the",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "comedian with the president",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "you re a comedian with",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "re a comedian with the",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "a comedian with the president",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "you re a comedian with the",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "re a comedian with the president",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "you re a comedian with the president",
+    "n": 3,
+    "authors": 2,
+    "quoted": 0,
+    "score": 5
+   },
+   {
+    "phrase": "the best president of",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "to look back at",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "look back at what",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "to look back at what",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Katt Williams": {
+  "n_comments": 100,
+  "timestamp_laughs": 2,
+  "goat_calls": 4,
+  "quotables": [
+   {
+    "phrase": "truth don t need",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "don t need motivation",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "truth don t need motivation",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Kevin Hart": {
+  "n_comments": 600,
+  "timestamp_laughs": 40,
+  "goat_calls": 16,
+  "quotables": [
+   {
+    "phrase": "would love to see",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "i remember watching this",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "when i was little",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "ride a roller coaster",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "i laughed so hard",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "not funny at all",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "tupac was one of",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "of the biggest thugs",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "the biggest thugs i",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "of the biggest thugs i",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "i wonder what diana",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "wonder what diana is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "i wonder what diana is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "made me laugh so",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "me laugh so hard",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Nate Bargatze": {
+  "n_comments": 100,
+  "timestamp_laughs": 13,
+  "goat_calls": 3,
+  "quotables": [
+   {
+    "phrase": "shane is a national",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "shane is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "the production quality is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Shane Gillis": {
+  "n_comments": 200,
+  "timestamp_laughs": 13,
+  "goat_calls": 3,
+  "quotables": [
+   {
+    "phrase": "shane is a national",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "shane is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "the production quality is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Taylor Tomlinson": {
+  "n_comments": 100,
+  "timestamp_laughs": 0,
+  "goat_calls": 0,
+  "quotables": [
+   {
+    "phrase": "whats going on man",
+    "n": 2,
+    "authors": 2,
+    "quoted": 2,
+    "score": 8
+   },
+   {
+    "phrase": "a year old dude",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "when it comes to",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "to stay away from",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Theo Von": {
+  "n_comments": 100,
+  "timestamp_laughs": 13,
+  "goat_calls": 3,
+  "quotables": [
+   {
+    "phrase": "shane is a national",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "shane is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "the production quality is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "Tom Segura": {
+  "n_comments": 100,
+  "timestamp_laughs": 13,
+  "goat_calls": 3,
+  "quotables": [
+   {
+    "phrase": "shane is a national",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "shane is a national treasure",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "the production quality is",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   },
+   {
+    "phrase": "madea goes to the moon",
+    "n": 2,
+    "authors": 2,
+    "quoted": 0,
+    "score": 4
+   }
+  ]
+ },
+ "William Montgomery": {
+  "n_comments": 100,
+  "timestamp_laughs": 0,
+  "goat_calls": 0,
+  "quotables": []
+ }
+}

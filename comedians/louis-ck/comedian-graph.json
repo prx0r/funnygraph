@@ -1106,7 +1106,8 @@
         "award": "Primetime Emmy Award for Outstanding Writing for a Comedy Series",
         "year": 2014
       }
-    ]
+    ],
+    "paste_2017": 12
   },
   "specials_rated": [
     {
@@ -1215,15 +1216,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 95.7,
-    "legacy_era": 97.6,
+    "legacy": 97.0,
+    "legacy_era": 98.6,
     "audience": 87.5,
     "popularity": 67.5,
     "theory": 87.5,
     "heat": null,
     "gap_value": -0.2,
     "overrated": "underrated",
-    "canon_lag": -0.082
+    "canon_lag": -0.095
   },
   "tier": "king",
   "region": "us",
@@ -1263,13 +1264,13 @@
     ]
   },
   "rating": {
-    "headline": 99.0,
+    "headline": 99.1,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 2,
-        "pct": 99.0,
+        "pct": 99.1,
         "sweep": [
           1,
           4
@@ -1280,7 +1281,7 @@
         "ref": true
       },
       "canon": {
-        "rank": 13,
+        "rank": 16,
         "ref": true
       },
       "peoples": {
@@ -1289,7 +1290,7 @@
         "ref": true
       },
       "era": {
-        "rank": 6,
+        "rank": 5,
         "ref": true
       }
     },
@@ -1297,12 +1298,20 @@
       "lo": 1,
       "hi": 4
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://louisck.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "musicbrainz": {
+    "id": "d1f26bba-2ef1-452a-82e9-22012944a098",
+    "status": "ok",
+    "tags": [
+      "comedy"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

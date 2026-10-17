@@ -1,0 +1,80 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "alexei-sayle",
+  "name": "Alexei Sayle",
+  "tier": "king",
+  "region": "uk",
+  "generation": {
+    "id": "eighties-boom"
+  },
+  "recognition": {
+    "c4_2007": 18
+  },
+  "identity": {
+    "deal": "",
+    "operator_priors": {}
+  },
+  "known_bits": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "king",
+    "rule": "C4-2007 ranked: established by list inclusion",
+    "note": "UK canon onboarding (owner goal: UK scene)"
+  },
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "critic_lists.py",
+  "metrics": {
+    "legacy": 87.1,
+    "legacy_era": 82.4,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 50.5,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 39,
+        "ref": true
+      },
+      "canon": {
+        "rank": 38,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 53,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T16:38:04Z",
+    "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "ba9a0304-ea17-4fbe-a9c4-35b5aef3ac44",
+    "status": "ok",
+    "tags": [
+      "british",
+      "comedy",
+      "english",
+      "standup comedy",
+      "uk"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
+  }
+}

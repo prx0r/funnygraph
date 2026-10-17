@@ -2,31 +2,31 @@
  "note": "Mallows phi per leg vs consensus central ranking, RIM exact moment-match (Fligner & Verducci 1986). phi->0 noiseless, phi->1 uniform. Implied weights = precision-normalized; they replace asserted 3/2/1 wherever one number is needed.",
  "legs": {
   "critics": {
-   "n_scored": 41,
-   "kendall_d": 92,
-   "d_max": 820,
-   "d_norm": 0.1122,
-   "phi": 0.7208,
-   "precision_neglogphi": 0.3274,
-   "implied_weight": 0.498
+   "n_scored": 134,
+   "kendall_d": 584,
+   "d_max": 8911,
+   "d_norm": 0.0655,
+   "phi": 0.8235,
+   "precision_neglogphi": 0.1942,
+   "implied_weight": 0.433
   },
   "audience": {
-   "n_scored": 76,
-   "kendall_d": 423,
-   "d_max": 2850,
-   "d_norm": 0.1484,
-   "phi": 0.8686,
-   "precision_neglogphi": 0.1409,
-   "implied_weight": 0.214
+   "n_scored": 90,
+   "kendall_d": 685,
+   "d_max": 4005,
+   "d_norm": 0.171,
+   "phi": 0.903,
+   "precision_neglogphi": 0.102,
+   "implied_weight": 0.227
   },
   "awards": {
-   "n_scored": 25,
-   "kendall_d": 78,
-   "d_max": 300,
-   "d_norm": 0.26,
-   "phi": 0.8277,
-   "precision_neglogphi": 0.1892,
-   "implied_weight": 0.288
+   "n_scored": 41,
+   "kendall_d": 182,
+   "d_max": 820,
+   "d_norm": 0.222,
+   "phi": 0.8586,
+   "precision_neglogphi": 0.1524,
+   "implied_weight": 0.34
   }
  }
 }

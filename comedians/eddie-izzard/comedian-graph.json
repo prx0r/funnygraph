@@ -354,6 +354,14 @@
       {
         "award": "Primetime Emmy Award for Individual Performance in a Variety or Music Program",
         "year": 2000
+      },
+      {
+        "award": "British Comedy Awards",
+        "year": 1993
+      },
+      {
+        "award": "British Comedy Awards",
+        "year": 1996
       }
     ]
   },
@@ -442,15 +450,15 @@
     }
   },
   "metrics": {
-    "legacy": 95.3,
-    "legacy_era": 96.2,
+    "legacy": 91.9,
+    "legacy_era": 94.6,
     "audience": 90.0,
     "popularity": 78.6,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.114,
     "overrated": "accurately rated",
-    "canon_lag": -0.053
+    "canon_lag": -0.019
   },
   "tier": "king",
   "region": "uk",
@@ -507,24 +515,24 @@
     ]
   },
   "rating": {
-    "headline": 76.5,
+    "headline": 79.5,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 24,
-        "pct": 76.5,
+        "pct": 79.5,
         "sweep": [
           12,
-          47
+          65
         ]
       },
       "consensus": {
-        "rank": 11,
+        "rank": 25,
         "ref": true
       },
       "canon": {
-        "rank": 14,
+        "rank": 36,
         "ref": true
       },
       "peoples": {
@@ -533,15 +541,15 @@
         "ref": true
       },
       "era": {
-        "rank": 9,
+        "rank": 17,
         "ref": true
       }
     },
     "interval": {
       "lo": 12,
-      "hi": 47
+      "hi": 65
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {

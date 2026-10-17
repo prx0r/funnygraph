@@ -1,133 +1,133 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "maddie-wiener",
-  "name": "Maddie Wiener",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "Time Out 12 to watch 2026",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "timeout-2026"
-    ],
-    "discovery_note": "Time Out 12 to watch 2026",
-    "region_method": "venue-scene (overwrite on origin evidence)"
-  },
-  "theory_score": null,
-  "nearest_greats": [
-    {
-      "comedian_id": "jack-whitehall",
-      "sim": 0.101
-    },
-    {
-      "comedian_id": "sarah-millican",
-      "sim": 0.091
-    },
-    {
-      "comedian_id": "bill-maher",
-      "sim": 0.083
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "maddie-wiener",
+ "name": "Maddie Wiener",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Time Out 12 to watch 2026",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "timeout-2026"
   ],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
+  "discovery_note": "Time Out 12 to watch 2026",
+  "region_method": "venue-scene (overwrite on origin evidence)"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "jack-whitehall",
+   "sim": 0.099
   },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 25.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+  {
+   "comedian_id": "sarah-millican",
+   "sim": 0.09
   },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "rating": {
-    "headline": 25.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
-    "pipeline": "rate/v1"
-  },
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [],
-    "via": "jack-whitehall",
-    "sim": 0.101,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  },
-  "website": {
-    "url": "https://maddiewiener.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
-  },
-  "region": "us",
-  "known_bits": [
-    {
-      "title": "Body positivity, inverted",
-      "why_it_works": "Takes the body-positivity script literally and past its limit ('let people be ugly'): rigidify \u2014 applies the moral logic as law until it breaks. Teenage-philosopher delivery sells the sincerity the joke needs. (Time Out 2026; hypothesis)",
-      "theory_links": [
-        "rigidify",
-        "benign_violation"
-      ],
-      "source": "timeout-2026",
-      "status": "hypothesis (press-described, unmeasured)"
-    },
-    {
-      "title": "Lazy they/them",
-      "why_it_works": "Gender-identity premise defused by pure inertia ('more lazy than trans'): the violation (identity confession) lands benign through self-deprecation, never polemic. (Time Out 2026; hypothesis)",
-      "theory_links": [
-        "benign_violation",
-        "expose_self_blindness"
-      ],
-      "source": "timeout-2026",
-      "status": "hypothesis (press-described, unmeasured)"
-    }
+  {
+   "comedian_id": "bill-maher",
+   "sim": 0.084
+  }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
   ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 25.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 25.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-17T16:38:04Z",
+  "pipeline": "rate/v1"
+ },
+ "website": {
+  "url": "https://maddiewiener.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "region": "us",
+ "known_bits": [
+  {
+   "title": "Body positivity, inverted",
+   "why_it_works": "Takes the body-positivity script literally and past its limit ('let people be ugly'): rigidify \u2014 applies the moral logic as law until it breaks. Teenage-philosopher delivery sells the sincerity the joke needs. (Time Out 2026; hypothesis)",
+   "theory_links": [
+    "rigidify",
+    "benign_violation"
+   ],
+   "source": "timeout-2026",
+   "status": "hypothesis (press-described, unmeasured)"
+  },
+  {
+   "title": "Lazy they/them",
+   "why_it_works": "Gender-identity premise defused by pure inertia ('more lazy than trans'): the violation (identity confession) lands benign through self-deprecation, never polemic. (Time Out 2026; hypothesis)",
+   "theory_links": [
+    "benign_violation",
+    "expose_self_blindness"
+   ],
+   "source": "timeout-2026",
+   "status": "hypothesis (press-described, unmeasured)"
+  }
+ ],
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [],
+  "via": "jack-whitehall",
+  "sim": 0.099,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ }
 }

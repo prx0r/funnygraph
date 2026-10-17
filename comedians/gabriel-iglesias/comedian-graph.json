@@ -151,6 +151,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "gabriel-iglesias-bit-01",
+      "title": "Gabriel Iglesias: 'Voices as cast' \u2014 how the bit works",
+      "thesis": "Performs entire family gatherings solo, switching voices mid-sentence. The virtuosity is the joke: one man, twelve people, zero shame.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "gabriel-iglesias-bit-02",
+      "title": "Gabriel Iglesias: 'Weight as running bit' \u2014 how the bit works",
+      "thesis": "Makes his own size the through-line of the act without self-pity. The audience is invited to laugh WITH the premise, never at the person.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -284,15 +318,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 61.1,
-    "legacy_era": 9.0,
+    "legacy": 42.0,
+    "legacy_era": 7.5,
     "audience": 10.0,
     "popularity": 93.0,
-    "theory": 12.5,
+    "theory": 50.0,
     "heat": null,
     "gap_value": 0.83,
     "overrated": "massively overrated",
-    "canon_lag": -0.511
+    "canon_lag": -0.32
   },
   "tier": "king",
   "region": "us",
@@ -334,46 +368,75 @@
     "awards": []
   },
   "rating": {
-    "headline": 4.1,
+    "headline": 72.3,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 95,
-        "pct": 4.1,
+        "rank": 32,
+        "pct": 72.3,
         "sweep": [
-          95,
-          95
+          22,
+          32
         ]
       },
       "consensus": {
-        "rank": 83,
+        "rank": 172,
         "ref": true
       },
       "canon": {
-        "rank": 109,
+        "rank": 210,
         "ref": true
       },
       "peoples": {
-        "rank": 63,
+        "rank": 77,
         "wr": 6.2,
         "ref": true
       },
       "era": {
-        "rank": 193,
+        "rank": 274,
         "ref": true
       }
     },
     "interval": {
-      "lo": 95,
-      "hi": 95
+      "lo": 22,
+      "hi": 32
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.fluffyguy.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "known_bits": [
+    {
+      "title": "Voices as cast",
+      "why_it_works": "Performs entire family gatherings solo, switching voices mid-sentence. The virtuosity is the joke: one man, twelve people, zero shame.",
+      "theory_links": [
+        "character_violation",
+        "exaggeration"
+      ]
+    },
+    {
+      "title": "Weight as running bit",
+      "why_it_works": "Makes his own size the through-line of the act without self-pity. The audience is invited to laugh WITH the premise, never at the person.",
+      "theory_links": [
+        "benign_violation",
+        "reframe"
+      ]
+    }
+  ],
+  "musicbrainz": {
+    "id": "8fea59f2-ffee-450f-9757-def553b73b19",
+    "status": "ok",
+    "tags": [
+      "comedia",
+      "comedy",
+      "comic",
+      "comico"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

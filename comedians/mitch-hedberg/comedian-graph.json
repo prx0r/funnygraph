@@ -306,7 +306,8 @@
   },
   "recognition": {
     "rolling_stone_2017": 20,
-    "awards": []
+    "awards": [],
+    "paste_2017": 22
   },
   "specials_rated": [
     {
@@ -344,15 +345,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 82.5,
-    "legacy_era": 10.4,
+    "legacy": 91.2,
+    "legacy_era": 74.2,
     "audience": 0,
     "popularity": 71.7,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.717,
     "overrated": "massively overrated",
-    "canon_lag": -0.825
+    "canon_lag": -0.912
   },
   "tier": "king",
   "region": "us",
@@ -391,41 +392,51 @@
     ]
   },
   "rating": {
-    "headline": 88.8,
+    "headline": 90.2,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 12,
-        "pct": 88.8,
+        "pct": 90.2,
         "sweep": [
           12,
-          27
+          39
         ]
       },
       "consensus": {
-        "rank": 38,
+        "rank": 27,
         "ref": true
       },
       "canon": {
-        "rank": 22,
+        "rank": 25,
         "ref": true
       },
       "peoples": {
-        "rank": 76,
+        "rank": 90,
         "wr": 3.043,
         "ref": true
       },
       "era": {
-        "rank": 190,
+        "rank": 77,
         "ref": true
       }
     },
     "interval": {
       "lo": 12,
-      "hi": 27
+      "hi": 39
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "musicbrainz": {
+    "id": "843384a8-2fb5-4d21-91d6-3f4b545fca7f",
+    "status": "ok",
+    "tags": [
+      "comedy",
+      "minnesota",
+      "minnesotan"
+    ],
+    "source": "musicbrainz (name+comedy-tag)"
   }
 }

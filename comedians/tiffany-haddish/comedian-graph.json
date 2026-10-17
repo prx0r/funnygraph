@@ -219,15 +219,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 4.7,
-    "legacy_era": 27.5,
-    "audience": null,
+    "legacy": 46.4,
+    "legacy_era": 11.2,
+    "audience": 40.0,
     "popularity": 25.4,
     "theory": 0.0,
     "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+    "gap_value": -0.146,
+    "overrated": "accurately rated",
+    "canon_lag": -0.064
   },
   "tier": "king",
   "region": "us",
@@ -277,7 +277,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 25.1,
+    "headline": 18.3,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -285,25 +285,44 @@
         "rank": null
       },
       "consensus": {
-        "rank": 202,
+        "rank": 159,
         "ref": true
       },
       "canon": {
-        "rank": 197,
+        "rank": 138,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 69,
+        "wr": 6.99,
         "ref": true
       },
       "era": {
-        "rank": 154,
+        "rank": 263,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
+  },
+  "specials_rated": [
+    {
+      "special": "Tiffany Haddish: She Ready! From the Hood to Hollywood",
+      "year": 2017,
+      "imdb_id": "tt6328116",
+      "imdb_rating": 6.6,
+      "imdb_votes": 653,
+      "source": "critic-list:paste-2017",
+      "standout": false
+    }
+  ],
+  "recognition": {
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series",
+        "year": 2018
+      }
+    ]
   }
 }

@@ -312,15 +312,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 7.1,
-    "legacy_era": 29.9,
-    "audience": null,
+    "legacy": 61.7,
+    "legacy_era": 30.2,
+    "audience": 52.5,
     "popularity": 9.6,
     "theory": 62.5,
     "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+    "gap_value": -0.429,
+    "overrated": "underrated",
+    "canon_lag": -0.092
   },
   "tier": "king",
   "region": "uk",
@@ -351,41 +351,69 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 81.6,
+    "headline": 83.9,
     "coverage": "PARTIAL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 19,
-        "pct": 81.6,
+        "pct": 83.9,
         "sweep": [
-          11,
+          12,
           24
         ]
       },
       "consensus": {
-        "rank": 197,
+        "rank": 114,
         "ref": true
       },
       "canon": {
-        "rank": 189,
+        "rank": 149,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 41,
+        "wr": 7.286,
         "ref": true
       },
       "era": {
-        "rank": 149,
+        "rank": 207,
         "ref": true
       }
     },
     "interval": {
-      "lo": 11,
+      "lo": 12,
       "hi": 24
     },
-    "updated": "2026-10-17T15:18:02Z",
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "British Comedy Awards",
+        "year": 2000
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "special": "Sean Lock: Lockipedia Live",
+      "year": 2010,
+      "imdb_id": "tt1805401",
+      "imdb_rating": 7.1,
+      "imdb_votes": 573,
+      "source": "known-title",
+      "standout": false
+    },
+    {
+      "special": "Sean Lock: Purple Van Man",
+      "year": 2013,
+      "imdb_id": "tt3552510",
+      "imdb_rating": 6.8,
+      "imdb_votes": 348,
+      "source": "known-title",
+      "standout": false
+    }
+  ]
 }

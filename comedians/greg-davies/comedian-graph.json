@@ -115,6 +115,40 @@
         "why it can't be copied"
       ],
       "status": "seed"
+    },
+    {
+      "id": "greg-davies-bit-01",
+      "title": "Greg Davies: 'The teacher who never grew up' \u2014 how the bit works",
+      "thesis": "Wealdstone-era school stories where the six-foot-eight man is always the scared kid. Scale inversion: biggest body, smallest courage.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "greg-davies-bit-02",
+      "title": "Greg Davies: 'Full Fat Legend excess' \u2014 how the bit works",
+      "thesis": "Gluttony and laziness elevated to philosophy. The excess is total and therefore innocent \u2014 nobody diets in a Greg Davies bit.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals"
+      ],
+      "status": "seed"
     }
   ],
   "provenance": {
@@ -233,22 +267,22 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 30.3,
-    "legacy_era": 53.5,
-    "audience": null,
+    "legacy": 72.9,
+    "legacy_era": 85.1,
+    "audience": 67.5,
     "popularity": 46.5,
-    "theory": 0.0,
+    "theory": 50.0,
     "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+    "gap_value": -0.21,
+    "overrated": "underrated",
+    "canon_lag": -0.054
   },
   "tier": "king",
   "region": "uk",
   "continent": "europe",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "giant man-child",
     "repertoire": {
       "observational": 1.0
     },
@@ -277,41 +311,111 @@
     ]
   },
   "recognition": {
-    "awards": []
+    "awards": [
+      {
+        "award": "Edinburgh Comedy Award (Best Show shortlist)",
+        "year": 2010,
+        "result": "nominee",
+        "source": "curated-press: comedyawards.co.uk + BBC"
+      },
+      {
+        "award": "British Comedy Awards (Best Breakthrough)",
+        "year": 2011,
+        "result": "nominee",
+        "source": "curated-press: BCA records"
+      }
+    ]
   },
   "rating": {
-    "headline": 42.9,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 70.5,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 34,
+        "pct": 70.5,
+        "sweep": [
+          24,
+          34
+        ]
       },
       "consensus": {
-        "rank": 148,
+        "rank": 81,
         "ref": true
       },
       "canon": {
-        "rank": 113,
+        "rank": 122,
         "ref": true
       },
       "peoples": {
-        "rank": null,
-        "wr": null,
+        "rank": 22,
+        "wr": 7.614,
         "ref": true
       },
       "era": {
-        "rank": 99,
+        "rank": 45,
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T15:18:02Z",
+    "interval": {
+      "lo": 24,
+      "hi": 34
+    },
+    "updated": "2026-10-17T16:38:04Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://gregdavies.co.uk",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
+  },
+  "specials_rated": [
+    {
+      "special": "Greg Davies: Firing Cheeseballs at a Dog",
+      "year": 2011,
+      "imdb_id": "tt2396686",
+      "imdb_rating": 7.7,
+      "imdb_votes": 669,
+      "source": "known-title",
+      "standout": false
+    },
+    {
+      "special": "Greg Davies: You Magnificent Beast",
+      "year": 2018,
+      "imdb_id": "tt8259682",
+      "imdb_rating": 7.2,
+      "imdb_votes": 2894,
+      "source": "known-title",
+      "standout": false
+    }
+  ],
+  "timing_profile": {
+    "doctrine_hypothesis": "Six-foot-eight storytelling that shrinks him to a child mid-bit. Towering presence, tiny-guy energy \u2014 the size gap does half the work before a word lands."
+  },
+  "known_bits": [
+    {
+      "title": "The teacher who never grew up",
+      "why_it_works": "Wealdstone-era school stories where the six-foot-eight man is always the scared kid. Scale inversion: biggest body, smallest courage.",
+      "theory_links": [
+        "status_invert",
+        "expose_self_blindness"
+      ]
+    },
+    {
+      "title": "Full Fat Legend excess",
+      "why_it_works": "Gluttony and laziness elevated to philosophy. The excess is total and therefore innocent \u2014 nobody diets in a Greg Davies bit.",
+      "theory_links": [
+        "rigidify",
+        "exaggeration"
+      ]
+    }
+  ],
+  "youtube_channel": {
+    "id": "UCUbjEQT_kQEG3EgIINNrPLA",
+    "handle": "GregDavies",
+    "title": "gregdavies",
+    "subs": 2,
+    "via": "forHandle-verified",
+    "source": "UK push (verified, no search)"
   }
 }
