@@ -1,0 +1,1818 @@
+{
+ "dark-confessional": [
+  {
+   "type_rank": 1,
+   "comedian_id": "louis-ck",
+   "name": "Louis C.K.",
+   "composite": 91.0,
+   "legacy": 93.3,
+   "audience": 87.5,
+   "overrated": "underrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "billy-connolly",
+   "name": "Billy Connolly",
+   "composite": 90.5,
+   "legacy": 90.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "seventies"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "richard-pryor",
+   "name": "Richard Pryor",
+   "composite": 90.0,
+   "legacy": 100.0,
+   "audience": 75.0,
+   "overrated": "underrated",
+   "generation": "seventies"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "eddie-murphy",
+   "name": "Eddie Murphy",
+   "composite": 87.6,
+   "legacy": 94.4,
+   "audience": 77.5,
+   "overrated": "accurately rated",
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 5,
+   "comedian_id": "adam-sandler",
+   "name": "Adam Sandler",
+   "composite": 85.5,
+   "legacy": 85.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 6,
+   "comedian_id": "tom-segura",
+   "name": "Tom Segura",
+   "composite": 81.6,
+   "legacy": 87.7,
+   "audience": 72.5,
+   "overrated": "accurately rated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 7,
+   "comedian_id": "ali-wong",
+   "name": "Ali Wong",
+   "composite": 77.3,
+   "legacy": 87.2,
+   "audience": 62.5,
+   "overrated": "accurately rated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 8,
+   "comedian_id": "taylor-tomlinson",
+   "name": "Taylor Tomlinson",
+   "composite": 73.6,
+   "legacy": 82.7,
+   "audience": 60.0,
+   "overrated": "overrated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 9,
+   "comedian_id": "ron-white",
+   "name": "Ron White",
+   "composite": 72.3,
+   "legacy": 80.5,
+   "audience": 60.0,
+   "overrated": "accurately rated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 10,
+   "comedian_id": "kevin-hart",
+   "name": "Kevin Hart",
+   "composite": 70.6,
+   "legacy": 86.0,
+   "audience": 47.5,
+   "overrated": "massively overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 11,
+   "comedian_id": "wanda-sykes",
+   "name": "Wanda Sykes",
+   "composite": 69.8,
+   "legacy": 69.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 12,
+   "comedian_id": "katt-williams",
+   "name": "Katt Williams",
+   "composite": 64.6,
+   "legacy": 76.0,
+   "audience": 47.5,
+   "overrated": "overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 13,
+   "comedian_id": "cedric-the-entertainer",
+   "name": "Cedric The Entertainer",
+   "composite": 61.5,
+   "legacy": 61.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 14,
+   "comedian_id": "deon-cole",
+   "name": "Deon Cole",
+   "composite": 54.9,
+   "legacy": 71.5,
+   "audience": 30.0,
+   "overrated": "overrated",
+   "generation": null
+  },
+  {
+   "type_rank": 15,
+   "comedian_id": "reggie-watts",
+   "name": "Reggie Watts",
+   "composite": 52.5,
+   "legacy": 52.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 16,
+   "comedian_id": "mike-epps",
+   "name": "Mike Epps",
+   "composite": 51.5,
+   "legacy": 65.9,
+   "audience": 30.0,
+   "overrated": "massively overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 17,
+   "comedian_id": "mo-amer",
+   "name": "Mo Amer",
+   "composite": 51.2,
+   "legacy": 65.4,
+   "audience": 30.0,
+   "overrated": "overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 18,
+   "comedian_id": "neal-brennan",
+   "name": "Neal Brennan",
+   "composite": 49.6,
+   "legacy": 62.6,
+   "audience": 30.0,
+   "overrated": "overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 19,
+   "comedian_id": "sam-jay",
+   "name": "Sam Jay",
+   "composite": 48.5,
+   "legacy": 60.9,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 20,
+   "comedian_id": "adam-devine",
+   "name": "Adam Devine",
+   "composite": 46.9,
+   "legacy": 46.9,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 21,
+   "comedian_id": "whitney-cummings",
+   "name": "Whitney Cummings",
+   "composite": 46.5,
+   "legacy": 57.5,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 22,
+   "comedian_id": "amanda-seales",
+   "name": "Amanda Seales",
+   "composite": 45.2,
+   "legacy": 45.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 23,
+   "comedian_id": "d-l-hughley",
+   "name": "D L Hughley",
+   "composite": 44.6,
+   "legacy": 74.3,
+   "audience": 0,
+   "overrated": "overrated",
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 24,
+   "comedian_id": "eddie-griffin",
+   "name": "Eddie Griffin",
+   "composite": 42.9,
+   "legacy": 64.8,
+   "audience": 10.0,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 25,
+   "comedian_id": "ari-shaffir",
+   "name": "Ari Shaffir",
+   "composite": 42.5,
+   "legacy": 42.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 26,
+   "comedian_id": "arsenio-hall",
+   "name": "Arsenio Hall",
+   "composite": 41.9,
+   "legacy": 41.9,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 27,
+   "comedian_id": "big-jay-oakerson",
+   "name": "Big Jay Oakerson",
+   "composite": 41.3,
+   "legacy": 41.3,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 28,
+   "comedian_id": "brad-williams",
+   "name": "Brad Williams",
+   "composite": 40.8,
+   "legacy": 40.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 29,
+   "comedian_id": "brent-morin",
+   "name": "Brent Morin",
+   "composite": 40.2,
+   "legacy": 40.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 30,
+   "comedian_id": "bridget-everett",
+   "name": "Bridget Everett",
+   "composite": 39.7,
+   "legacy": 39.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 31,
+   "comedian_id": "chris-d-elia",
+   "name": "Chris D Elia",
+   "composite": 37.4,
+   "legacy": 37.4,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 32,
+   "comedian_id": "chris-tucker",
+   "name": "Chris Tucker",
+   "composite": 36.3,
+   "legacy": 36.3,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 33,
+   "comedian_id": "paul-mooney",
+   "name": "Paul Mooney",
+   "composite": 34.2,
+   "legacy": 57.0,
+   "audience": 0,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 34,
+   "comedian_id": "dan-soder",
+   "name": "Dan Soder",
+   "composite": 34.1,
+   "legacy": 34.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 35,
+   "comedian_id": "kevin-bridges",
+   "name": "Kevin Bridges",
+   "composite": 33.8,
+   "legacy": 49.7,
+   "audience": 10.0,
+   "overrated": "overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 36,
+   "comedian_id": "deray-davis",
+   "name": "Deray Davis",
+   "composite": 32.4,
+   "legacy": 32.4,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 37,
+   "comedian_id": "eric-andre",
+   "name": "Eric Andre",
+   "composite": 30.2,
+   "legacy": 30.2,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 38,
+   "comedian_id": "erik-griffin",
+   "name": "Erik Griffin",
+   "composite": 29.6,
+   "legacy": 29.6,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 39,
+   "comedian_id": "george-lopez",
+   "name": "George Lopez",
+   "composite": 27.4,
+   "legacy": 27.4,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 40,
+   "comedian_id": "jim-norton",
+   "name": "Jim Norton",
+   "composite": 22.9,
+   "legacy": 22.9,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 41,
+   "comedian_id": "jo-koy",
+   "name": "Jo Koy",
+   "composite": 21.2,
+   "legacy": 21.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 42,
+   "comedian_id": "joe-rogan",
+   "name": "Joe Rogan",
+   "composite": 20.7,
+   "legacy": 20.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 43,
+   "comedian_id": "ken-jeong",
+   "name": "Ken Jeong",
+   "composite": 19.0,
+   "legacy": 19.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 44,
+   "comedian_id": "kevin-smith",
+   "name": "Kevin Smith",
+   "composite": 18.4,
+   "legacy": 18.4,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 45,
+   "comedian_id": "lisa-lampanelli",
+   "name": "Lisa Lampanelli",
+   "composite": 17.3,
+   "legacy": 17.3,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 46,
+   "comedian_id": "marlon-wayans",
+   "name": "Marlon Wayans",
+   "composite": 16.2,
+   "legacy": 16.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 47,
+   "comedian_id": "nick-offerman",
+   "name": "Nick Offerman",
+   "composite": 13.4,
+   "legacy": 13.4,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 48,
+   "comedian_id": "pete-holmes",
+   "name": "Pete Holmes",
+   "composite": 11.7,
+   "legacy": 11.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 49,
+   "comedian_id": "ralphie-may",
+   "name": "Ralphie May",
+   "composite": 11.2,
+   "legacy": 11.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 50,
+   "comedian_id": "rob-schneider",
+   "name": "Rob Schneider",
+   "composite": 10.1,
+   "legacy": 10.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 51,
+   "comedian_id": "roy-wood-jr",
+   "name": "Roy Wood Jr",
+   "composite": 8.9,
+   "legacy": 8.9,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 52,
+   "comedian_id": "tiffany-haddish",
+   "name": "Tiffany Haddish",
+   "composite": 3.4,
+   "legacy": 3.4,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  }
+ ],
+ "observational": [
+  {
+   "type_rank": 1,
+   "comedian_id": "ellen-degeneres",
+   "name": "Ellen Degeneres",
+   "composite": 92.7,
+   "legacy": 92.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "bill-maher",
+   "name": "Bill Maher",
+   "composite": 89.9,
+   "legacy": 89.9,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "chris-rock",
+   "name": "Chris Rock",
+   "composite": 89.3,
+   "legacy": 98.9,
+   "audience": 75.0,
+   "overrated": "overrated",
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "vir-das",
+   "name": "Vir Das",
+   "composite": 87.6,
+   "legacy": 89.4,
+   "audience": 85.0,
+   "overrated": "underrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 5,
+   "comedian_id": "dick-gregory",
+   "name": "Dick Gregory",
+   "composite": 86.6,
+   "legacy": 86.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "pioneers"
+  },
+  {
+   "type_rank": 6,
+   "comedian_id": "jerry-seinfeld",
+   "name": "Jerry Seinfeld",
+   "composite": 86.3,
+   "legacy": 97.2,
+   "audience": 70.0,
+   "overrated": "accurately rated",
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 7,
+   "comedian_id": "lewis-black",
+   "name": "Lewis Black",
+   "composite": 77.6,
+   "legacy": 77.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 8,
+   "comedian_id": "colin-quinn",
+   "name": "Colin Quinn",
+   "composite": 73.7,
+   "legacy": 73.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 9,
+   "comedian_id": "iliza-shlesinger",
+   "name": "Iliza Shlesinger",
+   "composite": 67.3,
+   "legacy": 77.1,
+   "audience": 52.5,
+   "overrated": "accurately rated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 10,
+   "comedian_id": "russell-peters",
+   "name": "Russell Peters",
+   "composite": 66.6,
+   "legacy": 79.3,
+   "audience": 47.5,
+   "overrated": "accurately rated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 11,
+   "comedian_id": "pablo-francisco",
+   "name": "Pablo Francisco",
+   "composite": 64.2,
+   "legacy": 75.4,
+   "audience": 47.5,
+   "overrated": "accurately rated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 12,
+   "comedian_id": "amy-schumer",
+   "name": "Amy Schumer",
+   "composite": 63.7,
+   "legacy": 63.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 13,
+   "comedian_id": "aziz-ansari",
+   "name": "Aziz Ansari",
+   "composite": 59.3,
+   "legacy": 78.8,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 14,
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "composite": 56.9,
+   "legacy": 74.9,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 15,
+   "comedian_id": "david-cross",
+   "name": "David Cross",
+   "composite": 55.9,
+   "legacy": 55.9,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 16,
+   "comedian_id": "catherine-cohen",
+   "name": "Catherine Cohen",
+   "composite": 55.6,
+   "legacy": 72.6,
+   "audience": 30.0,
+   "overrated": "underrated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 17,
+   "comedian_id": "chelsea-handler",
+   "name": "Chelsea Handler",
+   "composite": 55.3,
+   "legacy": 72.1,
+   "audience": 30.0,
+   "overrated": "overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 18,
+   "comedian_id": "drew-michael",
+   "name": "Drew Michael",
+   "composite": 54.6,
+   "legacy": 71.0,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": null
+  },
+  {
+   "type_rank": 19,
+   "comedian_id": "jack-whitehall",
+   "name": "Jack Whitehall",
+   "composite": 53.2,
+   "legacy": 68.7,
+   "audience": 30.0,
+   "overrated": "massively overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 20,
+   "comedian_id": "jerrod-carmichael",
+   "name": "Jerrod Carmichael",
+   "composite": 52.9,
+   "legacy": 68.2,
+   "audience": 30.0,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 21,
+   "comedian_id": "dana-carvey",
+   "name": "Dana Carvey",
+   "composite": 50.8,
+   "legacy": 50.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 22,
+   "comedian_id": "moses-storm",
+   "name": "Moses Storm",
+   "composite": 49.9,
+   "legacy": 63.1,
+   "audience": 30.0,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 23,
+   "comedian_id": "phil-wang",
+   "name": "Phil Wang",
+   "composite": 49.2,
+   "legacy": 62.0,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 24,
+   "comedian_id": "sam-morril",
+   "name": "Sam Morril",
+   "composite": 48.2,
+   "legacy": 60.3,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 25,
+   "comedian_id": "trevor-noah",
+   "name": "Trevor Noah",
+   "composite": 46.9,
+   "legacy": 58.1,
+   "audience": 30.0,
+   "overrated": "massively overrated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 26,
+   "comedian_id": "adel-karam",
+   "name": "Adel Karam",
+   "composite": 46.4,
+   "legacy": 46.4,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 27,
+   "comedian_id": "donald-glover",
+   "name": "Donald Glover",
+   "composite": 46.2,
+   "legacy": 70.4,
+   "audience": 10.0,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 28,
+   "comedian_id": "al-madrigal",
+   "name": "Al Madrigal",
+   "composite": 45.8,
+   "legacy": 45.8,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 29,
+   "comedian_id": "marc-maron",
+   "name": "Marc Maron",
+   "composite": 44.5,
+   "legacy": 54.2,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 30,
+   "comedian_id": "patrice-o-neal",
+   "name": "Patrice O Neal",
+   "composite": 42.5,
+   "legacy": 64.2,
+   "audience": 10.0,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 31,
+   "comedian_id": "hannah-gadsby",
+   "name": "Hannah Gadsby",
+   "composite": 40.5,
+   "legacy": 47.5,
+   "audience": 30.0,
+   "overrated": "overrated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 32,
+   "comedian_id": "chelsea-peretti",
+   "name": "Chelsea Peretti",
+   "composite": 38.0,
+   "legacy": 38.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 33,
+   "comedian_id": "gabriel-iglesias",
+   "name": "Gabriel Iglesias",
+   "composite": 36.2,
+   "legacy": 53.6,
+   "audience": 10.0,
+   "overrated": "massively overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 34,
+   "comedian_id": "daniel-tosh",
+   "name": "Daniel Tosh",
+   "composite": 35.9,
+   "legacy": 53.1,
+   "audience": 10.0,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 35,
+   "comedian_id": "christina-pazsitzky",
+   "name": "Christina Pazsitzky",
+   "composite": 35.8,
+   "legacy": 35.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 36,
+   "comedian_id": "craig-ferguson",
+   "name": "Craig Ferguson",
+   "composite": 35.2,
+   "legacy": 35.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 37,
+   "comedian_id": "cristela-alonzo",
+   "name": "Cristela Alonzo",
+   "composite": 34.6,
+   "legacy": 34.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 38,
+   "comedian_id": "kathleen-madigan",
+   "name": "Kathleen Madigan",
+   "composite": 34.2,
+   "legacy": 50.3,
+   "audience": 10.0,
+   "overrated": "overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 39,
+   "comedian_id": "dave-attell",
+   "name": "Dave Attell",
+   "composite": 33.0,
+   "legacy": 33.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 40,
+   "comedian_id": "emily-heller",
+   "name": "Emily Heller",
+   "composite": 31.8,
+   "legacy": 31.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 41,
+   "comedian_id": "fahim-anwar",
+   "name": "Fahim Anwar",
+   "composite": 29.0,
+   "legacy": 29.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 42,
+   "comedian_id": "greg-davies",
+   "name": "Greg Davies",
+   "composite": 26.8,
+   "legacy": 26.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 43,
+   "comedian_id": "hans-kim",
+   "name": "Hans Kim",
+   "composite": 25.7,
+   "legacy": 25.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "twenties"
+  },
+  {
+   "type_rank": 44,
+   "comedian_id": "hasan-minhaj",
+   "name": "Hasan Minhaj",
+   "composite": 25.1,
+   "legacy": 25.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 45,
+   "comedian_id": "jen-kirkman",
+   "name": "Jen Kirkman",
+   "composite": 23.5,
+   "legacy": 23.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 46,
+   "comedian_id": "jimmy-o-yang",
+   "name": "Jimmy O Yang",
+   "composite": 21.8,
+   "legacy": 21.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 47,
+   "comedian_id": "judah-friedlander",
+   "name": "Judah Friedlander",
+   "composite": 20.1,
+   "legacy": 20.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 48,
+   "comedian_id": "kavin-jay",
+   "name": "Kavin Jay",
+   "composite": 19.6,
+   "legacy": 19.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 49,
+   "comedian_id": "lee-mack",
+   "name": "Lee Mack",
+   "composite": 17.9,
+   "legacy": 17.9,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 50,
+   "comedian_id": "michael-mcintyre",
+   "name": "Michael Mcintyre",
+   "composite": 14.5,
+   "legacy": 14.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 51,
+   "comedian_id": "michelle-wolf",
+   "name": "Michelle Wolf",
+   "composite": 14.0,
+   "legacy": 14.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 52,
+   "comedian_id": "nikki-glaser",
+   "name": "Nikki Glaser",
+   "composite": 12.8,
+   "legacy": 12.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 53,
+   "comedian_id": "pete-davidson",
+   "name": "Pete Davidson",
+   "composite": 12.3,
+   "legacy": 12.3,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 54,
+   "comedian_id": "ramy-youssef",
+   "name": "Ramy Youssef",
+   "composite": 10.6,
+   "legacy": 10.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 55,
+   "comedian_id": "ronny-chieng",
+   "name": "Ronny Chieng",
+   "composite": 9.5,
+   "legacy": 9.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 56,
+   "comedian_id": "russell-brand",
+   "name": "Russell Brand",
+   "composite": 8.4,
+   "legacy": 8.4,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 57,
+   "comedian_id": "russell-howard",
+   "name": "Russell Howard",
+   "composite": 7.8,
+   "legacy": 7.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 58,
+   "comedian_id": "sarah-millican",
+   "name": "Sarah Millican",
+   "composite": 6.7,
+   "legacy": 6.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 59,
+   "comedian_id": "seth-meyers",
+   "name": "Seth Meyers",
+   "composite": 5.6,
+   "legacy": 5.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 60,
+   "comedian_id": "t-j-miller",
+   "name": "T J Miller",
+   "composite": 4.5,
+   "legacy": 4.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 61,
+   "comedian_id": "todd-barry",
+   "name": "Todd Barry",
+   "composite": 2.8,
+   "legacy": 2.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 62,
+   "comedian_id": "todd-glass",
+   "name": "Todd Glass",
+   "composite": 2.2,
+   "legacy": 2.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 63,
+   "comedian_id": "urzila-carlson",
+   "name": "Urzila Carlson",
+   "composite": 1.7,
+   "legacy": 1.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 64,
+   "comedian_id": "w-kamau-bell",
+   "name": "W Kamau Bell",
+   "composite": 1.1,
+   "legacy": 1.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  }
+ ],
+ "crowd-improv": [
+  {
+   "type_rank": 1,
+   "comedian_id": "andrew-schulz",
+   "name": "Andrew Schulz",
+   "composite": 44.7,
+   "legacy": 44.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "cam-patterson",
+   "name": "Cam Patterson",
+   "composite": 39.1,
+   "legacy": 39.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "twenties"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "mark-normand",
+   "name": "Mark Normand",
+   "composite": 16.8,
+   "legacy": 16.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "william-montgomery",
+   "name": "William Montgomery",
+   "composite": 0.6,
+   "legacy": 0.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "twenties"
+  }
+ ],
+ "clean-everyman": [
+  {
+   "type_rank": 1,
+   "comedian_id": "ray-romano",
+   "name": "Ray Romano",
+   "composite": 91.1,
+   "legacy": 91.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "nate-bargatze",
+   "name": "Nate Bargatze",
+   "composite": 75.0,
+   "legacy": 81.6,
+   "audience": 65.0,
+   "overrated": "overrated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "jeff-foxworthy",
+   "name": "Jeff Foxworthy",
+   "composite": 69.6,
+   "legacy": 84.4,
+   "audience": 47.5,
+   "overrated": "accurately rated",
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "tig-notaro",
+   "name": "Tig Notaro",
+   "composite": 59.8,
+   "legacy": 59.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 5,
+   "comedian_id": "brian-regan",
+   "name": "Brian Regan",
+   "composite": 55.9,
+   "legacy": 73.2,
+   "audience": 30.0,
+   "overrated": "accurately rated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 6,
+   "comedian_id": "fortune-feimster",
+   "name": "Fortune Feimster",
+   "composite": 53.6,
+   "legacy": 69.3,
+   "audience": 30.0,
+   "overrated": "overrated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 7,
+   "comedian_id": "jim-gaffigan",
+   "name": "Jim Gaffigan",
+   "composite": 52.6,
+   "legacy": 67.6,
+   "audience": 30.0,
+   "overrated": "massively overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 8,
+   "comedian_id": "joe-list",
+   "name": "Joe List",
+   "composite": 52.2,
+   "legacy": 67.0,
+   "audience": 30.0,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 9,
+   "comedian_id": "kevin-james",
+   "name": "Kevin James",
+   "composite": 52.0,
+   "legacy": 52.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 10,
+   "comedian_id": "kate-berlant",
+   "name": "Kate Berlant",
+   "composite": 51.9,
+   "legacy": 66.5,
+   "audience": 30.0,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 11,
+   "comedian_id": "sarah-cooper",
+   "name": "Sarah Cooper",
+   "composite": 47.5,
+   "legacy": 59.2,
+   "audience": 30.0,
+   "overrated": null,
+   "generation": "twenties"
+  },
+  {
+   "type_rank": 12,
+   "comedian_id": "tom-papa",
+   "name": "Tom Papa",
+   "composite": 47.2,
+   "legacy": 58.7,
+   "audience": 30.0,
+   "overrated": "overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 13,
+   "comedian_id": "andy-woodhull",
+   "name": "Andy Woodhull",
+   "composite": 44.1,
+   "legacy": 44.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 14,
+   "comedian_id": "anjelah-johnson",
+   "name": "Anjelah Johnson",
+   "composite": 43.6,
+   "legacy": 43.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 15,
+   "comedian_id": "chris-gethard",
+   "name": "Chris Gethard",
+   "composite": 36.9,
+   "legacy": 36.9,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 16,
+   "comedian_id": "dave-allen",
+   "name": "Dave Allen",
+   "composite": 33.5,
+   "legacy": 33.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "pioneers"
+  },
+  {
+   "type_rank": 17,
+   "comedian_id": "enissa-amani",
+   "name": "Enissa Amani",
+   "composite": 30.7,
+   "legacy": 30.7,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 18,
+   "comedian_id": "fred-armisen",
+   "name": "Fred Armisen",
+   "composite": 28.5,
+   "legacy": 28.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 19,
+   "comedian_id": "henry-rollins",
+   "name": "Henry Rollins",
+   "composite": 24.6,
+   "legacy": 24.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 20,
+   "comedian_id": "maz-jobrani",
+   "name": "Maz Jobrani",
+   "composite": 15.1,
+   "legacy": 15.1,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 21,
+   "comedian_id": "sara-pascoe",
+   "name": "Sara Pascoe",
+   "composite": 7.3,
+   "legacy": 7.3,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  }
+ ],
+ "roast": [
+  {
+   "type_rank": 1,
+   "comedian_id": "joan-rivers",
+   "name": "Joan Rivers",
+   "composite": 95.5,
+   "legacy": 95.5,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "michael-che",
+   "name": "Michael Che",
+   "composite": 69.9,
+   "legacy": 79.9,
+   "audience": 55.0,
+   "overrated": "accurately rated",
+   "generation": "tens"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "anthony-jeselnik",
+   "name": "Anthony Jeselnik",
+   "composite": 43.0,
+   "legacy": 43.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  }
+ ],
+ "storytelling": [
+  {
+   "type_rank": 1,
+   "comedian_id": "dave-chappelle",
+   "name": "Dave Chappelle",
+   "composite": 92.7,
+   "legacy": 97.8,
+   "audience": 85.0,
+   "overrated": "accurately rated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "john-mulaney",
+   "name": "John Mulaney",
+   "composite": 82.0,
+   "legacy": 88.3,
+   "audience": 72.5,
+   "overrated": "accurately rated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "bert-kreischer",
+   "name": "Bert Kreischer",
+   "composite": 71.6,
+   "legacy": 81.0,
+   "audience": 57.5,
+   "overrated": "overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "mike-birbiglia",
+   "name": "Mike Birbiglia",
+   "composite": 33.5,
+   "legacy": 49.2,
+   "audience": 10.0,
+   "overrated": "massively overrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 5,
+   "comedian_id": "gary-gulman",
+   "name": "Gary Gulman",
+   "composite": 27.9,
+   "legacy": 27.9,
+   "audience": null,
+   "overrated": null,
+   "generation": null
+  },
+  {
+   "type_rank": 6,
+   "comedian_id": "shane-gillis",
+   "name": "Shane Gillis",
+   "composite": 5.0,
+   "legacy": 5.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  }
+ ],
+ "rant": [
+  {
+   "type_rank": 1,
+   "comedian_id": "george-carlin",
+   "name": "George Carlin",
+   "composite": 93.6,
+   "legacy": 99.4,
+   "audience": 85.0,
+   "overrated": "underrated",
+   "generation": "seventies"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "bill-hicks",
+   "name": "Bill Hicks",
+   "composite": 93.0,
+   "legacy": 96.7,
+   "audience": 87.5,
+   "overrated": "massively underrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "bill-burr",
+   "name": "Bill Burr",
+   "composite": 83.3,
+   "legacy": 88.8,
+   "audience": 75.0,
+   "overrated": "accurately rated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "lenny-bruce",
+   "name": "Lenny Bruce",
+   "composite": 70.7,
+   "legacy": 96.1,
+   "audience": 32.5,
+   "overrated": "underrated",
+   "generation": "pioneers"
+  },
+  {
+   "type_rank": 5,
+   "comedian_id": "dylan-moran",
+   "name": "Dylan Moran",
+   "composite": 64.9,
+   "legacy": 76.5,
+   "audience": 47.5,
+   "overrated": "underrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 6,
+   "comedian_id": "jim-jefferies",
+   "name": "Jim Jefferies",
+   "composite": 46.9,
+   "legacy": 54.8,
+   "audience": 35.0,
+   "overrated": "overrated",
+   "generation": null
+  },
+  {
+   "type_rank": 7,
+   "comedian_id": "doug-stanhope",
+   "name": "Doug Stanhope",
+   "composite": 34.8,
+   "legacy": 51.4,
+   "audience": 10.0,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 8,
+   "comedian_id": "sebastian-maniscalco",
+   "name": "Sebastian Maniscalco",
+   "composite": 32.8,
+   "legacy": 48.0,
+   "audience": 10.0,
+   "overrated": "massively overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 9,
+   "comedian_id": "greg-giraldo",
+   "name": "Greg Giraldo",
+   "composite": 26.3,
+   "legacy": 26.3,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  }
+ ],
+ "meta": [
+  {
+   "type_rank": 1,
+   "comedian_id": "bo-burnham",
+   "name": "Bo Burnham",
+   "composite": 91.3,
+   "legacy": 92.2,
+   "audience": 90.0,
+   "overrated": "accurately rated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "stewart-lee",
+   "name": "Stewart Lee",
+   "composite": 85.9,
+   "legacy": 84.9,
+   "audience": 87.5,
+   "overrated": "massively underrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "james-acaster",
+   "name": "James Acaster",
+   "composite": 24.0,
+   "legacy": 24.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  }
+ ],
+ "absurdist": [
+  {
+   "type_rank": 1,
+   "comedian_id": "steven-wright",
+   "name": "Steven Wright",
+   "composite": 95.0,
+   "legacy": 95.0,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "norm-macdonald",
+   "name": "Norm Macdonald",
+   "composite": 74.9,
+   "legacy": 83.2,
+   "audience": 62.5,
+   "overrated": "underrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "mitch-hedberg",
+   "name": "Mitch Hedberg",
+   "composite": 46.9,
+   "legacy": 78.2,
+   "audience": 0,
+   "overrated": "overrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "casey-rocket",
+   "name": "Casey Rocket",
+   "composite": 38.6,
+   "legacy": 38.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "twenties"
+  }
+ ],
+ "one-liner": [
+  {
+   "type_rank": 1,
+   "comedian_id": "rodney-dangerfield",
+   "name": "Rodney Dangerfield",
+   "composite": 93.8,
+   "legacy": 93.8,
+   "audience": null,
+   "overrated": null,
+   "generation": "pioneers"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "demetri-martin",
+   "name": "Demetri Martin",
+   "composite": 73.3,
+   "legacy": 82.1,
+   "audience": 60.0,
+   "overrated": "underrated",
+   "generation": "aughts"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "jimmy-carr",
+   "name": "Jimmy Carr",
+   "composite": 22.4,
+   "legacy": 22.4,
+   "audience": null,
+   "overrated": null,
+   "generation": "aughts"
+  }
+ ],
+ "character": [
+  {
+   "type_rank": 1,
+   "comedian_id": "eddie-izzard",
+   "name": "Eddie Izzard",
+   "composite": 91.0,
+   "legacy": 91.6,
+   "audience": 90.0,
+   "overrated": "underrated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "robin-williams",
+   "name": "Robin Williams",
+   "composite": 80.0,
+   "legacy": 98.3,
+   "audience": 52.5,
+   "overrated": "accurately rated",
+   "generation": "seventies"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "maria-bamford",
+   "name": "Maria Bamford",
+   "composite": 58.2,
+   "legacy": 55.3,
+   "audience": 62.5,
+   "overrated": null,
+   "generation": "aughts"
+  }
+ ],
+ "surreal": [
+  {
+   "type_rank": 1,
+   "comedian_id": "hannibal-buress",
+   "name": "Hannibal Buress",
+   "composite": 49.8,
+   "legacy": 56.4,
+   "audience": 40.0,
+   "overrated": "underrated",
+   "generation": null
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "emo-philips",
+   "name": "Emo Philips",
+   "composite": 31.3,
+   "legacy": 31.3,
+   "audience": null,
+   "overrated": null,
+   "generation": "eighties-boom"
+  },
+  {
+   "type_rank": 3,
+   "comedian_id": "matt-mccusker",
+   "name": "Matt McCusker",
+   "composite": 15.6,
+   "legacy": 15.6,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  },
+  {
+   "type_rank": 4,
+   "comedian_id": "sean-lock",
+   "name": "Sean Lock",
+   "composite": 6.2,
+   "legacy": 6.2,
+   "audience": null,
+   "overrated": null,
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 5,
+   "comedian_id": "theo-von",
+   "name": "Theo Von",
+   "composite": 3.9,
+   "legacy": 3.9,
+   "audience": null,
+   "overrated": null,
+   "generation": "tens"
+  }
+ ],
+ "provocateur": [
+  {
+   "type_rank": 1,
+   "comedian_id": "sarah-silverman",
+   "name": "Sarah Silverman",
+   "composite": 69.3,
+   "legacy": 83.8,
+   "audience": 47.5,
+   "overrated": "accurately rated",
+   "generation": "nineties"
+  },
+  {
+   "type_rank": 2,
+   "comedian_id": "ricky-gervais",
+   "name": "Ricky Gervais",
+   "composite": 41.2,
+   "legacy": 48.6,
+   "audience": 30.0,
+   "overrated": "massively overrated",
+   "generation": "aughts"
+  }
+ ]
+}
