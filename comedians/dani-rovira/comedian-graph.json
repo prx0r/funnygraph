@@ -1,116 +1,116 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "dani-rovira",
- "name": "Dani Rovira",
- "tier": "indie",
- "region": "spain",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/latam-es",
- "note": "Club de la Comedia breakout. Arena act, Gila tribute core cast.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-latam-es",
-   "press"
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "dani-rovira",
+  "name": "Dani Rovira",
+  "tier": "indie",
+  "region": "spain",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/latam-es",
+  "note": "Club de la Comedia breakout. Arena act, Gila tribute core cast.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "curated-latam-es",
+      "press"
+    ],
+    "discovery_note": "Club de la Comedia breakout. Arena act, Gila tribute core cast."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "europe",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 26.2,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "adel-karam",
+      "sim": 0.082
+    },
+    {
+      "comedian_id": "maria-bamford",
+      "sim": 0.053
+    },
+    {
+      "comedian_id": "ricky-gervais",
+      "sim": 0.049
+    }
   ],
-  "discovery_note": "Club de la Comedia breakout. Arena act, Gila tribute core cast."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "europe",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 26.2,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "adel-karam",
-   "sim": 0.082
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
   },
-  {
-   "comedian_id": "maria-bamford",
-   "sim": 0.053
+  "youtube_channel": {
+    "id": "UCNu_-iWrBqPU-vqYRtlCXcA",
+    "handle": "danirovira",
+    "title": "Dani Rovira",
+    "subs": 2,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
   },
-  {
-   "comedian_id": "ricky-gervais",
-   "sim": 0.049
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "adel-karam",
+    "sim": 0.082,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
-  },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UCNu_-iWrBqPU-vqYRtlCXcA",
-  "handle": "danirovira",
-  "title": "Dani Rovira",
-  "subs": 2,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "status": "dormant",
-  "checked": "2026-10-17",
-  "clips": 0,
-  "newest_upload": "",
-  "name_match_rate": 0.0,
-  "other_names": []
- },
- "style_tags": {
-  "humor_type": "observational",
-  "theories": [],
-  "via": "adel-karam",
-  "sim": 0.082,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

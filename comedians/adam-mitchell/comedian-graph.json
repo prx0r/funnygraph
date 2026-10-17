@@ -1,53 +1,116 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "adam-mitchell",
- "name": "Adam Mitchell",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "venue-roster:on-the-mic"
-  ],
-  "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
-  "evidence": [
-   {
-    "roster": "https://www.onthemic.co.uk/comedians/?letter=A",
-    "venue": "on-the-mic",
-    "profile": "https://www.onthemic.co.uk/comedians_list/adam-mitchell/"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "adam-mitchell",
+  "name": "Adam Mitchell",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "nearest_greats": []
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "venue-roster:on-the-mic"
+    ],
+    "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
+    "evidence": [
+      {
+        "roster": "https://www.onthemic.co.uk/comedians/?letter=A",
+        "venue": "on-the-mic",
+        "profile": "https://www.onthemic.co.uk/comedians_list/adam-mitchell/"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Adam Mitchell is a stand up comedian based in the UK. He is one half of double act \u2018Hitch and Mitch\u2019 with Richard Hanrahan. Adam reached the finals of the 2012 Chortle Student Comedy awards. Not to be confused with the Canadian comedian, or the English actor of the same name. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you a",
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/adam-mitchell/",
+    "otm_enriched": true
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "nearest_greats": [],
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/HitchandMitch/",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/onthemicuk/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
+  }
 }

@@ -1,132 +1,132 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "jiaoying-summers",
- "name": "Jiaoying Summers",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "Completed hour, self-built tour",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "gold-2026"
-  ],
-  "discovery_note": "Completed hour, self-built tour"
- },
- "theory_score": null,
- "nearest_greats": [
-  {
-   "comedian_id": "joe-list",
-   "sim": 0.079
-  },
-  {
-   "comedian_id": "jim-norton",
-   "sim": 0.078
-  },
-  {
-   "comedian_id": "joan-rivers",
-   "sim": 0.068
-  }
- ],
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "jiaoying-summers",
+  "name": "Jiaoying Summers",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 60.7,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "Completed hour, self-built tour",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UC6tI7PwweyR3TQlsMTR1zWg",
-  "handle": "jiaoyingsummers",
-  "title": "Jiaoying Summers",
-  "subs": 530000,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "status": "variety",
-  "checked": "2026-10-17",
-  "clips": 100,
-  "newest_upload": "2026-10-16",
-  "name_match_rate": 0.55,
-  "other_names": [
-   "Aussie Chinese",
-   "Golden Showers",
-   "Jenny Tian",
-   "Kaila Yu"
-  ]
- },
- "website": {
-  "url": "https://jiaoyingsummers.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "style_tags": {
-  "humor_type": "clean-everyman",
-  "theories": [
-   "benign_violation",
-   "incongruity",
-   "status_reversal"
+  "discovery": {
+    "discovered_from": [
+      "gold-2026"
+    ],
+    "discovery_note": "Completed hour, self-built tour"
+  },
+  "theory_score": null,
+  "nearest_greats": [
+    {
+      "comedian_id": "joe-list",
+      "sim": 0.079
+    },
+    {
+      "comedian_id": "jim-norton",
+      "sim": 0.078
+    },
+    {
+      "comedian_id": "joan-rivers",
+      "sim": 0.068
+    }
   ],
-  "via": "joe-list",
-  "sim": 0.079,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 60.7,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UC6tI7PwweyR3TQlsMTR1zWg",
+    "handle": "jiaoyingsummers",
+    "title": "Jiaoying Summers",
+    "subs": 530000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-16",
+    "name_match_rate": 0.55,
+    "other_names": [
+      "Aussie Chinese",
+      "Golden Showers",
+      "Jenny Tian",
+      "Kaila Yu"
+    ]
+  },
+  "website": {
+    "url": "https://jiaoyingsummers.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "via": "joe-list",
+    "sim": 0.079,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

@@ -1,126 +1,126 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "sarah-tiana",
- "name": "Sarah Tiana",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "youtube-uploads:dont-tell-comedy"
-  ],
-  "discovery_note": "Name-mined from dont-tell-comedy uploads (registry playlist, no search).",
-  "evidence": [
-   {
-    "videoId": "Lyi7Kg446EI",
-    "title": "\"Young vs. Old Moms\" \ud83c\udfa4: Sarah Tiana | @sarahtiana | Full Video on our Channel!",
-    "views": 1782065,
-    "publishedAt": "2026-08-24"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)",
-  "region_method": "venue-scene (overwrite on origin evidence)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "sarah-tiana",
+  "name": "Sarah Tiana",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 51.0,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UCApLLKkcilfSL49b_q-sJGA",
-  "handle": "sarahtiana",
-  "title": "Sarah Tiana",
-  "subs": 5410,
-  "via": "handle",
-  "source": "discover.py --link-channels (verified, no search)",
-  "status": "active",
-  "checked": "2026-10-17",
-  "clips": 100,
-  "newest_upload": "2026-10-12",
-  "name_match_rate": 0.69,
-  "other_names": [
-   "Dawn Staley",
-   "Geno Auriemma"
-  ]
- },
- "nearest_greats": [
-  {
-   "comedian_id": "sarah-cooper",
-   "sim": 0.065
+  "discovery": {
+    "discovered_from": [
+      "youtube-uploads:dont-tell-comedy"
+    ],
+    "discovery_note": "Name-mined from dont-tell-comedy uploads (registry playlist, no search).",
+    "evidence": [
+      {
+        "videoId": "Lyi7Kg446EI",
+        "title": "\"Young vs. Old Moms\" \ud83c\udfa4: Sarah Tiana | @sarahtiana | Full Video on our Channel!",
+        "views": 1782065,
+        "publishedAt": "2026-08-24"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "region_method": "venue-scene (overwrite on origin evidence)"
   },
-  {
-   "comedian_id": "stewart-lee",
-   "sim": 0.055
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
   },
-  {
-   "comedian_id": "anthony-jeselnik",
-   "sim": 0.045
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 51.0,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCApLLKkcilfSL49b_q-sJGA",
+    "handle": "sarahtiana",
+    "title": "Sarah Tiana",
+    "subs": 5410,
+    "via": "handle",
+    "source": "discover.py --link-channels (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-12",
+    "name_match_rate": 0.69,
+    "other_names": [
+      "Dawn Staley",
+      "Geno Auriemma"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "sarah-cooper",
+      "sim": 0.065
+    },
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.055
+    },
+    {
+      "comedian_id": "anthony-jeselnik",
+      "sim": 0.045
+    }
+  ],
+  "region": "us",
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [],
+    "via": "sarah-cooper",
+    "sim": 0.065,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "region": "us",
- "style_tags": {
-  "humor_type": "clean-everyman",
-  "theories": [],
-  "via": "sarah-cooper",
-  "sim": 0.065,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

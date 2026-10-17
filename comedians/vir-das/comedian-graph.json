@@ -277,15 +277,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 77.0,
-    "legacy_era": 88.5,
+    "legacy": 83.6,
+    "legacy_era": 91.8,
     "audience": 85.0,
     "popularity": 64.1,
     "theory": 25.0,
     "heat": null,
     "gap_value": -0.209,
     "overrated": "underrated",
-    "canon_lag": 0.08
+    "canon_lag": 0.014
   },
   "tier": "king",
   "region": "india",
@@ -331,17 +331,12 @@
     ]
   },
   "rating": {
-    "headline": 0.9,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 66.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
     "boards": {
       "house": {
-        "rank": 112,
-        "pct": 0.9,
-        "sweep": [
-          112,
-          112
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 69,
@@ -361,11 +356,8 @@
         "ref": true
       }
     },
-    "interval": {
-      "lo": 112,
-      "hi": 112
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "recognition": {

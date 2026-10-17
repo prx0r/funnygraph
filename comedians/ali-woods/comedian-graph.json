@@ -1,119 +1,149 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "ali-woods",
- "name": "Ali Woods",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "venue-roster:angel-comedy"
-  ],
-  "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
-  "evidence": [
-   {
-    "roster": "https://www.angelcomedy.co.uk/comedians/",
-    "venue": "angel-comedy"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)",
-  "region_method": "venue-scene (overwrite on origin evidence)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "ali-woods",
+  "name": "Ali Woods",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 9.0,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UCkZ7E_ER0rPLFMrkqlfihcA",
-  "handle": "AliWoods",
-  "title": "aliwoods",
-  "subs": 1,
-  "via": "forHandle-verified",
-  "source": "UK push Angel bios (verified, no search)"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "stewart-lee",
-   "sim": 0.064
+  "discovery": {
+    "discovered_from": [
+      "venue-roster:angel-comedy"
+    ],
+    "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
+    "evidence": [
+      {
+        "roster": "https://www.angelcomedy.co.uk/comedians/",
+        "venue": "angel-comedy"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "region_method": "venue-scene (overwrite on origin evidence)",
+    "bio_note": "Ali is a half-English, half-Scottish Londoner and stand up comedian. He has appeared on both TalkRadio and TalkSport, and contributed to sketches for BBC Three. He supported comedian Russell Kane on tour. Ali co-hosts the comedy podcast All I Do Is Fail with comedian Tom Elwes. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Origin Story: Ali Woods On The Mic Monday, June 3rd, 2024 LISTEN HERE Ali Woods On The Mic Wednesday, June 22nd, 2022 READ INTERVIEW Ali Woods TikiTok Ali Woods All I Do Is Fail podcast Sed cursus eget risus non vestibulum. Sed in molestie elit,",
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/ali-woods/",
+    "otm_enriched": true
   },
-  {
-   "comedian_id": "bo-burnham",
-   "sim": 0.037
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
   },
-  {
-   "comedian_id": "trevor-noah",
-   "sim": 0.025
-  }
- ],
- "region": "uk",
- "style_tags": {
-  "humor_type": "meta",
-  "theories": [
-   "rigidity",
-   "bisociation",
-   "status_reversal"
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 9.0,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCkZ7E_ER0rPLFMrkqlfihcA",
+    "handle": "AliWoods",
+    "title": "aliwoods",
+    "subs": 1,
+    "via": "forHandle-verified",
+    "source": "UK push Angel bios (verified, no search)"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.064
+    },
+    {
+      "comedian_id": "bo-burnham",
+      "sim": 0.037
+    },
+    {
+      "comedian_id": "trevor-noah",
+      "sim": 0.025
+    }
   ],
-  "via": "stewart-lee",
-  "sim": 0.064,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "region": "uk",
+  "style_tags": {
+    "humor_type": "meta",
+    "theories": [
+      "rigidity",
+      "bisociation",
+      "status_reversal"
+    ],
+    "via": "stewart-lee",
+    "sim": 0.064,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "socials": {
+    "instagram": {
+      "url": "https://instagram.com/aliwoodsgigs",
+      "source": "otm-profile"
+    },
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://vm.tiktok.com/ZMLg8vw7r/",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "https://www.aliwoodsgigs.com/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  }
 }

@@ -1,102 +1,102 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "mary-beth-barone",
- "name": "Mary Beth Barone",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "deadline-2026"
-  ],
-  "discovery_note": "Netflix hour Galaxy Brain taping Mar, Pillow Talk club tour"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "mary-beth-barone",
+  "name": "Mary Beth Barone",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "andrew-schulz",
-   "sim": 0.074
+  "discovery": {
+    "discovered_from": [
+      "deadline-2026"
+    ],
+    "discovery_note": "Netflix hour Galaxy Brain taping Mar, Pillow Talk club tour"
   },
-  {
-   "comedian_id": "neal-brennan",
-   "sim": 0.064
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
   },
-  {
-   "comedian_id": "emo-philips",
-   "sim": 0.057
-  }
- ],
- "style_tags": {
-  "humor_type": "crowd-improv",
-  "theories": [
-   "status_reversal",
-   "benign_violation",
-   "incongruity"
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "andrew-schulz",
+      "sim": 0.074
+    },
+    {
+      "comedian_id": "neal-brennan",
+      "sim": 0.064
+    },
+    {
+      "comedian_id": "emo-philips",
+      "sim": 0.057
+    }
   ],
-  "via": "andrew-schulz",
-  "sim": 0.074,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "status_reversal",
+      "benign_violation",
+      "incongruity"
+    ],
+    "via": "andrew-schulz",
+    "sim": 0.074,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

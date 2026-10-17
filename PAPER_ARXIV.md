@@ -536,7 +536,7 @@ not narrow, as regimes grow (else regimes are correlated theater).
 
 ## 7. Limitations
 
-Two frozen critics inputs (newest 2017); n=16 fitting set (bootstrap CI
+Two frozen critics inputs (newest 2017); n=29 fitting set (bootstrap CI
 scheduled); BT strengths uncalibrated; Kemenization cost unweighted;
 IMDb/awards/YouTube skews (§4.3–4.4); arena leg empty; non-English thin;
 stability is regime-based, not sampling-based; single-author theory

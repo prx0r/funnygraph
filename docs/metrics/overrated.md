@@ -23,7 +23,7 @@ Numeric `gap_value` kept alongside for transparency; the band is the display.
 
 ## Live readings (v0.1)
 - Overrated: Fluffy +0.83, Sebastian +0.73 (massive reach, modest ratings)
-- Underrated: Hicks −0.75, Stewart Lee −0.70 (beloved, unwatched)
+- Underrated: Hicks −0.70, Stewart Lee −0.70 (beloved, unwatched)
 - Balanced: Burr/Chappelle ±0.07 (as big as they are good)
 
 ## Justification

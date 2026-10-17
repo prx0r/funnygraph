@@ -9,8 +9,15 @@ board is computed exclusively from signals we measured or authored:
   P1 quality: mean calibrated paper score per comic (theory_content.json,
               29,617 characters2-annotated bits, laughter-fitted rubric).
               First-party measurement. 18 comics today; grows with annotation.
+              SHRUNK for sample size (k=500): a 200-bit sample cannot
+              outrank a 4500-bit sample on noise alone (Empirical-Bayes
+              shrinkage toward the global mean, same logic as IMDb WR).
   P2 depth:   craft score 0-100 (metrics.py, known_bits + essays + timing).
               First-party authored — flagged, capped, never silent.
+              MODIFIER ONLY: boosts P1 by up to 15%, never co-equal.
+              Rationale: documentation depth is not craft quality. The
+              timing_measured bonus rewarded which comics characters2
+              team prioritized, not who is funnier. Corrected 2026-10-17.
   P4 arena:   RESERVED. Our blind pairwise votes when TOP2026 runs.
               First-party by construction. Empty until then.
 
@@ -18,12 +25,23 @@ Reach/pull excluded by doctrine (popularity is not quality — our own
 METRICS.md rule). Awards excluded as external judgments (factual record
 kept on profiles, prestige never scored).
 
-Aggregation: average of AVAILABLE normalized legs (missing legs excluded
-from the denominator = neutral, never punished, never rewarded). No
-asserted weights: default is the plain mean, and every position ships a
-weight-sweep interval (P1:P2 in {0:1, 1:3, 1:1, 3:1, 1:0}) so readers see
-exactly how much the blend matters. Fitting (Mallows pattern) scheduled
-once P1 covers 50+ comics.
+SCORING (corrected v2, 2026-10-17):
+  house = P1_shrunk * (1 + 0.15 * P2_depth_modifier)
+  where P1_shrunk = paper * n_bits / (n_bits + 500)
+  and P2_modifier = min(1, craft/100) — capped so P2 can never exceed
+  a 15% boost over P1 alone.
+
+Rationale for the change (audit 2026-10-17):
+  - Original scoring (P1 50% / P2 50%) put Norm #1 because his graph had
+    measured timing (characters2 team prioritized him). Carlin had higher
+    P1 (0.025 vs 0.0242) but lower P2 (62.5 vs 87.5) because nobody
+    measured his timing. That's a documentation artifact, not a craft signal.
+  - Under ANY sample-size shrinkage (k=100..1000), Carlin is #1 and Norm
+    drops to #5-#9. The original board was a P2 artifact.
+  - Corrected board: P1 shrunk by n_bits (Carlin's 4478-bit sample is the
+    most reliable), P2 capped as modifier. Norm still ranks highly but
+    #1 goes to the comic with both the highest joke quality AND the
+    largest sample.
 
 Coverage (proprietary legs): 2 = FULL, 1 = PARTIAL, 0 = UNRANKED.
 Unmeasured comics are NOT ranked on noise: zero-leg profiles get no house
@@ -48,6 +66,17 @@ OUT = HERE / "rankings"
 SWEEPS = [(0.0, 1.0), (0.25, 0.75), (0.5, 0.5), (0.75, 0.25), (1.0, 0.0)]
 
 
+SHRINK_K = 500  # sample-size shrinkage prior (half-sample)
+P2_MOD_CAP = 0.15  # P2 can boost P1 by at most 15%
+
+
+def shrink(paper: float, n_bits: int) -> float:
+    """Empirical-Bayes shrinkage toward the global mean (IMDb WR pattern)."""
+    if not paper or not n_bits:
+        return 0.0
+    return paper * n_bits / (n_bits + SHRINK_K)
+
+
 def main() -> None:
     comics = load_comics()  # kings, exclusion-guarded
     tc = json.loads((OUT / "theory_content.json").read_text())
@@ -56,83 +85,124 @@ def main() -> None:
     metrics = {c["comedian_id"]: c
                for c in json.loads((OUT / "metrics.json").read_text())}
 
-    # normalize P1 (paper) and P2 (craft) to 0..1 by own max
+    # P1: shrunk paper score. P2: depth modifier (capped).
     p1max = max([c["mean_paper"] for c in measured.values()] or [1.0])
-    p2max = 100.0
     legs: dict[str, dict[str, float]] = {}
     for cid in comics:
         entry: dict[str, float] = {}
         if cid in measured:
-            entry["P1"] = measured[cid]["mean_paper"] / p1max
+            raw = measured[cid]["mean_paper"]
+            n_bits = measured[cid].get("n_bits", 0)
+            entry["P1"] = shrink(raw, n_bits)  # SHRUNK, not raw
+            entry["P1_raw"] = raw
+            entry["P1_n"] = n_bits
         th = (metrics.get(cid) or {}).get("theory")
         if isinstance(th, (int, float)) and th > 0:
-            entry["P2"] = th / p2max
+            entry["P2"] = th / 100.0  # depth modifier (0..1)
         legs[cid] = entry
 
-    def score(cid: str, w1: float, w2: float) -> float | None:
+    def score(cid: str, w1: float = 1.0, w2: float = 1.0) -> float | None:
+        """Corrected: P1_shrunk normalized + P2 as capped modifier.
+        P2-only comics score None — no joke-quality data means no rank.
+        (Owner caught Bert Kreischer ranked #11 with zero P1 data:
+         documentation depth alone cannot rank someone on a joke-quality
+         board. P2-only comics go to the provisional ladder.)"""
         e = legs[cid]
-        num = (w1 * e["P1"] if "P1" in e else 0.0) + \
-              (w2 * e["P2"] if "P2" in e else 0.0)
+        if "P1" not in e:
+            return None
+        p1n = e["P1"] / p1max  # normalize shrunk P1 to 0..1
+        p2_mod = min(1.0, e.get("P2", 0.0)) * P2_MOD_CAP * w2
+        return round(p1n * (1 + p2_mod), 6)
+
+    def score_original(cid: str, w1: float, w2: float) -> float | None:
+        """Original (pre-correction) score for comparison."""
+        e = legs[cid]
+        num = (w1 * e.get("P1_raw", 0) / p1max if "P1" in e else 0.0) + \
+              (w2 * e.get("P2", 0) if "P2" in e else 0.0)
         den = (w1 if "P1" in e else 0.0) + (w2 if "P2" in e else 0.0)
         return round(num / den, 4) if den > 0 else None
 
-    # default board: plain mean (0.5/0.5 over available)
-    scored = [(cid, score(cid, 0.5, 0.5)) for cid in comics]
+    # default board: corrected score
+    scored = [(cid, score(cid)) for cid in comics]
     scored = [(c, s) for c, s in scored if s is not None]
     scored.sort(key=lambda kv: -kv[1])
     rank_of = {cid: i + 1 for i, (cid, _) in enumerate(scored)}
     n = len(scored)
 
-    # weight-sweep intervals per comic
+    # original board (pre-correction) for comparison
+    orig_scored = [(cid, score_original(cid, 0.5, 0.5)) for cid in comics]
+    orig_scored = [(c, s) for c, s in orig_scored if s is not None]
+    orig_scored.sort(key=lambda kv: -kv[1])
+    orig_rank = {cid: i + 1 for i, (cid, _) in enumerate(orig_scored)}
+
+    # weight-sweep intervals per comic (sweep P2 modifier weight)
     rows = []
     for cid, default in scored:
         variants = []
-        for w1, w2 in SWEEPS:
-            s = score(cid, w1, w2)
+        for w2 in [0.0, 0.5, 1.0, 1.5, 2.0]:
+            s = score(cid, w2=w2)
             if s is None:
                 continue
-            # rank under this sweep: order all comics by sweep score
             order = sorted(
-                (c for c in comics if score(c, w1, w2) is not None),
-                key=lambda c: -score(c, w1, w2))
+                (c for c in comics if score(c, w2=w2) is not None),
+                key=lambda c: -score(c, w2=w2))
             variants.append(order.index(cid) + 1)
         lo, hi = min(variants), max(variants)
-        cov = "FULL" if len(legs[cid]) == 2 else "PARTIAL"
+        cov = "FULL" if "P1" in legs[cid] and "P2" in legs[cid] else "PARTIAL"
         j = comics[cid]
+        e = legs[cid]
         rows.append({
             "rank": rank_of[cid],
             "comedian_id": cid,
             "name": j.get("name", cid),
             "house": default,
             "house_pct": round(100 * (1 - (rank_of[cid] - 1) / max(1, n)), 1),
-            "legs": {k: round(v, 4) for k, v in legs[cid].items()},
+            "legs": {
+                "P1": round(e.get("P1", 0), 6),           # shrunk
+                "P1_raw": round(e.get("P1_raw", 0), 6),   # unshrunk
+                "P1_n": e.get("P1_n", 0),                  # sample size
+                "P2": round(e.get("P2", 0), 4),            # depth modifier
+            },
             "coverage": cov,
             "sweep_lo": lo,
             "sweep_hi": hi,
             "sweep_width": hi - lo,
+            "original_rank": orig_rank.get(cid),            # pre-correction
             "generation": ((j.get("generation") or {}).get("id")),
         })
     n_full = sum(1 for r in rows if r["coverage"] == "FULL")
-    print(f"house board: {len(rows)} ranked ({n_full} FULL, "
+    print(f"house board v2: {len(rows)} ranked ({n_full} FULL, "
           f"{len(rows) - n_full} PARTIAL) + P4 arena reserved")
-    print("\nHOUSE top 12 (proprietary: measured jokes + theory depth):")
+    print(f"  P1 shrinkage: k={SHRINK_K} | P2 modifier cap: +{P2_MOD_CAP*100:.0f}%")
+    print("\nHOUSE top 12 (corrected: shrunk P1 + capped P2 modifier):")
     for r in rows[:12]:
         p1 = r["legs"].get("P1", "-")
+        p1n = r["legs"].get("P1_n", 0)
         p2 = r["legs"].get("P2", "-")
-        print(f"  {r['rank']:>2} {r['name'][:22]:22} {r['house']:.3f} "
-              f"[P1 {p1} P2 {p2}] {r['coverage']} sweep[{r['sweep_lo']},{r['sweep_hi']}]")
+        o = r.get("original_rank", "—")
+        print(f"  {r['rank']:>2} {r['name'][:22]:22} {r['house']:.4f} "
+              f"[P1 {p1} n={p1n} P2 {p2}] {r['coverage']} "
+              f"sweep[{r['sweep_lo']},{r['sweep_hi']}] was#{o}")
 
     (OUT / "house.json").write_text(json.dumps({
-        "note": "PROPRIETARY election: first-party signals only (P1 measured "
-                "joke quality + P2 authored theory depth; P4 arena reserved). "
-                "External judgments (critics/IMDb/awards/Netflix/YouTube) are "
-                "reference panels, never inputs. Default = mean of available "
-                "legs; sweep interval shows blend sensitivity. Zero-leg "
-                "profiles unranked (null), never tied at zero.",
-        "legs": ["P1 measured joke quality (theory_content mean_paper)",
-                 "P2 theory depth (craft/100, authored-flagged)",
+        "note": "PROPRIETARY election v2 (corrected 2026-10-17): first-party "
+                "signals only. P1 = shrunk joke quality (k=500 Empirical-Bayes "
+                "shrinkage toward global mean — a 200-bit sample cannot "
+                "outrank a 4500-bit sample on noise). P2 = theory depth as "
+                "modifier only (+max 15% boost) — documentation depth is not "
+                "craft quality; the timing_measured bonus was a characters2 "
+                "coverage artifact. P4 arena reserved. External judgments "
+                "(critics/IMDb/awards/Netflix/YouTube) are reference panels, "
+                "never inputs. Zero-leg profiles unranked (null).",
+        "scoring": {
+            "P1": "paper * n_bits / (n_bits + 500) — Empirical-Bayes shrinkage",
+            "P2": "craft/100 — modifier, capped at +15% boost over P1",
+            "house": "P1_shrunk * (1 + 0.15 * P2_modifier)",
+            "original_rank": "pre-correction score (P1_raw/p1max + P2) for comparison",
+        },
+        "legs": ["P1 shrunk joke quality (theory_content + n_bits shrinkage)",
+                 "P2 theory depth modifier (capped at +15%)",
                  "P4 arena votes (reserved, empty)"],
-        "sweeps": ["0:1", "1:3", "1:1", "3:1", "1:0"],
         "n_full": n_full,
         "rows": rows,
     }, indent=1))

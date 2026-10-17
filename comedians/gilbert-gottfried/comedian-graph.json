@@ -26,8 +26,8 @@
   "created": "2026-10-17",
   "annotator": "critic_lists.py",
   "metrics": {
-    "legacy": 69.8,
-    "legacy_era": 21.4,
+    "legacy": 78.5,
+    "legacy_era": 15.2,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -37,7 +37,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 50.5,
+    "headline": 52.8,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -58,12 +58,12 @@
         "ref": true
       },
       "era": {
-        "rank": 233,
+        "rank": 352,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

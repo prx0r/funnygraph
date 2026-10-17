@@ -2,28 +2,28 @@
  "note": "Inter-leg concordance. tau-b handles ties (awards zeros). W needs complete rankings: full-coverage subset only. CIs by resampling comics (1000 reps).",
  "pairwise_tau_b": {
   "critics_vs_audience": {
-   "tau_b": -0.036,
+   "tau_b": 0.082,
    "ci95": [
-    -0.125,
-    0.08
+    -0.01,
+    0.168
    ],
-   "n": 295
+   "n": 414
   },
   "critics_vs_awards": {
-   "tau_b": 0.103,
+   "tau_b": 0.166,
    "ci95": [
-    -0.007,
-    0.219
+    0.063,
+    0.251
    ],
-   "n": 295
+   "n": 414
   },
   "audience_vs_awards": {
-   "tau_b": 0.374,
+   "tau_b": 0.406,
    "ci95": [
-    0.266,
-    0.492
+    0.307,
+    0.501
    ],
-   "n": 295
+   "n": 414
   }
  },
  "kendalls_W_all3": {
@@ -37,15 +37,15 @@
   "n": 35
  },
  "leg_centrality": {
-  "critics": 0.034,
-  "audience": 0.169,
-  "awards": 0.238
+  "critics": 0.124,
+  "audience": 0.244,
+  "awards": 0.286
  },
  "coverage": {
   "critics": 134,
   "audience": 90,
   "awards": 41,
   "all_three": 14,
-  "n_kings": 295
+  "n_kings": 414
  }
 }

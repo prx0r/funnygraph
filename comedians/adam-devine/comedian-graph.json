@@ -228,8 +228,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 34.6,
-    "legacy_era": 68.5,
+    "legacy": 53.4,
+    "legacy_era": 77.5,
     "audience": null,
     "popularity": 20.2,
     "theory": 0.0,
@@ -272,7 +272,7 @@
     ]
   },
   "rating": {
-    "headline": 30.4,
+    "headline": 38.9,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -298,7 +298,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   }
 }

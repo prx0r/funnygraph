@@ -1,141 +1,166 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "brent-weinbach",
- "name": "Brent Weinbach",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "deadline-2026"
-  ],
-  "discovery_note": "Alt veteran (Andy Kaufman Award), Popular Culture 2025; no breakout: indie until canon evidence"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "brent-weinbach",
+  "name": "Brent Weinbach",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 49.7,
-  "theory": 12.5,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "rating": {
-  "headline": 12.5,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UCw98-O5dJwfmnZKrblUiTLQ",
-  "handle": "brentweinbach",
-  "title": "BrentWeinbach",
-  "subs": 65200,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "status": "variety",
-  "checked": "2026-10-17",
-  "clips": 100,
-  "newest_upload": "2026-10-13",
-  "name_match_rate": 0.3,
-  "other_names": [
-   "Bacon Was Naked",
-   "Batteries Up",
-   "Brad's Pit",
-   "Chicks With Flicks",
-   "Cluck Eye Rash",
-   "Cool As Spice",
-   "Cool Stuff",
-   "Easter's Promises"
-  ]
- },
- "nearest_greats": [
-  {
-   "comedian_id": "patton-oswalt",
-   "sim": 0.073
+  "discovery": {
+    "discovered_from": [
+      "deadline-2026"
+    ],
+    "discovery_note": "Alt veteran (Andy Kaufman Award), Popular Culture 2025; no breakout: indie until canon evidence",
+    "bio_note": "Brent Weinbach is a stand up comedian based in Los Angeles, USA. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Brent Weinbach On The Mic Monday, July 14th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic updates. Website Content \u00a9 2018 - 2026 Martin Wal",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/brent-weinbach/"
   },
-  {
-   "comedian_id": "trevor-noah",
-   "sim": 0.072
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
   },
-  {
-   "comedian_id": "michael-che",
-   "sim": 0.052
-  }
- ],
- "website": {
-  "url": "https://brentweinbach.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "known_bits": [
-  {
-   "title": "Key-change Christmas",
-   "why_it_works": "Plays Christmas songs in minor keys until they become melancholic Hanukkah songs: literalize applied to music theory; the joke is a proof. Absurdist precision, Fielder-adjacent. (Deadline 2026; hypothesis)",
-   "theory_links": [
-    "literalize",
-    "rigidify"
-   ],
-   "source": "deadline-2026",
-   "status": "hypothesis (press-described, unmeasured)"
-  }
- ],
- "style_tags": {
-  "humor_type": "observational",
-  "theories": [
-   "incongruity",
-   "bisociation"
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 49.7,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCw98-O5dJwfmnZKrblUiTLQ",
+    "handle": "brentweinbach",
+    "title": "BrentWeinbach",
+    "subs": 65200,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-10-13",
+    "name_match_rate": 0.3,
+    "other_names": [
+      "Bacon Was Naked",
+      "Batteries Up",
+      "Brad's Pit",
+      "Chicks With Flicks",
+      "Cluck Eye Rash",
+      "Cool As Spice",
+      "Cool Stuff",
+      "Easter's Promises"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "patton-oswalt",
+      "sim": 0.073
+    },
+    {
+      "comedian_id": "trevor-noah",
+      "sim": 0.072
+    },
+    {
+      "comedian_id": "michael-che",
+      "sim": 0.052
+    }
   ],
-  "via": "patton-oswalt",
-  "sim": 0.073,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "website": {
+    "url": "https://brentweinbach.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "known_bits": [
+    {
+      "title": "Key-change Christmas",
+      "why_it_works": "Plays Christmas songs in minor keys until they become melancholic Hanukkah songs: literalize applied to music theory; the joke is a proof. Absurdist precision, Fielder-adjacent. (Deadline 2026; hypothesis)",
+      "theory_links": [
+        "literalize",
+        "rigidify"
+      ],
+      "source": "deadline-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ],
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [
+      "incongruity",
+      "bisociation"
+    ],
+    "via": "patton-oswalt",
+    "sim": 0.073,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "socials": {
+    "twitter": {
+      "url": "http://twitter.com/BrentWeinbach",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/Brent-Weinbach-22280018295",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/brentweinbachcomedy/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  }
 }

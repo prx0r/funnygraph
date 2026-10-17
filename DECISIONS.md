@@ -18,6 +18,14 @@
    to reference too (external judgments; facts kept). Rejected: prestige leg.
 4. **FUNNIER replaces theory at presentation** — house percentile is the
    quality slot; theory depth feeds P2 behind it. Rejected: two quality numbers.
+4b. **House scoring corrected (v2, 2026-10-17 audit)**: P1 shrunk by
+   sample size (k=500 Empirical-Bayes); P2 capped as modifier (+15% max),
+   never co-equal. P2-only comics get NO rank (no joke-quality data means
+   no rank on a joke-quality board — owner caught Bert at #11 with zero
+   P1). Norm was #1 under v1 because his graph had measured timing
+   (characters2 coverage artifact, not craft signal). Under any
+   sample-size adjustment, Carlin wins (4478-bit sample + highest paper).
+   Rejected: co-equal P1/P2 legs; P2-only ranking.
 5. **Weights fitted, else plain mean** — Mallows precision where fittable
    (canon .634/.366); house = mean of available legs until 50+ measured.
    Rejected: all asserted weights (3/2/1 survives only in legacy consensus).

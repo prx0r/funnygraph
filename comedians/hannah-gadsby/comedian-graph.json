@@ -298,15 +298,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 34.9,
-    "legacy_era": 2.4,
+    "legacy": 53.6,
+    "legacy_era": 1.7,
     "audience": 30.0,
     "popularity": 60.5,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.305,
     "overrated": "overrated",
-    "canon_lag": -0.049
+    "canon_lag": -0.236
   },
   "tier": "king",
   "region": "australia",
@@ -345,24 +345,19 @@
     "awards": []
   },
   "rating": {
-    "headline": 69.6,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 66.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
     "boards": {
       "house": {
-        "rank": 35,
-        "pct": 69.6,
-        "sweep": [
-          25,
-          35
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 193,
         "ref": true
       },
       "canon": {
-        "rank": 216,
+        "rank": 250,
         "ref": true
       },
       "peoples": {
@@ -371,15 +366,12 @@
         "ref": true
       },
       "era": {
-        "rank": 289,
+        "rank": 408,
         "ref": true
       }
     },
-    "interval": {
-      "lo": 25,
-      "hi": 35
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

@@ -264,8 +264,8 @@
     "method": "archetype+theories"
   },
   "metrics": {
-    "legacy": 27.8,
-    "legacy_era": 61.7,
+    "legacy": 45.2,
+    "legacy_era": 69.3,
     "audience": null,
     "popularity": 54.5,
     "theory": 37.5,
@@ -294,24 +294,19 @@
     "n_modes": 3
   },
   "rating": {
-    "headline": 42.9,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 22.2,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
-        "rank": 65,
-        "pct": 42.9,
-        "sweep": [
-          60,
-          65
-        ]
+        "rank": null
       },
       "consensus": {
-        "rank": 214,
+        "rank": 228,
         "ref": true
       },
       "canon": {
-        "rank": 176,
+        "rank": 190,
         "ref": true
       },
       "peoples": {
@@ -320,15 +315,12 @@
         "ref": true
       },
       "era": {
-        "rank": 114,
+        "rank": 128,
         "ref": true
       }
     },
-    "interval": {
-      "lo": 60,
-      "hi": 65
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   }
 }

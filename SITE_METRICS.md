@@ -33,7 +33,7 @@ profiles show a flagged provisional headline and no house rank.
    Each lens carries its own n (specials rated, clips tracked, awards
    counted). Reference boards show external ranks verbatim, labeled ref.
 3. **IMDb is global-ish but US-skewed.** Non-English specials get fewer votes;
-   the Top-250 shrinkage (m=1000) already penalizes them. Documented limitation:
+   the Top-250 shrinkage (m=500, C=7.5 calibrated) already penalizes them. Documented limitation:
    AUDIENCE understates non-English comics. Netflix hours (platform-reported,
    region-blind) partially offsets — a special watched 20M hours in Brazil
    counts the same as 20M in the US.

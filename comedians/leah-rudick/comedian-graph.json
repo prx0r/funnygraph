@@ -1,135 +1,135 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "leah-rudick",
- "name": "Leah Rudick",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "Character work translating online\u2192sold-out IRL",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "gold-2026"
-  ],
-  "discovery_note": "Character work translating online\u2192sold-out IRL"
- },
- "theory_score": null,
- "nearest_greats": [
-  {
-   "comedian_id": "maria-bamford",
-   "sim": 0.104
-  },
-  {
-   "comedian_id": "john-mulaney",
-   "sim": 0.063
-  },
-  {
-   "comedian_id": "trevor-noah",
-   "sim": 0.051
-  }
- ],
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "leah-rudick",
+  "name": "Leah Rudick",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 12.5,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "rating": {
-  "headline": 12.5,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "Character work translating online\u2192sold-out IRL",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "socials": {
-  "instagram": {
-   "followers": "~2M across IG/TikTok",
-   "source": "deadline-2026"
+  "discovery": {
+    "discovered_from": [
+      "gold-2026"
+    ],
+    "discovery_note": "Character work translating online\u2192sold-out IRL"
   },
-  "tiktok": {
-   "followers": "~2M across IG/TikTok",
-   "source": "deadline-2026"
-  }
- },
- "website": {
-  "url": "https://leahrudick.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "known_bits": [
-  {
-   "title": "Wealthy Woman / Joannie / Love Coach",
-   "why_it_works": "Recurring grotesques (wealthy woman, Joannie, love coach): character_violation through commitment \u2014 each figure is a complete status system, and she never breaks it. (Deadline/GOLD 2026; hypothesis)",
-   "theory_links": [
-    "character_violation",
-    "status_invert"
-   ],
-   "source": "deadline-2026",
-   "status": "hypothesis (press-described, unmeasured)"
-  }
- ],
- "style_tags": {
-  "humor_type": "character",
-  "theories": [
-   "character_violation",
-   "bisociation",
-   "incongruity"
+  "theory_score": null,
+  "nearest_greats": [
+    {
+      "comedian_id": "maria-bamford",
+      "sim": 0.104
+    },
+    {
+      "comedian_id": "john-mulaney",
+      "sim": 0.063
+    },
+    {
+      "comedian_id": "trevor-noah",
+      "sim": 0.051
+    }
   ],
-  "via": "maria-bamford",
-  "sim": 0.104,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "socials": {
+    "instagram": {
+      "followers": "~2M across IG/TikTok",
+      "source": "deadline-2026"
+    },
+    "tiktok": {
+      "followers": "~2M across IG/TikTok",
+      "source": "deadline-2026"
+    }
+  },
+  "website": {
+    "url": "https://leahrudick.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "known_bits": [
+    {
+      "title": "Wealthy Woman / Joannie / Love Coach",
+      "why_it_works": "Recurring grotesques (wealthy woman, Joannie, love coach): character_violation through commitment \u2014 each figure is a complete status system, and she never breaks it. (Deadline/GOLD 2026; hypothesis)",
+      "theory_links": [
+        "character_violation",
+        "status_invert"
+      ],
+      "source": "deadline-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ],
+  "style_tags": {
+    "humor_type": "character",
+    "theories": [
+      "character_violation",
+      "bisociation",
+      "incongruity"
+    ],
+    "via": "maria-bamford",
+    "sim": 0.104,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

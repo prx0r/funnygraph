@@ -1,132 +1,132 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "sam-rocha",
- "name": "Sam Rocha",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "Time Out 12 to watch 2026",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "timeout-2026"
-  ],
-  "discovery_note": "Time Out 12 to watch 2026",
-  "region_method": "venue-scene (overwrite on origin evidence)"
- },
- "theory_score": null,
- "nearest_greats": [
-  {
-   "comedian_id": "jack-whitehall",
-   "sim": 0.098
-  },
-  {
-   "comedian_id": "sarah-millican",
-   "sim": 0.089
-  },
-  {
-   "comedian_id": "bill-maher",
-   "sim": 0.083
-  }
- ],
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "sam-rocha",
+  "name": "Sam Rocha",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 41.4,
-  "theory": 12.5,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "rating": {
-  "headline": 12.5,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "Time Out 12 to watch 2026",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UCgUqMckwi8jhFXSfjuJqPhg",
-  "handle": "samrocha",
-  "title": "Sam Rocha",
-  "subs": 529,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "status": "active",
-  "checked": "2026-10-17",
-  "clips": 100,
-  "newest_upload": "2026-05-10",
-  "name_match_rate": 0.58,
-  "other_names": []
- },
- "region": "us",
- "known_bits": [
-  {
-   "title": "Anxiety made literal",
-   "why_it_works": "Carry-on bomb panic, DMV trans ID with Rock Johnson's photo, astronaut-wife film logic: takes intrusive thoughts staging-ready (literalize) and plays them dead straight. (Time Out 2026; hypothesis)",
-   "theory_links": [
-    "literalize",
-    "split_knowledge"
-   ],
-   "source": "timeout-2026",
-   "status": "hypothesis (press-described, unmeasured)"
+  "discovery": {
+    "discovered_from": [
+      "timeout-2026"
+    ],
+    "discovery_note": "Time Out 12 to watch 2026",
+    "region_method": "venue-scene (overwrite on origin evidence)"
+  },
+  "theory_score": null,
+  "nearest_greats": [
+    {
+      "comedian_id": "jack-whitehall",
+      "sim": 0.098
+    },
+    {
+      "comedian_id": "sarah-millican",
+      "sim": 0.089
+    },
+    {
+      "comedian_id": "bill-maher",
+      "sim": 0.083
+    }
+  ],
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 41.4,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "youtube_channel": {
+    "id": "UCgUqMckwi8jhFXSfjuJqPhg",
+    "handle": "samrocha",
+    "title": "Sam Rocha",
+    "subs": 529,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "active",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-05-10",
+    "name_match_rate": 0.58,
+    "other_names": []
+  },
+  "region": "us",
+  "known_bits": [
+    {
+      "title": "Anxiety made literal",
+      "why_it_works": "Carry-on bomb panic, DMV trans ID with Rock Johnson's photo, astronaut-wife film logic: takes intrusive thoughts staging-ready (literalize) and plays them dead straight. (Time Out 2026; hypothesis)",
+      "theory_links": [
+        "literalize",
+        "split_knowledge"
+      ],
+      "source": "timeout-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ],
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "jack-whitehall",
+    "sim": 0.098,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "style_tags": {
-  "humor_type": "observational",
-  "theories": [],
-  "via": "jack-whitehall",
-  "sim": 0.098,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

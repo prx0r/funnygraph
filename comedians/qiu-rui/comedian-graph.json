@@ -1,119 +1,119 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "qiu-rui",
- "name": "Qiu Rui",
- "tier": "indie",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "region": "china",
- "discovery": {
-  "discovered_from": [
-   "xiaoguo"
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "qiu-rui",
+  "name": "Qiu Rui",
+  "tier": "indie",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "region": "china",
+  "discovery": {
+    "discovered_from": [
+      "xiaoguo"
+    ],
+    "discovery_note": "'Worst Boss in the World' set, EN-subtitled."
+  },
+  "continent": "asia",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 19.3,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "william-montgomery",
+      "sim": 0.105
+    },
+    {
+      "comedian_id": "louis-ck",
+      "sim": 0.102
+    },
+    {
+      "comedian_id": "richard-pryor",
+      "sim": 0.093
+    }
   ],
-  "discovery_note": "'Worst Boss in the World' set, EN-subtitled."
- },
- "continent": "asia",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 19.3,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "william-montgomery",
-   "sim": 0.105
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
   },
-  {
-   "comedian_id": "louis-ck",
-   "sim": 0.102
+  "youtube_channel": {
+    "id": "UC7gn1ftcGs3QwEllKNYASiw",
+    "handle": "qiurui",
+    "title": "Qiu Rui",
+    "subs": 0,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
+    "status": "dormant",
+    "checked": "2026-10-17",
+    "clips": 0,
+    "newest_upload": "",
+    "name_match_rate": 0.0,
+    "other_names": []
   },
-  {
-   "comedian_id": "richard-pryor",
-   "sim": 0.093
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "character_violation"
+    ],
+    "via": "william-montgomery",
+    "sim": 0.105,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
-  },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UC7gn1ftcGs3QwEllKNYASiw",
-  "handle": "qiurui",
-  "title": "Qiu Rui",
-  "subs": 0,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "confidence": "unverified-empty (0 subs, 0 clips \u2014 dormant or squat; re-check on growth)",
-  "status": "dormant",
-  "checked": "2026-10-17",
-  "clips": 0,
-  "newest_upload": "",
-  "name_match_rate": 0.0,
-  "other_names": []
- },
- "style_tags": {
-  "humor_type": "crowd-improv",
-  "theories": [
-   "benign_violation",
-   "incongruity",
-   "character_violation"
-  ],
-  "via": "william-montgomery",
-  "sim": 0.105,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

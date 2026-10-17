@@ -214,7 +214,7 @@
  ],
  "biggest_fallers": [
   {
-   "rank": 275,
+   "rank": 394,
    "comedian_id": "jeff-foxworthy",
    "name": "Jeff Foxworthy",
    "zscore": -2.69,
@@ -225,10 +225,10 @@
    },
    "generation": "eighties-boom",
    "raw_rank": 93,
-   "climb": -182
+   "climb": -301
   },
   {
-   "rank": 225,
+   "rank": 344,
    "comedian_id": "sarah-silverman",
    "name": "Sarah Silverman",
    "zscore": -0.708,
@@ -239,10 +239,10 @@
    },
    "generation": "nineties",
    "raw_rank": 49,
-   "climb": -176
+   "climb": -295
   },
   {
-   "rank": 292,
+   "rank": 411,
    "comedian_id": "hannibal-buress",
    "name": "Hannibal Buress",
    "zscore": -4.63,
@@ -253,10 +253,10 @@
    },
    "generation": null,
    "raw_rank": 119,
-   "climb": -173
+   "climb": -292
   },
   {
-   "rank": 269,
+   "rank": 388,
    "comedian_id": "david-cross",
    "name": "David Cross",
    "zscore": -2.491,
@@ -267,10 +267,10 @@
    },
    "generation": "nineties",
    "raw_rank": 97,
-   "climb": -172
+   "climb": -291
   },
   {
-   "rank": 288,
+   "rank": 407,
    "comedian_id": "paul-mooney",
    "name": "Paul Mooney",
    "zscore": -3.437,
@@ -281,10 +281,10 @@
    },
    "generation": "nineties",
    "raw_rank": 118,
-   "climb": -170
+   "climb": -289
   },
   {
-   "rank": 234,
+   "rank": 353,
    "comedian_id": "billy-connolly",
    "name": "Billy Connolly",
    "zscore": -1.08,
@@ -295,10 +295,10 @@
    },
    "generation": "seventies",
    "raw_rank": 66,
-   "climb": -168
+   "climb": -287
   },
   {
-   "rank": 294,
+   "rank": 413,
    "comedian_id": "d-l-hughley",
    "name": "D L Hughley",
    "zscore": -5.694,
@@ -309,10 +309,10 @@
    },
    "generation": "eighties-boom",
    "raw_rank": 127,
-   "climb": -167
+   "climb": -286
   },
   {
-   "rank": 260,
+   "rank": 379,
    "comedian_id": "reggie-watts",
    "name": "Reggie Watts",
    "zscore": -2.103,
@@ -323,10 +323,10 @@
    },
    "generation": "aughts",
    "raw_rank": 95,
-   "climb": -165
+   "climb": -284
   },
   {
-   "rank": 291,
+   "rank": 410,
    "comedian_id": "patrice-o-neal",
    "name": "Patrice O Neal",
    "zscore": -4.42,
@@ -337,10 +337,10 @@
    },
    "generation": "nineties",
    "raw_rank": 126,
-   "climb": -165
+   "climb": -284
   },
   {
-   "rank": 220,
+   "rank": 339,
    "comedian_id": "whoopi-goldberg",
    "name": "Whoopi Goldberg",
    "zscore": -0.66,
@@ -351,10 +351,10 @@
    },
    "generation": "eighties-boom",
    "raw_rank": 57,
-   "climb": -163
+   "climb": -282
   },
   {
-   "rank": 272,
+   "rank": 391,
    "comedian_id": "russell-peters",
    "name": "Russell Peters",
    "zscore": -2.616,
@@ -365,10 +365,10 @@
    },
    "generation": "nineties",
    "raw_rank": 112,
-   "climb": -160
+   "climb": -279
   },
   {
-   "rank": 293,
+   "rank": 412,
    "comedian_id": "eddie-griffin",
    "name": "Eddie Griffin",
    "zscore": -4.757,
@@ -379,10 +379,10 @@
    },
    "generation": "nineties",
    "raw_rank": 148,
-   "climb": -145
+   "climb": -264
   },
   {
-   "rank": 201,
+   "rank": 320,
    "comedian_id": "colin-quinn",
    "name": "Colin Quinn",
    "zscore": -0.066,
@@ -393,10 +393,10 @@
    },
    "generation": "nineties",
    "raw_rank": 58,
-   "climb": -143
+   "climb": -262
   },
   {
-   "rank": 259,
+   "rank": 378,
    "comedian_id": "maria-bamford",
    "name": "Maria Bamford",
    "zscore": -1.92,
@@ -407,10 +407,10 @@
    },
    "generation": "aughts",
    "raw_rank": 117,
-   "climb": -142
+   "climb": -261
   },
   {
-   "rank": 229,
+   "rank": 348,
    "comedian_id": "wanda-sykes",
    "name": "Wanda Sykes",
    "zscore": -0.885,
@@ -421,7 +421,7 @@
    },
    "generation": "nineties",
    "raw_rank": 109,
-   "climb": -120
+   "climb": -239
   }
  ]
 }

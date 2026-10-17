@@ -317,15 +317,15 @@
     }
   },
   "metrics": {
-    "legacy": 64.4,
-    "legacy_era": 69.5,
+    "legacy": 74.6,
+    "legacy_era": 78.3,
     "audience": 47.5,
     "popularity": 62.1,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.146,
     "overrated": "accurately rated",
-    "canon_lag": -0.169
+    "canon_lag": -0.271
   },
   "tier": "king",
   "region": "ireland",
@@ -382,17 +382,12 @@
     ]
   },
   "rating": {
-    "headline": 39.3,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 77.6,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
-        "rank": 69,
-        "pct": 39.3,
-        "sweep": [
-          64,
-          69
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 106,
@@ -412,11 +407,8 @@
         "ref": true
       }
     },
-    "interval": {
-      "lo": 64,
-      "hi": 69
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

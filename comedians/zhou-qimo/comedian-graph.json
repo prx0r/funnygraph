@@ -1,105 +1,105 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "zhou-qimo",
- "name": "Zhou Qimo",
- "tier": "indie",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "region": "china",
- "discovery": {
-  "discovered_from": [
-   "xiaoguo",
-   "multi-season-winner"
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "zhou-qimo",
+  "name": "Zhou Qimo",
+  "tier": "indie",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "region": "china",
+  "discovery": {
+    "discovered_from": [
+      "xiaoguo",
+      "multi-season-winner"
+    ],
+    "discovery_note": "Multiple-season winner, craft-first technician."
+  },
+  "continent": "asia",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "gary-gulman",
+      "sim": 0.079
+    },
+    {
+      "comedian_id": "brian-regan",
+      "sim": 0.072
+    },
+    {
+      "comedian_id": "patton-oswalt",
+      "sim": 0.066
+    }
   ],
-  "discovery_note": "Multiple-season winner, craft-first technician."
- },
- "continent": "asia",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "gary-gulman",
-   "sim": 0.079
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
   },
-  {
-   "comedian_id": "brian-regan",
-   "sim": 0.072
-  },
-  {
-   "comedian_id": "patton-oswalt",
-   "sim": 0.066
+  "style_tags": {
+    "humor_type": "storytelling",
+    "theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "via": "gary-gulman",
+    "sim": 0.079,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
-  },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "style_tags": {
-  "humor_type": "storytelling",
-  "theories": [
-   "incongruity",
-   "bisociation",
-   "benign_violation"
-  ],
-  "via": "gary-gulman",
-  "sim": 0.079,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

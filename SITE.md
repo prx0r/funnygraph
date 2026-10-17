@@ -24,7 +24,7 @@ Reference elections (display verbatim, labeled "reference" — never inputs):
 ## Profile page assembly (worked example: norm-macdonald)
 
 ```
-HEADLINE 100 · FULL · ours (house #1, sweep [1,3])
+HEADLINE 100 · FULL · ours (house #1, sweep [1,10])
   <- rating.headline, rating.coverage, boards.house.rank, interval.lo/hi
   RULE: headline null is impossible (provisional ladder always yields one).
   RULE: coverage UNRANKED -> show provisional method ("neighbor-inferred"),

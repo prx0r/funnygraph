@@ -1,113 +1,113 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "gad-elmaleh",
- "name": "Gad Elmaleh",
- "tier": "indie",
- "region": "france",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Moroccan-French arena star, L'autre c'est moi. US crossover attempt documented.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-eu-pacific"
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "gad-elmaleh",
+  "name": "Gad Elmaleh",
+  "tier": "indie",
+  "region": "france",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Moroccan-French arena star, L'autre c'est moi. US crossover attempt documented.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "curated-eu-pacific"
+    ],
+    "discovery_note": "Moroccan-French arena star, L'autre c'est moi. US crossover attempt documented."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "europe",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 61.4,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "gabriel-iglesias",
+      "sim": 0.072
+    },
+    {
+      "comedian_id": "bo-burnham",
+      "sim": 0.046
+    }
   ],
-  "discovery_note": "Moroccan-French arena star, L'autre c'est moi. US crossover attempt documented."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "europe",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 61.4,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "gabriel-iglesias",
-   "sim": 0.072
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
   },
-  {
-   "comedian_id": "bo-burnham",
-   "sim": 0.046
+  "youtube_channel": {
+    "id": "UC8P0KSW4MkwTvfVDVBCI8Ew",
+    "handle": "gadelmaleh",
+    "title": "Gad Elmaleh",
+    "subs": 100000,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 13,
+    "newest_upload": "2021-03-31",
+    "name_match_rate": 0.69,
+    "other_names": [
+      "Angelique Kidjo"
+    ]
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [],
+    "via": "gabriel-iglesias",
+    "sim": 0.072,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
-  },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UC8P0KSW4MkwTvfVDVBCI8Ew",
-  "handle": "gadelmaleh",
-  "title": "Gad Elmaleh",
-  "subs": 100000,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "status": "stale",
-  "checked": "2026-10-17",
-  "clips": 13,
-  "newest_upload": "2021-03-31",
-  "name_match_rate": 0.69,
-  "other_names": [
-   "Angelique Kidjo"
-  ]
- },
- "style_tags": {
-  "humor_type": "observational",
-  "theories": [],
-  "via": "gabriel-iglesias",
-  "sim": 0.072,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

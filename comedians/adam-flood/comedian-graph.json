@@ -1,69 +1,132 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "adam-flood",
- "name": "Adam Flood",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "venue-roster:on-the-mic"
-  ],
-  "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
-  "evidence": [
-   {
-    "roster": "https://www.onthemic.co.uk/comedians/?letter=A",
-    "venue": "on-the-mic",
-    "profile": "https://www.onthemic.co.uk/comedians_list/adam-flood/"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "adam-flood",
+  "name": "Adam Flood",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "nearest_greats": [
-  {
-   "comedian_id": "robin-williams",
-   "sim": 0.094
-  }
- ],
- "style_tags": {
-  "humor_type": "character",
-  "theories": [
-   "incongruity",
-   "bisociation",
-   "benign_violation"
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "venue-roster:on-the-mic"
+    ],
+    "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
+    "evidence": [
+      {
+        "roster": "https://www.onthemic.co.uk/comedians/?letter=A",
+        "venue": "on-the-mic",
+        "profile": "https://www.onthemic.co.uk/comedians_list/adam-flood/"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "He co-ran a comedy night every Wednesday at The Florence \u2013 with Alfie Packham. Adam was the winner of Bath Festival New Act of The Year , in 2022. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Adam Flood Comedy at The Florance Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mi",
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/adam-flood/",
+    "otm_enriched": true
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "robin-williams",
+      "sim": 0.094
+    }
   ],
-  "via": "robin-williams",
-  "sim": 0.094,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "style_tags": {
+    "humor_type": "character",
+    "theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "via": "robin-williams",
+    "sim": 0.094,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/floodhaha/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
+  }
 }

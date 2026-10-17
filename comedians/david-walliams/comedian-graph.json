@@ -38,12 +38,88 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/david-walliams/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "David Walliams is a stand up comedian, actor and writer based in the UK. He wrote the best selling children\u2019s books, \u2018The Boy in the Dress\u2019, \u2018The World\u2019s Worst Children\u2019 and many others. David is best known for TV and radio sketch show \u2018Little Britain\u2019 (BBC), which he co-wrote and performed with Matt Lucas. He is a judge on \u2018Britain\u2019s Got Talent\u2019 (ITV). PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie eli",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/david-walliams/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/onthemicuk/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "https://www.worldofdavidwalliams.com/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "metrics": {
+    "legacy": 40.1,
+    "legacy_era": 64.0,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 249,
+        "ref": true
+      },
+      "canon": {
+        "rank": 215,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 150,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

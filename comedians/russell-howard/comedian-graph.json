@@ -219,8 +219,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 35.6,
-    "legacy_era": 27.8,
+    "legacy": 54.1,
+    "legacy_era": 19.8,
     "audience": null,
     "popularity": 42.1,
     "theory": 0.0,
@@ -277,9 +277,9 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 51.4,
+    "headline": 66.7,
     "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "provisional": "type-prior",
     "boards": {
       "house": {
         "rank": null
@@ -298,12 +298,12 @@
         "ref": true
       },
       "era": {
-        "rank": 214,
+        "rank": 333,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

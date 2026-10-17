@@ -233,8 +233,8 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 5.8,
-    "legacy_era": 38.6,
+    "legacy": 9.7,
+    "legacy_era": 33.1,
     "audience": null,
     "popularity": 71.1,
     "theory": 0.0,
@@ -277,7 +277,7 @@
     ]
   },
   "rating": {
-    "headline": 34.3,
+    "headline": 66.7,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -285,11 +285,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 279,
+        "rank": 375,
         "ref": true
       },
       "canon": {
-        "rank": 270,
+        "rank": 366,
         "ref": true
       },
       "peoples": {
@@ -298,12 +298,12 @@
         "ref": true
       },
       "era": {
-        "rank": 182,
+        "rank": 278,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "recognition": {

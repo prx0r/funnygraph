@@ -1,125 +1,125 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "ignatius-farray",
- "name": "Ignatius Farray",
- "tier": "indie",
- "region": "spain",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/latam-es",
- "note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-latam-es",
-   "press"
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "ignatius-farray",
+  "name": "Ignatius Farray",
+  "tier": "indie",
+  "region": "spain",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/latam-es",
+  "note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "curated-latam-es",
+      "press"
+    ],
+    "discovery_note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "europe",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 48.3,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "james-acaster",
+      "sim": 0.069
+    },
+    {
+      "comedian_id": "john-mulaney",
+      "sim": 0.055
+    },
+    {
+      "comedian_id": "cristela-alonzo",
+      "sim": 0.045
+    }
   ],
-  "discovery_note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "europe",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 48.3,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "james-acaster",
-   "sim": 0.069
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
   },
-  {
-   "comedian_id": "john-mulaney",
-   "sim": 0.055
+  "youtube_channel": {
+    "id": "UCdRqjjX9Y4t8-utSCzT8xKQ",
+    "handle": "ignatiusfarray",
+    "title": "IgnatiusFarray",
+    "subs": 3780,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "stale",
+    "checked": "2026-10-17",
+    "clips": 7,
+    "newest_upload": "2009-09-16",
+    "name_match_rate": 1.0,
+    "other_names": []
   },
-  {
-   "comedian_id": "cristela-alonzo",
-   "sim": 0.045
+  "website": {
+    "url": "https://ignatiusfarray.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "style_tags": {
+    "humor_type": "meta",
+    "theories": [
+      "rigidity",
+      "literalise",
+      "bisociation"
+    ],
+    "via": "james-acaster",
+    "sim": 0.069,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
-  },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UCdRqjjX9Y4t8-utSCzT8xKQ",
-  "handle": "ignatiusfarray",
-  "title": "IgnatiusFarray",
-  "subs": 3780,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "status": "stale",
-  "checked": "2026-10-17",
-  "clips": 7,
-  "newest_upload": "2009-09-16",
-  "name_match_rate": 1.0,
-  "other_names": []
- },
- "website": {
-  "url": "https://ignatiusfarray.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "style_tags": {
-  "humor_type": "meta",
-  "theories": [
-   "rigidity",
-   "literalise",
-   "bisociation"
-  ],
-  "via": "james-acaster",
-  "sim": 0.069,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

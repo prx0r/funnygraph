@@ -1,96 +1,96 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "rahkie-mateen",
- "name": "Rahkie Mateen",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "Unapologetically Rocky \u2014 intimate, brave",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "gold-2026"
-  ],
-  "discovery_note": "Unapologetically Rocky \u2014 intimate, brave"
- },
- "theory_score": null,
- "nearest_greats": [],
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "rahkie-mateen",
+  "name": "Rahkie Mateen",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 12.5,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "rating": {
-  "headline": 12.5,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "Unapologetically Rocky \u2014 intimate, brave",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "known_bits": [
-  {
-   "title": "Unapologetically Rocky (vulnerability set)",
-   "why_it_works": "Solo show converting vulnerability to power on stage: expose_self_blindness as method \u2014 the wound is the premise, the scar is the punchline. (GOLD 2026; premise-inferred hypothesis)",
-   "theory_links": [
-    "expose_self_blindness",
-    "status_reversal"
-   ],
-   "source": "gold-2026",
-   "status": "hypothesis (press-described, unmeasured)"
-  }
- ]
+  "discovery": {
+    "discovered_from": [
+      "gold-2026"
+    ],
+    "discovery_note": "Unapologetically Rocky \u2014 intimate, brave"
+  },
+  "theory_score": null,
+  "nearest_greats": [],
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "known_bits": [
+    {
+      "title": "Unapologetically Rocky (vulnerability set)",
+      "why_it_works": "Solo show converting vulnerability to power on stage: expose_self_blindness as method \u2014 the wound is the premise, the scar is the punchline. (GOLD 2026; premise-inferred hypothesis)",
+      "theory_links": [
+        "expose_self_blindness",
+        "status_reversal"
+      ],
+      "source": "gold-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ]
 }

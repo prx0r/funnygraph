@@ -38,12 +38,92 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/ed-gamble/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Ed Gamble is a stand-up comedian, writer and actor based in the UK. He starred on the faux-reality comedy show, Almost Royal (BBC America) and frequently appears on panel show Mock the Week (BBC2). Ed was one half of double act Peacock and Gamble with Ian Boldsworth (formerly known as Ray Peacock). PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Ed Gamble On The Mic Saturday, July 26th, 2014 READ INTERVIEW Ed Gamble Off Menu with Ed Gamble and James Acaster podcast Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate ",
+    "credits": [
+      "Mock the Week (BBC2)"
+    ],
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/ed-gamble/",
+    "representation": "https://avalonuk.com/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/EdGambleComedy",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/EdGambleComedy/",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/edgamblecomedy/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "http://www.edgamble.co.uk/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "metrics": {
+    "legacy": 37.2,
+    "legacy_era": 61.1,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 261,
+        "ref": true
+      },
+      "canon": {
+        "rank": 230,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 162,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

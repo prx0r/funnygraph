@@ -1,114 +1,114 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "jeff-arcuri",
- "name": "Jeff Arcuri",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "r/JeffArcuri top-1% subreddit, front-page regular",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "deadline-2025",
-   "reddit"
-  ],
-  "discovery_note": "r/JeffArcuri top-1% subreddit, front-page regular"
- },
- "theory_score": null,
- "nearest_greats": [
-  {
-   "comedian_id": "mark-normand",
-   "sim": 0.075
-  },
-  {
-   "comedian_id": "william-montgomery",
-   "sim": 0.035
-  },
-  {
-   "comedian_id": "hans-kim",
-   "sim": 0.029
-  }
- ],
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "jeff-arcuri",
+  "name": "Jeff Arcuri",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "r/JeffArcuri top-1% subreddit, front-page regular",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "website": {
-  "url": "https://jeffarcuri.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "style_tags": {
-  "humor_type": "crowd-improv",
-  "theories": [
-   "incongruity",
-   "status_reversal",
-   "benign_violation"
+  "discovery": {
+    "discovered_from": [
+      "deadline-2025",
+      "reddit"
+    ],
+    "discovery_note": "r/JeffArcuri top-1% subreddit, front-page regular"
+  },
+  "theory_score": null,
+  "nearest_greats": [
+    {
+      "comedian_id": "mark-normand",
+      "sim": 0.075
+    },
+    {
+      "comedian_id": "william-montgomery",
+      "sim": 0.035
+    },
+    {
+      "comedian_id": "hans-kim",
+      "sim": 0.029
+    }
   ],
-  "via": "mark-normand",
-  "sim": 0.075,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://jeffarcuri.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "style_tags": {
+    "humor_type": "crowd-improv",
+    "theories": [
+      "incongruity",
+      "status_reversal",
+      "benign_violation"
+    ],
+    "via": "mark-normand",
+    "sim": 0.075,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

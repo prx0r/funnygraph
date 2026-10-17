@@ -271,8 +271,8 @@
     "method": "archetype+theories"
   },
   "metrics": {
-    "legacy": 17.6,
-    "legacy_era": 50.8,
+    "legacy": 33.3,
+    "legacy_era": 57.0,
     "audience": null,
     "popularity": null,
     "theory": 37.5,
@@ -299,24 +299,19 @@
     "awards": []
   },
   "rating": {
-    "headline": 37.5,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 33.3,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
-        "rank": 71,
-        "pct": 37.5,
-        "sweep": [
-          68,
-          71
-        ]
+        "rank": null
       },
       "consensus": {
-        "rank": 244,
+        "rank": 277,
         "ref": true
       },
       "canon": {
-        "rank": 215,
+        "rank": 248,
         "ref": true
       },
       "peoples": {
@@ -325,15 +320,12 @@
         "ref": true
       },
       "era": {
-        "rank": 146,
+        "rank": 179,
         "ref": true
       }
     },
-    "interval": {
-      "lo": 68,
-      "hi": 71
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {

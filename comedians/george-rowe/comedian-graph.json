@@ -1,53 +1,116 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "george-rowe",
- "name": "George Rowe",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "venue-roster:on-the-mic"
-  ],
-  "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
-  "evidence": [
-   {
-    "roster": "https://www.onthemic.co.uk/comedians/?letter=G",
-    "venue": "on-the-mic",
-    "profile": "https://www.onthemic.co.uk/comedians_list/george-rowe/"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "george-rowe",
+  "name": "George Rowe",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "nearest_greats": []
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "venue-roster:on-the-mic"
+    ],
+    "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
+    "evidence": [
+      {
+        "roster": "https://www.onthemic.co.uk/comedians/?letter=G",
+        "venue": "on-the-mic",
+        "profile": "https://www.onthemic.co.uk/comedians_list/george-rowe/"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Essex born George Rowe is a stand up comedian, improviser, musician and writer. In 2012, he was a finalist in the NATY\u2019s and a quarter finalist in the Laughing Horse new act of the year. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links George Rowe On The Mic Wednesday, July 16th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subsc",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/george-rowe/"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "nearest_greats": [],
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/onthemicuk/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
+  }
 }

@@ -38,12 +38,88 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/jen-brister/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Jen Brister is a stand up comedian, writer and actor based in the UK. She has written for BBC Scotland , presented for BBC 6 Music , and has been a regular contributor to magazines and online sites including Diva , g3 , Standard Issue and The Huffington Post . PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Jen Brister On The Mic Monday, April 14th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aene",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/jen-brister/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "metrics": {
+    "legacy": 28.7,
+    "legacy_era": 52.4,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 296,
+        "ref": true
+      },
+      "canon": {
+        "rank": 271,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 198,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/JenBrister",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/jenbristercomedy",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "http://www.jenbrister.co.uk/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

@@ -442,15 +442,15 @@
     }
   },
   "metrics": {
-    "legacy": 98.6,
-    "legacy_era": 96.3,
+    "legacy": 99.0,
+    "legacy_era": 97.3,
     "audience": 82.5,
     "popularity": 85.5,
     "theory": 62.5,
     "heat": null,
     "gap_value": 0.03,
     "overrated": "accurately rated",
-    "canon_lag": -0.161
+    "canon_lag": -0.165
   },
   "tier": "king",
   "region": "us",
@@ -490,16 +490,16 @@
     ]
   },
   "rating": {
-    "headline": 94.6,
+    "headline": 22.2,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 7,
-        "pct": 94.6,
+        "rank": 15,
+        "pct": 22.2,
         "sweep": [
-          6,
-          11
+          14,
+          15
         ]
       },
       "consensus": {
@@ -521,10 +521,10 @@
       }
     },
     "interval": {
-      "lo": 6,
-      "hi": 11
+      "lo": 14,
+      "hi": 15
     },
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {

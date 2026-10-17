@@ -41,8 +41,8 @@
   },
   "continent": "europe",
   "metrics": {
-    "legacy": null,
-    "legacy_era": null,
+    "legacy": 39.4,
+    "legacy_era": 63.3,
     "audience": null,
     "popularity": 21.4,
     "theory": 0.0,
@@ -71,25 +71,33 @@
     }
   ],
   "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
     "boards": {
-      "consensus": {
+      "house": {
         "rank": null
+      },
+      "consensus": {
+        "rank": 252,
+        "ref": true
       },
       "canon": {
-        "rank": null
+        "rank": 219,
+        "ref": true
       },
       "peoples": {
-        "rank": null
+        "rank": null,
+        "wr": null,
+        "ref": true
       },
       "era": {
-        "rank": null
+        "rank": 153,
+        "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {

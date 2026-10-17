@@ -1,116 +1,148 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "chloe-petts",
- "name": "Chloe Petts",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "Soho Theatre runs, settling into voice",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "gold-2026",
-   "uk"
-  ],
-  "discovery_note": "Soho Theatre runs, settling into voice"
- },
- "theory_score": null,
- "nearest_greats": [
-  {
-   "comedian_id": "jerry-seinfeld",
-   "sim": 0.045
-  },
-  {
-   "comedian_id": "john-mulaney",
-   "sim": 0.026
-  },
-  {
-   "comedian_id": "michael-che",
-   "sim": 0.024
-  }
- ],
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "chloe-petts",
+  "name": "Chloe Petts",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "region": "uk",
- "continent": "europe",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "Soho Theatre runs, settling into voice",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "website": {
-  "url": "https://chloepetts.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "style_tags": {
-  "humor_type": "observational",
-  "theories": [
-   "rigidity",
-   "literalise",
-   "bisociation"
+  "discovery": {
+    "discovered_from": [
+      "gold-2026",
+      "uk"
+    ],
+    "discovery_note": "Soho Theatre runs, settling into voice",
+    "bio_note": "She has appeared on Richard Osman\u2019s House of Games (BBC2), Jonathan Ross\u2019s Comedy Club (ITV), Hypothetical (Dave) and many other TV shows. She was a winner on the quiz show, Celebrity Pointless (BBC1). Chloe is a founder member of The LOL Word , a queer comedy collective that hosts monthly stand up comedy shows in London. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aene",
+    "credits": [
+      "Comedy Club (ITV)",
+      "House of Games (BBC2)",
+      "Hypothetical (Dave)",
+      "She was a winner on the quiz show, Celebrity Pointless (BBC1)"
+    ],
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/chloe-petts/",
+    "representation": "https://avalonuk.com/clients/chloe-petts/"
+  },
+  "theory_score": null,
+  "nearest_greats": [
+    {
+      "comedian_id": "jerry-seinfeld",
+      "sim": 0.045
+    },
+    {
+      "comedian_id": "john-mulaney",
+      "sim": 0.026
+    },
+    {
+      "comedian_id": "michael-che",
+      "sim": 0.024
+    }
   ],
-  "via": "jerry-seinfeld",
-  "sim": 0.045,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "region": "uk",
+  "continent": "europe",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "website": {
+    "url": "https://chloepetts.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "style_tags": {
+    "humor_type": "observational",
+    "theories": [
+      "rigidity",
+      "literalise",
+      "bisociation"
+    ],
+    "via": "jerry-seinfeld",
+    "sim": 0.045,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/ChloePetts",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/chloepetts/?hl=en",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  }
 }

@@ -342,15 +342,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 47.1,
-    "legacy_era": 20.7,
+    "legacy": 62.3,
+    "legacy_era": 14.7,
     "audience": 30.0,
     "popularity": 89.5,
     "theory": 50.0,
     "heat": null,
     "gap_value": 0.595,
     "overrated": "massively overrated",
-    "canon_lag": -0.171
+    "canon_lag": -0.323
   },
   "tier": "king",
   "region": "south-africa",
@@ -390,24 +390,19 @@
     ]
   },
   "rating": {
-    "headline": 50.0,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 11.1,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
-        "rank": 57,
-        "pct": 50.0,
-        "sweep": [
-          52,
-          57
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 157,
         "ref": true
       },
       "canon": {
-        "rank": 289,
+        "rank": 407,
         "ref": true
       },
       "peoples": {
@@ -416,15 +411,12 @@
         "ref": true
       },
       "era": {
-        "rank": 235,
+        "rank": 354,
         "ref": true
       }
     },
-    "interval": {
-      "lo": 52,
-      "hi": 57
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

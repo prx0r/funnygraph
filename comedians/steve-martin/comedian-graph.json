@@ -39,18 +39,18 @@
     }
   ],
   "metrics": {
-    "legacy": 99.0,
-    "legacy_era": 97.3,
+    "legacy": 99.3,
+    "legacy_era": 98.1,
     "audience": 60.0,
     "popularity": null,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.39
+    "canon_lag": -0.393
   },
   "rating": {
-    "headline": 50.5,
+    "headline": 52.8,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -76,7 +76,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

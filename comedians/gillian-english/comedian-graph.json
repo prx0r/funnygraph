@@ -1,69 +1,137 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "gillian-english",
- "name": "Gillian English",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "venue-roster:on-the-mic"
-  ],
-  "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
-  "evidence": [
-   {
-    "roster": "https://www.onthemic.co.uk/comedians/?letter=G",
-    "venue": "on-the-mic",
-    "profile": "https://www.onthemic.co.uk/comedians_list/gillian-english/"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "gillian-english",
+  "name": "Gillian English",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "nearest_greats": [
-  {
-   "comedian_id": "george-carlin",
-   "sim": 0.07
-  }
- ],
- "style_tags": {
-  "humor_type": "rant",
-  "theories": [
-   "rigidity",
-   "literalise",
-   "status_reversal"
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "venue-roster:on-the-mic"
+    ],
+    "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
+    "evidence": [
+      {
+        "roster": "https://www.onthemic.co.uk/comedians/?letter=G",
+        "venue": "on-the-mic",
+        "profile": "https://www.onthemic.co.uk/comedians_list/gillian-english/"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Gillian was born and raised in Nova Scotia, Canada. She has trained at Dalhousie University, the London Academy of Music and Dramatic Art (LAMDA) and the Second City Conservatory. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/gillian-english/"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "george-carlin",
+      "sim": 0.07
+    }
   ],
-  "via": "george-carlin",
-  "sim": 0.07,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "style_tags": {
+    "humor_type": "rant",
+    "theories": [
+      "rigidity",
+      "literalise",
+      "status_reversal"
+    ],
+    "via": "george-carlin",
+    "sim": 0.07,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/Gillian_English",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/GillianMarieEnglish",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/gillenglish/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "https://www.gillianenglish.com/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
+  }
 }

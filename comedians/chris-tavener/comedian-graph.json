@@ -1,65 +1,137 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "chris-tavener",
- "name": "Chris Tavener",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "venue-roster:on-the-mic"
-  ],
-  "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
-  "evidence": [
-   {
-    "roster": "https://www.onthemic.co.uk/comedians/?letter=C",
-    "venue": "on-the-mic",
-    "profile": "https://www.onthemic.co.uk/comedians_list/chris-tavener/"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "chris-tavener",
+  "name": "Chris Tavener",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "nearest_greats": [
-  {
-   "comedian_id": "chris-tucker",
-   "sim": 0.119
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "venue-roster:on-the-mic"
+    ],
+    "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
+    "evidence": [
+      {
+        "roster": "https://www.onthemic.co.uk/comedians/?letter=C",
+        "venue": "on-the-mic",
+        "profile": "https://www.onthemic.co.uk/comedians_list/chris-tavener/"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Chris is a storytelling musical comedian and writer from Cheshire, England. He has performed at the Edinburgh Fringe, Great Escape, Latitude, Glastonbury and many other festivals. Chris has shared stages with Super Hans from Peep Show and Spandau Ballet \u2018s Tony Hadley. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Origin Story: Chris Tavener On The Mic Monday, June 24th, 2024 LISTEN HERE Chris Tavener - Shop BUY HERE Chris Tavener Chris on Patreon Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cur",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/chris-tavener/"
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "chris-tucker",
+      "sim": 0.119
+    }
+  ],
+  "style_tags": {
+    "humor_type": "dark-confessional",
+    "theories": [],
+    "via": "chris-tucker",
+    "sim": 0.119,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/ChrisTavener/",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/christavener/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    },
+    "x": {
+      "url": "https://x.com/ChrisTavener",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "http://www.christavener.co.uk/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
- ],
- "style_tags": {
-  "humor_type": "dark-confessional",
-  "theories": [],
-  "via": "chris-tucker",
-  "sim": 0.119,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

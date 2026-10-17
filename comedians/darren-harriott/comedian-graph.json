@@ -38,12 +38,88 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/darren-harriott/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Darren Harriott is a stand up comedian from Birmingham, England, now based in London. He wrote and starred in Darren Harriott: Black Label (BBC Radio 4). PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Darren Harriott On The Mic Thursday, July 27th, 2017 READ INTERVIEW Darren Harriott Darren Harriott: Black Label (radio show) Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell yo",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/darren-harriott/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/DarrenHarriott",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/DarrenHarriottComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/darrenharriott",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "https://darrenharriott.com/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "metrics": {
+    "legacy": 41.5,
+    "legacy_era": 65.5,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 243,
+        "ref": true
+      },
+      "canon": {
+        "rank": 209,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 144,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

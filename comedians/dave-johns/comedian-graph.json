@@ -38,12 +38,88 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/dave-johns/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Dave Johns is a stand up comedian, actor and writer based in the UK. He is best known as t he award-winning star of British feature film, I, Daniel Blake (dir Ken Loach). Dave has performed stand up all over the world, including the Middle East, Hong Kong, Bangkok, Johannesburg, Sydney, New York, Amsterdam and even the Arctic. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Dave Johns On The Mic Saturday, July 2nd, 2022 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus ",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/dave-johns/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/onthemicuk/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "http://www.davejohns.net/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "metrics": {
+    "legacy": 40.8,
+    "legacy_era": 64.7,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 246,
+        "ref": true
+      },
+      "canon": {
+        "rank": 212,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 147,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

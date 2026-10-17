@@ -38,12 +38,88 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/craig-hill/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Craig Hill is a stand up comedian and presenter based in Edinburgh, Scotland. ON television, he has co-presented T in the Park (BBC Scotland), Hogmanay Live (BBC Scotland) and several other TV shows. In 2005, Craig hosted his own TV chat and entertainment show Craig Hill\u2019s Out Tonight (BBC Scotland). PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Craig Hill On The Mic Saturday, July 26th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in mol",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/craig-hill/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "socials": {
+    "twitter": {
+      "url": "http://twitter.com/mrcraighill",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/craighillcomedian/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "http://www.mrcraighill.com/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "metrics": {
+    "legacy": 43.0,
+    "legacy_era": 66.9,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 237,
+        "ref": true
+      },
+      "canon": {
+        "rank": 202,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 138,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

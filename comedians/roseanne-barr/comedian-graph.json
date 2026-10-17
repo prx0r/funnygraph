@@ -29,8 +29,8 @@
   "annotator": "critic_lists.py",
   "specials_rated": [],
   "metrics": {
-    "legacy": 92.5,
-    "legacy_era": 93.2,
+    "legacy": 94.7,
+    "legacy_era": 95.2,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -40,7 +40,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 50.5,
+    "headline": 52.8,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -66,7 +66,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   }
 }

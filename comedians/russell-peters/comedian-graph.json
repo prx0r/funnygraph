@@ -298,15 +298,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 62.4,
-    "legacy_era": 8.1,
+    "legacy": 73.2,
+    "legacy_era": 5.8,
     "audience": 47.5,
     "popularity": 61.1,
     "theory": 37.5,
     "heat": null,
     "gap_value": 0.136,
     "overrated": "accurately rated",
-    "canon_lag": -0.149
+    "canon_lag": -0.257
   },
   "tier": "king",
   "region": "canada",
@@ -369,17 +369,12 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 25.0,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 66.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
     "boards": {
       "house": {
-        "rank": 85,
-        "pct": 25.0,
-        "sweep": [
-          85,
-          85
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 112,
@@ -395,15 +390,12 @@
         "ref": true
       },
       "era": {
-        "rank": 272,
+        "rank": 391,
         "ref": true
       }
     },
-    "interval": {
-      "lo": 85,
-      "hi": 85
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

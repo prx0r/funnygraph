@@ -814,7 +814,7 @@
   },
   "metrics": {
     "legacy": 100.0,
-    "legacy_era": 99.3,
+    "legacy_era": 99.5,
     "audience": 85.0,
     "popularity": 58.1,
     "theory": 62.5,
@@ -859,16 +859,16 @@
     ]
   },
   "rating": {
-    "headline": 98.2,
+    "headline": 100.0,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 3,
-        "pct": 98.2,
+        "rank": 1,
+        "pct": 100.0,
         "sweep": [
           1,
-          6
+          1
         ]
       },
       "consensus": {
@@ -891,9 +891,9 @@
     },
     "interval": {
       "lo": 1,
-      "hi": 6
+      "hi": 1
     },
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

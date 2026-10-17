@@ -268,15 +268,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 50.2,
-    "legacy_era": 1.0,
+    "legacy": 64.5,
+    "legacy_era": 0.7,
     "audience": 10.0,
     "popularity": null,
     "theory": 25.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.402
+    "canon_lag": -0.545
   },
   "tier": "king",
   "region": "us",
@@ -325,17 +325,12 @@
     }
   ],
   "rating": {
-    "headline": 3.6,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 16.7,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
-        "rank": 109,
-        "pct": 3.6,
-        "sweep": [
-          109,
-          109
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 148,
@@ -351,15 +346,12 @@
         "ref": true
       },
       "era": {
-        "rank": 293,
+        "rank": 412,
         "ref": true
       }
     },
-    "interval": {
-      "lo": 109,
-      "hi": 109
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {

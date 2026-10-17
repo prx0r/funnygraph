@@ -504,15 +504,15 @@
     "source": "What We Watched 2023H1-2026H1"
   },
   "metrics": {
-    "legacy": 99.7,
-    "legacy_era": 99.0,
+    "legacy": 99.8,
+    "legacy_era": 99.3,
     "audience": 75.0,
     "popularity": 63.8,
     "theory": 50.0,
     "heat": null,
     "gap_value": -0.112,
     "overrated": "accurately rated",
-    "canon_lag": -0.247
+    "canon_lag": -0.248
   },
   "tier": "king",
   "region": "us",
@@ -552,16 +552,16 @@
     ]
   },
   "rating": {
-    "headline": 80.4,
+    "headline": 38.9,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 23,
-        "pct": 80.4,
+        "rank": 12,
+        "pct": 38.9,
         "sweep": [
-          18,
-          44
+          12,
+          12
         ]
       },
       "consensus": {
@@ -583,10 +583,10 @@
       }
     },
     "interval": {
-      "lo": 18,
-      "hi": 44
+      "lo": 12,
+      "hi": 12
     },
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {

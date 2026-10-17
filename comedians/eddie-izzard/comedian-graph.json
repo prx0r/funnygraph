@@ -450,15 +450,15 @@
     }
   },
   "metrics": {
-    "legacy": 91.9,
-    "legacy_era": 94.6,
+    "legacy": 94.2,
+    "legacy_era": 96.1,
     "audience": 90.0,
     "popularity": 78.6,
     "theory": 37.5,
     "heat": null,
     "gap_value": -0.114,
     "overrated": "accurately rated",
-    "canon_lag": -0.019
+    "canon_lag": -0.042
   },
   "tier": "king",
   "region": "uk",
@@ -515,16 +515,16 @@
     ]
   },
   "rating": {
-    "headline": 79.5,
+    "headline": 61.1,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 24,
-        "pct": 79.5,
+        "rank": 8,
+        "pct": 61.1,
         "sweep": [
-          12,
-          65
+          8,
+          8
         ]
       },
       "consensus": {
@@ -546,10 +546,10 @@
       }
     },
     "interval": {
-      "lo": 12,
-      "hi": 65
+      "lo": 8,
+      "hi": 8
     },
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

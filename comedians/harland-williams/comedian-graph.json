@@ -62,8 +62,8 @@
     }
   ],
   "metrics": {
-    "legacy": 17.0,
-    "legacy_era": 50.2,
+    "legacy": 32.6,
+    "legacy_era": 56.3,
     "audience": null,
     "popularity": null,
     "theory": 0.0,
@@ -73,7 +73,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 50.5,
+    "headline": 52.8,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -81,11 +81,11 @@
         "rank": null
       },
       "consensus": {
-        "rank": 246,
+        "rank": 280,
         "ref": true
       },
       "canon": {
-        "rank": 218,
+        "rank": 252,
         "ref": true
       },
       "peoples": {
@@ -94,12 +94,12 @@
         "ref": true
       },
       "era": {
-        "rank": 148,
+        "rank": 182,
         "ref": true
       }
     },
     "interval": null,
-    "updated": "2026-10-17T16:38:04Z",
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "region": "us"

@@ -1,131 +1,131 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "celeste-barber",
- "name": "Celeste Barber",
- "tier": "indie",
- "region": "australia",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "regions.py/global",
- "note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen.",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "curated-eu-pacific"
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "celeste-barber",
+  "name": "Celeste Barber",
+  "tier": "indie",
+  "region": "australia",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "regions.py/global",
+  "note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen.",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "curated-eu-pacific"
+    ],
+    "discovery_note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen."
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie"
+  },
+  "continent": "oceania",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 57.2,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "humor_type": {
+    "primary": "unclassified",
+    "scores": {},
+    "method": "none"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "brian-regan",
+      "sim": 0.16
+    },
+    {
+      "comedian_id": "sebastian-maniscalco",
+      "sim": 0.114
+    },
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.062
+    }
   ],
-  "discovery_note": "Instagram parody \u2192 Netflix Fine, Thanks. Physical comedy queen."
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
-  "tier": "indie"
- },
- "continent": "oceania",
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": 57.2,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "humor_type": {
-  "primary": "unclassified",
-  "scores": {},
-  "method": "none"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "brian-regan",
-   "sim": 0.16
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
   },
-  {
-   "comedian_id": "sebastian-maniscalco",
-   "sim": 0.114
+  "youtube_channel": {
+    "id": "UCGw7MagvEzdV3wQNMA7gsyA",
+    "handle": "celestebarber",
+    "title": "Celeste Barber",
+    "subs": 77400,
+    "via": "handle-guess",
+    "source": "discover.py --guess-handles (verified, no search)",
+    "status": "variety",
+    "checked": "2026-10-17",
+    "clips": 100,
+    "newest_upload": "2026-07-22",
+    "name_match_rate": 0.53,
+    "other_names": [
+      "Because Tuesday",
+      "Call Celeste Barbie",
+      "Date Night",
+      "Mealtime Trailer",
+      "Naptime Trailer",
+      "Skewered Celeste Barber",
+      "The Final"
+    ]
   },
-  {
-   "comedian_id": "stewart-lee",
-   "sim": 0.062
+  "website": {
+    "url": "https://celestebarber.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [
+      "incongruity",
+      "benign_violation"
+    ],
+    "via": "brian-regan",
+    "sim": 0.16,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
   }
- ],
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
-  },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "youtube_channel": {
-  "id": "UCGw7MagvEzdV3wQNMA7gsyA",
-  "handle": "celestebarber",
-  "title": "Celeste Barber",
-  "subs": 77400,
-  "via": "handle-guess",
-  "source": "discover.py --guess-handles (verified, no search)",
-  "status": "variety",
-  "checked": "2026-10-17",
-  "clips": 100,
-  "newest_upload": "2026-07-22",
-  "name_match_rate": 0.53,
-  "other_names": [
-   "Because Tuesday",
-   "Call Celeste Barbie",
-   "Date Night",
-   "Mealtime Trailer",
-   "Naptime Trailer",
-   "Skewered Celeste Barber",
-   "The Final"
-  ]
- },
- "website": {
-  "url": "https://celestebarber.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "style_tags": {
-  "humor_type": "clean-everyman",
-  "theories": [
-   "incongruity",
-   "benign_violation"
-  ],
-  "via": "brian-regan",
-  "sim": 0.16,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
 }

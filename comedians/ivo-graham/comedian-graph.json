@@ -38,12 +38,93 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/ivo-graham/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "On TV, he has appeared on Comedians Giving Lectures (Dave) Live from the BBC (BBC Three) Have I Got News For You (BBC1) and many other shows. On Radio, he co-starred and co-wrote Unite (BBC Radio 4) with Barry Castagnola, Claire Skinner, Mark Steel and Mark\u2019s real life son, Elliot Steel. Ivo was nominated for Best Comedy Show at the 2019 Edinburgh Comedy Awards , ten years after winning So You Think You\u2019re Funny? in 2009. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Ivo Graham On The Mic Saturday, July 28th, 2018 READ INTERVIEW Sed cursus eget risus non vestibulu",
+    "credits": [
+      "Have I Got News For You (BBC1)",
+      "On TV, he has appeared on Comedians Giving Lectures (Dave)"
+    ],
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/ivo-graham/",
+    "representation": "https://offthekerb.com/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "metrics": {
+    "legacy": 30.9,
+    "legacy_era": 54.6,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 287,
+        "ref": true
+      },
+      "canon": {
+        "rank": 261,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 189,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/IvoGraham",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/ivo_graham",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "https://ivograham.com/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

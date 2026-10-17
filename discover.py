@@ -1040,6 +1040,145 @@ def _store_website(slug: str, url: str, source: str) -> None:
     gpath.write_text(json.dumps(g, indent=1) + "\n", encoding="utf-8")
 
 
+# OTM per-page extraction patterns.
+CREDIT_RE = re.compile(
+    r"([A-Z][A-Za-z0-9\s'&!.,-]{2,60}?)\s*\((BBC\s?\d?|BBC|ITV\s?\d?|Channel 4|"
+    r"Dave|Comedy Central|Netflix|Amazon|Prime Video|Sky|E4|CBBC|ITVX|"
+    r"Channel 5|UKTV|Taskmaster|Live at the Apollo)\)")
+SOCIAL_DOMAINS = ("instagram.com", "tiktok.com", "twitter.com", "x.com",
+                  "facebook.com", "youtube.com")
+SKIP_DOMAINS = SOCIAL_DOMAINS + ("onthemic.co.uk", "apple.com", "spotify.com",
+                                 "itunes.apple.com", "acast.com",
+                                 "gofasterstripe.com", "freefestival.co.uk",
+                                 "podcasts.apple.com", "open.spotify.com",
+                                 "twitter.com/intent")
+
+
+def otm_page(url: str, name: str = "") -> dict:
+    """Fetch + parse one On The Mic comedian page. Returns bio/credits/site/socials."""
+    import urllib.request as _rq
+    import html as _h
+    req = _rq.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    html = _rq.urlopen(req, timeout=25).read().decode("utf-8", "replace")
+    text = re.sub(r"<script.*?</script>|<style.*?</style>", " ", html,
+                  flags=re.S | re.I)
+    paras = []
+    for m in re.finditer(r"<p[^>]*>(.*?)</p>", text, re.S):
+        t = _h.unescape(re.sub(r"<[^>]+>", " ", m.group(1)))
+        t = re.sub(r"\s+", " ", t).strip()
+        if len(t) > 60 and "cookie" not in t.lower()[:30]:
+            paras.append(t)
+    credits = sorted({m.group(1).strip() + " (" + m.group(2).strip() + ")"
+                      for m in CREDIT_RE.finditer(" ".join(paras))})
+    site, socials, rep = "", {}, ""
+    # PERSONAL-site rule (2026-10-17: template sidebar links like
+    # giantbanana.co.uk landed on 156 profiles): the domain must contain
+    # the comic's first or last name. No match = no site (honest gap).
+    parts = [_norm(w) for w in name.split() if len(w) > 1] if name else []
+    for m in sorted(set(re.findall(r'href="(https?://[^"<>]+)"', html))):
+        ml = m.lower()
+        if any(d in ml for d in SKIP_DOMAINS) or "onthemic.co.uk/comedians" in ml:
+            if any(d in ml for d in SOCIAL_DOMAINS):
+                dom = next(d for d in SOCIAL_DOMAINS if d in ml)
+                socials.setdefault(dom.split(".")[0], m[:120])
+            continue
+        if any(d in ml for d in ("avalon", "offthekerb", "chambers", "pembroke",
+                                 "hamiltonhodell", "troika", "unitedagents",
+                                 "curtis brown", "conway", "roar-global")):
+            rep = m[:120]
+            continue
+        if not site and re.match(r"https?://(www\.)?[a-z0-9-]+\.[a-z]{2,}", ml):
+            dompart = _norm(re.sub(r"^https?://(www\.)?", "", ml).split("/")[0])
+            if parts and any(p and p in dompart for p in parts):
+                site = m[:120]
+    return {"bio": " ".join(paras)[:1500], "credits": credits[:20],
+            "site": site, "socials": socials, "rep": rep}
+
+
+def otm_pages(limit: int = 0) -> None:
+    """Phase-2 OTM enrichment: per-comic pages for Tier A/B targets.
+
+    Targets = queue OTM drafts with profile URLs (stored at draft time)
+    + UK-scene press/Angel indies (URL guessed as /comedians_list/<slug>/,
+    verified by name-in-title). Extracts bio excerpt (style evidence
+    ONLY — never material), TV/panel credits, representation, official
+    website (-> website field), socials. Polite 0.5s/page, zero quota.
+    """
+    import urllib.request as _rq
+    queue = load_queue()
+    targets: dict[str, str] = {}
+    for slug, e in queue.items():
+        if e.get("src") != "venue-roster:on-the-mic":
+            continue
+        url = (e.get("evidence") or {}).get("profile", "")
+        if url:
+            targets[slug] = url
+    # press/Angel UK indies: construct + verify
+    for d in sorted(COMEDIANS.iterdir()):
+        g = d / "comedian-graph.json"
+        if not g.exists() or d.name in EXCLUDED:
+            continue
+        try:
+            j = json.loads(g.read_text())
+        except json.JSONDecodeError:
+            continue
+        if j.get("tier") != "indie" or d.name in targets:
+            continue
+        srcs = " ".join((j.get("discovery") or {}).get("discovered_from", []))
+        uk = (j.get("region") in ("uk", "ireland") or "angel-comedy" in srcs
+              or "edinburgh" in srcs or "gold-2026" in srcs
+              or "timeout-2026" in srcs or "deadline-2026" in srcs)
+        if uk and not j.get("discovery", {}).get("otm_enriched"):
+            targets[d.name] = (f"https://www.onthemic.co.uk/comedians_list/"
+                               f"{d.name}/")
+    print(f"{len(targets)} OTM page targets")
+    n = 0
+    for i, (slug, url) in enumerate(sorted(targets.items())):
+        if limit and n >= limit:
+            break
+        gpath = COMEDIANS / slug / "comedian-graph.json"
+        try:
+            g = json.loads(gpath.read_text())
+        except (OSError, json.JSONDecodeError):
+            continue
+        if g.get("discovery", {}).get("otm_enriched"):
+            continue
+        try:
+            data = otm_page(url, g.get("name") or slug)
+        except Exception as e:
+            print(f"  MISS {slug}: {type(e).__name__}")
+            time.sleep(0.5)
+            continue
+        # verify: page must be about them (name in bio/title)
+        nm = (g.get("name") or slug).lower()
+        if nm.split()[0] not in data["bio"].lower() and \
+           nm.split()[-1] not in data["bio"].lower():
+            print(f"  SKIP {slug}: name not on page")
+            time.sleep(0.5)
+            continue
+        disc = g.setdefault("discovery", {})
+        if data["bio"]:
+            disc["bio_note"] = data["bio"][:600]
+        if data["credits"]:
+            disc["credits"] = data["credits"]
+        disc["otm_enriched"] = True
+        disc["otm_url"] = url
+        if data["rep"]:
+            disc["representation"] = data["rep"]
+        if data["socials"]:
+            g["socials"] = {**g.get("socials", {}), **{
+                k: {"url": v, "source": "otm-profile"} for k, v in data["socials"].items()}}
+        if data["site"] and not (g.get("website") or {}).get("url"):
+            g["website"] = {"url": data["site"], "source": "otm-profile",
+                            "checked": str(datetime.now(timezone.utc).date())}
+        gpath.write_text(json.dumps(g, indent=1) + "\n", encoding="utf-8")
+        n += 1
+        print(f"  OK {slug}: bio={len(data['bio'])} credits={len(data['credits'])} "
+              f"site={bool(data['site'])} socials={len(data['socials'])}")
+        time.sleep(0.5)
+    print(f"otm-enriched: {n}")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -1051,6 +1190,7 @@ def main() -> None:
     ap.add_argument("--audit-channels", action="store_true")
     ap.add_argument("--link-websites", action="store_true")
     ap.add_argument("--regions", action="store_true")
+    ap.add_argument("--otm-pages", action="store_true")
     ap.add_argument("--limit", type=int, default=10)
     ap.add_argument("--cap", type=int, default=200)
     args = ap.parse_args()
@@ -1072,9 +1212,12 @@ def main() -> None:
         link_websites()
     if args.regions:
         backfill_regions()
+    if args.otm_pages:
+        otm_pages(limit=args.limit if args.limit != 10 else 0)
     if not (args.dry_run or args.scan or args.fetch_sets or
             args.link_channels or args.rosters or args.guess_handles or
-            args.audit_channels or args.link_websites or args.regions):
+            args.audit_channels or args.link_websites or args.regions or
+            args.otm_pages):
         ap.print_help()
 
 

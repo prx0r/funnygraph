@@ -1,114 +1,114 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "bo-johnson",
- "name": "Bo Johnson",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "indie.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "deadline-2026"
-  ],
-  "discovery_note": "Debut hour Two Sailboats self-released, 333 headlining shows/2yr, DTC sets"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "bo-johnson",
+  "name": "Bo Johnson",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 12.5,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "rating": {
-  "headline": 12.5,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "indie.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "joe-list",
-   "sim": 0.068
+  "discovery": {
+    "discovered_from": [
+      "deadline-2026"
+    ],
+    "discovery_note": "Debut hour Two Sailboats self-released, 333 headlining shows/2yr, DTC sets"
   },
-  {
-   "comedian_id": "jim-norton",
-   "sim": 0.067
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
   },
-  {
-   "comedian_id": "rodney-dangerfield",
-   "sim": 0.045
-  }
- ],
- "known_bits": [
-  {
-   "title": "Closer performed by his father",
-   "why_it_works": "Debut hour ends with his father performing a joke: status_reversal (the act hands the stage to its source) + genuine sentiment as misdirection \u2014 the room laughs, then feels. (Deadline 2026; hypothesis)",
-   "theory_links": [
-    "status_reversal",
-    "benign_violation"
-   ],
-   "source": "deadline-2026",
-   "status": "hypothesis (press-described, unmeasured)"
-  }
- ],
- "style_tags": {
-  "humor_type": "clean-everyman",
-  "theories": [
-   "benign_violation",
-   "incongruity",
-   "status_reversal"
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 12.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 12.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "joe-list",
+      "sim": 0.068
+    },
+    {
+      "comedian_id": "jim-norton",
+      "sim": 0.067
+    },
+    {
+      "comedian_id": "rodney-dangerfield",
+      "sim": 0.045
+    }
   ],
-  "via": "joe-list",
-  "sim": 0.068,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "known_bits": [
+    {
+      "title": "Closer performed by his father",
+      "why_it_works": "Debut hour ends with his father performing a joke: status_reversal (the act hands the stage to its source) + genuine sentiment as misdirection \u2014 the room laughs, then feels. (Deadline 2026; hypothesis)",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ],
+      "source": "deadline-2026",
+      "status": "hypothesis (press-described, unmeasured)"
+    }
+  ],
+  "style_tags": {
+    "humor_type": "clean-everyman",
+    "theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "via": "joe-list",
+    "sim": 0.068,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  }
 }

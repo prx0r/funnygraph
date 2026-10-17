@@ -1,116 +1,141 @@
 {
- "schema": "pogtown.comedian.v1",
- "comedian_id": "barry-ferns",
- "name": "Barry Ferns",
- "tier": "indie",
- "note": "Indie-tier graph: discovery + theory-scored from material.",
- "version": 1,
- "created": "2026-10-17",
- "annotator": "discover.py",
- "identity": {
-  "deal": "",
-  "premise": "",
-  "archetype": "indie_draft",
-  "awareness": "unknown",
-  "awareness_note": "",
-  "philosophy": {},
-  "dramatic_core": {},
-  "misinterpretation_rule": "",
-  "contradictions": [],
-  "status_model": {},
-  "expression": {},
-  "modulator_range": [],
-  "profile": {},
-  "operator_priors": {},
-  "preferred_theories": [],
-  "threads": [],
-  "problem_space": []
- },
- "discovery": {
-  "discovered_from": [
-   "youtube-uploads:angel-comedy"
-  ],
-  "discovery_note": "Name-mined from angel-comedy uploads (registry playlist, no search).",
-  "evidence": [
-   {
-    "videoId": "IQU_GYdTabw",
-    "title": "Looks vs. Reality | Barry Ferns @ Angel Comedy Club London | #standupcomedy",
-    "views": 129,
-    "publishedAt": "2026-05-28"
-   }
-  ],
-  "subs": "unknown (performer channel unregistered)"
- },
- "sets": [],
- "essay_seeds": [],
- "provenance": {
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "barry-ferns",
+  "name": "Barry Ferns",
   "tier": "indie",
-  "rules_held": [
-   "stage persona only",
-   "no verbatim lines"
-  ]
- },
- "metrics": {
-  "legacy": null,
-  "legacy_era": null,
-  "audience": null,
-  "popularity": null,
-  "theory": 0.0,
-  "heat": null,
-  "gap_value": null,
-  "overrated": null,
-  "canon_lag": null
- },
- "rating": {
-  "headline": 0.0,
-  "coverage": "DISCOVERY",
-  "provisional": "theory-depth",
-  "boards": {
-   "consensus": {
-    "rank": null
-   },
-   "canon": {
-    "rank": null
-   },
-   "peoples": {
-    "rank": null
-   },
-   "era": {
-    "rank": null
-   }
+  "note": "Indie-tier graph: discovery + theory-scored from material.",
+  "version": 1,
+  "created": "2026-10-17",
+  "annotator": "discover.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
   },
-  "interval": null,
-  "updated": "2026-10-17T16:38:04Z",
-  "pipeline": "rate/v1"
- },
- "nearest_greats": [
-  {
-   "comedian_id": "stewart-lee",
-   "sim": 0.055
+  "discovery": {
+    "discovered_from": [
+      "youtube-uploads:angel-comedy"
+    ],
+    "discovery_note": "Name-mined from angel-comedy uploads (registry playlist, no search).",
+    "evidence": [
+      {
+        "videoId": "IQU_GYdTabw",
+        "title": "Looks vs. Reality | Barry Ferns @ Angel Comedy Club London | #standupcomedy",
+        "views": 129,
+        "publishedAt": "2026-05-28"
+      }
+    ],
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "According to his website, Barry is a stand up comedian, writer, director, and trained physiotherapist. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Barry Ferns On The Mic Saturday, June 23rd, 2018 READ INTERVIEW Barry Ferns On The Mic Friday, July 18th, 2014 READ INTERVIEW Barry Ferns Support Angel Comedy on Patreon Barry Ferns Support Barry on Patreon Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate l",
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/barry-ferns/"
   },
-  {
-   "comedian_id": "bo-burnham",
-   "sim": 0.032
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
   },
-  {
-   "comedian_id": "trevor-noah",
-   "sim": 0.021
-  }
- ],
- "website": {
-  "url": "https://barryferns.com",
-  "source": "url-guess-verified",
-  "checked": "2026-10-17"
- },
- "style_tags": {
-  "humor_type": "meta",
-  "theories": [
-   "rigidity",
-   "bisociation",
-   "status_reversal"
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "nearest_greats": [
+    {
+      "comedian_id": "stewart-lee",
+      "sim": 0.055
+    },
+    {
+      "comedian_id": "bo-burnham",
+      "sim": 0.032
+    },
+    {
+      "comedian_id": "trevor-noah",
+      "sim": 0.021
+    }
   ],
-  "via": "stewart-lee",
-  "sim": 0.055,
-  "method": "inferred-from-nearest-king (resemblance, not measurement)"
- }
+  "website": {
+    "url": "https://barryferns.com",
+    "source": "url-guess-verified",
+    "checked": "2026-10-17"
+  },
+  "style_tags": {
+    "humor_type": "meta",
+    "theories": [
+      "rigidity",
+      "bisociation",
+      "status_reversal"
+    ],
+    "via": "stewart-lee",
+    "sim": 0.055,
+    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "socials": {
+    "twitter": {
+      "url": "https://twitter.com/OnTheMicUK",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/barrybarryferns/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  }
 }

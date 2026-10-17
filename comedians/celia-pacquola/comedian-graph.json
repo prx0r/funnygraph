@@ -38,12 +38,90 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/celia-pacquola/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Celia Pacquola is a stand up comedian, actor and writer from Australia. On TV, Celia has appeared on Live at the Apollo (BBC2), Josh (BBC Three) and several other shows. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Celia Pacquola On The Mic Friday, July 11th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newslette",
+    "credits": [
+      "Australia. On TV, Celia has appeared on Live at the Apollo (BBC2)"
+    ],
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/celia-pacquola/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "socials": {
+    "x": {
+      "url": "http://lu2664.wix.com/celiapacquola",
+      "source": "otm-profile"
+    },
+    "twitter": {
+      "url": "http://twitter.com/CeliaPacquola",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/celia_pacquola",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "metrics": {
+    "legacy": 44.7,
+    "legacy_era": 68.8,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 230,
+        "ref": true
+      },
+      "canon": {
+        "rank": 193,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 130,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

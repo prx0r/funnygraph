@@ -301,15 +301,15 @@
     "method": "archetype+theories+transcript"
   },
   "metrics": {
-    "legacy": 41.7,
-    "legacy_era": 10.5,
+    "legacy": 58.5,
+    "legacy_era": 7.5,
     "audience": 10.0,
     "popularity": null,
     "theory": 50.0,
     "heat": null,
     "gap_value": null,
     "overrated": null,
-    "canon_lag": -0.317
+    "canon_lag": -0.485
   },
   "tier": "king",
   "region": "us",
@@ -345,24 +345,19 @@
     ]
   },
   "rating": {
-    "headline": 74.1,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 66.7,
+    "coverage": "UNRANKED",
+    "provisional": "type-prior",
     "boards": {
       "house": {
-        "rank": 30,
-        "pct": 74.1,
-        "sweep": [
-          19,
-          30
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 173,
         "ref": true
       },
       "canon": {
-        "rank": 188,
+        "rank": 207,
         "ref": true
       },
       "peoples": {
@@ -371,15 +366,12 @@
         "ref": true
       },
       "era": {
-        "rank": 265,
+        "rank": 384,
         "ref": true
       }
     },
-    "interval": {
-      "lo": 19,
-      "hi": 30
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {

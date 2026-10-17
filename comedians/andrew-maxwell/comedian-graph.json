@@ -38,12 +38,91 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/andrew-maxwell/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "bio_note": "Andrew Maxwell is an Irish stand up comedian based in London, England. He has toured internationally and has appeared on numerous television and radio shows. He is a founder member of the Altitude comedy festival. Andrew was nominated for the Edinburgh Comedy Award in 2007. Andrew is best known as the voice of MTV\u2019s hit show Ex On The Beach. He has appeared on Live at the Apollo (BBC One), Have I Got News for You (BBC One), Celebrity Juice (ITV2), Mock the Week (BBC Two) and several other TV shows. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Andrew Maxwell On Th",
+    "credits": [
+      "Celebrity Juice (ITV2)"
+    ],
+    "otm_enriched": true,
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/andrew-maxwell/"
   },
   "sets": [],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
     "promoted": "2026-10-17: established (TV/tours/awards/specials); OTM-directory audit"
+  },
+  "socials": {
+    "twitter": {
+      "url": "http://twitter.com/andrewismaxwell",
+      "source": "otm-profile"
+    },
+    "facebook": {
+      "url": "https://www.facebook.com/OntheMicComedy",
+      "source": "otm-profile"
+    },
+    "instagram": {
+      "url": "https://www.instagram.com/andrewismaxwell/",
+      "source": "otm-profile"
+    },
+    "tiktok": {
+      "url": "https://www.tiktok.com/@onthemicuk/",
+      "source": "otm-profile"
+    },
+    "youtube": {
+      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+      "source": "otm-profile"
+    }
+  },
+  "website": {
+    "url": "http://bluebookartistmanagement.com/",
+    "source": "otm-profile",
+    "checked": "2026-10-17"
+  },
+  "metrics": {
+    "legacy": 50.7,
+    "legacy_era": 74.9,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 52.8,
+    "coverage": "UNRANKED",
+    "provisional": "global-prior",
+    "boards": {
+      "house": {
+        "rank": null
+      },
+      "consensus": {
+        "rank": 205,
+        "ref": true
+      },
+      "canon": {
+        "rank": 165,
+        "ref": true
+      },
+      "peoples": {
+        "rank": null,
+        "wr": null,
+        "ref": true
+      },
+      "era": {
+        "rank": 105,
+        "ref": true
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
+    "pipeline": "rate/v1"
+  },
+  "region": "uk",
+  "humor_type": {
+    "primary": null,
+    "method": "unclassified (OTM directory entry, no material)"
   }
 }

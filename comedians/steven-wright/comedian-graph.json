@@ -311,8 +311,8 @@
     }
   },
   "metrics": {
-    "legacy": 95.6,
-    "legacy_era": 97.0,
+    "legacy": 96.9,
+    "legacy_era": 97.8,
     "audience": null,
     "popularity": 68.3,
     "theory": 50.0,
@@ -349,17 +349,12 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 51.8,
-    "coverage": "PARTIAL",
-    "provisional": null,
+    "headline": 5.6,
+    "coverage": "UNRANKED",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
-        "rank": 55,
-        "pct": 51.8,
-        "sweep": [
-          49,
-          55
-        ]
+        "rank": null
       },
       "consensus": {
         "rank": 14,
@@ -379,11 +374,8 @@
         "ref": true
       }
     },
-    "interval": {
-      "lo": 49,
-      "hi": 55
-    },
-    "updated": "2026-10-17T16:38:04Z",
+    "interval": null,
+    "updated": "2026-10-17T19:15:40Z",
     "pipeline": "rate/v1"
   },
   "website": {
