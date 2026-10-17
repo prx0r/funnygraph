@@ -425,5 +425,125 @@
         "garden_path"
       ]
     }
+  ],
+  "generation": {
+    "id": "eighties-boom",
+    "label": "Eighties boom",
+    "span": "1980s",
+    "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
+    "scene": "club",
+    "breakthrough": "Def Jam late-80s \u2192 SNL 1990 \u2192 Bring the Pain 1996"
+  },
+  "bio": {
+    "wikidata_id": "Q4109",
+    "dob": "1965-02-07",
+    "dod": null,
+    "birthplace": "Andrews",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "film director",
+      "comedian",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "comedy_central_2004": 5,
+    "rolling_stone_2017": 5,
+    "trajectory_2004_2017": "stable",
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Variety Special",
+        "year": null
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Variety Series",
+        "year": null
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "Chris Rock: Bigger & Blacker",
+      "year": 1999,
+      "imdb_id": "tt0206636",
+      "imdb_rating": 8.0,
+      "imdb_votes": 7833,
+      "transcript": "chris-rock-bigger-blacker-1999-full-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Chris Rock: Never Scared",
+      "year": 2004,
+      "imdb_id": "tt0405832",
+      "imdb_rating": 8.0,
+      "imdb_votes": 5889,
+      "transcript": "chris-rock-never-scared-2004-full-transcript.txt"
+    },
+    {
+      "title": "Saturday",
+      "year": 1995,
+      "imdb_id": "tt0156983",
+      "imdb_rating": 7.3,
+      "imdb_votes": 383,
+      "transcript": "chris-rocks-monologue-saturday-night-live-1996.txt"
+    },
+    {
+      "title": "Chris Rock Total Blackout: The Tamborine Extended Cut",
+      "year": 2021,
+      "imdb_id": "tt13935770",
+      "imdb_rating": 7.0,
+      "imdb_votes": 722,
+      "transcript": "chris-rock-tamborine-transcript.txt"
+    },
+    {
+      "title": "American Dream?",
+      "year": 2005,
+      "imdb_id": "tt0775413",
+      "imdb_rating": 6.9,
+      "imdb_votes": 128,
+      "transcript": "hris-ock-ever-cared-2004-ranscript.txt"
+    },
+    {
+      "title": "N\u00f4",
+      "year": 1998,
+      "imdb_id": "tt0128370",
+      "imdb_rating": 6.9,
+      "imdb_votes": 456,
+      "transcript": "hris-ock-igger-lacker-1999-ranscript.txt"
+    },
+    {
+      "title": "Chris Rock: Selective Outrage",
+      "year": 2023,
+      "imdb_id": "tt23571908",
+      "imdb_rating": 6.8,
+      "imdb_votes": 12359,
+      "transcript": "chris-rock-selective-outrage-transcript.txt"
+    },
+    {
+      "title": "W.",
+      "year": 2008,
+      "imdb_id": "tt1175491",
+      "imdb_rating": 6.3,
+      "imdb_votes": 51788,
+      "transcript": "hris-ock-ill-he-essenger-ondon-ew-ork-ohannesburg-2008-ranscript.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "chris-rock-bring-pain-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "hris-ock-onologue-2020-ranscript.txt"
+    }
   ]
 }

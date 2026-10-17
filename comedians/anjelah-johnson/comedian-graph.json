@@ -195,5 +195,30 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q4765794",
+    "dob": "1982-05-14",
+    "dod": null,
+    "birthplace": "San Jose",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "dancer",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

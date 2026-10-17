@@ -234,5 +234,32 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "nyc-alt",
+    "breakthrough": "1990s"
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "arc-aron-nd-imes-un-2020-ull-ranscript.txt"
+    },
+    {
+      "title": "When in Rome",
+      "year": 2024,
+      "imdb_id": "tt27123082",
+      "imdb_rating": 6.0,
+      "imdb_votes": 1040,
+      "transcript": "arc-aron-rom-leak-to-ark-2023-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

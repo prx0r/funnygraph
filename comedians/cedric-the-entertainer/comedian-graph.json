@@ -195,5 +195,36 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "eighties-boom",
+    "label": "Eighties boom",
+    "span": "1980s",
+    "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "bio": {
+    "wikidata_id": "Q492327",
+    "dob": "1964-04-24",
+    "dod": null,
+    "birthplace": "Jefferson City",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "film actor",
+      "television actor",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "comedy_central_2004": 78,
+    "awards": [
+      {
+        "award": "star on Hollywood Walk of Fame",
+        "year": null
+      }
+    ]
   }
 }

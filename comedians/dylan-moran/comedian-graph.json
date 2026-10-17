@@ -238,5 +238,37 @@
       "transcripts/dylan-moran/2006-ull-ranscript.txt",
       "transcripts/dylan-moran/ylan-oran-ff-he-ook-2015-ranscript.txt"
     ]
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "uk-alt",
+    "breakthrough": "1990s"
+  },
+  "specials_rated": [
+    {
+      "title": "American Dream?",
+      "year": 2005,
+      "imdb_id": "tt0775413",
+      "imdb_rating": 6.9,
+      "imdb_votes": 128,
+      "transcript": "2006-ull-ranscript.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q381685",
+    "dob": "1971-11-03",
+    "dod": null,
+    "birthplace": "Navan",
+    "citizenship": "Ireland",
+    "occupations": [
+      "comedian",
+      "film actor",
+      "screenwriter",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

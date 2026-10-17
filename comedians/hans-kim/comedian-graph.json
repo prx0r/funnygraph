@@ -244,5 +244,13 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "twenties",
+    "label": "Twenties KT/streaming",
+    "span": "2020s",
+    "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
+    "scene": "kill-tony",
+    "breakthrough": "2020s Kill Tony regular"
   }
 }

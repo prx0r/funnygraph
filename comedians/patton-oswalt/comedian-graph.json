@@ -234,5 +234,26 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "nyc-alt",
+    "breakthrough": "1990s"
+  },
+  "recognition": {
+    "rolling_stone_2017": 34
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "atton-swalt-e-ll-cream-2022-ranscript.txt"
+    }
+  ]
 }

@@ -208,5 +208,40 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "specials_rated": [
+    {
+      "title": "Up",
+      "year": 2009,
+      "imdb_id": "tt1049413",
+      "imdb_rating": 8.3,
+      "imdb_votes": 1260034,
+      "transcript": "ron-white-if-you-quit-listening-i-ll-shut-up.txt",
+      "standout": true
+    },
+    {
+      "title": "Ron White: A Little Unprofessional",
+      "year": 2012,
+      "imdb_id": "tt2980086",
+      "imdb_rating": 7.4,
+      "imdb_votes": 702,
+      "transcript": "ron-white-little-unprofessional.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2012-ull-ranscript.txt"
+    }
+  ]
 }

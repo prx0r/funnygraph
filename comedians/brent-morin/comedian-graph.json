@@ -195,5 +195,28 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q16732865",
+    "dob": "1986-08-31",
+    "dod": null,
+    "birthplace": "South Windsor",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

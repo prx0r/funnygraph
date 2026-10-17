@@ -319,5 +319,40 @@
         "persona_gap"
       ]
     }
+  ],
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s Last Comic Standing \u2192 Quarter-Life 2020"
+  },
+  "specials_rated": [
+    {
+      "title": "Taylor Tomlinson: Look at You",
+      "year": 2022,
+      "imdb_id": "tt18096250",
+      "imdb_rating": 7.4,
+      "imdb_votes": 4430,
+      "transcript": "taylor-tomlinson-look-at-you-2022-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Taylor Tomlinson: Quarter-Life Crisis",
+      "year": 2020,
+      "imdb_id": "tt11738792",
+      "imdb_rating": 7.4,
+      "imdb_votes": 6001,
+      "transcript": "taylor-tomlinson-quarter-life-crisis-2020-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "aylor-omlinson-ook-at-ou-2022-ranscript.txt"
+    }
   ]
 }

@@ -247,5 +247,46 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s UK \u2192 Late Late Show 2005"
+  },
+  "bio": {
+    "wikidata_id": "Q72867",
+    "dob": "1962-05-17",
+    "dod": null,
+    "birthplace": "Glasgow",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "television actor",
+      "film actor",
+      "film director",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Great Immigrants Award",
+        "year": 2009
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2013-ull-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

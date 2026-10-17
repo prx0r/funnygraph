@@ -195,5 +195,23 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s"
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "am-ay-3-in-the-orning-2020-ranscript.txt"
+    }
+  ]
 }

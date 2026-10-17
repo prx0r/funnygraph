@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "uk-panel",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q5605472",
+    "dob": "1968-05-14",
+    "dod": null,
+    "birthplace": "St Asaph",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "stand-up comedian",
+      "television presenter",
+      "school teacher"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

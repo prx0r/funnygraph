@@ -344,5 +344,56 @@
         "benign_violation"
       ]
     }
+  ],
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s \u2192 Tennessee Kid 2019"
+  },
+  "specials_rated": [
+    {
+      "title": "Nate Bargatze: Full Time Magic",
+      "year": 2015,
+      "imdb_id": "tt4653606",
+      "imdb_rating": 7.6,
+      "imdb_votes": 689,
+      "transcript": "nate-bargatze-full-time-magic-2015-full-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Nate Bargatze: The Tennessee Kid",
+      "year": 2019,
+      "imdb_id": "tt9861504",
+      "imdb_rating": 7.6,
+      "imdb_votes": 3541,
+      "transcript": "nate-bargatze-the-tennessee-kid-2019-full-transcript.txt"
+    },
+    {
+      "title": "Nate Bargatze: The Greatest Average American",
+      "year": 2021,
+      "imdb_id": "tt14078164",
+      "imdb_rating": 7.4,
+      "imdb_votes": 2876,
+      "transcript": "nate-bargatze-the-greatest-average-american-2021-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ate-argatze-he-reatest-verage-merican-2021-ranscript.txt"
+    },
+    {
+      "title": "Me",
+      "year": 2014,
+      "imdb_id": "tt2958172",
+      "imdb_rating": 5.0,
+      "imdb_votes": 109,
+      "transcript": "ate-argatze-ull-ime-agic-2015-ull-ranscript.txt"
+    }
   ]
 }

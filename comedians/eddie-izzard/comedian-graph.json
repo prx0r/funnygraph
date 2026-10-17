@@ -299,5 +299,75 @@
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "uk-alt",
+    "breakthrough": "1990s"
+  },
+  "recognition": {
+    "comedy_central_2004": 75,
+    "rolling_stone_2017": 24,
+    "trajectory_2004_2017": "rise"
+  },
+  "specials_rated": [
+    {
+      "title": "Eddie Izzard: Dress to Kill",
+      "year": 1998,
+      "imdb_id": "tt0184424",
+      "imdb_rating": 8.6,
+      "imdb_votes": 7781,
+      "transcript": "eddie-izzard-dress-to-kill.txt",
+      "standout": true
+    },
+    {
+      "title": "Eddie Izzard: Unrepeatable",
+      "year": 1994,
+      "imdb_id": "tt0111562",
+      "imdb_rating": 7.9,
+      "imdb_votes": 1582,
+      "transcript": "eddie-izzard-unrepeatable.txt"
+    },
+    {
+      "title": "Eddie Izzard: Stripped",
+      "year": 2009,
+      "imdb_id": "tt1560145",
+      "imdb_rating": 7.6,
+      "imdb_votes": 839,
+      "transcript": "eddie-izzard-stripped.txt"
+    },
+    {
+      "title": "N\u00f4",
+      "year": 1998,
+      "imdb_id": "tt0128370",
+      "imdb_rating": 6.9,
+      "imdb_votes": 456,
+      "transcript": "ddie-zzard-ress-o-ill-1999-ranscript.txt"
+    },
+    {
+      "title": "Rio",
+      "year": 2011,
+      "imdb_id": "tt1436562",
+      "imdb_rating": 6.9,
+      "imdb_votes": 278628,
+      "transcript": "eddie-izzard-eddie-izzard-glorious.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q254022",
+    "dob": "1962-02-07",
+    "dod": null,
+    "birthplace": "Aden",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "stand-up comedian",
+      "actor",
+      "voice actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

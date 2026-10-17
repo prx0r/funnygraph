@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "nyc-alt",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q6177299",
+    "dob": "1974-08-28",
+    "dod": null,
+    "birthplace": "Needham",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "television actor",
+      "actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

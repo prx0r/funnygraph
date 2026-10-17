@@ -345,5 +345,74 @@
         "incongruity"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q16832136",
+    "dob": "1982-04-19",
+    "dod": null,
+    "birthplace": "San Francisco",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "film actor",
+      "television actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "specials_rated": [
+    {
+      "title": "Ali Wong: Baby Cobra",
+      "year": 2016,
+      "imdb_id": "tt5066574",
+      "imdb_rating": 7.5,
+      "imdb_votes": 8500,
+      "transcript": "ali-wong-baby-cobra-2016-full-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Ali Wong: Hard Knock Wife",
+      "year": 2018,
+      "imdb_id": "tt7410684",
+      "imdb_rating": 7.3,
+      "imdb_votes": 5909,
+      "transcript": "ali-wong-hard-knock-wife-2018-transcript.txt"
+    },
+    {
+      "title": "Ali Wong: Don Wong",
+      "year": 2022,
+      "imdb_id": "tt17542000",
+      "imdb_rating": 6.6,
+      "imdb_votes": 3716,
+      "transcript": "ali-wong-don-wong-2022-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "li-ong-on-ong-2022-ranscript.txt"
+    }
+  ],
+  "recognition": {
+    "awards": [
+      {
+        "award": "Golden Globe Award for Best Actress \u2013 Miniseries or Television Film",
+        "year": 2023
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie",
+        "year": 2023
+      }
+    ]
+  }
 }

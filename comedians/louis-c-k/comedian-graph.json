@@ -325,5 +325,69 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "nyc-alt",
+    "breakthrough": "1990s Conan/Late Show writer \u2192 HBO 1996"
+  },
+  "recognition": {
+    "comedy_central_2004": 98,
+    "rolling_stone_2017": 4,
+    "trajectory_2004_2017": "rise"
+  },
+  "specials_rated": [
+    {
+      "title": "29",
+      "year": 2026,
+      "imdb_id": "tt37737315",
+      "imdb_rating": 7.7,
+      "imdb_votes": 6568,
+      "transcript": "ouis-onologue-39-16-03-29-14-ull-ranscript.txt",
+      "standout": true
+    },
+    {
+      "title": "Tully",
+      "year": 2018,
+      "imdb_id": "tt5610554",
+      "imdb_rating": 6.9,
+      "imdb_votes": 67138,
+      "transcript": "2017-ull-transcript.txt"
+    },
+    {
+      "title": "3",
+      "year": 2010,
+      "imdb_id": "tt1517177",
+      "imdb_rating": 6.7,
+      "imdb_votes": 5575,
+      "transcript": "ouis-onologue-38-06-11-03-12-ull-ranscript.txt"
+    },
+    {
+      "title": "W.",
+      "year": 2008,
+      "imdb_id": "tt1175491",
+      "imdb_rating": 6.3,
+      "imdb_votes": 51788,
+      "transcript": "ouis-hewed-p-2008-ranscript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ouis-orry-2021-ranscript.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2013-ull-ranscript.txt"
+    }
+  ]
 }

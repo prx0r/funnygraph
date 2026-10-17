@@ -233,5 +233,37 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "bio": {
+    "wikidata_id": "Q4965111",
+    "dob": "1957-10-02",
+    "dod": null,
+    "birthplace": "Miami",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "rian-egan-n-he-ocks-2021-ranscript.txt"
+    }
+  ]
 }

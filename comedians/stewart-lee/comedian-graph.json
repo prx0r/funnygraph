@@ -368,5 +368,64 @@
         "rigidify"
       ]
     }
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "uk-alt",
+    "breakthrough": "1990s"
+  },
+  "specials_rated": [
+    {
+      "title": "Stewart Lee: 90s Comedian",
+      "year": 2006,
+      "imdb_id": "tt1410060",
+      "imdb_rating": 8.5,
+      "imdb_votes": 484,
+      "transcript": "stewart-lee-90s-comedian.txt"
+    },
+    {
+      "title": "Stewart Lee: Carpet Remnant World",
+      "year": 2012,
+      "imdb_id": "tt2534670",
+      "imdb_rating": 8.5,
+      "imdb_votes": 726,
+      "transcript": "stewart-lee-carpet-remnant-world.txt",
+      "standout": true
+    },
+    {
+      "title": "Stewart Lee: Content Provider",
+      "year": 2018,
+      "imdb_id": "tt8665928",
+      "imdb_rating": 8.4,
+      "imdb_votes": 625,
+      "transcript": "stewart-lee-content-provider.txt"
+    },
+    {
+      "title": "Up",
+      "year": 2009,
+      "imdb_id": "tt1049413",
+      "imdb_rating": 8.3,
+      "imdb_votes": 1260034,
+      "transcript": "stewart-lee-stand-up-comedian.txt"
+    },
+    {
+      "title": "American Dream?",
+      "year": 2005,
+      "imdb_id": "tt0775413",
+      "imdb_rating": 6.9,
+      "imdb_votes": 128,
+      "transcript": "90s-2006-ull-ranscript.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "tewart-ee-arpet-emnant-orld-2012-ull-ranscript.txt"
+    }
   ]
 }

@@ -371,5 +371,82 @@
         "incongruity"
       ]
     }
+  ],
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "youtube-native",
+    "breakthrough": "2006 YouTube"
+  },
+  "bio": {
+    "wikidata_id": "Q887347",
+    "dob": "1990-08-21",
+    "dod": null,
+    "birthplace": "Hamilton",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "singer-songwriter",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Emmy Award",
+        "year": 2021
+      },
+      {
+        "award": "Writers Guild of America Award",
+        "year": 2019
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "Bo Burnham: Inside",
+      "year": 2021,
+      "imdb_id": "tt14544192",
+      "imdb_rating": 8.6,
+      "imdb_votes": 60396,
+      "transcript": "bo-burnham-inside-2021-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Bo Burnham: Make Happy",
+      "year": 2016,
+      "imdb_id": "tt5192124",
+      "imdb_rating": 8.3,
+      "imdb_votes": 17428,
+      "transcript": "bo-burnham-make-happy-2016-transcript.txt"
+    },
+    {
+      "title": "Bo Burnham: Words, Words, Words",
+      "year": 2010,
+      "imdb_id": "tt1747960",
+      "imdb_rating": 8.0,
+      "imdb_votes": 4630,
+      "transcript": "bo-burnham-words-words-words-2010-transcript.txt"
+    },
+    {
+      "title": "What We Do in the Shadows",
+      "year": 2014,
+      "imdb_id": "tt3416742",
+      "imdb_rating": 7.6,
+      "imdb_votes": 216367,
+      "transcript": "bo-burnham-what-2013-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "o-urnham-nside-2021-ranscript.txt"
+    }
   ]
 }

@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "recognition": {
+    "rolling_stone_2017": 32
+  },
+  "specials_rated": [
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "atrice-eal-lephant-in-the-oom-2011-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

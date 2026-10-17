@@ -208,5 +208,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "eighties-boom",
+    "label": "Eighties boom",
+    "span": "1980s",
+    "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
+    "scene": "club",
+    "breakthrough": "1980s"
+  },
+  "recognition": {
+    "comedy_central_2004": 54
+  },
+  "specials_rated": [
+    {
+      "title": "Ol\u00e9",
+      "year": 2006,
+      "imdb_id": "tt0930085",
+      "imdb_rating": 3.0,
+      "imdb_votes": 760,
+      "transcript": "ughley-napologetic-2007-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

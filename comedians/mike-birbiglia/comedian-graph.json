@@ -233,5 +233,24 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "nyc-alt",
+    "breakthrough": "2000s alt"
+  },
+  "specials_rated": [
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "ike-irbiglia-y-irlfriend-s-oyfriend-2013-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

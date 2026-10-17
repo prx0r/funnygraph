@@ -244,5 +244,29 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "podcast",
+    "breakthrough": "2010s Guy Code \u2192 Flagrant \u2192 INFAMOUS 2022 indie"
+  },
+  "bio": {
+    "wikidata_id": "Q21063227",
+    "dob": "1985-10-30",
+    "dod": null,
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

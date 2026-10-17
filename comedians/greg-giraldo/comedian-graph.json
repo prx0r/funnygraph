@@ -238,5 +238,26 @@
         "bogus_logic"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "bio": {
+    "wikidata_id": "Q2914916",
+    "dob": "1965-12-10",
+    "dod": "2010-09-29",
+    "birthplace": "The Bronx",
+    "citizenship": "United States",
+    "occupations": [
+      "lawyer",
+      "actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

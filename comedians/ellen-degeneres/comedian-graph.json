@@ -208,5 +208,30 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "eighties-boom",
+    "label": "Eighties boom",
+    "span": "1980s",
+    "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
+    "scene": "club",
+    "breakthrough": "1980s"
+  },
+  "recognition": {
+    "comedy_central_2004": 16
+  },
+  "bio": {
+    "wikidata_id": "Q483325",
+    "dob": "1958-01-26",
+    "dod": null,
+    "birthplace": "Metairie",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "presenter",
+      "screenwriter",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -221,5 +221,26 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "recognition": {
+    "rolling_stone_2017": 44
+  },
+  "specials_rated": [
+    {
+      "title": "American Dream?",
+      "year": 2005,
+      "imdb_id": "tt0775413",
+      "imdb_rating": 6.9,
+      "imdb_votes": 128,
+      "transcript": "2006-ull-ranscript.txt"
+    }
+  ]
 }

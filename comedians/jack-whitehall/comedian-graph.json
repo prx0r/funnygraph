@@ -208,5 +208,37 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "uk-panel",
+    "breakthrough": "late-00s"
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ack-hitehall-m-nly-oking-2020-ranscript.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q5868696",
+    "dob": "1988-07-07",
+    "dod": null,
+    "birthplace": "Westminster",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "television presenter",
+      "actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

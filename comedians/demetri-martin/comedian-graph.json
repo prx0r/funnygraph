@@ -293,5 +293,62 @@
         "incongruity"
       ]
     }
+  ],
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "nyc-alt",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q717951",
+    "dob": "1973-05-25",
+    "dod": null,
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "film actor",
+      "television actor",
+      "film score composer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Writers Guild of America Award",
+        "year": null
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "Demetri Martin: Live (At the Time)",
+      "year": 2015,
+      "imdb_id": "tt4512714",
+      "imdb_rating": 7.4,
+      "imdb_votes": 2455,
+      "transcript": "demetri-martin-live-at-the-time-2015-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Demetri Martin: The Overthinker",
+      "year": 2018,
+      "imdb_id": "tt7725144",
+      "imdb_rating": 7.2,
+      "imdb_votes": 1995,
+      "transcript": "demetri-martin-the-overthinker-2018-transcript.txt"
+    },
+    {
+      "title": "Tri",
+      "year": 2016,
+      "imdb_id": "tt4949162",
+      "imdb_rating": 5.0,
+      "imdb_votes": 339,
+      "transcript": "emetri-artin-ive-t-he-ime-2015-ranscript.txt"
+    }
   ]
 }

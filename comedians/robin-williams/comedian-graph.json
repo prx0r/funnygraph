@@ -315,5 +315,93 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "seventies",
+    "label": "Seventies club boom",
+    "span": "1970s",
+    "note": "The club system matures; rock-star comics; confessional + character work.",
+    "scene": "club",
+    "breakthrough": "late-70s club \u2192 Mork 1978"
+  },
+  "bio": {
+    "wikidata_id": "Q83338",
+    "dob": "1951-07-21",
+    "dod": "2014-08-11",
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "television actor",
+      "film actor",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "comedy_central_2004": 13,
+    "rolling_stone_2017": 12,
+    "trajectory_2004_2017": "rise",
+    "awards": [
+      {
+        "award": "Golden Globe Award for Best Motion Picture \u2013 Musical or Comedy",
+        "year": 1994
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1988
+      },
+      {
+        "award": "Golden Globe Award for Best Actor \u2013 Motion Picture Musical or Comedy",
+        "year": 1992
+      },
+      {
+        "award": "Golden Globe Award for Best Actor \u2013 Motion Picture Musical or Comedy",
+        "year": 1988
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1989
+      },
+      {
+        "award": "Primetime Emmy Award for Individual Performance in a Variety or Music Program",
+        "year": 1987
+      },
+      {
+        "award": "Golden Globe Cecil B. DeMille Award",
+        "year": 2005
+      },
+      {
+        "award": "Golden Globe Award for Best Actor \u2013 Motion Picture Musical or Comedy",
+        "year": 1979
+      },
+      {
+        "award": "Primetime Emmy Award for Individual Performance in a Variety or Music Program",
+        "year": 1988
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 2003
+      },
+      {
+        "award": "Grammy Award for Best Album for Children",
+        "year": 1989
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 1980
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "Elf",
+      "year": 2003,
+      "imdb_id": "tt0319343",
+      "imdb_rating": 7.1,
+      "imdb_votes": 350047,
+      "transcript": "robin-williams-weapons-self-destruction.txt",
+      "standout": true
+    }
+  ]
 }

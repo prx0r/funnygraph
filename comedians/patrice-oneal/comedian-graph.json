@@ -238,5 +238,16 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "recognition": {
+    "rolling_stone_2017": 32
+  }
 }

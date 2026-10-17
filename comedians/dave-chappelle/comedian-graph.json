@@ -540,5 +540,177 @@
         "persona_gap"
       ]
     }
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s club \u2192 Def Comedy Jam \u2192 Killin' Them Softly 2000"
+  },
+  "bio": {
+    "wikidata_id": "Q40321",
+    "dob": "1973-08-24",
+    "dod": null,
+    "birthplace": "Washington, D.C.",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "street artist",
+      "screenwriter",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "comedy_central_2004": 43,
+    "rolling_stone_2017": 9,
+    "trajectory_2004_2017": "rise",
+    "awards": [
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 2018
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 2019
+      },
+      {
+        "award": "Grammy Award for Best Comedy Album",
+        "year": 2020
+      },
+      {
+        "award": "Mark Twain Prize for American Humor",
+        "year": 2019
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Guest Actor in a Comedy Series",
+        "year": 2017
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "Dave Chappelle: For What It's Worth",
+      "year": 2004,
+      "imdb_id": "tt0424934",
+      "imdb_rating": 8.4,
+      "imdb_votes": 9534,
+      "transcript": "dave-chappelle-worth-2004-full-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Dave Chappelle: Sticks & Stones",
+      "year": 2019,
+      "imdb_id": "tt10810424",
+      "imdb_rating": 8.3,
+      "imdb_votes": 29141,
+      "transcript": "dave-chappelle-sticks-stones-transcript.txt"
+    },
+    {
+      "title": "Dave Chappelle: Equanimity",
+      "year": 2017,
+      "imdb_id": "tt7806998",
+      "imdb_rating": 8.1,
+      "imdb_votes": 14318,
+      "transcript": "dave-chappelle-equanimity-2017-full-transcript.txt"
+    },
+    {
+      "title": "Dave Chappelle: 8:46",
+      "year": 2020,
+      "imdb_id": "tt12498618",
+      "imdb_rating": 8.0,
+      "imdb_votes": 4123,
+      "transcript": "ave-happelle-8-46-ranscript.txt"
+    },
+    {
+      "title": "Dave Chappelle: The Closer",
+      "year": 2021,
+      "imdb_id": "tt15523010",
+      "imdb_rating": 7.9,
+      "imdb_votes": 29853,
+      "transcript": "dave-chappelle-the-closer-transcript.txt"
+    },
+    {
+      "title": "Dave Chappelle: The Bird Revelation",
+      "year": 2017,
+      "imdb_id": "tt7807000",
+      "imdb_rating": 7.8,
+      "imdb_votes": 11436,
+      "transcript": "dave-chappelle-the-bird-revelation-2017-full-transcript.txt"
+    },
+    {
+      "title": "N\u00f4",
+      "year": 1998,
+      "imdb_id": "tt0128370",
+      "imdb_rating": 6.9,
+      "imdb_votes": 456,
+      "transcript": "1998-raduzione-italiana.txt"
+    },
+    {
+      "title": "AV",
+      "year": 2005,
+      "imdb_id": "tt0452931",
+      "imdb_rating": 6.7,
+      "imdb_votes": 818,
+      "transcript": "ave-happelle-or-hat-t-s-orth-2004-ranscript.txt"
+    },
+    {
+      "title": "Al\u00f4?!",
+      "year": 1998,
+      "imdb_id": "tt0185152",
+      "imdb_rating": 6.4,
+      "imdb_votes": 43,
+      "transcript": "dave-chappelle-hbo-comedy-half-hour-1998-transcript.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "ave-happelle-ticks-tones-pilogue-he-unchline-ranscript.txt"
+    },
+    {
+      "title": "W.",
+      "year": 2008,
+      "imdb_id": "tt1175491",
+      "imdb_rating": 6.3,
+      "imdb_votes": 51788,
+      "transcript": "dave-chappelle-whats-in-a-name-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ave-happelle-hat-s-in-a-ame-2022-ranscript.txt"
+    },
+    {
+      "title": "Punchline",
+      "year": 1988,
+      "imdb_id": "tt0095927",
+      "imdb_rating": 5.9,
+      "imdb_votes": 9947,
+      "transcript": "dave-chappelle-sticks-stones-epilogue-punchline-transcript.txt"
+    },
+    {
+      "title": "Speech",
+      "year": 2018,
+      "imdb_id": "tt6867650",
+      "imdb_rating": 5.6,
+      "imdb_votes": 607,
+      "transcript": "dave-chappelle-acceptance-speech-2019-mark-twain-prize.txt"
+    },
+    {
+      "title": "Deep",
+      "year": 2017,
+      "imdb_id": "tt4105584",
+      "imdb_rating": 4.2,
+      "imdb_votes": 1747,
+      "transcript": "dave-chappelle-deep-heart-texas-2017-full-transcript.txt"
+    }
   ]
 }

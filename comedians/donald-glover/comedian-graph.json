@@ -195,5 +195,78 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "nyc-alt",
+    "breakthrough": "2000s Derrick \u2192 30 Rock writer \u2192 specials"
+  },
+  "bio": {
+    "wikidata_id": "Q1239933",
+    "dob": "1983-09-25",
+    "dod": null,
+    "birthplace": "Edwards Air Force Base",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "songwriter",
+      "stand-up comedian",
+      "rapper"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Writers Guild of America Award",
+        "year": null
+      },
+      {
+        "award": "Grammy Award for Best R&B Song",
+        "year": 2015
+      },
+      {
+        "award": "Golden Globe Award for Best Actor \u2013 Television Series Musical or Comedy",
+        "year": 2017
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series",
+        "year": 2017
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Directing for a Comedy Series",
+        "year": 2017
+      },
+      {
+        "award": "Grammy Award for Best Traditional R&B Performance",
+        "year": 2015
+      },
+      {
+        "award": "Grammy Award for Best Music Video",
+        "year": 2018
+      },
+      {
+        "award": "Grammy Award for Best Melodic Rap Performance",
+        "year": 2018
+      },
+      {
+        "award": "Grammy Award for Song of the Year",
+        "year": 2018
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "onald-lover-eirdo-2012-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

@@ -286,5 +286,35 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "uk-alt",
+    "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q15072714",
+    "dob": "1985-01-00",
+    "dod": null,
+    "birthplace": "Kettering",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "stand-up comedian",
+      "television actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "Chortle Awards",
+        "year": 2015
+      }
+    ]
   }
 }

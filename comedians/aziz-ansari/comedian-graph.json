@@ -259,5 +259,59 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "nyc-alt",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q369482",
+    "dob": "1983-02-23",
+    "dod": null,
+    "birthplace": "Columbia",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "comedian",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "rolling_stone_2017": 49,
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Comedy Series",
+        "year": 2016
+      },
+      {
+        "award": "Primetime Emmy Award for Outstanding Writing for a Comedy Series",
+        "year": 2017
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ziz-nsari-ightclub-omedian-2022-ranscript.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2013-ull-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

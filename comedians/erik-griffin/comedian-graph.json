@@ -195,5 +195,18 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q30117761",
+    "dob": null,
+    "dod": null,
+    "birthplace": "Los Angeles",
+    "citizenship": null,
+    "occupations": [
+      "film actor",
+      "screenwriter",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

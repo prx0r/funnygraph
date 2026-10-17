@@ -260,5 +260,54 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2000s win \u2192 2010s peak"
+  },
+  "specials_rated": [
+    {
+      "title": "Sing",
+      "year": 2016,
+      "imdb_id": "tt3470600",
+      "imdb_rating": 7.1,
+      "imdb_votes": 217819,
+      "transcript": "liza-hlesinger-onfirmed-ills-2016-ull-ranscript.txt",
+      "standout": true
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "liza-hlesinger-ot-orever-2022-ranscript.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "liza-hlesinger-ar-aint-2013-ranscript.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q15453111",
+    "dob": "1983-02-22",
+    "dod": null,
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "comedian",
+      "screenwriter",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

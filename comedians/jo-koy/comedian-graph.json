@@ -221,5 +221,26 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "bio": {
+    "wikidata_id": "Q6204327",
+    "dob": "1971-06-02",
+    "dod": null,
+    "birthplace": "Tacoma",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

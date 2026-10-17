@@ -393,5 +393,80 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s start \u2014 peak 2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q4895172",
+    "dob": "1972-11-03",
+    "dod": null,
+    "birthplace": "St. Petersburg",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "presenter",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "Bert Kreischer: Secret Time",
+      "year": 2018,
+      "imdb_id": "tt8786466",
+      "imdb_rating": 7.3,
+      "imdb_votes": 2928,
+      "transcript": "bert-kreischer-secret-time-2018-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Bert Kreischer: Hey Big Boy",
+      "year": 2020,
+      "imdb_id": "tt11810424",
+      "imdb_rating": 7.0,
+      "imdb_votes": 2506,
+      "transcript": "bert-kreischer-hey-big-boy-2020-transcript.txt"
+    },
+    {
+      "title": "Bert Kreischer: Razzle Dazzle",
+      "year": 2023,
+      "imdb_id": "tt26752731",
+      "imdb_rating": 7.0,
+      "imdb_votes": 2048,
+      "transcript": "bert-kreischer-razzle-dazzle-2023-transcript.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "bert-kreischer-fighting-a-bear-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ert-reischer-ey-ig-oy-2020-ranscript.txt"
+    },
+    {
+      "title": "What?",
+      "year": 1972,
+      "imdb_id": "tt0070913",
+      "imdb_rating": 5.4,
+      "imdb_votes": 5195,
+      "transcript": "ert-reischer-ighting-ear-ranscript.txt"
+    }
+  ]
 }

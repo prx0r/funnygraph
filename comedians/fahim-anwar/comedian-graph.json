@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q125066128",
+    "dob": "2000-00-00",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "United States",
+    "occupations": [
+      "film actor",
+      "television actor",
+      "comedian",
+      "military flight engineer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

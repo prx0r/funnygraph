@@ -208,5 +208,24 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s"
+  },
+  "specials_rated": [
+    {
+      "title": "KD (A) Karuppudurai",
+      "year": 2019,
+      "imdb_id": "tt8747560",
+      "imdb_rating": 8.4,
+      "imdb_votes": 2232,
+      "transcript": "ir-as-utside-in-he-ockdown-pecial-2020-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

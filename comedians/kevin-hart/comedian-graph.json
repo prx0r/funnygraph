@@ -260,5 +260,83 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s"
+  },
+  "recognition": {
+    "rolling_stone_2017": 18
+  },
+  "specials_rated": [
+    {
+      "title": "Rio",
+      "year": 2011,
+      "imdb_id": "tt1436562",
+      "imdb_rating": 6.9,
+      "imdb_votes": 278628,
+      "transcript": "evin-art-eriously-unny-2010-ranscript.txt",
+      "standout": true
+    },
+    {
+      "title": "Kevin Hart: Let Me Explain",
+      "year": 2013,
+      "imdb_id": "tt2609912",
+      "imdb_rating": 6.7,
+      "imdb_votes": 9642,
+      "transcript": "kevin-hart-let-me-explain.txt"
+    },
+    {
+      "title": "Kevin Hart: Irresponsible",
+      "year": 2019,
+      "imdb_id": "tt10009796",
+      "imdb_rating": 6.6,
+      "imdb_votes": 5471,
+      "transcript": "kevin-hart-irresponsible.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "evin-art-un-ompartment-ranscript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "evin-art-ero-ks-iven-2020-ranscript.txt"
+    },
+    {
+      "title": "Kevin Hart: Zero F**ks Given",
+      "year": 2020,
+      "imdb_id": "tt13433082",
+      "imdb_rating": 6.1,
+      "imdb_votes": 4051,
+      "transcript": "kevin-hart-zero-f.txt"
+    },
+    {
+      "title": "Kevin Hart: What Now?",
+      "year": 2016,
+      "imdb_id": "tt4669186",
+      "imdb_rating": 6.0,
+      "imdb_votes": 10353,
+      "transcript": "kevin-hart-what-now.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "evin-art-et-e-xplain-2013-ranscript.txt"
+    }
+  ]
 }

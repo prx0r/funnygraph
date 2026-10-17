@@ -195,5 +195,30 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2000s \u2192 Skeptic Tank 2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q23542640",
+    "dob": "1974-02-12",
+    "dod": null,
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "podcaster",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

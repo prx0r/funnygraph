@@ -195,5 +195,40 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "nyc-alt",
+    "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q65627204",
+    "dob": "1991-01-01",
+    "dod": null,
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "poet",
+      "actor",
+      "singer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "atherine-ohen-he-wist-he-s-orgeous-2022-ranscript.txt"
+    }
+  ]
 }

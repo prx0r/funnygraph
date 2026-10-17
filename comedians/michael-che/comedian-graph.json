@@ -279,5 +279,24 @@
         "benign_violation"
       ]
     }
+  ],
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "snl-pipeline",
+    "breakthrough": "2010s"
+  },
+  "specials_rated": [
+    {
+      "title": "Michael Che Matters",
+      "year": 2016,
+      "imdb_id": "tt6209400",
+      "imdb_rating": 7.2,
+      "imdb_votes": 2923,
+      "transcript": "michael-che-matters-2016-transcript.txt",
+      "standout": true
+    }
   ]
 }

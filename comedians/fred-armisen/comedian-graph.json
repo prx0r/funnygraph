@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "snl-pipeline",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q14535",
+    "dob": "1966-12-04",
+    "dod": null,
+    "birthplace": "Hattiesburg",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "musician",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -208,5 +208,32 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "bio": {
+    "wikidata_id": "Q129166900",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "songwriter",
+      "film director",
+      "choreographer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "rew-ichael-ed-lue-reen-2021-ranscript.txt"
+    }
+  ]
 }

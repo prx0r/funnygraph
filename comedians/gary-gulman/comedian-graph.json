@@ -263,5 +263,16 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "bio": {
+    "wikidata_id": "Q5525183",
+    "dob": "1970-07-17",
+    "dod": null,
+    "birthplace": "Peabody",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

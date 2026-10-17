@@ -341,5 +341,38 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "uk-panel",
+    "breakthrough": "2000s"
+  },
+  "specials_rated": [
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2011-ull-ranscript.txt",
+      "standout": true
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q964454",
+    "dob": "1972-09-15",
+    "dod": null,
+    "birthplace": "Hounslow",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "television presenter",
+      "stand-up comedian",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

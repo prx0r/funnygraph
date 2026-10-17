@@ -334,5 +334,67 @@
         "two_stories"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "eighties-boom",
+    "label": "Eighties boom",
+    "span": "1980s",
+    "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
+    "scene": "club",
+    "breakthrough": "1980s club \u2192 Tonight Show 1981 \u2192 sitcom 1989"
+  },
+  "recognition": {
+    "comedy_central_2004": 12,
+    "rolling_stone_2017": 7,
+    "trajectory_2004_2017": "rise"
+  },
+  "specials_rated": [
+    {
+      "title": "Jerry Seinfeld: 'I'm Telling You for the Last Time'",
+      "year": 1998,
+      "imdb_id": "tt0500140",
+      "imdb_rating": 7.8,
+      "imdb_votes": 6378,
+      "transcript": "jerry-seinfeld-im-telling-you-for-the-last-time-full-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "N\u00f4",
+      "year": 1998,
+      "imdb_id": "tt0128370",
+      "imdb_rating": 6.9,
+      "imdb_votes": 456,
+      "transcript": "erry-einfeld-m-elling-ou-for-the-ast-ime-1998-ranscript.txt"
+    },
+    {
+      "title": "Jerry Seinfeld: 23 Hours to Kill",
+      "year": 2020,
+      "imdb_id": "tt12117854",
+      "imdb_rating": 6.7,
+      "imdb_votes": 6043,
+      "transcript": "jerry-seinfeld-23-hours-to-kill-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "erry-einfeld-23-ours-o-ill-2020-ranscript.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q215506",
+    "dob": "1954-04-29",
+    "dod": null,
+    "birthplace": "Brooklyn",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "humorist",
+      "film producer"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

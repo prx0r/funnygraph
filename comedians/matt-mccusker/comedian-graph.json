@@ -299,5 +299,27 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "podcast",
+    "breakthrough": "2010s MSSP \u2192 specials"
+  },
+  "bio": {
+    "wikidata_id": "Q138397638",
+    "dob": "1986-01-27",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  }
 }

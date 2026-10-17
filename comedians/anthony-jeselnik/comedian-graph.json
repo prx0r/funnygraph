@@ -232,5 +232,41 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q4772834",
+    "dob": "1978-12-22",
+    "dod": null,
+    "birthplace": "Pittsburgh",
+    "citizenship": "United States",
+    "occupations": [
+      "television actor",
+      "television producer",
+      "stand-up comedian",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2013-ull-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

@@ -195,5 +195,19 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q5386029",
+    "dob": "1983-04-04",
+    "dod": null,
+    "birthplace": "Boca Raton",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "comedian",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

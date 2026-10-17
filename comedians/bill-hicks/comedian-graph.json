@@ -368,5 +368,68 @@
         "persona_gap"
       ]
     }
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1980s start, 90s UK + Letterman peak"
+  },
+  "bio": {
+    "wikidata_id": "Q35851",
+    "dob": "1961-12-16",
+    "dod": "1994-02-26",
+    "birthplace": "Valdosta",
+    "citizenship": "United States",
+    "occupations": [
+      "musician",
+      "writer",
+      "comedian",
+      "songwriter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "comedy_central_2004": 19,
+    "rolling_stone_2017": 13,
+    "trajectory_2004_2017": "rise",
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "Bill Hicks: Relentless",
+      "year": 1992,
+      "imdb_id": "tt0148668",
+      "imdb_rating": 8.5,
+      "imdb_votes": 2756,
+      "transcript": "bill-hicks-relentless.txt",
+      "standout": true
+    },
+    {
+      "title": "Bill Hicks: Revelations",
+      "year": 1993,
+      "imdb_id": "tt0152183",
+      "imdb_rating": 8.4,
+      "imdb_votes": 3325,
+      "transcript": "bill-hicks-revelations.txt"
+    },
+    {
+      "title": "RED",
+      "year": 2010,
+      "imdb_id": "tt1245526",
+      "imdb_rating": 7.0,
+      "imdb_votes": 341534,
+      "transcript": "bill-hicks-censored-seven-minutes-late-show-with-david-letterman.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": ".txt"
+    }
   ]
 }

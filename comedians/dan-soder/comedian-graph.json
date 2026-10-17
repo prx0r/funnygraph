@@ -195,5 +195,28 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s \u2192 Not Special 2016"
+  },
+  "bio": {
+    "wikidata_id": "Q17180960",
+    "dob": "1983-06-24",
+    "dod": null,
+    "birthplace": "Hartford",
+    "citizenship": "United States",
+    "occupations": [
+      "podcaster",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

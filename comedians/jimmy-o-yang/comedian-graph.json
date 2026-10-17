@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s \u2192 Silicon Valley"
+  },
+  "bio": {
+    "wikidata_id": "Q6201006",
+    "dob": "1987-06-11",
+    "dod": null,
+    "birthplace": "British Hong Kong",
+    "citizenship": "People's Republic of China",
+    "occupations": [
+      "film actor",
+      "comedian",
+      "screenwriter",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -318,5 +318,32 @@
         "split_knowledge"
       ]
     }
+  ],
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "nyc-alt",
+    "breakthrough": "2000s"
+  },
+  "specials_rated": [
+    {
+      "title": "Maria Bamford: Weakness Is the Brand",
+      "year": 2020,
+      "imdb_id": "tt10830086",
+      "imdb_rating": 7.5,
+      "imdb_votes": 271,
+      "transcript": "maria-bamford-weakness-is-the-brand-2020-full-transcript.txt"
+    },
+    {
+      "title": "Maria Bamford: Old Baby",
+      "year": 2017,
+      "imdb_id": "tt6264596",
+      "imdb_rating": 6.2,
+      "imdb_votes": 1049,
+      "transcript": "maria-bamford-old-baby-2017-full-transcript.txt",
+      "standout": true
+    }
   ]
 }

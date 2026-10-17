@@ -195,5 +195,46 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "pioneers",
+    "label": "Pioneers",
+    "span": "pre-1970",
+    "note": "Invented modern stand-up; fought the clubs, the law, and TV censors.",
+    "scene": "club",
+    "breakthrough": "1960s civil-rights club breakthrough"
+  },
+  "bio": {
+    "wikidata_id": "Q1209674",
+    "dob": "1932-10-12",
+    "dod": "2017-08-19",
+    "birthplace": "St. Louis",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "writer",
+      "social activist",
+      "social critic"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "comedy_central_2004": 81,
+    "rolling_stone_2017": 29,
+    "trajectory_2004_2017": "rise",
+    "awards": [
+      {
+        "award": "Thomas Merton Award",
+        "year": 1974
+      },
+      {
+        "award": "star on Hollywood Walk of Fame",
+        "year": null
+      },
+      {
+        "award": "Phoenix Award",
+        "year": 1993
+      }
+    ]
   }
 }

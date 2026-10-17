@@ -951,5 +951,85 @@
         "benign_violation"
       ]
     }
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "nyc-alt",
+    "breakthrough": "same as louis-c-k (dup dir)"
+  },
+  "recognition": {
+    "comedy_central_2004": 98,
+    "rolling_stone_2017": 4,
+    "trajectory_2004_2017": "rise"
+  },
+  "specials_rated": [
+    {
+      "title": "Louis C.K.: Shameless",
+      "year": 2007,
+      "imdb_id": "tt0927619",
+      "imdb_rating": 8.5,
+      "imdb_votes": 9409,
+      "transcript": "louis-c-k-shameless-2007-full-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Up",
+      "year": 2009,
+      "imdb_id": "tt1049413",
+      "imdb_rating": 8.3,
+      "imdb_votes": 1260034,
+      "transcript": "louis-c-k-chewed-up-transcript.txt"
+    },
+    {
+      "title": "Louis C.K.: Live at the Comedy Store",
+      "year": 2015,
+      "imdb_id": "tt4368814",
+      "imdb_rating": 7.7,
+      "imdb_votes": 7407,
+      "transcript": "louis-c-k-live-at-the-comedy-store-2015-transcript.txt"
+    },
+    {
+      "title": "Louis C.K.: Sorry",
+      "year": 2021,
+      "imdb_id": "tt16478030",
+      "imdb_rating": 7.7,
+      "imdb_votes": 4477,
+      "transcript": "louis-c-k-sorry-transcript.txt"
+    },
+    {
+      "title": "Go",
+      "year": 1999,
+      "imdb_id": "tt0139239",
+      "imdb_rating": 7.2,
+      "imdb_votes": 81324,
+      "transcript": "louis-ck-oh-my-god-full-transcript.txt"
+    },
+    {
+      "title": "Rio",
+      "year": 2011,
+      "imdb_id": "tt1436562",
+      "imdb_rating": 6.9,
+      "imdb_votes": 278628,
+      "transcript": "louis-c-k-hilarious-2010-full-transcript.txt"
+    },
+    {
+      "title": "Mono",
+      "year": 2016,
+      "imdb_id": "tt4872896",
+      "imdb_rating": 5.6,
+      "imdb_votes": 1064,
+      "transcript": "louis-c-k-snl-monologue-2015-transcript.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "louis-c-k-live-at-the-beacon-theatre-2011-full-transcript.txt"
+    }
   ]
 }

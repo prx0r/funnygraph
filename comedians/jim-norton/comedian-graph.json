@@ -234,5 +234,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "bio": {
+    "wikidata_id": "Q1593157",
+    "dob": "1938-01-04",
+    "dod": null,
+    "birthplace": "Dublin",
+    "citizenship": "Ireland",
+    "occupations": [
+      "film actor",
+      "television actor",
+      "stage actor",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -195,5 +195,29 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s \u2192 Your Mom's House"
+  },
+  "bio": {
+    "wikidata_id": "Q5110857",
+    "dob": "1976-06-18",
+    "dod": null,
+    "birthplace": "Windsor",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "podcaster",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

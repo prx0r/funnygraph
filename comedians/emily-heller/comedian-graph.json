@@ -195,5 +195,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "nyc-alt",
+    "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q59772387",
+    "dob": "1985-10-05",
+    "dod": null,
+    "birthplace": "Alameda County",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "screenwriter",
+      "television actor",
+      "podcaster"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

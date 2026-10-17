@@ -295,5 +295,35 @@
         "two_stories"
       ]
     }
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s club \u2192 Letterman 1996"
+  },
+  "recognition": {
+    "rolling_stone_2017": 20
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f4",
+      "year": 1998,
+      "imdb_id": "tt0128370",
+      "imdb_rating": 6.9,
+      "imdb_votes": 456,
+      "transcript": "1999-ull-ranscript.txt"
+    },
+    {
+      "title": "Ed",
+      "year": 1996,
+      "imdb_id": "tt0116165",
+      "imdb_rating": 2.8,
+      "imdb_votes": 9164,
+      "transcript": "mitch-hedberg-comedy-central-special1999-full-transcript.txt",
+      "standout": true
+    }
   ]
 }

@@ -299,5 +299,38 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "specials_rated": [
+    {
+      "title": "Tully",
+      "year": 2018,
+      "imdb_id": "tt5610554",
+      "imdb_rating": 6.9,
+      "imdb_votes": 67138,
+      "transcript": "2018-ull-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Lo",
+      "year": 2009,
+      "imdb_id": "tt1047490",
+      "imdb_rating": 6.4,
+      "imdb_votes": 3120,
+      "transcript": "im-efferies-lcoholocaust-2010-ranscript.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q3481642",
+    "dob": "1977-02-14",
+    "dod": null,
+    "birthplace": "Sydney",
+    "citizenship": "Australia",
+    "occupations": [
+      "comedian",
+      "actor",
+      "screenwriter",
+      "writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -234,5 +234,37 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s"
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "im-affigan-omedy-onster-2021-ranscript.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q2093638",
+    "dob": "1966-07-07",
+    "dod": null,
+    "birthplace": "Elgin",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "film producer",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

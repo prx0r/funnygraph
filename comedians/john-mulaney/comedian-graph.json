@@ -405,5 +405,94 @@
         "two_stories"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "snl-pipeline",
+    "breakthrough": "2008 SNL \u2192 peak 2010s"
+  },
+  "specials_rated": [
+    {
+      "title": "John Mulaney: The Comeback Kid",
+      "year": 2015,
+      "imdb_id": "tt5069564",
+      "imdb_rating": 7.9,
+      "imdb_votes": 10227,
+      "transcript": "john-mulaney-comeback-kid.txt",
+      "standout": true
+    },
+    {
+      "title": "John Mulaney: Kid Gorgeous at Radio City",
+      "year": 2018,
+      "imdb_id": "tt8271714",
+      "imdb_rating": 7.9,
+      "imdb_votes": 9780,
+      "transcript": "john-mulaney-kid-gorgeous-at-radio-city.txt"
+    },
+    {
+      "title": "John Mulaney: Baby J",
+      "year": 2023,
+      "imdb_id": "tt27141610",
+      "imdb_rating": 7.5,
+      "imdb_votes": 7506,
+      "transcript": "john-mulaney-baby-j.txt"
+    },
+    {
+      "title": "W.",
+      "year": 2008,
+      "imdb_id": "tt1175491",
+      "imdb_rating": 6.3,
+      "imdb_votes": 51788,
+      "transcript": "john-mulaney-new-town.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "john-mulaney-snl-monologue.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ohn-ulaney-onologue-2020-ranscript.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "ohn-ulaney-ew-n-own-2012-ranscript.txt"
+    },
+    {
+      "title": "Me",
+      "year": 2014,
+      "imdb_id": "tt2958172",
+      "imdb_rating": 5.0,
+      "imdb_votes": 109,
+      "transcript": "ohn-ulaney-he-omeback-id-2015-ranscript.txt"
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q6249723",
+    "dob": "1982-08-26",
+    "dod": null,
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "writer",
+      "actor",
+      "television actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

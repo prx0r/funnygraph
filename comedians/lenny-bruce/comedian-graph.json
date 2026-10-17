@@ -238,5 +238,29 @@
     ],
     "theory_applied": true,
     "deepened": "2026-10-16"
-  }
+  },
+  "generation": {
+    "id": "pioneers",
+    "label": "Pioneers",
+    "span": "pre-1970",
+    "note": "Invented modern stand-up; fought the clubs, the law, and TV censors.",
+    "scene": "club",
+    "breakthrough": "1950s-60s nightclub + obscenity trials"
+  },
+  "recognition": {
+    "comedy_central_2004": 3,
+    "rolling_stone_2017": 3,
+    "trajectory_2004_2017": "stable"
+  },
+  "specials_rated": [
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "lenny-bruce-berkeley-concert.txt",
+      "standout": true
+    }
+  ]
 }

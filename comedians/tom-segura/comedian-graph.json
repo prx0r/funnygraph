@@ -377,5 +377,80 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s \u2192 Mostly Stories 2016"
+  },
+  "specials_rated": [
+    {
+      "title": "Hi",
+      "year": 2026,
+      "imdb_id": "tt33029123",
+      "imdb_rating": 7.9,
+      "imdb_votes": 3982,
+      "transcript": "tom-segura-overdoses-this-is-not-happening-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Tom Segura: Completely Normal",
+      "year": 2014,
+      "imdb_id": "tt3500822",
+      "imdb_rating": 7.7,
+      "imdb_votes": 3361,
+      "transcript": "tom-segura-completely-normal-2014-transcript.txt"
+    },
+    {
+      "title": "Tom Segura: Disgraceful",
+      "year": 2018,
+      "imdb_id": "tt7379330",
+      "imdb_rating": 7.5,
+      "imdb_votes": 5021,
+      "transcript": "tom-segura-disgraceful-2018-transcript.txt"
+    },
+    {
+      "title": "Tom Segura: Mostly Stories",
+      "year": 2016,
+      "imdb_id": "tt4970632",
+      "imdb_rating": 7.5,
+      "imdb_votes": 4616,
+      "transcript": "tom-segura-mostly-stories-2016-transcript.txt"
+    },
+    {
+      "title": "Tom Segura: Ball Hog",
+      "year": 2020,
+      "imdb_id": "tt11861072",
+      "imdb_rating": 7.3,
+      "imdb_votes": 4224,
+      "transcript": "tom-segura-ball-hog-2020-transcript.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "om-egura-all-og-2020-ranscript.txt"
+    },
+    {
+      "title": "Grace",
+      "year": 2018,
+      "imdb_id": "tt6163142",
+      "imdb_rating": 5.7,
+      "imdb_votes": 582,
+      "transcript": "om-egura-isgraceful-2018-ranscript.txt"
+    },
+    {
+      "title": "Ed",
+      "year": 1996,
+      "imdb_id": "tt0116165",
+      "imdb_rating": 2.8,
+      "imdb_votes": 9164,
+      "transcript": "comedy-central-presents-tom-segura-s15e01-transcript.txt"
+    }
+  ]
 }

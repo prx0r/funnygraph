@@ -267,5 +267,30 @@
         "incongruity"
       ]
     }
-  ]
+  ],
+  "specials_rated": [
+    {
+      "title": "Hannibal Buress: Comedy Camisado",
+      "year": 2016,
+      "imdb_id": "tt5352432",
+      "imdb_rating": 6.6,
+      "imdb_votes": 1652,
+      "transcript": "hannibal-buress-comedy-camisado-2016-transcript.txt",
+      "standout": true
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q5649155",
+    "dob": "1983-02-04",
+    "dod": null,
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "screenwriter",
+      "writer",
+      "comedian",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

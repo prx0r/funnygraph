@@ -305,5 +305,13 @@
         "incongruity"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s club \u2192 Soup to Nuts 2017"
+  }
 }

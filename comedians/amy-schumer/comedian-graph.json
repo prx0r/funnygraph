@@ -234,5 +234,59 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s Last Comic Standing \u2192 Comedy Central 2012"
+  },
+  "bio": {
+    "wikidata_id": "Q4749380",
+    "dob": "1981-06-01",
+    "dod": null,
+    "birthplace": "Upper East Side",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "writer",
+      "screenwriter",
+      "television producer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "rolling_stone_2017": 43,
+    "awards": [
+      {
+        "award": "Emmy Award",
+        "year": 2015
+      },
+      {
+        "award": "Writers Guild of America Award",
+        "year": 2016
+      },
+      {
+        "award": "Critics' Choice Awards",
+        "year": 2015
+      },
+      {
+        "award": "Peabody Awards",
+        "year": 2014
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2012-ull-ranscript.txt",
+      "standout": true
+    }
+  ]
 }

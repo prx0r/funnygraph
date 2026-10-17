@@ -265,5 +265,18 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "pioneers",
+    "label": "Pioneers",
+    "span": "pre-1970",
+    "note": "Invented modern stand-up; fought the clubs, the law, and TV censors.",
+    "scene": "club",
+    "breakthrough": "1960s Vegas/Ed Sullivan, peak 70s-80s"
+  },
+  "recognition": {
+    "comedy_central_2004": 7,
+    "rolling_stone_2017": 26,
+    "trajectory_2004_2017": "fall"
+  }
 }

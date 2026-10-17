@@ -208,5 +208,45 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s"
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "annah-adsby-ouglas-2020-ranscript.txt"
+    },
+    {
+      "title": "Anna",
+      "year": 2017,
+      "imdb_id": "tt6427854",
+      "imdb_rating": 2.1,
+      "imdb_votes": 549,
+      "transcript": "annah-adsby-anette-2018-ranscript.txt",
+      "standout": true
+    }
+  ],
+  "bio": {
+    "wikidata_id": "Q5648835",
+    "dob": "1978-01-12",
+    "dod": null,
+    "birthplace": "Smithton",
+    "citizenship": "Australia",
+    "occupations": [
+      "comedian",
+      "actor",
+      "television producer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

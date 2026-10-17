@@ -368,5 +368,45 @@
         "benign_violation"
       ]
     }
+  ],
+  "generation": {
+    "id": "seventies",
+    "label": "Seventies club boom",
+    "span": "1970s",
+    "note": "The club system matures; rock-star comics; confessional + character work.",
+    "scene": "club",
+    "breakthrough": "1970s club + Wattstax-era albums"
+  },
+  "recognition": {
+    "comedy_central_2004": 1,
+    "rolling_stone_2017": 1,
+    "trajectory_2004_2017": "stable"
+  },
+  "specials_rated": [
+    {
+      "title": "Richard Pryor... Here and Now",
+      "year": 1983,
+      "imdb_id": "tt0086194",
+      "imdb_rating": 7.2,
+      "imdb_votes": 2598,
+      "transcript": "richard-pryor-here-now.txt",
+      "standout": true
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "ichard-ryor-ive-nd-mokin-1971-ranscript.txt"
+    },
+    {
+      "title": "Sunset",
+      "year": 1988,
+      "imdb_id": "tt0096193",
+      "imdb_rating": 5.7,
+      "imdb_votes": 5125,
+      "transcript": "richard-pryor-live-sunset-strip.txt"
+    }
   ]
 }

@@ -195,5 +195,23 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "specials_rated": [
+    {
+      "title": "Me",
+      "year": 2014,
+      "imdb_id": "tt2958172",
+      "imdb_rating": 5.0,
+      "imdb_votes": 109,
+      "transcript": "aul-ooney-iece-of-y-ind-odbless-merica-2014-ranscript.txt"
+    }
+  ]
 }

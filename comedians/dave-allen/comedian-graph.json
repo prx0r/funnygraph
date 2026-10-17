@@ -195,5 +195,41 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "pioneers",
+    "label": "Pioneers",
+    "span": "pre-1970",
+    "note": "Invented modern stand-up; fought the clubs, the law, and TV censors.",
+    "scene": "uk-alt",
+    "breakthrough": "1960s-70s UK TV"
+  },
+  "bio": {
+    "wikidata_id": "Q3017116",
+    "dob": "1958-01-01",
+    "dod": null,
+    "birthplace": "Naperville",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "television actor",
+      "musician"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": ".txt",
+      "standout": true
+    }
+  ]
 }

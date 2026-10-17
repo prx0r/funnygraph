@@ -195,5 +195,22 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "bio": {
+    "wikidata_id": "Q4678957",
+    "dob": "1983-11-07",
+    "dod": null,
+    "birthplace": "Waterloo",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "film producer",
+      "screenwriter",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

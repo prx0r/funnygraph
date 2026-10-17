@@ -646,5 +646,43 @@
         "escalation"
       ]
     }
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "snl-pipeline",
+    "breakthrough": "SNL 1993-98 Weekend Update"
+  },
+  "recognition": {
+    "comedy_central_2004": 83
+  },
+  "specials_rated": [
+    {
+      "title": "Norm Macdonald: Nothing Special",
+      "year": 2022,
+      "imdb_id": "tt20201450",
+      "imdb_rating": 7.5,
+      "imdb_votes": 2493,
+      "transcript": "norm-macdonald-nothing-special-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Norm Macdonald: Hitler's Dog, Gossip & Trickery",
+      "year": 2017,
+      "imdb_id": "tt6878486",
+      "imdb_rating": 7.3,
+      "imdb_votes": 3747,
+      "transcript": "norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript.txt"
+    },
+    {
+      "title": "Don",
+      "year": 2022,
+      "imdb_id": "tt10709484",
+      "imdb_rating": 6.8,
+      "imdb_votes": 13129,
+      "transcript": "orm-acdonald-othing-pecial-2022-ranscript.txt"
+    }
   ]
 }

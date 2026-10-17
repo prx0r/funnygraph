@@ -195,5 +195,23 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "twenties",
+    "label": "Twenties KT/streaming",
+    "span": "2020s",
+    "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
+    "scene": "club",
+    "breakthrough": "2020"
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "arah-ooper-verything-s-ine-2020-ranscript.txt"
+    }
+  ]
 }

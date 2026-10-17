@@ -370,5 +370,67 @@
         "persona_gap"
       ]
     }
+  ],
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "snl-pipeline",
+    "breakthrough": "1990s"
+  },
+  "recognition": {
+    "rolling_stone_2017": 31
+  },
+  "specials_rated": [
+    {
+      "title": "Sarah Silverman: A Speck of Dust",
+      "year": 2017,
+      "imdb_id": "tt6948354",
+      "imdb_rating": 6.9,
+      "imdb_votes": 4176,
+      "transcript": "sarah-silverman-a-speck-of-dust-2017-full-transcript.txt",
+      "standout": true
+    },
+    {
+      "title": "Saturday Night",
+      "year": 2024,
+      "imdb_id": "tt27657135",
+      "imdb_rating": 6.8,
+      "imdb_votes": 40546,
+      "transcript": "sarah-silverman-saturday-night-live-monologue-season-40-episode-2-10-0.txt"
+    },
+    {
+      "title": "Sarah Silverman: We Are Miracles",
+      "year": 2013,
+      "imdb_id": "tt2883224",
+      "imdb_rating": 6.6,
+      "imdb_votes": 1731,
+      "transcript": "sarah-silverman-we-are-miracles-2013-full-transcript.txt"
+    },
+    {
+      "title": "Sarah Silverman: Jesus Is Magic",
+      "year": 2005,
+      "imdb_id": "tt0422528",
+      "imdb_rating": 6.5,
+      "imdb_votes": 5786,
+      "transcript": "sarah-silverman-jesus-is-magic-2005-transcript.txt"
+    },
+    {
+      "title": "Man\u00f4",
+      "year": 2005,
+      "imdb_id": "tt0473671",
+      "imdb_rating": 6.1,
+      "imdb_votes": 174,
+      "transcript": "arah-ilverman-esus-s-agic-2005-ranscript.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2013-ull-ranscript.txt"
+    }
   ]
 }

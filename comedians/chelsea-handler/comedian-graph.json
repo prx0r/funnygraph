@@ -195,5 +195,45 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q262502",
+    "dob": "1975-02-25",
+    "dod": null,
+    "birthplace": "Livingston",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "comedian",
+      "television actor",
+      "biographer"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": [
+      {
+        "award": "New Jersey Hall of Fame",
+        "year": 2022
+      }
+    ]
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "helsea-andler-volution-2020-ranscript.txt"
+    }
+  ]
 }

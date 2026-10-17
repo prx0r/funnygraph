@@ -238,5 +238,27 @@
         "persona_gap"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "eighties-boom",
+    "label": "Eighties boom",
+    "span": "1980s",
+    "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
+    "scene": "club",
+    "breakthrough": "1980s club + New Faces"
+  },
+  "bio": {
+    "wikidata_id": "Q2422570",
+    "dob": "1956-02-07",
+    "dod": null,
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "film actor",
+      "comedian",
+      "stand-up comedian",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

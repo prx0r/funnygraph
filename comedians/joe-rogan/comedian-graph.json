@@ -208,5 +208,27 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s \u2192 podcast 2009"
+  },
+  "bio": {
+    "wikidata_id": "Q2718421",
+    "dob": "1967-08-11",
+    "dod": null,
+    "birthplace": "Newark",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "judoka",
+      "television actor",
+      "podcaster"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -195,5 +195,48 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "seventies",
+    "label": "Seventies club boom",
+    "span": "1970s",
+    "note": "The club system matures; rock-star comics; confessional + character work.",
+    "scene": "uk-alt",
+    "breakthrough": "1970s UK folk-club \u2192 TV"
+  },
+  "bio": {
+    "wikidata_id": "Q298838",
+    "dob": "1942-11-24",
+    "dod": null,
+    "birthplace": "Glasgow",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "comedian",
+      "banjoist",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "rolling_stone_2017": 16,
+    "awards": [
+      {
+        "award": "Commander of the Order of the British Empire",
+        "year": null
+      },
+      {
+        "award": "Knight Bachelor",
+        "year": null
+      },
+      {
+        "award": "British Academy Scotland Awards",
+        "year": 2012
+      },
+      {
+        "award": "Chortle Awards",
+        "year": null
+      }
+    ]
   }
 }

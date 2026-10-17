@@ -208,5 +208,30 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s-00s club \u2192 Whitney sitcom"
+  },
+  "bio": {
+    "wikidata_id": "Q5106337",
+    "dob": "1980-03-29",
+    "dod": null,
+    "birthplace": "New Jersey",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "film actor",
+      "television actor",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

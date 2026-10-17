@@ -195,5 +195,30 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "club",
+    "breakthrough": "2010s"
+  },
+  "bio": {
+    "wikidata_id": "Q27796903",
+    "dob": "1981-07-01",
+    "dod": null,
+    "birthplace": "Los Angeles",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "rapper",
+      "poet",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

@@ -195,5 +195,30 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s"
+  },
+  "bio": {
+    "wikidata_id": "Q16897820",
+    "dob": "1979-01-06",
+    "dod": null,
+    "birthplace": "San Juan",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "voice actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

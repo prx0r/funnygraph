@@ -309,5 +309,29 @@
         "rigidify"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "podcast",
+    "breakthrough": "late-2010s SNL blip \u2192 Gilly & Keeves \u2192 Beautiful Dogs 2023"
+  },
+  "bio": {
+    "wikidata_id": "Q67464067",
+    "dob": "1987-12-11",
+    "dod": null,
+    "birthplace": "Mechanicsburg",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "writer",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  }
 }

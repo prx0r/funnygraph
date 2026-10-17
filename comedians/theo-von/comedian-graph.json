@@ -287,5 +287,29 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "tens",
+    "label": "Tens Netflix/podcast",
+    "span": "2010s",
+    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+    "scene": "podcast",
+    "breakthrough": "2000s Road Rules \u2192 2010s podcast empire"
+  },
+  "bio": {
+    "wikidata_id": "Q7781503",
+    "dob": "1980-03-19",
+    "dod": null,
+    "birthplace": "Mandeville",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "podcaster",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
   }
 }

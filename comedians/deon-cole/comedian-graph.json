@@ -195,5 +195,31 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
-  }
+  },
+  "bio": {
+    "wikidata_id": "Q5259997",
+    "dob": "1972-01-09",
+    "dod": null,
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "eon-ole-harleen-s-oy-2022-ranscript.txt"
+    }
+  ]
 }

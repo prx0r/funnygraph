@@ -445,5 +445,122 @@
         "status_reversal"
       ]
     }
+  ],
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "boston",
+    "breakthrough": "peak 2000s-10s specials (breakthrough 90s Boston)"
+  },
+  "bio": {
+    "wikidata_id": "Q13412374",
+    "dob": "1968-06-10",
+    "dod": null,
+    "birthplace": "Canton",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "podcaster",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "rolling_stone_2017": 17,
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "Bill Burr: Paper Tiger",
+      "year": 2019,
+      "imdb_id": "tt10847306",
+      "imdb_rating": 8.0,
+      "imdb_votes": 13449,
+      "transcript": "bill-burr-paper-tiger.txt",
+      "standout": true
+    },
+    {
+      "title": "Hi",
+      "year": 2026,
+      "imdb_id": "tt33029123",
+      "imdb_rating": 7.9,
+      "imdb_votes": 3982,
+      "transcript": "bill-burr-philadelphia-incident.txt"
+    },
+    {
+      "title": "Go",
+      "year": 1999,
+      "imdb_id": "tt0139239",
+      "imdb_rating": 7.2,
+      "imdb_votes": 81324,
+      "transcript": "bill-burr-let-go.txt"
+    },
+    {
+      "title": "Bill Burr: Walk Your Way Out",
+      "year": 2017,
+      "imdb_id": "tt6184894",
+      "imdb_rating": 7.2,
+      "imdb_votes": 8642,
+      "transcript": "bill-burr-walk-your-way-out.txt"
+    },
+    {
+      "title": "RED",
+      "year": 2010,
+      "imdb_id": "tt1245526",
+      "imdb_rating": 7.0,
+      "imdb_votes": 341534,
+      "transcript": "bill-burr-live-at-red-rocks.txt"
+    },
+    {
+      "title": "American Dream?",
+      "year": 2005,
+      "imdb_id": "tt0775413",
+      "imdb_rating": 6.9,
+      "imdb_votes": 128,
+      "transcript": "ill-urr-he-hiladelphia-ncident-2006-ranscript.txt"
+    },
+    {
+      "title": "W.",
+      "year": 2008,
+      "imdb_id": "tt1175491",
+      "imdb_rating": 6.3,
+      "imdb_votes": 51788,
+      "transcript": "bill-burr-i-m-sorry-you-feel-that-way.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": "bill-burr-snl-monologue.txt"
+    },
+    {
+      "title": "N\u00f6",
+      "year": 2021,
+      "imdb_id": "tt9409660",
+      "imdb_rating": 6.2,
+      "imdb_votes": 220,
+      "transcript": "ill-urr-ive-at-ed-ocks-2022-ranscript.txt"
+    },
+    {
+      "title": "You People",
+      "year": 2023,
+      "imdb_id": "tt14826022",
+      "imdb_rating": 5.5,
+      "imdb_votes": 68184,
+      "transcript": "bill-burr-you-people-are-all-same.txt"
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "2012-ull-ranscript.txt"
+    }
   ]
 }

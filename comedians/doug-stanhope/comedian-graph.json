@@ -277,5 +277,57 @@
       "transcripts/doug-stanhope/2012-ranscript.txt",
       "transcripts/doug-stanhope/oug-tanhope-eer-all-utsch-2013-ranscript.txt"
     ]
-  }
+  },
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "club",
+    "breakthrough": "1990s"
+  },
+  "bio": {
+    "wikidata_id": "Q1251875",
+    "dob": "1967-03-25",
+    "dod": null,
+    "birthplace": "Worcester",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "cabaret performer",
+      "writer",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "awards": []
+  },
+  "specials_rated": [
+    {
+      "title": "American Dream?",
+      "year": 2005,
+      "imdb_id": "tt0775413",
+      "imdb_rating": 6.9,
+      "imdb_votes": 128,
+      "transcript": "2004-ranscript.txt"
+    },
+    {
+      "title": "$",
+      "year": 1971,
+      "imdb_id": "tt0068152",
+      "imdb_rating": 6.3,
+      "imdb_votes": 3141,
+      "transcript": ".txt",
+      "standout": true
+    },
+    {
+      "title": "L",
+      "year": 2012,
+      "imdb_id": "tt2095684",
+      "imdb_rating": 5.4,
+      "imdb_votes": 830,
+      "transcript": "oug-tanhope-eer-all-utsch-2013-ranscript.txt"
+    }
+  ]
 }

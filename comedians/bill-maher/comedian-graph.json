@@ -208,5 +208,40 @@
         "use": "future cross-comedian timing normalization"
       }
     ]
+  },
+  "generation": {
+    "id": "aughts",
+    "label": "Aughts",
+    "span": "2000s",
+    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+    "scene": "club",
+    "breakthrough": "2000s Real Time"
+  },
+  "bio": {
+    "wikidata_id": "Q489",
+    "dob": "1956-01-20",
+    "dod": null,
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "television presenter",
+      "screenwriter",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "recognition": {
+    "comedy_central_2004": 38,
+    "awards": [
+      {
+        "award": "Primetime Emmy Award for Outstanding Hosted Nonfiction Series or Special",
+        "year": null
+      },
+      {
+        "award": "Mark Twain Prize for American Humor",
+        "year": 2026
+      }
+    ]
   }
 }

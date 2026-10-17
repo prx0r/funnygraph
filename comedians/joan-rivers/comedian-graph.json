@@ -239,5 +239,32 @@
         "benign_violation"
       ]
     }
-  ]
+  ],
+  "generation": {
+    "id": "eighties-boom",
+    "label": "Eighties boom",
+    "span": "1980s",
+    "note": "Comedy boom \u2192 HBO half-hours \u2192 sitcoms. Clean/dirty split, Def Jam, SNL pipeline.",
+    "scene": "club",
+    "breakthrough": "1960s start, peak 80s Tonight Show era"
+  },
+  "recognition": {
+    "comedy_central_2004": 44,
+    "rolling_stone_2017": 6,
+    "trajectory_2004_2017": "rise"
+  },
+  "bio": {
+    "wikidata_id": "Q240933",
+    "dob": "1933-06-08",
+    "dod": "2014-09-04",
+    "birthplace": "Brooklyn",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "television presenter",
+      "film director",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }
