@@ -1,0 +1,248 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "cam-patterson",
+  "name": "Cam Patterson",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Kill Tony firestarter who turns the everyman situation into a fast, loud, high-energy kill with zero flinch.",
+    "premise": "A man who treats the stage like a fight he's going to win on volume and commitment alone.",
+    "archetype": "firestarter",
+    "awareness": "semi",
+    "awareness_note": "Semi: the energy is the act; the craft is sharpening fast.",
+    "philosophy": {
+      "ontology": "The set is a fight and the fight is the point.",
+      "epistemology": "If the room feels it, it's true.",
+      "axiology": "Commitment and energy beat polish; the laugh is a contact sport.",
+      "causality": "One committed escalation can outrun three clean jokes.",
+      "agency": "Anyone can be loud; almost nobody is loud with a point."
+    },
+    "dramatic_core": {
+      "want": "the room to feel what he feels before he can name it",
+      "fear": "the polite silence \u2014 the death of the fight",
+      "need": "to be the one they remember from the episode",
+      "self_model": "a man permanently mid-round",
+      "blind_spots": [
+        "energy without a closer burns",
+        "the firestarter can become a one-volume act"
+      ]
+    },
+    "misinterpretation_rule": "Treats the everyman situation as a fight worth having out loud, and escalates until the room concedes.",
+    "contradictions": [
+      "the firestarter with the sharp turn",
+      "the loud one with the clean setup",
+      "the regular who grew into a force"
+    ],
+    "status_model": {
+      "desired_status": "the one they remember",
+      "felt_status": "a man permanently mid-fight"
+    },
+    "expression": {
+      "default_register": "firestarter",
+      "emotional_restraint": "low",
+      "tells": [
+        "the sudden escalation",
+        "the commit to the bit",
+        "the laugh that is also a dare"
+      ]
+    },
+    "modulator_range": [
+      "firestarter",
+      "escalation",
+      "everyman-war",
+      "wild-ride",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.85,
+      "pace": "fast, escalating",
+      "gesture_frequency": 0.7,
+      "punchline_hold_ms": 500
+    },
+    "operator_priors": {
+      "rigidify": 0.35,
+      "literalize": 0.4,
+      "double_interpret": 0.45,
+      "status_invert": 0.5,
+      "character_violation": 0.55,
+      "status": "hypothesis from KT clips"
+    },
+    "preferred_theories": [
+      "benign_violation",
+      "status_reversal",
+      "incongruity"
+    ],
+    "threads": [
+      "the set as a fight",
+      "energy as a strategy",
+      "the everyman who escalates",
+      "the commit as a comic form",
+      "the room as a sparring partner"
+    ],
+    "problem_space": [
+      "masculinity as performance",
+      "live comedy as combat",
+      "the regular who became a force"
+    ],
+    "style_thesis": "Firestarter engine: treats the everyman situation as a fight worth having out loud, and escalates until the room concedes. status_reversal + benign_violation: the low-status everyman wins the fight against the situation. The energy is the strategy \u2014 polish loses to commitment."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "firestarter",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "cam-patterson-essay-01",
+      "title": "Why is Cam Patterson funny? The firestarter engine",
+      "thesis": "Firestarter engine: treats the everyman situation as a fight worth having out loud, and escalates until the room concedes. status_reversal + benign_violation: the low-status everyman wins the fight against the situation. The energy is the strategy \u2014 polish loses to commitment.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "cam-patterson-essay-02",
+      "title": "Cam Patterson: 'The everyday fight' \u2014 how the bit works",
+      "thesis": "Takes a normal annoyance and treats it as a fight he's going to win on volume and commitment alone. The room is drawn into the fight because the energy is contagious. status_reversal: the person who was losing (to the situation) is now winning (on stage).",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "cam-patterson-bit-01",
+      "title": "Cam Patterson: 'The everyday fight' \u2014 how the bit works",
+      "thesis": "Takes a normal annoyance and treats it as a fight he's going to win on volume and commitment alone. The room is drawn into the fight because the energy is contagious. status_reversal: the person who was losing (to the situation) is now winning (on stage).",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Fast, escalating. The commit to the bit is a beat, not a pause \u2014 he escalates without giving the room a reset. The closer is the explosion.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The everyday fight",
+      "why_it_works": "Takes a normal annoyance and treats it as a fight he's going to win on volume and commitment alone. The room is drawn into the fight because the energy is contagious. status_reversal: the person who was losing (to the situation) is now winning (on stage).",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

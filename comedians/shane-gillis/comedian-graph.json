@@ -3,7 +3,7 @@
   "comedian_id": "shane-gillis",
   "name": "Shane Gillis",
   "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
-  "version": 1,
+  "version": 2,
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
@@ -87,7 +87,8 @@
       "internet fame",
       "the boys",
       "sports as philosophy"
-    ]
+    ],
+    "style_thesis": "The lovable-idiot-warlord engine: takes every cultural cue at face value from inside the dumbest plausible reading, then commits so hard the reading becomes the joke. The half-second where the room believes him is where the laugh lives. The break character (cracking up) is not a flaw \u2014 it's the audience's permission structure."
   },
   "engine": {
     "voice_clone_id": null,
@@ -106,7 +107,9 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "lovable_idiot_warlord cadence \u2014 hypothesize from specials."
+    "hypothesis": "lovable_idiot_warlord cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Fast setup, dead stop on the dumb take, laugh into the mic. The break IS the timing \u2014 he cracks himself, and the room follows.",
+    "status": "hypothesis until word-timed sets measured"
   },
   "gtvh_profile": {
     "SO": "",
@@ -118,42 +121,152 @@
   "theory_links": {
     "internal": [
       {
-        "id": "status_reversal",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
       },
       {
         "id": "incongruity",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
       },
       {
         "id": "benign_violation",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
       }
     ],
-    "external": []
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
   },
   "essay_seeds": [
     {
       "id": "shane-gillis-essay-01",
       "title": "Why is Shane Gillis funny? The lovable idiot warlord engine",
-      "thesis": "Takes every cultural cue at face value from inside the dumbest plausible reading, then commits so hard the reading becomes the joke.",
+      "thesis": "The lovable-idiot-warlord engine: takes every cultural cue at face value from inside the dumbest plausible reading, then commits so hard the reading becomes the joke. The half-second where the room believes him is where the laugh lives. The break character (cracking up) is not a flaw \u2014 it's the audience's permission structure.",
       "evidence": [
         "identity.misinterpretation_rule",
+        "known_bits",
         "identity.operator_priors",
-        "identity.threads"
+        "timing_profile.doctrine_hypothesis"
       ],
       "outline": [
         "the deal in one sentence",
-        "the misinterpretation rule as an engine",
-        "the operator priors that make it work",
-        "three threads as episode seeds",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
         "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "shane-gillis-essay-02",
+      "title": "Shane Gillis: 'Local advertising / small-business voice' \u2014 how the bit works",
+      "thesis": "He adopts the voice and worldview of a specific regional type (the confident local ad guy, the Wawa philosopher) and never winks. rigidify: applies the dumb logic as if it were law. The room laughs at the type they recognize AND at his total commitment.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "shane-gillis-essay-03",
+      "title": "Shane Gillis: 'The roast as a love language' \u2014 how the bit works",
+      "thesis": "Roast-mode bits work because the violation (cruelty) is framed as affiliative (the boys). benign_violation at max: the joke is mean AND the room knows everyone involved is in on it.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "shane-gillis-bit-01",
+      "title": "Shane Gillis: 'Local advertising / small-business voice' \u2014 how the bit works",
+      "thesis": "He adopts the voice and worldview of a specific regional type (the confident local ad guy, the Wawa philosopher) and never winks. rigidify: applies the dumb logic as if it were law. The room laughs at the type they recognize AND at his total commitment.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "shane-gillis-bit-02",
+      "title": "Shane Gillis: 'The roast as a love language' \u2014 how the bit works",
+      "thesis": "Roast-mode bits work because the violation (cruelty) is framed as affiliative (the boys). benign_violation at max: the joke is mean AND the room knows everyone involved is in on it.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
       ],
       "status": "seed"
     }
@@ -166,6 +279,35 @@
       "0 sets = all hypothesis"
     ],
     "sets_observed": 0,
-    "next": "ingest a signature-era set; measure timing; refine priors"
-  }
+    "next": "ingest a signature-era set; measure timing; refine priors",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "known_bits": [
+    {
+      "title": "Local advertising / small-business voice",
+      "why_it_works": "He adopts the voice and worldview of a specific regional type (the confident local ad guy, the Wawa philosopher) and never winks. rigidify: applies the dumb logic as if it were law. The room laughs at the type they recognize AND at his total commitment.",
+      "theory_links": [
+        "rigidify",
+        "benign_violation",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "The roast as a love language",
+      "why_it_works": "Roast-mode bits work because the violation (cruelty) is framed as affiliative (the boys). benign_violation at max: the joke is mean AND the room knows everyone involved is in on it.",
+      "theory_links": [
+        "benign_violation",
+        "split_knowledge"
+      ]
+    },
+    {
+      "title": "Cancellation / culture-war bits",
+      "why_it_works": "He treats the culture war as a series of guys being wrong out loud. status_reversal: the powerful (cancelers) are made to look stupid; the low-status (the idiot) is made to look free. The engine transfers because the topic is never the point \u2014 the confident-wrongness is.",
+      "theory_links": [
+        "status_reversal",
+        "rigidify"
+      ]
+    }
+  ]
 }

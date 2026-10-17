@@ -1,0 +1,290 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "joe-list",
+  "name": "Joe List",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Anxious New York everyman who turns airport, marriage, and health anxiety into a tight, fast, self-deprecating hour.",
+    "premise": "A man who treats modern life as a series of small emergencies and reports them with the energy of a man who just escaped one.",
+    "archetype": "anxious_everyman",
+    "awareness": "semi",
+    "awareness_note": "Semi: the anxiety is real enough; the craft is invisible under the speed.",
+    "philosophy": {
+      "ontology": "Life is a series of small emergencies with a few good minutes.",
+      "epistemology": "If you're anxious about it, you're probably seeing it clearly.",
+      "axiology": "Self-deprecation is a form of hygiene.",
+      "causality": "One small worry compounds into a whole worldview.",
+      "agency": "Anyone can be anxious; almost nobody makes it a tight five."
+    },
+    "dramatic_core": {
+      "want": "to get through the day without the floor opening up",
+      "fear": "being the only one who's worried about this",
+      "need": "the room to laugh at the anxiety with him, not at him",
+      "self_model": "a man permanently mid-sigh at the gate",
+      "blind_spots": [
+        "the anxiety can become a one-note",
+        "the speed can hide the risk"
+      ]
+    },
+    "misinterpretation_rule": "Treats every normal adult situation as a mild hazard worth reporting with urgency, and files the report at speed.",
+    "contradictions": [
+      "the anxious guy who sells out rooms",
+      "the self-deprecating one who clearly loves the craft",
+      "the podcast everyman with the pro's timing"
+    ],
+    "status_model": {
+      "desired_status": "the guy who gets it",
+      "felt_status": "a man permanently surprised the plane took off"
+    },
+    "expression": {
+      "default_register": "anxious-speed",
+      "emotional_restraint": "medium \u2014 the laugh covers the worry",
+      "tells": [
+        "the sudden self-deprecating pivot",
+        "the speed-up into the panic",
+        "the 'anyway' that resets"
+      ]
+    },
+    "modulator_range": [
+      "anxious",
+      "self-deprecating",
+      "story-mode",
+      "marriage-spar",
+      "quiet-kill"
+    ],
+    "profile": {
+      "energy": 0.7,
+      "pace": "fast, no wasted breath",
+      "gesture_frequency": 0.5,
+      "punchline_hold_ms": 600
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.4,
+      "double_interpret": 0.5,
+      "status_invert": 0.5,
+      "character_violation": 0.25,
+      "status": "hypothesis from specials + pod"
+    },
+    "preferred_theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "threads": [
+      "modern life as a mild hazard",
+      "the airport as a philosophy course",
+      "marriage as a shared anxiety",
+      "self-deprecation as hygiene",
+      "the tight five as a survival strategy"
+    ],
+    "problem_space": [
+      "health anxiety",
+      "New York as a stress test",
+      "the everyman who became a comic"
+    ],
+    "style_thesis": "Anxious-everyman engine: treats every normal adult situation as a mild hazard worth reporting with urgency. benign_violation at low voltage: the violation is mild (he's anxious about nothing), the benign frame is total (he's clearly fine). The speed is the anxiety made audible."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "anxious_everyman",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "joe-list-essay-01",
+      "title": "Why is Joe List funny? The anxious everyman engine",
+      "thesis": "Anxious-everyman engine: treats every normal adult situation as a mild hazard worth reporting with urgency. benign_violation at low voltage: the violation is mild (he's anxious about nothing), the benign frame is total (he's clearly fine). The speed is the anxiety made audible.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "joe-list-essay-02",
+      "title": "Joe List: 'The airport as a philosophy course' \u2014 how the bit works",
+      "thesis": "Takes the most mundane modern experience (airport) and treats it as a series of small emergencies. The room has all felt this; he names it with enough urgency to make the shared feeling funny. status_reversal: the powerful system (airport) is revealed as an anxiety machine.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "joe-list-essay-03",
+      "title": "Joe List: 'Health anxiety as a comic form' \u2014 how the bit works",
+      "thesis": "Reports bodily sensations with the gravity of a medical drama. The gap between the severity of the telling and the triviality of the event is the joke. garden_path: the room thinks it's a medical story, it's actually a comedy about anxiety.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "joe-list-bit-01",
+      "title": "Joe List: 'The airport as a philosophy course' \u2014 how the bit works",
+      "thesis": "Takes the most mundane modern experience (airport) and treats it as a series of small emergencies. The room has all felt this; he names it with enough urgency to make the shared feeling funny. status_reversal: the powerful system (airport) is revealed as an anxiety machine.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "joe-list-bit-02",
+      "title": "Joe List: 'Health anxiety as a comic form' \u2014 how the bit works",
+      "thesis": "Reports bodily sensations with the gravity of a medical drama. The gap between the severity of the telling and the triviality of the event is the joke. garden_path: the room thinks it's a medical story, it's actually a comedy about anxiety.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Fast, no wasted breath. The self-deprecating pivot is a beat, not a pause \u2014 he doesn't stop to be anxious, he speeds up into it. The 'anyway' resets the room.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The airport as a philosophy course",
+      "why_it_works": "Takes the most mundane modern experience (airport) and treats it as a series of small emergencies. The room has all felt this; he names it with enough urgency to make the shared feeling funny. status_reversal: the powerful system (airport) is revealed as an anxiety machine.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    },
+    {
+      "title": "Health anxiety as a comic form",
+      "why_it_works": "Reports bodily sensations with the gravity of a medical drama. The gap between the severity of the telling and the triviality of the event is the joke. garden_path: the room thinks it's a medical story, it's actually a comedy about anxiety.",
+      "theory_links": [
+        "garden_path",
+        "benign_violation"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

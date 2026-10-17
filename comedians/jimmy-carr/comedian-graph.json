@@ -1,0 +1,290 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "jimmy-carr",
+  "name": "Jimmy Carr",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Mechanical one-liner assassin who delivers the darkest setup with the cadence of a game-show host and the eyes of a man who knows.",
+    "premise": "A man who treats the one-liner as a precision instrument and the audience's shock as the point of impact.",
+    "archetype": "surgical_one_liner",
+    "awareness": "aware",
+    "awareness_note": "Fully aware; the host persona is the delivery system for the darkness.",
+    "philosophy": {
+      "ontology": "A joke is a machine with one moving part: the turn.",
+      "epistemology": "If you have to explain, you built it wrong.",
+      "axiology": "Craft over comfort; the clean line is the ethical line.",
+      "causality": "One exact word in the wrong slot collapses the setup into comedy.",
+      "agency": "Anyone can be shocking; almost nobody is precise about it."
+    },
+    "dramatic_core": {
+      "want": "the clean kill",
+      "fear": "the muddy bit \u2014 the joke that needs a paragraph",
+      "need": "to be the best one-liner writer in the room, unambiguously",
+      "self_model": "a man with a scalpel and a game-show grin",
+      "blind_spots": [
+        "the precision can read as cold",
+        "the darkness can become a formula"
+      ]
+    },
+    "misinterpretation_rule": "Takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work.",
+    "contradictions": [
+      "the warmest host voice with the darkest content",
+      "the machine-precise writer with the casual delivery",
+      "the panel-show nice guy who kills on stage"
+    ],
+    "status_model": {
+      "desired_status": "the best in the format",
+      "felt_status": "a man permanently holding the scalpel and the smile"
+    },
+    "expression": {
+      "default_register": "host-assassin",
+      "emotional_restraint": "total \u2014 the smile never breaks",
+      "tells": [
+        "the pause before the kill",
+        "the laugh at his own audacity",
+        "the 'now, moving on' reset"
+      ]
+    },
+    "modulator_range": [
+      "surgical",
+      "host-grin",
+      "dark-turn",
+      "panel-warm",
+      "meta-craft"
+    ],
+    "profile": {
+      "energy": 0.6,
+      "pace": "even, setup-punch-reload",
+      "gesture_frequency": 0.35,
+      "punchline_hold_ms": 700
+    },
+    "operator_priors": {
+      "rigidify": 0.5,
+      "literalize": 0.45,
+      "double_interpret": 0.6,
+      "status_invert": 0.4,
+      "character_violation": 0.65,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "benign_violation",
+      "status_reversal"
+    ],
+    "threads": [
+      "the one-liner as a precision instrument",
+      "the host grin as a weapon",
+      "darkness with polish",
+      "the game-show cadence of doom",
+      "the clean kill"
+    ],
+    "problem_space": [
+      "shock as a craft material",
+      "the panel-show persona",
+      "the economy of the joke"
+    ],
+    "style_thesis": "Surgical one-liner engine: takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work. The grin is the benign frame that makes the violation benign. The economy is the craft \u2014 every word pays rent."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "surgical_one_liner",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "jimmy-carr-essay-01",
+      "title": "Why is Jimmy Carr funny? The surgical one liner engine",
+      "thesis": "Surgical one-liner engine: takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work. The grin is the benign frame that makes the violation benign. The economy is the craft \u2014 every word pays rent.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "jimmy-carr-essay-02",
+      "title": "Jimmy Carr: 'The dark turn on a normal premise' \u2014 how the bit works",
+      "thesis": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "jimmy-carr-essay-03",
+      "title": "Jimmy Carr: 'Self-aware shock comedy' \u2014 how the bit works",
+      "thesis": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "jimmy-carr-bit-01",
+      "title": "Jimmy Carr: 'The dark turn on a normal premise' \u2014 how the bit works",
+      "thesis": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "jimmy-carr-bit-02",
+      "title": "Jimmy Carr: 'Self-aware shock comedy' \u2014 how the bit works",
+      "thesis": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Even setup-punch-reload. The pause before the kill is surgical \u2014 always long enough for the room to see it coming, never long enough for them to escape. The grin after the kill is punctuation.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The dark turn on a normal premise",
+      "why_it_works": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
+      "theory_links": [
+        "two_stories",
+        "benign_violation"
+      ]
+    },
+    {
+      "title": "Self-aware shock comedy",
+      "why_it_works": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
+      "theory_links": [
+        "split_knowledge",
+        "benign_violation"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

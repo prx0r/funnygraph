@@ -1,0 +1,69 @@
+{
+ "comedian": "kam-patterson",
+ "source": "scribe/kam-patterson-kt.json",
+ "note": "kam_patterson_1 UNSEEN window (clip is 52s so ~10-52)",
+ "audio_duration_s": null,
+ "timing": {
+  "word_count": 148,
+  "duration_s": 39.48,
+  "wpm": 224.9,
+  "pause_count": 30,
+  "pause_bins": {
+   "very_short": 26,
+   "short": 2,
+   "substantial": 2,
+   "topic": 0
+  },
+  "mean_pause_s": 0.242,
+  "median_pause_s": 0.22,
+  "punch_pauses_s": [
+   0.7,
+   0.64
+  ],
+  "max_pause_s": 0.7
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 20.72,
+   "pause_before_s": 0.64,
+   "fingerprint": "Your hometown, and I'm gonna get a"
+  },
+  {
+   "t_start_s": 32.84,
+   "pause_before_s": 0.7,
+   "fingerprint": "And then he said, no, you, I"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 10.0,
+   "t1_s": 20.08,
+   "words": 33,
+   "text": "Whoever you from, I smoke your dad's in your face. I'm gonna translate that for white people now because, why do y 'all look confused? He's just saying, hey man, suck up, miss.",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 1,
+   "t0_s": 20.72,
+   "t1_s": 32.14,
+   "words": 47,
+   "text": "Your hometown, and I'm gonna get a cigarette low, put weed in a smoke it as if it was your dad, the homeboy. I was just saying to me. And so I responded, I ain't hard to find. And then I sent my tour ",
+   "pause_after_s": 0.7
+  },
+  {
+   "beat": 2,
+   "t0_s": 32.84,
+   "t1_s": 49.48,
+   "words": 68,
+   "text": "And then he said, no, you, I ain't paying the senior. You talkin' to shit about my city. So I told him I said, listen, brother. Next time I'm gonna somewhere buy you, I get you in the show for free, n",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 3,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 3
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

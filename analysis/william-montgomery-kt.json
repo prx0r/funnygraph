@@ -1,0 +1,69 @@
+{
+ "comedian": "william-montgomery",
+ "source": "scribe/william-montgomery-kt.json",
+ "note": "laughter extracted from transcript 'ha ha' runs (StandUp4AI-style)",
+ "audio_duration_s": 163.88644,
+ "timing": {
+  "word_count": 517,
+  "duration_s": 163.22,
+  "wpm": 190.1,
+  "pause_count": 9,
+  "pause_bins": {
+   "very_short": 7,
+   "short": 0,
+   "substantial": 0,
+   "topic": 2
+  },
+  "mean_pause_s": 0.316,
+  "median_pause_s": 0.14,
+  "punch_pauses_s": [
+   1.1,
+   0.92
+  ],
+  "max_pause_s": 1.1
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 37.24,
+   "pause_before_s": 1.1,
+   "fingerprint": "And by the way Red Band your"
+  },
+  {
+   "t_start_s": 160.14,
+   "pause_before_s": 0.92,
+   "fingerprint": "That wasn't good That was not a"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 0.0,
+   "t1_s": 36.14,
+   "words": 185,
+   "text": "Some people call them the Sarah Toga singer the Memphis Strangler the vanilla gorilla This is the Big Red Machine the one and only William Montgomery Tony I'm about to be fucking threatening violence ",
+   "pause_after_s": 1.1
+  },
+  {
+   "beat": 1,
+   "t0_s": 37.24,
+   "t1_s": 159.22,
+   "words": 317,
+   "text": "And by the way Red Band your mama was so fat now there's an olympic shortage The Reverend Jesse Jackson just died and I'm trying to figure out what he did to piss off Hillary Clinton I asked Chad G P ",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 2,
+   "t0_s": 160.14,
+   "t1_s": 163.22,
+   "words": 15,
+   "text": "That wasn't good That was not a good exchange I love it I love it",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 3,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 3
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

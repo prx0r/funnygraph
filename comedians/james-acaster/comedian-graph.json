@@ -1,0 +1,290 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "james-acaster",
+  "name": "James Acaster",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Architect of the long-con bit who builds an absurd world with total commitment, then lets the world's logic do the punchline.",
+    "premise": "A man who treats a stupid premise like a legal case and follows it to a verdict nobody expected.",
+    "archetype": "long_con_architect",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the construction is the joke; the commitment is the craft.",
+    "philosophy": {
+      "ontology": "A stupid premise, followed sincerely, becomes a better premise.",
+      "epistemology": "If the bit's logic holds, the room has to come with you.",
+      "axiology": "Commitment over cleverness; the bit serves the bit.",
+      "causality": "One small absurd seed, watered with logic, becomes a forest.",
+      "agency": "Anyone can be random; almost nobody builds a legal case out of it."
+    },
+    "dramatic_core": {
+      "want": "to prove the stupid premise was right all along",
+      "fear": "the bit that collapses under its own logic",
+      "need": "the room to come with him all the way down",
+      "self_model": "a man building a cathedral out of a bad idea",
+      "blind_spots": [
+        "the construction can lose the room",
+        "the commitment can read as thin if the premise isn't strange enough"
+      ]
+    },
+    "misinterpretation_rule": "Takes a small absurd observation and treats it as a constitutional matter, following the logic until the absurdity becomes inevitable.",
+    "contradictions": [
+      "the awkward persona with the tightest construction",
+      "the silly premise with the serious follow-through",
+      "the soft voice with the ruthless logic"
+    ],
+    "status_model": {
+      "desired_status": "the architect of the long con",
+      "felt_status": "a man permanently mid-case-file"
+    },
+    "expression": {
+      "default_register": "awkward-architect",
+      "emotional_restraint": "high \u2014 the commitment is in the logic",
+      "tells": [
+        "the sudden commitment to a dumb rule",
+        "the callback that proves the architecture",
+        "the pause when the room catches up"
+      ]
+    },
+    "modulator_range": [
+      "architect",
+      "awkward",
+      "escalation",
+      "meta-craft",
+      "tender-chaos"
+    ],
+    "profile": {
+      "energy": 0.55,
+      "pace": "slow build, logical acceleration, verdict",
+      "gesture_frequency": 0.4,
+      "punchline_hold_ms": 1000
+    },
+    "operator_priors": {
+      "rigidify": 0.7,
+      "literalize": 0.75,
+      "double_interpret": 0.7,
+      "status_invert": 0.35,
+      "character_violation": 0.35,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "rigidity",
+      "literalise",
+      "bisociation"
+    ],
+    "threads": [
+      "the long-con bit",
+      "the absurd premise as a legal case",
+      "commitment as a comic strategy",
+      "the callback as architecture",
+      "the awkward as a delivery system"
+    ],
+    "problem_space": [
+      "logic as a weapon",
+      "the bit as a building",
+      "social awkwardness as a philosophy"
+    ],
+    "style_thesis": "Long-con-architect engine: takes a small absurd observation and treats it as a constitutional matter, following the logic until the absurdity becomes inevitable. rigidify + literalize at max. The bit is a legal case; the room is the jury; the verdict was always going to be absurd."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "long_con_architect",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "james-acaster-essay-01",
+      "title": "Why is James Acaster funny? The long con architect engine",
+      "thesis": "Long-con-architect engine: takes a small absurd observation and treats it as a constitutional matter, following the logic until the absurdity becomes inevitable. rigidify + literalize at max. The bit is a legal case; the room is the jury; the verdict was always going to be absurd.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "james-acaster-essay-02",
+      "title": "James Acaster: 'The absurd premise as a legal case' \u2014 how the bit works",
+      "thesis": "Starts with a stupid observation, then builds a complete logical framework around it as if it were a matter of law. The room is drawn into the logic before they notice they're in an absurd world. rigidify: every step follows from the last, even when the foundation is insane.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "james-acaster-essay-03",
+      "title": "James Acaster: 'The callback architecture' \u2014 how the bit works",
+      "thesis": "A detail from 10 minutes ago returns as the punchline. The room's delayed recognition ('OH \u2014 that was the joke all along') is the second laugh. repetition_variation: the callback is a variation that recontextualizes the original.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "james-acaster-bit-01",
+      "title": "James Acaster: 'The absurd premise as a legal case' \u2014 how the bit works",
+      "thesis": "Starts with a stupid observation, then builds a complete logical framework around it as if it were a matter of law. The room is drawn into the logic before they notice they're in an absurd world. rigidify: every step follows from the last, even when the foundation is insane.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "james-acaster-bit-02",
+      "title": "James Acaster: 'The callback architecture' \u2014 how the bit works",
+      "thesis": "A detail from 10 minutes ago returns as the punchline. The room's delayed recognition ('OH \u2014 that was the joke all along') is the second laugh. repetition_variation: the callback is a variation that recontextualizes the original.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Slow build, logical acceleration, verdict. The pauses are architectural \u2014 each one is the room catching up to the next step of the case. The callback is the load-bearing wall.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The absurd premise as a legal case",
+      "why_it_works": "Starts with a stupid observation, then builds a complete logical framework around it as if it were a matter of law. The room is drawn into the logic before they notice they're in an absurd world. rigidify: every step follows from the last, even when the foundation is insane.",
+      "theory_links": [
+        "rigidify",
+        "bogus_logic"
+      ]
+    },
+    {
+      "title": "The callback architecture",
+      "why_it_works": "A detail from 10 minutes ago returns as the punchline. The room's delayed recognition ('OH \u2014 that was the joke all along') is the second laugh. repetition_variation: the callback is a variation that recontextualizes the original.",
+      "theory_links": [
+        "repetition_variation",
+        "two_stories"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

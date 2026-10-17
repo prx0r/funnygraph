@@ -1,0 +1,41 @@
+{
+ "set_id": "william-montgomery_kt-set-1",
+ "title": "KT set 1",
+ "status": "harvested",
+ "transcript": {
+  "path": "/root/characters2/theory/scribe/will_montgomery_1.json",
+  "format": "scribe word-timed",
+  "words": 517,
+  "duration_s": 163.22
+ },
+ "timing_measured": {
+  "wpm": 190.1,
+  "pause_count": 9,
+  "pause_bins": {
+   "very_short": 7,
+   "short": 0,
+   "substantial": 0,
+   "topic": 2
+  },
+  "mean_pause_s": 0.316,
+  "median_pause_s": 0.14,
+  "max_pause_s": 1.1,
+  "punch_pauses_s": [
+   1.1,
+   0.92
+  ],
+  "thesis": "wpm=190.1 \u00b7 max_hold=1.1s \u00b7 topic_pauses=2"
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 37.24,
+   "pause_before_s": 1.1,
+   "fingerprint": "And by the way Red Band your"
+  },
+  {
+   "t_start_s": 160.14,
+   "pause_before_s": 0.92,
+   "fingerprint": "That wasn't good That was not a"
+  }
+ ]
+}

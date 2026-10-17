@@ -1,0 +1,248 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "tom-segura",
+  "name": "Tom Segura",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Deadpan dark observer who says the worst possible thing with the calm of a man reading a weather report.",
+    "premise": "A man who treats the darkest available reading as the only honest one and delivers it with total calm.",
+    "archetype": "deadpan_dark",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the calm is the weapon; the contrast is the craft.",
+    "philosophy": {
+      "ontology": "The darkest reading is usually the honest one.",
+      "epistemology": "If you say it calmly, the room has to decide how to feel.",
+      "axiology": "Honesty over comfort; the calm is a delivery system.",
+      "causality": "One calm dark line can collapse a room's defenses.",
+      "agency": "Anyone can be shocking; almost nobody is calm about it."
+    },
+    "dramatic_core": {
+      "want": "to say the worst thing and get away with it",
+      "fear": "the room turning on him \u2014 the calm is the shield",
+      "need": "to be the one who names the dark thing first",
+      "self_model": "a man with a calm voice and a dark map",
+      "blind_spots": [
+        "the calm can become a formula",
+        "the darkness can lose the room"
+      ]
+    },
+    "misinterpretation_rule": "Treats the worst possible reading of a normal situation as the default, and delivers it with the calm of a weather report.",
+    "contradictions": [
+      "the calm voice with the dark content",
+      "the nice guy with the terrible thoughts",
+      "the podcast host who kills on stage"
+    ],
+    "status_model": {
+      "desired_status": "the one who says it",
+      "felt_status": "a man permanently holding the line between calm and chaos"
+    },
+    "expression": {
+      "default_register": "deadpan-dark",
+      "emotional_restraint": "total",
+      "tells": [
+        "the calm delivery of the terrible thing",
+        "the pause that lets the room decide",
+        "the almost-smile after the kill"
+      ]
+    },
+    "modulator_range": [
+      "deadpan",
+      "dark-turn",
+      "story-mode",
+      "podcast-spiral",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.55,
+      "pace": "even, calm, sudden kill",
+      "gesture_frequency": 0.35,
+      "punchline_hold_ms": 900
+    },
+    "operator_priors": {
+      "rigidify": 0.4,
+      "literalize": 0.5,
+      "double_interpret": 0.6,
+      "status_invert": 0.45,
+      "character_violation": 0.55,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "threads": [
+      "the darkest reading as the default",
+      "calm as a weapon",
+      "the weather report of doom",
+      "the nice guy with terrible thoughts",
+      "the contrast as a form"
+    ],
+    "problem_space": [
+      "darkness as a comic mode",
+      "the body as a punchline",
+      "the podcast as a stage"
+    ],
+    "style_thesis": "Deadpan-dark engine: treats the worst possible reading of a normal situation as the default, and delivers it with the calm of a weather report. benign_violation at maximum contrast: the violation is extreme, the benign frame is total (the calm). The contrast is the comedy."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "deadpan_dark",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "tom-segura-essay-01",
+      "title": "Why is Tom Segura funny? The deadpan dark engine",
+      "thesis": "Deadpan-dark engine: treats the worst possible reading of a normal situation as the default, and delivers it with the calm of a weather report. benign_violation at maximum contrast: the violation is extreme, the benign frame is total (the calm). The contrast is the comedy.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "tom-segura-essay-02",
+      "title": "Tom Segura: 'The weather report of doom' \u2014 how the bit works",
+      "thesis": "Describes a terrible situation with the calm of a weather forecast. The contrast between content valence (dark) and delivery valence (calm) is the engine \u2014 the room doesn't know how to feel, and the not-knowing is the laugh. This is the OPPOSITE of Louis's split: text reads dark, delivery is flat.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "tom-segura-bit-01",
+      "title": "Tom Segura: 'The weather report of doom' \u2014 how the bit works",
+      "thesis": "Describes a terrible situation with the calm of a weather forecast. The contrast between content valence (dark) and delivery valence (calm) is the engine \u2014 the room doesn't know how to feel, and the not-knowing is the laugh. This is the OPPOSITE of Louis's split: text reads dark, delivery is flat.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Even, calm, sudden kill. The calm is the timing device \u2014 the room has no warning because the delivery never signals the turn. The pause after the kill is the room deciding how to feel.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The weather report of doom",
+      "why_it_works": "Describes a terrible situation with the calm of a weather forecast. The contrast between content valence (dark) and delivery valence (calm) is the engine \u2014 the room doesn't know how to feel, and the not-knowing is the laugh. This is the OPPOSITE of Louis's split: text reads dark, delivery is flat.",
+      "theory_links": [
+        "incongruity",
+        "benign_violation"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

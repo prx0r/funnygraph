@@ -1,0 +1,39 @@
+{
+ "comedian": "robin-williams",
+ "source": "funnygraph/scribe/robin-williams-weapons-of-self-destruction.json",
+ "note": "SYNTHETIC timing from robin-williams-weapons-self-destruction.txt @ 150.0wpm \u2014 NOT measured; content-only",
+ "audio_duration_s": 5977.56,
+ "timing": {
+  "word_count": 14944,
+  "duration_s": 5977.56,
+  "wpm": 150.0,
+  "pause_count": 14943,
+  "pause_bins": {
+   "very_short": 14943,
+   "short": 0,
+   "substantial": 0,
+   "topic": 0
+  },
+  "mean_pause_s": 0.04,
+  "median_pause_s": 0.04,
+  "punch_pauses_s": [],
+  "max_pause_s": 0.04
+ },
+ "punch_candidates": [],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 0.0,
+   "t1_s": 5977.56,
+   "words": 14944,
+   "text": "In this comedy special taped at DAR Constitution Hall his first solo special on the network in seven years Williams covers such topics as global warming sex and politics the state of health care in th",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 1,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 1
+ },
+ "provenance": "SYNTHETIC timing \u2014 content only"
+}

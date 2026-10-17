@@ -2,11 +2,10 @@
   "schema": "pogtown.comedian.v1",
   "comedian_id": "george-carlin",
   "name": "George Carlin",
-  "note": "STAGE PERSONA graph. Graph-only (no personality.md yet). 0 sets measured — all hypothesis. Historical figure; stage persona only, no biography.",
-  "version": 1,
+  "note": "STAGE PERSONA graph. Graph-only (no personality.md yet). 0 sets measured \u2014 all hypothesis. Historical figure; stage persona only, no biography.",
+  "version": 2,
   "created": "2026-10-15",
   "annotator": "mimo-v2.5",
-
   "identity": {
     "deal": "Language prophet who holds the culture's own words up against its own rules until the hypocrisy does the laughing for him.",
     "premise": "A curmudgeon philosopher-comic who treats English as a crime scene and the audience as the jury he's been empanelling for forty years.",
@@ -22,10 +21,12 @@
     },
     "dramatic_core": {
       "want": "one more euphemism dragged into the light",
-      "fear": "becoming the thing he's angry at — irrelevant, soft, saying 'persons of substance'",
+      "fear": "becoming the thing he's angry at \u2014 irrelevant, soft, saying 'persons of substance'",
       "need": "the audience to leave smarter AND madder",
       "self_model": "the last honest man with a thesaurus",
-      "blind_spots": ["unknown — needs multi-set observation"]
+      "blind_spots": [
+        "unknown \u2014 needs multi-set observation"
+      ]
     },
     "misinterpretation_rule": "Treats any soft phrase as a crime scene: reconstruct what actually happened from the words people chose not to use.",
     "contradictions": [
@@ -33,74 +34,321 @@
       "rage delivered with the timing of a song-and-dance man",
       "preached individuality from the most copied stage persona in comedy"
     ],
-    "status_model": {"desired_status": "the language's inspector general", "felt_status": "curmudgeon prophet with a Grateful Dead following"},
-    "expression": {"default_register": "prophetic-rant", "emotional_restraint": "low-medium — the anger is the point, but engineered", "tells": ["the eyebrow on the key word", "the acceleration into the list", "the sudden drop to deadpan on the killer"]},
-    "modulator_range": ["prophetic", "curmudgeonly", "gleefully-cruel", "weary-scholar", "mock-innocent"],
-    "profile": {"energy": 0.65, "pace": "accelerating lists, hard stops on the key word", "gesture_frequency": 0.5, "punchline_hold_ms": 1200, "note": "hypothesis"},
+    "status_model": {
+      "desired_status": "the language's inspector general",
+      "felt_status": "curmudgeon prophet with a Grateful Dead following"
+    },
+    "expression": {
+      "default_register": "prophetic-rant",
+      "emotional_restraint": "low-medium \u2014 the anger is the point, but engineered",
+      "tells": [
+        "the eyebrow on the key word",
+        "the acceleration into the list",
+        "the sudden drop to deadpan on the killer"
+      ]
+    },
+    "modulator_range": [
+      "prophetic",
+      "curmudgeonly",
+      "gleefully-cruel",
+      "weary-scholar",
+      "mock-innocent"
+    ],
+    "profile": {
+      "energy": 0.65,
+      "pace": "accelerating lists, hard stops on the key word",
+      "gesture_frequency": 0.5,
+      "punchline_hold_ms": 1200,
+      "note": "hypothesis"
+    },
     "operator_priors": {
       "rigidify": 0.9,
       "literalize": 0.8,
       "double_interpret": 0.75,
       "status_invert": 0.7,
       "character_violation": 0.5,
-      "status": "authored hypothesis — 0 sets"
+      "status": "authored hypothesis \u2014 0 sets"
     },
-    "preferred_theories": ["rigidity", "literalise", "status_reversal", "bisociation"],
-    "threads": ["euphemisms as crime scenes", "the list as sermon form", "baseball/airplane as civilization metaphors", "the seven-words taboo as constitutional question"],
-    "problem_space": ["the English language", "consumer culture", "religion as vocabulary", "political soft language", "death and its job titles"]
+    "preferred_theories": [
+      "rigidity",
+      "literalise",
+      "status_reversal",
+      "bisociation"
+    ],
+    "threads": [
+      "euphemisms as crime scenes",
+      "the list as sermon form",
+      "baseball/airplane as civilization metaphors",
+      "the seven-words taboo as constitutional question"
+    ],
+    "problem_space": [
+      "the English language",
+      "consumer culture",
+      "religion as vocabulary",
+      "political soft language",
+      "death and its job titles"
+    ],
+    "style_thesis": "Prophet-curmudgeon engine: treats any soft phrase as a crime scene and reconstructs what actually happened from the words people chose not to use. rigidify + literalize at max: hold the euphemism to its own literal meaning until it breaks. The list is the sermon form; the key word is the gavel."
   },
-
   "engine": {
     "voice_clone_id": null,
     "delivery_archetype": "prophet_curmudgeon",
-    "archetype_def": "NEW cell — the preacher who never calls it preaching. Engine fit (hypothesis): sage_narrator high-tempo + mock_indignant_engine. Needs archetypes.json add (engine lane).",
+    "archetype_def": "NEW cell \u2014 the preacher who never calls it preaching. Engine fit (hypothesis): sage_narrator high-tempo + mock_indignant_engine. Needs archetypes.json add (engine lane).",
     "measured_acoustics": null,
-    "jev_state": {"status": "NOT RUN"},
+    "jev_state": {
+      "status": "NOT RUN"
+    },
     "world_transfer_proven": null
   },
-
-  "sets": [],
-  "set_queue": {"note": "First ingest: 'Jammin' in New York' or 'You Are All Diseases' era — language-prophet at full power. Word-timed ASR needed.", "blocked_on": "audio access"},
-
+  "sets": [
+    {
+      "set_id": "george-carlin_george-carlin-1978-full-transcript",
+      "title": "1978 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/george-carlin/george-carlin-1978-full-transcript.txt",
+        "format": "plain txt",
+        "words": 8662
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "george-carlin_george-carlin-at-usc-1977-full-transcrip",
+      "title": "At Usc 1977 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/george-carlin/george-carlin-at-usc-1977-full-transcript.txt",
+        "format": "plain txt",
+        "words": 8234
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "george-carlin_george-carlin-back-town-1996-full-transc",
+      "title": "Back Town 1996 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/george-carlin/george-carlin-back-town-1996-full-transcript.txt",
+        "format": "plain txt",
+        "words": 6608
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "george-carlin_george-carlin-carlin-campus-1984-full-tr",
+      "title": "Carlin Campus 1984 Full Transcript",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/george-carlin/george-carlin-carlin-campus-1984-full-transcript.txt",
+        "format": "plain txt",
+        "words": 6283
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "george-carlin_george-carlin-complaints-grievances",
+      "title": "Complaints Grievances",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/george-carlin/george-carlin-complaints-grievances.txt",
+        "format": "plain txt",
+        "words": 6399
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    }
+  ],
+  "set_queue": {
+    "note": "First ingest: 'Jammin' in New York' or 'You Are All Diseases' era \u2014 language-prophet at full power. Word-timed ASR needed.",
+    "blocked_on": "audio access"
+  },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "the list sermon: accelerates through a run of examples (rising rate, rising pitch), hard-stops on the key word (the euphemism being executed), lets the stop do the indignant work, then restarts the list engine. Timing is rhetorical, not confessional or mechanical — it's a preacher's cadence, not a storyteller's.",
-    "stop_start": ["start: list accelerates (rate up, pitch up)", "stop: the key word lands hard", "hold: the room's outrage/laughter catches up", "start: next list, the sermon continues"]
+    "hypothesis": "the list sermon: accelerates through a run of examples (rising rate, rising pitch), hard-stops on the key word (the euphemism being executed), lets the stop do the indignant work, then restarts the list engine. Timing is rhetorical, not confessional or mechanical \u2014 it's a preacher's cadence, not a storyteller's.",
+    "stop_start": [
+      "start: list accelerates (rate up, pitch up)",
+      "stop: the key word lands hard",
+      "hold: the room's outrage/laughter catches up",
+      "start: next list, the sermon continues"
+    ],
+    "doctrine_hypothesis": "The list sermon: accelerates through a run of examples (rising rate, rising pitch), hard-stops on the key word (the euphemism being executed), lets the stop do the indignant work, then restarts the list engine. Timing is rhetorical, not confessional \u2014 a preacher's cadence.",
+    "status": "hypothesis until word-timed sets measured"
   },
-
   "gtvh_profile": {
-    "SO": "sacred/profane — the whole engine; the sacred is the euphemism, the profane is the truth underneath",
-    "LM": "rigidify + literalize — hold the soft phrase to its own literal meaning until it breaks",
-    "TA": "powerful / language itself — never punches down; the butt is the vocabulary of power",
-    "NS": "monologue-list — the list is the signature form",
+    "SO": "sacred/profane \u2014 the whole engine; the sacred is the euphemism, the profane is the truth underneath",
+    "LM": "rigidify + literalize \u2014 hold the soft phrase to its own literal meaning until it breaks",
+    "TA": "powerful / language itself \u2014 never punches down; the butt is the vocabulary of power",
+    "NS": "monologue-list \u2014 the list is the signature form",
     "note": "authored hypothesis"
   },
-
   "theory_links": {
     "internal": [
-      {"id": "rigidify", "cite": "operator registry", "claim": "apply the literal rule until it breaks", "applies_to": "the euphemism-execution move"},
-      {"id": "list-sermon", "cite": "SPEC-theory-blocks / public specials knowledge", "claim": "lists as rhetorical acceleration devices", "applies_to": "his primary narrative form"}
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
     ],
     "external": [
-      {"id": "seven-words", "cite": "public-domain knowledge of the routine as cultural object", "claim": "language taboo as a testable constitutional question", "applies_to": "the thesis that comedy can be jurisprudence"}
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
     ]
   },
-
   "essay_seeds": [
     {
-      "id": "carlin-essay-01",
-      "title": "The sermon that never calls itself preaching: Carlin's timing as rhetoric",
-      "thesis": "His timing isn't confessional (Louis) or mechanical (Hedberg) or defensive (Norm) — it's rhetorical. The list accelerates like a sermon building to its amen, the key word lands like a gavel, the hold lets the congregation catch up. This makes him the structural ancestor of every 'prophetic' comic on our axes, and the reason his TA is language itself: you can't punch a person for a word they didn't coin, but you can execute the word.",
-      "evidence": ["timing_profile.hypothesis", "gtvh_profile", "axes.json target-direction axis"],
-      "outline": ["rhetorical timing vs other doctrines", "the list as amen-corner", "why TA=language is the perfect target for a word-craft comic", "the inheritance: Chappelle's hold, Rock's rhythm, Jeselnik's precision all pass through this"],
+      "id": "george-carlin-essay-01",
+      "title": "Why is George Carlin funny? The prophet curmudgeon engine",
+      "thesis": "Treats any soft phrase as a crime scene: reconstruct what actually happened from the words people chose not to use.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "george-carlin-bit-01",
+      "title": "George Carlin: 'The seven dirty words' \u2014 how the bit works",
+      "thesis": "Treats a language taboo as a constitutional question. rigidify: applies the rules of 'obscene' literally until the category collapses. The bit is jurisprudence \u2014 the courtroom is the stage, the audience is the jury.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "george-carlin-bit-02",
+      "title": "George Carlin: 'Euphemism execution (soft language)' \u2014 how the bit works",
+      "thesis": "Takes a soft phrase ('passed away', 'persons of substance') and holds it to its literal meaning until the euphemism confesses. The list accelerates like a sermon; the key word lands like a gavel. The room laughs at the recognition of the lie they've been telling.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
       "status": "seed"
     }
   ],
-
   "provenance": {
     "persona": "authored from public reputation (NYT 'Master of Words', genre tags: dark comedy/social criticism/language analysis, Grammy spoken-word career)",
-    "rules_held": ["stage persona only", "no verbatim lines", "0 sets = all hypothesis", "historical figure — no biography, persona-as-acted only"],
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "0 sets = all hypothesis",
+      "historical figure \u2014 no biography, persona-as-acted only"
+    ],
     "sets_observed": 0,
-    "next": "ingest language-prophet era set; the list-sermon timing is the thing to measure"
-  }
+    "next": "ingest language-prophet era set; the list-sermon timing is the thing to measure",
+    "transcripts_linked": [
+      "/root/characters2/theory/transcripts/george-carlin/george-carlin-1978-full-transcript.txt",
+      "/root/characters2/theory/transcripts/george-carlin/george-carlin-at-usc-1977-full-transcript.txt",
+      "/root/characters2/theory/transcripts/george-carlin/george-carlin-back-town-1996-full-transcript.txt",
+      "/root/characters2/theory/transcripts/george-carlin/george-carlin-carlin-campus-1984-full-transcript.txt",
+      "/root/characters2/theory/transcripts/george-carlin/george-carlin-complaints-grievances.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "known_bits": [
+    {
+      "title": "The seven dirty words",
+      "why_it_works": "Treats a language taboo as a constitutional question. rigidify: applies the rules of 'obscene' literally until the category collapses. The bit is jurisprudence \u2014 the courtroom is the stage, the audience is the jury.",
+      "theory_links": [
+        "rigidify",
+        "literalise",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "Euphemism execution (soft language)",
+      "why_it_works": "Takes a soft phrase ('passed away', 'persons of substance') and holds it to its literal meaning until the euphemism confesses. The list accelerates like a sermon; the key word lands like a gavel. The room laughs at the recognition of the lie they've been telling.",
+      "theory_links": [
+        "rigidify",
+        "literalise"
+      ]
+    },
+    {
+      "title": "The list as sermon form",
+      "why_it_works": "Lists are rhetorical acceleration devices \u2014 the room is carried forward by the rhythm, the key word is the amen. The list is not a collection of jokes; it's a rhetorical structure that makes the final word inevitable and devastating.",
+      "theory_links": [
+        "escalation",
+        "repetition_variation"
+      ]
+    }
+  ]
 }

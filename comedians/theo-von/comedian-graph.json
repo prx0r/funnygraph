@@ -1,0 +1,291 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "theo-von",
+  "name": "Theo Von",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Louisiana swamp philosopher who delivers the dumbest profound thing in a drawl until you're not sure which it is.",
+    "premise": "A man who sounds like he failed upward into wisdom and treats every modern inconvenience as a parable from the bayou.",
+    "archetype": "swamp_philosopher",
+    "awareness": "semi",
+    "awareness_note": "Semi: the goof is played straight; the wisdom is either accidental or too good to be accidental.",
+    "philosophy": {
+      "ontology": "The world is a series of animals wearing people clothes.",
+      "epistemology": "If it sounds like a saying your uncle made up, it's probably true.",
+      "axiology": "Being kind beats being right; being weird beats both.",
+      "causality": "One small road story becomes a cosmology if you let it.",
+      "agency": "Anyone can be smart; almost nobody can be honestly confused out loud."
+    },
+    "dramatic_core": {
+      "want": "to understand one true thing about being a person",
+      "fear": "sounding like a guy who read a book instead of a guy who lived a life",
+      "need": "the room to laugh with him at the strangeness",
+      "self_model": "a guy who took a wrong turn at the interstate and found wisdom",
+      "blind_spots": [
+        "the goof can become a cage",
+        "the drawl can hide how sharp the observation is"
+      ]
+    },
+    "misinterpretation_rule": "Treats modern life as a foreign country he's reporting from with the wrong map, and the wrong map is funnier and sometimes truer.",
+    "contradictions": [
+      "the party guy with the poet's eye",
+      "the goof who lands the deepest line",
+      "the podcast machine who still sounds like he just woke up"
+    ],
+    "status_model": {
+      "desired_status": "the weird uncle you actually listen to",
+      "felt_status": "a man permanently mid-double-take at the modern world"
+    },
+    "expression": {
+      "default_register": "drawl-parable",
+      "emotional_restraint": "medium \u2014 the eyes do the thinking",
+      "tells": [
+        "the long pause before the weird image",
+        "the 'you know what it is' opener",
+        "the sudden precise metaphor in a swamp of words"
+      ]
+    },
+    "modulator_range": [
+      "swamp-wise",
+      "goof",
+      "tender-bro",
+      "podcast-spiral",
+      "quiet-kill"
+    ],
+    "profile": {
+      "energy": 0.55,
+      "pace": "slow build, sudden precise image",
+      "gesture_frequency": 0.45,
+      "punchline_hold_ms": 1100
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.55,
+      "double_interpret": 0.75,
+      "status_invert": 0.55,
+      "character_violation": 0.3,
+      "status": "hypothesis from clips + podcast"
+    },
+    "preferred_theories": [
+      "literalise",
+      "incongruity",
+      "benign_violation"
+    ],
+    "threads": [
+      "modern life as a foreign country",
+      "the parable from the bayou",
+      "animals in people clothes",
+      "the goof who sees clearly",
+      "the drawl as a delivery system"
+    ],
+    "problem_space": [
+      "fame as a strange road",
+      "sobriety and absurdity",
+      "the body as a funny animal",
+      "small-town logic vs the internet"
+    ],
+    "style_thesis": "Swamp-philosopher engine: treats modern life as a foreign country he's reporting from with the wrong map \u2014 and the wrong map is funnier and sometimes truer. The goof-to-wisdom ratio is the engine: the room is laughing at the goof when the wisdom lands, and the wisdom hits harder because they were laughing."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "swamp_philosopher",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "theo-von-essay-01",
+      "title": "Why is Theo Von funny? The swamp philosopher engine",
+      "thesis": "Swamp-philosopher engine: treats modern life as a foreign country he's reporting from with the wrong map \u2014 and the wrong map is funnier and sometimes truer. The goof-to-wisdom ratio is the engine: the room is laughing at the goof when the wisdom lands, and the wisdom hits harder because they were laughing.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "theo-von-essay-02",
+      "title": "Theo Von: 'The road story / small-town parable' \u2014 how the bit works",
+      "thesis": "One small road story becomes a cosmology if you let it. The structure is parable: concrete image \u2192 unexpected universal. The drawl sells the sincerity; the observation is too precise to be accidental.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "theo-von-essay-03",
+      "title": "Theo Von: 'Animals in people clothes' \u2014 how the bit works",
+      "thesis": "Treats people as animals wearing costumes (literalise) and describes the animal behavior with deadpan precision. The room recognizes the animal first, the person second \u2014 that order is the joke.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "theo-von-bit-01",
+      "title": "Theo Von: 'The road story / small-town parable' \u2014 how the bit works",
+      "thesis": "One small road story becomes a cosmology if you let it. The structure is parable: concrete image \u2192 unexpected universal. The drawl sells the sincerity; the observation is too precise to be accidental.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "theo-von-bit-02",
+      "title": "Theo Von: 'Animals in people clothes' \u2014 how the bit works",
+      "thesis": "Treats people as animals wearing costumes (literalise) and describes the animal behavior with deadpan precision. The room recognizes the animal first, the person second \u2014 that order is the joke.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Slow drawl, long pause before the weird image, sudden precision inside the swamp of words. The drawl is a delivery system for the sharp observation \u2014 the room leans in because he sounds like he's not trying.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The road story / small-town parable",
+      "why_it_works": "One small road story becomes a cosmology if you let it. The structure is parable: concrete image \u2192 unexpected universal. The drawl sells the sincerity; the observation is too precise to be accidental.",
+      "theory_links": [
+        "garden_path",
+        "incongruity"
+      ]
+    },
+    {
+      "title": "Animals in people clothes",
+      "why_it_works": "Treats people as animals wearing costumes (literalise) and describes the animal behavior with deadpan precision. The room recognizes the animal first, the person second \u2014 that order is the joke.",
+      "theory_links": [
+        "literalise",
+        "status_reversal"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

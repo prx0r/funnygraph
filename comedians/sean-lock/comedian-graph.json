@@ -1,0 +1,290 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "sean-lock",
+  "name": "Sean Lock",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Domestic surrealist who narrates the war between a man and ordinary objects as if it were a national emergency.",
+    "premise": "A man who treats the kettle, the remote, and the supermarket as personal enemies and files the complaint out loud.",
+    "archetype": "domestic_surrealist",
+    "awareness": "semi",
+    "awareness_note": "Semi: the grump is played straight; the surrealism is either accidental or too well-built to be accidental.",
+    "philosophy": {
+      "ontology": "Ordinary objects have agendas and the agenda is chaos.",
+      "epistemology": "If you describe the stupid thing precisely enough, it becomes profound.",
+      "axiology": "The complaint is a form of love; the surrealism is a form of logic.",
+      "causality": "One small domestic failure escalates into a worldview.",
+      "agency": "Anyone can be annoyed; almost nobody narrates the annoyance into a national epic."
+    },
+    "dramatic_core": {
+      "want": "one day where the objects don't win",
+      "fear": "the day he becomes the thing he's yelling at",
+      "need": "the room to nod with him at the absurdity of stuff",
+      "self_model": "a man filing a formal complaint against reality",
+      "blind_spots": [
+        "the grump can become a one-note",
+        "the surrealism can lose the thread"
+      ]
+    },
+    "misinterpretation_rule": "Treats every domestic inconvenience as evidence in a larger case against the design of modern life, and prosecutes the case live.",
+    "contradictions": [
+      "the grump with the warmest crowd love",
+      "the domestic warrior with the poet's eye",
+      "the panel-show nice guy who rages at kettles"
+    ],
+    "status_model": {
+      "desired_status": "the last sane man in the supermarket",
+      "felt_status": "a man permanently mid-argument with an appliance"
+    },
+    "expression": {
+      "default_register": "domestic-prophet",
+      "emotional_restraint": "medium \u2014 the exasperation is the style",
+      "tells": [
+        "the sigh before the observation",
+        "the escalation into the epic",
+        "the sudden precise image in a rant"
+      ]
+    },
+    "modulator_range": [
+      "curmudgeon",
+      "surreal-escalator",
+      "panel-warm",
+      "tender-turn",
+      "quiet-kill"
+    ],
+    "profile": {
+      "energy": 0.6,
+      "pace": "rant with a hidden metronome",
+      "gesture_frequency": 0.55,
+      "punchline_hold_ms": 900
+    },
+    "operator_priors": {
+      "rigidify": 0.6,
+      "literalize": 0.65,
+      "double_interpret": 0.55,
+      "status_invert": 0.45,
+      "character_violation": 0.3,
+      "status": "hypothesis from specials + 8 Out of 10 Cats"
+    },
+    "preferred_theories": [
+      "literalise",
+      "incongruity",
+      "rigidity"
+    ],
+    "threads": [
+      "objects with agendas",
+      "the domestic as a national epic",
+      "the complaint as a love language",
+      "the supermarket as a battlefield",
+      "the surrealism of the ordinary"
+    ],
+    "problem_space": [
+      "modern stuff as an enemy",
+      "the body as a faulty appliance",
+      "British grump as a philosophy"
+    ],
+    "style_thesis": "Domestic-surrealist engine: treats every ordinary object as having a secret agenda, and narrates the war between man and objects as if it were a national emergency. rigidify + literalize: the kettle is not a kettle, it's an antagonist with a plan. The escalation into the epic is the comic form."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "domestic_surrealist",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "sean-lock-essay-01",
+      "title": "Why is Sean Lock funny? The domestic surrealist engine",
+      "thesis": "Domestic-surrealist engine: treats every ordinary object as having a secret agenda, and narrates the war between man and objects as if it were a national emergency. rigidify + literalize: the kettle is not a kettle, it's an antagonist with a plan. The escalation into the epic is the comic form.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "sean-lock-essay-02",
+      "title": "Sean Lock: 'The object with an agenda' \u2014 how the bit works",
+      "thesis": "Takes a mundane annoyance (kettle, remote, supermarket) and treats it as evidence in a larger case against the design of modern life. rigidify: applies the logic of a national emergency to a domestic inconvenience. The room recognizes the feeling before the joke.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "sean-lock-essay-03",
+      "title": "Sean Lock: 'The domestic as national epic' \u2014 how the bit works",
+      "thesis": "Escalates a small complaint into a full narrative with stakes, characters, and a climax. The gap between the scale of the telling and the scale of the event IS the joke. garden_path: the room thinks it's a complaint, it's actually an epic.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "sean-lock-bit-01",
+      "title": "Sean Lock: 'The object with an agenda' \u2014 how the bit works",
+      "thesis": "Takes a mundane annoyance (kettle, remote, supermarket) and treats it as evidence in a larger case against the design of modern life. rigidify: applies the logic of a national emergency to a domestic inconvenience. The room recognizes the feeling before the joke.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "sean-lock-bit-02",
+      "title": "Sean Lock: 'The domestic as national epic' \u2014 how the bit works",
+      "thesis": "Escalates a small complaint into a full narrative with stakes, characters, and a climax. The gap between the scale of the telling and the scale of the event IS the joke. garden_path: the room thinks it's a complaint, it's actually an epic.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Rant with a hidden metronome. Escalates through the domestic epic, pauses on the precise image, resets with a sigh. The sigh is the tell \u2014 it says 'I've been here before and I'll be here again.'",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The object with an agenda",
+      "why_it_works": "Takes a mundane annoyance (kettle, remote, supermarket) and treats it as evidence in a larger case against the design of modern life. rigidify: applies the logic of a national emergency to a domestic inconvenience. The room recognizes the feeling before the joke.",
+      "theory_links": [
+        "rigidify",
+        "incongruity"
+      ]
+    },
+    {
+      "title": "The domestic as national epic",
+      "why_it_works": "Escalates a small complaint into a full narrative with stakes, characters, and a climax. The gap between the scale of the telling and the scale of the event IS the joke. garden_path: the room thinks it's a complaint, it's actually an epic.",
+      "theory_links": [
+        "garden_path",
+        "escalation"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

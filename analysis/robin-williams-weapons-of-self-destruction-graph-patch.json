@@ -1,0 +1,27 @@
+{
+ "set_id": "robin-williams_weapons-of-self-destruction",
+ "title": "Weapons of Self-Destruction",
+ "status": "synthetic-timing",
+ "transcript": {
+  "path": "scribe/robin-williams-weapons-of-self-destruction.json",
+  "format": "scribe word-timed",
+  "words": 14944,
+  "duration_s": 5977.56
+ },
+ "timing_measured": {
+  "wpm": 150.0,
+  "pause_count": 14943,
+  "pause_bins": {
+   "very_short": 14943,
+   "short": 0,
+   "substantial": 0,
+   "topic": 0
+  },
+  "mean_pause_s": 0.04,
+  "median_pause_s": 0.04,
+  "max_pause_s": 0.04,
+  "punch_pauses_s": [],
+  "thesis": "SYNTHETIC timing \u2014 even WPM, content-only"
+ },
+ "punch_candidates": []
+}

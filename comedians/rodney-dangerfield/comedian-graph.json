@@ -3,7 +3,7 @@
   "comedian_id": "rodney-dangerfield",
   "name": "Rodney Dangerfield",
   "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
-  "version": 1,
+  "version": 2,
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
@@ -86,7 +86,8 @@
       "marriage as mutual disrespect",
       "the American loser as hero",
       "one-liner architecture"
-    ]
+    ],
+    "style_thesis": "Zero-status engine: walks in already losing, converts every setup into another receipt for his own disrespect. status_reversal at max: the man who gets no respect has built an empire on not having it. The self-own ladder is the form \u2014 each rung is lower than the last."
   },
   "engine": {
     "voice_clone_id": null,
@@ -105,7 +106,9 @@
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "zero_status_engine cadence \u2014 hypothesize from specials."
+    "hypothesis": "zero_status_engine cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Rapid-fire setups, each ending in another self-own. 'I tell ya' is the timing device \u2014 the windup for the next self-own. The sweat is the tell; the tie tug is the punctuation.",
+    "status": "hypothesis until word-timed sets measured"
   },
   "gtvh_profile": {
     "SO": "",
@@ -117,25 +120,66 @@
   "theory_links": {
     "internal": [
       {
-        "id": "status_reversal",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
       },
       {
         "id": "benign_violation",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
       },
       {
-        "id": "repetition",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
       }
     ],
-    "external": []
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
   },
   "essay_seeds": [
     {
@@ -144,15 +188,50 @@
       "thesis": "Interprets every social situation as another opportunity to itemize his own disrespect, then escalates the itemization until absurd.",
       "evidence": [
         "identity.misinterpretation_rule",
+        "known_bits",
         "identity.operator_priors",
-        "identity.threads"
+        "timing_profile.doctrine_hypothesis"
       ],
       "outline": [
         "the deal in one sentence",
-        "the misinterpretation rule as an engine",
-        "the operator priors that make it work",
-        "three threads as episode seeds",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
         "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "rodney-dangerfield-bit-01",
+      "title": "Rodney Dangerfield: 'The self-own ladder' \u2014 how the bit works",
+      "thesis": "Each setup ends in another self-own, each self-own is lower than the last. The room laughs at the descent. status_reversal: the man who loses everything can say anything.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "rodney-dangerfield-bit-02",
+      "title": "Rodney Dangerfield: ''No respect' as a cosmology' \u2014 how the bit works",
+      "thesis": "The catchphrase is not a tag \u2014 it's an ontology. The whole act is organized around the fact that he gets no respect. The room recognizes the feeling; the exaggeration makes it funny instead of sad.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
       ],
       "status": "seed"
     }
@@ -165,6 +244,26 @@
       "0 sets = all hypothesis"
     ],
     "sets_observed": 0,
-    "next": "ingest a signature-era set; measure timing; refine priors"
-  }
+    "next": "ingest a signature-era set; measure timing; refine priors",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "known_bits": [
+    {
+      "title": "The self-own ladder",
+      "why_it_works": "Each setup ends in another self-own, each self-own is lower than the last. The room laughs at the descent. status_reversal: the man who loses everything can say anything.",
+      "theory_links": [
+        "status_reversal",
+        "escalation"
+      ]
+    },
+    {
+      "title": "'No respect' as a cosmology",
+      "why_it_works": "The catchphrase is not a tag \u2014 it's an ontology. The whole act is organized around the fact that he gets no respect. The room recognizes the feeling; the exaggeration makes it funny instead of sad.",
+      "theory_links": [
+        "rigidify",
+        "benign_violation"
+      ]
+    }
+  ]
 }

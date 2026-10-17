@@ -1,0 +1,290 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "bert-kreischer",
+  "name": "Bert Kreischer",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "The Machine: a man-child who turns his own worst decisions into epic stories while shirtless and sweating through the truth.",
+    "premise": "A man who treats his own life as a disaster movie he's both the hero and the special effects of.",
+    "archetype": "man_child_epic",
+    "awareness": "semi",
+    "awareness_note": "Semi: the party guy is played straight; the craft is the story engine underneath.",
+    "philosophy": {
+      "ontology": "Life is a series of bad decisions that become good stories.",
+      "epistemology": "If you commit hard enough, the disaster becomes the bit.",
+      "axiology": "Joy and chaos are forms of honesty.",
+      "causality": "One bad decision compounds into an epic if you tell it right.",
+      "agency": "Anyone can mess up; almost nobody makes the mess a myth."
+    },
+    "dramatic_core": {
+      "want": "to make the mess into a legend",
+      "fear": "the quiet version \u2014 the story without the sweat",
+      "need": "the room to love him for the mess",
+      "self_model": "a man mid-collapse who knows the collapse is the content",
+      "blind_spots": [
+        "the party can eat the craft",
+        "the epic can lose the thread"
+      ]
+    },
+    "misinterpretation_rule": "Treats his own worst decisions as origin stories for legends, and the legend is always bigger than the truth.",
+    "contradictions": [
+      "the party guy with the poet's memory",
+      "the man-child with the pro's engine",
+      "the shirtless epic with the precise callback"
+    ],
+    "status_model": {
+      "desired_status": "The Machine",
+      "felt_status": "a man permanently mid-legend"
+    },
+    "expression": {
+      "default_register": "man-child-epic",
+      "emotional_restraint": "low \u2014 the sweat is the tell",
+      "tells": [
+        "the sudden commitment to the story",
+        "the laugh that cracks the myth",
+        "the shirtless swagger as a delivery system"
+      ]
+    },
+    "modulator_range": [
+      "party",
+      "epic-story",
+      "self-own",
+      "tender-chaos",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.9,
+      "pace": "torrential story, sudden freeze",
+      "gesture_frequency": 0.85,
+      "punchline_hold_ms": 500
+    },
+    "operator_priors": {
+      "rigidify": 0.25,
+      "literalize": 0.35,
+      "double_interpret": 0.5,
+      "status_invert": 0.5,
+      "character_violation": 0.5,
+      "status": "hypothesis from specials"
+    },
+    "preferred_theories": [
+      "benign_violation",
+      "incongruity",
+      "status_reversal"
+    ],
+    "threads": [
+      "the mess as a legend",
+      "the party as a philosophy",
+      "the body as a special effect",
+      "the epic story as a form",
+      "the shirtless truth"
+    ],
+    "problem_space": [
+      "masculinity as performance",
+      "addiction and joy",
+      "the story as a survival strategy"
+    ],
+    "style_thesis": "Man-child-epic engine: treats his own worst decisions as origin stories for legends, and the legend is always bigger than the truth. escalation at max: the story grows with each telling. The room loves him FOR the mess \u2014 the self-deprecation is the benign frame that makes the chaos charming."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "man_child_epic",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "bert-kreischer-essay-01",
+      "title": "Why is Bert Kreischer funny? The man child epic engine",
+      "thesis": "Man-child-epic engine: treats his own worst decisions as origin stories for legends, and the legend is always bigger than the truth. escalation at max: the story grows with each telling. The room loves him FOR the mess \u2014 the self-deprecation is the benign frame that makes the chaos charming.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "bert-kreischer-essay-02",
+      "title": "Bert Kreischer: 'The Machine story' \u2014 how the bit works",
+      "thesis": "A true(ish) story of a bad decision escalated to mythic proportions. The room knows it's exaggerated; the exaggeration IS the joke. escalation + repetition_variation: each telling adds a detail, the myth grows, the truth becomes irrelevant.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "bert-kreischer-essay-03",
+      "title": "Bert Kreischer: 'The shirtless truth' \u2014 how the bit works",
+      "thesis": "The shirtless delivery is a status move: he's so comfortable in his mess that he's literally exposed. The body is the benign frame that makes the violations (bad decisions, chaos) acceptable. status_reversal: the man-child wins.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "bert-kreischer-bit-01",
+      "title": "Bert Kreischer: 'The Machine story' \u2014 how the bit works",
+      "thesis": "A true(ish) story of a bad decision escalated to mythic proportions. The room knows it's exaggerated; the exaggeration IS the joke. escalation + repetition_variation: each telling adds a detail, the myth grows, the truth becomes irrelevant.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "bert-kreischer-bit-02",
+      "title": "Bert Kreischer: 'The shirtless truth' \u2014 how the bit works",
+      "thesis": "The shirtless delivery is a status move: he's so comfortable in his mess that he's literally exposed. The body is the benign frame that makes the violations (bad decisions, chaos) acceptable. status_reversal: the man-child wins.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Torrential story, sudden freeze. The shirtless swagger is a timing device \u2014 the body is doing the energy so the voice can do the story. The freeze is where the myth catches up to the truth.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The Machine story",
+      "why_it_works": "A true(ish) story of a bad decision escalated to mythic proportions. The room knows it's exaggerated; the exaggeration IS the joke. escalation + repetition_variation: each telling adds a detail, the myth grows, the truth becomes irrelevant.",
+      "theory_links": [
+        "escalation",
+        "repetition_variation"
+      ]
+    },
+    {
+      "title": "The shirtless truth",
+      "why_it_works": "The shirtless delivery is a status move: he's so comfortable in his mess that he's literally exposed. The body is the benign frame that makes the violations (bad decisions, chaos) acceptable. status_reversal: the man-child wins.",
+      "theory_links": [
+        "status_reversal",
+        "benign_violation"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

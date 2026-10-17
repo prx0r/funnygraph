@@ -1,0 +1,248 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "andrew-schulz",
+  "name": "Andrew Schulz",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Clip-machine crowd worker who turns the podcast brain into a stage hour and the crowd into a co-writer.",
+    "premise": "A man who treats the special like a content engine and the live room like a focus group he's also roasting.",
+    "archetype": "clip_machine",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the machine is the act; the craft is the engine.",
+    "philosophy": {
+      "ontology": "The special is a content engine; the clip is the unit of truth.",
+      "epistemology": "If the room gives it, take it; if it clips, it's real.",
+      "axiology": "Crowd work is a form of collaboration and domination.",
+      "causality": "One good crowd turn becomes a million views.",
+      "agency": "Anyone can work a room; almost nobody weaponizes it."
+    },
+    "dramatic_core": {
+      "want": "the clip that breaks the internet",
+      "fear": "the quiet room \u2014 the death of the engine",
+      "need": "to be the one who turned the crowd into content",
+      "self_model": "a man running a comedy factory and the stage is the storefront",
+      "blind_spots": [
+        "the machine can eat the craft",
+        "the clip brain can date fast"
+      ]
+    },
+    "misinterpretation_rule": "Treats the live room as raw material for the engine, and the engine as the point.",
+    "contradictions": [
+      "the podcast brain with the stage craft",
+      "the clip machine with the live-room skill",
+      "the disruptor who became the industry"
+    ],
+    "status_model": {
+      "desired_status": "the one who broke the format",
+      "felt_status": "a man permanently mid-clip"
+    },
+    "expression": {
+      "default_register": "clip-machine",
+      "emotional_restraint": "medium",
+      "tells": [
+        "the crowd-work pivot",
+        "the 'this is going viral' energy",
+        "the sudden precision in a chaos"
+      ]
+    },
+    "modulator_range": [
+      "clip-machine",
+      "crowd-work",
+      "roast-adjacent",
+      "story-mode",
+      "closer"
+    ],
+    "profile": {
+      "energy": 0.8,
+      "pace": "fast, reactive",
+      "gesture_frequency": 0.65,
+      "punchline_hold_ms": 600
+    },
+    "operator_priors": {
+      "rigidify": 0.3,
+      "literalize": 0.35,
+      "double_interpret": 0.5,
+      "status_invert": 0.55,
+      "character_violation": 0.45,
+      "status": "hypothesis from specials + pod"
+    },
+    "preferred_theories": [
+      "status_reversal",
+      "benign_violation",
+      "incongruity"
+    ],
+    "threads": [
+      "the special as a content engine",
+      "crowd work as collaboration",
+      "the clip as a unit of truth",
+      "the podcast brain on stage",
+      "the disruptor who became the industry"
+    ],
+    "problem_space": [
+      "attention as a currency",
+      "comedy in the algorithm age",
+      "the room as a co-writer"
+    ],
+    "style_thesis": "Clip-machine engine: treats the live room as raw material for the content engine, and the engine as the point. The special is a content factory; the clip is the unit of truth. Crowd work is collaboration AND domination \u2014 he takes the room's energy and makes it his."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "clip_machine",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "andrew-schulz-essay-01",
+      "title": "Why is Andrew Schulz funny? The clip machine engine",
+      "thesis": "Clip-machine engine: treats the live room as raw material for the content engine, and the engine as the point. The special is a content factory; the clip is the unit of truth. Crowd work is collaboration AND domination \u2014 he takes the room's energy and makes it his.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "andrew-schulz-essay-02",
+      "title": "Andrew Schulz: 'Crowd work as co-writing' \u2014 how the bit works",
+      "thesis": "Takes a crowd member's response and turns it into a bit in real time. The room is both the material and the audience \u2014 the meta-awareness is part of the joke. split_knowledge: everyone knows the content engine is running, and they want to be in the clip.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "andrew-schulz-bit-01",
+      "title": "Andrew Schulz: 'Crowd work as co-writing' \u2014 how the bit works",
+      "thesis": "Takes a crowd member's response and turns it into a bit in real time. The room is both the material and the audience \u2014 the meta-awareness is part of the joke. split_knowledge: everyone knows the content engine is running, and they want to be in the clip.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Fast, reactive. The crowd-work pivot is a beat \u2014 he takes what the room gives and turns it into content. The 'this is going viral' energy is the timing device.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "Crowd work as co-writing",
+      "why_it_works": "Takes a crowd member's response and turns it into a bit in real time. The room is both the material and the audience \u2014 the meta-awareness is part of the joke. split_knowledge: everyone knows the content engine is running, and they want to be in the clip.",
+      "theory_links": [
+        "split_knowledge",
+        "status_reversal"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

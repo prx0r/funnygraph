@@ -3,7 +3,7 @@
   "comedian_id": "mark-normand",
   "name": "Mark Normand",
   "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
-  "version": 1,
+  "version": 2,
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
@@ -116,25 +116,66 @@
   "theory_links": {
     "internal": [
       {
-        "id": "incongruity",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
       },
       {
-        "id": "status_reversal",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
       },
       {
         "id": "benign_violation",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
       }
     ],
-    "external": []
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
   },
   "essay_seeds": [
     {
@@ -143,17 +184,18 @@
       "thesis": "Treats every premise as unfinished business until the room proves otherwise; failure is data, not defeat.",
       "evidence": [
         "identity.misinterpretation_rule",
+        "known_bits",
         "identity.operator_priors",
-        "identity.threads"
+        "timing_profile.doctrine_hypothesis"
       ],
       "outline": [
         "the deal in one sentence",
-        "the misinterpretation rule as an engine",
-        "the operator priors that make it work",
-        "three threads as episode seeds",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
         "what makes this persona impossible to copy"
       ],
-      "status": "seed"
+      "status": "seed \u2014 ready to draft"
     }
   ],
   "provenance": {
@@ -164,6 +206,8 @@
       "0 sets = all hypothesis"
     ],
     "sets_observed": 0,
-    "next": "ingest a signature-era set; measure timing; refine priors"
+    "next": "ingest a signature-era set; measure timing; refine priors",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
   }
 }

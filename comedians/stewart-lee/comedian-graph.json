@@ -3,7 +3,7 @@
   "comedian_id": "stewart-lee",
   "name": "Stewart Lee",
   "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
-  "version": 1,
+  "version": 2,
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
@@ -86,7 +86,8 @@
       "class and taste",
       "the politics of a punchline",
       "structure as ethics"
-    ]
+    ],
+    "style_thesis": "Meta-architect engine: builds a bit, sabotages it, critiques the sabotage, then lets the rubble become the punchline. The comedy special as a hostile novel \u2014 the audience is a character in the text. The repetition is the weapon; the sabotage is the form."
   },
   "engine": {
     "voice_clone_id": null,
@@ -98,14 +99,65 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "stewart-lee_stewart-lee-90s-comedian",
+      "title": "90S Comedian",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-90s-comedian.txt",
+        "format": "plain txt",
+        "words": 7686
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "stewart-lee_stewart-lee-carpet-remnant-world",
+      "title": "Carpet Remnant World",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-carpet-remnant-world.txt",
+        "format": "plain txt",
+        "words": 11603
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "stewart-lee_stewart-lee-content-provider",
+      "title": "Content Provider",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-content-provider.txt",
+        "format": "plain txt",
+        "words": 12007
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "stewart-lee_stewart-lee-stand-up-comedian",
+      "title": "Stand Up Comedian",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-stand-up-comedian.txt",
+        "format": "plain txt",
+        "words": 8263
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "meta_architect cadence \u2014 hypothesize from specials."
+    "hypothesis": "meta_architect cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Slow build, deliberate sabotage, long hold. The repetition that turns a phrase into sludge is the timing device \u2014 the room is waiting for the phrase to break, and the break is the punch.",
+    "status": "hypothesis until word-timed sets measured"
   },
   "gtvh_profile": {
     "SO": "",
@@ -117,25 +169,66 @@
   "theory_links": {
     "internal": [
       {
-        "id": "rigidity",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
       },
       {
-        "id": "bisociation",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
       },
       {
         "id": "status_reversal",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
       }
     ],
-    "external": []
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
   },
   "essay_seeds": [
     {
@@ -144,15 +237,50 @@
       "thesis": "Treats every joke as a cultural artifact with a politics; the bit is the artifact being dissected live.",
       "evidence": [
         "identity.misinterpretation_rule",
+        "known_bits",
         "identity.operator_priors",
-        "identity.threads"
+        "timing_profile.doctrine_hypothesis"
       ],
       "outline": [
         "the deal in one sentence",
-        "the misinterpretation rule as an engine",
-        "the operator priors that make it work",
-        "three threads as episode seeds",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
         "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "stewart-lee-bit-01",
+      "title": "Stewart Lee: 'The comedy special as a hostile novel' \u2014 how the bit works",
+      "thesis": "Treats the special as a text to be annotated, and the audience as co-readers of a hostile text. The meta-awareness is the material \u2014 the bit is about being a bit.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "stewart-lee-bit-02",
+      "title": "Stewart Lee: 'Repetition as a weapon' \u2014 how the bit works",
+      "thesis": "Repeats a phrase until it becomes sludge, then uses the sludge as the punch. The room is waiting for the phrase to break, and the break is the laugh.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
       ],
       "status": "seed"
     }
@@ -165,6 +293,32 @@
       "0 sets = all hypothesis"
     ],
     "sets_observed": 0,
-    "next": "ingest a signature-era set; measure timing; refine priors"
-  }
+    "next": "ingest a signature-era set; measure timing; refine priors",
+    "transcripts_linked": [
+      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-90s-comedian.txt",
+      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-carpet-remnant-world.txt",
+      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-content-provider.txt",
+      "/root/characters2/theory/transcripts/stewart-lee/stewart-lee-stand-up-comedian.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "known_bits": [
+    {
+      "title": "The comedy special as a hostile novel",
+      "why_it_works": "Treats the special as a text to be annotated, and the audience as co-readers of a hostile text. The meta-awareness is the material \u2014 the bit is about being a bit.",
+      "theory_links": [
+        "persona_gap",
+        "split_knowledge"
+      ]
+    },
+    {
+      "title": "Repetition as a weapon",
+      "why_it_works": "Repeats a phrase until it becomes sludge, then uses the sludge as the punch. The room is waiting for the phrase to break, and the break is the laugh.",
+      "theory_links": [
+        "repetition_variation",
+        "rigidify"
+      ]
+    }
+  ]
 }

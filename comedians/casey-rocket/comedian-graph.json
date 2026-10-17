@@ -1,0 +1,248 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "casey-rocket",
+  "name": "Casey Rocket",
+  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+  "version": 2,
+  "created": "2026-10-16",
+  "annotator": "mimo-v2.5",
+  "identity": {
+    "deal": "Absurdist firecracker who treats the set like a controlled explosion of images, sounds, and sudden stillness.",
+    "premise": "A man who treats normal comedy rules as suggestions and the stage as a physics lab he's failing on purpose.",
+    "archetype": "absurdist_firecracker",
+    "awareness": "aware",
+    "awareness_note": "Fully aware the absurdism is a strategy; the commitment is the craft.",
+    "philosophy": {
+      "ontology": "The joke is a physics experiment that fails in an interesting way.",
+      "epistemology": "If the room is confused then delighted, you're on target.",
+      "axiology": "Surprise over polish; the image is the joke.",
+      "causality": "One strange image, committed to, becomes a world.",
+      "agency": "Anyone can be weird; almost nobody commits this hard to the weird."
+    },
+    "dramatic_core": {
+      "want": "to leave the room in a state of delighted confusion",
+      "fear": "the tidy joke \u2014 the death of the experiment",
+      "need": "the room to come with him into the absurd",
+      "self_model": "a man mid-experiment with the materials flying",
+      "blind_spots": [
+        "absurdism without a closer burns",
+        "the chaos can lose the room"
+      ]
+    },
+    "misinterpretation_rule": "Treats the set as a series of strange images that only make sense if you abandon the need for them to make sense.",
+    "contradictions": [
+      "the chaos with a poet's timing",
+      "the absurdism with the precise stillness",
+      "the firecracker who knows exactly when to stop"
+    ],
+    "status_model": {
+      "desired_status": "the experiment that worked",
+      "felt_status": "a man permanently mid-explosion"
+    },
+    "expression": {
+      "default_register": "absurdist-firecracker",
+      "emotional_restraint": "variable \u2014 chaos then stillness",
+      "tells": [
+        "the sudden stillness after the cascade",
+        "the image that lands without explanation",
+        "the laugh that is also a double-take"
+      ]
+    },
+    "modulator_range": [
+      "chaos",
+      "absurdist",
+      "stillness",
+      "wild-ride",
+      "poet-chaos"
+    ],
+    "profile": {
+      "energy": 0.85,
+      "pace": "torrential, sudden freezes",
+      "gesture_frequency": 0.8,
+      "punchline_hold_ms": 600
+    },
+    "operator_priors": {
+      "rigidify": 0.2,
+      "literalize": 0.5,
+      "double_interpret": 0.65,
+      "status_invert": 0.4,
+      "character_violation": 0.6,
+      "status": "measured from KT scribe (372w, 264wpm)"
+    },
+    "preferred_theories": [
+      "incongruity",
+      "bisociation",
+      "benign_violation"
+    ],
+    "threads": [
+      "the set as a physics experiment",
+      "strange images as a form",
+      "the stillness after the chaos",
+      "commitment to the weird",
+      "the laugh that is also a double-take"
+    ],
+    "problem_space": [
+      "absurdism as a strategy",
+      "the body as a special effect",
+      "the room as a co-experimenter"
+    ],
+    "style_thesis": "Absurdist-firecracker engine: treats the set as a series of strange images that only make sense if you abandon the need for them to make sense. incongruity at max without resolution \u2014 the images don't resolve, they accumulate. The freeze is where the room decides how to feel."
+  },
+  "engine": {
+    "voice_clone_id": null,
+    "delivery_archetype": "absurdist_firecracker",
+    "jev_state": {
+      "status": "NOT RUN"
+    }
+  },
+  "sets": [],
+  "set_queue": {
+    "note": "harvest captions or link transcript for measured depth",
+    "blocked_on": "captions/audio"
+  },
+  "essay_seeds": [
+    {
+      "id": "casey-rocket-essay-01",
+      "title": "Why is Casey Rocket funny? The absurdist firecracker engine",
+      "thesis": "Absurdist-firecracker engine: treats the set as a series of strange images that only make sense if you abandon the need for them to make sense. incongruity at max without resolution \u2014 the images don't resolve, they accumulate. The freeze is where the room decides how to feel.",
+      "evidence": [
+        "identity.misinterpretation_rule",
+        "known_bits",
+        "identity.operator_priors",
+        "timing_profile.doctrine_hypothesis"
+      ],
+      "outline": [
+        "the deal in one sentence",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
+        "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "casey-rocket-essay-02",
+      "title": "Casey Rocket: 'The strange image cascade' \u2014 how the bit works",
+      "thesis": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "casey-rocket-bit-01",
+      "title": "Casey Rocket: 'The strange image cascade' \u2014 how the bit works",
+      "thesis": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    }
+  ],
+  "provenance": {
+    "persona": "authored from public reputation (no verbatim bits)",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines",
+      "hypothesis until measured"
+    ],
+    "sets_observed": 0,
+    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Torrential, sudden freezes. The stillness after the chaos is the punchline \u2014 the room is catching up to the images while he stands still. The image is the timing device.",
+    "status": "hypothesis until word-timed sets measured"
+  },
+  "known_bits": [
+    {
+      "title": "The strange image cascade",
+      "why_it_works": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
+      "theory_links": [
+        "incongruity",
+        "benign_violation"
+      ]
+    }
+  ],
+  "theory_links": {
+    "internal": [
+      {
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "incongruity",
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
+      }
+    ],
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
+  }
+}

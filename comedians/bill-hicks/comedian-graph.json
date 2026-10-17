@@ -3,7 +3,7 @@
   "comedian_id": "bill-hicks",
   "name": "Bill Hicks",
   "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
-  "version": 1,
+  "version": 2,
   "created": "2026-10-16",
   "annotator": "mimo-v2.5",
   "identity": {
@@ -86,7 +86,8 @@
       "war as content",
       "spiritual hunger",
       "the comedy special as a sermon"
-    ]
+    ],
+    "style_thesis": "Prophet-curmudgeon engine (same lineage as Carlin, different fuel): treats every cultural product as propaganda until proven otherwise; the bit is the deconstruction performed at scream-volume. The anger is doctrine \u2014 the mission IS the act."
   },
   "engine": {
     "voice_clone_id": null,
@@ -98,14 +99,65 @@
     },
     "world_transfer_proven": null
   },
-  "sets": [],
+  "sets": [
+    {
+      "set_id": "bill-hicks_bill-hicks-censored-seven-minutes-late-s",
+      "title": "Censored Seven Minutes Late Show With David Letterman",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-censored-seven-minutes-late-show-with-david-letterman.txt",
+        "format": "plain txt",
+        "words": 1134
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "bill-hicks_bill-hicks-live-at-laff-stop-austin-tx-c",
+      "title": "Live At Laff Stop Austin Tx Cobbs San Francisco Ca",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca.txt",
+        "format": "plain txt",
+        "words": 6909
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "bill-hicks_bill-hicks-relentless",
+      "title": "Relentless",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-relentless.txt",
+        "format": "plain txt",
+        "words": 5322
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    },
+    {
+      "set_id": "bill-hicks_bill-hicks-revelations",
+      "title": "Revelations",
+      "status": "transcript-linked (synthetic timing until ASR)",
+      "transcript": {
+        "path": "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-revelations.txt",
+        "format": "plain txt",
+        "words": 6487
+      },
+      "timing_measured": null,
+      "note": "content available for topics extraction; timing not measured"
+    }
+  ],
   "set_queue": {
     "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
     "blocked_on": "audio access"
   },
   "timing_profile": {
     "measured": null,
-    "hypothesis": "prophet_curmudgeon cadence \u2014 hypothesize from specials."
+    "hypothesis": "prophet_curmudgeon cadence \u2014 hypothesize from specials.",
+    "doctrine_hypothesis": "Accelerating sermon, hard stop on the kill. The sermon builds like a revival meeting; the hard stop is the amen. The cigarette is punctuation \u2014 the pause for the drag is the congregation catching up.",
+    "status": "hypothesis until word-timed sets measured"
   },
   "gtvh_profile": {
     "SO": "",
@@ -117,25 +169,66 @@
   "theory_links": {
     "internal": [
       {
-        "id": "rigidity",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "gtvh",
+        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+        "applies_to": "primary move / timing / structure"
       },
       {
-        "id": "status_reversal",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "id": "attardo-pause-taxonomy",
+        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "dpv",
+        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+        "applies_to": "primary move / timing / structure"
       },
       {
         "id": "incongruity",
-        "cite": "operator registry",
-        "claim": "preferred theory for this persona",
-        "applies_to": "primary move"
+        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "benign_violation",
+        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "status_reversal",
+        "cite": "Roger & Duffy / status theory of humor",
+        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "split_knowledge",
+        "cite": "Veatch 1978 \u2014 theory of joking relationships",
+        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+        "applies_to": "primary move / timing / structure"
+      },
+      {
+        "id": "escalation",
+        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+        "applies_to": "primary move / timing / structure"
       }
     ],
-    "external": []
+    "external": [
+      {
+        "id": "standup4ai",
+        "cite": "StandUp4AI dataset (EMNLP 2025)",
+        "use": "future laugh-position ground truth"
+      },
+      {
+        "id": "tic-talk",
+        "cite": "TIC-TALK (CHum 2026)",
+        "use": "future cross-comedian timing normalization"
+      }
+    ]
   },
   "essay_seeds": [
     {
@@ -144,15 +237,50 @@
       "thesis": "Reads every cultural product as propaganda until proven otherwise; the bit is the deconstruction performed at scream-volume.",
       "evidence": [
         "identity.misinterpretation_rule",
+        "known_bits",
         "identity.operator_priors",
-        "identity.threads"
+        "timing_profile.doctrine_hypothesis"
       ],
       "outline": [
         "the deal in one sentence",
-        "the misinterpretation rule as an engine",
-        "the operator priors that make it work",
-        "three threads as episode seeds",
+        "the misinterpretation rule as engine",
+        "2-3 signature bits dissected",
+        "timing doctrine",
         "what makes this persona impossible to copy"
+      ],
+      "status": "seed \u2014 ready to draft"
+    },
+    {
+      "id": "bill-hicks-bit-01",
+      "title": "Bill Hicks: 'Advertising as a war on consciousness' \u2014 how the bit works",
+      "thesis": "Treats every ad as an assault on awareness and deconstructs it live. rigidify: applies the logic of the ad literally until the absurdity appears. The room recognizes the assault they've been enduring; the anger is the recognition made audible.",
+      "evidence": [
+        "known_bits[0]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "bill-hicks-bit-02",
+      "title": "Bill Hicks: 'Going to the fear' \u2014 how the bit works",
+      "thesis": "His own doctrine: go to the fear, that's where the material is. The bit works because he goes there first \u2014 the room follows because he's already in the dark place and he's not flinching.",
+      "evidence": [
+        "known_bits[1]",
+        "theory_links"
+      ],
+      "outline": [
+        "the setup",
+        "the mechanism",
+        "why the room laughs",
+        "the theory link",
+        "what this reveals about the engine"
       ],
       "status": "seed"
     }
@@ -165,6 +293,32 @@
       "0 sets = all hypothesis"
     ],
     "sets_observed": 0,
-    "next": "ingest a signature-era set; measure timing; refine priors"
-  }
+    "next": "ingest a signature-era set; measure timing; refine priors",
+    "transcripts_linked": [
+      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-censored-seven-minutes-late-show-with-david-letterman.txt",
+      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-live-at-laff-stop-austin-tx-cobbs-san-francisco-ca.txt",
+      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-relentless.txt",
+      "/root/characters2/theory/transcripts/bill-hicks/bill-hicks-revelations.txt"
+    ],
+    "theory_applied": true,
+    "deepened": "2026-10-16"
+  },
+  "known_bits": [
+    {
+      "title": "Advertising as a war on consciousness",
+      "why_it_works": "Treats every ad as an assault on awareness and deconstructs it live. rigidify: applies the logic of the ad literally until the absurdity appears. The room recognizes the assault they've been enduring; the anger is the recognition made audible.",
+      "theory_links": [
+        "rigidify",
+        "status_reversal"
+      ]
+    },
+    {
+      "title": "Going to the fear",
+      "why_it_works": "His own doctrine: go to the fear, that's where the material is. The bit works because he goes there first \u2014 the room follows because he's already in the dark place and he's not flinching.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }
