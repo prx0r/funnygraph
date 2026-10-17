@@ -1,0 +1,42 @@
+{
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "basketmouth",
+ "name": "Basketmouth",
+ "tier": "indie",
+ "region": "nigeria",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/global",
+ "note": "b.1978 Lagos. Nite of a Thousand Laughs \u2192 Basketmouth Uncensored (invented the solo-show model in Nigeria). Observational + insult + satire. 2005-06 National Comedy Awards.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "ng-press",
+   "nite-of-a-thousand-laughs-lineage"
+  ],
+  "discovery_note": "b.1978 Lagos. Nite of a Thousand Laughs \u2192 Basketmouth Uncensored (invented the solo-show model in Nigeria). Observational + insult + satire. 2005-06 National Comedy Awards."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ }
+}
