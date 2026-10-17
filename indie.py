@@ -254,32 +254,44 @@ def score_cmd() -> None:
 
 
 def match_greats(top_k: int = 3) -> None:
+    import sys as _sys
+    _sys.path.insert(0, str(HERE))
+    from sklearn.feature_extraction.text import TfidfVectorizer
+    from sklearn.preprocessing import normalize
+    import numpy as _np
     kings = _kings()
-    king_docs = {}
+    kids, kdocs = [], []
     for cid, j in kings:
         ident = j.get("identity", {})
-        king_docs[cid] = (
-            ident.get("deal", "") + " " + ident.get("premise", "") + " " +
-            ident.get("misinterpretation_rule", "") + " " +
-            " ".join(ident.get("threads", []))).lower()
+        t = (ident.get("deal", "") + " " + ident.get("premise", "") + " " +
+             ident.get("misinterpretation_rule", "") + " " +
+             " ".join(ident.get("threads", [])) + " " +
+             " ".join((ident.get("modulator_range") or [])))
+        if len(t.split()) >= 5:
+            kids.append(cid)
+            kdocs.append(t)
+    indies = _indies()
+    idocs = []
+    for cid, g, _ in indies:
+        idocs.append(g.get("name", "") + " " +
+                     (g.get("discovery") or {}).get("discovery_note", "") + " " +
+                     (g.get("identity") or {}).get("deal", ""))
+    vec = TfidfVectorizer(max_features=3000, stop_words="english",
+                          ngram_range=(1, 2), min_df=1)
+    X = vec.fit_transform(kdocs + idocs)
+    Z = normalize(X.toarray())
+    K, I = Z[:len(kids)], Z[len(kids):]
+    sims = I @ K.T
     n = 0
-    for cid, g, gpath in _indies():
-        doc = (g.get("name", "") + " " +
-               (g.get("discovery") or {}).get("discovery_note", "")).lower()
-        words = set(re.findall(r"[a-z]{4,}", doc))
-        scored = []
-        for kcid, kd in king_docs.items():
-            overlap = len(words & set(re.findall(r"[a-z]{4,}", kd)))
-            if overlap:
-                scored.append((overlap, kcid))
-        scored.sort(reverse=True)
-        if scored:
-            g["nearest_greats"] = [
-                {"comedian_id": kcid, "shared_terms": ov}
-                for ov, kcid in scored[:top_k]]
-            gpath.write_text(json.dumps(g, indent=1) + "\n", encoding="utf-8")
+    for i, (cid, g, gpath) in enumerate(indies):
+        order = sorted(range(len(kids)), key=lambda k: -sims[i, k])[:top_k]
+        g["nearest_greats"] = [
+            {"comedian_id": kids[k], "sim": round(float(sims[i, k]), 3)}
+            for k in order if sims[i, k] > 0.02]
+        gpath.write_text(json.dumps(g, indent=1) + "\n", encoding="utf-8")
+        if g["nearest_greats"]:
             n += 1
-    print(f"matched {n} indies to kings")
+    print(f"matched {n}/{len(indies)} indies to kings (latent space)")
 
 
 def for_you(favs: list[str], n: int = 10) -> None:

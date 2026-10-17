@@ -257,7 +257,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "impression machine",
     "repertoire": {
       "observational": 1.0
     },
@@ -284,5 +284,18 @@
       "time",
       "mean"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Voice switch as punchline."
+  },
+  "known_bits": [
+    {
+      "title": "Church Lady and 100 voices",
+      "why_it_works": "Church Lady and 100 voices: the most technically gifted mimic of the SNL era. Impressions as both bit and delivery system.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

@@ -252,7 +252,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "smooth absurdist",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -279,5 +279,18 @@
       "clapping",
       "time"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Silky setup, delayed absurd landing."
+  },
+  "known_bits": [
+    {
+      "title": "Conan-writer precision with silky delivery. The absurdism ar",
+      "why_it_works": "Conan-writer precision with silky delivery. The absurdism arrives so smoothly the room laughs a beat late.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

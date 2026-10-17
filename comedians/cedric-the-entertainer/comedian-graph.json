@@ -257,7 +257,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "smooth storyteller",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -284,5 +284,18 @@
       "give",
       "cause"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Even, polished, character pivots."
+  },
+  "known_bits": [
+    {
+      "title": "Kings-of-Comedy polish",
+      "why_it_works": "Kings-of-Comedy polish: every story lands clean, every character voiced. The smoothness IS the craft \u2014 no rough edges by design.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

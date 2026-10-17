@@ -251,7 +251,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "hood philosopher",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -278,5 +278,18 @@
       "audience",
       "police"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Laid-back setup, sharp turn."
+  },
+  "known_bits": [
+    {
+      "title": "Booty Call to Power",
+      "why_it_works": "Booty Call to Power: street wisdom with comic timing. The philosophy arrives in jokes the street already told.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

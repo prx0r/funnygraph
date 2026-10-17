@@ -1,8 +1,9 @@
 # ML Pipelines — funnygraph
 
 > What we can compute, ordered by what runs now vs what needs more data.
-> Data inventory (2026-10-17): 181 graphs · 78 known_bits · 225 specials_rated ·
-> 91 bios · 167 generations · 84 recognition · 451 sets · 21M transcript words.
+> Data inventory (2026-10-17, eve): 290 graphs (178 kings + 112 indies) ·
+> 150+ known_bits · 196 specials_rated · 142 bios · 165 generations ·
+> 82 recognition · 449 sets · 404 transcripts (19MB).
 
 ## Runs now
 
@@ -55,9 +56,21 @@ opener slots). Needs external timeline data. Hardest, most valuable.
 "If you like Tennessee Kid, try ___" from latent space + ratings.
 Trivial once #1 exists — free win.
 
-## Recommended order
-**1 + 4 + 2** now (one script): latent space, fingerprints, ratings regression.
-Then **5** as the honesty check. Then **7** once word-timed sets scale.
+## Status (2026-10-17 eve)
+- ✅ #1 latent space → recommend.py, neighbors.json (Hedberg→Wright 0.92)
+- ✅ #10 recommender → free from #1 + for-you matcher with indies
+- ✅ #4 fingerprints → ml_analysis.py M4, 162 comics, style{} written
+- ✅ #6 generation gap → M6: profanity peaked 70s, declining since
+- ✅ #2 regression → M2: n=71, R²=0.09; double_interp+/vocab_div− lead; profanity ~0
+- ✅ #5 theory check → M5: r=−0.05, FAILED honestly (priors need recalibration)
+- ⏳ #3 rise/fall → trajectories exist; canonization classifier next
+- ⏳ #7 timing→rating → blocked on word-timed sets (whisper needs audio)
+- ⏳ #8 influence graph → mention-mining pass not yet run
+- ⏳ #9 breakout → needs external timelines
+
+## Recommended order (remaining)
+Fit #3 canonization classifier next (all inputs present). Then #8
+mention-mining (transcripts present). #7/#9 await data access decisions.
 
 ## Rankings (separate problem — see RANKINGS.md)
 Definitive comedian rankings from critics data: theory, prior art, and our

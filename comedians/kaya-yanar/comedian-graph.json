@@ -1,58 +1,72 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "kaya-yanar",
-  "name": "Kaya Yanar",
-  "tier": "indie",
-  "region": "germany",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/global",
-  "note": "Turkish-German, Was guckst du?! 15k+ shows. Ethnic-observation pioneer in DE.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "kaya-yanar",
+ "name": "Kaya Yanar",
+ "tier": "indie",
+ "region": "germany",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/global",
+ "note": "Turkish-German, Was guckst du?! 15k+ shows. Ethnic-observation pioneer in DE.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-eu-pacific"
+  ],
+  "discovery_note": "Turkish-German, Was guckst du?! 15k+ shows. Ethnic-observation pioneer in DE."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "continent": "europe",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "joan-rivers",
+   "sim": 0.028
   },
-  "discovery": {
-    "discovered_from": [
-      "curated-eu-pacific"
-    ],
-    "discovery_note": "Turkish-German, Was guckst du?! 15k+ shows. Ethnic-observation pioneer in DE."
+  {
+   "comedian_id": "jerry-seinfeld",
+   "sim": 0.028
   },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "continent": "europe",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
+  {
+   "comedian_id": "chris-rock",
+   "sim": 0.027
   }
+ ]
 }

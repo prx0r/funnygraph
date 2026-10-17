@@ -1,78 +1,70 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "chloe-petts",
-  "name": "Chloe Petts",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "Soho Theatre runs, settling into voice",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "gold-2026",
-      "uk"
-    ],
-    "discovery_note": "Soho Theatre runs, settling into voice"
-  },
-  "theory_score": null,
-  "nearest_greats": [
-    {
-      "comedian_id": "maria-bamford",
-      "shared_terms": 2
-    },
-    {
-      "comedian_id": "hannibal-buress",
-      "shared_terms": 2
-    },
-    {
-      "comedian_id": "dave-allen",
-      "shared_terms": 2
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "chloe-petts",
+ "name": "Chloe Petts",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Soho Theatre runs, settling into voice",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "gold-2026",
+   "uk"
   ],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "region": "uk",
-  "continent": "europe",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
+  "discovery_note": "Soho Theatre runs, settling into voice"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "jerry-seinfeld",
+   "sim": 0.041
   }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "region": "uk",
+ "continent": "europe",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ }
 }

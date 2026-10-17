@@ -252,7 +252,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "barstool philosopher",
     "repertoire": {
       "observational": 1.0
     },
@@ -279,5 +279,18 @@
       "irish",
       "black"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Rant with footnotes, shrug close."
+  },
+  "known_bits": [
+    {
+      "title": "Tough Crowd constitutional",
+      "why_it_works": "Tough Crowd constitutional: working-class intellectualism delivered standing up. The barstool is the pulpit.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

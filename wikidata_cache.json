@@ -1966,5 +1966,82 @@
    "television producer"
   ],
   "source": "wikidata (CC0)"
+ },
+ "aaron-belisle": null,
+ "alibab-nigeria": {
+  "wikidata_id": "Q16442101",
+  "dob": "1965-06-24",
+  "dod": null,
+  "birthplace": null,
+  "citizenship": "Nigeria",
+  "occupations": [
+   "actor"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "andres-lopez": {
+  "wikidata_id": "Q2849034",
+  "dob": "1971-06-25",
+  "dod": null,
+  "birthplace": "Bogot\u00e1",
+  "citizenship": "Colombia",
+  "occupations": [
+   "actor"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "andrew-orolfo": null,
+ "ari-matti": {
+  "wikidata_id": "Q130496880",
+  "dob": "1992-01-20",
+  "dod": null,
+  "birthplace": "Tallinn",
+  "citizenship": "Estonia",
+  "occupations": [
+   "stand-up comedian"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "aunty-donna": null,
+ "ay-makun": null,
+ "basketmouth": {
+  "wikidata_id": "Q16159340",
+  "dob": "1978-09-14",
+  "dod": null,
+  "birthplace": "Lagos State",
+  "citizenship": "Nigeria",
+  "occupations": [
+   "actor",
+   "comedian"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "biswa-kalyan-rath": {
+  "wikidata_id": "Q23007900",
+  "dob": "1990-00-00",
+  "dod": null,
+  "birthplace": "Odisha",
+  "citizenship": "India",
+  "occupations": [
+   "comedian",
+   "television actor",
+   "film actor",
+   "television director"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "blanche-gardin": {
+  "wikidata_id": "Q2905980",
+  "dob": "1977-04-03",
+  "dod": null,
+  "birthplace": "Suresnes",
+  "citizenship": "France",
+  "occupations": [
+   "actor",
+   "comedian",
+   "screenwriter",
+   "stand-up comedian"
+  ],
+  "source": "wikidata (CC0)"
  }
 }

@@ -1,59 +1,73 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "ignatius-farray",
-  "name": "Ignatius Farray",
-  "tier": "indie",
-  "region": "spain",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/latam-es",
-  "note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "ignatius-farray",
+ "name": "Ignatius Farray",
+ "tier": "indie",
+ "region": "spain",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/latam-es",
+ "note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-latam-es",
+   "press"
+  ],
+  "discovery_note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "continent": "europe",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "james-acaster",
+   "sim": 0.049
   },
-  "discovery": {
-    "discovered_from": [
-      "curated-latam-es",
-      "press"
-    ],
-    "discovery_note": "La Vida Moderna radio \u2192 Palau Sant Jordi sellouts. Absurd + social criticism. El Fin de la Comedia (Emmy-nominated). Love-or-hate cult comic."
+  {
+   "comedian_id": "john-mulaney",
+   "sim": 0.04
   },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "continent": "europe",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
+  {
+   "comedian_id": "cristela-alonzo",
+   "sim": 0.034
   }
+ ]
 }

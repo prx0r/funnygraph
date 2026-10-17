@@ -257,7 +257,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "smug contrarian",
     "repertoire": {
       "observational": 1.0
     },
@@ -284,5 +284,18 @@
       "wife",
       "down"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Rant, aside, self-own kicker."
+  },
+  "known_bits": [
+    {
+      "title": "Mr. Show brain applied to standup",
+      "why_it_works": "Mr. Show brain applied to standup: hates everything including himself for hating it. The contrarianism has footnotes.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

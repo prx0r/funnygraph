@@ -243,7 +243,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "716 everyman",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -270,5 +270,18 @@
       "time",
       "someone"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Fast, filthy, charming reset."
+  },
+  "known_bits": [
+    {
+      "title": "Buffalo Catholic energy",
+      "why_it_works": "Buffalo Catholic energy: porn, parents, and bodily functions with lovable-dirttbag charm. The likability disarms the filth.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

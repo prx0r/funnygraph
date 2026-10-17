@@ -237,7 +237,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "clean-everyman",
-    "signature_title": null,
+    "signature_title": "anxious adventurer",
     "repertoire": {
       "clean-everyman": 1.0
     },
@@ -264,5 +264,18 @@
       "show",
       "thing"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Wandering setup, sudden sincere landing."
+  },
+  "known_bits": [
+    {
+      "title": "Career Suicide honesty",
+      "why_it_works": "Career Suicide honesty: depression, failure, and hope performed with traveler energy. The vulnerability has a passport.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

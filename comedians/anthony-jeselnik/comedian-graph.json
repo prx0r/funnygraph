@@ -321,5 +321,18 @@
       "never",
       "great"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Flat setup, devastating turn, long hold for the gasp."
+  },
+  "known_bits": [
+    {
+      "title": "Story A builds sympathy; the punch reveals story B (he's wor",
+      "why_it_works": "Story A builds sympathy; the punch reveals story B (he's worse). The turn has no tell \u2014 flatness IS the misdirection.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

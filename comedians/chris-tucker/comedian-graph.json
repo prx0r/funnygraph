@@ -251,7 +251,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "high-octane storyteller",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -278,5 +278,18 @@
       "back",
       "daddy"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Torrential, character voices, breathless tags."
+  },
+  "known_bits": [
+    {
+      "title": "Rush Hour energy applied to standup",
+      "why_it_works": "Rush Hour energy applied to standup: 100mph anecdotes with voices for everyone. Speed IS the joke \u2014 nobody else talks that fast that funny.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

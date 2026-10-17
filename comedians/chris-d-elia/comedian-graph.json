@@ -264,7 +264,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "dark-confessional",
-    "signature_title": null,
+    "signature_title": "creepy confident",
     "repertoire": {
       "dark-confessional": 1.0
     },
@@ -291,5 +291,18 @@
       "even",
       "shit"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Confident sprint, oblivious landing."
+  },
+  "known_bits": [
+    {
+      "title": "Performs the guy every woman has met \u2014 total confidence, zer",
+      "why_it_works": "Performs the guy every woman has met \u2014 total confidence, zero self-awareness. The commitment to the creep is the comedy.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

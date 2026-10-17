@@ -266,7 +266,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "blunt aristocrat",
     "repertoire": {
       "observational": 1.0
     },
@@ -293,5 +293,18 @@
       "cause",
       "little"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Blunt statement, sip, tag."
+  },
+  "known_bits": [
+    {
+      "title": "Says the impolite thing with vodka confidence. The bluntness",
+      "why_it_works": "Says the impolite thing with vodka confidence. The bluntness is the brand; the privilege is the target she includes herself in.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

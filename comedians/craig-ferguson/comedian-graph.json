@@ -309,7 +309,7 @@
   "continent": "europe",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "late-night anarchist",
     "repertoire": {
       "observational": 1.0
     },
@@ -336,5 +336,18 @@
       "went",
       "want"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Chaos with a desk, sincere sign-offs."
+  },
+  "known_bits": [
+    {
+      "title": "Tore up the talk-show format nightly \u2014 no guests, puppets, c",
+      "why_it_works": "Tore up the talk-show format nightly \u2014 no guests, puppets, cold opens. The format-breaking IS the comedy.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }

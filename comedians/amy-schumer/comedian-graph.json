@@ -309,7 +309,7 @@
   "continent": "north-america",
   "modes": {
     "signature": "observational",
-    "signature_title": null,
+    "signature_title": "sweetness assassin",
     "repertoire": {
       "observational": 1.0
     },
@@ -336,5 +336,18 @@
       "good",
       "love"
     ]
-  }
+  },
+  "timing_profile": {
+    "doctrine_hypothesis": "Even, chatty, sudden filth. The chat is the misdirection."
+  },
+  "known_bits": [
+    {
+      "title": "Girl-you-know voice delivering the least girl-next-door cont",
+      "why_it_works": "Girl-you-know voice delivering the least girl-next-door content. The contrast between delivery (rom-com) and content (filthy) is the engine.",
+      "theory_links": [
+        "benign_violation",
+        "persona_gap"
+      ]
+    }
+  ]
 }
