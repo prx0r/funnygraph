@@ -1,0 +1,55 @@
+{
+ "comedian_id": "patser-murray",
+ "name": "Patser Murray",
+ "clips": 2,
+ "total_views": 6500,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "mGhizsMqkAs",
+  "title": "English Hecklers | Patser Murray | Craic Den Comedy Club #standup #comedy #irish #hecklers #dublin",
+  "channel": "@craicdencomedyclub",
+  "views": 3700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=mGhizsMqkAs",
+  "r2_clip_key": "comedians/patser-murray/clips/patser-murray-mghizsmqkas.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/patser-murray/clips/patser-murray-mghizsmqkas.json"
+ },
+ "rows": [
+  {
+   "videoId": "mGhizsMqkAs",
+   "title": "English Hecklers | Patser Murray | Craic Den Comedy Club #standup #comedy #irish #hecklers #dublin",
+   "channel": "@craicdencomedyclub",
+   "views": 3700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=mGhizsMqkAs",
+   "n_words": 55,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Do you want to go to Turkey? Get yourself a pair of Turkey. Turkey. >> [laughter] >> Turkey. It's Turkey. You talk. I'm going to CALL YOU A TURKEY. CAN YOU WHY DON'T YOU GO TO SHIROUKI? >> [laughter] ",
+   "r2_clip_key": "comedians/patser-murray/clips/patser-murray-mghizsmqkas.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/patser-murray/clips/patser-murray-mghizsmqkas.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "8qdeAO_O5QM",
+   "title": "St Patrick Was Welsh | Patser Murray | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 2800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=8qdeAO_O5QM",
+   "n_words": 180,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "St. Patrick was actually from the UK, did you know that? >> Kidnapped from Wales, by a fellow called Niall of the Nine Hostages. >> And his brother Niall of the Nine Hostages was a >> I know it's ridi",
+   "r2_clip_key": "comedians/patser-murray/clips/patser-murray-8qdeao-o5qm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/patser-murray/clips/patser-murray-8qdeao-o5qm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

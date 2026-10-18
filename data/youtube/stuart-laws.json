@@ -1,0 +1,38 @@
+{
+ "comedian_id": "stuart-laws",
+ "name": "Stuart Laws",
+ "clips": 1,
+ "total_views": 212,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "JUTBG7OPRio",
+  "title": "GIANT Gummy Bears TRUTH | Stuart Laws | Sketch comedy",
+  "channel": "Stuart Laws",
+  "views": 212,
+  "duration_s": 157,
+  "url": "https://www.youtube.com/watch?v=JUTBG7OPRio",
+  "r2_clip_key": "comedians/stuart-laws/clips/stuart-laws-jutbg7oprio.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/stuart-laws/clips/stuart-laws-jutbg7oprio.json"
+ },
+ "rows": [
+  {
+   "videoId": "JUTBG7OPRio",
+   "title": "GIANT Gummy Bears TRUTH | Stuart Laws | Sketch comedy",
+   "channel": "Stuart Laws",
+   "views": 212,
+   "likes": null,
+   "duration_s": 157,
+   "url": "https://www.youtube.com/watch?v=JUTBG7OPRio",
+   "n_words": 114,
+   "words_timed": true,
+   "transcript_method": "youtube-manual-captions",
+   "transcript_available": true,
+   "transcript_preview": "So I saw\nthese videos of making the giant gummy\nbears, and I thought I got to\ntry it. So a little\ngummy bears in water, overnight, a cheeky addition to\nmy recipe is a little\ncayenne pepper that I foun",
+   "r2_clip_key": "comedians/stuart-laws/clips/stuart-laws-jutbg7oprio.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/stuart-laws/clips/stuart-laws-jutbg7oprio.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

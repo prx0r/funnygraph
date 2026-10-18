@@ -1,0 +1,55 @@
+{
+ "comedian_id": "phillip-reiss",
+ "name": "Phillip Reiss",
+ "clips": 2,
+ "total_views": 2300,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "ERGIZLwcEkk",
+  "title": "Phillip Reiss | Stand Up Comedy | Audience Debate",
+  "channel": "@phillipreiss",
+  "views": 1200,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=ERGIZLwcEkk",
+  "r2_clip_key": "comedians/phillip-reiss/clips/phillip-reiss-ergizlwcekk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/phillip-reiss/clips/phillip-reiss-ergizlwcekk.json"
+ },
+ "rows": [
+  {
+   "videoId": "ERGIZLwcEkk",
+   "title": "Phillip Reiss | Stand Up Comedy | Audience Debate",
+   "channel": "@phillipreiss",
+   "views": 1200,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=ERGIZLwcEkk",
+   "n_words": 83,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "He's about 25 and he has not seen any of the best films ever made, which are all from the '80s. That is just a fact. Best Christmas movie ever? No, Die Hard. Thank you. Die Hard. This is not a debate.",
+   "r2_clip_key": "comedians/phillip-reiss/clips/phillip-reiss-ergizlwcekk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/phillip-reiss/clips/phillip-reiss-ergizlwcekk.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "7_cyZ9luvqQ",
+   "title": "Phillip Reiss | Stand Up Comedy | There is No Eacape",
+   "channel": "@phillipreiss",
+   "views": 1100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=7_cyZ9luvqQ",
+   "n_words": 103,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Anyway, [clears throat] like I said, you know, I'm we have been like I said coming up to half an hour now, so we've got choices. You can get up and leave. Please don't. Um I mean, it's up to you if yo",
+   "r2_clip_key": "comedians/phillip-reiss/clips/phillip-reiss-7-cyz9luvqq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/phillip-reiss/clips/phillip-reiss-7-cyz9luvqq.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "sean-chalmers",
+ "name": "Sean Chalmers",
+ "clips": 1,
+ "total_views": 526,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "55pm6T_RXeE",
+  "title": "KELSEY ANNE",
+  "channel": "@SeanChalmersComedy",
+  "views": 526,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=55pm6T_RXeE",
+  "r2_clip_key": "comedians/sean-chalmers/clips/sean-chalmers-55pm6t_rxee.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sean-chalmers/clips/sean-chalmers-55pm6t_rxee.json"
+ },
+ "rows": [
+  {
+   "videoId": "55pm6T_RXeE",
+   "title": "KELSEY ANNE",
+   "channel": "@SeanChalmersComedy",
+   "views": 526,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=55pm6T_RXeE",
+   "n_words": 96,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "what is actually your name again kelan did you need two names could we just had one could have just been kelsean we had to have to I like it no Kel an you're what I like to call The Clapper right kayy",
+   "r2_clip_key": "comedians/sean-chalmers/clips/sean-chalmers-55pm6t_rxee.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sean-chalmers/clips/sean-chalmers-55pm6t_rxee.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "marlon-wayans",
+ "specials": [
+  {
+   "special_slug": "you-know-what-it-is-2021",
+   "title": "Marlon Wayans: You Know What It Is (2021)",
+   "comedian": "Marlon Wayans",
+   "url": "https://scrapsfromtheloft.com/comedy/marlon-wayans-you-know-what-it-is-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10349,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nMarlon Wayans: You Know What It Is (2021) \u2013 Transcript\nPublished June 21, 2023\nMarlon explores his fears onstage, including the greatest one that is the realization that his bad decisions are what tore his family apart, and he sums up his way through self-awareness with the phrase \u201cYou kn",
+   "r2_special_key": "comedians/marlon-wayans/specials/you-know-what-it-is-2021.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marlon-wayans/specials/you-know-what-it-is-2021.json"
+  },
+  {
+   "special_slug": "woke-ish-2018",
+   "title": "Marlon Wayans: Woke-Ish (2018) \u2013 Transcript",
+   "comedian": "Marlon Wayans",
+   "url": "https://scrapsfromtheloft.com/comedy/marlon-wayans-wokeish-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9683,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "How the fuck we doing, DC? We good? That music gets you hyped, man. I see why there\u2019s so many shootouts in hip-hop clubs. It\u2019s the music, man. Make you feel like you punched your best friend in the face. \u201cI\u2019m hyped! I\u2019ll punch a n*gga in the face with a right!\u201d \u201cDamn. My bad, Larry. Shit. You did th",
+   "r2_special_key": "comedians/marlon-wayans/specials/woke-ish-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marlon-wayans/specials/woke-ish-2018.json"
+  }
+ ],
+ "count": 2
+}

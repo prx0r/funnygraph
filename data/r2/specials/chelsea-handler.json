@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "chelsea-handler",
+ "specials": [
+  {
+   "special_slug": "evolution-2020",
+   "title": "Chelsea Handler: Evolution (2020) | Transcript",
+   "comedian": "Chelsea Handler",
+   "url": "https://scrapsfromtheloft.com/comedy/chelsea-handler-evolution-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 11215,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Join me in welcoming the author of six number one \u201cNew York Times\u201d bestselling books, the star of \u201cChelsea\u201d, \u201cChelsea Does\u201d, \u201cChelsea Lately\u201d and \u201cHello, Privilege. It\u2019s Me, Chelsea.\u201d Please put your hands together for Chelsea Handler. Yeah! What\u2019s up, New Jersey? I\u2019m so happy you came out tonight w",
+   "r2_special_key": "comedians/chelsea-handler/specials/evolution-2020.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chelsea-handler/specials/evolution-2020.json"
+  },
+  {
+   "special_slug": "the-feeling-2025",
+   "title": "Chelsea Handler: The Feeling (2025)",
+   "comedian": "Chelsea Handler",
+   "url": "https://scrapsfromtheloft.com/comedy/chelsea-handler-the-feeling-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10671,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nChelsea Handler: The Feeling (2025) \u2013 Transcript\nPublished June 2, 2025\nFrom ruining Thanksgiving to a wild summer fling, Chelsea Handler recounts coming of age, unexpected encounters and that time she met Bill Cosby.\n\n[rock music playing]\n\n[audience cheering and applauding]\n\n[announcer] ",
+   "r2_special_key": "comedians/chelsea-handler/specials/the-feeling-2025.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chelsea-handler/specials/the-feeling-2025.json"
+  }
+ ],
+ "count": 2
+}

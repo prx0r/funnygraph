@@ -1,0 +1,55 @@
+{
+ "comedian_id": "andrew-bird",
+ "name": "Andrew Bird",
+ "clips": 2,
+ "total_views": 100000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "LzW_inhS1GI",
+  "title": "Dubai Ex-Pats Return Home | Andrew Bird | Live at The Bearcat  #standupcomedy #comedy #jokes  #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 84000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=LzW_inhS1GI",
+  "r2_clip_key": "comedians/andrew-bird/clips/andrew-bird-lzw_inhs1gi.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-bird/clips/andrew-bird-lzw_inhs1gi.json"
+ },
+ "rows": [
+  {
+   "videoId": "LzW_inhS1GI",
+   "title": "Dubai Ex-Pats Return Home | Andrew Bird | Live at The Bearcat  #standupcomedy #comedy #jokes  #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 84000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=LzW_inhS1GI",
+   "n_words": 90,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "They've just sent a plane over to Dubai to get British people back and they kept referring to them as the stranded British people. British people that are stranded. Let's call them what they are, tax ",
+   "r2_clip_key": "comedians/andrew-bird/clips/andrew-bird-lzw_inhs1gi.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-bird/clips/andrew-bird-lzw_inhs1gi.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "FrTd1IWxaWc",
+   "title": "Arresting Prince Andrew | Andrew Bird | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 16000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=FrTd1IWxaWc",
+   "n_words": 64,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Prince Andrew getting arrested on his birthday. You know they at the police station were going to arrest him like weeks before, looked at his date of birth and went, \"Ah, give it a fortnight, shall we",
+   "r2_clip_key": "comedians/andrew-bird/clips/andrew-bird-frtd1iwxawc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-bird/clips/andrew-bird-frtd1iwxawc.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

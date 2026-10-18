@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jack-hester",
+ "name": "Jack Hester",
+ "clips": 1,
+ "total_views": 25000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "BXwxYJzaH-k",
+  "title": "Quitting Drinking? Really?! | Jack Hester | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 25000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=BXwxYJzaH-k",
+  "r2_clip_key": "comedians/jack-hester/clips/jack-hester-bxwxyjzah-k.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jack-hester/clips/jack-hester-bxwxyjzah-k.json"
+ },
+ "rows": [
+  {
+   "videoId": "BXwxYJzaH-k",
+   "title": "Quitting Drinking? Really?! | Jack Hester | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 25000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=BXwxYJzaH-k",
+   "n_words": 99,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "But have you seen these [\u00a0__\u00a0] I'm not an alcoholic, but I'm quitting the drink cuz I want to be more productive at work. Would you get [\u00a0__\u00a0] MY FRIEND CAME TO ME AND HE SAID TO ME, \"I'm not an alcoh",
+   "r2_clip_key": "comedians/jack-hester/clips/jack-hester-bxwxyjzah-k.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jack-hester/clips/jack-hester-bxwxyjzah-k.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

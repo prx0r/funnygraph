@@ -1,0 +1,38 @@
+{
+ "comedian_id": "andy-parsons",
+ "name": "Andy Parsons",
+ "clips": 1,
+ "total_views": 465,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "DUeCv17L7bA",
+  "title": "Liz Truss vs Boris vs Churchill (Statue Edition) | Andy Parsons",
+  "channel": "NextUp Comedy",
+  "views": 465,
+  "duration_s": 161,
+  "url": "https://www.youtube.com/watch?v=DUeCv17L7bA",
+  "r2_clip_key": "comedians/andy-parsons/clips/andy-parsons-duecv17l7ba.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andy-parsons/clips/andy-parsons-duecv17l7ba.json"
+ },
+ "rows": [
+  {
+   "videoId": "DUeCv17L7bA",
+   "title": "Liz Truss vs Boris vs Churchill (Statue Edition) | Andy Parsons",
+   "channel": "NextUp Comedy",
+   "views": 465,
+   "likes": null,
+   "duration_s": 161,
+   "url": "https://www.youtube.com/watch?v=DUeCv17L7bA",
+   "n_words": 415,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Often when, you know, we talk about statues, don't we? It's like, what links what links [clears throat] did they have to the slave trade? Now, William Wilberforce, the man the man who led the abolitio",
+   "r2_clip_key": "comedians/andy-parsons/clips/andy-parsons-duecv17l7ba.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andy-parsons/clips/andy-parsons-duecv17l7ba.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

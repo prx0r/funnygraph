@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "ahir-shah",
+ "specials": [
+  {
+   "special_slug": "ends-2024",
+   "title": "Ahir Shah: Ends (2024)",
+   "comedian": "Ahir Shah",
+   "url": "https://scrapsfromtheloft.com/comedy/ahir-shah-ends-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 11488,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nAhir Shah: Ends (2024) \u2013 Transcript\nPublished September 21, 2024\nFrom London\u2019s Royal Court Theatre, acclaimed comedian Ahir Shah dishes on class, family and multiculturalism in the UK from his grandfather\u2019s view.\n\nAhir Shah: Ends (2024)\n\nGenre: Stand-up Comedy, Social Commentary\n\nDirector",
+   "r2_special_key": "comedians/ahir-shah/specials/ends-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ahir-shah/specials/ends-2024.json"
+  },
+  {
+   "special_slug": "dots-2021",
+   "title": "Ahir Shah: Dots (2021)",
+   "comedian": "Ahir Shah",
+   "url": "https://scrapsfromtheloft.com/comedy/ahir-shah-dots-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 9586,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nAhir Shah: Dots (2021) \u2013 Transcript\nPublished September 22, 2024\nBritish comedian Ahir Shah mixes philosophical inquiry, personal examination, and sweet gags in his first ever stand-up special, exploring identity, faith, family, and the desire for certainty in uncertain times.\n\nDots (2021",
+   "r2_special_key": "comedians/ahir-shah/specials/dots-2021.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ahir-shah/specials/dots-2021.json"
+  }
+ ],
+ "count": 2
+}

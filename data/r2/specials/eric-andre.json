@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "eric-andre",
+ "specials": [
+  {
+   "special_slug": "legalize-everything-2020",
+   "title": "ERIC ANDRE: LEGALIZE EVERYTHING (2020)",
+   "comedian": "Eric Andre",
+   "url": "https://scrapsfromtheloft.com/comedy/eric-andre-legalize-everything-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8199,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Opening Sketch [dramatic music playing] [street bustles] [cars honk] [drumming rhythmically] [New Orleans jazz band plays] [sirens wail] [police dispatcher murmurs] [siren whooping] [tires screeching] [engine revs] [dispatcher continues] [whooping continues] [tires screech] [dramatic music softens] ",
+   "r2_special_key": "comedians/eric-andre/specials/legalize-everything-2020.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/eric-andre/specials/legalize-everything-2020.json"
+  }
+ ],
+ "count": 1
+}

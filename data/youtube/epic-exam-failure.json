@@ -1,0 +1,38 @@
+{
+ "comedian_id": "epic-exam-failure",
+ "name": "Epic Exam FAILURE",
+ "clips": 1,
+ "total_views": 954744,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "-bXrsUOpgeg",
+  "title": "Epic Exam FAILURE - Russell Howard's Good News - Series 1 Episode 6 Highlight - BBC",
+  "channel": "BBC",
+  "views": 954744,
+  "duration_s": 94,
+  "url": "https://www.youtube.com/watch?v=-bXrsUOpgeg",
+  "r2_clip_key": "comedians/epic-exam-failure/clips/epic-exam-failure--bxrsuopgeg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/epic-exam-failure/clips/epic-exam-failure--bxrsuopgeg.json"
+ },
+ "rows": [
+  {
+   "videoId": "-bXrsUOpgeg",
+   "title": "Epic Exam FAILURE - Russell Howard's Good News - Series 1 Episode 6 Highlight - BBC",
+   "channel": "BBC",
+   "views": 954744,
+   "likes": null,
+   "duration_s": 94,
+   "url": "https://www.youtube.com/watch?v=-bXrsUOpgeg",
+   "n_words": 188,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "if you're going to fail then fail with style have a look at these genuine answers from recent exams they are wonderful these are all true here's the first question what did Mahatma Gandhi and Genghis ",
+   "r2_clip_key": "comedians/epic-exam-failure/clips/epic-exam-failure--bxrsuopgeg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/epic-exam-failure/clips/epic-exam-failure--bxrsuopgeg.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

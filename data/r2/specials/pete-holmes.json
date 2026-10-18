@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "pete-holmes",
+ "specials": [
+  {
+   "special_slug": "i-am-not-for-everyone-2023",
+   "title": "Pete Holmes: I Am Not for Everyone (2023)",
+   "comedian": "Pete Holmes",
+   "url": "https://scrapsfromtheloft.com/comedy/pete-holmes-i-am-not-for-everyone-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10793,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nPete Holmes: I Am Not for Everyone (2023) \u2013 Transcript\nPublished February 22, 2024\nJust over one hour of the awesome stand-up humor from Pete Holmes. He discusses sex toys, the lock-down days, the weird ways we interact with each other.\n\n[audience cheering and applauding]\n\nHello! Hello!\n\n",
+   "r2_special_key": "comedians/pete-holmes/specials/i-am-not-for-everyone-2023.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/pete-holmes/specials/i-am-not-for-everyone-2023.json"
+  },
+  {
+   "special_slug": "dirty-clean-2018",
+   "title": "Pete Holmes: Dirty Clean (2018) \u2013 Full Transcript",
+   "comedian": "Pete Holmes",
+   "url": "https://scrapsfromtheloft.com/comedy/pete-holmes-dirty-clean-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8073,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "(crowd murmurs) Announcer: Ladies and gentlemen, Pete Holmes! (crowd cheering) Hello, everybody! How\u2019s it going? Thank you so much! Sit down! Have a seat! Thank you! (audience cheers) Thank you very, very much. Thank you, guys! Look at you! (scattered cheering) (audience laughs) We\u2019re here! -(more c",
+   "r2_special_key": "comedians/pete-holmes/specials/dirty-clean-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/pete-holmes/specials/dirty-clean-2018.json"
+  }
+ ],
+ "count": 2
+}

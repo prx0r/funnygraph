@@ -1,0 +1,45 @@
+{
+ "comedian_slug": "norm-macdonald",
+ "specials": [
+  {
+   "special_slug": "nothing-special-2022",
+   "title": "Norm Macdonald: Nothing Special (2022) | Transcript",
+   "comedian": "Norm Macdonald",
+   "url": "https://scrapsfromtheloft.com/comedy/norm-macdonald-nothing-special-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 14158,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Norm was working hard preparing material for his Netflix special \u2013 until COVID shut things down. In the summer of 2020, he was scheduled to undergo a procedure and as he put it, \u201cdidn\u2019t want to leave anything on the table in case things went south.\u201d At home, the night before going in, he shot this \u2013",
+   "r2_special_key": "comedians/norm-macdonald/specials/nothing-special-2022.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/norm-macdonald/specials/nothing-special-2022.json"
+  },
+  {
+   "special_slug": "hitler-s-dog-gossip-trickery-2017",
+   "title": "Norm Macdonald: Hitler\u2019s Dog, Gossip & Trickery (2017) \u2013 Transcript",
+   "comedian": "Norm Macdonald",
+   "url": "https://scrapsfromtheloft.com/comedy/norm-macdonald-hitlers-dog-gossip-trickery-2017-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8086,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Then people go, \u201cGoddamn, at least he\u2019s not a hypocrite.\u201d \u201cYou\u2019ve got to give it to him, that\u2019s the worst part of it.\u201d All right. I ate a pork chop. I don\u2019t want to brag or anything like that. But it\u2019s in my belly right now as we speak. And I realized that you\u2026 you eat at a restaurant different than",
+   "r2_special_key": "comedians/norm-macdonald/specials/hitler-s-dog-gossip-trickery-2017.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/norm-macdonald/specials/hitler-s-dog-gossip-trickery-2017.json"
+  },
+  {
+   "special_slug": "one-night-stand-1991",
+   "title": "NORM MACDONALD: ONE NIGHT STAND (1991) \u2013 Full Transcript",
+   "comedian": "Norm Macdonald",
+   "url": "https://scrapsfromtheloft.com/comedy/norm-macdonald-one-night-stand-1991/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 4009,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcribed by Brian Soule I BIT MY TONGUE Well, good to see ya- good crowd here. How ya doing tonight, ya alright? (Crowd cheers) Good stuff, there. Well, I\u2019m doing alright, too. I, uh, not much of a day for me- I, uh, I bit my tongue today, that was about all. You ever do that? Man, that hurts, eh",
+   "r2_special_key": "comedians/norm-macdonald/specials/one-night-stand-1991.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/norm-macdonald/specials/one-night-stand-1991.json"
+  }
+ ],
+ "count": 3
+}

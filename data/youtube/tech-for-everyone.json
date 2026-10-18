@@ -1,0 +1,38 @@
+{
+ "comedian_id": "tech-for-everyone",
+ "name": "Tech for Everyone",
+ "clips": 1,
+ "total_views": 675,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "xQeeAp_WO6c",
+  "title": "Currys | Tech for Everyone | The Inventor x Dan Tiernan",
+  "channel": "Currys",
+  "views": 675,
+  "duration_s": 90,
+  "url": "https://www.youtube.com/watch?v=xQeeAp_WO6c",
+  "r2_clip_key": "comedians/tech-for-everyone/clips/tech-for-everyone-xqeeap_wo6c.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tech-for-everyone/clips/tech-for-everyone-xqeeap_wo6c.json"
+ },
+ "rows": [
+  {
+   "videoId": "xQeeAp_WO6c",
+   "title": "Currys | Tech for Everyone | The Inventor x Dan Tiernan",
+   "channel": "Currys",
+   "views": 675,
+   "likes": null,
+   "duration_s": 90,
+   "url": "https://www.youtube.com/watch?v=xQeeAp_WO6c",
+   "n_words": 231,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Name Dan Tinan. Roll inventor. Mission to wow cries into stocking my ingenious new inventions that help fellow people with accessibility needs. Hello. Brace yourself. Danny 3000. It's a vacuum you can",
+   "r2_clip_key": "comedians/tech-for-everyone/clips/tech-for-everyone-xqeeap_wo6c.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tech-for-everyone/clips/tech-for-everyone-xqeeap_wo6c.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

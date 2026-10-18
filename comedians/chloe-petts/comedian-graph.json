@@ -29,7 +29,8 @@
   "discovery": {
     "discovered_from": [
       "gold-2026",
-      "uk"
+      "uk",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Soho Theatre runs, settling into voice",
     "bio_note": "She has appeared on Richard Osman\u2019s House of Games (BBC2), Jonathan Ross\u2019s Comedy Club (ITV), Hypothetical (Dave) and many other TV shows. She was a winner on the quiz show, Celebrity Pointless (BBC1). Chloe is a founder member of The LOL Word , a queer comedy collective that hosts monthly stand up comedy shows in London. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aene",
@@ -41,7 +42,9 @@
     ],
     "otm_enriched": true,
     "otm_url": "https://www.onthemic.co.uk/comedians_list/chloe-petts/",
-    "representation": "https://avalonuk.com/clients/chloe-petts/"
+    "representation": "https://avalonuk.com/clients/chloe-petts/",
+    "r2_comedian": true,
+    "r2_clips": 3
   },
   "theory_score": null,
   "nearest_greats": [
@@ -73,7 +76,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 11.5,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -104,7 +107,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -144,5 +147,39 @@
       "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
       "source": "otm-profile"
     }
+  },
+  "youtube": {
+    "clips": 3,
+    "total_views": 150,
+    "timed_clips": 3,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "GnlSul8Nw-0",
+      "title": "Chloe Petts Clip",
+      "views": 83,
+      "duration_s": 61,
+      "url": "https://www.youtube.com/watch?v=GnlSul8Nw-0",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chloe-petts/clips/chloe-petts-gnlsul8nw-0.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 637,
+    "special_words": 0,
+    "timed_clips": 3,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q124569447",
+    "dob": "1993-10-00",
+    "dod": null,
+    "birthplace": "Sittingbourne",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

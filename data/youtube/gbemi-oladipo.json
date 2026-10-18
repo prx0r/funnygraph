@@ -1,0 +1,38 @@
+{
+ "comedian_id": "gbemi-oladipo",
+ "name": "Gbemi Oladipo",
+ "clips": 1,
+ "total_views": 4500,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "wiZ_026llzM",
+  "title": "Extreme Parent Outsourcing | Gbemi Oladipo | Live at The Bearcat  #standupcomedy #nigeria #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 4500,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=wiZ_026llzM",
+  "r2_clip_key": "comedians/gbemi-oladipo/clips/gbemi-oladipo-wiz_026llzm.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/gbemi-oladipo/clips/gbemi-oladipo-wiz_026llzm.json"
+ },
+ "rows": [
+  {
+   "videoId": "wiZ_026llzM",
+   "title": "Extreme Parent Outsourcing | Gbemi Oladipo | Live at The Bearcat  #standupcomedy #nigeria #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 4500,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=wiZ_026llzM",
+   "n_words": 193,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Till I was 12, my parents sent me away to boarding school in Nigeria for 6 years. I know, yeah, 6 years a slave after movie, man. That's mad. I didn't want to go. I was born here. What kind of Western",
+   "r2_clip_key": "comedians/gbemi-oladipo/clips/gbemi-oladipo-wiz_026llzm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/gbemi-oladipo/clips/gbemi-oladipo-wiz_026llzm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

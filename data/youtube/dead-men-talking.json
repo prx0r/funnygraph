@@ -1,0 +1,38 @@
+{
+ "comedian_id": "dead-men-talking",
+ "name": "Dead Men Talking",
+ "clips": 1,
+ "total_views": 290,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "LugeriNX4-c",
+  "title": "PATREON EP 73 IS OUT NOW",
+  "channel": "Dead Men Talking",
+  "views": 290,
+  "duration_s": 70,
+  "url": "https://www.youtube.com/watch?v=LugeriNX4-c",
+  "r2_clip_key": "comedians/dead-men-talking/clips/dead-men-talking-lugerinx4-c.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dead-men-talking/clips/dead-men-talking-lugerinx4-c.json"
+ },
+ "rows": [
+  {
+   "videoId": "LugeriNX4-c",
+   "title": "PATREON EP 73 IS OUT NOW",
+   "channel": "Dead Men Talking",
+   "views": 290,
+   "likes": null,
+   "duration_s": 70,
+   "url": "https://www.youtube.com/watch?v=LugeriNX4-c",
+   "n_words": 239,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Rob had to push me up the hill Jay oh God I can't believe I haven't brought this up how did I forget about this I literally had to push him up a hill he was like he was like huffing and puffing at the",
+   "r2_clip_key": "comedians/dead-men-talking/clips/dead-men-talking-lugerinx4-c.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dead-men-talking/clips/dead-men-talking-lugerinx4-c.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

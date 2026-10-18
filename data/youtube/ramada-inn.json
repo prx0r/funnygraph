@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ramada-inn",
+ "name": "Ramada Inn",
+ "clips": 1,
+ "total_views": 24294,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "5-vvG1FFJNE",
+  "title": "Rob Gleeson | Ramada Inn | Laugh Factory Chicago Stand Up Comedy",
+  "channel": "Laugh Factory",
+  "views": 24294,
+  "duration_s": 99,
+  "url": "https://www.youtube.com/watch?v=5-vvG1FFJNE",
+  "r2_clip_key": "comedians/ramada-inn/clips/ramada-inn-5-vvg1ffjne.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ramada-inn/clips/ramada-inn-5-vvg1ffjne.json"
+ },
+ "rows": [
+  {
+   "videoId": "5-vvG1FFJNE",
+   "title": "Rob Gleeson | Ramada Inn | Laugh Factory Chicago Stand Up Comedy",
+   "channel": "Laugh Factory",
+   "views": 24294,
+   "likes": null,
+   "duration_s": 99,
+   "url": "https://www.youtube.com/watch?v=5-vvG1FFJNE",
+   "n_words": 282,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I travel a lot for stand-up I travel a lot recently I stayed in hands-down one of the worst hotels I've ever stayed at I stayed at a Ramada has anyone ever stayed at a Ramada holy [\u00a0__\u00a0] I was at the ",
+   "r2_clip_key": "comedians/ramada-inn/clips/ramada-inn-5-vvg1ffjne.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ramada-inn/clips/ramada-inn-5-vvg1ffjne.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

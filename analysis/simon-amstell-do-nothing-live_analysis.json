@@ -1,0 +1,1213 @@
+{
+ "comedian": "simon_amstell",
+ "source": "/tmp/opencode/simon-amstell-do-nothing-live.json",
+ "note": "r2:comedians/simon-amstell/specials/do-nothing-live.json method=youtube-auto-captions",
+ "audio_duration_s": 3629.12,
+ "timing": {
+  "word_count": 9366,
+  "duration_s": 3622.44,
+  "wpm": 155.1,
+  "pause_count": 170,
+  "pause_bins": {
+   "very_short": 27,
+   "short": 8,
+   "substantial": 9,
+   "topic": 126
+  },
+  "mean_pause_s": 2.243,
+  "median_pause_s": 1.84,
+  "punch_pauses_s": [
+   13.71,
+   10.0,
+   9.08,
+   6.76,
+   6.56,
+   6.28,
+   6.0,
+   5.96
+  ],
+  "max_pause_s": 13.71
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 39.47,
+   "pause_before_s": 10.0,
+   "fingerprint": "[Applause] hello thank you how are you"
+  },
+  {
+   "t_start_s": 54.12,
+   "pause_before_s": 1.68,
+   "fingerprint": "hello thank you how are you are"
+  },
+  {
+   "t_start_s": 71.64,
+   "pause_before_s": 1.48,
+   "fingerprint": "that nothing can be done about it"
+  },
+  {
+   "t_start_s": 87.52,
+   "pause_before_s": 1.2,
+   "fingerprint": "Joy it is a constant reminder and"
+  },
+  {
+   "t_start_s": 92.64,
+   "pause_before_s": 0.72,
+   "fingerprint": "reminder and so what I've had to"
+  },
+  {
+   "t_start_s": 109.52,
+   "pause_before_s": 2.2,
+   "fingerprint": "cry I think the problem comes from"
+  },
+  {
+   "t_start_s": 156.88,
+   "pause_before_s": 3.08,
+   "fingerprint": "people so she suggests about at about"
+  },
+  {
+   "t_start_s": 197.84,
+   "pause_before_s": 1.96,
+   "fingerprint": "memory which is living in the future"
+  },
+  {
+   "t_start_s": 211.24,
+   "pause_before_s": 3.0,
+   "fingerprint": "I think it comes from childhood when"
+  },
+  {
+   "t_start_s": 260.24,
+   "pause_before_s": 3.0,
+   "fingerprint": "reviews so did a deliberately bad drawing"
+  },
+  {
+   "t_start_s": 274.76,
+   "pause_before_s": 2.52,
+   "fingerprint": "sycophant so one day and I know"
+  },
+  {
+   "t_start_s": 294.12,
+   "pause_before_s": 1.88,
+   "fingerprint": "grandma I was only 11 I'm just"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 6.68,
+   "t1_s": 29.47,
+   "words": 14,
+   "text": "ladies and Gentlemen please will you welcome onto the stage Simon amstone [Applause] [Music]",
+   "pause_after_s": 10.0
+  },
+  {
+   "beat": 1,
+   "t0_s": 39.47,
+   "t1_s": 52.44,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 2,
+   "t0_s": 54.12,
+   "t1_s": 70.16,
+   "words": 43,
+   "text": "hello thank you how are you are you okay you're all right well this is fun isn't it this is sort of this is sort of a fun thing to be doing it's fun it's fun right I'm quite lonely let's start with",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 3,
+   "t0_s": 71.64,
+   "t1_s": 86.32,
+   "words": 40,
+   "text": "that nothing can be done about it people of Dublin nothing can be done I bought a new flat about 2 years ago in this flat in the bathroom there were two sinks I thought that would bring me some",
+   "pause_after_s": 1.2
+  },
+  {
+   "beat": 4,
+   "t0_s": 87.52,
+   "t1_s": 91.92,
+   "words": 5,
+   "text": "Joy it is a constant",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 5,
+   "t0_s": 92.64,
+   "t1_s": 107.32,
+   "words": 42,
+   "text": "reminder and so what I've had to do this is what I'm doing now in my life I'm actually doing this I'm using both sinks I now every day brush my teeth in the left sink and in the right one mainly",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 6,
+   "t0_s": 109.52,
+   "t1_s": 153.8,
+   "words": 139,
+   "text": "cry I think the problem comes from inability just be purely in the moment without fear I think we're all stuck in the past and looking to the Future and it's in the moment where true Joy exists it's i",
+   "pause_after_s": 3.08
+  },
+  {
+   "beat": 7,
+   "t0_s": 156.88,
+   "t1_s": 195.88,
+   "words": 158,
+   "text": "people so she suggests about at about 3:00 in the morning that we all run up the Shan to the ark to Triumph and I guess telling you about that now sounds sort of exciting and fun but at the time I jus",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 8,
+   "t0_s": 197.84,
+   "t1_s": 208.24,
+   "words": 35,
+   "text": "memory which is living in the future discussing the past with someone who if they asked you oh what do it feel like I don't know I was thinking about what I'd say to you",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 9,
+   "t0_s": 211.24,
+   "t1_s": 257.24,
+   "words": 167,
+   "text": "I think it comes from childhood when you're a child you're you're free you're purely in the moment you're not worried it doesn't even occur to you what other people might think of you don't analyze ev",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 10,
+   "t0_s": 260.24,
+   "t1_s": 272.24,
+   "words": 28,
+   "text": "reviews so did a deliberately bad drawing to see what she would say she said oh that's nice and I thought I can't deal with this an authentic",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 11,
+   "t0_s": 274.76,
+   "t1_s": 292.24,
+   "words": 57,
+   "text": "sycophant so one day and I know now that I did this because I wanted to do something where she couldn't validate it where she couldn't say oh that's nice but when I did it it was purely unconscious it",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 12,
+   "t0_s": 294.12,
+   "t1_s": 299.36,
+   "words": 8,
+   "text": "grandma I was only 11 I'm just 11",
+   "pause_after_s": 1.2
+  },
+  {
+   "beat": 13,
+   "t0_s": 300.56,
+   "t1_s": 315.36,
+   "words": 35,
+   "text": "it wasn't even like a cheeky playful little Moon and run away funny funny it was a violent bend over here's my grandma and apparently a bit of boss as well a little bit of",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 14,
+   "t0_s": 316.0,
+   "t1_s": 338.52,
+   "words": 55,
+   "text": "boss she didn't say oh that's nice although I think she wanted to because she's generous and encouraging she just couldn't quite get there with my in her face she ended up saying oh okay still encoura",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 15,
+   "t0_s": 341.04,
+   "t1_s": 382.96,
+   "words": 116,
+   "text": "Paris I did fall in love about 5 years ago fell in love 5 years ago but with somebody I invented which isn't ideal and uh he was based on somebody who existed but because I had such low self-esteem I ",
+   "pause_after_s": 3.04
+  },
+  {
+   "beat": 16,
+   "t0_s": 386.0,
+   "t1_s": 399.04,
+   "words": 33,
+   "text": "date a lot of it is narcissism really my I realized my type is me but better which I think is okay I just need to find somebody who wants himself but much",
+   "pause_after_s": 4.48
+  },
+  {
+   "beat": 17,
+   "t0_s": 403.52,
+   "t1_s": 428.08,
+   "words": 82,
+   "text": "worse I went to see him in this play that he was in and he was really vulnerable on stage and I really like vulnerability to me is quite sexually appealing I don't know if you like you know there are ",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 18,
+   "t0_s": 429.64,
+   "t1_s": 464.2,
+   "words": 121,
+   "text": "so I went to see this play on the Press nights I could perhaps meet him afterwards and wigs have been building up to this moment and all I could manage when I saw him at the party was a kind of polite",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 19,
+   "t0_s": 465.2,
+   "t1_s": 492.28,
+   "words": 70,
+   "text": "three weeks go by of sadness pain regret I've turned him into the only person I can possibly be with in my life a lot of it was ego I just felt like he was going to become a great actor he could make ",
+   "pause_after_s": 3.24
+  },
+  {
+   "beat": 20,
+   "t0_s": 495.52,
+   "t1_s": 505.03,
+   "words": 13,
+   "text": "Williams all the talent of Robin Williams but in two separate thin [Music]",
+   "pause_after_s": 1.57
+  },
+  {
+   "beat": 21,
+   "t0_s": 506.6,
+   "t1_s": 541.44,
+   "words": 106,
+   "text": "men I didn't know how I was going to meet him again and then I was in a shop in Covent Garden that sells vintage clothing and he was there in the shop I felt in that moment that God had brought us tog",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 22,
+   "t0_s": 543.12,
+   "t1_s": 554.24,
+   "words": 42,
+   "text": "but but really it just feels rude like if you're at a party and someone says you know you get into a conversation someone says I'm a Christian I'm a Muslim I'm a Jew it's very rude there to say oh how",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 23,
+   "t0_s": 555.48,
+   "t1_s": 567.0,
+   "words": 35,
+   "text": "ridiculous I feel at this point we have to treat people with kindness and love and respect in the in the same way you treat a child running around a party saying I'm a helicopter",
+   "pause_after_s": 1.3
+  },
+  {
+   "beat": 24,
+   "t0_s": 568.3,
+   "t1_s": 579.12,
+   "words": 13,
+   "text": "[Applause] say say good for you we're all having fun I'm a chuo",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 25,
+   "t0_s": 582.04,
+   "t1_s": 589.36,
+   "words": 21,
+   "text": "train I'm not an atheist like I'm a big fan of Jesus Christ there's nobody more thin or vulnerable than Jesus",
+   "pause_after_s": 0.93
+  },
+  {
+   "beat": 26,
+   "t0_s": 590.29,
+   "t1_s": 601.28,
+   "words": 12,
+   "text": "[Applause] Christ and he's bleeding as well it's very clever of them",
+   "pause_after_s": 1.52
+  },
+  {
+   "beat": 27,
+   "t0_s": 602.8,
+   "t1_s": 611.56,
+   "words": 25,
+   "text": "but I'm not an atheist for this reason this is the main reason I'm not an atheist I think I'm God a bit and here's",
+   "pause_after_s": 1.52
+  },
+  {
+   "beat": 28,
+   "t0_s": 613.08,
+   "t1_s": 621.12,
+   "words": 32,
+   "text": "why and that's the sort of thing I can say here but I can't really say at a dinner party cuz people will say well why have you got humus on your",
+   "pause_after_s": 3.12
+  },
+  {
+   "beat": 29,
+   "t0_s": 624.24,
+   "t1_s": 632.24,
+   "words": 19,
+   "text": "chin cuz it's sort of seemingly arrogant and blasphemous I don't think it's blasphemous speaking as God I'm not",
+   "pause_after_s": 5.8
+  },
+  {
+   "beat": 30,
+   "t0_s": 638.04,
+   "t1_s": 701.52,
+   "words": 206,
+   "text": "offended but I feel he would that that actor was in that shop at the same time as me and I don't believe in coincidence I think coincidence is a word we invented for something that we don't quite unde",
+   "pause_after_s": 5.36
+  },
+  {
+   "beat": 31,
+   "t0_s": 706.88,
+   "t1_s": 719.84,
+   "words": 45,
+   "text": "disgusting but there he was in the shop and I don't know how you feel maybe you think well he walked into that shop at the same time as you with his own legs no I put him in that shop with my God mind",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 32,
+   "t0_s": 721.16,
+   "t1_s": 733.96,
+   "words": 41,
+   "text": "now some people will say well you know if we do create our own reality what about the Holocaust what about victims of charab be they create that in their worlds and the thing you have to understand ab",
+   "pause_after_s": 2.8
+  },
+  {
+   "beat": 33,
+   "t0_s": 736.76,
+   "t1_s": 775.72,
+   "words": 123,
+   "text": "sh for whatever reason he was in that shop I knew I had to approach him because this was a moment and I couldn't have any more regret um I also knew I couldn't go up to him with my person ality I don'",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 34,
+   "t0_s": 777.36,
+   "t1_s": 781.12,
+   "words": 4,
+   "text": "jumper and I didn't",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 35,
+   "t0_s": 783.0,
+   "t1_s": 824.84,
+   "words": 138,
+   "text": "I went out with someone I went out with someone for quite a while who wasn't that Keen on that aspect of my [Music] personality and we um we were in a supermarket together and a friend of his who I ha",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 36,
+   "t0_s": 826.96,
+   "t1_s": 830.44,
+   "words": 3,
+   "text": "trolley well I'm",
+   "pause_after_s": 3.16
+  },
+  {
+   "beat": 37,
+   "t0_s": 833.6,
+   "t1_s": 871.84,
+   "words": 141,
+   "text": "gifted so awkward all the time a ridiculous way to be but there's this feeling of even though I believe believe that we're all one uh I still feel like a constant Detachment even with people I'm close",
+   "pause_after_s": 2.17
+  },
+  {
+   "beat": 38,
+   "t0_s": 874.01,
+   "t1_s": 885.36,
+   "words": 37,
+   "text": "[Applause] tax with my Grandma as well who I got on with quite well still an awkwardness I think it's my mom came out of her I came out of my mom it's like a Russian doll",
+   "pause_after_s": 4.76
+  },
+  {
+   "beat": 39,
+   "t0_s": 890.12,
+   "t1_s": 911.32,
+   "words": 62,
+   "text": "awkwardness I didn't want to be that person anymore I didn't want to be that guy in front of this actor in my ideal world I would have been able to go up to him and just say hey how are you I saw your",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 40,
+   "t0_s": 914.24,
+   "t1_s": 917.68,
+   "words": 4,
+   "text": "nod why are you",
+   "pause_after_s": 4.48
+  },
+  {
+   "beat": 41,
+   "t0_s": 922.16,
+   "t1_s": 926.88,
+   "words": 6,
+   "text": "crying I've got too many sinks",
+   "pause_after_s": 1.83
+  },
+  {
+   "beat": 42,
+   "t0_s": 928.71,
+   "t1_s": 947.68,
+   "words": 44,
+   "text": "[Applause] I don't know why but I feel I need to ask you if you'd like to go and get some coffee with me or a juice or something and I don't know maybe if that works out we could move to the country",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 43,
+   "t0_s": 948.72,
+   "t1_s": 959.48,
+   "words": 19,
+   "text": "together okay well let me just purchase this effortlessly cool cardigan and we can talk to an estate agent",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 44,
+   "t0_s": 960.16,
+   "t1_s": 970.92,
+   "words": 27,
+   "text": "here's what actually happened because of my personality I saw him there he hadn't seen me yet it was about a meter away from me there that",
+   "pause_after_s": 3.48
+  },
+  {
+   "beat": 45,
+   "t0_s": 974.4,
+   "t1_s": 1004.2,
+   "words": 96,
+   "text": "thin and what I thought for some reason what I thought would be really cool and seductive would be to just stand in the middle of the shop and Shout his full name he turned around alarmed I could see ",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 46,
+   "t0_s": 1005.68,
+   "t1_s": 1014.04,
+   "words": 29,
+   "text": "him and I think the difference between us because I think we were both quite shy as children I say I think I did a lot of research on",
+   "pause_after_s": 1.76
+  },
+  {
+   "beat": 47,
+   "t0_s": 1015.8,
+   "t1_s": 1049.88,
+   "words": 100,
+   "text": "him but he retained that shinness and it makes him beautiful and sensitive and I decided shinness was something to be overcome and I think it's in our training he went to a really good acting school i",
+   "pause_after_s": 6.76
+  },
+  {
+   "beat": 48,
+   "t0_s": 1056.64,
+   "t1_s": 1100.0,
+   "words": 118,
+   "text": "so I'm there still shouting at him and I realize I've got to make some sort of lasting connection with him and I I ask it occurs to me to ask you must be very busy at the moment but do you have a nigh",
+   "pause_after_s": 3.48
+  },
+  {
+   "beat": 49,
+   "t0_s": 1103.48,
+   "t1_s": 1137.24,
+   "words": 110,
+   "text": "close and you had to wear black trousers to get in black shoes and tucked shirt and I don't like it when the dress code is basic dick I think it's restricting one time I don't know if I was being rebe",
+   "pause_after_s": 1.6
+  },
+  {
+   "beat": 50,
+   "t0_s": 1138.84,
+   "t1_s": 1159.76,
+   "words": 81,
+   "text": "I remember the last time I went there I think I was 21 and I threw up I used to throw up there quite a lot CU I used to drink a lot because I wasn't happy I don't want to judge you if you're drinking ",
+   "pause_after_s": 2.1
+  },
+  {
+   "beat": 51,
+   "t0_s": 1161.86,
+   "t1_s": 1234.92,
+   "words": 222,
+   "text": "[Applause] fine I was trying to to get to the toilet and I didn't make it I threw up on the Dance Floor I looked at what I'd done and I was pleased I thought that's what you deserve that should be you",
+   "pause_after_s": 4.08
+  },
+  {
+   "beat": 52,
+   "t0_s": 1239.0,
+   "t1_s": 1250.96,
+   "words": 26,
+   "text": "but I had his email address I went home and I composed the most beautiful funny little email six friends confirmed it was a beautiful funny",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 53,
+   "t0_s": 1252.2,
+   "t1_s": 1292.8,
+   "words": 85,
+   "text": "email I pressed send and this is very much the end of this story he never emailed back thank you ideally in this situation laughter is better than pity but you're quite right it's not it's not a funny",
+   "pause_after_s": 9.08
+  },
+  {
+   "beat": 54,
+   "t0_s": 1301.88,
+   "t1_s": 1305.68,
+   "words": 2,
+   "text": "this Martin",
+   "pause_after_s": 2.06
+  },
+  {
+   "beat": 55,
+   "t0_s": 1307.74,
+   "t1_s": 1343.16,
+   "words": 74,
+   "text": "[Applause] cloons it's my fault for chasing this fantasy of this quiet mysterious actor type that's what I've always gone for some sort of and I I I didn't know what it was I didn't know why I kept go",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 56,
+   "t0_s": 1345.04,
+   "t1_s": 1378.56,
+   "words": 90,
+   "text": "Catalano you may whoop and cheer but that program has left me damaged everyone I've ever gone for has been some version of Jordan Catalano I watched the DVD to see what I was to do about this and uh I",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 57,
+   "t0_s": 1379.16,
+   "t1_s": 1409.72,
+   "words": 47,
+   "text": "an eye and he'll tuck it behind his ear which is amazing isn't it it's just amazing and the third thing is that his main character trait is that he is dyslexic and that's all I've ever wanted a near m",
+   "pause_after_s": 2.0
+  },
+  {
+   "beat": 58,
+   "t0_s": 1411.72,
+   "t1_s": 1418.84,
+   "words": 26,
+   "text": "and there's nothing wrong with any of those things I don't want to offend anyone if that describes you in any way I'd like to meet",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 59,
+   "t0_s": 1419.76,
+   "t1_s": 1429.28,
+   "words": 25,
+   "text": "you recently I went to see a play in which there was an actor that I fancied because if you don't seek some therapy life",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 60,
+   "t0_s": 1429.8,
+   "t1_s": 1471.88,
+   "words": 174,
+   "text": "repeats this time I was slightly better connected I knew the play right we went to eat after the play I Was sat next to the actor that I fancied I was talking to him about some of the things that we'v",
+   "pause_after_s": 3.32
+  },
+  {
+   "beat": 61,
+   "t0_s": 1475.2,
+   "t1_s": 1482.76,
+   "words": 13,
+   "text": "character I didn't know what to do with that I'd only just ordered",
+   "pause_after_s": 3.56
+  },
+  {
+   "beat": 62,
+   "t0_s": 1486.32,
+   "t1_s": 1537.08,
+   "words": 144,
+   "text": "him he then says out of his mouth do you want to see a sex scene I did as the young jalito I say yes he pulls out his iPhone shows me himself having sex as jaredo with long hair and naked and I say oh",
+   "pause_after_s": 2.48
+  },
+  {
+   "beat": 63,
+   "t0_s": 1539.56,
+   "t1_s": 1552.76,
+   "words": 20,
+   "text": "that so all I could manage to say was your beauty in recream for a Dream detracted from the narrative",
+   "pause_after_s": 6.0
+  },
+  {
+   "beat": 64,
+   "t0_s": 1558.76,
+   "t1_s": 1561.88,
+   "words": 5,
+   "text": "he thanked me and walked",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 65,
+   "t0_s": 1564.08,
+   "t1_s": 1595.44,
+   "words": 158,
+   "text": "away this was so close to the fantasy and also there was of course the fear of rejection as there always is I felt like there was a flirty Vibe between us but I wasn't sure and I have to be sure when ",
+   "pause_after_s": 5.92
+  },
+  {
+   "beat": 66,
+   "t0_s": 1601.36,
+   "t1_s": 1615.44,
+   "words": 47,
+   "text": "joking it was too close to the fantasy there was a fear of rejection I didn't know what to do so I did what I always do I ignored him completely became friends with somebody he knows quite well and no",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 67,
+   "t0_s": 1616.4,
+   "t1_s": 1644.2,
+   "words": 68,
+   "text": "piano too close to the fancy it was too much for me I should have remembered what my mom used to say about how you can be or do anything you want in this life because everyone you see on TV or on film",
+   "pause_after_s": 2.44
+  },
+  {
+   "beat": 68,
+   "t0_s": 1646.64,
+   "t1_s": 1684.8,
+   "words": 95,
+   "text": "star feel like we're all damaged in a way right we're all sort of damaged you're damaged right we're all damaged you look quite damaged you damaged a little bit Yeah and I don't mind that so much I fe",
+   "pause_after_s": 2.48
+  },
+  {
+   "beat": 69,
+   "t0_s": 1687.28,
+   "t1_s": 1741.12,
+   "words": 182,
+   "text": "wait and I feel special in some way if I feel broken if I'm broken there's a journey to be healed there's a journey to be fixed I feel like I'm an interesting unique human being in the meaninglessness",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 70,
+   "t0_s": 1745.0,
+   "t1_s": 1759.56,
+   "words": 39,
+   "text": "hamstrings yeah but isn't it more that I'm a genius for cluse isn't that the now the tendons behind your knees are quite restricted yeah but isn't that just the physical manifestation of a tortured So",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 71,
+   "t0_s": 1760.4,
+   "t1_s": 1769.76,
+   "words": 24,
+   "text": "legs similarly I got ill a few weeks ago and this happened the day before I've got a cat obviously I've got a cat",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 72,
+   "t0_s": 1770.52,
+   "t1_s": 1783.64,
+   "words": 35,
+   "text": "I really thought the cat would end my loneliness it has only become a mascot for my loneliness so if anyone does come around go oh you got to you're quite lonely what's he called",
+   "pause_after_s": 5.96
+  },
+  {
+   "beat": 73,
+   "t0_s": 1789.6,
+   "t1_s": 1817.84,
+   "words": 95,
+   "text": "Solitude I woke up and the cat had peed on my bed because I was still half asleep I ended up putting my hand in the the cat's pee I then went to grab the cat to put its head in its pee not as an act o",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 74,
+   "t0_s": 1818.44,
+   "t1_s": 1833.96,
+   "words": 44,
+   "text": "happened in the process of grabbing the cat the cat scratched my hand the same hand where the pee was there was then some blood coming out of my hand and maybe some pig getting into my bloodstream and",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 75,
+   "t0_s": 1836.0,
+   "t1_s": 1841.6,
+   "words": 14,
+   "text": "AIDS I tried not to think that cuz I believe that thinking makes it",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 76,
+   "t0_s": 1843.24,
+   "t1_s": 1858.52,
+   "words": 50,
+   "text": "so I woke up the next morning and I couldn't stop vomiting into my toilet so Violet was the vomit coming out of me it was going into my toilet all around the toilet as well splatting all over the floo",
+   "pause_after_s": 2.88
+  },
+  {
+   "beat": 77,
+   "t0_s": 1861.4,
+   "t1_s": 1869.12,
+   "words": 17,
+   "text": "I felt so weak and thin and pale I saw myself in the mirror I thought he's",
+   "pause_after_s": 2.8
+  },
+  {
+   "beat": 78,
+   "t0_s": 1871.92,
+   "t1_s": 1898.08,
+   "words": 85,
+   "text": "hot on the way to the doctor I wondered should I mention what happened with the cat I felt a bit embarrassed about it but then I thought it could be relevant it could be relevant to what's happened th",
+   "pause_after_s": 5.32
+  },
+  {
+   "beat": 79,
+   "t0_s": 1903.4,
+   "t1_s": 1912.0,
+   "words": 18,
+   "text": "cads she looked at me in a way that I thought doctors were trained not to look at",
+   "pause_after_s": 3.96
+  },
+  {
+   "beat": 80,
+   "t0_s": 1915.96,
+   "t1_s": 1922.12,
+   "words": 10,
+   "text": "Patients no there's there's no where you could have cat",
+   "pause_after_s": 3.44
+  },
+  {
+   "beat": 81,
+   "t0_s": 1925.56,
+   "t1_s": 1929.2,
+   "words": 4,
+   "text": "AES you're not a",
+   "pause_after_s": 1.84
+  },
+  {
+   "beat": 82,
+   "t0_s": 1931.04,
+   "t1_s": 1949.84,
+   "words": 26,
+   "text": "cat you're all right you're having fun you're quite thin aren't you what's your name Colin okay what wait Colin Ka Caitlyn go on one more",
+   "pause_after_s": 5.32
+  },
+  {
+   "beat": 83,
+   "t0_s": 1955.16,
+   "t1_s": 1960.17,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 3.07
+  },
+  {
+   "beat": 84,
+   "t0_s": 1963.24,
+   "t1_s": 1970.6,
+   "words": 9,
+   "text": "I still don't know what his name is was",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 85,
+   "t0_s": 1972.8,
+   "t1_s": 1989.4,
+   "words": 17,
+   "text": "Connor kill [Applause] c o h i l oh yeah laugh of the idiot English man yeah",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 86,
+   "t0_s": 1990.36,
+   "t1_s": 1993.48,
+   "words": 5,
+   "text": "trying my best I'm being",
+   "pause_after_s": 1.44
+  },
+  {
+   "beat": 87,
+   "t0_s": 1994.92,
+   "t1_s": 2013.12,
+   "words": 34,
+   "text": "polite yeah CU got spell it yeah C I hang on I'm speaking to coill he could do it even though he may have some dyslexia issues let's hope let's hope so let's hope",
+   "pause_after_s": 2.16
+  },
+  {
+   "beat": 88,
+   "t0_s": 2015.28,
+   "t1_s": 2023.72,
+   "words": 10,
+   "text": "so c a t h a l it's pretty up",
+   "pause_after_s": 3.64
+  },
+  {
+   "beat": 89,
+   "t0_s": 2027.36,
+   "t1_s": 2041.92,
+   "words": 11,
+   "text": "huh I'm Simon [Applause] I think that went quite well don't",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 90,
+   "t0_s": 2043.04,
+   "t1_s": 2100.6,
+   "words": 180,
+   "text": "you oh God what what the hell was I talking about oh yeah I remember I bloodly remember I can do this the main problem is that we feel like we're living into the future really what we're doing is livi",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 91,
+   "t0_s": 2101.88,
+   "t1_s": 2118.04,
+   "words": 44,
+   "text": "so and that's their belief what can you do nothing you can do you're very lucky in Island don't suppose you've ever had any sort of religious conflict or anything you know it's a nightmare it's a nigh",
+   "pause_after_s": 3.64
+  },
+  {
+   "beat": 92,
+   "t0_s": 2121.68,
+   "t1_s": 2220.56,
+   "words": 341,
+   "text": "Dublin that's their belief and they you know we mustn't judge them because they live in essics where there's not much to do and so there's a lot more time for racism I live in London now God if I had ",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 93,
+   "t0_s": 2222.24,
+   "t1_s": 2235.96,
+   "words": 33,
+   "text": "here and I say I ask just explain to me why is the belief more important than the feelings of a human being and it's so sad cuz she's a brunette she could",
+   "pause_after_s": 1.52
+  },
+  {
+   "beat": 94,
+   "t0_s": 2237.48,
+   "t1_s": 2259.0,
+   "words": 76,
+   "text": "pass and then my brother comes over and just starts swearing at them and it becomes a bit intense and I say oh no it's all right calm down I've been on a course and my grandpa this is just the point w",
+   "pause_after_s": 3.96
+  },
+  {
+   "beat": 95,
+   "t0_s": 2262.96,
+   "t1_s": 2406.52,
+   "words": 476,
+   "text": "cake and uh yeah it's a tricky business the whole thing is a tricky business it is then suggested that we all go back to my mom's house and resolve this and I feel very awkward about the whole thing c",
+   "pause_after_s": 1.84
+  },
+  {
+   "beat": 96,
+   "t0_s": 2408.36,
+   "t1_s": 2412.24,
+   "words": 5,
+   "text": "hungry and I invented the",
+   "pause_after_s": 2.68
+  },
+  {
+   "beat": 97,
+   "t0_s": 2414.92,
+   "t1_s": 2447.44,
+   "words": 117,
+   "text": "restaurant so I didn't want to have this debate with my family who was right and who was wrong it's very difficult thing we have to continue to debate things because there is no truth there's only per",
+   "pause_after_s": 3.8
+  },
+  {
+   "beat": 98,
+   "t0_s": 2451.24,
+   "t1_s": 2464.04,
+   "words": 39,
+   "text": "audience had to explain it to them like they were children I said why can't we learn from Lumia the candlestick holder from beauty and the Beast who sang Be Our Guest Be Our Guest not is she a",
+   "pause_after_s": 3.36
+  },
+  {
+   "beat": 99,
+   "t0_s": 2467.4,
+   "t1_s": 2554.88,
+   "words": 299,
+   "text": "Jew but this is unfair because I realized in everything that I was saying what was underneath my words was essentially why can't you just be less judgmental and more like me which is judgmental and ar",
+   "pause_after_s": 1.6
+  },
+  {
+   "beat": 100,
+   "t0_s": 2556.48,
+   "t1_s": 2611.04,
+   "words": 137,
+   "text": "name also I developed a paranoia for talking to anyone because I felt like if the chat up didn't go well they would then have a story to tell their friends about this came from being at the Edinburgh ",
+   "pause_after_s": 1.92
+  },
+  {
+   "beat": 101,
+   "t0_s": 2612.96,
+   "t1_s": 2619.53,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 0.71
+  },
+  {
+   "beat": 102,
+   "t0_s": 2620.24,
+   "t1_s": 2625.24,
+   "words": 14,
+   "text": "done I think it's cuz it took him a while it's not my catch",
+   "pause_after_s": 2.56
+  },
+  {
+   "beat": 103,
+   "t0_s": 2627.8,
+   "t1_s": 2710.28,
+   "words": 268,
+   "text": "race so I couldn't talk to people I couldn't talk to people and then I saw the film Waking Life I don't know if you've seen it but one line stood out for me me actual self-awareness is the knowledge t",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 104,
+   "t0_s": 2713.2,
+   "t1_s": 2735.6,
+   "words": 59,
+   "text": "you and for some reason this guy doesn't say why I think it's cuz my friend said we must and so he just went oh well if you're in charge of the world okay cuz that's what my friend's putting out that ",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 105,
+   "t0_s": 2736.84,
+   "t1_s": 2747.6,
+   "words": 35,
+   "text": "them we now all sat in this park with these people and everyone's acting very nonchalant like it's a normal thing to have happened but at least in my head I'm screaming but we're all",
+   "pause_after_s": 2.88
+  },
+  {
+   "beat": 106,
+   "t0_s": 2750.48,
+   "t1_s": 2759.24,
+   "words": 21,
+   "text": "strangers I try to chat up the one that I like I say you look like the cool one in the",
+   "pause_after_s": 3.52
+  },
+  {
+   "beat": 107,
+   "t0_s": 2762.76,
+   "t1_s": 2767.08,
+   "words": 9,
+   "text": "group because I don't know how to talk to",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 108,
+   "t0_s": 2768.08,
+   "t1_s": 2829.12,
+   "words": 175,
+   "text": "humans the only way I can cope it seems is if I imagine I'm conducting a TV interview well you're the cool one and who dresses you and thank you for coming in today and now lady [Music] gagar who I do",
+   "pause_after_s": 1.91
+  },
+  {
+   "beat": 109,
+   "t0_s": 2831.03,
+   "t1_s": 2839.96,
+   "words": 6,
+   "text": "[Applause] me maybe more than half",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 110,
+   "t0_s": 2841.64,
+   "t1_s": 2865.64,
+   "words": 75,
+   "text": "maybe and I'm not in I'm not in control of my life even being here tonight it's just that something happened in my childhood where there was a moment of fear I responded with something funny and that ",
+   "pause_after_s": 6.28
+  },
+  {
+   "beat": 111,
+   "t0_s": 2871.92,
+   "t1_s": 2896.48,
+   "words": 62,
+   "text": "standing and unless you grab these moments life just is cyclical and it is repetitive you know what I was thinking about when I was in the toilet the other morning again it's always the same isn't it ",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 112,
+   "t0_s": 2897.8,
+   "t1_s": 2912.96,
+   "words": 32,
+   "text": "now wasn't go to beard huh you think that's going to help so I don't know you think you sh shave that bit and that bit and we're all still going to",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 113,
+   "t0_s": 2914.68,
+   "t1_s": 2970.16,
+   "words": 183,
+   "text": "die so I asked my friend I said what do you want me to do now should I text him next week and see what he's up to he said no you know just text him now and see what he's doing tonight I said this is i",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 114,
+   "t0_s": 2970.84,
+   "t1_s": 3018.24,
+   "words": 143,
+   "text": "catchphrase so I texted him there and then because death is coming and he was free that night he was free that night we were then going on this date that night we'd met that day we're going on this da",
+   "pause_after_s": 3.96
+  },
+  {
+   "beat": 115,
+   "t0_s": 3022.2,
+   "t1_s": 3028.64,
+   "words": 17,
+   "text": "leading did you enjoy your tennis game well it was it was meaningless wasn't it was just",
+   "pause_after_s": 5.72
+  },
+  {
+   "beat": 116,
+   "t0_s": 3034.36,
+   "t1_s": 3077.2,
+   "words": 110,
+   "text": "it's joyful his tips were don't talk about the past don't discuss the future this is just about this moment just keep saying the words spontaneous and Adventure spontaneous adventure aren't we spontan",
+   "pause_after_s": 2.0
+  },
+  {
+   "beat": 117,
+   "t0_s": 3079.2,
+   "t1_s": 3128.44,
+   "words": 165,
+   "text": "hypnosis I feel like now we we can just have anything we want in our lives and the only thing to fear is death and that's happening anyway the real problem I find is that we're getting older and we ha",
+   "pause_after_s": 5.64
+  },
+  {
+   "beat": 118,
+   "t0_s": 3134.08,
+   "t1_s": 3193.72,
+   "words": 208,
+   "text": "child we get talking and they're delightfully Uber middle class and I'm from Essex and this feels like a moment where I've arrived we're talking about the play we're talking about poetry we're having ",
+   "pause_after_s": 3.6
+  },
+  {
+   "beat": 119,
+   "t0_s": 3197.32,
+   "t1_s": 3215.4,
+   "words": 61,
+   "text": "me so I I took him um he actually took me to this restaurant that he knew it was his area we went to this late night restaurant we spoke for 2 hours and he's actually much more mature than you'd imagi",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 120,
+   "t0_s": 3217.36,
+   "t1_s": 3240.56,
+   "words": 83,
+   "text": "say we started meeting up for these kind of dates they weren't defined as such but they were essentially dates and eventually I invited him back to my flat I felt strange and torn about inviting him I",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 121,
+   "t0_s": 3241.16,
+   "t1_s": 3253.44,
+   "words": 47,
+   "text": "here and then we were sat for like 3 hours on my so just talking and talking and I couldn't quite make the move I felt just awkward about it I wasn't sure what and it was hard for him as well cuz he's",
+   "pause_after_s": 2.51
+  },
+  {
+   "beat": 122,
+   "t0_s": 3255.95,
+   "t1_s": 3278.12,
+   "words": 70,
+   "text": "[Applause] difficult but everything is seemingly leading towards This Kiss we're edging close to each other subtly on the sofa and at one point I realized I had to kiss him because I found myself fidd",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 123,
+   "t0_s": 3278.68,
+   "t1_s": 3287.0,
+   "words": 12,
+   "text": "hair well it's been lovely touching your hair this evening let yourself",
+   "pause_after_s": 6.56
+  },
+  {
+   "beat": 124,
+   "t0_s": 3293.56,
+   "t1_s": 3308.2,
+   "words": 32,
+   "text": "out so I leaned in and I kissed him on the lips and said I've just kissed you on the lips is that okay and he said oh yeah it's fine it's",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 125,
+   "t0_s": 3308.76,
+   "t1_s": 3312.92,
+   "words": 7,
+   "text": "fine and in that moment I won",
+   "pause_after_s": 3.6
+  },
+  {
+   "beat": 126,
+   "t0_s": 3316.52,
+   "t1_s": 3327.36,
+   "words": 23,
+   "text": "\u00a37 I leaned in again I kissed him again I said I've just kissed you on the lips again because kids love repetition",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 127,
+   "t0_s": 3328.44,
+   "t1_s": 3340.84,
+   "words": 46,
+   "text": "but really we were having a laugh about it ourselves like I kept sort of I you know I try to make it fun and I was making him laugh he really liked um I kept doing who is it it's me he love that loved",
+   "pause_after_s": 1.66
+  },
+  {
+   "beat": 128,
+   "t0_s": 3342.5,
+   "t1_s": 3367.68,
+   "words": 66,
+   "text": "[Applause] it and actually it was a really lovely experience for both of us don't regret any of it was like a wonderful beautiful sensual evening and there's no I don't feel any shame or regret about ",
+   "pause_after_s": 2.76
+  },
+  {
+   "beat": 129,
+   "t0_s": 3370.44,
+   "t1_s": 3375.92,
+   "words": 14,
+   "text": "tumbly obviously a bit nervous at first in the end lovely bit of rumbly",
+   "pause_after_s": 5.2
+  },
+  {
+   "beat": 130,
+   "t0_s": 3381.12,
+   "t1_s": 3394.76,
+   "words": 55,
+   "text": "tumbly now I look it's not ideal being with an 18-year-old there's nothing we can do about the fact that he was nothing we can do about the fact if I met him 5 weeks before that he would have been 17 ",
+   "pause_after_s": 3.2
+  },
+  {
+   "beat": 131,
+   "t0_s": 3397.96,
+   "t1_s": 3442.72,
+   "words": 159,
+   "text": "anything and I realized now that as well as it being a worry about getting older it was also an attempt to heal the past when I was 18 at that stage it seemed impossible to be with another 18-year-old",
+   "pause_after_s": 1.44
+  },
+  {
+   "beat": 132,
+   "t0_s": 3444.16,
+   "t1_s": 3449.24,
+   "words": 9,
+   "text": "acceptance what do you mean with Whispering wise cab",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 133,
+   "t0_s": 3450.52,
+   "t1_s": 3531.6,
+   "words": 292,
+   "text": "driver and he explained so absurdly simply that if there's nothing you can do about something then you do nothing and in that moment the feeling of Injustice the frustration it was lifted it was gone ",
+   "pause_after_s": 4.88
+  },
+  {
+   "beat": 134,
+   "t0_s": 3536.48,
+   "t1_s": 3539.48,
+   "words": 1,
+   "text": "w",
+   "pause_after_s": 13.71
+  },
+  {
+   "beat": 135,
+   "t0_s": 3553.19,
+   "t1_s": 3574.34,
+   "words": 2,
+   "text": "[Applause] [Music]",
+   "pause_after_s": 4.78
+  },
+  {
+   "beat": 136,
+   "t0_s": 3579.12,
+   "t1_s": 3582.12,
+   "words": 1,
+   "text": "he",
+   "pause_after_s": 2.25
+  },
+  {
+   "beat": 137,
+   "t0_s": 3584.37,
+   "t1_s": 3623.89,
+   "words": 3,
+   "text": "[Music] he [Music]",
+   "pause_after_s": 2.23
+  },
+  {
+   "beat": 138,
+   "t0_s": 3626.12,
+   "t1_s": 3629.12,
+   "words": 1,
+   "text": "a",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 139,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 139
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

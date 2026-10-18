@@ -76,12 +76,25 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://carlosballarta.net",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "bio": {
+    "wikidata_id": "Q26160511",
+    "dob": "1990-11-13",
+    "dod": null,
+    "birthplace": "Mexico City",
+    "citizenship": "Mexico",
+    "occupations": [
+      "comedian",
+      "voice actor",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

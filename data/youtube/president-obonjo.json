@@ -1,0 +1,38 @@
+{
+ "comedian_id": "president-obonjo",
+ "name": "President Obonjo",
+ "clips": 1,
+ "total_views": 2000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "uKFJwged7C4",
+  "title": "PRESIDENT OBONJO - HOW MANY WIVES",
+  "channel": "@BigBellyComedy",
+  "views": 2000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=uKFJwged7C4",
+  "r2_clip_key": "comedians/president-obonjo/clips/president-obonjo-ukfjwged7c4.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/president-obonjo/clips/president-obonjo-ukfjwged7c4.json"
+ },
+ "rows": [
+  {
+   "videoId": "uKFJwged7C4",
+   "title": "PRESIDENT OBONJO - HOW MANY WIVES",
+   "channel": "@BigBellyComedy",
+   "views": 2000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=uKFJwged7C4",
+   "n_words": 107,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Madam, ask me how many wives do you have? >> How many wives? >> Don't ask me submissively as if you're in bed with me. Ask me how many wives do I have? >> How many wives you have? >> I GOT SIX WIVES C",
+   "r2_clip_key": "comedians/president-obonjo/clips/president-obonjo-ukfjwged7c4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/president-obonjo/clips/president-obonjo-ukfjwged7c4.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

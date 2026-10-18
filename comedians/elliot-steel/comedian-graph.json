@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -42,7 +43,9 @@
     "bio_note": "Elliot Steel is a stand up comedian and writer based in London, England. He was the runner up at the So You Think You\u2019re Funny? awards in 2014 and a Magners New Comedy Act finalist in 2015. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about ",
     "otm_enriched": true,
     "otm_url": "https://www.onthemic.co.uk/comedians_list/elliot-steel/",
-    "representation": "https://offthekerb.com/artist/elliot-steel/"
+    "representation": "https://offthekerb.com/artist/elliot-steel/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -80,7 +83,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 35.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -106,12 +109,47 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 7300,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "RNOU5MVrsn8",
+      "title": "I'm A bit Fascist | Elliot Steel | Top Secret Comedy Club",
+      "views": 7300,
+      "url": "https://www.youtube.com/watch?v=RNOU5MVrsn8",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/elliot-steel/clips/elliot-steel-rnou5mvrsn8.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 204,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q111372647",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "writer",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

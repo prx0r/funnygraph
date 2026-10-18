@@ -1,0 +1,1473 @@
+{
+ "comedian_id": "pat-regan",
+ "specials": [
+  {
+   "videoId": "XTGc0FA4UPw",
+   "title": "24 Minute Benchy on Sovol SV06 with Marlin input shaping",
+   "channel": "Pat Regan",
+   "publishedAt": "2023-06-06T23:15:56Z",
+   "duration_s": 1484,
+   "views": 2839,
+   "likes": 17,
+   "comedian_slug": "pat-regan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "on-ZdCcmxdU",
+   "title": "Jabbering About Debian, Ubuntu, and lvmcache While Assembling a Macro Pad",
+   "channel": "Pat Regan",
+   "publishedAt": "2022-04-11T14:45:02Z",
+   "duration_s": 1794,
+   "views": 150,
+   "likes": 8,
+   "comedian_slug": "pat-regan",
+   "matched_r2_special": "volker-pispers-about-usa-2004"
+  },
+  {
+   "videoId": "By0cbQ_REmQ",
+   "title": "Soldering Up A Grounduino Nano",
+   "channel": "Pat Regan",
+   "publishedAt": "2021-04-06T14:15:01Z",
+   "duration_s": 1219,
+   "views": 47,
+   "likes": 7,
+   "comedian_slug": "pat-regan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "b83FBRi2OiQ",
+   "title": "Flying Hula Hoop Race Gates?! Bombing the Green with a Dodgeball?! What?!",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-07-01T22:26:11Z",
+   "duration_s": 1247,
+   "views": 111,
+   "likes": 8,
+   "comedian_slug": "pat-regan",
+   "matched_r2_special": "red-blue-green-2021"
+  },
+  {
+   "videoId": "Mu9v0kIY27U",
+   "title": "Flying at the Golf Course on Memorial Day and Some Tinyhawk Racing!",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-05-29T15:15:00Z",
+   "duration_s": 1289,
+   "views": 181,
+   "likes": 6,
+   "comedian_slug": "pat-regan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "7vi44P58U1E",
+   "title": "A Day of Flying at the Golf Course",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-05-28T15:15:00Z",
+   "duration_s": 1496,
+   "views": 125,
+   "likes": 5,
+   "comedian_slug": "pat-regan",
+   "matched_r2_special": null
+  }
+ ],
+ "clips": [
+  {
+   "videoId": "urHWTAsOv-g",
+   "title": "Removing supports from the Li'l Magnum 3D printed 16.4 gram VXE Mad R mouse #gamingmouse #3dprinting",
+   "channel": "Pat Regan",
+   "publishedAt": "2025-03-07T17:18:55Z",
+   "duration_s": 59,
+   "views": 1896,
+   "likes": 40,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "ypUWX6Qn7c8",
+   "title": "Popping out PETG supports from PLA print! Hashtag Bambu A1 Mini AMS Lite",
+   "channel": "Pat Regan",
+   "publishedAt": "2023-12-11T22:01:42Z",
+   "duration_s": 57,
+   "views": 1329,
+   "likes": 17,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "qe_Gnm5B5Jk",
+   "title": "coffee is hard",
+   "channel": "Pat Regan",
+   "publishedAt": "2023-03-16T18:30:58Z",
+   "duration_s": 30,
+   "views": 108,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "P8_fKBQJSNA",
+   "title": "Using the JC Pro Macro Pad with Rotary Encoder as a Pendant for CNCjs",
+   "channel": "Pat Regan",
+   "publishedAt": "2021-10-01T20:34:52Z",
+   "duration_s": 152,
+   "views": 1574,
+   "likes": 26,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "iIuRneWm5Ho",
+   "title": "How I'm Using the JC Pro Macro Pad",
+   "channel": "Pat Regan",
+   "publishedAt": "2021-09-29T23:56:12Z",
+   "duration_s": 292,
+   "views": 1466,
+   "likes": 22,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "7Hxh79plE-g",
+   "title": "Snow",
+   "channel": "Pat Regan",
+   "publishedAt": "2021-05-26T14:28:05Z",
+   "duration_s": 55,
+   "views": 191,
+   "likes": 6,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "wn4vG3vpDBU",
+   "title": "Get Good #fpv",
+   "channel": "Pat Regan",
+   "publishedAt": "2021-05-26T00:52:55Z",
+   "duration_s": 45,
+   "views": 36,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "P1l5ryh3tZU",
+   "title": "My Best Ever Freestyle Flight on My 4\" Kestrel Ever",
+   "channel": "Pat Regan",
+   "publishedAt": "2020-04-11T20:19:34Z",
+   "duration_s": 210,
+   "views": 181,
+   "likes": 12,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "DL8ZDhlphhA",
+   "title": "Exway X1 Riot Pro Electric Skateboard Cinematic Drone Chase",
+   "channel": "Pat Regan",
+   "publishedAt": "2020-01-21T18:01:15Z",
+   "duration_s": 195,
+   "views": 401,
+   "likes": 9,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "EcviY-0v0Dk",
+   "title": "I Haven't Uploaded an FPV Freestyle Edit in Ages!",
+   "channel": "Pat Regan",
+   "publishedAt": "2020-01-14T10:42:05Z",
+   "duration_s": 171,
+   "views": 133,
+   "likes": 8,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "60-xyzehes4",
+   "title": "Chasing Brian's Exway X1 Pro Riot Electric Skateboard",
+   "channel": "Pat Regan",
+   "publishedAt": "2020-01-02T18:22:32Z",
+   "duration_s": 74,
+   "views": 904,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "tJ9TNaOIuhc",
+   "title": "Maiden Flight of the Falcon: My New Open Source FPV Freestyle Frame",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-07-22T22:26:54Z",
+   "duration_s": 306,
+   "views": 125,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "rDJ8Ni30eOE",
+   "title": "Don't Bother Building a 4\" FPV Freestyle Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-06-14T21:59:22Z",
+   "duration_s": 343,
+   "views": 103,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Qh60DLBRWdk",
+   "title": "My 4\" Kestrel at the Golf Course",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-04-12T22:06:02Z",
+   "duration_s": 600,
+   "views": 181,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "dUD1MSbewjE",
+   "title": "Why is Multishot Working So Much Better Than DSHOT600 On My Kestrel?",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-03-21T03:23:33Z",
+   "duration_s": 482,
+   "views": 136,
+   "likes": 9,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "aGM3Mth62-s",
+   "title": "3\" HD Micro FPV Quad Prototype:  The Kestrel",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-03-04T20:40:15Z",
+   "duration_s": 462,
+   "views": 909,
+   "likes": 19,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "ITWXa7hXtag",
+   "title": "Maiden of My 3\" HD Micro Frame",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-02-12T22:39:17Z",
+   "duration_s": 241,
+   "views": 116,
+   "likes": 10,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "2Lh5PY_pjnc",
+   "title": "Searching For Scraggle, Dipping in a Puddle!",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-01-16T23:31:12Z",
+   "duration_s": 246,
+   "views": 28,
+   "likes": 6,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "4mzjHAZgW5Q",
+   "title": "121 MPH in an FPV Freestyle Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-01-07T02:51:42Z",
+   "duration_s": 35,
+   "views": 379,
+   "likes": 6,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "K5N2jb0gs7k",
+   "title": "Tiny Hawk Maiden Voyage (Almost!)",
+   "channel": "Pat Regan",
+   "publishedAt": "2019-01-02T22:24:03Z",
+   "duration_s": 285,
+   "views": 57,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "399SRzOYNZs",
+   "title": "Betaflight GPS Rescue Automatic Landing Attempt",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-12-17T19:09:09Z",
+   "duration_s": 107,
+   "views": 5521,
+   "likes": 55,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "7l8fnTmwDi8",
+   "title": "Whooping Up The 3D Printed Race Gates",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-11-29T19:28:47Z",
+   "duration_s": 178,
+   "views": 59,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Vlf2otVheZg",
+   "title": "I'm on the Green!",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-11-27T21:50:40Z",
+   "duration_s": 219,
+   "views": 451,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "28nL-wVafmU",
+   "title": "Ripping a Pack at the Golf Course (Again?!)",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-11-26T17:58:04Z",
+   "duration_s": 196,
+   "views": 47,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "0I8SSCFKYxk",
+   "title": "One Pack At The Golf Course",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-11-19T16:47:33Z",
+   "duration_s": 205,
+   "views": 92,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "-smuictSeO0",
+   "title": "Full Speed Leader 3 On 4S",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-11-14T23:42:56Z",
+   "duration_s": 163,
+   "views": 96,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "EJIVZ5hioyM",
+   "title": "One Pack With Butterflight 3.6.2 and 1.1.0 FU IMU-F",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-11-08T22:03:44Z",
+   "duration_s": 220,
+   "views": 32,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "c580sA7nfv8",
+   "title": "Butterflight 3.6.2 Maiden on Helio Spring",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-11-08T17:21:52Z",
+   "duration_s": 50,
+   "views": 45,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Ty_QqdpYJcs",
+   "title": "It's Finally Fall in Plano!",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-10-29T19:12:31Z",
+   "duration_s": 237,
+   "views": 13,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Iwtk03cxq8k",
+   "title": "Proximity At The Lady Tree (With Lots Of Crashing)",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-10-11T17:08:52Z",
+   "duration_s": 451,
+   "views": 16,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Lfe2RJAC-14",
+   "title": "This Jello is the Reason I Stopped Flying DAL Cyclone T5544C Props!",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-09-21T01:16:19Z",
+   "duration_s": 265,
+   "views": 112,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "CN_rTdF02jM",
+   "title": "I Am A Chicken (Unedited, Boring Leader 3 DVR Footage)",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-09-19T18:03:00Z",
+   "duration_s": 310,
+   "views": 99,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "jTfG6223iK0",
+   "title": "Butterflight 3.5.3 Starbuck Maiden Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-09-17T16:17:20Z",
+   "duration_s": 270,
+   "views": 215,
+   "likes": 7,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "2wfep0Qj-P4",
+   "title": "The Sun Came Out After A Few Packs",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-09-12T00:58:55Z",
+   "duration_s": 376,
+   "views": 32,
+   "likes": 6,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "DjNArei0PU4",
+   "title": "Full Speed Leader 3 Maiden Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-08-23T23:49:47Z",
+   "duration_s": 273,
+   "views": 257,
+   "likes": 8,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "JsgyUBQx9c0",
+   "title": "The Final Flight of My Leader 120",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-08-22T20:16:56Z",
+   "duration_s": 315,
+   "views": 28,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "iK8ePHLFwTU",
+   "title": "5.5\" Props (HQ vs. DAL), rapidFire, and Some Flying",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-08-21T20:32:37Z",
+   "duration_s": 502,
+   "views": 53,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "CscszImXGzY",
+   "title": "Testing My ImmersionRC rapidFire",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-08-20T16:38:59Z",
+   "duration_s": 146,
+   "views": 241,
+   "likes": 7,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "RraoWhfKqs4",
+   "title": "Following Alex's Nano Goblin FPV Plane",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-08-19T21:07:33Z",
+   "duration_s": 144,
+   "views": 23,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "6i1lLHsDOf8",
+   "title": "The One Where I S-Turn the Same Trees a Lot",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-08-15T18:24:30Z",
+   "duration_s": 255,
+   "views": 17,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "JUioWwrbSR0",
+   "title": "First Video at a New Spot",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-08-08T18:20:48Z",
+   "duration_s": 204,
+   "views": 156,
+   "likes": 6,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "CtbZf18nn9k",
+   "title": "I Broke My GoPro Lens",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-07-15T03:37:35Z",
+   "duration_s": 46,
+   "views": 95,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "nhHSwtXpl0w",
+   "title": "Riding My Hover-1 XLS Folding Electric Bike to the Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-06-16T21:43:43Z",
+   "duration_s": 273,
+   "views": 1742,
+   "likes": 14,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "wHePlq27p7o",
+   "title": "Flyin' with Brian at the Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-06-04T22:25:58Z",
+   "duration_s": 272,
+   "views": 130,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "-YLBt5Kpf8M",
+   "title": "QX65 with Project Mockingbird",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-05-30T18:36:31Z",
+   "duration_s": 126,
+   "views": 778,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "bBjsU2ROAsg",
+   "title": "Flowride at the Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-05-30T02:28:07Z",
+   "duration_s": 200,
+   "views": 75,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "HxYsV6FWJMA",
+   "title": "Helio Spring on Hyperlite Flowride Maiden Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-05-26T16:59:01Z",
+   "duration_s": 223,
+   "views": 11,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "465QN3kjTlc",
+   "title": "Flying a New Spot with a Cool Tree with My Leader 120",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-05-24T16:59:19Z",
+   "duration_s": 272,
+   "views": 20,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Eo3Cpev9Xbc",
+   "title": "Ryze Tello Test",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-05-08T18:07:25Z",
+   "duration_s": 122,
+   "views": 98,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "x18p2xOSW3c",
+   "title": "Mostly Dives",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-05-07T20:02:45Z",
+   "duration_s": 196,
+   "views": 154,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "rCvDKgb83t0",
+   "title": "Butterflight 3.5.1-RC2 on My 5S 5.5-Inch ZMX FinX30 Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-24T23:51:31Z",
+   "duration_s": 239,
+   "views": 62,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "kQ0BFY99xp0",
+   "title": "My Best Battery Ever on My Leader 120 Micro FPV Quad Running Butterflight",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-21T19:39:12Z",
+   "duration_s": 201,
+   "views": 370,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "ENb87RUNYBY",
+   "title": "Testing HQ 6x3x3 Props on My 5S Flowride",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-19T03:37:19Z",
+   "duration_s": 373,
+   "views": 43,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "-04vFAtn0V8",
+   "title": "Smooth Clean Tekko32 4-in-1 Video",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-18T00:07:52Z",
+   "duration_s": 369,
+   "views": 87,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Hg46850bcjo",
+   "title": "Flying at a New Spot",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-17T21:19:25Z",
+   "duration_s": 372,
+   "views": 2,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "z79AA7zJNmY",
+   "title": "First Day With My Hyperlite Flowride 5S T-Motor F40 Pro V2 Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-15T17:18:23Z",
+   "duration_s": 297,
+   "views": 28,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "vXsjY_4shF4",
+   "title": "Butterflight 3.5 on My Leader 120 Micro Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-15T05:50:59Z",
+   "duration_s": 270,
+   "views": 164,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "azqANvv-5TY",
+   "title": "Had to Replace an F40 Pro V2",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-04-01T21:30:44Z",
+   "duration_s": 68,
+   "views": 12,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "vid4E_8F9BU",
+   "title": "Disappointing Video From My Ryze Tello",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-31T17:42:24Z",
+   "duration_s": 124,
+   "views": 1460,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "yyyxQfDrl7o",
+   "title": "Eachine Q90C Flying Frog Acro Test Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-26T21:55:15Z",
+   "duration_s": 119,
+   "views": 707,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "J-yA8P2nrBg",
+   "title": "My Hardest Leader 120 Crash So Far",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-20T19:28:49Z",
+   "duration_s": 72,
+   "views": 67,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "SC4zXqu7Mc8",
+   "title": "Another Sunny Day in March for FPV",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-18T06:19:08Z",
+   "duration_s": 182,
+   "views": 254,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Kfq1iyKrLZ0",
+   "title": "Gloomy Day at the Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-16T21:55:06Z",
+   "duration_s": 208,
+   "views": 63,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Bsnoebyh4vY",
+   "title": "My First Tello Drone Video",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-15T22:37:43Z",
+   "duration_s": 32,
+   "views": 660,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "HO4vV0jrQ1M",
+   "title": "Tuning My BFight 210 for Racekraft 6032 Props",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-15T20:46:51Z",
+   "duration_s": 408,
+   "views": 80,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "91a_UO4x3mg",
+   "title": "Brian Flies My 5S T-Motor F40 Pro V2 2600 KV Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-13T23:03:27Z",
+   "duration_s": 272,
+   "views": 109,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "4mZgAo13nVM",
+   "title": "I Am Easily Confused When Flying FPV",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-13T20:51:36Z",
+   "duration_s": 45,
+   "views": 9,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "OMvdkk_bOwo",
+   "title": "F40 Pro V2 2600 KV 5S Speed Gun Test",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-12T05:47:06Z",
+   "duration_s": 83,
+   "views": 701,
+   "likes": 12,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "sV4mc_EEC1Q",
+   "title": "My ZMX Finx30 Quad on 6S",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-11T00:54:09Z",
+   "duration_s": 186,
+   "views": 179,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "lX43ccOnfSY",
+   "title": "Leader 120 Hits Some Scraggle",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-03-09T01:20:53Z",
+   "duration_s": 78,
+   "views": 23,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "mfdhaADWXYA",
+   "title": "My First Year of FPV",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-28T10:03:28Z",
+   "duration_s": 442,
+   "views": 26,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "_GokpxY940s",
+   "title": "The Park Was a Lake",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-25T20:08:27Z",
+   "duration_s": 415,
+   "views": 20,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "c14rNeinGA4",
+   "title": "I got a small gap once. Then I missed.",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-25T02:04:38Z",
+   "duration_s": 31,
+   "views": 14,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "m9yEI6ro3W0",
+   "title": "Shuriken X1 with a $30 Action Cam (October 2017)",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-20T01:58:08Z",
+   "duration_s": 190,
+   "views": 28,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "_B6DN4jGyuY",
+   "title": "Cloudy Day At The Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-18T04:01:58Z",
+   "duration_s": 296,
+   "views": 29,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "qLnxBBTZbt0",
+   "title": "Betaflight 3.2.2 and 3.3.0-RC1 at the Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-15T19:27:53Z",
+   "duration_s": 593,
+   "views": 181,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "jouB26BINnI",
+   "title": "Leader 120 Betaflight 3.2.4 Maiden Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-15T02:08:03Z",
+   "duration_s": 334,
+   "views": 190,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Tws13Fw1tpw",
+   "title": "Brian and the runcam split",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-13T19:53:11Z",
+   "duration_s": 31,
+   "views": 5,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "1jMtCPjSoAA",
+   "title": "My Compilation of Our \"Let's Fly Some Drones!\" Event (2018-02-04)",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-02-05T17:58:55Z",
+   "duration_s": 223,
+   "views": 62,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "XPPYuhHQzeo",
+   "title": "Orbiting Myself and Landing In My Chair",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-31T22:12:15Z",
+   "duration_s": 85,
+   "views": 119,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "xAF5mx9y8Ow",
+   "title": "PID Tuning My T-Motor F40 Pro V2 2600KV Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-29T21:14:09Z",
+   "duration_s": 120,
+   "views": 180,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "M4B7WwDAtkc",
+   "title": "ZMX FinX30 2600KV Maiden Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-29T00:48:04Z",
+   "duration_s": 320,
+   "views": 75,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "K3_CL92zJzI",
+   "title": "F40 Pro V2 2600KV on 5S 1300 mAh",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-29T00:48:01Z",
+   "duration_s": 356,
+   "views": 125,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "6FQYc6A7SrY",
+   "title": "ZMX Finx30 2600KV on 5S 1300 mAh",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-29T00:48:00Z",
+   "duration_s": 297,
+   "views": 62,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Ieq5c5rgkwE",
+   "title": "Orbiting Alex While He Sets Up and Launches His Wing",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-29T00:48:00Z",
+   "duration_s": 44,
+   "views": 12,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "1PAg6vqlllk",
+   "title": "T-Motor F40 Pro V2 2600KV First Flight on 5S",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-24T23:56:13Z",
+   "duration_s": 361,
+   "views": 775,
+   "likes": 5,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "mU-ZLgIFRpw",
+   "title": "Recovering Alex's Plane",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-24T20:08:43Z",
+   "duration_s": 513,
+   "views": 9,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "FYaw7YFetX4",
+   "title": "F40 Pro V2 2600KV Motors with RaceKraft 5051 Props",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-24T03:04:29Z",
+   "duration_s": 356,
+   "views": 56,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "0rKKeYTBxkw",
+   "title": "Playing Around and Hitting Gate with My Leader 120 in 15+ MPH Winds",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-23T00:42:51Z",
+   "duration_s": 307,
+   "views": 21,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "4UpLUjU3JEg",
+   "title": "Maiden Flight of My T-Motor F40 Pro V2 Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-20T23:32:55Z",
+   "duration_s": 377,
+   "views": 28,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "2AfjsDA8Izc",
+   "title": "Leader 120 on a 2S 550 mAh Lipo",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-19T23:52:01Z",
+   "duration_s": 265,
+   "views": 118,
+   "likes": 3,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "3TxAEVq_fb4",
+   "title": "A Couple Power Loops And Crashes With My Leader 120 Micro Quad on 3S",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-13T00:05:17Z",
+   "duration_s": 156,
+   "views": 130,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "rboje8OGreU",
+   "title": "Quad Formerly Known as the Shuriken X1 with Notch Filters Re-Enabled",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-12T23:46:53Z",
+   "duration_s": 170,
+   "views": 13,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Z31md8zzZ3o",
+   "title": "PIDs Too Aggressive for Gemfan 5552 Props?",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-11T00:53:22Z",
+   "duration_s": 32,
+   "views": 96,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "ecTge9x5khI",
+   "title": "Leader 120 FPV Micro Quad vs. A Speed Gun",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-08T13:19:38Z",
+   "duration_s": 52,
+   "views": 196,
+   "likes": 6,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "jGwpAPOADrU",
+   "title": "Leader 120 FPV Micro Quad on 3S",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-05T23:23:44Z",
+   "duration_s": 287,
+   "views": 136,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "LuCw9DIDZHI",
+   "title": "Leader 120 FPV Micro Quad on 2S",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-05T23:07:09Z",
+   "duration_s": 331,
+   "views": 99,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "cC-k351Y9YQ",
+   "title": "Second Battery On My New Build",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-05T00:47:43Z",
+   "duration_s": 248,
+   "views": 4,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "UChQxLh0YIE",
+   "title": "My Bfight 210 With 6\" Props Goes Under A Picnic Table",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-04T20:13:31Z",
+   "duration_s": 42,
+   "views": 9,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "pQHXkdLIRNQ",
+   "title": "Maiden Flight Of My New FPV Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2018-01-04T00:33:26Z",
+   "duration_s": 343,
+   "views": 14,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "y7qCibY7HEo",
+   "title": "Our Nephew's Second Day With His BFight 210",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-29T17:41:18Z",
+   "duration_s": 205,
+   "views": 46,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "kIeznZbxs-E",
+   "title": "John's First FPV Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-28T18:22:56Z",
+   "duration_s": 206,
+   "views": 10,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Dp2IW6LDMYI",
+   "title": "Our Nephew's First FPV Flight",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-28T18:12:49Z",
+   "duration_s": 116,
+   "views": 40,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "0wABPQfmDmE",
+   "title": "Tiny Whooping",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-28T05:41:46Z",
+   "duration_s": 251,
+   "views": 9,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "7Fu9RsOsgnY",
+   "title": "How Fast Is Your 3D Printer?",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-21T00:10:39Z",
+   "duration_s": 45,
+   "views": 578,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "KFFjp_5J41Q",
+   "title": "Drone Holing With My BFight 210",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-16T22:50:40Z",
+   "duration_s": 58,
+   "views": 39,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "CWVch-nfLek",
+   "title": "It Is Hard To Fly When Your FPV Camera Is Pointed Down",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-12T02:23:54Z",
+   "duration_s": 51,
+   "views": 13,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "0fT10uOYMr0",
+   "title": "Brian Beverage's First FPV Flight With a 5\" Racing Drone",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-11T01:10:07Z",
+   "duration_s": 66,
+   "views": 10,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "F_IUBzD81b8",
+   "title": "Runcam Owl Plus vs Runcam Eagle 2 (daylight)",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-09T00:33:50Z",
+   "duration_s": 94,
+   "views": 114,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "XtneKIwg8-w",
+   "title": "I Flattened A Drone Gate",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-04T21:49:49Z",
+   "duration_s": 36,
+   "views": 105,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "aHD2Yd2jDdo",
+   "title": "Just A Drone Gate Power Loop With My BFight 228",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-04T02:17:06Z",
+   "duration_s": 39,
+   "views": 63,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "2bmFJzMcGeI",
+   "title": "Maiden Flight of my BFight 228",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-12-02T00:51:25Z",
+   "duration_s": 283,
+   "views": 65,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "apOBNvKqqMg",
+   "title": "Power Looping A Tiny Drone Gate",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-27T23:48:01Z",
+   "duration_s": 60,
+   "views": 103,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "384v0N61Fb0",
+   "title": "Power Loops on Thanksgiving",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-23T20:29:03Z",
+   "duration_s": 67,
+   "views": 150,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "95DWfvY_pNk",
+   "title": "Watching an FPV Plane Do A Flyby",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-22T01:22:14Z",
+   "duration_s": 139,
+   "views": 9,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "zrH86FwK-l8",
+   "title": "BFight 210 With and Without a Capacitor",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-20T23:05:21Z",
+   "duration_s": 75,
+   "views": 451,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "rF2bfshfbik",
+   "title": "Runcam Sparrow Micro on my 4\" Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-17T22:19:43Z",
+   "duration_s": 242,
+   "views": 29,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "CTa3RiXi_9U",
+   "title": "BFight 210 Shenanigans at the Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-17T01:47:28Z",
+   "duration_s": 210,
+   "views": 20,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "vduMPjuWEc0",
+   "title": "Runcam Owl Plus After Sunset at Bob Woodruff Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-17T00:30:55Z",
+   "duration_s": 66,
+   "views": 3,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "5emIYhmqy8M",
+   "title": "Runcam Eagle 2 Just Before Nightfall",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-12T21:10:02Z",
+   "duration_s": 101,
+   "views": 17,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "OGL1GFcoqfo",
+   "title": "Brian Test Driving the BFight 210",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-05T23:30:55Z",
+   "duration_s": 244,
+   "views": 101,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "vfSOD-UTr00",
+   "title": "BFight 210 with a Runcam Sparrow at Dusk/Twilight",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-11-04T19:36:37Z",
+   "duration_s": 441,
+   "views": 301,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "-hL0SsH9eLE",
+   "title": "Trying Out The Fake GoPro On My Shuriken X1",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-31T06:31:35Z",
+   "duration_s": 195,
+   "views": 174,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "AXnu2nI7WMA",
+   "title": "Runcam Sparrow Micro vs. Runcam Eagle 2",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-30T00:23:51Z",
+   "duration_s": 248,
+   "views": 1678,
+   "likes": 7,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "6mLKZOREkNg",
+   "title": "More Crash FPV DVR Footage!",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-27T01:39:45Z",
+   "duration_s": 165,
+   "views": 20,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "9s3wTI4ZjdM",
+   "title": "Holybro Shuriken X1 and Taranis X9D+ Range Test",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-20T02:04:11Z",
+   "duration_s": 83,
+   "views": 44,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "FimeQ6RTQXA",
+   "title": "Second Flight Of My BFight 210 FPV Racing Quad",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-17T05:31:58Z",
+   "duration_s": 430,
+   "views": 120,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "ucZsqencPJs",
+   "title": "Maiden Flight Of My BFight 210",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-17T04:52:21Z",
+   "duration_s": 291,
+   "views": 225,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "HLevNmMKWAY",
+   "title": "The Lady Tree",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-13T09:03:32Z",
+   "duration_s": 115,
+   "views": 5,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "dZ7S38vpD7w",
+   "title": "I Crashed My Quad Quite A Few Times Today",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-10-13T08:45:39Z",
+   "duration_s": 116,
+   "views": 13,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "XKl0tMJnAkk",
+   "title": "Holybro Shuriken X1 at Bob Woodruff Park",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-22T21:37:47Z",
+   "duration_s": 221,
+   "views": 31,
+   "likes": 4,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "eWQXHnR2e4o",
+   "title": "My First Time Flying an FPV Plane!",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-18T22:29:34Z",
+   "duration_s": 201,
+   "views": 26,
+   "likes": 2,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "Lx5efGKCV7Y",
+   "title": "I Can Still Hit Gates With My Shuriken X1",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-18T19:10:40Z",
+   "duration_s": 186,
+   "views": 72,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "I2rmqAEl6aw",
+   "title": "Attempting to follow Alex's plane",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-18T00:45:29Z",
+   "duration_s": 300,
+   "views": 8,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "vzy0YbpI92U",
+   "title": "Alex Flying By The Tower",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-18T00:25:27Z",
+   "duration_s": 150,
+   "views": 10,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "FMYCaQOo3SM",
+   "title": "KingKong FlyEgg 130 on 2S",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-17T19:53:56Z",
+   "duration_s": 200,
+   "views": 30,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "MyeFQSVp5CE",
+   "title": "KingKong FlyEgg 130 Maiden Flight with 3S 400mAh LiPo",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-16T23:14:27Z",
+   "duration_s": 99,
+   "views": 37,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "cihtz_GFkvE",
+   "title": "More Interesting Second FPV Flight of My KingKong FlyEgg 130",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-16T00:17:16Z",
+   "duration_s": 145,
+   "views": 18,
+   "likes": 1,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "HY2Q6Vg6mFk",
+   "title": "Maiden FPV of My KingKong FlyEgg 130",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-16T00:15:00Z",
+   "duration_s": 53,
+   "views": 5,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  },
+  {
+   "videoId": "7DEWg2NZIwU",
+   "title": "My Favorite KingKong 90GT Video Of The Day",
+   "channel": "Pat Regan",
+   "publishedAt": "2017-09-13T06:11:45Z",
+   "duration_s": 57,
+   "views": 128,
+   "likes": 0,
+   "comedian_slug": "pat-regan"
+  }
+ ]
+}

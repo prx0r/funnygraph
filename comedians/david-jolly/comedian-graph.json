@@ -89,12 +89,23 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://davidjolly.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "bio": {
+    "wikidata_id": "Q21529449",
+    "dob": "1972-01-01",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "painter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

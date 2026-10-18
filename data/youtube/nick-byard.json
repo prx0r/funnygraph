@@ -1,0 +1,38 @@
+{
+ "comedian_id": "nick-byard",
+ "name": "Nick Byard",
+ "clips": 1,
+ "total_views": 146,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Y3vhysvyVh8",
+  "title": "Going back to Church | Nick Byard @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 146,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Y3vhysvyVh8",
+  "r2_clip_key": "comedians/nick-byard/clips/nick-byard-y3vhysvyvh8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nick-byard/clips/nick-byard-y3vhysvyvh8.json"
+ },
+ "rows": [
+  {
+   "videoId": "Y3vhysvyVh8",
+   "title": "Going back to Church | Nick Byard @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 146,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Y3vhysvyVh8",
+   "n_words": 80,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And what did I learn from going back to church? I learned that Christian women are keen to marry Christians. I went to the under 30's Anglican board game night. And I've never been more eligible in my",
+   "r2_clip_key": "comedians/nick-byard/clips/nick-byard-y3vhysvyvh8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nick-byard/clips/nick-byard-y3vhysvyvh8.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

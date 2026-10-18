@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:angel-comedy"
+      "venue-roster:angel-comedy",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
     "evidence": [
@@ -38,7 +39,9 @@
       }
     ],
     "subs": "unknown (performer channel unregistered)",
-    "region_method": "venue-scene (overwrite on origin evidence)"
+    "region_method": "venue-scene (overwrite on origin evidence)",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -53,7 +56,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 2.1,
+    "popularity": 0.9,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -79,7 +82,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -115,5 +118,26 @@
     "via": "stewart-lee",
     "sim": 0.064,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  }
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 0,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "title": "John Meagher and Amy Gledhill",
+      "duration_s": 1861,
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/john-meagher/clips/bbc-fringe-john-meagher-and-amy-gledhill.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 5587,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

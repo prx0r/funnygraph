@@ -218,8 +218,24 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "6 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "completely-normal-2014",
+      "teacher-2025",
+      "mostly-stories-2016",
+      "ball-hog-2020",
+      "sledgehammer-2023",
+      "disgraceful-2018"
+    ],
+    "special_titles": [
+      "Tom Segura: Completely Normal (2014) \u2013 Transcript",
+      "Tom Segura: Teacher (2025)",
+      "Tom Segura: Mostly Stories (2016) \u2013 Transcript",
+      "Tom Segura: Ball Hog (2020) \u2013 Transcript",
+      "Tom Segura: Sledgehammer (2023)",
+      "Tom Segura: Disgraceful (2018) \u2013 Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -490,10 +506,10 @@
     "legacy": 81.2,
     "legacy_era": 94.0,
     "audience": 72.5,
-    "popularity": 93.9,
+    "popularity": 97.3,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.214,
+    "gap_value": 0.248,
     "overrated": "overrated",
     "canon_lag": -0.087
   },
@@ -548,12 +564,17 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 38.9,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 26.5,
+    "coverage": "FULL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 26,
+        "pct": 26.5,
+        "sweep": [
+          24,
+          26
+        ]
       },
       "consensus": {
         "rank": 79,
@@ -573,8 +594,11 @@
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "interval": {
+      "lo": 24,
+      "hi": 26
+    },
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -584,5 +608,21 @@
   },
   "recognition": {
     "awards": []
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 6
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 59492,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

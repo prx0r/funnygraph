@@ -1,0 +1,38 @@
+{
+ "comedian_id": "fighting-fears-in-greece",
+ "name": "FIGHTING FEARS IN GREECE",
+ "clips": 1,
+ "total_views": 15000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "MXY3gEtyeYM",
+  "title": "FIGHTING FEARS IN GREECE | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 15000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=MXY3gEtyeYM",
+  "r2_clip_key": "comedians/fighting-fears-in-greece/clips/fighting-fears-in-greece-mxy3getyeym.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fighting-fears-in-greece/clips/fighting-fears-in-greece-mxy3getyeym.json"
+ },
+ "rows": [
+  {
+   "videoId": "MXY3gEtyeYM",
+   "title": "FIGHTING FEARS IN GREECE | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 15000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=MXY3gEtyeYM",
+   "n_words": 323,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Finally overcame my fear of going on vacation. I ended up feeding the ostrich. So why did you grow up in Manchester, huh? Be afraid of ostriches. So it bit you. Yes, it bit me, it bit the cat, yes. So",
+   "r2_clip_key": "comedians/fighting-fears-in-greece/clips/fighting-fears-in-greece-mxy3getyeym.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fighting-fears-in-greece/clips/fighting-fears-in-greece-mxy3getyeym.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

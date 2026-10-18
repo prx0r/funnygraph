@@ -1,0 +1,58 @@
+{
+ "comedian_slug": "daniel-sloss",
+ "specials": [
+  {
+   "special_slug": "x-2019",
+   "title": "Daniel Sloss: X (2019)",
+   "comedian": "Daniel Sloss",
+   "url": "https://scrapsfromtheloft.com/comedy/daniel-sloss-x-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 16362,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nDaniel Sloss: X (2019) \u2013 Transcript\nPublished May 1, 2020\nTaking the stage before a sold-out audience at the Enmore Theatre in Sydney, Australia, acclaimed Scottish comedian Daniel Sloss takes on toxic masculinity in a 90-minute comedy special that is full of deeply funny observations abo",
+   "r2_special_key": "comedians/daniel-sloss/specials/x-2019.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/daniel-sloss/specials/x-2019.json"
+  },
+  {
+   "special_slug": "socio-2021",
+   "title": "Daniel Sloss: SOCIO",
+   "comedian": "Daniel Sloss",
+   "url": "https://www.youtube.com/watch?v=4ppYdCzLEJQ",
+   "source": "youtube-full",
+   "n_words": 12985,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_preview": "hello Austin how you doing are you well thank you so much for coming along it's always good just to you know see so many people and for those of you that have seen me before see my stand up thank you very much for coming along and for those of you that haven't seen my stand up before good luck might",
+   "r2_special_key": "comedians/daniel-sloss/specials/socio-2021.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/daniel-sloss/specials/socio-2021.json"
+  },
+  {
+   "special_slug": "dark-2018",
+   "title": "Daniel Sloss: Dark (2018)",
+   "comedian": "Daniel Sloss",
+   "url": "https://scrapsfromtheloft.com/comedy/daniel-sloss-dark-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10532,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nDaniel Sloss: Dark (2018) \u2013 Transcript\nPublished September 21, 2018\nIt\u2019s nice to be back in the States. I\u2019m not going to be one of those foreign comics that comes over and stereotypes you. I think that\u2019s very unfair. There are 300 million Americans. You cannot stereotype 300 million cunts",
+   "r2_special_key": "comedians/daniel-sloss/specials/dark-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/daniel-sloss/specials/dark-2018.json"
+  },
+  {
+   "special_slug": "jigsaw-2018",
+   "title": "Daniel Sloss: Jigsaw (2018)",
+   "comedian": "Daniel Sloss",
+   "url": "https://scrapsfromtheloft.com/comedy/daniel-sloss-jigsaw-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10282,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nDaniel Sloss: Jigsaw (2018) \u2013 Transcript\nPublished September 18, 2018\nThe transcript Daniel Sloss\u2019s stand-up special that has broken up thousands of couples If you\u2019re in a relationship, you should think twice before watching Daniel\u2019s Netflix special \u201cJigsaw.\u201d\n\n[audience cheering]\n\n[announ",
+   "r2_special_key": "comedians/daniel-sloss/specials/jigsaw-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/daniel-sloss/specials/jigsaw-2018.json"
+  }
+ ],
+ "count": 4
+}

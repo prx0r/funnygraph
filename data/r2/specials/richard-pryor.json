@@ -1,0 +1,58 @@
+{
+ "comedian_slug": "richard-pryor",
+ "specials": [
+  {
+   "special_slug": "here-and-now-1983",
+   "title": "RICHARD PRYOR: \u2026HERE AND NOW (1983) \u2013 Full Transcript",
+   "comedian": "Richard Pryor",
+   "url": "https://scrapsfromtheloft.com/comedy/richard-pryor-here-and-now-1983/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 11469,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Richard Pryor will make me laugh until I cry. \u2013 I just I love his humor. \u2013 He can make anything funny. He hits home.\n After all, that\u2019s why I\u2019m here, \u2019cause of the people. It\u2019s not something that was made up in some agent\u2019s office.\n Tell the world go out and see Richard Pryor. The man is phenomenal.",
+   "r2_special_key": "comedians/richard-pryor/specials/here-and-now-1983.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/richard-pryor/specials/here-and-now-1983.json"
+  },
+  {
+   "special_slug": "live-in-concert-1979",
+   "title": "Richard Pryor: Live in Concert (1979) \u2013 Transcript",
+   "comedian": "Richard Pryor",
+   "url": "https://scrapsfromtheloft.com/comedy/richard-pryor-live-concert-1979-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10600,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Filmed in Long Beach, California on December 10, 1978 [Distant traffic sounds] [Distant car motor] [Squeaking brakes] [Car door open] [Car door slam] [Car door open] [Car door slam] [Crowd murmur & distant cheers] [Door slam] [Cheering and applause] Richard Pryor: Thank you. Thank you. Thank you. He",
+   "r2_special_key": "comedians/richard-pryor/specials/live-in-concert-1979.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/richard-pryor/specials/live-in-concert-1979.json"
+  },
+  {
+   "special_slug": "live-on-the-sunset-strip-1982",
+   "title": "RICHARD PRYOR: LIVE ON THE SUNSET STRIP (1982) \u2013 Full Transcript",
+   "comedian": "Richard Pryor",
+   "url": "https://scrapsfromtheloft.com/comedy/richard-pryor-live-sunset-strip-1982-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9908,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Recorded at the Circle Star Theater in San Carlos, California, in 1981 and at The Hollywood Palladium in Hollywood, California, in 1982. Ladies and gentlemen, live on the Sunset Strip, Richard Pryor! \u201cWomen\u201d\n We are gathered here today\u2026 to make sure\u2026 everyone eats. If not each other\u2026 food. I was gon",
+   "r2_special_key": "comedians/richard-pryor/specials/live-on-the-sunset-strip-1982.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/richard-pryor/specials/live-on-the-sunset-strip-1982.json"
+  },
+  {
+   "special_slug": "live-and-smokin-1971",
+   "title": "Richard Pryor: Live And Smokin\u2019 (1971) \u2013 Transcript",
+   "comedian": "Richard Pryor",
+   "url": "https://scrapsfromtheloft.com/comedy/richard-pryor-live-and-smokin-1971-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 6021,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Richard Pryor: Live & Smokin\u2019 is the first stand-up act of Richard Pryor to be filmed out of the four that were released in total. This film was filmed in 1971 but not released until 1985, on VHS. This was the first stand-up act that Pryor did before he hit the mainstream audience. With only 48 minu",
+   "r2_special_key": "comedians/richard-pryor/specials/live-and-smokin-1971.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/richard-pryor/specials/live-and-smokin-1971.json"
+  }
+ ],
+ "count": 4
+}

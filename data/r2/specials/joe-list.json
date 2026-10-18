@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "joe-list",
+ "specials": [
+  {
+   "special_slug": "i-hate-myself-2020",
+   "title": "Joe List: I Hate Myself (2020) \u2013 Transcript",
+   "comedian": "Joe List",
+   "url": "https://scrapsfromtheloft.com/comedy/joe-list-i-hate-myself-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 11297,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[Emcee] Ladies and gentlemen, Joe List. [audience applauds and cheers] Thank you. [audience applauds and cheers] Thank you. That was way too much. I feel like, I feel like everyone\u2019s aware that that was too much. There was definitely a moment where collectively everyone was like, I think we\u2019re overd",
+   "r2_special_key": "comedians/joe-list/specials/i-hate-myself-2020.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-list/specials/i-hate-myself-2020.json"
+  }
+ ],
+ "count": 1
+}

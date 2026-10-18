@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "billy-connolly",
+ "specials": [
+  {
+   "special_slug": "high-horse-tour-live-2016",
+   "title": "BILLY CONNOLLY: HIGH HORSE TOUR LIVE (2016) \u2013 FULL TRANSCRIPT",
+   "comedian": "Billy Connolly",
+   "url": "https://scrapsfromtheloft.com/comedy/billy-connolly-high-horse-tour-live-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 13147,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Ladies and gentlemen, would you please welcome Billy Connolly! You\u2019re only doing that because I\u2019m not well. \u201cI love you, Billy!\u201d I\u2019m not a well man. We\u2019ll have words about that later. It\u2019s nice to be here, it\u2019s nice to be back in London, it\u2019s great to be at the Apollo. The last time I performed was ",
+   "r2_special_key": "comedians/billy-connolly/specials/high-horse-tour-live-2016.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/billy-connolly/specials/high-horse-tour-live-2016.json"
+  }
+ ],
+ "count": 1
+}

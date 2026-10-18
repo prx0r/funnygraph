@@ -88,7 +88,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "style_tags": {
@@ -101,5 +101,19 @@
     "via": "mark-normand",
     "sim": 0.098,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q30113048",
+    "dob": "1988-12-24",
+    "dod": null,
+    "birthplace": "M\u00fcnster",
+    "citizenship": "Germany",
+    "occupations": [
+      "comedian",
+      "podcaster",
+      "screenwriter",
+      "writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

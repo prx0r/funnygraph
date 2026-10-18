@@ -124,8 +124,14 @@
     }
   ],
   "set_queue": {
-    "note": "First ingest: Strategic Grill Locations or Mitch All Together era \u2014 one-liner-chain form. Word-timed ASR needed.",
-    "blocked_on": "audio access"
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "comedy-central-special-1999"
+    ],
+    "special_titles": [
+      "MITCH HEDBERG: COMEDY CENTRAL SPECIAL (1999) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -348,10 +354,10 @@
     "legacy": 93.7,
     "legacy_era": 81.6,
     "audience": 0,
-    "popularity": 71.7,
+    "popularity": 90.3,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.717,
+    "gap_value": 0.903,
     "overrated": "massively overrated",
     "canon_lag": -0.937
   },
@@ -392,16 +398,16 @@
     ]
   },
   "rating": {
-    "headline": 5.6,
+    "headline": 11.8,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 18,
-        "pct": 5.6,
+        "rank": 31,
+        "pct": 11.8,
         "sweep": [
-          18,
-          18
+          31,
+          31
         ]
       },
       "consensus": {
@@ -423,10 +429,10 @@
       }
     },
     "interval": {
-      "lo": 18,
-      "hi": 18
+      "lo": 31,
+      "hi": 31
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {
@@ -438,5 +444,21 @@
       "minnesotan"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 1
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 4563,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

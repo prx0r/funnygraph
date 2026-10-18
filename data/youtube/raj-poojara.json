@@ -1,0 +1,38 @@
+{
+ "comedian_id": "raj-poojara",
+ "name": "RAJ POOJARA",
+ "clips": 1,
+ "total_views": 3100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "VWK_BkFZG9w",
+  "title": "RAJ POOJARA - PROTESTER SHUT DOWN",
+  "channel": "@BigBellyComedy",
+  "views": 3100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=VWK_BkFZG9w",
+  "r2_clip_key": "comedians/raj-poojara/clips/raj-poojara-vwk-bkfzg9w.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/raj-poojara/clips/raj-poojara-vwk-bkfzg9w.json"
+ },
+ "rows": [
+  {
+   "videoId": "VWK_BkFZG9w",
+   "title": "RAJ POOJARA - PROTESTER SHUT DOWN",
+   "channel": "@BigBellyComedy",
+   "views": 3100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=VWK_BkFZG9w",
+   "n_words": 87,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Welcome to the stage, the wonderful Rod Bj. >> Nice, man. All right, lads. It's your worsting nightmare. How you doing? You Where's the flag? Where's the flag, man? I want to Yeah. Yeah. Sick. I just ",
+   "r2_clip_key": "comedians/raj-poojara/clips/raj-poojara-vwk-bkfzg9w.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/raj-poojara/clips/raj-poojara-vwk-bkfzg9w.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "comedian_id": "karl-spain",
+ "name": "Karl Spain",
+ "clips": 2,
+ "total_views": 41000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "9Ya0dxNOoUQ",
+  "title": "Irish Chinese | Karl Spain | Craic Den Comedy Club #standupcomedy #funny #comedy",
+  "channel": "@craicdencomedyclub",
+  "views": 30000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=9Ya0dxNOoUQ",
+  "r2_clip_key": "comedians/karl-spain/clips/karl-spain-9ya0dxnoouq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/karl-spain/clips/karl-spain-9ya0dxnoouq.json"
+ },
+ "rows": [
+  {
+   "videoId": "9Ya0dxNOoUQ",
+   "title": "Irish Chinese | Karl Spain | Craic Den Comedy Club #standupcomedy #funny #comedy",
+   "channel": "@craicdencomedyclub",
+   "views": 30000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=9Ya0dxNOoUQ",
+   "n_words": 109,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And I rang him and I said, \"Where are you?\" He goes, \"I'm in the Chinese.\" I go in, he's in there behind the counter. The phone rang in the Chinese restaurant and he goes, \"Yeah, yeah.\" And he just pi",
+   "r2_clip_key": "comedians/karl-spain/clips/karl-spain-9ya0dxnoouq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/karl-spain/clips/karl-spain-9ya0dxnoouq.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "e5CkHYQ4Vtw",
+   "title": "I Am The Penguin | Karl Spain | Craic Den Comedy Club | #comedy #standup #standupcomedy",
+   "channel": "@craicdencomedyclub",
+   "views": 11000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=e5CkHYQ4Vtw",
+   "n_words": 153,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Last October, I turned on TV and the Sky homepage was up and I saw the little pen picture and I went, \"What am I on? That's me.\" And then I went, \"No, it's not me. It's a thing called the penguin.\" An",
+   "r2_clip_key": "comedians/karl-spain/clips/karl-spain-e5ckhyq4vtw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/karl-spain/clips/karl-spain-e5ckhyq4vtw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jack-shortall",
+ "name": "Jack Shortall",
+ "clips": 1,
+ "total_views": 12000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "WtCb7ICUNmc",
+  "title": "Irish Boarding School | Jack Shortall | Craic Den Comedy Club #standupcomedy #irish #comedy #standup",
+  "channel": "@craicdencomedyclub",
+  "views": 12000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=WtCb7ICUNmc",
+  "r2_clip_key": "comedians/jack-shortall/clips/jack-shortall-wtcb7icunmc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jack-shortall/clips/jack-shortall-wtcb7icunmc.json"
+ },
+ "rows": [
+  {
+   "videoId": "WtCb7ICUNmc",
+   "title": "Irish Boarding School | Jack Shortall | Craic Den Comedy Club #standupcomedy #irish #comedy #standup",
+   "channel": "@craicdencomedyclub",
+   "views": 12000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=WtCb7ICUNmc",
+   "n_words": 133,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I did go to boarding school. I skateboard in school. >> [laughter] >> I know all the tricks and all that kind of thing. It was very religious, you know. Every night we'd have to study, pray, read the ",
+   "r2_clip_key": "comedians/jack-shortall/clips/jack-shortall-wtcb7icunmc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jack-shortall/clips/jack-shortall-wtcb7icunmc.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

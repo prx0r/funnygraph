@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Jen Brister is a stand up comedian, writer and actor based in the UK. She has written for BBC Scotland , presented for BBC 6 Music , and has been a regular contributor to magazines and online sites including Diva , g3 , Standard Issue and The Huffington Post . PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Jen Brister On The Mic Monday, April 14th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aene",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/jen-brister/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/jen-brister/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -53,7 +56,7 @@
     "legacy": 28.7,
     "legacy_era": 52.4,
     "audience": null,
-    "popularity": null,
+    "popularity": 56.5,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -61,7 +64,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -87,7 +90,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -121,5 +124,40 @@
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 38000,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "DEFgNGLgAns",
+      "title": "Watch Jen Brister \u2018Meaningless\u2019 on NextUp Comedy!",
+      "views": 38000,
+      "url": "https://www.youtube.com/watch?v=DEFgNGLgAns",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jen-brister/clips/jen-brister-defgnglgans.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 310,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q6177264",
+    "dob": "1975-01-01",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "comedian",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

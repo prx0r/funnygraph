@@ -29,9 +29,12 @@
   "discovery": {
     "discovered_from": [
       "comedyville-2026",
-      "podcast"
+      "podcast",
+      "r2:comedy-specials"
     ],
-    "discovery_note": "Cum Town \u2192 Live at the Lodge Room indie special"
+    "discovery_note": "Cum Town \u2192 Live at the Lodge Room indie special",
+    "r2_comedian": true,
+    "r2_specials": 2
   },
   "theory_score": null,
   "nearest_greats": [
@@ -92,7 +95,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "style_tags": {
@@ -105,5 +108,28 @@
     "via": "andrew-schulz",
     "sim": 0.103,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  }
+  },
+  "set_queue": {
+    "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "live-at-the-lodge-room-2022",
+      "fat-rascal-2023"
+    ],
+    "special_titles": [
+      "Stavros Halkias: Live at the Lodge Room (2022)",
+      "Stavros Halkias: Fat Rascal (2023)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 18482,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

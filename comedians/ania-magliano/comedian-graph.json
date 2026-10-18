@@ -71,7 +71,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "nearest_greats": [
@@ -99,5 +99,17 @@
     "via": "mitch-hedberg",
     "sim": 0.037,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q113203917",
+    "dob": "1998-00-00",
+    "dod": null,
+    "birthplace": "United Kingdom",
+    "citizenship": "Italy",
+    "occupations": [
+      "comedian",
+      "writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

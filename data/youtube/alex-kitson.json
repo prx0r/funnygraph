@@ -1,0 +1,38 @@
+{
+ "comedian_id": "alex-kitson",
+ "name": "Alex Kitson",
+ "clips": 1,
+ "total_views": 29,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "CbmDyKsOOGA",
+  "title": "Trust Your Gut | Alex Kitson @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 29,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=CbmDyKsOOGA",
+  "r2_clip_key": "comedians/alex-kitson/clips/alex-kitson-cbmdyksooga.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alex-kitson/clips/alex-kitson-cbmdyksooga.json"
+ },
+ "rows": [
+  {
+   "videoId": "CbmDyKsOOGA",
+   "title": "Trust Your Gut | Alex Kitson @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 29,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=CbmDyKsOOGA",
+   "n_words": 73,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "All my mates are like, \"I trust in my guts.\" Most of my mates are like, \"I just trust my gut.\" Just trust trust my gut on everything. I don't I don't trust I I don't know about you guys, I don't trust",
+   "r2_clip_key": "comedians/alex-kitson/clips/alex-kitson-cbmdyksooga.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alex-kitson/clips/alex-kitson-cbmdyksooga.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

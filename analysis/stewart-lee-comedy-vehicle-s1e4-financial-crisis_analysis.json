@@ -1,0 +1,509 @@
+{
+ "comedian": "stewart_lee",
+ "source": "/tmp/opencode/stewart-lee-comedy-vehicle-s1e4-financial-crisis.json",
+ "note": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e4-financial-crisis.json method=youtube-auto-captions",
+ "audio_duration_s": 1736.88,
+ "timing": {
+  "word_count": 4095,
+  "duration_s": 1730.88,
+  "wpm": 142.0,
+  "pause_count": 67,
+  "pause_bins": {
+   "very_short": 15,
+   "short": 4,
+   "substantial": 6,
+   "topic": 42
+  },
+  "mean_pause_s": 2.009,
+  "median_pause_s": 1.12,
+  "punch_pauses_s": [
+   15.67,
+   12.13,
+   8.46,
+   7.81,
+   6.47,
+   4.53,
+   4.33,
+   3.48
+  ],
+  "max_pause_s": 15.67
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 27.51,
+   "pause_before_s": 6.47,
+   "fingerprint": ">> [music] [music] [applause] [applause] >> Thank you. Thank"
+  },
+  {
+   "t_start_s": 37.34,
+   "pause_before_s": 7.81,
+   "fingerprint": "[music] [applause] [applause] >> Thank you. Thank you."
+  },
+  {
+   "t_start_s": 47.81,
+   "pause_before_s": 8.46,
+   "fingerprint": "[applause] [applause] >> Thank you. Thank you. Thank"
+  },
+  {
+   "t_start_s": 52.4,
+   "pause_before_s": 2.56,
+   "fingerprint": "[applause] >> Thank you. Thank you. Thank you."
+  },
+  {
+   "t_start_s": 57.0,
+   "pause_before_s": 0.92,
+   "fingerprint": "Hello. I'm Stewart Lee. This is Stewart"
+  },
+  {
+   "t_start_s": 65.8,
+   "pause_before_s": 1.12,
+   "fingerprint": "Now tonight I wanted to talk about"
+  },
+  {
+   "t_start_s": 266.44,
+   "pause_before_s": 3.08,
+   "fingerprint": ">> And even as we speak, this satirical"
+  },
+  {
+   "t_start_s": 275.32,
+   "pause_before_s": 2.6,
+   "fingerprint": ">> NOW, BEFORE ALL THIS HAPPENED, ALL THAT"
+  },
+  {
+   "t_start_s": 447.37,
+   "pause_before_s": 15.67,
+   "fingerprint": "[screaming] >> IT'S TAKEN YOU JUST UNDER AN"
+  },
+  {
+   "t_start_s": 458.5,
+   "pause_before_s": 0.98,
+   "fingerprint": ">> [laughter] >> Cheers, Colin. Cheers. >> [laughter] >> But"
+  },
+  {
+   "t_start_s": 463.4,
+   "pause_before_s": 0.64,
+   "fingerprint": "Cheers. >> [laughter] >> But it's dangerous to mess"
+  },
+  {
+   "t_start_s": 525.52,
+   "pause_before_s": 3.42,
+   "fingerprint": ">> Yes, they're applauding you. They're applauding you"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 6.0,
+   "t1_s": 21.04,
+   "words": 38,
+   "text": "Jools Holland's back with Later Live tomorrow night kicking off with Franz Ferdinand and legendary singer-songwriter Carole King. That's at 10. Back to tonight on BBC 2 and Stewart Lee is about to cli",
+   "pause_after_s": 6.47
+  },
+  {
+   "beat": 1,
+   "t0_s": 27.51,
+   "t1_s": 29.53,
+   "words": 1,
+   "text": ">> [music]",
+   "pause_after_s": 7.81
+  },
+  {
+   "beat": 2,
+   "t0_s": 37.34,
+   "t1_s": 39.35,
+   "words": 1,
+   "text": "[music]",
+   "pause_after_s": 8.46
+  },
+  {
+   "beat": 3,
+   "t0_s": 47.81,
+   "t1_s": 49.84,
+   "words": 1,
+   "text": "[applause]",
+   "pause_after_s": 2.56
+  },
+  {
+   "beat": 4,
+   "t0_s": 52.4,
+   "t1_s": 56.08,
+   "words": 7,
+   "text": "[applause] >> Thank you. Thank you. Thank you.",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 5,
+   "t0_s": 57.0,
+   "t1_s": 64.68,
+   "words": 12,
+   "text": "Hello. I'm Stewart Lee. This is Stewart Lee's Comedy Vehicle. Let's off-road.",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 6,
+   "t0_s": 65.8,
+   "t1_s": 263.36,
+   "words": 576,
+   "text": "Now tonight I wanted to talk about the global financial crisis. But there may be a problem with that. Basically this won't go out until about 3 months after it is recorded. And the speed at which thin",
+   "pause_after_s": 3.08
+  },
+  {
+   "beat": 7,
+   "t0_s": 266.44,
+   "t1_s": 272.72,
+   "words": 15,
+   "text": ">> And even as we speak, this satirical item is literally collapsing UNDER ITS OWN WEIGHT.",
+   "pause_after_s": 2.6
+  },
+  {
+   "beat": 8,
+   "t0_s": 275.32,
+   "t1_s": 431.7,
+   "words": 421,
+   "text": ">> NOW, BEFORE ALL THIS HAPPENED, ALL THAT WAS ON television all day was programs about how to buy a house, do up a house, or sell a house for more than you paid for it, or all three simultaneously. A",
+   "pause_after_s": 15.67
+  },
+  {
+   "beat": 9,
+   "t0_s": 447.37,
+   "t1_s": 457.52,
+   "words": 22,
+   "text": "[screaming] >> IT'S TAKEN YOU JUST UNDER AN HOUR, but you have managed to completely wreck your dream home. How does it feel?",
+   "pause_after_s": 0.98
+  },
+  {
+   "beat": 10,
+   "t0_s": 458.5,
+   "t1_s": 462.76,
+   "words": 3,
+   "text": ">> [laughter] >> Cheers, Colin.",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 11,
+   "t0_s": 463.4,
+   "t1_s": 522.1,
+   "words": 169,
+   "text": "Cheers. >> [laughter] >> But it's dangerous to mess with these abstract ideas of the financial value of things. No one really understands the abstract financial value of things. It's incomprehensible.",
+   "pause_after_s": 3.42
+  },
+  {
+   "beat": 12,
+   "t0_s": 525.52,
+   "t1_s": 584.88,
+   "words": 154,
+   "text": ">> Yes, they're applauding you. They're applauding you for your crassness. They're applauding you from the past and whatever problematic situation you're in now in the future, but you'll be able to lo",
+   "pause_after_s": 3.4
+  },
+  {
+   "beat": 13,
+   "t0_s": 588.28,
+   "t1_s": 593.96,
+   "words": 9,
+   "text": "Sorry, if you could just hold. Yeah. All right.",
+   "pause_after_s": 2.88
+  },
+  {
+   "beat": 14,
+   "t0_s": 596.84,
+   "t1_s": 601.35,
+   "words": 2,
+   "text": ">> Okay. >> [laughter]",
+   "pause_after_s": 2.45
+  },
+  {
+   "beat": 15,
+   "t0_s": 603.8,
+   "t1_s": 609.87,
+   "words": 7,
+   "text": ">> Just give us Mhm. Just stop. >> [laughter]",
+   "pause_after_s": 4.53
+  },
+  {
+   "beat": 16,
+   "t0_s": 614.4,
+   "t1_s": 677.76,
+   "words": 171,
+   "text": ">> You're offering your own anal passage as a possible home. >> Yeah. >> And we'd live in there? >> That's right. >> How old is it? >> 29 years. >> How many bedrooms? >> Three. Mhm. It's not as small ",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 17,
+   "t0_s": 679.64,
+   "t1_s": 692.64,
+   "words": 30,
+   "text": ">> Yes. I don't know. >> Really? >> Mhm. That's a hell of a lot of work for you, love. >> Is your anal passage in a chain? >> No, you can move in tomorrow.",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 18,
+   "t0_s": 694.2,
+   "t1_s": 762.92,
+   "words": 210,
+   "text": ">> But we should have known it was all over. You should have known it was all over when Woolworths and MFI and Zavvi all went down in the same week. And if you're of a certain age like me, you probabl",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 19,
+   "t0_s": 763.96,
+   "t1_s": 788.03,
+   "words": 56,
+   "text": "Yeah, proper old-fashioned sweets they used to have, yeah. Very nostalgic feelings I have for Woolworths used to go in, didn't you, on Saturday mornings with your pocket money and you get your >> [lau",
+   "pause_after_s": 1.21
+  },
+  {
+   "beat": 20,
+   "t0_s": 789.24,
+   "t1_s": 799.16,
+   "words": 18,
+   "text": ">> That was it, wasn't it? >> [laughter] >> 7-in singles, pick and mix. It's hardly surprising they went under. >> [laughter]",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 21,
+   "t0_s": 800.64,
+   "t1_s": 970.8,
+   "words": 435,
+   "text": ">> And MFI, of course, if you're of a certain age, you probably have very nostalgic feelings for MFI. Used to go in MFI, didn't you, on a Saturday morning >> [laughter] >> with your pocket money? Get ",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 22,
+   "t0_s": 971.92,
+   "t1_s": 975.68,
+   "words": 6,
+   "text": "I must have been 38, 39.",
+   "pause_after_s": 2.16
+  },
+  {
+   "beat": 23,
+   "t0_s": 977.84,
+   "t1_s": 1033.92,
+   "words": 152,
+   "text": "Used to go in there, didn't you, on a Saturday mornings? In the Zavvi. I'm going up the Zavvi, Mum. Go on, then. Here's your pocket money. Go up the Zavvi, wouldn't you, with your pocket money, and yo",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 24,
+   "t0_s": 1035.2,
+   "t1_s": 1093.32,
+   "words": 132,
+   "text": "Zavvi used to smell of stickers saying three for \u00a310 >> [laughter] >> and of physical objects in a virtual world. They couldn't have seen it coming. They couldn't have seen it coming. Everyone said it",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 25,
+   "t0_s": 1094.28,
+   "t1_s": 1097.88,
+   "words": 4,
+   "text": "Here in the bedroom.",
+   "pause_after_s": 1.36
+  },
+  {
+   "beat": 26,
+   "t0_s": 1099.24,
+   "t1_s": 1102.43,
+   "words": 5,
+   "text": "Here in the toilet. [music]",
+   "pause_after_s": 3.05
+  },
+  {
+   "beat": 27,
+   "t0_s": 1105.48,
+   "t1_s": 1112.76,
+   "words": 10,
+   "text": "And here in our pants. >> [laughter] >> And in our bras.",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 28,
+   "t0_s": 1114.8,
+   "t1_s": 1126.96,
+   "words": 30,
+   "text": "We have a saying in Scotland, [music] many a mickle makes a muckle. Our money is safe from the credit crunch where no one can ever find it. Is yours?",
+   "pause_after_s": 1.52
+  },
+  {
+   "beat": 29,
+   "t0_s": 1128.48,
+   "t1_s": 1135.18,
+   "words": 16,
+   "text": ">> I've come to rob read to me. >> Oh, you you better [music] come in then. >> [laughter]",
+   "pause_after_s": 3.22
+  },
+  {
+   "beat": 30,
+   "t0_s": 1138.4,
+   "t1_s": 1293.04,
+   "words": 419,
+   "text": "[laughter] >> Basically, what's happened is somewhere along the line as a society we confused the notion of home with the possibility of an investment opportunity. What kind of creature wants to live ",
+   "pause_after_s": 1.2
+  },
+  {
+   "beat": 31,
+   "t0_s": 1294.24,
+   "t1_s": 1300.6,
+   "words": 17,
+   "text": ">> Remember in London the experts say you're never more than 10 ft away from an estate agent.",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 32,
+   "t0_s": 1301.52,
+   "t1_s": 1370.88,
+   "words": 203,
+   "text": "Under normal circumstances, estate agents keep out of most humans' way, hiding in their brightly lit offices, or sometimes in properties like these, which show clear signs of their presence. >> [laugh",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 33,
+   "t0_s": 1372.36,
+   "t1_s": 1374.72,
+   "words": 2,
+   "text": "ABSOLUTELY NOT.",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 34,
+   "t0_s": 1375.44,
+   "t1_s": 1390.04,
+   "words": 35,
+   "text": ">> SICK. >> WELL, YOU CAN STAND THERE, LISTEN. IT'S all right, I've I've laid down poison, so he's probably already dying. >> Oh. >> To my mind, >> [sighs] >> estate agents have served the worst purpo",
+   "pause_after_s": 3.48
+  },
+  {
+   "beat": 35,
+   "t0_s": 1393.52,
+   "t1_s": 1406.88,
+   "words": 25,
+   "text": "Once I seen two estate agents fight each other to the death. To the death, right? Over the deeds of a two-bedroom flat in Gosport.",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 36,
+   "t0_s": 1408.16,
+   "t1_s": 1411.16,
+   "words": 4,
+   "text": "Weren't even double glazed.",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 37,
+   "t0_s": 1411.8,
+   "t1_s": 1433.32,
+   "words": 48,
+   "text": "Well, some people say the only good estate agent is a dead estate agent. I don't know if I agree with them. >> I'll street park >> If anything, they're less useless when they're dead. You try buying a",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 38,
+   "t0_s": 1435.0,
+   "t1_s": 1482.56,
+   "words": 116,
+   "text": ">> Who's to blame for all this? Well, we could blame the deregulated economics of the Thatcher regime years. We could blame Gordon Brown. We could blame uh the banks which lent us money we couldn't re",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 39,
+   "t0_s": 1483.68,
+   "t1_s": 1493.64,
+   "words": 23,
+   "text": "I don't have a dishwasher. Do you have a dishwasher? I don't. Oh, I can't wash my dishes. I don't own a dishwasher.",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 40,
+   "t0_s": 1494.16,
+   "t1_s": 1505.92,
+   "words": 30,
+   "text": "This suit isn't mine. >> [laughter] >> I was lent this suit by the BBC who told me that I didn't own any clothes that were suitable to wear on television. >> [laughter]",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 41,
+   "t0_s": 1507.6,
+   "t1_s": 1558.52,
+   "words": 128,
+   "text": ">> We're to blame. We confused the notion of property with the notion of home and we thought that our homes made us rich because the estate agents lied to us, obviously, about how much they were worth",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 42,
+   "t0_s": 1559.04,
+   "t1_s": 1567.49,
+   "words": 23,
+   "text": "In a box. It doesn't make them any better putting them in a box. You can't put a turd in a box. >> [laughter]",
+   "pause_after_s": 2.91
+  },
+  {
+   "beat": 43,
+   "t0_s": 1570.4,
+   "t1_s": 1589.44,
+   "words": 26,
+   "text": ">> You can put a turd in a box. >> [laughter] >> Many Liberal Democrat MPs have. >> [laughter] >> You can't polish a turd. >> [laughter] >> You can lacquer a turd.",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 44,
+   "t0_s": 1590.16,
+   "t1_s": 1595.8,
+   "words": 11,
+   "text": "You could make it into a a paperweight or a cudgel.",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 45,
+   "t0_s": 1596.88,
+   "t1_s": 1607.88,
+   "words": 34,
+   "text": "You can lacquer a turd. That's not the point. The point is that our homes, which we don't own, are full of rubbish that we bought on credit and now someone's got to pay.",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 46,
+   "t0_s": 1608.48,
+   "t1_s": 1685.28,
+   "words": 169,
+   "text": "You remember uh that sculpture, the sculpture you bought in uh IKEA or Habitat. It was like a copy of an abstract Henry Moore type sculpture, but a an abstract Henry Moore type sculpture was made by H",
+   "pause_after_s": 3.08
+  },
+  {
+   "beat": 47,
+   "t0_s": 1688.36,
+   "t1_s": 1700.0,
+   "words": 24,
+   "text": "And that, ladies and gentlemen, is how you finish a comedy show during a financial downturn. >> [laughter] >> THANK YOU VERY MUCH. >> [applause] >> GOOD NIGHT.",
+   "pause_after_s": 4.33
+  },
+  {
+   "beat": 48,
+   "t0_s": 1704.33,
+   "t1_s": 1706.35,
+   "words": 1,
+   "text": ">> [applause]",
+   "pause_after_s": 12.13
+  },
+  {
+   "beat": 49,
+   "t0_s": 1718.48,
+   "t1_s": 1729.96,
+   "words": 29,
+   "text": ">> HI. DIGITAL VIEWERS, press your red button now for extra content. Now, I've no idea what the quality of this extra content will be like. But it is free.",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 50,
+   "t0_s": 1730.56,
+   "t1_s": 1736.88,
+   "words": 15,
+   "text": ">> And don't forget just about to start on BBC 3, the next episode of Heroes.",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 51,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 51
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

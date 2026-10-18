@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:angel-comedy"
+      "venue-roster:angel-comedy",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "region_method": "venue-scene (overwrite on origin evidence)",
     "bio_note": "Ali is a half-English, half-Scottish Londoner and stand up comedian. He has appeared on both TalkRadio and TalkSport, and contributed to sketches for BBC Three. He supported comedian Russell Kane on tour. Ali co-hosts the comedy podcast All I Do Is Fail with comedian Tom Elwes. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Origin Story: Ali Woods On The Mic Monday, June 3rd, 2024 LISTEN HERE Ali Woods On The Mic Wednesday, June 22nd, 2022 READ INTERVIEW Ali Woods TikiTok Ali Woods All I Do Is Fail podcast Sed cursus eget risus non vestibulum. Sed in molestie elit,",
     "otm_url": "https://www.onthemic.co.uk/comedians_list/ali-woods/",
-    "otm_enriched": true
+    "otm_enriched": true,
+    "r2_comedian": true,
+    "r2_clips": 3
   },
   "sets": [],
   "essay_seeds": [],
@@ -56,7 +59,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 9.0,
+    "popularity": 2.9,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -82,7 +85,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -145,5 +148,28 @@
     "url": "https://www.aliwoodsgigs.com/",
     "source": "otm-profile",
     "checked": "2026-10-17"
-  }
+  },
+  "youtube": {
+    "clips": 3,
+    "total_views": 1500,
+    "timed_clips": 3,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "LIQVLoz1eBQ",
+      "title": "ALI WOODS - FALLING ASLEEP",
+      "views": 1500,
+      "url": "https://www.youtube.com/watch?v=LIQVLoz1eBQ",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ali-woods/clips/ali-woods-liqvloz1ebq.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 13377,
+    "special_words": 0,
+    "timed_clips": 3,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

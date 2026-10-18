@@ -1,0 +1,38 @@
+{
+ "comedian_id": "nico-yearwood",
+ "name": "Nico Yearwood",
+ "clips": 1,
+ "total_views": 2800,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "uSylcECqzIg",
+  "title": "Hating on Spanish Food | Nico Yearwood | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 2800,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=uSylcECqzIg",
+  "r2_clip_key": "comedians/nico-yearwood/clips/nico-yearwood-usylcecqzig.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nico-yearwood/clips/nico-yearwood-usylcecqzig.json"
+ },
+ "rows": [
+  {
+   "videoId": "uSylcECqzIg",
+   "title": "Hating on Spanish Food | Nico Yearwood | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 2800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=uSylcECqzIg",
+   "n_words": 244,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I don't like Spanish food. What? Spanish food is [\u00a0__\u00a0] What you on about? Come on. You guys like Spanish food? It's It's never filling. The first time I went to a Spanish restaurant, it was with a gi",
+   "r2_clip_key": "comedians/nico-yearwood/clips/nico-yearwood-usylcecqzig.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nico-yearwood/clips/nico-yearwood-usylcecqzig.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

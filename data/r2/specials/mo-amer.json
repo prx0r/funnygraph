@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "mo-amer",
+ "specials": [
+  {
+   "special_slug": "mohammed-in-texas-2021",
+   "title": "Mo Amer: Mohammed in Texas (2021) | Transcript",
+   "comedian": "Mo Amer",
+   "url": "https://scrapsfromtheloft.com/comedy/mo-amer-mohammed-in-texas-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10916,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[quirky flute music playing] [single note piano music playing] Ladies and gentleman. [cheering] You can feel excitement in the air. Here we go, Houston, Texas! [cheering] Let\u2019s get this show on the road. Dwayne Johnson here, also known as The Rock, also known as La Roca in Spanish, also known as the",
+   "r2_special_key": "comedians/mo-amer/specials/mohammed-in-texas-2021.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mo-amer/specials/mohammed-in-texas-2021.json"
+  },
+  {
+   "special_slug": "the-vagabond-2018",
+   "title": "Mo Amer: The Vagabond (2018) \u2013 Full Transcript",
+   "comedian": "Mo Amer",
+   "url": "https://scrapsfromtheloft.com/comedy/mo-amer-the-vagabond-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9409,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "A NETFLIX ORIGINAL COMEDY SPECIAL [audience chanting] Mo! Mo! Mo! Mo! Mo! Mo! Mo! Mo! Mo! Mo! Mo! Mo! [chanting speeds up] [man] Ladies and gentlemen, please welcome Texas\u2019 own\u2026 Mo Amer! [cheering] Thank you. Thank you, thank you. What\u2019s up, Austin? Have a seat. Austin, Texas. Man! Thank you, thank ",
+   "r2_special_key": "comedians/mo-amer/specials/the-vagabond-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mo-amer/specials/the-vagabond-2018.json"
+  }
+ ],
+ "count": 2
+}

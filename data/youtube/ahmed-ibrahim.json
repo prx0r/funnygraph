@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ahmed-ibrahim",
+ "name": "AHMED IBRAHIM",
+ "clips": 1,
+ "total_views": 1400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "H7IraTd8B0Y",
+  "title": "AHMED IBRAHIM - CHEATING",
+  "channel": "@BigBellyComedy",
+  "views": 1400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=H7IraTd8B0Y",
+  "r2_clip_key": "comedians/ahmed-ibrahim/clips/ahmed-ibrahim-h7iratd8b0y.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ahmed-ibrahim/clips/ahmed-ibrahim-h7iratd8b0y.json"
+ },
+ "rows": [
+  {
+   "videoId": "H7IraTd8B0Y",
+   "title": "AHMED IBRAHIM - CHEATING",
+   "channel": "@BigBellyComedy",
+   "views": 1400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=H7IraTd8B0Y",
+   "n_words": 178,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Anyone currently in a longdistance relationship? >> Yeah, it's it's horrible, right? The reason I find it horrible, I don't know about you, is cuz I'm paranoid. So, I always think they're going to che",
+   "r2_clip_key": "comedians/ahmed-ibrahim/clips/ahmed-ibrahim-h7iratd8b0y.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ahmed-ibrahim/clips/ahmed-ibrahim-h7iratd8b0y.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

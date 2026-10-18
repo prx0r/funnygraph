@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -49,7 +50,9 @@
     ],
     "otm_enriched": true,
     "otm_url": "https://www.onthemic.co.uk/comedians_list/alun-cochrane/",
-    "representation": "http://avalonuk.com/"
+    "representation": "http://avalonuk.com/",
+    "r2_comedian": true,
+    "r2_clips": 12
   },
   "sets": [],
   "essay_seeds": [],
@@ -92,7 +95,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 79.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -118,12 +121,47 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 12,
+    "total_views": 2117381,
+    "timed_clips": 12,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "24yQo7T6WUg",
+      "title": "Bad things to say at a job interview | Mock the Week - BBC",
+      "views": 1284528,
+      "duration_s": 167,
+      "url": "https://www.youtube.com/watch?v=24yQo7T6WUg",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alun-cochrane/clips/alun-cochrane-24yqo7t6wug.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 2631,
+    "special_words": 0,
+    "timed_clips": 12,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q4737484",
+    "dob": "1975-08-02",
+    "dod": null,
+    "birthplace": "Glasgow",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

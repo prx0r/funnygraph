@@ -1,131 +1,182 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "pat-regan",
-  "name": "Pat Regan",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "discover.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "youtube-uploads:kill-tony"
-    ],
-    "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
-    "evidence": [
-      {
-        "videoId": "zD9fuPP5T98",
-        "title": "Kill Tony #164 - Pat Regan & Jeremiah Watkins",
-        "views": 82285,
-        "publishedAt": "2016-07-23"
-      }
-    ],
-    "subs": "unknown (performer channel unregistered)",
-    "region_method": "venue-scene (overwrite on origin evidence)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 40.0,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCYhzNeiaVZ4N0xYw05K-6Wg",
-    "handle": "patregan",
-    "title": "Pat Regan",
-    "subs": 315,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "stale",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2025-03-25",
-    "name_match_rate": 0.01,
-    "other_names": [
-      "Runcam Owl Plus",
-      "Runcam Sparrow Micro",
-      "Thockiest Li'l Magnum"
-    ]
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "hans-kim",
-      "sim": 0.092
-    },
-    {
-      "comedian_id": "cam-patterson",
-      "sim": 0.089
-    },
-    {
-      "comedian_id": "william-montgomery",
-      "sim": 0.069
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "pat-regan",
+ "name": "Pat Regan",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "youtube-uploads:kill-tony"
   ],
-  "region": "us",
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "literalise",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "hans-kim",
-    "sim": 0.092,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
+  "evidence": [
+   {
+    "videoId": "zD9fuPP5T98",
+    "title": "Kill Tony #164 - Pat Regan & Jeremiah Watkins",
+    "views": 82285,
+    "publishedAt": "2016-07-23"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)",
+  "region_method": "venue-scene (overwrite on origin evidence)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 59.5,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCYhzNeiaVZ4N0xYw05K-6Wg",
+  "handle": "patregan",
+  "title": "Pat Regan",
+  "subs": 315,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "stale",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2025-03-25",
+  "name_match_rate": 0.01,
+  "other_names": [
+   "Runcam Owl Plus",
+   "Runcam Sparrow Micro",
+   "Thockiest Li'l Magnum"
+  ]
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "hans-kim",
+   "sim": 0.092
+  },
+  {
+   "comedian_id": "cam-patterson",
+   "sim": 0.089
+  },
+  {
+   "comedian_id": "william-montgomery",
+   "sim": 0.069
   }
+ ],
+ "region": "us",
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "literalise",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "hans-kim",
+  "sim": 0.092,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "XTGc0FA4UPw",
+   "title": "24 Minute Benchy on Sovol SV06 with Marlin input shaping",
+   "duration_s": 1484,
+   "views": 2839,
+   "url": "https://www.youtube.com/watch?v=XTGc0FA4UPw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "on-ZdCcmxdU",
+   "title": "Jabbering About Debian, Ubuntu, and lvmcache While Assembling a Macro Pad",
+   "duration_s": 1794,
+   "views": 150,
+   "url": "https://www.youtube.com/watch?v=on-ZdCcmxdU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "By0cbQ_REmQ",
+   "title": "Soldering Up A Grounduino Nano",
+   "duration_s": 1219,
+   "views": 47,
+   "url": "https://www.youtube.com/watch?v=By0cbQ_REmQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "b83FBRi2OiQ",
+   "title": "Flying Hula Hoop Race Gates?! Bombing the Green with a Dodgeball?! What?!",
+   "duration_s": 1247,
+   "views": 111,
+   "url": "https://www.youtube.com/watch?v=b83FBRi2OiQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Mu9v0kIY27U",
+   "title": "Flying at the Golf Course on Memorial Day and Some Tinyhawk Racing!",
+   "duration_s": 1289,
+   "views": 181,
+   "url": "https://www.youtube.com/watch?v=Mu9v0kIY27U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7vi44P58U1E",
+   "title": "A Day of Flying at the Golf Course",
+   "duration_s": 1496,
+   "views": 125,
+   "url": "https://www.youtube.com/watch?v=7vi44P58U1E",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 6
 }

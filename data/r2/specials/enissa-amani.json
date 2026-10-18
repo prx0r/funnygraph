@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "enissa-amani",
+ "specials": [
+  {
+   "special_slug": "ehrenwort-2018",
+   "title": "Enissa Amani: Ehrenwort (2018)",
+   "comedian": "Enissa Amani",
+   "url": "https://scrapsfromtheloft.com/comedy/enissa-amani-ehrenwort-2018-full-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10892,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nEnissa Amani: Ehrenwort (2018) \u2013 Transcript\nPublished February 19, 2019\nLive from Hamburg, Iranian-German comedian Enissa Amani shares her take on German engineering, tax deductions and online fan-mail etiquette.\n\nA NETFLIX ORIGINAL COMEDY SPECIAL\n\nHey, what\u2019s up? What\u2019s up? You\u2019re all st",
+   "r2_special_key": "comedians/enissa-amani/specials/ehrenwort-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/enissa-amani/specials/ehrenwort-2018.json"
+  },
+  {
+   "special_slug": "ehrenwort-2018-full-transcript",
+   "title": "Enissa Amani: Ehrenwort (2018) Full Transcript",
+   "comedian": "Enissa Amani",
+   "url": "https://scrapsfromtheloft.com/comedy/enissa-amani-ehrenwort-2018-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10857,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "A NETFLIX ORIGINAL COMEDY SPECIAL Hey, what\u2019s up? What\u2019s up? You\u2019re all standing, that\u2019s so sweet! Camera, did you get a shot of them standing? They\u2019re standing! Thank you. But sit down, sit down! Sit down, sit down. Alaikum salaam. Hamburg, I\u2019m so proud, you can\u2019t even imagine. Of course I\u2019m extrem",
+   "r2_special_key": "comedians/enissa-amani/specials/ehrenwort-2018-full-transcript.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/enissa-amani/specials/ehrenwort-2018-full-transcript.json"
+  }
+ ],
+ "count": 2
+}

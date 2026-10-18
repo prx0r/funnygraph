@@ -1,0 +1,3226 @@
+{
+  "generated": "2026-10-18T15:49:13Z",
+  "count": 644,
+  "specials": [
+    {
+      "comedian_slug": "adam-devine",
+      "special_slug": "best-time-of-our-lives-2019",
+      "r2_special_key": "comedians/adam-devine/specials/best-time-of-our-lives-2019.json"
+    },
+    {
+      "comedian_slug": "adam-sandler",
+      "special_slug": "100-fresh-2018",
+      "r2_special_key": "comedians/adam-sandler/specials/100-fresh-2018.json"
+    },
+    {
+      "comedian_slug": "adam-sandler",
+      "special_slug": "love-you-2024",
+      "r2_special_key": "comedians/adam-sandler/specials/love-you-2024.json"
+    },
+    {
+      "comedian_slug": "adel-karam",
+      "special_slug": "live-from-beirut-2018",
+      "r2_special_key": "comedians/adel-karam/specials/live-from-beirut-2018.json"
+    },
+    {
+      "comedian_slug": "ahir-shah",
+      "special_slug": "dots-2021",
+      "r2_special_key": "comedians/ahir-shah/specials/dots-2021.json"
+    },
+    {
+      "comedian_slug": "ahir-shah",
+      "special_slug": "ends-2024",
+      "r2_special_key": "comedians/ahir-shah/specials/ends-2024.json"
+    },
+    {
+      "comedian_slug": "al-madrigal",
+      "special_slug": "why-is-the-rabbit-crying-2013",
+      "r2_special_key": "comedians/al-madrigal/specials/why-is-the-rabbit-crying-2013.json"
+    },
+    {
+      "comedian_slug": "alex-edelman",
+      "special_slug": "just-for-us-2024",
+      "r2_special_key": "comedians/alex-edelman/specials/just-for-us-2024.json"
+    },
+    {
+      "comedian_slug": "ali-wong",
+      "special_slug": "baby-cobra-2016",
+      "r2_special_key": "comedians/ali-wong/specials/baby-cobra-2016.json"
+    },
+    {
+      "comedian_slug": "ali-wong",
+      "special_slug": "don-wong-2022",
+      "r2_special_key": "comedians/ali-wong/specials/don-wong-2022.json"
+    },
+    {
+      "comedian_slug": "ali-wong",
+      "special_slug": "hard-knock-wife-2018",
+      "r2_special_key": "comedians/ali-wong/specials/hard-knock-wife-2018.json"
+    },
+    {
+      "comedian_slug": "ali-wong",
+      "special_slug": "single-lady-2024",
+      "r2_special_key": "comedians/ali-wong/specials/single-lady-2024.json"
+    },
+    {
+      "comedian_slug": "amanda-seales",
+      "special_slug": "i-be-knowin-2019",
+      "r2_special_key": "comedians/amanda-seales/specials/i-be-knowin-2019.json"
+    },
+    {
+      "comedian_slug": "amy-schumer",
+      "special_slug": "emergency-contact-2023",
+      "r2_special_key": "comedians/amy-schumer/specials/emergency-contact-2023.json"
+    },
+    {
+      "comedian_slug": "amy-schumer",
+      "special_slug": "growing-2019",
+      "r2_special_key": "comedians/amy-schumer/specials/growing-2019.json"
+    },
+    {
+      "comedian_slug": "amy-schumer",
+      "special_slug": "live-at-the-apollo-2015",
+      "r2_special_key": "comedians/amy-schumer/specials/live-at-the-apollo-2015.json"
+    },
+    {
+      "comedian_slug": "amy-schumer",
+      "special_slug": "mostly-sex-stuff-2012",
+      "r2_special_key": "comedians/amy-schumer/specials/mostly-sex-stuff-2012.json"
+    },
+    {
+      "comedian_slug": "amy-schumer",
+      "special_slug": "the-leather-special-2017",
+      "r2_special_key": "comedians/amy-schumer/specials/the-leather-special-2017.json"
+    },
+    {
+      "comedian_slug": "amy-schumer-presents",
+      "special_slug": "parental-advisory-2022",
+      "r2_special_key": "comedians/amy-schumer-presents/specials/parental-advisory-2022.json"
+    },
+    {
+      "comedian_slug": "amy-silverberg",
+      "special_slug": "when-your-student-writes-a-story-about-having-sex-with-you",
+      "r2_special_key": "comedians/amy-silverberg/specials/when-your-student-writes-a-story-about-having-sex-with-you.json"
+    },
+    {
+      "comedian_slug": "andrew-santino",
+      "special_slug": "cheeseburger-2023",
+      "r2_special_key": "comedians/andrew-santino/specials/cheeseburger-2023.json"
+    },
+    {
+      "comedian_slug": "andrew-santino",
+      "special_slug": "home-field-advantage-2017",
+      "r2_special_key": "comedians/andrew-santino/specials/home-field-advantage-2017.json"
+    },
+    {
+      "comedian_slug": "andy-woodhull",
+      "special_slug": "you-ll-always-be-late-2019",
+      "r2_special_key": "comedians/andy-woodhull/specials/you-ll-always-be-late-2019.json"
+    },
+    {
+      "comedian_slug": "anjelah-johnson",
+      "special_slug": "not-fancy-2015",
+      "r2_special_key": "comedians/anjelah-johnson/specials/not-fancy-2015.json"
+    },
+    {
+      "comedian_slug": "anthony-jeselnik",
+      "special_slug": "bones-and-all-2024",
+      "r2_special_key": "comedians/anthony-jeselnik/specials/bones-and-all-2024.json"
+    },
+    {
+      "comedian_slug": "anthony-jeselnik",
+      "special_slug": "caligula-2013",
+      "r2_special_key": "comedians/anthony-jeselnik/specials/caligula-2013.json"
+    },
+    {
+      "comedian_slug": "anthony-jeselnik",
+      "special_slug": "fire-in-the-maternity-ward-2019",
+      "r2_special_key": "comedians/anthony-jeselnik/specials/fire-in-the-maternity-ward-2019.json"
+    },
+    {
+      "comedian_slug": "anthony-jeselnik",
+      "special_slug": "thoughts-and-prayers-2015",
+      "r2_special_key": "comedians/anthony-jeselnik/specials/thoughts-and-prayers-2015.json"
+    },
+    {
+      "comedian_slug": "ari-shaffir",
+      "special_slug": "america-s-sweetheart-2025",
+      "r2_special_key": "comedians/ari-shaffir/specials/america-s-sweetheart-2025.json"
+    },
+    {
+      "comedian_slug": "ari-shaffir",
+      "special_slug": "double-negative-2017",
+      "r2_special_key": "comedians/ari-shaffir/specials/double-negative-2017.json"
+    },
+    {
+      "comedian_slug": "arsenio-hall",
+      "special_slug": "smart-and-classy-2019",
+      "r2_special_key": "comedians/arsenio-hall/specials/smart-and-classy-2019.json"
+    },
+    {
+      "comedian_slug": "aziz-ansari",
+      "special_slug": "buried-alive-2013",
+      "r2_special_key": "comedians/aziz-ansari/specials/buried-alive-2013.json"
+    },
+    {
+      "comedian_slug": "aziz-ansari",
+      "special_slug": "intimate-moments-for-a-sensual-evening-2010",
+      "r2_special_key": "comedians/aziz-ansari/specials/intimate-moments-for-a-sensual-evening-2010.json"
+    },
+    {
+      "comedian_slug": "aziz-ansari",
+      "special_slug": "live-in-madison-square-garden-2015",
+      "r2_special_key": "comedians/aziz-ansari/specials/live-in-madison-square-garden-2015.json"
+    },
+    {
+      "comedian_slug": "aziz-ansari",
+      "special_slug": "nightclub-comedian-2022",
+      "r2_special_key": "comedians/aziz-ansari/specials/nightclub-comedian-2022.json"
+    },
+    {
+      "comedian_slug": "aziz-ansari",
+      "special_slug": "right-now-2019",
+      "r2_special_key": "comedians/aziz-ansari/specials/right-now-2019.json"
+    },
+    {
+      "comedian_slug": "barry-brewer",
+      "special_slug": "i-accidentally-went-on-a-gay-date-scene",
+      "r2_special_key": "comedians/barry-brewer/specials/i-accidentally-went-on-a-gay-date-scene.json"
+    },
+    {
+      "comedian_slug": "bassem-youssef",
+      "special_slug": "the-dark-side-of-making-it-on-social-media-scene",
+      "r2_special_key": "comedians/bassem-youssef/specials/the-dark-side-of-making-it-on-social-media-scene.json"
+    },
+    {
+      "comedian_slug": "bert-kreischer",
+      "special_slug": "fighting-a-bear-transcript",
+      "r2_special_key": "comedians/bert-kreischer/specials/fighting-a-bear-transcript.json"
+    },
+    {
+      "comedian_slug": "bert-kreischer",
+      "special_slug": "fighting-a-bear",
+      "r2_special_key": "comedians/bert-kreischer/specials/fighting-a-bear.json"
+    },
+    {
+      "comedian_slug": "bert-kreischer",
+      "special_slug": "hey-big-boy-2020",
+      "r2_special_key": "comedians/bert-kreischer/specials/hey-big-boy-2020.json"
+    },
+    {
+      "comedian_slug": "bert-kreischer",
+      "special_slug": "lucky-2025",
+      "r2_special_key": "comedians/bert-kreischer/specials/lucky-2025.json"
+    },
+    {
+      "comedian_slug": "bert-kreischer",
+      "special_slug": "razzle-dazzle-2023",
+      "r2_special_key": "comedians/bert-kreischer/specials/razzle-dazzle-2023.json"
+    },
+    {
+      "comedian_slug": "bert-kreischer",
+      "special_slug": "secret-time-2018",
+      "r2_special_key": "comedians/bert-kreischer/specials/secret-time-2018.json"
+    },
+    {
+      "comedian_slug": "beth-stelling",
+      "special_slug": "girl-daddy-2020",
+      "r2_special_key": "comedians/beth-stelling/specials/girl-daddy-2020.json"
+    },
+    {
+      "comedian_slug": "beth-stelling",
+      "special_slug": "if-you-didn-t-want-me-then-2023",
+      "r2_special_key": "comedians/beth-stelling/specials/if-you-didn-t-want-me-then-2023.json"
+    },
+    {
+      "comedian_slug": "big-jay-oakerson",
+      "special_slug": "live-at-webster-hall-2016",
+      "r2_special_key": "comedians/big-jay-oakerson/specials/live-at-webster-hall-2016.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "i-ll-never-own-a-helicopter-scene",
+      "r2_special_key": "comedians/bill-burr/specials/i-ll-never-own-a-helicopter-scene.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "i-m-sorry-you-feel-that-way-2014",
+      "r2_special_key": "comedians/bill-burr/specials/i-m-sorry-you-feel-that-way-2014.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "let-it-go-2010",
+      "r2_special_key": "comedians/bill-burr/specials/let-it-go-2010.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "live-at-red-rocks-2022",
+      "r2_special_key": "comedians/bill-burr/specials/live-at-red-rocks-2022.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "paper-tiger-2019",
+      "r2_special_key": "comedians/bill-burr/specials/paper-tiger-2019.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "snl-monologue-2020-scene",
+      "r2_special_key": "comedians/bill-burr/specials/snl-monologue-2020-scene.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "snl-monologue-2020",
+      "r2_special_key": "comedians/bill-burr/specials/snl-monologue-2020.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "the-philadelphia-incident-2006-scene",
+      "r2_special_key": "comedians/bill-burr/specials/the-philadelphia-incident-2006-scene.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "the-philadelphia-incident-2006",
+      "r2_special_key": "comedians/bill-burr/specials/the-philadelphia-incident-2006.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "walk-your-way-out-2017",
+      "r2_special_key": "comedians/bill-burr/specials/walk-your-way-out-2017.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "why-do-i-do-this-2008-testo-italiano-completo",
+      "r2_special_key": "comedians/bill-burr/specials/why-do-i-do-this-2008-testo-italiano-completo.json"
+    },
+    {
+      "comedian_slug": "bill-burr",
+      "special_slug": "you-people-are-all-the-same-2012",
+      "r2_special_key": "comedians/bill-burr/specials/you-people-are-all-the-same-2012.json"
+    },
+    {
+      "comedian_slug": "bill-burr-on-the-late-show-with-david-letterman-2010",
+      "special_slug": "bill-burr-on-the-late-show-with-david-letterman-2010",
+      "r2_special_key": "comedians/bill-burr-on-the-late-show-with-david-letterman-2010/specials/bill-burr-on-the-late-show-with-david-letterman-2010.json"
+    },
+    {
+      "comedian_slug": "bill-burr-on-the-late-show-with-david-letterman-2010-scene",
+      "special_slug": "bill-burr-on-the-late-show-with-david-letterman-2010-scene",
+      "r2_special_key": "comedians/bill-burr-on-the-late-show-with-david-letterman-2010-scene/specials/bill-burr-on-the-late-show-with-david-letterman-2010-scene.json"
+    },
+    {
+      "comedian_slug": "bill-burr-presents",
+      "special_slug": "friends-who-kill-2022",
+      "r2_special_key": "comedians/bill-burr-presents/specials/friends-who-kill-2022.json"
+    },
+    {
+      "comedian_slug": "bill-hicks",
+      "special_slug": "live-at-laff-stop-austin-tx-and-cobbs-san-francisco-ca-1993",
+      "r2_special_key": "comedians/bill-hicks/specials/live-at-laff-stop-austin-tx-and-cobbs-san-francisco-ca-1993.json"
+    },
+    {
+      "comedian_slug": "bill-hicks",
+      "special_slug": "relentless-1991",
+      "r2_special_key": "comedians/bill-hicks/specials/relentless-1991.json"
+    },
+    {
+      "comedian_slug": "bill-hicks",
+      "special_slug": "revelations-1993",
+      "r2_special_key": "comedians/bill-hicks/specials/revelations-1993.json"
+    },
+    {
+      "comedian_slug": "bill-hicks",
+      "special_slug": "the-censored-seven-minutes-on-late-show-with-david-letterman",
+      "r2_special_key": "comedians/bill-hicks/specials/the-censored-seven-minutes-on-late-show-with-david-letterman.json"
+    },
+    {
+      "comedian_slug": "bill-maher",
+      "special_slug": "is-anyone-else-seeing-this-2025",
+      "r2_special_key": "comedians/bill-maher/specials/is-anyone-else-seeing-this-2025.json"
+    },
+    {
+      "comedian_slug": "bill-maher",
+      "special_slug": "live-from-d-c-2014",
+      "r2_special_key": "comedians/bill-maher/specials/live-from-d-c-2014.json"
+    },
+    {
+      "comedian_slug": "bill-maher",
+      "special_slug": "live-from-oklahoma-2018",
+      "r2_special_key": "comedians/bill-maher/specials/live-from-oklahoma-2018.json"
+    },
+    {
+      "comedian_slug": "bill-maher-but-i-m-not-wrong-2010",
+      "special_slug": "bill-maher-but-i-m-not-wrong-2010",
+      "r2_special_key": "comedians/bill-maher-but-i-m-not-wrong-2010/specials/bill-maher-but-i-m-not-wrong-2010.json"
+    },
+    {
+      "comedian_slug": "billy-connolly",
+      "special_slug": "high-horse-tour-live-2016",
+      "r2_special_key": "comedians/billy-connolly/specials/high-horse-tour-live-2016.json"
+    },
+    {
+      "comedian_slug": "bo-burnham",
+      "special_slug": "inside-2021",
+      "r2_special_key": "comedians/bo-burnham/specials/inside-2021.json"
+    },
+    {
+      "comedian_slug": "bo-burnham",
+      "special_slug": "make-happy-2016",
+      "r2_special_key": "comedians/bo-burnham/specials/make-happy-2016.json"
+    },
+    {
+      "comedian_slug": "bo-burnham",
+      "special_slug": "what-2013",
+      "r2_special_key": "comedians/bo-burnham/specials/what-2013.json"
+    },
+    {
+      "comedian_slug": "bo-burnham",
+      "special_slug": "words-words-words-2010",
+      "r2_special_key": "comedians/bo-burnham/specials/words-words-words-2010.json"
+    },
+    {
+      "comedian_slug": "brad-williams",
+      "special_slug": "daddy-issues-2016",
+      "r2_special_key": "comedians/brad-williams/specials/daddy-issues-2016.json"
+    },
+    {
+      "comedian_slug": "brazil-corruption-and-the-amazon-rainforest-patriot-act-with",
+      "special_slug": "brazil-corruption-and-the-amazon-rainforest-patriot-act-with",
+      "r2_special_key": "comedians/brazil-corruption-and-the-amazon-rainforest-patriot-act-with/specials/brazil-corruption-and-the-amazon-rainforest-patriot-act-with.json"
+    },
+    {
+      "comedian_slug": "brent-morin",
+      "special_slug": "i-m-brent-morin-2015",
+      "r2_special_key": "comedians/brent-morin/specials/i-m-brent-morin-2015.json"
+    },
+    {
+      "comedian_slug": "brian-regan",
+      "special_slug": "nunchucks-and-flamethrowers-2017",
+      "r2_special_key": "comedians/brian-regan/specials/nunchucks-and-flamethrowers-2017.json"
+    },
+    {
+      "comedian_slug": "brian-regan",
+      "special_slug": "on-the-rocks-2021",
+      "r2_special_key": "comedians/brian-regan/specials/on-the-rocks-2021.json"
+    },
+    {
+      "comedian_slug": "brian-regan",
+      "special_slug": "standing-up-2007",
+      "r2_special_key": "comedians/brian-regan/specials/standing-up-2007.json"
+    },
+    {
+      "comedian_slug": "bridget-everett",
+      "special_slug": "gynecological-wonder-2015",
+      "r2_special_key": "comedians/bridget-everett/specials/gynecological-wonder-2015.json"
+    },
+    {
+      "comedian_slug": "bryan-callen",
+      "special_slug": "never-grow-up-2017",
+      "r2_special_key": "comedians/bryan-callen/specials/never-grow-up-2017.json"
+    },
+    {
+      "comedian_slug": "carlin-at-carnegie-1983",
+      "special_slug": "carlin-at-carnegie-1983",
+      "r2_special_key": "comedians/carlin-at-carnegie-1983/specials/carlin-at-carnegie-1983.json"
+    },
+    {
+      "comedian_slug": "catherine-cohen",
+      "special_slug": "the-twist-she-s-gorgeous-2022",
+      "r2_special_key": "comedians/catherine-cohen/specials/the-twist-she-s-gorgeous-2022.json"
+    },
+    {
+      "comedian_slug": "cedric-the-entertainer",
+      "special_slug": "live-from-the-ville-2016",
+      "r2_special_key": "comedians/cedric-the-entertainer/specials/live-from-the-ville-2016.json"
+    },
+    {
+      "comedian_slug": "chad-daniels",
+      "special_slug": "dad-chaniels-2019",
+      "r2_special_key": "comedians/chad-daniels/specials/dad-chaniels-2019.json"
+    },
+    {
+      "comedian_slug": "chelsea-handler",
+      "special_slug": "evolution-2020",
+      "r2_special_key": "comedians/chelsea-handler/specials/evolution-2020.json"
+    },
+    {
+      "comedian_slug": "chelsea-handler",
+      "special_slug": "the-feeling-2025",
+      "r2_special_key": "comedians/chelsea-handler/specials/the-feeling-2025.json"
+    },
+    {
+      "comedian_slug": "chelsea-peretti",
+      "special_slug": "one-of-the-greats-2014",
+      "r2_special_key": "comedians/chelsea-peretti/specials/one-of-the-greats-2014.json"
+    },
+    {
+      "comedian_slug": "chris-d-elia",
+      "special_slug": "man-on-fire-2017",
+      "r2_special_key": "comedians/chris-d-elia/specials/man-on-fire-2017.json"
+    },
+    {
+      "comedian_slug": "chris-d-elia",
+      "special_slug": "white-male-black-comic-2013",
+      "r2_special_key": "comedians/chris-d-elia/specials/white-male-black-comic-2013.json"
+    },
+    {
+      "comedian_slug": "chris-gethard",
+      "special_slug": "career-suicide-2017",
+      "r2_special_key": "comedians/chris-gethard/specials/career-suicide-2017.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "bigger-blacker-1999",
+      "r2_special_key": "comedians/chris-rock/specials/bigger-blacker-1999.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "bring-the-pain-1996",
+      "r2_special_key": "comedians/chris-rock/specials/bring-the-pain-1996.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "kill-the-messenger-london-new-york-johannesburg-2008",
+      "r2_special_key": "comedians/chris-rock/specials/kill-the-messenger-london-new-york-johannesburg-2008.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "never-scared-2004",
+      "r2_special_key": "comedians/chris-rock/specials/never-scared-2004.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "selective-outrage-2023",
+      "r2_special_key": "comedians/chris-rock/specials/selective-outrage-2023.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "snl-monologue-2020-scene",
+      "r2_special_key": "comedians/chris-rock/specials/snl-monologue-2020-scene.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "snl-monologue-2020",
+      "r2_special_key": "comedians/chris-rock/specials/snl-monologue-2020.json"
+    },
+    {
+      "comedian_slug": "chris-rock",
+      "special_slug": "tamborine-2018",
+      "r2_special_key": "comedians/chris-rock/specials/tamborine-2018.json"
+    },
+    {
+      "comedian_slug": "chris-rock-at-the-saturday-night-live-1996",
+      "special_slug": "chris-rock-at-the-saturday-night-live-1996",
+      "r2_special_key": "comedians/chris-rock-at-the-saturday-night-live-1996/specials/chris-rock-at-the-saturday-night-live-1996.json"
+    },
+    {
+      "comedian_slug": "chris-rock-at-the-saturday-night-live-1996-scene",
+      "special_slug": "chris-rock-at-the-saturday-night-live-1996-scene",
+      "r2_special_key": "comedians/chris-rock-at-the-saturday-night-live-1996-scene/specials/chris-rock-at-the-saturday-night-live-1996-scene.json"
+    },
+    {
+      "comedian_slug": "chris-rock-total-blackout",
+      "special_slug": "the-tamborine-extended-cut",
+      "r2_special_key": "comedians/chris-rock-total-blackout/specials/the-tamborine-extended-cut.json"
+    },
+    {
+      "comedian_slug": "chris-tucker",
+      "special_slug": "live-2015",
+      "r2_special_key": "comedians/chris-tucker/specials/live-2015.json"
+    },
+    {
+      "comedian_slug": "christina-pazsitzky",
+      "special_slug": "mother-inferior-2017",
+      "r2_special_key": "comedians/christina-pazsitzky/specials/mother-inferior-2017.json"
+    },
+    {
+      "comedian_slug": "colin-quinn",
+      "special_slug": "the-new-york-story-2016",
+      "r2_special_key": "comedians/colin-quinn/specials/the-new-york-story-2016.json"
+    },
+    {
+      "comedian_slug": "comedy-central-presents",
+      "special_slug": "daniel-tosh-2003",
+      "r2_special_key": "comedians/comedy-central-presents/specials/daniel-tosh-2003.json"
+    },
+    {
+      "comedian_slug": "comedy-central-presents",
+      "special_slug": "dave-attell-1999",
+      "r2_special_key": "comedians/comedy-central-presents/specials/dave-attell-1999.json"
+    },
+    {
+      "comedian_slug": "comedy-central-presents",
+      "special_slug": "patton-oswalt-1999",
+      "r2_special_key": "comedians/comedy-central-presents/specials/patton-oswalt-1999.json"
+    },
+    {
+      "comedian_slug": "comedy-central-presents",
+      "special_slug": "tom-segura-s15e01",
+      "r2_special_key": "comedians/comedy-central-presents/specials/tom-segura-s15e01.json"
+    },
+    {
+      "comedian_slug": "conan-o-brien",
+      "special_slug": "the-kennedy-center-mark-twain-prize-for-american-humor-2025",
+      "r2_special_key": "comedians/conan-o-brien/specials/the-kennedy-center-mark-twain-prize-for-american-humor-2025.json"
+    },
+    {
+      "comedian_slug": "craig-ferguson",
+      "special_slug": "a-wee-bit-o-revolution-2009",
+      "r2_special_key": "comedians/craig-ferguson/specials/a-wee-bit-o-revolution-2009.json"
+    },
+    {
+      "comedian_slug": "craig-ferguson",
+      "special_slug": "does-this-need-to-be-said-2011",
+      "r2_special_key": "comedians/craig-ferguson/specials/does-this-need-to-be-said-2011.json"
+    },
+    {
+      "comedian_slug": "craig-ferguson",
+      "special_slug": "i-m-here-to-help-2013",
+      "r2_special_key": "comedians/craig-ferguson/specials/i-m-here-to-help-2013.json"
+    },
+    {
+      "comedian_slug": "craig-ferguson",
+      "special_slug": "just-being-honest-2015",
+      "r2_special_key": "comedians/craig-ferguson/specials/just-being-honest-2015.json"
+    },
+    {
+      "comedian_slug": "craig-ferguson",
+      "special_slug": "tickle-fight-2017",
+      "r2_special_key": "comedians/craig-ferguson/specials/tickle-fight-2017.json"
+    },
+    {
+      "comedian_slug": "cristela-alonzo",
+      "special_slug": "lower-classy-2017",
+      "r2_special_key": "comedians/cristela-alonzo/specials/lower-classy-2017.json"
+    },
+    {
+      "comedian_slug": "cristela-alonzo",
+      "special_slug": "middle-classy-2022",
+      "r2_special_key": "comedians/cristela-alonzo/specials/middle-classy-2022.json"
+    },
+    {
+      "comedian_slug": "d-l-hughley",
+      "special_slug": "contrarian-2018",
+      "r2_special_key": "comedians/d-l-hughley/specials/contrarian-2018.json"
+    },
+    {
+      "comedian_slug": "d-l-hughley",
+      "special_slug": "unapologetic-2007",
+      "r2_special_key": "comedians/d-l-hughley/specials/unapologetic-2007.json"
+    },
+    {
+      "comedian_slug": "dan-soder",
+      "special_slug": "on-the-road-2024",
+      "r2_special_key": "comedians/dan-soder/specials/on-the-road-2024.json"
+    },
+    {
+      "comedian_slug": "dan-soder",
+      "special_slug": "son-of-a-gary-2019",
+      "r2_special_key": "comedians/dan-soder/specials/son-of-a-gary-2019.json"
+    },
+    {
+      "comedian_slug": "dana-carvey",
+      "special_slug": "straight-white-male-60-2016",
+      "r2_special_key": "comedians/dana-carvey/specials/straight-white-male-60-2016.json"
+    },
+    {
+      "comedian_slug": "daniel-sloss",
+      "special_slug": "dark-2018",
+      "r2_special_key": "comedians/daniel-sloss/specials/dark-2018.json"
+    },
+    {
+      "comedian_slug": "daniel-sloss",
+      "special_slug": "jigsaw-2018",
+      "r2_special_key": "comedians/daniel-sloss/specials/jigsaw-2018.json"
+    },
+    {
+      "comedian_slug": "daniel-sloss",
+      "special_slug": "socio-2021",
+      "r2_special_key": "comedians/daniel-sloss/specials/socio-2021.json"
+    },
+    {
+      "comedian_slug": "daniel-sloss",
+      "special_slug": "x-2019",
+      "r2_special_key": "comedians/daniel-sloss/specials/x-2019.json"
+    },
+    {
+      "comedian_slug": "daniel-tosh",
+      "special_slug": "completely-serious-2007",
+      "r2_special_key": "comedians/daniel-tosh/specials/completely-serious-2007.json"
+    },
+    {
+      "comedian_slug": "daniel-tosh",
+      "special_slug": "happy-thoughts-2011",
+      "r2_special_key": "comedians/daniel-tosh/specials/happy-thoughts-2011.json"
+    },
+    {
+      "comedian_slug": "daniel-tosh",
+      "special_slug": "people-pleaser-2016",
+      "r2_special_key": "comedians/daniel-tosh/specials/people-pleaser-2016.json"
+    },
+    {
+      "comedian_slug": "dave-allen",
+      "special_slug": "first-day-at-catholic-school-scene",
+      "r2_special_key": "comedians/dave-allen/specials/first-day-at-catholic-school-scene.json"
+    },
+    {
+      "comedian_slug": "dave-allen",
+      "special_slug": "first-day-at-catholic-school-transcript",
+      "r2_special_key": "comedians/dave-allen/specials/first-day-at-catholic-school-transcript.json"
+    },
+    {
+      "comedian_slug": "dave-attell",
+      "special_slug": "hot-cross-buns-2024",
+      "r2_special_key": "comedians/dave-attell/specials/hot-cross-buns-2024.json"
+    },
+    {
+      "comedian_slug": "dave-attell",
+      "special_slug": "road-work-2014",
+      "r2_special_key": "comedians/dave-attell/specials/road-work-2014.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "8-46",
+      "r2_special_key": "comedians/dave-chappelle/specials/8-46.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "deep-in-the-heart-of-texas-2017",
+      "r2_special_key": "comedians/dave-chappelle/specials/deep-in-the-heart-of-texas-2017.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "equanimity-2017-transcripci-n-completa",
+      "r2_special_key": "comedians/dave-chappelle/specials/equanimity-2017-transcripci-n-completa.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "equanimity-2017",
+      "r2_special_key": "comedians/dave-chappelle/specials/equanimity-2017.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "for-what-it-s-worth-2004",
+      "r2_special_key": "comedians/dave-chappelle/specials/for-what-it-s-worth-2004.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "hbo-comedy-half-hour-1998",
+      "r2_special_key": "comedians/dave-chappelle/specials/hbo-comedy-half-hour-1998.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "hbo-half-hour-1998-traduzione-italiana",
+      "r2_special_key": "comedians/dave-chappelle/specials/hbo-half-hour-1998-traduzione-italiana.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "killin-them-softly-2000",
+      "r2_special_key": "comedians/dave-chappelle/specials/killin-them-softly-2000.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "snl-monologue-2020-scene",
+      "r2_special_key": "comedians/dave-chappelle/specials/snl-monologue-2020-scene.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "snl-monologue-2020",
+      "r2_special_key": "comedians/dave-chappelle/specials/snl-monologue-2020.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "sticks-stones-2019",
+      "r2_special_key": "comedians/dave-chappelle/specials/sticks-stones-2019.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "sticks-stones-epilogue-the-punchline",
+      "r2_special_key": "comedians/dave-chappelle/specials/sticks-stones-epilogue-the-punchline.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "the-age-of-spin-2017",
+      "r2_special_key": "comedians/dave-chappelle/specials/the-age-of-spin-2017.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "the-bird-revelation-2017-transcripci-n-completa",
+      "r2_special_key": "comedians/dave-chappelle/specials/the-bird-revelation-2017-transcripci-n-completa.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "the-bird-revelation-2017",
+      "r2_special_key": "comedians/dave-chappelle/specials/the-bird-revelation-2017.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "the-closer-2021",
+      "r2_special_key": "comedians/dave-chappelle/specials/the-closer-2021.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "the-dreamer-2023",
+      "r2_special_key": "comedians/dave-chappelle/specials/the-dreamer-2023.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "the-unstoppable-2025",
+      "r2_special_key": "comedians/dave-chappelle/specials/the-unstoppable-2025.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle",
+      "special_slug": "what-s-in-a-name-2022",
+      "r2_special_key": "comedians/dave-chappelle/specials/what-s-in-a-name-2022.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle-acceptance-speech-2019-mark-twain-prize",
+      "special_slug": "dave-chappelle-acceptance-speech-2019-mark-twain-prize",
+      "r2_special_key": "comedians/dave-chappelle-acceptance-speech-2019-mark-twain-prize/specials/dave-chappelle-acceptance-speech-2019-mark-twain-prize.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle-acceptance-speech-2019-mark-twain-prize-scene",
+      "special_slug": "dave-chappelle-acceptance-speech-2019-mark-twain-prize-scene",
+      "r2_special_key": "comedians/dave-chappelle-acceptance-speech-2019-mark-twain-prize-scene/specials/dave-chappelle-acceptance-speech-2019-mark-twain-prize-scene.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle-stand-up-monologue-snl-2022",
+      "special_slug": "dave-chappelle-stand-up-monologue-snl-2022",
+      "r2_special_key": "comedians/dave-chappelle-stand-up-monologue-snl-2022/specials/dave-chappelle-stand-up-monologue-snl-2022.json"
+    },
+    {
+      "comedian_slug": "dave-chappelle-stand-up-monologue-snl-2022-scene",
+      "special_slug": "dave-chappelle-stand-up-monologue-snl-2022-scene",
+      "r2_special_key": "comedians/dave-chappelle-stand-up-monologue-snl-2022-scene/specials/dave-chappelle-stand-up-monologue-snl-2022-scene.json"
+    },
+    {
+      "comedian_slug": "david-chappelle",
+      "special_slug": "snl-monologue-november-12-2016",
+      "r2_special_key": "comedians/david-chappelle/specials/snl-monologue-november-12-2016.json"
+    },
+    {
+      "comedian_slug": "david-cross",
+      "special_slug": "making-america-great-again-2016",
+      "r2_special_key": "comedians/david-cross/specials/making-america-great-again-2016.json"
+    },
+    {
+      "comedian_slug": "david-cross",
+      "special_slug": "oh-come-on-2019",
+      "r2_special_key": "comedians/david-cross/specials/oh-come-on-2019.json"
+    },
+    {
+      "comedian_slug": "david-cross",
+      "special_slug": "worst-daddy-in-the-world-2024",
+      "r2_special_key": "comedians/david-cross/specials/worst-daddy-in-the-world-2024.json"
+    },
+    {
+      "comedian_slug": "david-nihill",
+      "special_slug": "cultural-appreciation-2023",
+      "r2_special_key": "comedians/david-nihill/specials/cultural-appreciation-2023.json"
+    },
+    {
+      "comedian_slug": "david-spade",
+      "special_slug": "dandelion-2025",
+      "r2_special_key": "comedians/david-spade/specials/dandelion-2025.json"
+    },
+    {
+      "comedian_slug": "demetri-martin",
+      "special_slug": "demetri-deconstructed-2024",
+      "r2_special_key": "comedians/demetri-martin/specials/demetri-deconstructed-2024.json"
+    },
+    {
+      "comedian_slug": "demetri-martin",
+      "special_slug": "live-at-the-time-2015",
+      "r2_special_key": "comedians/demetri-martin/specials/live-at-the-time-2015.json"
+    },
+    {
+      "comedian_slug": "demetri-martin",
+      "special_slug": "the-overthinker-2018",
+      "r2_special_key": "comedians/demetri-martin/specials/the-overthinker-2018.json"
+    },
+    {
+      "comedian_slug": "deon-cole",
+      "special_slug": "charleen-s-boy-2022",
+      "r2_special_key": "comedians/deon-cole/specials/charleen-s-boy-2022.json"
+    },
+    {
+      "comedian_slug": "deon-cole",
+      "special_slug": "cole-hearted-2019",
+      "r2_special_key": "comedians/deon-cole/specials/cole-hearted-2019.json"
+    },
+    {
+      "comedian_slug": "deon-cole",
+      "special_slug": "ok-mister-2024",
+      "r2_special_key": "comedians/deon-cole/specials/ok-mister-2024.json"
+    },
+    {
+      "comedian_slug": "deray-davis",
+      "special_slug": "how-to-act-black-2017",
+      "r2_special_key": "comedians/deray-davis/specials/how-to-act-black-2017.json"
+    },
+    {
+      "comedian_slug": "dick-gregory",
+      "special_slug": "speech-at-st-john-s-baptist-church-may-20-1963-scene",
+      "r2_special_key": "comedians/dick-gregory/specials/speech-at-st-john-s-baptist-church-may-20-1963-scene.json"
+    },
+    {
+      "comedian_slug": "dick-gregory",
+      "special_slug": "speech-at-st-john-s-baptist-church-may-20-1963",
+      "r2_special_key": "comedians/dick-gregory/specials/speech-at-st-john-s-baptist-church-may-20-1963.json"
+    },
+    {
+      "comedian_slug": "donald-glover",
+      "special_slug": "weirdo-2012",
+      "r2_special_key": "comedians/donald-glover/specials/weirdo-2012.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope",
+      "special_slug": "beer-hall-putsch-2013",
+      "r2_special_key": "comedians/doug-stanhope/specials/beer-hall-putsch-2013.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope",
+      "special_slug": "before-turning-the-gun-on-himself-2012",
+      "r2_special_key": "comedians/doug-stanhope/specials/before-turning-the-gun-on-himself-2012.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope",
+      "special_slug": "deadbeat-hero-2004",
+      "r2_special_key": "comedians/doug-stanhope/specials/deadbeat-hero-2004.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope",
+      "special_slug": "fear-of-an-empty-bed-transcript",
+      "r2_special_key": "comedians/doug-stanhope/specials/fear-of-an-empty-bed-transcript.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope",
+      "special_slug": "fear-of-an-empty-bed",
+      "r2_special_key": "comedians/doug-stanhope/specials/fear-of-an-empty-bed.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope",
+      "special_slug": "no-refunds-2007-trascrizione-italiana",
+      "r2_special_key": "comedians/doug-stanhope/specials/no-refunds-2007-trascrizione-italiana.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope",
+      "special_slug": "no-refunds-2007",
+      "r2_special_key": "comedians/doug-stanhope/specials/no-refunds-2007.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope-on-babies-and-abortion",
+      "special_slug": "doug-stanhope-on-babies-and-abortion",
+      "r2_special_key": "comedians/doug-stanhope-on-babies-and-abortion/specials/doug-stanhope-on-babies-and-abortion.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope-on-babies-and-abortion-scene",
+      "special_slug": "doug-stanhope-on-babies-and-abortion-scene",
+      "r2_special_key": "comedians/doug-stanhope-on-babies-and-abortion-scene/specials/doug-stanhope-on-babies-and-abortion-scene.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope-on-nationalism",
+      "special_slug": "doug-stanhope-on-nationalism",
+      "r2_special_key": "comedians/doug-stanhope-on-nationalism/specials/doug-stanhope-on-nationalism.json"
+    },
+    {
+      "comedian_slug": "doug-stanhope-on-nationalism-scene",
+      "special_slug": "doug-stanhope-on-nationalism-scene",
+      "r2_special_key": "comedians/doug-stanhope-on-nationalism-scene/specials/doug-stanhope-on-nationalism-scene.json"
+    },
+    {
+      "comedian_slug": "drew-michael",
+      "special_slug": "drew-michael-2018",
+      "r2_special_key": "comedians/drew-michael/specials/drew-michael-2018.json"
+    },
+    {
+      "comedian_slug": "drew-michael",
+      "special_slug": "red-blue-green-2021",
+      "r2_special_key": "comedians/drew-michael/specials/red-blue-green-2021.json"
+    },
+    {
+      "comedian_slug": "dusty-slay",
+      "special_slug": "wet-heat-2025",
+      "r2_special_key": "comedians/dusty-slay/specials/wet-heat-2025.json"
+    },
+    {
+      "comedian_slug": "dylan-moran",
+      "special_slug": "like-totally-2006",
+      "r2_special_key": "comedians/dylan-moran/specials/like-totally-2006.json"
+    },
+    {
+      "comedian_slug": "dylan-moran",
+      "special_slug": "off-the-hook-2015",
+      "r2_special_key": "comedians/dylan-moran/specials/off-the-hook-2015.json"
+    },
+    {
+      "comedian_slug": "eddie-griffin",
+      "special_slug": "the-black-man-s-bible-1994",
+      "r2_special_key": "comedians/eddie-griffin/specials/the-black-man-s-bible-1994.json"
+    },
+    {
+      "comedian_slug": "eddie-griffin",
+      "special_slug": "undeniable-2018",
+      "r2_special_key": "comedians/eddie-griffin/specials/undeniable-2018.json"
+    },
+    {
+      "comedian_slug": "eddie-griffin",
+      "special_slug": "you-can-tell-em-i-said-it-2011",
+      "r2_special_key": "comedians/eddie-griffin/specials/you-can-tell-em-i-said-it-2011.json"
+    },
+    {
+      "comedian_slug": "eddie-izzard",
+      "special_slug": "definite-article-1996",
+      "r2_special_key": "comedians/eddie-izzard/specials/definite-article-1996.json"
+    },
+    {
+      "comedian_slug": "eddie-izzard",
+      "special_slug": "dress-to-kill-1999",
+      "r2_special_key": "comedians/eddie-izzard/specials/dress-to-kill-1999.json"
+    },
+    {
+      "comedian_slug": "eddie-izzard",
+      "special_slug": "force-majeure-live-2013",
+      "r2_special_key": "comedians/eddie-izzard/specials/force-majeure-live-2013.json"
+    },
+    {
+      "comedian_slug": "eddie-izzard",
+      "special_slug": "stripped-2009",
+      "r2_special_key": "comedians/eddie-izzard/specials/stripped-2009.json"
+    },
+    {
+      "comedian_slug": "eddie-izzard",
+      "special_slug": "unrepeatable-1994",
+      "r2_special_key": "comedians/eddie-izzard/specials/unrepeatable-1994.json"
+    },
+    {
+      "comedian_slug": "eddie-izzard-glorious-1997",
+      "special_slug": "eddie-izzard-glorious-1997",
+      "r2_special_key": "comedians/eddie-izzard-glorious-1997/specials/eddie-izzard-glorious-1997.json"
+    },
+    {
+      "comedian_slug": "eddie-murphy",
+      "special_slug": "delirious-1983",
+      "r2_special_key": "comedians/eddie-murphy/specials/delirious-1983.json"
+    },
+    {
+      "comedian_slug": "eddie-murphy",
+      "special_slug": "raw-1987",
+      "r2_special_key": "comedians/eddie-murphy/specials/raw-1987.json"
+    },
+    {
+      "comedian_slug": "ellen-degeneres",
+      "special_slug": "for-your-approval-2024",
+      "r2_special_key": "comedians/ellen-degeneres/specials/for-your-approval-2024.json"
+    },
+    {
+      "comedian_slug": "ellen-degeneres",
+      "special_slug": "relatable-2018",
+      "r2_special_key": "comedians/ellen-degeneres/specials/relatable-2018.json"
+    },
+    {
+      "comedian_slug": "ellen-degeneres",
+      "special_slug": "the-beginning-2000",
+      "r2_special_key": "comedians/ellen-degeneres/specials/the-beginning-2000.json"
+    },
+    {
+      "comedian_slug": "emily-heller",
+      "special_slug": "ice-thickeners-2019",
+      "r2_special_key": "comedians/emily-heller/specials/ice-thickeners-2019.json"
+    },
+    {
+      "comedian_slug": "enissa-amani",
+      "special_slug": "ehrenwort-2018-full-transcript",
+      "r2_special_key": "comedians/enissa-amani/specials/ehrenwort-2018-full-transcript.json"
+    },
+    {
+      "comedian_slug": "enissa-amani",
+      "special_slug": "ehrenwort-2018",
+      "r2_special_key": "comedians/enissa-amani/specials/ehrenwort-2018.json"
+    },
+    {
+      "comedian_slug": "eric-andre",
+      "special_slug": "legalize-everything-2020",
+      "r2_special_key": "comedians/eric-andre/specials/legalize-everything-2020.json"
+    },
+    {
+      "comedian_slug": "erik-griffin",
+      "special_slug": "the-ugly-truth-2017",
+      "r2_special_key": "comedians/erik-griffin/specials/the-ugly-truth-2017.json"
+    },
+    {
+      "comedian_slug": "fahim-anwar",
+      "special_slug": "there-s-no-business-like-show-business-2017",
+      "r2_special_key": "comedians/fahim-anwar/specials/there-s-no-business-like-show-business-2017.json"
+    },
+    {
+      "comedian_slug": "fern-brady",
+      "special_slug": "autistic-bikini-queen-2024",
+      "r2_special_key": "comedians/fern-brady/specials/autistic-bikini-queen-2024.json"
+    },
+    {
+      "comedian_slug": "fern-brady",
+      "special_slug": "power-chaos-2021",
+      "r2_special_key": "comedians/fern-brady/specials/power-chaos-2021.json"
+    },
+    {
+      "comedian_slug": "fortune-feimster",
+      "special_slug": "crushing-it-2024",
+      "r2_special_key": "comedians/fortune-feimster/specials/crushing-it-2024.json"
+    },
+    {
+      "comedian_slug": "fortune-feimster",
+      "special_slug": "good-fortune-2022",
+      "r2_special_key": "comedians/fortune-feimster/specials/good-fortune-2022.json"
+    },
+    {
+      "comedian_slug": "fred-armisen",
+      "special_slug": "standup-for-drummers-2018",
+      "r2_special_key": "comedians/fred-armisen/specials/standup-for-drummers-2018.json"
+    },
+    {
+      "comedian_slug": "gabriel-fluffy-iglesias",
+      "special_slug": "one-show-fits-all-2019",
+      "r2_special_key": "comedians/gabriel-fluffy-iglesias/specials/one-show-fits-all-2019.json"
+    },
+    {
+      "comedian_slug": "gabriel-iglesias",
+      "special_slug": "hot-and-fluffy-2007",
+      "r2_special_key": "comedians/gabriel-iglesias/specials/hot-and-fluffy-2007.json"
+    },
+    {
+      "comedian_slug": "gabriel-iglesias",
+      "special_slug": "i-m-not-fat-i-m-fluffy-2009",
+      "r2_special_key": "comedians/gabriel-iglesias/specials/i-m-not-fat-i-m-fluffy-2009.json"
+    },
+    {
+      "comedian_slug": "gabriel-iglesias",
+      "special_slug": "i-m-sorry-for-what-i-said-when-i-was-hungry-2016",
+      "r2_special_key": "comedians/gabriel-iglesias/specials/i-m-sorry-for-what-i-said-when-i-was-hungry-2016.json"
+    },
+    {
+      "comedian_slug": "gabriel-iglesias",
+      "special_slug": "legend-of-fluffy-2025",
+      "r2_special_key": "comedians/gabriel-iglesias/specials/legend-of-fluffy-2025.json"
+    },
+    {
+      "comedian_slug": "gabriel-iglesias",
+      "special_slug": "stadium-fluffy-2022",
+      "r2_special_key": "comedians/gabriel-iglesias/specials/stadium-fluffy-2022.json"
+    },
+    {
+      "comedian_slug": "gary-gulman",
+      "special_slug": "born-on-3rd-base-2023",
+      "r2_special_key": "comedians/gary-gulman/specials/born-on-3rd-base-2023.json"
+    },
+    {
+      "comedian_slug": "gary-gulman",
+      "special_slug": "it-s-about-time-2016",
+      "r2_special_key": "comedians/gary-gulman/specials/it-s-about-time-2016.json"
+    },
+    {
+      "comedian_slug": "gary-gulman",
+      "special_slug": "the-great-depresh-2019",
+      "r2_special_key": "comedians/gary-gulman/specials/the-great-depresh-2019.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "again-1978",
+      "r2_special_key": "comedians/george-carlin/specials/again-1978.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "back-in-town-1996",
+      "r2_special_key": "comedians/george-carlin/specials/back-in-town-1996.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "carlin-on-campus-1984",
+      "r2_special_key": "comedians/george-carlin/specials/carlin-on-campus-1984.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "complaints-and-grievances-2001",
+      "r2_special_key": "comedians/george-carlin/specials/complaints-and-grievances-2001.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "doin-it-again-1990",
+      "r2_special_key": "comedians/george-carlin/specials/doin-it-again-1990.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "dumb-americans-2006",
+      "r2_special_key": "comedians/george-carlin/specials/dumb-americans-2006.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "i-m-glad-i-m-dead-2024",
+      "r2_special_key": "comedians/george-carlin/specials/i-m-glad-i-m-dead-2024.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "it-s-bad-for-ya-2008-full-transcript",
+      "r2_special_key": "comedians/george-carlin/specials/it-s-bad-for-ya-2008-full-transcript.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "it-s-bad-for-ya-2008-testo-italiano-completo",
+      "r2_special_key": "comedians/george-carlin/specials/it-s-bad-for-ya-2008-testo-italiano-completo.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "it-s-bad-for-ya-2008",
+      "r2_special_key": "comedians/george-carlin/specials/it-s-bad-for-ya-2008.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "jamming-in-new-york-1992-testo-italiano-completo",
+      "r2_special_key": "comedians/george-carlin/specials/jamming-in-new-york-1992-testo-italiano-completo.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "jamming-in-new-york-1992",
+      "r2_special_key": "comedians/george-carlin/specials/jamming-in-new-york-1992.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "life-is-worth-losing-2006",
+      "r2_special_key": "comedians/george-carlin/specials/life-is-worth-losing-2006.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "playing-with-your-head-1986",
+      "r2_special_key": "comedians/george-carlin/specials/playing-with-your-head-1986.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "politically-correct-language-scene",
+      "r2_special_key": "comedians/george-carlin/specials/politically-correct-language-scene.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "politically-correct-language",
+      "r2_special_key": "comedians/george-carlin/specials/politically-correct-language.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "religion-is-bullshit-scene",
+      "r2_special_key": "comedians/george-carlin/specials/religion-is-bullshit-scene.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "religion-is-bullshit-transcript",
+      "r2_special_key": "comedians/george-carlin/specials/religion-is-bullshit-transcript.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "saturday-night-live-monologue-1975-scene",
+      "r2_special_key": "comedians/george-carlin/specials/saturday-night-live-monologue-1975-scene.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "saturday-night-live-monologue-1975",
+      "r2_special_key": "comedians/george-carlin/specials/saturday-night-live-monologue-1975.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "saving-the-planet-scene",
+      "r2_special_key": "comedians/george-carlin/specials/saving-the-planet-scene.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "seven-words-you-can-never-say-on-television-scene",
+      "r2_special_key": "comedians/george-carlin/specials/seven-words-you-can-never-say-on-television-scene.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "seven-words-you-can-never-say-on-television",
+      "r2_special_key": "comedians/george-carlin/specials/seven-words-you-can-never-say-on-television.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "the-indian-drill-sergeant-scene",
+      "r2_special_key": "comedians/george-carlin/specials/the-indian-drill-sergeant-scene.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "the-indian-drill-sergeant",
+      "r2_special_key": "comedians/george-carlin/specials/the-indian-drill-sergeant.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "what-am-i-doing-in-new-jersey-1988",
+      "r2_special_key": "comedians/george-carlin/specials/what-am-i-doing-in-new-jersey-1988.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "you-are-all-diseased-1999-testo-italiano-completo",
+      "r2_special_key": "comedians/george-carlin/specials/you-are-all-diseased-1999-testo-italiano-completo.json"
+    },
+    {
+      "comedian_slug": "george-carlin",
+      "special_slug": "you-are-all-diseased-1999",
+      "r2_special_key": "comedians/george-carlin/specials/you-are-all-diseased-1999.json"
+    },
+    {
+      "comedian_slug": "george-carlin-at-usc-1977",
+      "special_slug": "george-carlin-at-usc-1977",
+      "r2_special_key": "comedians/george-carlin-at-usc-1977/specials/george-carlin-at-usc-1977.json"
+    },
+    {
+      "comedian_slug": "george-carlin-on-abortion-and-pro-lifers",
+      "special_slug": "george-carlin-on-abortion-and-pro-lifers",
+      "r2_special_key": "comedians/george-carlin-on-abortion-and-pro-lifers/specials/george-carlin-on-abortion-and-pro-lifers.json"
+    },
+    {
+      "comedian_slug": "george-carlin-on-abortion-and-pro-lifers-scene",
+      "special_slug": "george-carlin-on-abortion-and-pro-lifers-scene",
+      "r2_special_key": "comedians/george-carlin-on-abortion-and-pro-lifers-scene/specials/george-carlin-on-abortion-and-pro-lifers-scene.json"
+    },
+    {
+      "comedian_slug": "george-lopez",
+      "special_slug": "we-ll-do-it-for-half-2020",
+      "r2_special_key": "comedians/george-lopez/specials/we-ll-do-it-for-half-2020.json"
+    },
+    {
+      "comedian_slug": "greer-barnes",
+      "special_slug": "i-smoke-weed-and-i-watch-nature-shows",
+      "r2_special_key": "comedians/greer-barnes/specials/i-smoke-weed-and-i-watch-nature-shows.json"
+    },
+    {
+      "comedian_slug": "greg-davies",
+      "special_slug": "you-magnificent-beast-2018",
+      "r2_special_key": "comedians/greg-davies/specials/you-magnificent-beast-2018.json"
+    },
+    {
+      "comedian_slug": "hannah-berner",
+      "special_slug": "none-of-my-business-2026",
+      "r2_special_key": "comedians/hannah-berner/specials/none-of-my-business-2026.json"
+    },
+    {
+      "comedian_slug": "hannah-berner",
+      "special_slug": "we-ride-at-dawn-2024",
+      "r2_special_key": "comedians/hannah-berner/specials/we-ride-at-dawn-2024.json"
+    },
+    {
+      "comedian_slug": "hannah-einbinder",
+      "special_slug": "everything-must-go-2024",
+      "r2_special_key": "comedians/hannah-einbinder/specials/everything-must-go-2024.json"
+    },
+    {
+      "comedian_slug": "hannah-gadsby",
+      "special_slug": "douglas-2020",
+      "r2_special_key": "comedians/hannah-gadsby/specials/douglas-2020.json"
+    },
+    {
+      "comedian_slug": "hannah-gadsby",
+      "special_slug": "gender-agenda-2024",
+      "r2_special_key": "comedians/hannah-gadsby/specials/gender-agenda-2024.json"
+    },
+    {
+      "comedian_slug": "hannah-gadsby",
+      "special_slug": "nanette-2018",
+      "r2_special_key": "comedians/hannah-gadsby/specials/nanette-2018.json"
+    },
+    {
+      "comedian_slug": "hannibal-buress",
+      "special_slug": "comedy-camisado-2016",
+      "r2_special_key": "comedians/hannibal-buress/specials/comedy-camisado-2016.json"
+    },
+    {
+      "comedian_slug": "hasan-minhaj",
+      "special_slug": "homecoming-king-2017",
+      "r2_special_key": "comedians/hasan-minhaj/specials/homecoming-king-2017.json"
+    },
+    {
+      "comedian_slug": "hasan-minhaj",
+      "special_slug": "off-with-his-head-2024",
+      "r2_special_key": "comedians/hasan-minhaj/specials/off-with-his-head-2024.json"
+    },
+    {
+      "comedian_slug": "hasan-minhaj-at-2017-white-house-correspondents-dinner",
+      "special_slug": "hasan-minhaj-at-2017-white-house-correspondents-dinner",
+      "r2_special_key": "comedians/hasan-minhaj-at-2017-white-house-correspondents-dinner/specials/hasan-minhaj-at-2017-white-house-correspondents-dinner.json"
+    },
+    {
+      "comedian_slug": "henry-rollins",
+      "special_slug": "keep-talking-pal-2018",
+      "r2_special_key": "comedians/henry-rollins/specials/keep-talking-pal-2018.json"
+    },
+    {
+      "comedian_slug": "iliza-shlesinger",
+      "special_slug": "a-different-animal-2025",
+      "r2_special_key": "comedians/iliza-shlesinger/specials/a-different-animal-2025.json"
+    },
+    {
+      "comedian_slug": "iliza-shlesinger",
+      "special_slug": "confirmed-kills-2016",
+      "r2_special_key": "comedians/iliza-shlesinger/specials/confirmed-kills-2016.json"
+    },
+    {
+      "comedian_slug": "iliza-shlesinger",
+      "special_slug": "elder-millennial-2018",
+      "r2_special_key": "comedians/iliza-shlesinger/specials/elder-millennial-2018.json"
+    },
+    {
+      "comedian_slug": "iliza-shlesinger",
+      "special_slug": "freezing-hot-2015",
+      "r2_special_key": "comedians/iliza-shlesinger/specials/freezing-hot-2015.json"
+    },
+    {
+      "comedian_slug": "iliza-shlesinger",
+      "special_slug": "hot-forever-2022",
+      "r2_special_key": "comedians/iliza-shlesinger/specials/hot-forever-2022.json"
+    },
+    {
+      "comedian_slug": "iliza-shlesinger",
+      "special_slug": "unveiled-2019",
+      "r2_special_key": "comedians/iliza-shlesinger/specials/unveiled-2019.json"
+    },
+    {
+      "comedian_slug": "iliza-shlesinger",
+      "special_slug": "war-paint-2013",
+      "r2_special_key": "comedians/iliza-shlesinger/specials/war-paint-2013.json"
+    },
+    {
+      "comedian_slug": "ismo",
+      "special_slug": "hello-2026",
+      "r2_special_key": "comedians/ismo/specials/hello-2026.json"
+    },
+    {
+      "comedian_slug": "jack-whitehall",
+      "special_slug": "at-large-2017",
+      "r2_special_key": "comedians/jack-whitehall/specials/at-large-2017.json"
+    },
+    {
+      "comedian_slug": "jack-whitehall",
+      "special_slug": "i-m-only-joking-2020",
+      "r2_special_key": "comedians/jack-whitehall/specials/i-m-only-joking-2020.json"
+    },
+    {
+      "comedian_slug": "jack-whitehall",
+      "special_slug": "settle-down-2024",
+      "r2_special_key": "comedians/jack-whitehall/specials/settle-down-2024.json"
+    },
+    {
+      "comedian_slug": "jacqueline-novak",
+      "special_slug": "get-on-your-knees-2024",
+      "r2_special_key": "comedians/jacqueline-novak/specials/get-on-your-knees-2024.json"
+    },
+    {
+      "comedian_slug": "jamie-foxx",
+      "special_slug": "what-had-happened-was-2024",
+      "r2_special_key": "comedians/jamie-foxx/specials/what-had-happened-was-2024.json"
+    },
+    {
+      "comedian_slug": "jared-freid",
+      "special_slug": "37-and-single-2023",
+      "r2_special_key": "comedians/jared-freid/specials/37-and-single-2023.json"
+    },
+    {
+      "comedian_slug": "jeff-arcuri",
+      "special_slug": "nice-to-meet-you-2026",
+      "r2_special_key": "comedians/jeff-arcuri/specials/nice-to-meet-you-2026.json"
+    },
+    {
+      "comedian_slug": "jeff-dunham",
+      "special_slug": "i-m-with-cupid-2024",
+      "r2_special_key": "comedians/jeff-dunham/specials/i-m-with-cupid-2024.json"
+    },
+    {
+      "comedian_slug": "jeff-dunham-s-scrooged-up-holiday-special-2024",
+      "special_slug": "jeff-dunham-s-scrooged-up-holiday-special-2024",
+      "r2_special_key": "comedians/jeff-dunham-s-scrooged-up-holiday-special-2024/specials/jeff-dunham-s-scrooged-up-holiday-special-2024.json"
+    },
+    {
+      "comedian_slug": "jeff-foxworthy",
+      "special_slug": "totally-committed-1998",
+      "r2_special_key": "comedians/jeff-foxworthy/specials/totally-committed-1998.json"
+    },
+    {
+      "comedian_slug": "jeff-foxworthy-larry-the-cable-guy",
+      "special_slug": "we-ve-been-thinking-2016",
+      "r2_special_key": "comedians/jeff-foxworthy-larry-the-cable-guy/specials/we-ve-been-thinking-2016.json"
+    },
+    {
+      "comedian_slug": "jen-kirkman",
+      "special_slug": "just-keep-livin-2017",
+      "r2_special_key": "comedians/jen-kirkman/specials/just-keep-livin-2017.json"
+    },
+    {
+      "comedian_slug": "jenny-slate",
+      "special_slug": "seasoned-professional-2024",
+      "r2_special_key": "comedians/jenny-slate/specials/seasoned-professional-2024.json"
+    },
+    {
+      "comedian_slug": "jerrod-carmichael",
+      "special_slug": "rothaniel-2022",
+      "r2_special_key": "comedians/jerrod-carmichael/specials/rothaniel-2022.json"
+    },
+    {
+      "comedian_slug": "jerry-seinfeld",
+      "special_slug": "23-hours-to-kill-2020",
+      "r2_special_key": "comedians/jerry-seinfeld/specials/23-hours-to-kill-2020.json"
+    },
+    {
+      "comedian_slug": "jerry-seinfeld",
+      "special_slug": "i-m-telling-you-for-the-last-time-1998",
+      "r2_special_key": "comedians/jerry-seinfeld/specials/i-m-telling-you-for-the-last-time-1998.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "cinco-2017",
+      "r2_special_key": "comedians/jim-gaffigan/specials/cinco-2017.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "comedy-monster-2021",
+      "r2_special_key": "comedians/jim-gaffigan/specials/comedy-monster-2021.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "dark-pale-2023",
+      "r2_special_key": "comedians/jim-gaffigan/specials/dark-pale-2023.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "live-from-old-forester-the-bourbon-set-2025",
+      "r2_special_key": "comedians/jim-gaffigan/specials/live-from-old-forester-the-bourbon-set-2025.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "noble-ape-2018",
+      "r2_special_key": "comedians/jim-gaffigan/specials/noble-ape-2018.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "obsessed-2014",
+      "r2_special_key": "comedians/jim-gaffigan/specials/obsessed-2014.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "quality-time-2019",
+      "r2_special_key": "comedians/jim-gaffigan/specials/quality-time-2019.json"
+    },
+    {
+      "comedian_slug": "jim-gaffigan",
+      "special_slug": "the-skinny-2024",
+      "r2_special_key": "comedians/jim-gaffigan/specials/the-skinny-2024.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "alcoholocaust-2010",
+      "r2_special_key": "comedians/jim-jefferies/specials/alcoholocaust-2010.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "bare-2014",
+      "r2_special_key": "comedians/jim-jefferies/specials/bare-2014.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "contraband-2008",
+      "r2_special_key": "comedians/jim-jefferies/specials/contraband-2008.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "freedumb-2016",
+      "r2_special_key": "comedians/jim-jefferies/specials/freedumb-2016.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "high-n-dry-2023",
+      "r2_special_key": "comedians/jim-jefferies/specials/high-n-dry-2023.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "i-swear-to-god-2009",
+      "r2_special_key": "comedians/jim-jefferies/specials/i-swear-to-god-2009.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "intolerant-2020",
+      "r2_special_key": "comedians/jim-jefferies/specials/intolerant-2020.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "this-is-me-now-2018",
+      "r2_special_key": "comedians/jim-jefferies/specials/this-is-me-now-2018.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies",
+      "special_slug": "two-limb-policy-2025",
+      "r2_special_key": "comedians/jim-jefferies/specials/two-limb-policy-2025.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies-e-il-controllo-delle-armi-in-america",
+      "special_slug": "jim-jefferies-e-il-controllo-delle-armi-in-america",
+      "r2_special_key": "comedians/jim-jefferies-e-il-controllo-delle-armi-in-america/specials/jim-jefferies-e-il-controllo-delle-armi-in-america.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies-e-il-controllo-delle-armi-in-america-scene",
+      "special_slug": "jim-jefferies-e-il-controllo-delle-armi-in-america-scene",
+      "r2_special_key": "comedians/jim-jefferies-e-il-controllo-delle-armi-in-america-scene/specials/jim-jefferies-e-il-controllo-delle-armi-in-america-scene.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies-on-gun-control-full-transcript",
+      "special_slug": "jim-jefferies-on-gun-control-full-transcript",
+      "r2_special_key": "comedians/jim-jefferies-on-gun-control-full-transcript/specials/jim-jefferies-on-gun-control-full-transcript.json"
+    },
+    {
+      "comedian_slug": "jim-jefferies-on-gun-control-scene",
+      "special_slug": "jim-jefferies-on-gun-control-scene",
+      "r2_special_key": "comedians/jim-jefferies-on-gun-control-scene/specials/jim-jefferies-on-gun-control-scene.json"
+    },
+    {
+      "comedian_slug": "jim-norton",
+      "special_slug": "american-degenerate-2013",
+      "r2_special_key": "comedians/jim-norton/specials/american-degenerate-2013.json"
+    },
+    {
+      "comedian_slug": "jim-norton",
+      "special_slug": "contextually-inadequate-2015",
+      "r2_special_key": "comedians/jim-norton/specials/contextually-inadequate-2015.json"
+    },
+    {
+      "comedian_slug": "jim-norton",
+      "special_slug": "monster-rain-2007",
+      "r2_special_key": "comedians/jim-norton/specials/monster-rain-2007.json"
+    },
+    {
+      "comedian_slug": "jim-norton",
+      "special_slug": "mouthful-of-shame-2017-transcript",
+      "r2_special_key": "comedians/jim-norton/specials/mouthful-of-shame-2017-transcript.json"
+    },
+    {
+      "comedian_slug": "jim-norton",
+      "special_slug": "mouthful-of-shame-2017",
+      "r2_special_key": "comedians/jim-norton/specials/mouthful-of-shame-2017.json"
+    },
+    {
+      "comedian_slug": "jimmy-carr",
+      "special_slug": "being-funny-2011",
+      "r2_special_key": "comedians/jimmy-carr/specials/being-funny-2011.json"
+    },
+    {
+      "comedian_slug": "jimmy-carr",
+      "special_slug": "funny-business-2016",
+      "r2_special_key": "comedians/jimmy-carr/specials/funny-business-2016.json"
+    },
+    {
+      "comedian_slug": "jimmy-carr",
+      "special_slug": "laughing-and-joking-2013",
+      "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json"
+    },
+    {
+      "comedian_slug": "jimmy-carr",
+      "special_slug": "natural-born-killer-2024",
+      "r2_special_key": "comedians/jimmy-carr/specials/natural-born-killer-2024.json"
+    },
+    {
+      "comedian_slug": "jimmy-carr",
+      "special_slug": "the-best-of-ultimate-gold-greatest-hits-2019",
+      "r2_special_key": "comedians/jimmy-carr/specials/the-best-of-ultimate-gold-greatest-hits-2019.json"
+    },
+    {
+      "comedian_slug": "jimmy-o-yang",
+      "special_slug": "good-deal-2020",
+      "r2_special_key": "comedians/jimmy-o-yang/specials/good-deal-2020.json"
+    },
+    {
+      "comedian_slug": "jo-koy",
+      "special_slug": "comin-in-hot-2019",
+      "r2_special_key": "comedians/jo-koy/specials/comin-in-hot-2019.json"
+    },
+    {
+      "comedian_slug": "jo-koy",
+      "special_slug": "lights-out-2012",
+      "r2_special_key": "comedians/jo-koy/specials/lights-out-2012.json"
+    },
+    {
+      "comedian_slug": "jo-koy",
+      "special_slug": "live-from-brooklyn-2024",
+      "r2_special_key": "comedians/jo-koy/specials/live-from-brooklyn-2024.json"
+    },
+    {
+      "comedian_slug": "jo-koy",
+      "special_slug": "live-from-seattle-2017",
+      "r2_special_key": "comedians/jo-koy/specials/live-from-seattle-2017.json"
+    },
+    {
+      "comedian_slug": "joe-devito",
+      "special_slug": "middle-aged-dating",
+      "r2_special_key": "comedians/joe-devito/specials/middle-aged-dating.json"
+    },
+    {
+      "comedian_slug": "joe-list",
+      "special_slug": "i-hate-myself-2020",
+      "r2_special_key": "comedians/joe-list/specials/i-hate-myself-2020.json"
+    },
+    {
+      "comedian_slug": "joe-mande-s-award-winning-comedy-special-2017",
+      "special_slug": "joe-mande-s-award-winning-comedy-special-2017",
+      "r2_special_key": "comedians/joe-mande-s-award-winning-comedy-special-2017/specials/joe-mande-s-award-winning-comedy-special-2017.json"
+    },
+    {
+      "comedian_slug": "joe-rogan",
+      "special_slug": "burn-the-boats-2024",
+      "r2_special_key": "comedians/joe-rogan/specials/burn-the-boats-2024.json"
+    },
+    {
+      "comedian_slug": "joe-rogan",
+      "special_slug": "strange-times-2018",
+      "r2_special_key": "comedians/joe-rogan/specials/strange-times-2018.json"
+    },
+    {
+      "comedian_slug": "joe-rogan",
+      "special_slug": "triggered-2016",
+      "r2_special_key": "comedians/joe-rogan/specials/triggered-2016.json"
+    },
+    {
+      "comedian_slug": "john-mulaney",
+      "special_slug": "baby-j-2023",
+      "r2_special_key": "comedians/john-mulaney/specials/baby-j-2023.json"
+    },
+    {
+      "comedian_slug": "john-mulaney",
+      "special_slug": "kid-gorgeous-at-radio-city-2018",
+      "r2_special_key": "comedians/john-mulaney/specials/kid-gorgeous-at-radio-city-2018.json"
+    },
+    {
+      "comedian_slug": "john-mulaney",
+      "special_slug": "new-in-town-2012",
+      "r2_special_key": "comedians/john-mulaney/specials/new-in-town-2012.json"
+    },
+    {
+      "comedian_slug": "john-mulaney",
+      "special_slug": "snl-monologue-2018",
+      "r2_special_key": "comedians/john-mulaney/specials/snl-monologue-2018.json"
+    },
+    {
+      "comedian_slug": "john-mulaney",
+      "special_slug": "snl-monologue-2020-scene",
+      "r2_special_key": "comedians/john-mulaney/specials/snl-monologue-2020-scene.json"
+    },
+    {
+      "comedian_slug": "john-mulaney",
+      "special_slug": "snl-monologue-2020",
+      "r2_special_key": "comedians/john-mulaney/specials/snl-monologue-2020.json"
+    },
+    {
+      "comedian_slug": "john-mulaney",
+      "special_slug": "the-comeback-kid-2015",
+      "r2_special_key": "comedians/john-mulaney/specials/the-comeback-kid-2015.json"
+    },
+    {
+      "comedian_slug": "jon-stewart-acceptance-speech-2022-mark-twain-prize",
+      "special_slug": "jon-stewart-acceptance-speech-2022-mark-twain-prize",
+      "r2_special_key": "comedians/jon-stewart-acceptance-speech-2022-mark-twain-prize/specials/jon-stewart-acceptance-speech-2022-mark-twain-prize.json"
+    },
+    {
+      "comedian_slug": "judah-friedlander",
+      "special_slug": "america-is-the-greatest-country-in-the-united-states-2017",
+      "r2_special_key": "comedians/judah-friedlander/specials/america-is-the-greatest-country-in-the-united-states-2017.json"
+    },
+    {
+      "comedian_slug": "kate-berlant",
+      "special_slug": "cinnamon-in-the-wind-2022",
+      "r2_special_key": "comedians/kate-berlant/specials/cinnamon-in-the-wind-2022.json"
+    },
+    {
+      "comedian_slug": "kate-berlant",
+      "special_slug": "parmesan-2026",
+      "r2_special_key": "comedians/kate-berlant/specials/parmesan-2026.json"
+    },
+    {
+      "comedian_slug": "katherine-ryan",
+      "special_slug": "glitter-room-2019",
+      "r2_special_key": "comedians/katherine-ryan/specials/glitter-room-2019.json"
+    },
+    {
+      "comedian_slug": "katherine-ryan",
+      "special_slug": "in-trouble-2017",
+      "r2_special_key": "comedians/katherine-ryan/specials/in-trouble-2017.json"
+    },
+    {
+      "comedian_slug": "kathleen-madigan",
+      "special_slug": "bothering-jesus-2016",
+      "r2_special_key": "comedians/kathleen-madigan/specials/bothering-jesus-2016.json"
+    },
+    {
+      "comedian_slug": "kathleen-madigan",
+      "special_slug": "hunting-bigfoot-2023",
+      "r2_special_key": "comedians/kathleen-madigan/specials/hunting-bigfoot-2023.json"
+    },
+    {
+      "comedian_slug": "kathleen-madigan",
+      "special_slug": "madigan-again-2013",
+      "r2_special_key": "comedians/kathleen-madigan/specials/madigan-again-2013.json"
+    },
+    {
+      "comedian_slug": "katt-williams",
+      "special_slug": "great-america-2018",
+      "r2_special_key": "comedians/katt-williams/specials/great-america-2018.json"
+    },
+    {
+      "comedian_slug": "katt-williams",
+      "special_slug": "live-2006",
+      "r2_special_key": "comedians/katt-williams/specials/live-2006.json"
+    },
+    {
+      "comedian_slug": "katt-williams",
+      "special_slug": "woke-foke-2024",
+      "r2_special_key": "comedians/katt-williams/specials/woke-foke-2024.json"
+    },
+    {
+      "comedian_slug": "kavin-jay",
+      "special_slug": "everybody-calm-down-2018",
+      "r2_special_key": "comedians/kavin-jay/specials/everybody-calm-down-2018.json"
+    },
+    {
+      "comedian_slug": "keith-robinson",
+      "special_slug": "different-strokes-2024",
+      "r2_special_key": "comedians/keith-robinson/specials/different-strokes-2024.json"
+    },
+    {
+      "comedian_slug": "kelsey-cook",
+      "special_slug": "happy-hour-2026",
+      "r2_special_key": "comedians/kelsey-cook/specials/happy-hour-2026.json"
+    },
+    {
+      "comedian_slug": "kelsey-cook",
+      "special_slug": "the-hustler-2023",
+      "r2_special_key": "comedians/kelsey-cook/specials/the-hustler-2023.json"
+    },
+    {
+      "comedian_slug": "ken-jeong",
+      "special_slug": "you-complete-me-ho-2019",
+      "r2_special_key": "comedians/ken-jeong/specials/you-complete-me-ho-2019.json"
+    },
+    {
+      "comedian_slug": "kenny-sebastian-don-t-be-that-guy-2017",
+      "special_slug": "kenny-sebastian-don-t-be-that-guy-2017",
+      "r2_special_key": "comedians/kenny-sebastian-don-t-be-that-guy-2017/specials/kenny-sebastian-don-t-be-that-guy-2017.json"
+    },
+    {
+      "comedian_slug": "kevin-bridges",
+      "special_slug": "a-whole-different-story-2015",
+      "r2_special_key": "comedians/kevin-bridges/specials/a-whole-different-story-2015.json"
+    },
+    {
+      "comedian_slug": "kevin-bridges",
+      "special_slug": "the-overdue-catch-up-2023",
+      "r2_special_key": "comedians/kevin-bridges/specials/the-overdue-catch-up-2023.json"
+    },
+    {
+      "comedian_slug": "kevin-bridges",
+      "special_slug": "the-story-continues-2012",
+      "r2_special_key": "comedians/kevin-bridges/specials/the-story-continues-2012.json"
+    },
+    {
+      "comedian_slug": "kevin-bridges",
+      "special_slug": "the-story-so-far-live-in-glasgow-2010",
+      "r2_special_key": "comedians/kevin-bridges/specials/the-story-so-far-live-in-glasgow-2010.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "gun-compartment-scene",
+      "r2_special_key": "comedians/kevin-hart/specials/gun-compartment-scene.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "gun-compartment-transcript",
+      "r2_special_key": "comedians/kevin-hart/specials/gun-compartment-transcript.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "irresponsible-2019",
+      "r2_special_key": "comedians/kevin-hart/specials/irresponsible-2019.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "let-me-explain-2013",
+      "r2_special_key": "comedians/kevin-hart/specials/let-me-explain-2013.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "seriously-funny-2010",
+      "r2_special_key": "comedians/kevin-hart/specials/seriously-funny-2010.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "the-kennedy-center-mark-twain-prize-for-american-humor-2024-",
+      "r2_special_key": "comedians/kevin-hart/specials/the-kennedy-center-mark-twain-prize-for-american-humor-2024-.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "what-now-2016",
+      "r2_special_key": "comedians/kevin-hart/specials/what-now-2016.json"
+    },
+    {
+      "comedian_slug": "kevin-hart",
+      "special_slug": "zero-f-ks-given-2020",
+      "r2_special_key": "comedians/kevin-hart/specials/zero-f-ks-given-2020.json"
+    },
+    {
+      "comedian_slug": "kevin-james",
+      "special_slug": "irregardless-2024",
+      "r2_special_key": "comedians/kevin-james/specials/irregardless-2024.json"
+    },
+    {
+      "comedian_slug": "kevin-james",
+      "special_slug": "never-don-t-give-up-2018",
+      "r2_special_key": "comedians/kevin-james/specials/never-don-t-give-up-2018.json"
+    },
+    {
+      "comedian_slug": "kevin-smith",
+      "special_slug": "silent-but-deadly-2018",
+      "r2_special_key": "comedians/kevin-smith/specials/silent-but-deadly-2018.json"
+    },
+    {
+      "comedian_slug": "kyle-kinane",
+      "special_slug": "loose-in-chicago-2016",
+      "r2_special_key": "comedians/kyle-kinane/specials/loose-in-chicago-2016.json"
+    },
+    {
+      "comedian_slug": "kyle-kinane",
+      "special_slug": "whiskey-icarus-2012",
+      "r2_special_key": "comedians/kyle-kinane/specials/whiskey-icarus-2012.json"
+    },
+    {
+      "comedian_slug": "langston-kerman",
+      "special_slug": "bad-poetry-2024",
+      "r2_special_key": "comedians/langston-kerman/specials/bad-poetry-2024.json"
+    },
+    {
+      "comedian_slug": "larry-the-cable-guy-remain-seated-2020",
+      "special_slug": "larry-the-cable-guy-remain-seated-2020",
+      "r2_special_key": "comedians/larry-the-cable-guy-remain-seated-2020/specials/larry-the-cable-guy-remain-seated-2020.json"
+    },
+    {
+      "comedian_slug": "latin-history-for-morons",
+      "special_slug": "john-leguizamo-s-road-to-broadway-2018",
+      "r2_special_key": "comedians/latin-history-for-morons/specials/john-leguizamo-s-road-to-broadway-2018.json"
+    },
+    {
+      "comedian_slug": "leanne-morgan",
+      "special_slug": "i-m-every-woman-2023",
+      "r2_special_key": "comedians/leanne-morgan/specials/i-m-every-woman-2023.json"
+    },
+    {
+      "comedian_slug": "lee-mack",
+      "special_slug": "going-out-live-2010",
+      "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json"
+    },
+    {
+      "comedian_slug": "lee-mack",
+      "special_slug": "live-2007",
+      "r2_special_key": "comedians/lee-mack/specials/live-2007.json"
+    },
+    {
+      "comedian_slug": "lenny-bruce",
+      "special_slug": "the-berkeley-concert-1965",
+      "r2_special_key": "comedians/lenny-bruce/specials/the-berkeley-concert-1965.json"
+    },
+    {
+      "comedian_slug": "lewis-black",
+      "special_slug": "black-to-the-future-2016",
+      "r2_special_key": "comedians/lewis-black/specials/black-to-the-future-2016.json"
+    },
+    {
+      "comedian_slug": "lewis-black",
+      "special_slug": "tragically-i-need-you-2023",
+      "r2_special_key": "comedians/lewis-black/specials/tragically-i-need-you-2023.json"
+    },
+    {
+      "comedian_slug": "lisa-lampanelli",
+      "special_slug": "back-to-the-drawing-board-2015",
+      "r2_special_key": "comedians/lisa-lampanelli/specials/back-to-the-drawing-board-2015.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "2017",
+      "r2_special_key": "comedians/louis-c-k/specials/2017.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "chewed-up-2008",
+      "r2_special_key": "comedians/louis-c-k/specials/chewed-up-2008.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "hilarious-2010",
+      "r2_special_key": "comedians/louis-c-k/specials/hilarious-2010.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "live-at-the-beacon-theatre-2011",
+      "r2_special_key": "comedians/louis-c-k/specials/live-at-the-beacon-theatre-2011.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "live-at-the-comedy-store-2015",
+      "r2_special_key": "comedians/louis-c-k/specials/live-at-the-comedy-store-2015.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "oh-my-god-2013",
+      "r2_special_key": "comedians/louis-c-k/specials/oh-my-god-2013.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "ridiculous-2026",
+      "r2_special_key": "comedians/louis-c-k/specials/ridiculous-2026.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "shameless-2007",
+      "r2_special_key": "comedians/louis-c-k/specials/shameless-2007.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "snl-monologue-may-16-2015",
+      "r2_special_key": "comedians/louis-c-k/specials/snl-monologue-may-16-2015.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "snl-monologue-s38e06-11-03-12-scene",
+      "r2_special_key": "comedians/louis-c-k/specials/snl-monologue-s38e06-11-03-12-scene.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "snl-monologue-s38e06-11-03-12",
+      "r2_special_key": "comedians/louis-c-k/specials/snl-monologue-s38e06-11-03-12.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "snl-monologue-s39e16-03-29-14-scene",
+      "r2_special_key": "comedians/louis-c-k/specials/snl-monologue-s39e16-03-29-14-scene.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "snl-monologue-s39e16-03-29-14",
+      "r2_special_key": "comedians/louis-c-k/specials/snl-monologue-s39e16-03-29-14.json"
+    },
+    {
+      "comedian_slug": "louis-c-k",
+      "special_slug": "sorry-2021",
+      "r2_special_key": "comedians/louis-c-k/specials/sorry-2021.json"
+    },
+    {
+      "comedian_slug": "louis-c-k-at-the-dolby-2023",
+      "special_slug": "louis-c-k-at-the-dolby-2023",
+      "r2_special_key": "comedians/louis-c-k-at-the-dolby-2023/specials/louis-c-k-at-the-dolby-2023.json"
+    },
+    {
+      "comedian_slug": "mae-martin",
+      "special_slug": "sap-2023",
+      "r2_special_key": "comedians/mae-martin/specials/sap-2023.json"
+    },
+    {
+      "comedian_slug": "malik-elassal",
+      "special_slug": "woke-flat-earthers",
+      "r2_special_key": "comedians/malik-elassal/specials/woke-flat-earthers.json"
+    },
+    {
+      "comedian_slug": "marc-maron",
+      "special_slug": "end-times-fun-2020",
+      "r2_special_key": "comedians/marc-maron/specials/end-times-fun-2020.json"
+    },
+    {
+      "comedian_slug": "marc-maron",
+      "special_slug": "from-bleak-to-dark-2023",
+      "r2_special_key": "comedians/marc-maron/specials/from-bleak-to-dark-2023.json"
+    },
+    {
+      "comedian_slug": "marc-maron",
+      "special_slug": "more-later-2015",
+      "r2_special_key": "comedians/marc-maron/specials/more-later-2015.json"
+    },
+    {
+      "comedian_slug": "marc-maron",
+      "special_slug": "panicked-2025",
+      "r2_special_key": "comedians/marc-maron/specials/panicked-2025.json"
+    },
+    {
+      "comedian_slug": "marc-maron",
+      "special_slug": "thinky-pain-2013",
+      "r2_special_key": "comedians/marc-maron/specials/thinky-pain-2013.json"
+    },
+    {
+      "comedian_slug": "marcello-hern-ndez-s-opening-monologue-at-the-2026-espys",
+      "special_slug": "marcello-hern-ndez-s-opening-monologue-at-the-2026-espys",
+      "r2_special_key": "comedians/marcello-hern-ndez-s-opening-monologue-at-the-2026-espys/specials/marcello-hern-ndez-s-opening-monologue-at-the-2026-espys.json"
+    },
+    {
+      "comedian_slug": "maria-bamford",
+      "special_slug": "old-baby-2017",
+      "r2_special_key": "comedians/maria-bamford/specials/old-baby-2017.json"
+    },
+    {
+      "comedian_slug": "maria-bamford",
+      "special_slug": "the-special-special-special-2012",
+      "r2_special_key": "comedians/maria-bamford/specials/the-special-special-special-2012.json"
+    },
+    {
+      "comedian_slug": "maria-bamford",
+      "special_slug": "weakness-is-the-brand-2020",
+      "r2_special_key": "comedians/maria-bamford/specials/weakness-is-the-brand-2020.json"
+    },
+    {
+      "comedian_slug": "mark-normand",
+      "special_slug": "don-t-be-yourself-2017",
+      "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json"
+    },
+    {
+      "comedian_slug": "mark-normand",
+      "special_slug": "soup-to-nuts-2023",
+      "r2_special_key": "comedians/mark-normand/specials/soup-to-nuts-2023.json"
+    },
+    {
+      "comedian_slug": "mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon",
+      "special_slug": "mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon",
+      "r2_special_key": "comedians/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon/specials/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon.json"
+    },
+    {
+      "comedian_slug": "marlon-wayans",
+      "special_slug": "woke-ish-2018",
+      "r2_special_key": "comedians/marlon-wayans/specials/woke-ish-2018.json"
+    },
+    {
+      "comedian_slug": "marlon-wayans",
+      "special_slug": "you-know-what-it-is-2021",
+      "r2_special_key": "comedians/marlon-wayans/specials/you-know-what-it-is-2021.json"
+    },
+    {
+      "comedian_slug": "matt-rife",
+      "special_slug": "matthew-steven-rife",
+      "r2_special_key": "comedians/matt-rife/specials/matthew-steven-rife.json"
+    },
+    {
+      "comedian_slug": "matt-rife",
+      "special_slug": "natural-selection-2023",
+      "r2_special_key": "comedians/matt-rife/specials/natural-selection-2023.json"
+    },
+    {
+      "comedian_slug": "matt-rife",
+      "special_slug": "unwrapped-a-christmas-crowd-work-special-2025",
+      "r2_special_key": "comedians/matt-rife/specials/unwrapped-a-christmas-crowd-work-special-2025.json"
+    },
+    {
+      "comedian_slug": "maz-jobrani",
+      "special_slug": "immigrant-2017",
+      "r2_special_key": "comedians/maz-jobrani/specials/immigrant-2017.json"
+    },
+    {
+      "comedian_slug": "michael-che",
+      "special_slug": "shot-in-minnesota-2026",
+      "r2_special_key": "comedians/michael-che/specials/shot-in-minnesota-2026.json"
+    },
+    {
+      "comedian_slug": "michael-che-matters-2016",
+      "special_slug": "michael-che-matters-2016",
+      "r2_special_key": "comedians/michael-che-matters-2016/specials/michael-che-matters-2016.json"
+    },
+    {
+      "comedian_slug": "michael-mcintyre",
+      "special_slug": "hello-wembley-2009",
+      "r2_special_key": "comedians/michael-mcintyre/specials/hello-wembley-2009.json"
+    },
+    {
+      "comedian_slug": "michael-mcintyre",
+      "special_slug": "showman-2020",
+      "r2_special_key": "comedians/michael-mcintyre/specials/showman-2020.json"
+    },
+    {
+      "comedian_slug": "michelle-buteau",
+      "special_slug": "a-buteau-ful-mind-at-radio-city-music-hall-2024",
+      "r2_special_key": "comedians/michelle-buteau/specials/a-buteau-ful-mind-at-radio-city-music-hall-2024.json"
+    },
+    {
+      "comedian_slug": "michelle-buteau",
+      "special_slug": "welcome-to-buteaupia-2020",
+      "r2_special_key": "comedians/michelle-buteau/specials/welcome-to-buteaupia-2020.json"
+    },
+    {
+      "comedian_slug": "michelle-wolf",
+      "special_slug": "it-s-great-to-be-here-2023",
+      "r2_special_key": "comedians/michelle-wolf/specials/it-s-great-to-be-here-2023.json"
+    },
+    {
+      "comedian_slug": "michelle-wolf",
+      "special_slug": "joke-show-2019",
+      "r2_special_key": "comedians/michelle-wolf/specials/joke-show-2019.json"
+    },
+    {
+      "comedian_slug": "michelle-wolf",
+      "special_slug": "nice-lady-2017",
+      "r2_special_key": "comedians/michelle-wolf/specials/nice-lady-2017.json"
+    },
+    {
+      "comedian_slug": "michelle-wolf",
+      "special_slug": "the-well-2025",
+      "r2_special_key": "comedians/michelle-wolf/specials/the-well-2025.json"
+    },
+    {
+      "comedian_slug": "mike-birbiglia",
+      "special_slug": "my-girlfriend-s-boyfriend-2013",
+      "r2_special_key": "comedians/mike-birbiglia/specials/my-girlfriend-s-boyfriend-2013.json"
+    },
+    {
+      "comedian_slug": "mike-birbiglia",
+      "special_slug": "thank-god-for-jokes-2017",
+      "r2_special_key": "comedians/mike-birbiglia/specials/thank-god-for-jokes-2017.json"
+    },
+    {
+      "comedian_slug": "mike-birbiglia",
+      "special_slug": "the-good-life-2025",
+      "r2_special_key": "comedians/mike-birbiglia/specials/the-good-life-2025.json"
+    },
+    {
+      "comedian_slug": "mike-birbiglia",
+      "special_slug": "the-new-one-2019",
+      "r2_special_key": "comedians/mike-birbiglia/specials/the-new-one-2019.json"
+    },
+    {
+      "comedian_slug": "mike-birbiglia",
+      "special_slug": "the-old-man-and-the-pool-2023",
+      "r2_special_key": "comedians/mike-birbiglia/specials/the-old-man-and-the-pool-2023.json"
+    },
+    {
+      "comedian_slug": "mike-epps",
+      "special_slug": "don-t-take-it-personal-2015",
+      "r2_special_key": "comedians/mike-epps/specials/don-t-take-it-personal-2015.json"
+    },
+    {
+      "comedian_slug": "mike-epps",
+      "special_slug": "indiana-mike-2022",
+      "r2_special_key": "comedians/mike-epps/specials/indiana-mike-2022.json"
+    },
+    {
+      "comedian_slug": "mike-epps",
+      "special_slug": "only-one-mike-2019",
+      "r2_special_key": "comedians/mike-epps/specials/only-one-mike-2019.json"
+    },
+    {
+      "comedian_slug": "mike-epps",
+      "special_slug": "ready-to-sell-out-2024",
+      "r2_special_key": "comedians/mike-epps/specials/ready-to-sell-out-2024.json"
+    },
+    {
+      "comedian_slug": "mike-epps",
+      "special_slug": "under-rated-never-faded-x-rated-2009",
+      "r2_special_key": "comedians/mike-epps/specials/under-rated-never-faded-x-rated-2009.json"
+    },
+    {
+      "comedian_slug": "mitch-hedberg",
+      "special_slug": "comedy-central-special-1999",
+      "r2_special_key": "comedians/mitch-hedberg/specials/comedy-central-special-1999.json"
+    },
+    {
+      "comedian_slug": "mo-amer",
+      "special_slug": "mohammed-in-texas-2021",
+      "r2_special_key": "comedians/mo-amer/specials/mohammed-in-texas-2021.json"
+    },
+    {
+      "comedian_slug": "mo-amer",
+      "special_slug": "the-vagabond-2018",
+      "r2_special_key": "comedians/mo-amer/specials/the-vagabond-2018.json"
+    },
+    {
+      "comedian_slug": "moses-storm",
+      "special_slug": "trash-white-2022",
+      "r2_special_key": "comedians/moses-storm/specials/trash-white-2022.json"
+    },
+    {
+      "comedian_slug": "nate-bargatze",
+      "special_slug": "full-time-magic-2015",
+      "r2_special_key": "comedians/nate-bargatze/specials/full-time-magic-2015.json"
+    },
+    {
+      "comedian_slug": "nate-bargatze",
+      "special_slug": "hello-world-2023",
+      "r2_special_key": "comedians/nate-bargatze/specials/hello-world-2023.json"
+    },
+    {
+      "comedian_slug": "nate-bargatze",
+      "special_slug": "the-greatest-average-american-2021",
+      "r2_special_key": "comedians/nate-bargatze/specials/the-greatest-average-american-2021.json"
+    },
+    {
+      "comedian_slug": "nate-bargatze",
+      "special_slug": "the-tennessee-kid-2019",
+      "r2_special_key": "comedians/nate-bargatze/specials/the-tennessee-kid-2019.json"
+    },
+    {
+      "comedian_slug": "nate-bargatze-s-nashville-christmas-2024",
+      "special_slug": "nate-bargatze-s-nashville-christmas-2024",
+      "r2_special_key": "comedians/nate-bargatze-s-nashville-christmas-2024/specials/nate-bargatze-s-nashville-christmas-2024.json"
+    },
+    {
+      "comedian_slug": "nate-bargatze-stand-up-monologue-snl-scene",
+      "special_slug": "nate-bargatze-stand-up-monologue-snl-scene",
+      "r2_special_key": "comedians/nate-bargatze-stand-up-monologue-snl-scene/specials/nate-bargatze-stand-up-monologue-snl-scene.json"
+    },
+    {
+      "comedian_slug": "neal-brennan",
+      "special_slug": "3-mics-2017",
+      "r2_special_key": "comedians/neal-brennan/specials/3-mics-2017.json"
+    },
+    {
+      "comedian_slug": "neal-brennan",
+      "special_slug": "blocks-2022",
+      "r2_special_key": "comedians/neal-brennan/specials/blocks-2022.json"
+    },
+    {
+      "comedian_slug": "neal-brennan",
+      "special_slug": "crazy-good-2024",
+      "r2_special_key": "comedians/neal-brennan/specials/crazy-good-2024.json"
+    },
+    {
+      "comedian_slug": "neal-brennan",
+      "special_slug": "women-and-black-dudes-2014",
+      "r2_special_key": "comedians/neal-brennan/specials/women-and-black-dudes-2014.json"
+    },
+    {
+      "comedian_slug": "nick-offerman",
+      "special_slug": "american-ham-2014",
+      "r2_special_key": "comedians/nick-offerman/specials/american-ham-2014.json"
+    },
+    {
+      "comedian_slug": "nikki-glaser",
+      "special_slug": "bangin-2019",
+      "r2_special_key": "comedians/nikki-glaser/specials/bangin-2019.json"
+    },
+    {
+      "comedian_slug": "nikki-glaser",
+      "special_slug": "good-girl-2026",
+      "r2_special_key": "comedians/nikki-glaser/specials/good-girl-2026.json"
+    },
+    {
+      "comedian_slug": "nikki-glaser",
+      "special_slug": "perfect-2016",
+      "r2_special_key": "comedians/nikki-glaser/specials/perfect-2016.json"
+    },
+    {
+      "comedian_slug": "nikki-glaser",
+      "special_slug": "someday-you-ll-die-2024",
+      "r2_special_key": "comedians/nikki-glaser/specials/someday-you-ll-die-2024.json"
+    },
+    {
+      "comedian_slug": "nikki-glaser-opening-monologue-at-the-83rd-annual-golden-glo",
+      "special_slug": "nikki-glaser-opening-monologue-at-the-83rd-annual-golden-glo",
+      "r2_special_key": "comedians/nikki-glaser-opening-monologue-at-the-83rd-annual-golden-glo/specials/nikki-glaser-opening-monologue-at-the-83rd-annual-golden-glo.json"
+    },
+    {
+      "comedian_slug": "norm-macdonald",
+      "special_slug": "hitler-s-dog-gossip-trickery-2017",
+      "r2_special_key": "comedians/norm-macdonald/specials/hitler-s-dog-gossip-trickery-2017.json"
+    },
+    {
+      "comedian_slug": "norm-macdonald",
+      "special_slug": "nothing-special-2022",
+      "r2_special_key": "comedians/norm-macdonald/specials/nothing-special-2022.json"
+    },
+    {
+      "comedian_slug": "norm-macdonald",
+      "special_slug": "one-night-stand-1991",
+      "r2_special_key": "comedians/norm-macdonald/specials/one-night-stand-1991.json"
+    },
+    {
+      "comedian_slug": "oh-hello-on-broadway-2017",
+      "special_slug": "oh-hello-on-broadway-2017",
+      "r2_special_key": "comedians/oh-hello-on-broadway-2017/specials/oh-hello-on-broadway-2017.json"
+    },
+    {
+      "comedian_slug": "orny-adams",
+      "special_slug": "more-than-loud-2017",
+      "r2_special_key": "comedians/orny-adams/specials/more-than-loud-2017.json"
+    },
+    {
+      "comedian_slug": "pablo-francisco",
+      "special_slug": "ouch-live-from-san-jose-2006",
+      "r2_special_key": "comedians/pablo-francisco/specials/ouch-live-from-san-jose-2006.json"
+    },
+    {
+      "comedian_slug": "patrice-o-neal",
+      "special_slug": "elephant-in-the-room-2011",
+      "r2_special_key": "comedians/patrice-o-neal/specials/elephant-in-the-room-2011.json"
+    },
+    {
+      "comedian_slug": "patton-oswalt",
+      "special_slug": "annihilation-2017",
+      "r2_special_key": "comedians/patton-oswalt/specials/annihilation-2017.json"
+    },
+    {
+      "comedian_slug": "patton-oswalt",
+      "special_slug": "i-love-everything-2020",
+      "r2_special_key": "comedians/patton-oswalt/specials/i-love-everything-2020.json"
+    },
+    {
+      "comedian_slug": "patton-oswalt",
+      "special_slug": "we-all-scream-2022",
+      "r2_special_key": "comedians/patton-oswalt/specials/we-all-scream-2022.json"
+    },
+    {
+      "comedian_slug": "paul-mooney",
+      "special_slug": "a-piece-of-my-mind-godbless-america-2014",
+      "r2_special_key": "comedians/paul-mooney/specials/a-piece-of-my-mind-godbless-america-2014.json"
+    },
+    {
+      "comedian_slug": "paul-reiser",
+      "special_slug": "life-death-and-rice-pudding-2024",
+      "r2_special_key": "comedians/paul-reiser/specials/life-death-and-rice-pudding-2024.json"
+    },
+    {
+      "comedian_slug": "pete-davidson",
+      "special_slug": "alive-from-new-york-2020",
+      "r2_special_key": "comedians/pete-davidson/specials/alive-from-new-york-2020.json"
+    },
+    {
+      "comedian_slug": "pete-davidson",
+      "special_slug": "smd-2016",
+      "r2_special_key": "comedians/pete-davidson/specials/smd-2016.json"
+    },
+    {
+      "comedian_slug": "pete-davidson",
+      "special_slug": "turbo-fonzarelli-2024",
+      "r2_special_key": "comedians/pete-davidson/specials/turbo-fonzarelli-2024.json"
+    },
+    {
+      "comedian_slug": "pete-davidson-presents",
+      "special_slug": "the-best-friends-2022",
+      "r2_special_key": "comedians/pete-davidson-presents/specials/the-best-friends-2022.json"
+    },
+    {
+      "comedian_slug": "pete-holmes",
+      "special_slug": "dirty-clean-2018",
+      "r2_special_key": "comedians/pete-holmes/specials/dirty-clean-2018.json"
+    },
+    {
+      "comedian_slug": "pete-holmes",
+      "special_slug": "i-am-not-for-everyone-2023",
+      "r2_special_key": "comedians/pete-holmes/specials/i-am-not-for-everyone-2023.json"
+    },
+    {
+      "comedian_slug": "phil-wang",
+      "special_slug": "philly-philly-wang-wang-2021",
+      "r2_special_key": "comedians/phil-wang/specials/philly-philly-wang-wang-2021.json"
+    },
+    {
+      "comedian_slug": "phil-wang",
+      "special_slug": "wang-in-there-baby-2024",
+      "r2_special_key": "comedians/phil-wang/specials/wang-in-there-baby-2024.json"
+    },
+    {
+      "comedian_slug": "rachel-feinstein",
+      "special_slug": "big-guy-2024",
+      "r2_special_key": "comedians/rachel-feinstein/specials/big-guy-2024.json"
+    },
+    {
+      "comedian_slug": "rachel-sennott",
+      "special_slug": "the-worst-part-of-sitting-on-a-guy-s-face-scene",
+      "r2_special_key": "comedians/rachel-sennott/specials/the-worst-part-of-sitting-on-a-guy-s-face-scene.json"
+    },
+    {
+      "comedian_slug": "ralphie-may",
+      "special_slug": "filthy-animal-tour-2014",
+      "r2_special_key": "comedians/ralphie-may/specials/filthy-animal-tour-2014.json"
+    },
+    {
+      "comedian_slug": "ramy-youssef",
+      "special_slug": "feelings-2019",
+      "r2_special_key": "comedians/ramy-youssef/specials/feelings-2019.json"
+    },
+    {
+      "comedian_slug": "ramy-youssef",
+      "special_slug": "more-feelings-2024",
+      "r2_special_key": "comedians/ramy-youssef/specials/more-feelings-2024.json"
+    },
+    {
+      "comedian_slug": "ramy-youssef-monologue-snl-scene",
+      "special_slug": "ramy-youssef-monologue-snl-scene",
+      "r2_special_key": "comedians/ramy-youssef-monologue-snl-scene/specials/ramy-youssef-monologue-snl-scene.json"
+    },
+    {
+      "comedian_slug": "ray-romano",
+      "special_slug": "right-here-around-the-corner-2019",
+      "r2_special_key": "comedians/ray-romano/specials/right-here-around-the-corner-2019.json"
+    },
+    {
+      "comedian_slug": "reggie-watts",
+      "special_slug": "spatial-2016",
+      "r2_special_key": "comedians/reggie-watts/specials/spatial-2016.json"
+    },
+    {
+      "comedian_slug": "richard-pryor",
+      "special_slug": "here-and-now-1983",
+      "r2_special_key": "comedians/richard-pryor/specials/here-and-now-1983.json"
+    },
+    {
+      "comedian_slug": "richard-pryor",
+      "special_slug": "live-and-smokin-1971",
+      "r2_special_key": "comedians/richard-pryor/specials/live-and-smokin-1971.json"
+    },
+    {
+      "comedian_slug": "richard-pryor",
+      "special_slug": "live-in-concert-1979",
+      "r2_special_key": "comedians/richard-pryor/specials/live-in-concert-1979.json"
+    },
+    {
+      "comedian_slug": "richard-pryor",
+      "special_slug": "live-on-the-sunset-strip-1982",
+      "r2_special_key": "comedians/richard-pryor/specials/live-on-the-sunset-strip-1982.json"
+    },
+    {
+      "comedian_slug": "richard-pryor-s-monologue-at-the-saturday-night-live-13-12-1",
+      "special_slug": "richard-pryor-s-monologue-at-the-saturday-night-live-13-12-1",
+      "r2_special_key": "comedians/richard-pryor-s-monologue-at-the-saturday-night-live-13-12-1/specials/richard-pryor-s-monologue-at-the-saturday-night-live-13-12-1.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2011-golden-globes-opening-monologue-scene",
+      "r2_special_key": "comedians/ricky-gervais/specials/2011-golden-globes-opening-monologue-scene.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2011-golden-globes-opening-monologue",
+      "r2_special_key": "comedians/ricky-gervais/specials/2011-golden-globes-opening-monologue.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2012-golden-globes-opening-monologue-scene",
+      "r2_special_key": "comedians/ricky-gervais/specials/2012-golden-globes-opening-monologue-scene.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2012-golden-globes-opening-monologue",
+      "r2_special_key": "comedians/ricky-gervais/specials/2012-golden-globes-opening-monologue.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2016-golden-globes-opening-monologue-scene",
+      "r2_special_key": "comedians/ricky-gervais/specials/2016-golden-globes-opening-monologue-scene.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2016-golden-globes-opening-monologue",
+      "r2_special_key": "comedians/ricky-gervais/specials/2016-golden-globes-opening-monologue.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2020-golden-globes-opening-monologue-scene",
+      "r2_special_key": "comedians/ricky-gervais/specials/2020-golden-globes-opening-monologue-scene.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "2020-golden-globes-opening-monologue-transcript",
+      "r2_special_key": "comedians/ricky-gervais/specials/2020-golden-globes-opening-monologue-transcript.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "armageddon-2023",
+      "r2_special_key": "comedians/ricky-gervais/specials/armageddon-2023.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "humanity-2018",
+      "r2_special_key": "comedians/ricky-gervais/specials/humanity-2018.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "live-iv-science-2010",
+      "r2_special_key": "comedians/ricky-gervais/specials/live-iv-science-2010.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "mortality-2025",
+      "r2_special_key": "comedians/ricky-gervais/specials/mortality-2025.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "out-of-england-2-2010",
+      "r2_special_key": "comedians/ricky-gervais/specials/out-of-england-2-2010.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais",
+      "special_slug": "supernature-2022",
+      "r2_special_key": "comedians/ricky-gervais/specials/supernature-2022.json"
+    },
+    {
+      "comedian_slug": "ricky-gervais-live-2",
+      "special_slug": "politics-2004",
+      "r2_special_key": "comedians/ricky-gervais-live-2/specials/politics-2004.json"
+    },
+    {
+      "comedian_slug": "rob-schneider",
+      "special_slug": "asian-momma-mexican-kids-2020",
+      "r2_special_key": "comedians/rob-schneider/specials/asian-momma-mexican-kids-2020.json"
+    },
+    {
+      "comedian_slug": "robby-hoffman",
+      "special_slug": "i-m-nervous-2019",
+      "r2_special_key": "comedians/robby-hoffman/specials/i-m-nervous-2019.json"
+    },
+    {
+      "comedian_slug": "robby-hoffman",
+      "special_slug": "wake-up-2025",
+      "r2_special_key": "comedians/robby-hoffman/specials/wake-up-2025.json"
+    },
+    {
+      "comedian_slug": "robin-williams",
+      "special_slug": "live-on-broadway-2002",
+      "r2_special_key": "comedians/robin-williams/specials/live-on-broadway-2002.json"
+    },
+    {
+      "comedian_slug": "robin-williams",
+      "special_slug": "weapons-of-self-destruction-2009",
+      "r2_special_key": "comedians/robin-williams/specials/weapons-of-self-destruction-2009.json"
+    },
+    {
+      "comedian_slug": "robin-williams-live-on-broadway-2002",
+      "special_slug": "robin-williams-live-on-broadway-2002",
+      "r2_special_key": "comedians/robin-williams-live-on-broadway-2002/specials/robin-williams-live-on-broadway-2002.json"
+    },
+    {
+      "comedian_slug": "ron-white",
+      "special_slug": "a-little-unprofessional-2012",
+      "r2_special_key": "comedians/ron-white/specials/a-little-unprofessional-2012.json"
+    },
+    {
+      "comedian_slug": "ron-white",
+      "special_slug": "if-you-quit-listening-i-ll-shut-up-2018",
+      "r2_special_key": "comedians/ron-white/specials/if-you-quit-listening-i-ll-shut-up-2018.json"
+    },
+    {
+      "comedian_slug": "ronny-chieng",
+      "special_slug": "asian-comedian-destroys-america-2019",
+      "r2_special_key": "comedians/ronny-chieng/specials/asian-comedian-destroys-america-2019.json"
+    },
+    {
+      "comedian_slug": "ronny-chieng",
+      "special_slug": "love-to-hate-it-2024",
+      "r2_special_key": "comedians/ronny-chieng/specials/love-to-hate-it-2024.json"
+    },
+    {
+      "comedian_slug": "rory-scovel",
+      "special_slug": "show-must-go-on-2026",
+      "r2_special_key": "comedians/rory-scovel/specials/show-must-go-on-2026.json"
+    },
+    {
+      "comedian_slug": "rory-scovel",
+      "special_slug": "the-charleston-special-2015",
+      "r2_special_key": "comedians/rory-scovel/specials/the-charleston-special-2015.json"
+    },
+    {
+      "comedian_slug": "rory-scovel-on-religion-scene",
+      "special_slug": "rory-scovel-on-religion-scene",
+      "r2_special_key": "comedians/rory-scovel-on-religion-scene/specials/rory-scovel-on-religion-scene.json"
+    },
+    {
+      "comedian_slug": "rory-scovel-tries-stand-up-for-the-first-time-2017",
+      "special_slug": "rory-scovel-tries-stand-up-for-the-first-time-2017",
+      "r2_special_key": "comedians/rory-scovel-tries-stand-up-for-the-first-time-2017/specials/rory-scovel-tries-stand-up-for-the-first-time-2017.json"
+    },
+    {
+      "comedian_slug": "roseanne-barr",
+      "special_slug": "cancel-this-2023",
+      "r2_special_key": "comedians/roseanne-barr/specials/cancel-this-2023.json"
+    },
+    {
+      "comedian_slug": "rowan-atkinson-live-1992",
+      "special_slug": "rowan-atkinson-live-1992",
+      "r2_special_key": "comedians/rowan-atkinson-live-1992/specials/rowan-atkinson-live-1992.json"
+    },
+    {
+      "comedian_slug": "roy-wood-jr",
+      "special_slug": "father-figure-2017",
+      "r2_special_key": "comedians/roy-wood-jr/specials/father-figure-2017.json"
+    },
+    {
+      "comedian_slug": "roy-wood-jr",
+      "special_slug": "no-one-loves-you-2019",
+      "r2_special_key": "comedians/roy-wood-jr/specials/no-one-loves-you-2019.json"
+    },
+    {
+      "comedian_slug": "russell-brand",
+      "special_slug": "messiah-complex-2013",
+      "r2_special_key": "comedians/russell-brand/specials/messiah-complex-2013.json"
+    },
+    {
+      "comedian_slug": "russell-howard",
+      "special_slug": "recalibrate-2017",
+      "r2_special_key": "comedians/russell-howard/specials/recalibrate-2017.json"
+    },
+    {
+      "comedian_slug": "russell-howard-live",
+      "special_slug": "dingledodies-2009",
+      "r2_special_key": "comedians/russell-howard-live/specials/dingledodies-2009.json"
+    },
+    {
+      "comedian_slug": "russell-peters",
+      "special_slug": "almost-famous-2016",
+      "r2_special_key": "comedians/russell-peters/specials/almost-famous-2016.json"
+    },
+    {
+      "comedian_slug": "russell-peters",
+      "special_slug": "deported-2020",
+      "r2_special_key": "comedians/russell-peters/specials/deported-2020.json"
+    },
+    {
+      "comedian_slug": "russell-peters",
+      "special_slug": "outsourced-2006",
+      "r2_special_key": "comedians/russell-peters/specials/outsourced-2006.json"
+    },
+    {
+      "comedian_slug": "ryan-hamilton",
+      "special_slug": "this-just-hit-me-2026",
+      "r2_special_key": "comedians/ryan-hamilton/specials/this-just-hit-me-2026.json"
+    },
+    {
+      "comedian_slug": "ryan-hamilton-stand-up-the-tonight-show-starring-jimmy-fallo",
+      "special_slug": "ryan-hamilton-stand-up-the-tonight-show-starring-jimmy-fallo",
+      "r2_special_key": "comedians/ryan-hamilton-stand-up-the-tonight-show-starring-jimmy-fallo/specials/ryan-hamilton-stand-up-the-tonight-show-starring-jimmy-fallo.json"
+    },
+    {
+      "comedian_slug": "sal-vulcano",
+      "special_slug": "terrified-2024",
+      "r2_special_key": "comedians/sal-vulcano/specials/terrified-2024.json"
+    },
+    {
+      "comedian_slug": "sam-jay",
+      "special_slug": "3-in-the-morning-2020",
+      "r2_special_key": "comedians/sam-jay/specials/3-in-the-morning-2020.json"
+    },
+    {
+      "comedian_slug": "sam-morril",
+      "special_slug": "i-got-this-2020",
+      "r2_special_key": "comedians/sam-morril/specials/i-got-this-2020.json"
+    },
+    {
+      "comedian_slug": "sam-morril",
+      "special_slug": "incorrect-2026",
+      "r2_special_key": "comedians/sam-morril/specials/incorrect-2026.json"
+    },
+    {
+      "comedian_slug": "sam-morril",
+      "special_slug": "you-ve-changed-2024",
+      "r2_special_key": "comedians/sam-morril/specials/you-ve-changed-2024.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid",
+      "special_slug": "charlie-kirk-america-s-turning-point-scene",
+      "r2_special_key": "comedians/sammy-obeid/specials/charlie-kirk-america-s-turning-point-scene.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid",
+      "special_slug": "how-to-save-gaza-scene",
+      "r2_special_key": "comedians/sammy-obeid/specials/how-to-save-gaza-scene.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid",
+      "special_slug": "martyr-in-a-safe-space-2022",
+      "r2_special_key": "comedians/sammy-obeid/specials/martyr-in-a-safe-space-2022.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid",
+      "special_slug": "solving-charlie-kirk-s-murder-scene",
+      "r2_special_key": "comedians/sammy-obeid/specials/solving-charlie-kirk-s-murder-scene.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid",
+      "special_slug": "the-epstein-philes-scene",
+      "r2_special_key": "comedians/sammy-obeid/specials/the-epstein-philes-scene.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid",
+      "special_slug": "where-is-bethlehem",
+      "r2_special_key": "comedians/sammy-obeid/specials/where-is-bethlehem.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid-on-palestine",
+      "special_slug": "sammy-obeid-on-palestine",
+      "r2_special_key": "comedians/sammy-obeid-on-palestine/specials/sammy-obeid-on-palestine.json"
+    },
+    {
+      "comedian_slug": "sammy-obeid-on-palestine-censorship",
+      "special_slug": "sammy-obeid-on-palestine-censorship",
+      "r2_special_key": "comedians/sammy-obeid-on-palestine-censorship/specials/sammy-obeid-on-palestine-censorship.json"
+    },
+    {
+      "comedian_slug": "sara-pascoe",
+      "special_slug": "ladsladslads-2019",
+      "r2_special_key": "comedians/sara-pascoe/specials/ladsladslads-2019.json"
+    },
+    {
+      "comedian_slug": "sarah-cooper",
+      "special_slug": "everything-s-fine-2020",
+      "r2_special_key": "comedians/sarah-cooper/specials/everything-s-fine-2020.json"
+    },
+    {
+      "comedian_slug": "sarah-millican",
+      "special_slug": "chatterbox-live-2011",
+      "r2_special_key": "comedians/sarah-millican/specials/chatterbox-live-2011.json"
+    },
+    {
+      "comedian_slug": "sarah-silverman",
+      "special_slug": "a-speck-of-dust-2017",
+      "r2_special_key": "comedians/sarah-silverman/specials/a-speck-of-dust-2017.json"
+    },
+    {
+      "comedian_slug": "sarah-silverman",
+      "special_slug": "jesus-is-magic-2005",
+      "r2_special_key": "comedians/sarah-silverman/specials/jesus-is-magic-2005.json"
+    },
+    {
+      "comedian_slug": "sarah-silverman",
+      "special_slug": "postmortem-2025",
+      "r2_special_key": "comedians/sarah-silverman/specials/postmortem-2025.json"
+    },
+    {
+      "comedian_slug": "sarah-silverman",
+      "special_slug": "saturday-night-live-monologue-season-40-episode-2-10-04-2014",
+      "r2_special_key": "comedians/sarah-silverman/specials/saturday-night-live-monologue-season-40-episode-2-10-04-2014.json"
+    },
+    {
+      "comedian_slug": "sarah-silverman",
+      "special_slug": "we-are-miracles-2013",
+      "r2_special_key": "comedians/sarah-silverman/specials/we-are-miracles-2013.json"
+    },
+    {
+      "comedian_slug": "saturday-night-news-with-george-carlin-11-10-1984",
+      "special_slug": "saturday-night-news-with-george-carlin-11-10-1984",
+      "r2_special_key": "comedians/saturday-night-news-with-george-carlin-11-10-1984/specials/saturday-night-news-with-george-carlin-11-10-1984.json"
+    },
+    {
+      "comedian_slug": "sebastian-maniscalco",
+      "special_slug": "aren-t-you-embarrassed-2014",
+      "r2_special_key": "comedians/sebastian-maniscalco/specials/aren-t-you-embarrassed-2014.json"
+    },
+    {
+      "comedian_slug": "sebastian-maniscalco",
+      "special_slug": "it-ain-t-right-2025",
+      "r2_special_key": "comedians/sebastian-maniscalco/specials/it-ain-t-right-2025.json"
+    },
+    {
+      "comedian_slug": "sebastian-maniscalco",
+      "special_slug": "stay-hungry-2019",
+      "r2_special_key": "comedians/sebastian-maniscalco/specials/stay-hungry-2019.json"
+    },
+    {
+      "comedian_slug": "sebastian-maniscalco",
+      "special_slug": "what-s-wrong-with-people-2012",
+      "r2_special_key": "comedians/sebastian-maniscalco/specials/what-s-wrong-with-people-2012.json"
+    },
+    {
+      "comedian_slug": "sebastian-maniscalco-stand-up-the-tonight-show-starring-jimm",
+      "special_slug": "sebastian-maniscalco-stand-up-the-tonight-show-starring-jimm",
+      "r2_special_key": "comedians/sebastian-maniscalco-stand-up-the-tonight-show-starring-jimm/specials/sebastian-maniscalco-stand-up-the-tonight-show-starring-jimm.json"
+    },
+    {
+      "comedian_slug": "seth-meyers",
+      "special_slug": "dad-man-walking-2024",
+      "r2_special_key": "comedians/seth-meyers/specials/dad-man-walking-2024.json"
+    },
+    {
+      "comedian_slug": "seth-meyers",
+      "special_slug": "lobby-baby-2019",
+      "r2_special_key": "comedians/seth-meyers/specials/lobby-baby-2019.json"
+    },
+    {
+      "comedian_slug": "seth-meyers-at-the-2011-white-house-correspondents-dinner",
+      "special_slug": "seth-meyers-at-the-2011-white-house-correspondents-dinner",
+      "r2_special_key": "comedians/seth-meyers-at-the-2011-white-house-correspondents-dinner/specials/seth-meyers-at-the-2011-white-house-correspondents-dinner.json"
+    },
+    {
+      "comedian_slug": "shane-gillis",
+      "special_slug": "beautiful-dogs-2023",
+      "r2_special_key": "comedians/shane-gillis/specials/beautiful-dogs-2023.json"
+    },
+    {
+      "comedian_slug": "shane-gillis",
+      "special_slug": "live-in-austin",
+      "r2_special_key": "comedians/shane-gillis/specials/live-in-austin.json"
+    },
+    {
+      "comedian_slug": "shane-gillis-opening-monologue-at-the-2025-espys",
+      "special_slug": "shane-gillis-opening-monologue-at-the-2025-espys",
+      "r2_special_key": "comedians/shane-gillis-opening-monologue-at-the-2025-espys/specials/shane-gillis-opening-monologue-at-the-2025-espys.json"
+    },
+    {
+      "comedian_slug": "shane-gillis-stand-up-monologue-snl-2026-scene",
+      "special_slug": "shane-gillis-stand-up-monologue-snl-2026-scene",
+      "r2_special_key": "comedians/shane-gillis-stand-up-monologue-snl-2026-scene/specials/shane-gillis-stand-up-monologue-snl-2026-scene.json"
+    },
+    {
+      "comedian_slug": "shane-gillis-stand-up-monologue-snl-scene",
+      "special_slug": "shane-gillis-stand-up-monologue-snl-scene",
+      "r2_special_key": "comedians/shane-gillis-stand-up-monologue-snl-scene/specials/shane-gillis-stand-up-monologue-snl-scene.json"
+    },
+    {
+      "comedian_slug": "simon-amstell",
+      "special_slug": "do-nothing-live",
+      "r2_special_key": "comedians/simon-amstell/specials/do-nothing-live.json"
+    },
+    {
+      "comedian_slug": "sincerely-louis-ck-2020",
+      "special_slug": "sincerely-louis-ck-2020",
+      "r2_special_key": "comedians/sincerely-louis-ck-2020/specials/sincerely-louis-ck-2020.json"
+    },
+    {
+      "comedian_slug": "stavros-halkias",
+      "special_slug": "fat-rascal-2023",
+      "r2_special_key": "comedians/stavros-halkias/specials/fat-rascal-2023.json"
+    },
+    {
+      "comedian_slug": "stavros-halkias",
+      "special_slug": "live-at-the-lodge-room-2022",
+      "r2_special_key": "comedians/stavros-halkias/specials/live-at-the-lodge-room-2022.json"
+    },
+    {
+      "comedian_slug": "steph-tolev",
+      "special_slug": "filth-queen-2025",
+      "r2_special_key": "comedians/steph-tolev/specials/filth-queen-2025.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "90s-comedian-2006-live",
+      "r2_special_key": "comedians/stewart-lee/specials/90s-comedian-2006-live.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "90s-comedian-2006",
+      "r2_special_key": "comedians/stewart-lee/specials/90s-comedian-2006.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "carpet-remnant-world-2012-live",
+      "r2_special_key": "comedians/stewart-lee/specials/carpet-remnant-world-2012-live.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "carpet-remnant-world-2012",
+      "r2_special_key": "comedians/stewart-lee/specials/carpet-remnant-world-2012.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "comedy-vehicle-dead-mouse",
+      "r2_special_key": "comedians/stewart-lee/specials/comedy-vehicle-dead-mouse.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "comedy-vehicle-jeremy-corbyn",
+      "r2_special_key": "comedians/stewart-lee/specials/comedy-vehicle-jeremy-corbyn.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "comedy-vehicle-s1e2-television",
+      "r2_special_key": "comedians/stewart-lee/specials/comedy-vehicle-s1e2-television.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "comedy-vehicle-s1e4-financial-crisis",
+      "r2_special_key": "comedians/stewart-lee/specials/comedy-vehicle-s1e4-financial-crisis.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "comedy-vehicle-s1e5-comedy",
+      "r2_special_key": "comedians/stewart-lee/specials/comedy-vehicle-s1e5-comedy.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "comedy-vehicle-s1e6-religion",
+      "r2_special_key": "comedians/stewart-lee/specials/comedy-vehicle-s1e6-religion.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "content-provider-2018",
+      "r2_special_key": "comedians/stewart-lee/specials/content-provider-2018.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "live-at-the-lowry",
+      "r2_special_key": "comedians/stewart-lee/specials/live-at-the-lowry.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "stand-up-comedian-2005-live",
+      "r2_special_key": "comedians/stewart-lee/specials/stand-up-comedian-2005-live.json"
+    },
+    {
+      "comedian_slug": "stewart-lee",
+      "special_slug": "stand-up-comedian-2005",
+      "r2_special_key": "comedians/stewart-lee/specials/stand-up-comedian-2005.json"
+    },
+    {
+      "comedian_slug": "t-j-miller",
+      "special_slug": "no-real-reason-2011",
+      "r2_special_key": "comedians/t-j-miller/specials/no-real-reason-2011.json"
+    },
+    {
+      "comedian_slug": "taylor-tomlinson",
+      "special_slug": "have-it-all-2024",
+      "r2_special_key": "comedians/taylor-tomlinson/specials/have-it-all-2024.json"
+    },
+    {
+      "comedian_slug": "taylor-tomlinson",
+      "special_slug": "look-at-you-2022",
+      "r2_special_key": "comedians/taylor-tomlinson/specials/look-at-you-2022.json"
+    },
+    {
+      "comedian_slug": "taylor-tomlinson",
+      "special_slug": "quarter-life-crisis-2020",
+      "r2_special_key": "comedians/taylor-tomlinson/specials/quarter-life-crisis-2020.json"
+    },
+    {
+      "comedian_slug": "the-roast-of-kevin-hart-2026",
+      "special_slug": "the-roast-of-kevin-hart-2026",
+      "r2_special_key": "comedians/the-roast-of-kevin-hart-2026/specials/the-roast-of-kevin-hart-2026.json"
+    },
+    {
+      "comedian_slug": "the-roast-of-tom-brady-2024",
+      "special_slug": "the-roast-of-tom-brady-2024",
+      "r2_special_key": "comedians/the-roast-of-tom-brady-2024/specials/the-roast-of-tom-brady-2024.json"
+    },
+    {
+      "comedian_slug": "the-standups",
+      "special_slug": "gina-yashere-2018",
+      "r2_special_key": "comedians/the-standups/specials/gina-yashere-2018.json"
+    },
+    {
+      "comedian_slug": "theo-von",
+      "special_slug": "no-offense-2016",
+      "r2_special_key": "comedians/theo-von/specials/no-offense-2016.json"
+    },
+    {
+      "comedian_slug": "tiffany-haddish",
+      "special_slug": "black-mitzvah-2019",
+      "r2_special_key": "comedians/tiffany-haddish/specials/black-mitzvah-2019.json"
+    },
+    {
+      "comedian_slug": "tig-notaro",
+      "special_slug": "boyish-girl-interrupted-2015",
+      "r2_special_key": "comedians/tig-notaro/specials/boyish-girl-interrupted-2015.json"
+    },
+    {
+      "comedian_slug": "tig-notaro",
+      "special_slug": "hello-again-2024",
+      "r2_special_key": "comedians/tig-notaro/specials/hello-again-2024.json"
+    },
+    {
+      "comedian_slug": "tim-dillon",
+      "special_slug": "this-is-your-country-2024",
+      "r2_special_key": "comedians/tim-dillon/specials/this-is-your-country-2024.json"
+    },
+    {
+      "comedian_slug": "todd-barry",
+      "special_slug": "spicy-honey-2017",
+      "r2_special_key": "comedians/todd-barry/specials/spicy-honey-2017.json"
+    },
+    {
+      "comedian_slug": "todd-glass",
+      "special_slug": "act-happy-2018",
+      "r2_special_key": "comedians/todd-glass/specials/act-happy-2018.json"
+    },
+    {
+      "comedian_slug": "tom-papa",
+      "special_slug": "freaked-out-2013",
+      "r2_special_key": "comedians/tom-papa/specials/freaked-out-2013.json"
+    },
+    {
+      "comedian_slug": "tom-papa",
+      "special_slug": "home-free-2024",
+      "r2_special_key": "comedians/tom-papa/specials/home-free-2024.json"
+    },
+    {
+      "comedian_slug": "tom-papa",
+      "special_slug": "human-mule-2016",
+      "r2_special_key": "comedians/tom-papa/specials/human-mule-2016.json"
+    },
+    {
+      "comedian_slug": "tom-papa",
+      "special_slug": "what-a-day-2022",
+      "r2_special_key": "comedians/tom-papa/specials/what-a-day-2022.json"
+    },
+    {
+      "comedian_slug": "tom-papa",
+      "special_slug": "you-re-doing-great-2020",
+      "r2_special_key": "comedians/tom-papa/specials/you-re-doing-great-2020.json"
+    },
+    {
+      "comedian_slug": "tom-segura",
+      "special_slug": "ball-hog-2020",
+      "r2_special_key": "comedians/tom-segura/specials/ball-hog-2020.json"
+    },
+    {
+      "comedian_slug": "tom-segura",
+      "special_slug": "completely-normal-2014",
+      "r2_special_key": "comedians/tom-segura/specials/completely-normal-2014.json"
+    },
+    {
+      "comedian_slug": "tom-segura",
+      "special_slug": "disgraceful-2018",
+      "r2_special_key": "comedians/tom-segura/specials/disgraceful-2018.json"
+    },
+    {
+      "comedian_slug": "tom-segura",
+      "special_slug": "mostly-stories-2016",
+      "r2_special_key": "comedians/tom-segura/specials/mostly-stories-2016.json"
+    },
+    {
+      "comedian_slug": "tom-segura",
+      "special_slug": "sledgehammer-2023",
+      "r2_special_key": "comedians/tom-segura/specials/sledgehammer-2023.json"
+    },
+    {
+      "comedian_slug": "tom-segura",
+      "special_slug": "teacher-2025",
+      "r2_special_key": "comedians/tom-segura/specials/teacher-2025.json"
+    },
+    {
+      "comedian_slug": "tom-segura-overdoses-this-is-not-happening-scene",
+      "special_slug": "tom-segura-overdoses-this-is-not-happening-scene",
+      "r2_special_key": "comedians/tom-segura-overdoses-this-is-not-happening-scene/specials/tom-segura-overdoses-this-is-not-happening-scene.json"
+    },
+    {
+      "comedian_slug": "tom-segura-overdoses-this-is-not-happening-transcript",
+      "special_slug": "tom-segura-overdoses-this-is-not-happening-transcript",
+      "r2_special_key": "comedians/tom-segura-overdoses-this-is-not-happening-transcript/specials/tom-segura-overdoses-this-is-not-happening-transcript.json"
+    },
+    {
+      "comedian_slug": "tony-hinchcliffe",
+      "special_slug": "man-of-the-people-2026",
+      "r2_special_key": "comedians/tony-hinchcliffe/specials/man-of-the-people-2026.json"
+    },
+    {
+      "comedian_slug": "tracey-ullman",
+      "special_slug": "live-and-exposed-2005",
+      "r2_special_key": "comedians/tracey-ullman/specials/live-and-exposed-2005.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "afraid-of-the-dark-2017",
+      "r2_special_key": "comedians/trevor-noah/specials/afraid-of-the-dark-2017.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "i-wish-you-would-2022",
+      "r2_special_key": "comedians/trevor-noah/specials/i-wish-you-would-2022.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "joy-in-the-trenches-2026",
+      "r2_special_key": "comedians/trevor-noah/specials/joy-in-the-trenches-2026.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "live-at-the-apollo-2013",
+      "r2_special_key": "comedians/trevor-noah/specials/live-at-the-apollo-2013.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "live-at-the-o2-london-2018-prince-harry-meghan-markle-s-roya",
+      "r2_special_key": "comedians/trevor-noah/specials/live-at-the-o2-london-2018-prince-harry-meghan-markle-s-roya.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "lost-in-translation-2015",
+      "r2_special_key": "comedians/trevor-noah/specials/lost-in-translation-2015.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "son-of-patricia-2018",
+      "r2_special_key": "comedians/trevor-noah/specials/son-of-patricia-2018.json"
+    },
+    {
+      "comedian_slug": "trevor-noah",
+      "special_slug": "where-was-i-2023",
+      "r2_special_key": "comedians/trevor-noah/specials/where-was-i-2023.json"
+    },
+    {
+      "comedian_slug": "trevor-noah-at-the-white-house-correspondents-dinner-2022",
+      "special_slug": "trevor-noah-at-the-white-house-correspondents-dinner-2022",
+      "r2_special_key": "comedians/trevor-noah-at-the-white-house-correspondents-dinner-2022/specials/trevor-noah-at-the-white-house-correspondents-dinner-2022.json"
+    },
+    {
+      "comedian_slug": "trevor-noah-at-the-white-house-correspondents-dinner-2022-sc",
+      "special_slug": "trevor-noah-at-the-white-house-correspondents-dinner-2022-sc",
+      "r2_special_key": "comedians/trevor-noah-at-the-white-house-correspondents-dinner-2022-sc/specials/trevor-noah-at-the-white-house-correspondents-dinner-2022-sc.json"
+    },
+    {
+      "comedian_slug": "urzila-carlson",
+      "special_slug": "overqualified-loser-2020",
+      "r2_special_key": "comedians/urzila-carlson/specials/overqualified-loser-2020.json"
+    },
+    {
+      "comedian_slug": "vir-das",
+      "special_slug": "abroad-understanding-2017",
+      "r2_special_key": "comedians/vir-das/specials/abroad-understanding-2017.json"
+    },
+    {
+      "comedian_slug": "vir-das",
+      "special_slug": "fool-volume-2025",
+      "r2_special_key": "comedians/vir-das/specials/fool-volume-2025.json"
+    },
+    {
+      "comedian_slug": "vir-das",
+      "special_slug": "losing-it-2018",
+      "r2_special_key": "comedians/vir-das/specials/losing-it-2018.json"
+    },
+    {
+      "comedian_slug": "vir-das",
+      "special_slug": "outside-in-the-lockdown-special-2020",
+      "r2_special_key": "comedians/vir-das/specials/outside-in-the-lockdown-special-2020.json"
+    },
+    {
+      "comedian_slug": "volker-pispers-about-usa-2004",
+      "special_slug": "volker-pispers-about-usa-2004",
+      "r2_special_key": "comedians/volker-pispers-about-usa-2004/specials/volker-pispers-about-usa-2004.json"
+    },
+    {
+      "comedian_slug": "volker-pispers-about-usa-2004-scene",
+      "special_slug": "volker-pispers-about-usa-2004-scene",
+      "r2_special_key": "comedians/volker-pispers-about-usa-2004-scene/specials/volker-pispers-about-usa-2004-scene.json"
+    },
+    {
+      "comedian_slug": "w-kamau-bell",
+      "special_slug": "private-school-negro-2018",
+      "r2_special_key": "comedians/w-kamau-bell/specials/private-school-negro-2018.json"
+    },
+    {
+      "comedian_slug": "wanda-sykes",
+      "special_slug": "i-m-an-entertainer-2023",
+      "r2_special_key": "comedians/wanda-sykes/specials/i-m-an-entertainer-2023.json"
+    },
+    {
+      "comedian_slug": "wanda-sykes",
+      "special_slug": "not-normal-2019",
+      "r2_special_key": "comedians/wanda-sykes/specials/not-normal-2019.json"
+    },
+    {
+      "comedian_slug": "whitney-cummings",
+      "special_slug": "can-i-touch-it-2019",
+      "r2_special_key": "comedians/whitney-cummings/specials/can-i-touch-it-2019.json"
+    },
+    {
+      "comedian_slug": "whitney-cummings",
+      "special_slug": "i-love-you-2014",
+      "r2_special_key": "comedians/whitney-cummings/specials/i-love-you-2014.json"
+    },
+    {
+      "comedian_slug": "whitney-cummings",
+      "special_slug": "i-m-your-girlfriend-2016",
+      "r2_special_key": "comedians/whitney-cummings/specials/i-m-your-girlfriend-2016.json"
+    },
+    {
+      "comedian_slug": "whitney-cummings",
+      "special_slug": "jokes-2022",
+      "r2_special_key": "comedians/whitney-cummings/specials/jokes-2022.json"
+    },
+    {
+      "comedian_slug": "your-friend-nate-bargatze-2024",
+      "special_slug": "your-friend-nate-bargatze-2024",
+      "r2_special_key": "comedians/your-friend-nate-bargatze-2024/specials/your-friend-nate-bargatze-2024.json"
+    }
+  ]
+}

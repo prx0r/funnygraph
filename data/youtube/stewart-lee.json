@@ -1,7 +1,7 @@
 {
  "comedian_id": "stewart-lee",
  "name": "Stewart Lee",
- "clips": 6,
+ "clips": 7,
  "total_views": 12951554,
  "total_likes": 106156,
  "avg_views": 2158592,
@@ -90,6 +90,25 @@
    "likes": 6912,
    "comments": 930,
    "duration_s": 286
+  },
+  {
+   "videoId": "i577LmfHOsk",
+   "title": "Stewart Lee - How Long Is A Piece Of String?",
+   "channel": "Fist Of Fun Dot Net",
+   "views": 202296,
+   "duration_s": 178,
+   "url": "https://www.youtube.com/watch?v=i577LmfHOsk",
+   "n_words": 452,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I was driving along the motorway the other day and uh my exhaust started to fall off so I pulled into L of forest East services and I said to the mechanic there uh how long do you think this exhaust i",
+   "r2_clip_key": "comedians/stewart-lee/clips/stewart-lee-i577lmfhosk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/stewart-lee/clips/stewart-lee-i577lmfhosk.json",
+   "source_group": "big-names-shorts",
+   "source": "r2"
   }
- ]
+ ],
+ "r2_linked": true,
+ "r2_merged_at": "2026-10-18T16:05:12Z"
 }

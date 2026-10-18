@@ -61,7 +61,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 53.1,
+    "popularity": 79.5,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -92,7 +92,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -116,5 +116,16 @@
     "via": "jack-whitehall",
     "sim": 0.09,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q66446372",
+    "dob": "1891-12-09",
+    "dod": "1962-04-19",
+    "birthplace": "Pike County",
+    "citizenship": null,
+    "occupations": [
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

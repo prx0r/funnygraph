@@ -1,0 +1,38 @@
+{
+ "comedian_id": "does-that-make-sense",
+ "name": "Does That Make Sense?",
+ "clips": 1,
+ "total_views": 5100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "uisxiYwQVFg",
+  "title": "Does That Make Sense? - Addy Van Der Borgh - Live at The Bearcat  #comedy #standupcomedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 5100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=uisxiYwQVFg",
+  "r2_clip_key": "comedians/does-that-make-sense/clips/does-that-make-sense-uisxiywqvfg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/does-that-make-sense/clips/does-that-make-sense-uisxiywqvfg.json"
+ },
+ "rows": [
+  {
+   "videoId": "uisxiYwQVFg",
+   "title": "Does That Make Sense? - Addy Van Der Borgh - Live at The Bearcat  #comedy #standupcomedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 5100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=uisxiYwQVFg",
+   "n_words": 104,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Something that's pissing me off quite a lot at the moment. I hear this a lot, is that it's when someone explains something really simple to you and then at the end of the sentence they say, \"Does that",
+   "r2_clip_key": "comedians/does-that-make-sense/clips/does-that-make-sense-uisxiywqvfg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/does-that-make-sense/clips/does-that-make-sense-uisxiywqvfg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

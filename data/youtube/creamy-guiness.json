@@ -1,0 +1,38 @@
+{
+ "comedian_id": "creamy-guiness",
+ "name": "CREAMY GUINESS",
+ "clips": 1,
+ "total_views": 9700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "XMKvcy9ISuU",
+  "title": "CREAMY GUINESS | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 9700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=XMKvcy9ISuU",
+  "r2_clip_key": "comedians/creamy-guiness/clips/creamy-guiness-xmkvcy9isuu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/creamy-guiness/clips/creamy-guiness-xmkvcy9isuu.json"
+ },
+ "rows": [
+  {
+   "videoId": "XMKvcy9ISuU",
+   "title": "CREAMY GUINESS | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 9700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=XMKvcy9ISuU",
+   "n_words": 193,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "We have a day in Dublin before the talk show. We have a day off. So, he thought, we'll take three gallons, right? Let's go to one company. Let's call them the \"three- gallon gang.\" 24 pints. It is pos",
+   "r2_clip_key": "comedians/creamy-guiness/clips/creamy-guiness-xmkvcy9isuu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/creamy-guiness/clips/creamy-guiness-xmkvcy9isuu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

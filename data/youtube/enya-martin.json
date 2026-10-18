@@ -1,0 +1,38 @@
+{
+ "comedian_id": "enya-martin",
+ "name": "Enya Martin",
+ "clips": 1,
+ "total_views": 21000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "TyVIcfN86Lc",
+  "title": "Aldi Checkout Staff | Enya Martin | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "views": 21000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=TyVIcfN86Lc",
+  "r2_clip_key": "comedians/enya-martin/clips/enya-martin-tyvicfn86lc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/enya-martin/clips/enya-martin-tyvicfn86lc.json"
+ },
+ "rows": [
+  {
+   "videoId": "TyVIcfN86Lc",
+   "title": "Aldi Checkout Staff | Enya Martin | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 21000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=TyVIcfN86Lc",
+   "n_words": 179,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "He comes home one day, right, and he's rattling. I says, \"What's after happening?\" He says, \"Don't be sending me off to our plane supermarket anymore.\" I says, \"Why?\" Says, \"They [\u00a0__\u00a0] build a food a",
+   "r2_clip_key": "comedians/enya-martin/clips/enya-martin-tyvicfn86lc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/enya-martin/clips/enya-martin-tyvicfn86lc.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

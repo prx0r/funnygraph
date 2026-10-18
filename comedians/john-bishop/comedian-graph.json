@@ -26,7 +26,7 @@
     "legacy": 26.1,
     "legacy_era": 49.5,
     "audience": null,
-    "popularity": null,
+    "popularity": 91.0,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -34,7 +34,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -60,7 +60,52 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 9
+  },
+  "youtube": {
+    "clips": 9,
+    "total_views": 28397218,
+    "timed_clips": 9,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "dmbpagijVkk",
+      "title": "Lee Mack's Joke Leaves John Cleese In Near Tears | The Graham Norton Show",
+      "views": 28042758,
+      "duration_s": 169,
+      "url": "https://www.youtube.com/watch?v=dmbpagijVkk",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/john-bishop/clips/john-bishop-dmbpagijvkk.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 2192,
+    "special_words": 0,
+    "timed_clips": 9,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q6222003",
+    "dob": "1966-11-30",
+    "dod": null,
+    "birthplace": "Liverpool",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "actor",
+      "association football player",
+      "salesperson"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

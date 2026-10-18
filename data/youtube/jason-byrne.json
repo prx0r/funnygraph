@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jason-byrne",
+ "name": "Jason Byrne",
+ "clips": 1,
+ "total_views": 21000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "G-6dW-JAw1A",
+  "title": "Sounds like an episode of Derry Girls \ud83d\ude06",
+  "channel": "NextUp Comedy",
+  "views": 21000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=G-6dW-JAw1A",
+  "r2_clip_key": "comedians/jason-byrne/clips/jason-byrne-g-6dw-jaw1a.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-byrne/clips/jason-byrne-g-6dw-jaw1a.json"
+ },
+ "rows": [
+  {
+   "videoId": "G-6dW-JAw1A",
+   "title": "Sounds like an episode of Derry Girls \ud83d\ude06",
+   "channel": "NextUp Comedy",
+   "views": 21000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=G-6dW-JAw1A",
+   "n_words": 550,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "So I have Swedish family and my brother lives there and he's got two daughters Amanda and Sophia Amanda is gay which we fucking love especially over my mom lives It's full of Catholics and we parade A",
+   "r2_clip_key": "comedians/jason-byrne/clips/jason-byrne-g-6dw-jaw1a.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-byrne/clips/jason-byrne-g-6dw-jaw1a.json",
+   "source_group": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ayoade-bamgboye",
+ "name": "Ayoade Bamgboye",
+ "clips": 1,
+ "total_views": 177000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "694YH_YLELA",
+  "title": "Send this to your twin to thank them \ud83d\udc6f (Ayoade Bamgboye: Swings and Roundabouts)",
+  "channel": "NextUp Comedy",
+  "views": 177000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=694YH_YLELA",
+  "r2_clip_key": "comedians/ayoade-bamgboye/clips/ayoade-bamgboye-694yh-ylela.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ayoade-bamgboye/clips/ayoade-bamgboye-694yh-ylela.json"
+ },
+ "rows": [
+  {
+   "videoId": "694YH_YLELA",
+   "title": "Send this to your twin to thank them \ud83d\udc6f (Ayoade Bamgboye: Swings and Roundabouts)",
+   "channel": "NextUp Comedy",
+   "views": 177000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=694YH_YLELA",
+   "n_words": 223,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "I'm the older twin I was born 30 minutes before my sister but technically in Urbalo I'm the younger one Because the story goes that the older twin is sent out into the world by the younger twin to do ",
+   "r2_clip_key": "comedians/ayoade-bamgboye/clips/ayoade-bamgboye-694yh-ylela.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ayoade-bamgboye/clips/ayoade-bamgboye-694yh-ylela.json",
+   "source_group": null
+  }
+ ]
+}

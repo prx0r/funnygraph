@@ -1,0 +1,38 @@
+{
+ "comedian_id": "sandro-ford",
+ "name": "Sandro Ford",
+ "clips": 1,
+ "total_views": 5400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "LYtfzBeTXQc",
+  "title": "Kildare 'Couple' | Sandro Ford | Craic Den Comedy Club #crowdwork #comedy #dublin #standup #kildare",
+  "channel": "@craicdencomedyclub",
+  "views": 5400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=LYtfzBeTXQc",
+  "r2_clip_key": "comedians/sandro-ford/clips/sandro-ford-lytfzbetxqc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sandro-ford/clips/sandro-ford-lytfzbetxqc.json"
+ },
+ "rows": [
+  {
+   "videoId": "LYtfzBeTXQc",
+   "title": "Kildare 'Couple' | Sandro Ford | Craic Den Comedy Club #crowdwork #comedy #dublin #standup #kildare",
+   "channel": "@craicdencomedyclub",
+   "views": 5400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=LYtfzBeTXQc",
+   "n_words": 107,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Where are you from? Kildare. >> [laughter] >> Who you with tonight? Kate. Me. >> [laughter] >> Kate. Me. >> [laughter] >> So how do you know Kate? She's me sister. No. Oh fair enough. Oh she's your gi",
+   "r2_clip_key": "comedians/sandro-ford/clips/sandro-ford-lytfzbetxqc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sandro-ford/clips/sandro-ford-lytfzbetxqc.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -315,11 +315,11 @@
     "legacy": 72.7,
     "legacy_era": 21.5,
     "audience": 52.5,
-    "popularity": 9.6,
+    "popularity": 47.5,
     "theory": 62.5,
     "heat": null,
-    "gap_value": -0.429,
-    "overrated": "underrated",
+    "gap_value": -0.05,
+    "overrated": "accurately rated",
     "canon_lag": -0.202
   },
   "tier": "king",
@@ -351,7 +351,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -377,7 +377,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "recognition": {
@@ -407,5 +407,35 @@
       "source": "known-title",
       "standout": false
     }
-  ]
+  ],
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 8
+  },
+  "youtube": {
+    "clips": 8,
+    "total_views": 9536457,
+    "timed_clips": 8,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "5I3SbdHSteE",
+      "title": "James Corden Loses It Over Sean Lock's Michael Jackson Impression | 8 Out of 10 Cats",
+      "views": 5160874,
+      "duration_s": 82,
+      "url": "https://www.youtube.com/watch?v=5I3SbdHSteE",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sean-lock/clips/sean-lock-5i3sbdhstee.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 1945,
+    "special_words": 0,
+    "timed_clips": 8,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

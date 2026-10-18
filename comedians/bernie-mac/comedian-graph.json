@@ -39,7 +39,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -65,7 +65,21 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
+  },
+  "bio": {
+    "wikidata_id": "Q176323",
+    "dob": "1957-10-05",
+    "dod": "2008-08-09",
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "street artist",
+      "screenwriter",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

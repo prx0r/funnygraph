@@ -28,7 +28,7 @@
     "legacy": 55.6,
     "legacy_era": 1.5,
     "audience": null,
-    "popularity": null,
+    "popularity": 75.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,52 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 11
+  },
+  "youtube": {
+    "clips": 11,
+    "total_views": 1148158,
+    "timed_clips": 11,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "WX34DPj1H60",
+      "title": "Alan Carr\u2019s Uncanny Celine Dion Impression | The Graham Norton Show",
+      "views": 583482,
+      "duration_s": 124,
+      "url": "https://www.youtube.com/watch?v=WX34DPj1H60",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alan-carr/clips/alan-carr-wx34dpj1h60.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 2636,
+    "special_words": 0,
+    "timed_clips": 11,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q32795",
+    "dob": "1976-06-14",
+    "dod": null,
+    "birthplace": "Weymouth",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "comedian",
+      "film actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

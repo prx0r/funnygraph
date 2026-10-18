@@ -57,7 +57,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -83,7 +83,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -94,5 +94,19 @@
   "recognition": {
     "rolling_stone_2017": 36
   },
-  "region": "uk"
+  "region": "uk",
+  "bio": {
+    "wikidata_id": "Q5217810",
+    "dob": "1977-07-02",
+    "dod": null,
+    "birthplace": "Denby Dale",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "stand-up comedian",
+      "actor",
+      "performing artist"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

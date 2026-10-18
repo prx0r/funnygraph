@@ -1,0 +1,72 @@
+{
+ "comedian_id": "comedy-centre",
+ "name": "Comedy Centre",
+ "clips": 3,
+ "total_views": 479459,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "8l-Kr5mp5Wk",
+  "title": "Jimmy Carr on Transgender and Pronouns",
+  "channel": "Comedy Centre",
+  "views": 335987,
+  "duration_s": 75,
+  "url": "https://www.youtube.com/watch?v=8l-Kr5mp5Wk",
+  "r2_clip_key": "comedians/comedy-centre/clips/comedy-centre-8l-kr5mp5wk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-centre/clips/comedy-centre-8l-kr5mp5wk.json"
+ },
+ "rows": [
+  {
+   "videoId": "8l-Kr5mp5Wk",
+   "title": "Jimmy Carr on Transgender and Pronouns",
+   "channel": "Comedy Centre",
+   "views": 335987,
+   "likes": null,
+   "duration_s": 75,
+   "url": "https://www.youtube.com/watch?v=8l-Kr5mp5Wk",
+   "n_words": 137,
+   "words_timed": true,
+   "transcript_method": "local-faster-whisper-tiny",
+   "transcript_available": true,
+   "transcript_preview": "This next joke might get me cancelled. Come on. Transgender people are more they used to be. I'm really, there's two issues. There's trans and there's non-binary. They'll have to get conflated in our ",
+   "r2_clip_key": "comedians/comedy-centre/clips/comedy-centre-8l-kr5mp5wk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-centre/clips/comedy-centre-8l-kr5mp5wk.json",
+   "source_group": "big-names-shorts"
+  },
+  {
+   "videoId": "r7S9qMOmP4o",
+   "title": "Sean Lock Destroys Russell Brand | 8 Out of 10 Cats (2014)",
+   "channel": "Comedy Centre",
+   "views": 132020,
+   "likes": null,
+   "duration_s": 128,
+   "url": "https://www.youtube.com/watch?v=r7S9qMOmP4o",
+   "n_words": 404,
+   "words_timed": true,
+   "transcript_method": "cloudflare-whisper",
+   "transcript_available": true,
+   "transcript_preview": "There's obviously there's one person who didn't wear a mask isn't there Russell Brand and I think the funny thing is that he's the only one not wearing a mask Because obviously if he wore a mask peopl",
+   "r2_clip_key": "comedians/comedy-centre/clips/comedy-centre-r7s9qmomp4o.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-centre/clips/comedy-centre-r7s9qmomp4o.json",
+   "source_group": "big-names-shorts"
+  },
+  {
+   "videoId": "R3F41m3ZCrQ",
+   "title": "Jimmy Carr's Dig at Peter Kay Kicking Out Audience Members",
+   "channel": "Comedy Centre",
+   "views": 11452,
+   "likes": null,
+   "duration_s": 29,
+   "url": "https://www.youtube.com/watch?v=R3F41m3ZCrQ",
+   "n_words": 124,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And you're busy on tour, Jimmy. I'm always on tour. Yeah. Constantly. Play in the arenas just to sort of big up my ego at the end of the year. Of course. But I'm I'm loving the fact that your heckles ",
+   "r2_clip_key": "comedians/comedy-centre/clips/comedy-centre-r3f41m3zcrq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-centre/clips/comedy-centre-r3f41m3zcrq.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

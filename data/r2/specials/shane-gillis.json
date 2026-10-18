@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "shane-gillis",
+ "specials": [
+  {
+   "special_slug": "beautiful-dogs-2023",
+   "title": "Shane Gillis: Beautiful Dogs (2023)",
+   "comedian": "Shane Gillis",
+   "url": "https://scrapsfromtheloft.com/comedy/shane-gillis-beautiful-dogs-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8555,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nShane Gillis: Beautiful Dogs (2023) \u2013 Transcript\nPublished September 26, 2023\nIn a rowdy stand-up set, Shane Gillis riffs on his girlfriend\u2019s Navy SEAL ex, touring George Washington\u2019s house and being bullied by an Australian Goth.\n\n[crowd murmuring]\n\n[\u201cTops Drop\u201d by Fat Pat playing]\n\n[cro",
+   "r2_special_key": "comedians/shane-gillis/specials/beautiful-dogs-2023.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shane-gillis/specials/beautiful-dogs-2023.json"
+  },
+  {
+   "special_slug": "live-in-austin",
+   "title": "Shane Gillis: Live in Austin",
+   "comedian": "Shane Gillis",
+   "url": "https://scrapsfromtheloft.com/comedy/shane-gillis-live-in-austin-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 7104,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nShane Gillis: Live in Austin \u2013 Transcript\nPublished January 14, 2024\nShane Gillis\u2019 stand-up in Austin mixes edgy humor with personal stories, covering family, politics, and societal absurdities in a raw, controversial style\n\nShane Gillis\u2019 debut stand-up comedy special, recorded live at Th",
+   "r2_special_key": "comedians/shane-gillis/specials/live-in-austin.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shane-gillis/specials/live-in-austin.json"
+  }
+ ],
+ "count": 2
+}

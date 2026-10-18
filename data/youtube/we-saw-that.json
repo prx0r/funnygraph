@@ -1,0 +1,55 @@
+{
+ "comedian_id": "we-saw-that",
+ "name": "We Saw That",
+ "clips": 2,
+ "total_views": 107000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "-0P2gr1LNmA",
+  "title": "Pronounce That | We Saw That LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 75000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=-0P2gr1LNmA",
+  "r2_clip_key": "comedians/we-saw-that/clips/we-saw-that--0p2gr1lnma.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/we-saw-that/clips/we-saw-that--0p2gr1lnma.json"
+ },
+ "rows": [
+  {
+   "videoId": "-0P2gr1LNmA",
+   "title": "Pronounce That | We Saw That LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 75000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=-0P2gr1LNmA",
+   "n_words": 115,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What are your top three minorities? Do you know what \" minority\" means? Top three, top three minorities. I just know I do n't like it. OK. Oh, you're from Nigeria. How are you ...What is your name? An",
+   "r2_clip_key": "comedians/we-saw-that/clips/we-saw-that--0p2gr1lnma.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/we-saw-that/clips/we-saw-that--0p2gr1lnma.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "HFDUC0IFGR0",
+   "title": "Google Is Racist | We Saw That LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 32000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=HFDUC0IFGR0",
+   "n_words": 156,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "We first asked Google. We say, \"Yo, top five things to do in Liverpool.\" Do you know what Google published? A slavery museum? Good. I'm not going to. This is crazy, isn't it? First thing. First thing.",
+   "r2_clip_key": "comedians/we-saw-that/clips/we-saw-that-hfduc0ifgr0.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/we-saw-that/clips/we-saw-that-hfduc0ifgr0.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

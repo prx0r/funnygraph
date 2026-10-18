@@ -1,0 +1,38 @@
+{
+ "comedian_id": "live-comedy",
+ "name": "Live Comedy",
+ "clips": 1,
+ "total_views": 543294,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "gEavqc6kPQg",
+  "title": "Russell Howard Proves That English Accents Aren't Sexy | Live Comedy",
+  "channel": "Avalon Comedy",
+  "views": 543294,
+  "duration_s": 181,
+  "url": "https://www.youtube.com/watch?v=gEavqc6kPQg",
+  "r2_clip_key": "comedians/live-comedy/clips/live-comedy-geavqc6kpqg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/live-comedy/clips/live-comedy-geavqc6kpqg.json"
+ },
+ "rows": [
+  {
+   "videoId": "gEavqc6kPQg",
+   "title": "Russell Howard Proves That English Accents Aren't Sexy | Live Comedy",
+   "channel": "Avalon Comedy",
+   "views": 543294,
+   "likes": null,
+   "duration_s": 181,
+   "url": "https://www.youtube.com/watch?v=gEavqc6kPQg",
+   "n_words": 221,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I found something else about this country of ours this week apparently the English accent was voted the sexiest in the world you say that but I would argue they've never been to the west country I wil",
+   "r2_clip_key": "comedians/live-comedy/clips/live-comedy-geavqc6kpqg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/live-comedy/clips/live-comedy-geavqc6kpqg.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

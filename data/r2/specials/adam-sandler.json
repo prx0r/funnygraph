@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "adam-sandler",
+ "specials": [
+  {
+   "special_slug": "love-you-2024",
+   "title": "Adam Sandler: Love You (2024)",
+   "comedian": "Adam Sandler",
+   "url": "https://scrapsfromtheloft.com/comedy/adam-sandler-love-you-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10885,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nAdam Sandler: Love You (2024) \u2013 Transcript\nPublished August 27, 2024\nAfter a rather oddly chaotic beginning -Adam arrives late to the gig, driving a car with a broken windshield, the show gains momentum. Two songs exemplify typical Sandler humor: \u201cBulldog In A Halloween Costume\u201d and \u201cThe ",
+   "r2_special_key": "comedians/adam-sandler/specials/love-you-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/adam-sandler/specials/love-you-2024.json"
+  },
+  {
+   "special_slug": "100-fresh-2018",
+   "title": "Adam Sandler: 100% Fresh (2018) \u2013 Full Transcript",
+   "comedian": "Adam Sandler",
+   "url": "https://scrapsfromtheloft.com/comedy/adam-sandler-100-fresh-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10636,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[man] Okay, ready, and\u2026 Take your own cue, Adam. And action, Dan! [piano plays] \u266a It was the perfect day \u266a\n \u266a You had the sweetest smile \u266a\n \u266a You were my only way \u266a\n \u266a Yeah, we were doing it in style \u266a\n \u266a We were walkin\u2019 and talkin\u2019 And jammin\u2019 and jawin\u2019 \u266a\n \u266a It was you and me against the world \u266a\n ",
+   "r2_special_key": "comedians/adam-sandler/specials/100-fresh-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/adam-sandler/specials/100-fresh-2018.json"
+  }
+ ],
+ "count": 2
+}

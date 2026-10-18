@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jason-manford-s-shopping-story",
+ "name": "Jason Manford's shopping story",
+ "clips": 1,
+ "total_views": 90928,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "uIjt2gTxWdE",
+  "title": "Jason Manford's shopping story - The Graham Norton Show 2017: Episode 6 Preview - BBC",
+  "channel": "BBC",
+  "views": 90928,
+  "duration_s": 179,
+  "url": "https://www.youtube.com/watch?v=uIjt2gTxWdE",
+  "r2_clip_key": "comedians/jason-manford-s-shopping-story/clips/jason-manford-s-shopping-story-uijt2gtxwde.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-manford-s-shopping-story/clips/jason-manford-s-shopping-story-uijt2gtxwde.json"
+ },
+ "rows": [
+  {
+   "videoId": "uIjt2gTxWdE",
+   "title": "Jason Manford's shopping story - The Graham Norton Show 2017: Episode 6 Preview - BBC",
+   "channel": "BBC",
+   "views": 90928,
+   "likes": null,
+   "duration_s": 179,
+   "url": "https://www.youtube.com/watch?v=uIjt2gTxWdE",
+   "n_words": 581,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "But also, I suppose it's because with your kids, you could spoil them, but you have to try and be strict with them. Yeah, it's tough like because you know as as you you're doing all right, you want to",
+   "r2_clip_key": "comedians/jason-manford-s-shopping-story/clips/jason-manford-s-shopping-story-uijt2gtxwde.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-manford-s-shopping-story/clips/jason-manford-s-shopping-story-uijt2gtxwde.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

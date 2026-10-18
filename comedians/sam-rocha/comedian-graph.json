@@ -1,132 +1,527 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "sam-rocha",
-  "name": "Sam Rocha",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "Time Out 12 to watch 2026",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "timeout-2026"
-    ],
-    "discovery_note": "Time Out 12 to watch 2026",
-    "region_method": "venue-scene (overwrite on origin evidence)"
-  },
-  "theory_score": null,
-  "nearest_greats": [
-    {
-      "comedian_id": "jack-whitehall",
-      "sim": 0.098
-    },
-    {
-      "comedian_id": "sarah-millican",
-      "sim": 0.089
-    },
-    {
-      "comedian_id": "bill-maher",
-      "sim": 0.083
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "sam-rocha",
+ "name": "Sam Rocha",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Time Out 12 to watch 2026",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "timeout-2026"
   ],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
+  "discovery_note": "Time Out 12 to watch 2026",
+  "region_method": "venue-scene (overwrite on origin evidence)"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "jack-whitehall",
+   "sim": 0.098
   },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 41.4,
-    "theory": 12.5,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+  {
+   "comedian_id": "sarah-millican",
+   "sim": 0.089
   },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "rating": {
-    "headline": 12.5,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCgUqMckwi8jhFXSfjuJqPhg",
-    "handle": "samrocha",
-    "title": "Sam Rocha",
-    "subs": 529,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "active",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-05-10",
-    "name_match_rate": 0.58,
-    "other_names": []
-  },
-  "region": "us",
-  "known_bits": [
-    {
-      "title": "Anxiety made literal",
-      "why_it_works": "Carry-on bomb panic, DMV trans ID with Rock Johnson's photo, astronaut-wife film logic: takes intrusive thoughts staging-ready (literalize) and plays them dead straight. (Time Out 2026; hypothesis)",
-      "theory_links": [
-        "literalize",
-        "split_knowledge"
-      ],
-      "source": "timeout-2026",
-      "status": "hypothesis (press-described, unmeasured)"
-    }
-  ],
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [],
-    "via": "jack-whitehall",
-    "sim": 0.098,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "bill-maher",
+   "sim": 0.083
   }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 61.7,
+  "theory": 12.5,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 12.5,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCgUqMckwi8jhFXSfjuJqPhg",
+  "handle": "samrocha",
+  "title": "Sam Rocha",
+  "subs": 529,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "active",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-05-10",
+  "name_match_rate": 0.58,
+  "other_names": []
+ },
+ "region": "us",
+ "known_bits": [
+  {
+   "title": "Anxiety made literal",
+   "why_it_works": "Carry-on bomb panic, DMV trans ID with Rock Johnson's photo, astronaut-wife film logic: takes intrusive thoughts staging-ready (literalize) and plays them dead straight. (Time Out 2026; hypothesis)",
+   "theory_links": [
+    "literalize",
+    "split_knowledge"
+   ],
+   "source": "timeout-2026",
+   "status": "hypothesis (press-described, unmeasured)"
+  }
+ ],
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [],
+  "via": "jack-whitehall",
+  "sim": 0.098,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "doB7hq-SSK8",
+   "title": "Sam Rocha Trio (feat. Kevin Eng) // St. Mark\u2019s Chapel, UBC // Winter 2023",
+   "duration_s": 5458,
+   "views": 272,
+   "url": "https://www.youtube.com/watch?v=doB7hq-SSK8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "79yUq4c7NXY",
+   "title": "LO FI // Sam Rocha Trio // Shaughnessy Heights United Church",
+   "duration_s": 4389,
+   "views": 69,
+   "url": "https://www.youtube.com/watch?v=79yUq4c7NXY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Fg8buRPGxo4",
+   "title": "Sam Rocha Trio // Shaughnessy Heights United Church // Summer 2022",
+   "duration_s": 5010,
+   "views": 296,
+   "url": "https://www.youtube.com/watch?v=Fg8buRPGxo4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "9JFdRIHXAII",
+   "title": "The SAM ROCHA TRIO // rehearsal footage",
+   "duration_s": 3187,
+   "views": 106,
+   "url": "https://www.youtube.com/watch?v=9JFdRIHXAII",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "C7ZDLqBZaOY",
+   "title": "The SAM ROCHA TRIO // rehearsal",
+   "duration_s": 4794,
+   "views": 108,
+   "url": "https://www.youtube.com/watch?v=C7ZDLqBZaOY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "KQpdgtk7xCs",
+   "title": "The Intersection of Critical Race Theory and Catholic Social Teaching",
+   "duration_s": 4929,
+   "views": 1522,
+   "url": "https://www.youtube.com/watch?v=KQpdgtk7xCs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "x20E6JmGHhg",
+   "title": "The Letter: A Response to Power in Sor Juana Ines de la Cruz and Bartolom\u00e9 de las Casas",
+   "duration_s": 4669,
+   "views": 413,
+   "url": "https://www.youtube.com/watch?v=x20E6JmGHhg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PdaZSpg5Y3s",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Nine // Powerlifting with Ogechi Akalebere",
+   "duration_s": 4414,
+   "views": 44,
+   "url": "https://www.youtube.com/watch?v=PdaZSpg5Y3s",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ODiMx9IR9P8",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Eight // El ser y la Persona con Rodrigo Guerra",
+   "duration_s": 5739,
+   "views": 32,
+   "url": "https://www.youtube.com/watch?v=ODiMx9IR9P8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GzBCuCYTxvk",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Seven // Translation with Catherine Addington",
+   "duration_s": 4355,
+   "views": 37,
+   "url": "https://www.youtube.com/watch?v=GzBCuCYTxvk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lpQFaFE7-4s",
+   "title": "SAM ROCHA TRIO: Grandma's Hands, People Get Ready, Give Me One Reason, Blue Eyes Crying in the Rain",
+   "duration_s": 1546,
+   "views": 267,
+   "url": "https://www.youtube.com/watch?v=lpQFaFE7-4s",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "o2P5yz15Ufg",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Six // Liberation Theology with Vanesa Zuleta Goldberg",
+   "duration_s": 5533,
+   "views": 55,
+   "url": "https://www.youtube.com/watch?v=o2P5yz15Ufg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CXI35SoNy1s",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Five // Abolition and Immigration with Sophia Gurul\u00e9",
+   "duration_s": 4798,
+   "views": 35,
+   "url": "https://www.youtube.com/watch?v=CXI35SoNy1s",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vu2eqvC2Yl8",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Four // Philosophy and Math with Sarah Hogarth Rossiter",
+   "duration_s": 4511,
+   "views": 52,
+   "url": "https://www.youtube.com/watch?v=vu2eqvC2Yl8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lcju27qNfJE",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Three // Writing and Composition with Kaya Oakes",
+   "duration_s": 3728,
+   "views": 38,
+   "url": "https://www.youtube.com/watch?v=lcju27qNfJE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "oJj-kYEnOkY",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Two // The Tragicomic with Jeannie Gaffigan",
+   "duration_s": 4199,
+   "views": 37,
+   "url": "https://www.youtube.com/watch?v=oJj-kYEnOkY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SliH5xf2wyc",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode One // The Interview Itself",
+   "duration_s": 4102,
+   "views": 72,
+   "url": "https://www.youtube.com/watch?v=SliH5xf2wyc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-ksdX8YHx3U",
+   "title": "FOLK PHENOMENOLOGY // SEASON ONE // Episode Zero // Folk Phenomenology with Sofia Rocha",
+   "duration_s": 2561,
+   "views": 86,
+   "url": "https://www.youtube.com/watch?v=-ksdX8YHx3U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "qRbQC0MlxAg",
+   "title": "An Arbitrary Introduction to Philosophy of Education",
+   "duration_s": 5220,
+   "views": 288,
+   "url": "https://www.youtube.com/watch?v=qRbQC0MlxAg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "qAit34x_gJs",
+   "title": "The Syllabus as Curriculum and the Poetic Secret of Objects",
+   "duration_s": 5667,
+   "views": 120,
+   "url": "https://www.youtube.com/watch?v=qAit34x_gJs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "LLqOa_X578c",
+   "title": "Sam Rocha Book Launch - The Syllabus as Curriculum: A Reconceptualist Approach",
+   "duration_s": 3681,
+   "views": 459,
+   "url": "https://www.youtube.com/watch?v=LLqOa_X578c",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-Yij37-E12Q",
+   "title": "UBC EDST 595: Philosophical Research in Education // Welcome",
+   "duration_s": 1835,
+   "views": 307,
+   "url": "https://www.youtube.com/watch?v=-Yij37-E12Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yozRcNdp8n8",
+   "title": "Sam Rocha at St. Mark's Parish // ANAMNESIS",
+   "duration_s": 5456,
+   "views": 76,
+   "url": "https://www.youtube.com/watch?v=yozRcNdp8n8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "KZ300YAcvX4",
+   "title": "Theology, Politics & the University: A Conversation with Sam Rocha",
+   "duration_s": 4908,
+   "views": 461,
+   "url": "https://www.youtube.com/watch?v=KZ300YAcvX4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1XrODHAW2JA",
+   "title": "\"Eros & Education\": A talk by Sam Rocha",
+   "duration_s": 4836,
+   "views": 427,
+   "url": "https://www.youtube.com/watch?v=1XrODHAW2JA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EX6tDXj9sEI",
+   "title": "DON ROSS AND CALUM GRAHAM @ RUFUS GUITAR SHOP",
+   "duration_s": 5279,
+   "views": 99,
+   "url": "https://www.youtube.com/watch?v=EX6tDXj9sEI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Q8sSF3tRvn8",
+   "title": "Catholic Educators Conference 2017 - The People's Corner (with Sam Rocha)",
+   "duration_s": 4212,
+   "views": 180,
+   "url": "https://www.youtube.com/watch?v=Q8sSF3tRvn8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "AUmOf0a_bsI",
+   "title": "Educational Fantasy in Slavoj Zizek: A Theological Approach",
+   "duration_s": 3055,
+   "views": 563,
+   "url": "https://www.youtube.com/watch?v=AUmOf0a_bsI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "_Ltv_fUKptU",
+   "title": "HANNAH ARENDT - Crisis, Evil, Thinking: Aristotle, Augustine, Husserl",
+   "duration_s": 3310,
+   "views": 1239,
+   "url": "https://www.youtube.com/watch?v=_Ltv_fUKptU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xYDzpWAfEmQ",
+   "title": "Don Ross & Jon Gomm @ Rogue Folk (Part One)",
+   "duration_s": 3711,
+   "views": 358,
+   "url": "https://www.youtube.com/watch?v=xYDzpWAfEmQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "y0r07g7Pu6Q",
+   "title": "Don Ross & Jon Gomm @ Rogue Folk (Part Two)",
+   "duration_s": 3811,
+   "views": 107,
+   "url": "https://www.youtube.com/watch?v=y0r07g7Pu6Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EUBT9h9Az2k",
+   "title": "LATE TO LOVE at Memphis PES 2015",
+   "duration_s": 2436,
+   "views": 158,
+   "url": "https://www.youtube.com/watch?v=EUBT9h9Az2k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "B5oGuGJg-p4",
+   "title": "\"Lines of Tension, Rays of Light: An Autotheography\"",
+   "duration_s": 1981,
+   "views": 427,
+   "url": "https://www.youtube.com/watch?v=B5oGuGJg-p4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "BfFj_0BxjO0",
+   "title": "Reflections on Paulo Freire and Liberation Theology",
+   "duration_s": 1609,
+   "views": 541,
+   "url": "https://www.youtube.com/watch?v=BfFj_0BxjO0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "fV--ZLOxOhw",
+   "title": "ROCHA HUHC",
+   "duration_s": 1829,
+   "views": 193,
+   "url": "https://www.youtube.com/watch?v=fV--ZLOxOhw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "my-pfgK7Qfs",
+   "title": "Sam Rocha at Seattle Pacific University",
+   "duration_s": 4632,
+   "views": 266,
+   "url": "https://www.youtube.com/watch?v=my-pfgK7Qfs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5q_fnpzinXI",
+   "title": "Sam Rocha at Regent College",
+   "duration_s": 4261,
+   "views": 397,
+   "url": "https://www.youtube.com/watch?v=5q_fnpzinXI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DRwMmTTCwU0",
+   "title": "Sam Rocha, \"Four Theories of the Human Person\"",
+   "duration_s": 2162,
+   "views": 152,
+   "url": "https://www.youtube.com/watch?v=DRwMmTTCwU0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0eG2YrD9TiM",
+   "title": "Sam Rocha @ The Empire 7/6/2013 (Part One)",
+   "duration_s": 5435,
+   "views": 108,
+   "url": "https://www.youtube.com/watch?v=0eG2YrD9TiM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "q7UGCeUUSvM",
+   "title": "Author Meets Critics @ PES 2013\" Eduardo Duarte's \"Being and Learning\"",
+   "duration_s": 4643,
+   "views": 122,
+   "url": "https://www.youtube.com/watch?v=q7UGCeUUSvM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sTOrfSiAVO8",
+   "title": "Incarnate Reading -- Sam Rocha @ PES 2013",
+   "duration_s": 4351,
+   "views": 129,
+   "url": "https://www.youtube.com/watch?v=sTOrfSiAVO8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZK6uB6--VfU",
+   "title": "Sam Rocha @ The Hub 2/26/13",
+   "duration_s": 2746,
+   "views": 222,
+   "url": "https://www.youtube.com/watch?v=ZK6uB6--VfU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GnDyL8ns_YY",
+   "title": "Being and Meaning, Showing and Saying, Phenomenology and Folklore",
+   "duration_s": 5434,
+   "views": 265,
+   "url": "https://www.youtube.com/watch?v=GnDyL8ns_YY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "f3BY1WpYGgs",
+   "title": "Society for the Philosophical Study of Education 2012 - final session",
+   "duration_s": 4037,
+   "views": 321,
+   "url": "https://www.youtube.com/watch?v=f3BY1WpYGgs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "h7vDneGaRt4",
+   "title": "Liturgy as Mystagogy, a lecture by Sam Rocha",
+   "duration_s": 5435,
+   "views": 870,
+   "url": "https://www.youtube.com/watch?v=h7vDneGaRt4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UOwbwDPl6Hg",
+   "title": "Sam Rocha at the Red Stag Supperclub 7/22/2012",
+   "duration_s": 5474,
+   "views": 106,
+   "url": "https://www.youtube.com/watch?v=UOwbwDPl6Hg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZYei7OYBUig",
+   "title": "\"Sts. Augustine and Monica, the Head and the Heart\"",
+   "duration_s": 4975,
+   "views": 791,
+   "url": "https://www.youtube.com/watch?v=ZYei7OYBUig",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "_s9oCXjaTi8",
+   "title": "Dave King and JT Bates at ICEHOUSE, Minneapolis.",
+   "duration_s": 3308,
+   "views": 2165,
+   "url": "https://www.youtube.com/watch?v=_s9oCXjaTi8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "k725_U-AktI",
+   "title": "The Bad Plus with Joshua Redman at the 2012 Twin Cities Jazz Festival",
+   "duration_s": 5280,
+   "views": 5943,
+   "url": "https://www.youtube.com/watch?v=k725_U-AktI",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 49
 }

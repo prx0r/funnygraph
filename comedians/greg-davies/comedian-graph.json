@@ -94,8 +94,14 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "you-magnificent-beast-2018"
+    ],
+    "special_titles": [
+      "GREG DAVIES: YOU MAGNIFICENT BEAST (2018) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -270,11 +276,11 @@
     "legacy": 80.7,
     "legacy_era": 89.4,
     "audience": 67.5,
-    "popularity": 46.5,
+    "popularity": 70.2,
     "theory": 50.0,
     "heat": null,
-    "gap_value": -0.21,
-    "overrated": "underrated",
+    "gap_value": 0.027,
+    "overrated": "accurately rated",
     "canon_lag": -0.132
   },
   "tier": "king",
@@ -327,7 +333,7 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 44.1,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -353,7 +359,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -409,5 +415,36 @@
     "subs": 2,
     "via": "forHandle-verified",
     "source": "UK push (verified, no search)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 12,
+    "r2_specials": 1
+  },
+  "youtube": {
+    "clips": 12,
+    "total_views": 53659736,
+    "timed_clips": 12,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "dmbpagijVkk",
+      "title": "Lee Mack's Joke Leaves John Cleese In Near Tears | The Graham Norton Show",
+      "views": 28042737,
+      "duration_s": 169,
+      "url": "https://www.youtube.com/watch?v=dmbpagijVkk",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/greg-davies/clips/greg-davies-dmbpagijvkk.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3320,
+    "special_words": 9331,
+    "timed_clips": 12,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

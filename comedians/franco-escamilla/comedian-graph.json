@@ -1,124 +1,477 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "franco-escamilla",
-  "name": "Franco Escamilla",
-  "tier": "indie",
-  "region": "mexico",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/latam-es",
-  "note": "El Diablo. #1 Mexican standup: Auditorio Nacional + Microsoft Theatre sellouts, tours LatAm/Europe/Asia. Music+poetry+crowd-work arena shows.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "curated-latam-es",
-      "press"
-    ],
-    "discovery_note": "El Diablo. #1 Mexican standup: Auditorio Nacional + Microsoft Theatre sellouts, tours LatAm/Europe/Asia. Music+poetry+crowd-work arena shows."
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "continent": "north-america",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 80.7,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "andrew-schulz",
-      "sim": 0.196
-    },
-    {
-      "comedian_id": "mark-normand",
-      "sim": 0.09
-    },
-    {
-      "comedian_id": "john-mulaney",
-      "sim": 0.086
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "franco-escamilla",
+ "name": "Franco Escamilla",
+ "tier": "indie",
+ "region": "mexico",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/latam-es",
+ "note": "El Diablo. #1 Mexican standup: Auditorio Nacional + Microsoft Theatre sellouts, tours LatAm/Europe/Asia. Music+poetry+crowd-work arena shows.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-latam-es",
+   "press"
   ],
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  "discovery_note": "El Diablo. #1 Mexican standup: Auditorio Nacional + Microsoft Theatre sellouts, tours LatAm/Europe/Asia. Music+poetry+crowd-work arena shows."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "continent": "north-america",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 94.4,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "andrew-schulz",
+   "sim": 0.196
   },
-  "youtube_channel": {
-    "id": "UCUjrDJokSX8JavRwy5iUOkA",
-    "handle": "francoescamilla",
-    "title": "Franco Escamilla",
-    "subs": 14400000,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "active",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-16",
-    "name_match_rate": 0.3,
-    "other_names": [
-      "Aldo Show",
-      "Los Regalito",
-      "Padres Diablo"
-    ]
+  {
+   "comedian_id": "mark-normand",
+   "sim": 0.09
   },
-  "style_tags": {
-    "humor_type": "crowd-improv",
-    "theories": [
-      "status_reversal",
-      "benign_violation",
-      "incongruity"
-    ],
-    "via": "andrew-schulz",
-    "sim": 0.196,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "john-mulaney",
+   "sim": 0.086
   }
+ ],
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCUjrDJokSX8JavRwy5iUOkA",
+  "handle": "francoescamilla",
+  "title": "Franco Escamilla",
+  "subs": 14400000,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "active",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-16",
+  "name_match_rate": 0.3,
+  "other_names": [
+   "Aldo Show",
+   "Los Regalito",
+   "Padres Diablo"
+  ]
+ },
+ "style_tags": {
+  "humor_type": "crowd-improv",
+  "theories": [
+   "status_reversal",
+   "benign_violation",
+   "incongruity"
+  ],
+  "via": "andrew-schulz",
+  "sim": 0.196,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "bio": {
+  "wikidata_id": "Q29405052",
+  "dob": "1981-04-29",
+  "dod": null,
+  "birthplace": "Cuautla de Morelos",
+  "citizenship": "Mexico",
+  "occupations": [
+   "comedian",
+   "podcast show",
+   "entrepreneur",
+   "radio personality"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "PdrXFHapfLM",
+   "title": "FranCupido\u2764\ufe0f| Guadalajara 2 | Ep.-3",
+   "duration_s": 1978,
+   "views": 11878,
+   "url": "https://www.youtube.com/watch?v=PdrXFHapfLM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZsKiDtM542U",
+   "title": "Mart\u00edn Valverde | Tirando Bola | T9E19",
+   "duration_s": 4427,
+   "views": 166219,
+   "url": "https://www.youtube.com/watch?v=ZsKiDtM542U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sNCrE0fdolw",
+   "title": "Mestizos Precisos T2 | Ep 11.- Trabajos Modernos",
+   "duration_s": 3484,
+   "views": 221317,
+   "url": "https://www.youtube.com/watch?v=sNCrE0fdolw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8yIrJMUC33M",
+   "title": "Los Amos del Universo.- Se\u00f1oras Chismosas",
+   "duration_s": 7531,
+   "views": 282095,
+   "url": "https://www.youtube.com/watch?v=8yIrJMUC33M",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "bSDlWGbzcIA",
+   "title": "La Mesa Re\u00f1o\u00f1a 519.- Venganza del buleado / Viejita y el refri",
+   "duration_s": 9032,
+   "views": 475836,
+   "url": "https://www.youtube.com/watch?v=bSDlWGbzcIA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6mhKfugQ2ng",
+   "title": "FranCupido\u2764\ufe0f| Guadalajara 1 | Ep.-2",
+   "duration_s": 1582,
+   "views": 938795,
+   "url": "https://www.youtube.com/watch?v=6mhKfugQ2ng",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "AUKJp6u1LRw",
+   "title": "Pl\u00e1tica de Compas | Aldo Show, El Chulo y Poncho Trevi\u00f1o | Ep. 7",
+   "duration_s": 11159,
+   "views": 506895,
+   "url": "https://www.youtube.com/watch?v=AUKJp6u1LRw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "hwazmq_bUOg",
+   "title": "Mestizos Precisos T2 | Ep 10.- Festivales",
+   "duration_s": 3341,
+   "views": 255559,
+   "url": "https://www.youtube.com/watch?v=hwazmq_bUOg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1-hxLsWD9BQ",
+   "title": "Los Amos del Universo.- Carne asada con la panza es primero",
+   "duration_s": 8193,
+   "views": 312664,
+   "url": "https://www.youtube.com/watch?v=1-hxLsWD9BQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5z1zbbQyFa0",
+   "title": "La Mesa Re\u00f1o\u00f1a 518.- Inundaciones / Gatos que ven fantasmas",
+   "duration_s": 9723,
+   "views": 471454,
+   "url": "https://www.youtube.com/watch?v=5z1zbbQyFa0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8PoXnC7CSwc",
+   "title": "FranCupido\u2764\ufe0f| CDMX 1 | Ep.-1",
+   "duration_s": 1458,
+   "views": 1223544,
+   "url": "https://www.youtube.com/watch?v=8PoXnC7CSwc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "9HQf2hfSx9s",
+   "title": "Farid Dieck | Tirando Bola | T9E18",
+   "duration_s": 5924,
+   "views": 2865216,
+   "url": "https://www.youtube.com/watch?v=9HQf2hfSx9s",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xrchyCsAxZY",
+   "title": "Mestizos Precisos T2 | Ep 9.- Mitos urbanos",
+   "duration_s": 3333,
+   "views": 301818,
+   "url": "https://www.youtube.com/watch?v=xrchyCsAxZY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6Qk0qLZQLk8",
+   "title": "Los Amos del Universo.- Cosas de Cholos",
+   "duration_s": 8100,
+   "views": 905317,
+   "url": "https://www.youtube.com/watch?v=6Qk0qLZQLk8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DrUlFSB2c-Q",
+   "title": "La Mesa Re\u00f1o\u00f1a 517.- Latigazos / Caballerosidad / Invitado Regalito",
+   "duration_s": 9140,
+   "views": 477201,
+   "url": "https://www.youtube.com/watch?v=DrUlFSB2c-Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "bKG1lNTAUjc",
+   "title": "Pl\u00e1tica de Compas | Wereverwero, Alk4pon3 y El Venado 98 | Ep. 6",
+   "duration_s": 9915,
+   "views": 610430,
+   "url": "https://www.youtube.com/watch?v=bKG1lNTAUjc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Yc8gc9Rv2qE",
+   "title": "Mestizos Precisos T2 | Ep 8.- Deudas",
+   "duration_s": 4192,
+   "views": 343584,
+   "url": "https://www.youtube.com/watch?v=Yc8gc9Rv2qE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-Gjt-M1Qc5I",
+   "title": "Los Amos del Universo.- Carne asada con Los Mesmos",
+   "duration_s": 8129,
+   "views": 597208,
+   "url": "https://www.youtube.com/watch?v=-Gjt-M1Qc5I",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "cMymCYw3hiU",
+   "title": "La Mesa Re\u00f1o\u00f1a 516.- Aleks Syntek/ Hombres siameses/ Alerta s\u00edsmica",
+   "duration_s": 10563,
+   "views": 555166,
+   "url": "https://www.youtube.com/watch?v=cMymCYw3hiU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GNhX5GzkMKQ",
+   "title": "Arqui Juve | Tirando Bola | T9E17",
+   "duration_s": 5392,
+   "views": 6501923,
+   "url": "https://www.youtube.com/watch?v=GNhX5GzkMKQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HmyWoxg3Rr0",
+   "title": "Mestizos Precisos T2 | Ep 7.- Sue\u00f1os",
+   "duration_s": 3770,
+   "views": 336825,
+   "url": "https://www.youtube.com/watch?v=HmyWoxg3Rr0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "aemLXNzybl0",
+   "title": "Los Amos del Universo.- Cosas de mexicanos",
+   "duration_s": 8296,
+   "views": 447882,
+   "url": "https://www.youtube.com/watch?v=aemLXNzybl0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PHVsi4RyioU",
+   "title": "La Mesa Re\u00f1o\u00f1a 515.- Carrera de doble K/ Los videos m\u00e1s virales/ Noche Mexicana",
+   "duration_s": 9989,
+   "views": 570896,
+   "url": "https://www.youtube.com/watch?v=PHVsi4RyioU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7NrNXSXKr4Y",
+   "title": "Cabareteando | Barcelona | T.5",
+   "duration_s": 1402,
+   "views": 1041464,
+   "url": "https://www.youtube.com/watch?v=7NrNXSXKr4Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8mdgovSN0B4",
+   "title": "Pl\u00e1tica de Compas | Los chicharrines y Regalito | Ep. 5",
+   "duration_s": 11245,
+   "views": 1146211,
+   "url": "https://www.youtube.com/watch?v=8mdgovSN0B4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "FDJZiBfPdXE",
+   "title": "Mestizos Precisos T2 | Ep 6.- Infidelidades",
+   "duration_s": 3072,
+   "views": 325463,
+   "url": "https://www.youtube.com/watch?v=FDJZiBfPdXE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jaEDtl4Rw_M",
+   "title": "Los Amos del Universo.- Cosas de t\u00edos",
+   "duration_s": 7398,
+   "views": 374830,
+   "url": "https://www.youtube.com/watch?v=jaEDtl4Rw_M",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "l8_3XUbnvbg",
+   "title": "La Mesa Re\u00f1o\u00f1a 514.- Jonny y el supositorio / Las mieleras de TessLa",
+   "duration_s": 10322,
+   "views": 589782,
+   "url": "https://www.youtube.com/watch?v=l8_3XUbnvbg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xjbXDeE_Tk0",
+   "title": "Los Claxons | Tirando Bola | T9E16",
+   "duration_s": 4346,
+   "views": 272576,
+   "url": "https://www.youtube.com/watch?v=xjbXDeE_Tk0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "aNvkHxRjLBw",
+   "title": "Mestizos Precisos T2 | Ep 5.- Cosas de moda",
+   "duration_s": 3544,
+   "views": 388465,
+   "url": "https://www.youtube.com/watch?v=aNvkHxRjLBw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CPU8STbAeVk",
+   "title": "Los Amos del Universo.- Cosas de calzado",
+   "duration_s": 7538,
+   "views": 386264,
+   "url": "https://www.youtube.com/watch?v=CPU8STbAeVk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RgHS-nzgC1o",
+   "title": "La Mesa Re\u00f1o\u00f1a 513.- Fiesta de perros / Gente malagradecida",
+   "duration_s": 9263,
+   "views": 475330,
+   "url": "https://www.youtube.com/watch?v=RgHS-nzgC1o",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "nD5VprVk7Ww",
+   "title": "Cabareteando | Roma | T.5",
+   "duration_s": 1494,
+   "views": 1023103,
+   "url": "https://www.youtube.com/watch?v=nD5VprVk7Ww",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EE9pOTP1z-k",
+   "title": "Mestizos Precisos T2 | Ep 4.- Cin\u00e9filos",
+   "duration_s": 3602,
+   "views": 381123,
+   "url": "https://www.youtube.com/watch?v=EE9pOTP1z-k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HByH2jzva3I",
+   "title": "Los Amos del Universo.- Preguntas Hipot\u00e9ticas",
+   "duration_s": 8106,
+   "views": 2535246,
+   "url": "https://www.youtube.com/watch?v=HByH2jzva3I",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Aihqtv0b4l4",
+   "title": "La Mesa Re\u00f1o\u00f1a 512.- Autogoles de la china y Bollos de pepino",
+   "duration_s": 8346,
+   "views": 381028,
+   "url": "https://www.youtube.com/watch?v=Aihqtv0b4l4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "akfqA_lDFbE",
+   "title": "Lucho Mellera | Tirando Bola | T9E15",
+   "duration_s": 4094,
+   "views": 3752826,
+   "url": "https://www.youtube.com/watch?v=akfqA_lDFbE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "d5gIEhJCNSs",
+   "title": "Mestizos Precisos T2 | Ep 3.- El negocio oscuro de las funerarias",
+   "duration_s": 3288,
+   "views": 264606,
+   "url": "https://www.youtube.com/watch?v=d5gIEhJCNSs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CiB_uFpuKyg",
+   "title": "Pl\u00e1tica de Compas | El precio de estar en pareja | Ep. 4",
+   "duration_s": 10679,
+   "views": 406416,
+   "url": "https://www.youtube.com/watch?v=CiB_uFpuKyg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0r-oGIgrUwE",
+   "title": "La Mesa Re\u00f1o\u00f1a 511.- Batallas de aura de la mesa re\u00f1o\u00f1a",
+   "duration_s": 8743,
+   "views": 425768,
+   "url": "https://www.youtube.com/watch?v=0r-oGIgrUwE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "QbnjDRPdh1A",
+   "title": "Cabareteando | Par\u00eds | T.5",
+   "duration_s": 1371,
+   "views": 625473,
+   "url": "https://www.youtube.com/watch?v=QbnjDRPdh1A",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "tPM-JyEJYvg",
+   "title": "Mestizos Precisos T2 | Ep 2.- Traumas",
+   "duration_s": 3871,
+   "views": 427765,
+   "url": "https://www.youtube.com/watch?v=tPM-JyEJYvg",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 42
 }

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "mike-drop-studios",
+ "name": "Mike Drop Studios",
+ "clips": 1,
+ "total_views": 219,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "s0r7jyap5BU",
+  "title": "Schools out with Dan Tiernan & Molly McGuinness Trailer",
+  "channel": "Mike Drop Studios",
+  "views": 219,
+  "duration_s": 40,
+  "url": "https://www.youtube.com/watch?v=s0r7jyap5BU",
+  "r2_clip_key": "comedians/mike-drop-studios/clips/mike-drop-studios-s0r7jyap5bu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mike-drop-studios/clips/mike-drop-studios-s0r7jyap5bu.json"
+ },
+ "rows": [
+  {
+   "videoId": "s0r7jyap5BU",
+   "title": "Schools out with Dan Tiernan & Molly McGuinness Trailer",
+   "channel": "Mike Drop Studios",
+   "views": 219,
+   "likes": null,
+   "duration_s": 40,
+   "url": "https://www.youtube.com/watch?v=s0r7jyap5BU",
+   "n_words": 12,
+   "words_timed": true,
+   "transcript_method": "youtube-manual-captions",
+   "transcript_available": true,
+   "transcript_preview": "What would you rather have chucked\u00a0\nat you? A raw potato or a hot potato? I'm always in detention! Why am I also a geek?! We would listen to Craig David songs and, like, huff hairspray. Hello! I'm Dan",
+   "r2_clip_key": "comedians/mike-drop-studios/clips/mike-drop-studios-s0r7jyap5bu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mike-drop-studios/clips/mike-drop-studios-s0r7jyap5bu.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

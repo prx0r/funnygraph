@@ -1,0 +1,38 @@
+{
+ "comedian_id": "kate-barron",
+ "name": "Kate Barron",
+ "clips": 1,
+ "total_views": 35,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "9o6J6LtDxHY",
+  "title": "Contact Lenses for Who?! Kate Barron #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 35,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=9o6J6LtDxHY",
+  "r2_clip_key": "comedians/kate-barron/clips/kate-barron-9o6j6ltdxhy.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kate-barron/clips/kate-barron-9o6j6ltdxhy.json"
+ },
+ "rows": [
+  {
+   "videoId": "9o6J6LtDxHY",
+   "title": "Contact Lenses for Who?! Kate Barron #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 35,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=9o6J6LtDxHY",
+   "n_words": 200,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And what do you what do you guys do for work? What do you do, girl? >> I make contact lenses. >> You make content? I love that. Okay, THAT'S >> CONTACT LENSES. >> OH, CONTACT >> [laughter] >> I WAS LI",
+   "r2_clip_key": "comedians/kate-barron/clips/kate-barron-9o6j6ltdxhy.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kate-barron/clips/kate-barron-9o6j6ltdxhy.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

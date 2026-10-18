@@ -1,0 +1,38 @@
+{
+ "comedian_id": "christian-jegard",
+ "name": "Christian Jegard",
+ "clips": 1,
+ "total_views": 368,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "GbeeSyXF14k",
+  "title": "\"Bad Times\" \ud83c\udfb6\ud83d\ude02 | Christian Jegard | Live at The Bearcat  #comedy #standup #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 368,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=GbeeSyXF14k",
+  "r2_clip_key": "comedians/christian-jegard/clips/christian-jegard-gbeesyxf14k.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/christian-jegard/clips/christian-jegard-gbeesyxf14k.json"
+ },
+ "rows": [
+  {
+   "videoId": "GbeeSyXF14k",
+   "title": "\"Bad Times\" \ud83c\udfb6\ud83d\ude02 | Christian Jegard | Live at The Bearcat  #comedy #standup #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 368,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=GbeeSyXF14k",
+   "n_words": 54,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I've had [singing] bad times and good times, but mostly bad times. >> [music] >> I run around town [singing] with a girl who yells at bouncers. [singing] I've been at the bottom >> [music] >> of so ma",
+   "r2_clip_key": "comedians/christian-jegard/clips/christian-jegard-gbeesyxf14k.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/christian-jegard/clips/christian-jegard-gbeesyxf14k.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

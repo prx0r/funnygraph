@@ -1,0 +1,38 @@
+{
+ "comedian_id": "this-is-art",
+ "name": "THIS. IS. ART!",
+ "clips": 1,
+ "total_views": 14000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "W-xIGdzUwfM",
+  "title": "THIS. IS. ART! | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 14000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=W-xIGdzUwfM",
+  "r2_clip_key": "comedians/this-is-art/clips/this-is-art-w-xigdzuwfm.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/this-is-art/clips/this-is-art-w-xigdzuwfm.json"
+ },
+ "rows": [
+  {
+   "videoId": "W-xIGdzUwfM",
+   "title": "THIS. IS. ART! | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 14000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=W-xIGdzUwfM",
+   "n_words": 117,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I love to sing. I love to sing. DJ , play this [ __ ]. Would you dance if I asked? Would you run away without looking back? Would you cry when you saw my tears? Would you save my soul today? Would you",
+   "r2_clip_key": "comedians/this-is-art/clips/this-is-art-w-xigdzuwfm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/this-is-art/clips/this-is-art-w-xigdzuwfm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

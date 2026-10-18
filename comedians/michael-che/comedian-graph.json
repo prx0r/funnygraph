@@ -113,8 +113,14 @@
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "shot-in-minnesota-2026"
+    ],
+    "special_titles": [
+      "Michael Che: Shot in Minnesota (2026)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -350,10 +356,10 @@
     "legacy": 72.2,
     "legacy_era": 85.5,
     "audience": 55.0,
-    "popularity": 59.1,
+    "popularity": 65.7,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.041,
+    "gap_value": 0.107,
     "overrated": "accurately rated",
     "canon_lag": -0.172
   },
@@ -397,7 +403,7 @@
     "awards": []
   },
   "rating": {
-    "headline": 38.9,
+    "headline": 46.1,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -423,12 +429,28 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.michaelche.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 1
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 7970,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "michelle-shaughnessy",
+ "name": null,
+ "clips": 1,
+ "total_views": 0,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "",
+  "title": "Joshua Bethania and Michelle Shaughnessy",
+  "channel": null,
+  "views": 0,
+  "duration_s": 1737,
+  "url": null,
+  "r2_clip_key": "comedians/michelle-shaughnessy/clips/bbc-fringe-joshua-bethania-and-michelle-shaughnessy.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michelle-shaughnessy/clips/bbc-fringe-joshua-bethania-and-michelle-shaughnessy.json"
+ },
+ "rows": [
+  {
+   "videoId": "",
+   "title": "Joshua Bethania and Michelle Shaughnessy",
+   "channel": null,
+   "views": 0,
+   "likes": null,
+   "duration_s": 1737,
+   "url": null,
+   "n_words": 5779,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "Welcome to the French Comedy Showcase My name is Madison Spill we are here in Dynamic Earth in Edinburgh for the French restaurant so so exciting I love the French restaurant I really do I think I sou",
+   "r2_clip_key": "comedians/michelle-shaughnessy/clips/bbc-fringe-joshua-bethania-and-michelle-shaughnessy.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michelle-shaughnessy/clips/bbc-fringe-joshua-bethania-and-michelle-shaughnessy.json",
+   "source_group": null
+  }
+ ]
+}

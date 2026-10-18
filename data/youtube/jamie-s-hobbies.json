@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jamie-s-hobbies",
+ "name": "JAMIE'S HOBBIES",
+ "clips": 1,
+ "total_views": 12000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "EXXfZvW7VAk",
+  "title": "JAMIE'S HOBBIES | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 12000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=EXXfZvW7VAk",
+  "r2_clip_key": "comedians/jamie-s-hobbies/clips/jamie-s-hobbies-exxfzvw7vak.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jamie-s-hobbies/clips/jamie-s-hobbies-exxfzvw7vak.json"
+ },
+ "rows": [
+  {
+   "videoId": "EXXfZvW7VAk",
+   "title": "JAMIE'S HOBBIES | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 12000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=EXXfZvW7VAk",
+   "n_words": 183,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What do you like to do, James? What are your hobbies? Dream. Well, just imagine yourself in different situations. Well, let's say \" Love Island\" is coming, right? Are you walking on the beach in your ",
+   "r2_clip_key": "comedians/jamie-s-hobbies/clips/jamie-s-hobbies-exxfzvw7vak.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jamie-s-hobbies/clips/jamie-s-hobbies-exxfzvw7vak.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

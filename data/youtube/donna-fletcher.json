@@ -1,0 +1,38 @@
+{
+ "comedian_id": "donna-fletcher",
+ "name": "Donna Fletcher",
+ "clips": 1,
+ "total_views": 1100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "nla_hU1-s2A",
+  "title": "Unsolicited D**k Pics | Donna Fletcher | Craic Den Comedy Club | #dating #datingapps #comedy #irish",
+  "channel": "@craicdencomedyclub",
+  "views": 1100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=nla_hU1-s2A",
+  "r2_clip_key": "comedians/donna-fletcher/clips/donna-fletcher-nla-hu1-s2a.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/donna-fletcher/clips/donna-fletcher-nla-hu1-s2a.json"
+ },
+ "rows": [
+  {
+   "videoId": "nla_hU1-s2A",
+   "title": "Unsolicited D**k Pics | Donna Fletcher | Craic Den Comedy Club | #dating #datingapps #comedy #irish",
+   "channel": "@craicdencomedyclub",
+   "views": 1100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=nla_hU1-s2A",
+   "n_words": 321,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I compared my experience from back then with my friends who were back on the apps now, divorcees. And not too much has changed. Except back in my day, the unwanted dick pics, they weren't in HD. They ",
+   "r2_clip_key": "comedians/donna-fletcher/clips/donna-fletcher-nla-hu1-s2a.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/donna-fletcher/clips/donna-fletcher-nla-hu1-s2a.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

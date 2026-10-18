@@ -1,0 +1,38 @@
+{
+ "comedian_id": "loremen-podcast",
+ "name": "Loremen Podcast",
+ "clips": 1,
+ "total_views": 1029,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "ra9qJfrLSls",
+  "title": "Chris Cantrill takes you to a haunted tree... Field Report",
+  "channel": "Loremen Podcast",
+  "views": 1029,
+  "duration_s": 122,
+  "url": "https://www.youtube.com/watch?v=ra9qJfrLSls",
+  "r2_clip_key": "comedians/loremen-podcast/clips/loremen-podcast-ra9qjfrlsls.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/loremen-podcast/clips/loremen-podcast-ra9qjfrlsls.json"
+ },
+ "rows": [
+  {
+   "videoId": "ra9qJfrLSls",
+   "title": "Chris Cantrill takes you to a haunted tree... Field Report",
+   "channel": "Loremen Podcast",
+   "views": 1029,
+   "likes": null,
+   "duration_s": 122,
+   "url": "https://www.youtube.com/watch?v=ra9qJfrLSls",
+   "n_words": 295,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "well almond it's me Chris Cantrell Northern correspondent for Quinta of House of make tea room in Gilson Village that does award-winning trade bags uh need to be tasted to be believed and if you do go",
+   "r2_clip_key": "comedians/loremen-podcast/clips/loremen-podcast-ra9qjfrlsls.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/loremen-podcast/clips/loremen-podcast-ra9qjfrlsls.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -46,7 +47,9 @@
       "One Night Stand (Dave)"
     ],
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/andrew-lawrence/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/andrew-lawrence/",
+    "r2_comedian": true,
+    "r2_clips": 9
   },
   "sets": [],
   "essay_seeds": [],
@@ -89,7 +92,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 75.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -115,12 +118,50 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 9,
+    "total_views": 1101791,
+    "timed_clips": 9,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "sHsdjrLgF74",
+      "title": "He went out in style.",
+      "views": 270541,
+      "duration_s": 171,
+      "url": "https://www.youtube.com/watch?v=sHsdjrLgF74",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-lawrence/clips/andrew-lawrence-shsdjrlgf74.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3683,
+    "special_words": 0,
+    "timed_clips": 9,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q505900",
+    "dob": "1988-01-12",
+    "dod": null,
+    "birthplace": "Abington Township",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "dub actor",
+      "film actor",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

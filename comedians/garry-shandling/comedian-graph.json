@@ -39,7 +39,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -65,12 +65,26 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://garryshandling.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "bio": {
+    "wikidata_id": "Q1374481",
+    "dob": "1949-11-29",
+    "dod": "2016-03-24",
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "film producer",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "zoe-lyons",
+ "name": "Zoe Lyons",
+ "clips": 1,
+ "total_views": 21000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "RWDCqzBQY5w",
+  "title": "Never looking at a flannel the same way again\u2026\ud83d\udc40",
+  "channel": "NextUp Comedy",
+  "views": 21000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=RWDCqzBQY5w",
+  "r2_clip_key": "comedians/zoe-lyons/clips/zoe-lyons-rwdcqzbqy5w.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/zoe-lyons/clips/zoe-lyons-rwdcqzbqy5w.json"
+ },
+ "rows": [
+  {
+   "videoId": "RWDCqzBQY5w",
+   "title": "Never looking at a flannel the same way again\u2026\ud83d\udc40",
+   "channel": "NextUp Comedy",
+   "views": 21000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=RWDCqzBQY5w",
+   "n_words": 269,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "Mae 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n gwaith i 'n g",
+   "r2_clip_key": "comedians/zoe-lyons/clips/zoe-lyons-rwdcqzbqy5w.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/zoe-lyons/clips/zoe-lyons-rwdcqzbqy5w.json",
+   "source_group": null
+  }
+ ]
+}

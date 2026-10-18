@@ -106,8 +106,16 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "red-blue-green-2021",
+      "drew-michael-2018"
+    ],
+    "special_titles": [
+      "Drew Michael: Red Blue Green (2021) | Transcript",
+      "Drew Michael: Drew Michael (2018) | Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -248,11 +256,11 @@
     "legacy": 68.4,
     "legacy_era": 79.2,
     "audience": 30.0,
-    "popularity": 63.4,
+    "popularity": 87.2,
     "theory": 0.0,
     "heat": null,
-    "gap_value": 0.334,
-    "overrated": "overrated",
+    "gap_value": 0.572,
+    "overrated": "massively overrated",
     "canon_lag": -0.384
   },
   "tier": "king",
@@ -289,7 +297,7 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 44.1,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -315,7 +323,23 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 2
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 17895,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

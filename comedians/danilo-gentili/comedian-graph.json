@@ -1,128 +1,305 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "danilo-gentili",
-  "name": "Danilo Gentili",
-  "tier": "indie",
-  "region": "brazil",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/latam-es",
-  "note": "Talk-show (The Noite) + standup. Brazilian late-night comedy bridge.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "curated-latam-es",
-      "press"
-    ],
-    "discovery_note": "Talk-show (The Noite) + standup. Brazilian late-night comedy bridge."
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "continent": "south-america",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 76.6,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "trevor-noah",
-      "sim": 0.061
-    },
-    {
-      "comedian_id": "stewart-lee",
-      "sim": 0.052
-    },
-    {
-      "comedian_id": "matt-mccusker",
-      "sim": 0.039
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "danilo-gentili",
+ "name": "Danilo Gentili",
+ "tier": "indie",
+ "region": "brazil",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/latam-es",
+ "note": "Talk-show (The Noite) + standup. Brazilian late-night comedy bridge.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-latam-es",
+   "press"
   ],
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  "discovery_note": "Talk-show (The Noite) + standup. Brazilian late-night comedy bridge."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "continent": "south-america",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 93.2,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "trevor-noah",
+   "sim": 0.061
   },
-  "youtube_channel": {
-    "id": "UCMN82si2EdJ_eROdcJfSmtw",
-    "handle": "danilogentili",
-    "title": "Danilo Gentili",
-    "subs": 919000,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "variety",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2025-07-09",
-    "name_match_rate": 0.48,
-    "other_names": [
-      "Advogado Paloma",
-      "Barack Obanha",
-      "Bruno Diferente",
-      "Concurso Novo Papaco",
-      "Conversa Doutora",
-      "Debate Mundial",
-      "Gordo Coca",
-      "Gordo Danilo"
-    ]
+  {
+   "comedian_id": "stewart-lee",
+   "sim": 0.052
   },
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "incongruity",
-      "bisociation"
-    ],
-    "via": "trevor-noah",
-    "sim": 0.061,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "matt-mccusker",
+   "sim": 0.039
   }
+ ],
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCMN82si2EdJ_eROdcJfSmtw",
+  "handle": "danilogentili",
+  "title": "Danilo Gentili",
+  "subs": 919000,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "variety",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2025-07-09",
+  "name_match_rate": 0.48,
+  "other_names": [
+   "Advogado Paloma",
+   "Barack Obanha",
+   "Bruno Diferente",
+   "Concurso Novo Papaco",
+   "Conversa Doutora",
+   "Debate Mundial",
+   "Gordo Coca",
+   "Gordo Danilo"
+  ]
+ },
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "incongruity",
+   "bisociation"
+  ],
+  "via": "trevor-noah",
+  "sim": 0.061,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "bio": {
+  "wikidata_id": "Q5219606",
+  "dob": "1979-09-27",
+  "dod": null,
+  "birthplace": "Santo Andr\u00e9",
+  "citizenship": "Brazil",
+  "occupations": [
+   "comedian",
+   "television presenter",
+   "actor",
+   "screenwriter"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "NONKcRPtHpQ",
+   "title": "SOBRE ATUAL CASO L\u00c9O LINS",
+   "duration_s": 1365,
+   "views": 711346,
+   "url": "https://www.youtube.com/watch?v=NONKcRPtHpQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GhQfdSzFp9U",
+   "title": "PRIMEIRA LIVE BRAZUERA ROLEPLAY",
+   "duration_s": 3090,
+   "views": 22928,
+   "url": "https://www.youtube.com/watch?v=GhQfdSzFp9U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yQuFBovta9c",
+   "title": "DG LIVE AO VIVO SHOW | Cerejinha o Palha\u00e7o Amigo, Stallone, Paloma, Bruno Diferente  e mais",
+   "duration_s": 5127,
+   "views": 394551,
+   "url": "https://www.youtube.com/watch?v=yQuFBovta9c",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "R62gKVFd2P4",
+   "title": "V\u00cdDEO ESTARRECEDOR! A Pol\u00eamica do Gordo da Coca Continua!",
+   "duration_s": 1261,
+   "views": 103868,
+   "url": "https://www.youtube.com/watch?v=R62gKVFd2P4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5LG0uwgMbug",
+   "title": "DG Live ao Vivo Show | Debate Mundial: L\u00e9o Lins, Maicon Mask, Gordo da Coca, Paloma, Yellowsun e ET",
+   "duration_s": 5275,
+   "views": 206382,
+   "url": "https://www.youtube.com/watch?v=5LG0uwgMbug",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sIqKPGLrCoU",
+   "title": "Eu e Yellowsun hackeamos a live do Diguinho AO VIVO",
+   "duration_s": 4895,
+   "views": 136701,
+   "url": "https://www.youtube.com/watch?v=sIqKPGLrCoU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7rl5i7hrxTk",
+   "title": "Um peda\u00e7o da minha hist\u00f3ria - EM TUDO DAI GRA\u00c7AS",
+   "duration_s": 1214,
+   "views": 265300,
+   "url": "https://www.youtube.com/watch?v=7rl5i7hrxTk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "h4fCaCQPe9c",
+   "title": "DG Live ao Vivo Show | Debate Mundial: Stallone, Paloma, Et Bil\u00fa, Gordonaro + Concurso Novo Papaco",
+   "duration_s": 5814,
+   "views": 380232,
+   "url": "https://www.youtube.com/watch?v=h4fCaCQPe9c",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Sy2FHzdofpk",
+   "title": "DG Live ao Vivo Show | Debate Mundial: Jo\u00e3o Kleber, ET Bil\u00fa, Yellowsun, Paloma e Nhono com Trombose",
+   "duration_s": 5262,
+   "views": 203165,
+   "url": "https://www.youtube.com/watch?v=Sy2FHzdofpk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "E73PEiQ2zO0",
+   "title": "DG Live ao Vivo Show | Debate Mundial: Paulo Kogos, ET Bil\u00fa, Paloma, Yellowsun, TransAmaz\u00f4nica e  +!",
+   "duration_s": 5702,
+   "views": 354086,
+   "url": "https://www.youtube.com/watch?v=E73PEiQ2zO0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yXFdza6LwRs",
+   "title": "DG Live ao Vivo Show | Conversa com o p\u00fablico! Doutora, Paleont\u00f3logo e Baby Siter!",
+   "duration_s": 5447,
+   "views": 57430,
+   "url": "https://www.youtube.com/watch?v=yXFdza6LwRs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-KMlCrvzVWA",
+   "title": "DG Live ao Vivo Show | Debate Mundial: ET BIl\u00fa, Barack Obanha, Dra. Katryn, Prof Yellowsun e mais!",
+   "duration_s": 4962,
+   "views": 233097,
+   "url": "https://www.youtube.com/watch?v=-KMlCrvzVWA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "olCNSkC7lfM",
+   "title": "DG Live ao Vivo Show | Treta com Prefeito de Santo Andr\u00e9 e Conto Chapa-Quente: Aeromo\u00e7a",
+   "duration_s": 3169,
+   "views": 89740,
+   "url": "https://www.youtube.com/watch?v=olCNSkC7lfM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "s8xRLAAUfao",
+   "title": "DG Live ao Vivo Show | Debate Mundial: Tiringa, Advogado Paloma, Yellowsun, Mahtma Grandhi e mais!",
+   "duration_s": 3956,
+   "views": 197157,
+   "url": "https://www.youtube.com/watch?v=s8xRLAAUfao",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "d5gdSQTqfNY",
+   "title": "DG Live ao Vivo Show | Debate Mundial: Lord Vinheteiro, Senhor Almondega, Yellowsun, Paloma e mais!",
+   "duration_s": 5392,
+   "views": 344474,
+   "url": "https://www.youtube.com/watch?v=d5gdSQTqfNY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7QOtJxSVHCo",
+   "title": "UM SEGREDO DO MEU SUCESSO",
+   "duration_s": 3220,
+   "views": 53878,
+   "url": "https://www.youtube.com/watch?v=7QOtJxSVHCo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xwB-YRiZFbU",
+   "title": "DG Live ao Vivo Show | Debate Mundial: Murilo Couto, Paloma, Yellowsun, Gordo do Danilo e mais!",
+   "duration_s": 5029,
+   "views": 438517,
+   "url": "https://www.youtube.com/watch?v=xwB-YRiZFbU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RiMI7nWtvp0",
+   "title": "Danilo Gentili Live ao Vivo Show | 01/04/2020",
+   "duration_s": 4165,
+   "views": 73786,
+   "url": "https://www.youtube.com/watch?v=RiMI7nWtvp0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1mZtIuUSwZM",
+   "title": "Danilo Gentili | Politicamente Incorreto 2018 | SHOW HD",
+   "duration_s": 5232,
+   "views": 3318090,
+   "url": "https://www.youtube.com/watch?v=1mZtIuUSwZM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ISnEcqTPyJQ",
+   "title": "Politicamente Incorreto - 2010",
+   "duration_s": 5436,
+   "views": 506776,
+   "url": "https://www.youtube.com/watch?v=ISnEcqTPyJQ",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 20
 }

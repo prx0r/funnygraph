@@ -106,8 +106,20 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "4 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "fool-volume-2025",
+      "abroad-understanding-2017",
+      "outside-in-the-lockdown-special-2020",
+      "losing-it-2018"
+    ],
+    "special_titles": [
+      "Vir Das: Fool Volume (2025)",
+      "Vir Das: Abroad Understanding (2017)",
+      "Vir Das: Outside in \u2013 The Lockdown Special (2020) \u2013 Transcript",
+      "Vir Das: Losing It (2018) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -280,11 +292,11 @@
     "legacy": 83.6,
     "legacy_era": 91.8,
     "audience": 85.0,
-    "popularity": 64.1,
+    "popularity": 72.1,
     "theory": 25.0,
     "heat": null,
-    "gap_value": -0.209,
-    "overrated": "underrated",
+    "gap_value": -0.129,
+    "overrated": "accurately rated",
     "canon_lag": 0.014
   },
   "tier": "king",
@@ -331,12 +343,17 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 47.1,
+    "coverage": "FULL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 19,
+        "pct": 47.1,
+        "sweep": [
+          19,
+          20
+        ]
       },
       "consensus": {
         "rank": 69,
@@ -356,8 +373,11 @@
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "interval": {
+      "lo": 19,
+      "hi": 20
+    },
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "recognition": {
@@ -368,5 +388,21 @@
         "source": "curated-press: iemmys.tv/The Hindu"
       }
     ]
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 4
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 36793,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

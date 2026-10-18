@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -44,7 +45,9 @@
       "The Real McCoy (BBC2)"
     ],
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/bennett-arron/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/bennett-arron/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -87,7 +90,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 35.1,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -113,12 +116,46 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 7100,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "Kzllp9bWVbo",
+      "title": "Slow audience member | Bennett Arron | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+      "views": 7100,
+      "url": "https://www.youtube.com/watch?v=Kzllp9bWVbo",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bennett-arron/clips/bennett-arron-kzllp9bwvbo.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 70,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q4889664",
+    "dob": "1973-01-01",
+    "dod": null,
+    "birthplace": "Port Talbot",
+    "citizenship": null,
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "brit-spotlight",
+ "name": "Brit Spotlight",
+ "clips": 1,
+ "total_views": 48,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "ocZWl0jdulU",
+  "title": "Edinburgh Fringe Awards: The Comedy Stars Who Could Take Home the Top Prize in 2026",
+  "channel": "Brit Spotlight",
+  "views": 48,
+  "duration_s": 148,
+  "url": "https://www.youtube.com/watch?v=ocZWl0jdulU",
+  "r2_clip_key": "comedians/brit-spotlight/clips/brit-spotlight-oczwl0jdulu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/brit-spotlight/clips/brit-spotlight-oczwl0jdulu.json"
+ },
+ "rows": [
+  {
+   "videoId": "ocZWl0jdulU",
+   "title": "Edinburgh Fringe Awards: The Comedy Stars Who Could Take Home the Top Prize in 2026",
+   "channel": "Brit Spotlight",
+   "views": 48,
+   "likes": null,
+   "duration_s": 148,
+   "url": "https://www.youtube.com/watch?v=ocZWl0jdulU",
+   "n_words": 374,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Lara Ricote, known for Channel 4 sitcom Make That Movie alongside Sam Campbell, is among the comedians competing for the Edinburgh Comedy Awards top prize for best show this year. The 2026 shortlist a",
+   "r2_clip_key": "comedians/brit-spotlight/clips/brit-spotlight-oczwl0jdulu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/brit-spotlight/clips/brit-spotlight-oczwl0jdulu.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

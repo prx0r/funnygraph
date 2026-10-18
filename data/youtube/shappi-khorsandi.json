@@ -1,0 +1,38 @@
+{
+ "comedian_id": "shappi-khorsandi",
+ "name": "Shappi Khorsandi",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "qkqjeqgSydA",
+  "title": "Midlife Crisis Perks | Shappi Khorsandi | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=qkqjeqgSydA",
+  "r2_clip_key": "comedians/shappi-khorsandi/clips/shappi-khorsandi-qkqjeqgsyda.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shappi-khorsandi/clips/shappi-khorsandi-qkqjeqgsyda.json"
+ },
+ "rows": [
+  {
+   "videoId": "qkqjeqgSydA",
+   "title": "Midlife Crisis Perks | Shappi Khorsandi | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=qkqjeqgSydA",
+   "n_words": 100,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I used to really judge men in their 50s and 60s that left their wives and then suddenly they're going out with a 30-year-old, right? But now, now I think, no, he hasn't left his wife for a younger mod",
+   "r2_clip_key": "comedians/shappi-khorsandi/clips/shappi-khorsandi-qkqjeqgsyda.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shappi-khorsandi/clips/shappi-khorsandi-qkqjeqgsyda.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

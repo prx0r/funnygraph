@@ -233,8 +233,26 @@
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "7 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "new-in-town-2012",
+      "baby-j-2023",
+      "the-comeback-kid-2015",
+      "kid-gorgeous-at-radio-city-2018",
+      "snl-monologue-2020-scene",
+      "snl-monologue-2020",
+      "snl-monologue-2018"
+    ],
+    "special_titles": [
+      "John Mulaney: New In Town (2012) \u2013 Transcript",
+      "John Mulaney: Baby J (2023) | Transcript",
+      "John Mulaney: The Comeback Kid (2015) \u2013 Transcript",
+      "John Mulaney: Kid Gorgeous At Radio City (2018) \u2013 Transcript",
+      "John Mulaney: SNL Monologue (2020) Scene",
+      "John Mulaney: SNL Monologue (2020) \u2013 Transcript",
+      "John Mulaney: Snl Monologue (2018) \u2013 Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -516,11 +534,11 @@
     "legacy": 86.0,
     "legacy_era": 82.4,
     "audience": 72.5,
-    "popularity": 89.1,
+    "popularity": 96.2,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.166,
-    "overrated": "accurately rated",
+    "gap_value": 0.237,
+    "overrated": "overrated",
     "canon_lag": -0.135
   },
   "tier": "king",
@@ -586,13 +604,13 @@
     "paste_2017": 46
   },
   "rating": {
-    "headline": 55.6,
+    "headline": 76.5,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 9,
-        "pct": 55.6,
+        "pct": 76.5,
         "sweep": [
           9,
           9
@@ -620,7 +638,7 @@
       "lo": 9,
       "hi": 9
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -636,5 +654,21 @@
       "standup comedy"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 7
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 47270,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

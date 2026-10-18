@@ -1,0 +1,38 @@
+{
+ "comedian_id": "sexy-ninja-turtles",
+ "name": "Sexy Ninja Turtles",
+ "clips": 1,
+ "total_views": 8400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "EWtQKv8tdw4",
+  "title": "Aoife Dunne | Sexy Ninja Turtles  #standupcomedy #comedy #ireland",
+  "channel": "@craicdencomedyclub",
+  "views": 8400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=EWtQKv8tdw4",
+  "r2_clip_key": "comedians/sexy-ninja-turtles/clips/sexy-ninja-turtles-ewtqkv8tdw4.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sexy-ninja-turtles/clips/sexy-ninja-turtles-ewtqkv8tdw4.json"
+ },
+ "rows": [
+  {
+   "videoId": "EWtQKv8tdw4",
+   "title": "Aoife Dunne | Sexy Ninja Turtles  #standupcomedy #comedy #ireland",
+   "channel": "@craicdencomedyclub",
+   "views": 8400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=EWtQKv8tdw4",
+   "n_words": 187,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "the priests and everybody telling you sex is bad boys are bad you can't be gay and then you're you're growing up but you get all these urges right and you're like where do I who what am I attracted to",
+   "r2_clip_key": "comedians/sexy-ninja-turtles/clips/sexy-ninja-turtles-ewtqkv8tdw4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sexy-ninja-turtles/clips/sexy-ninja-turtles-ewtqkv8tdw4.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

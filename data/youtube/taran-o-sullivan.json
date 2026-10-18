@@ -1,0 +1,38 @@
+{
+ "comedian_id": "taran-o-sullivan",
+ "name": "Taran O'Sullivan",
+ "clips": 1,
+ "total_views": 921,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "-C2ooDqYP9M",
+  "title": "Going Down Town | Taran O'Sullivan | Craic Den Comedy Club |  #standupcomedy #comedy #funny #jokes",
+  "channel": "@craicdencomedyclub",
+  "views": 921,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=-C2ooDqYP9M",
+  "r2_clip_key": "comedians/taran-o-sullivan/clips/taran-o-sullivan-c2oodqyp9m.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/taran-o-sullivan/clips/taran-o-sullivan-c2oodqyp9m.json"
+ },
+ "rows": [
+  {
+   "videoId": "-C2ooDqYP9M",
+   "title": "Going Down Town | Taran O'Sullivan | Craic Den Comedy Club |  #standupcomedy #comedy #funny #jokes",
+   "channel": "@craicdencomedyclub",
+   "views": 921,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=-C2ooDqYP9M",
+   "n_words": 38,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Does your lovely man know where the Paris is? >> Yes, >> I love the >> three words that you like about Paris. >> Yum, yum, yum. >> Yum, yum, yum. >> Gobble, gobble, gobble. What a terrifying man. Has ",
+   "r2_clip_key": "comedians/taran-o-sullivan/clips/taran-o-sullivan-c2oodqyp9m.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/taran-o-sullivan/clips/taran-o-sullivan-c2oodqyp9m.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

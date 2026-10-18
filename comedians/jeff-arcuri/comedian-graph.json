@@ -29,9 +29,12 @@
   "discovery": {
     "discovered_from": [
       "deadline-2025",
-      "reddit"
+      "reddit",
+      "r2:comedy-specials"
     ],
-    "discovery_note": "r/JeffArcuri top-1% subreddit, front-page regular"
+    "discovery_note": "r/JeffArcuri top-1% subreddit, front-page regular",
+    "r2_comedian": true,
+    "r2_specials": 1
   },
   "theory_score": null,
   "nearest_greats": [
@@ -92,7 +95,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -110,5 +113,37 @@
     "via": "mark-normand",
     "sim": 0.075,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "set_queue": {
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "nice-to-meet-you-2026"
+    ],
+    "special_titles": [
+      "Jeff Arcuri: Nice to Meet You (2026)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 11565,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q134385720",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

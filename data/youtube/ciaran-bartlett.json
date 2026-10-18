@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ciaran-bartlett",
+ "name": "Ciaran Bartlett",
+ "clips": 1,
+ "total_views": 5100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "vJUrxf-vJdE",
+  "title": "Phantom Of The Opera House. Exclusive To Patreon. #ciaranbartlett #comedy #standupcomedy #standup",
+  "channel": "@ciaranbartlettcomedy",
+  "views": 5100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=vJUrxf-vJdE",
+  "r2_clip_key": "comedians/ciaran-bartlett/clips/ciaran-bartlett-vjurxf-vjde.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ciaran-bartlett/clips/ciaran-bartlett-vjurxf-vjde.json"
+ },
+ "rows": [
+  {
+   "videoId": "vJUrxf-vJdE",
+   "title": "Phantom Of The Opera House. Exclusive To Patreon. #ciaranbartlett #comedy #standupcomedy #standup",
+   "channel": "@ciaranbartlettcomedy",
+   "views": 5100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=vJUrxf-vJdE",
+   "n_words": 152,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What's the crack here? You're using the weak couple. You look like you're yourself. All you want to do is finger her. You didn't want me to talk to you. Listen, it's fine. Shh. You might still get to,",
+   "r2_clip_key": "comedians/ciaran-bartlett/clips/ciaran-bartlett-vjurxf-vjde.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ciaran-bartlett/clips/ciaran-bartlett-vjurxf-vjde.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

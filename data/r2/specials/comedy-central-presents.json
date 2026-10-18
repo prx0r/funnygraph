@@ -1,0 +1,58 @@
+{
+ "comedian_slug": "comedy-central-presents",
+ "specials": [
+  {
+   "special_slug": "daniel-tosh-2003",
+   "title": "COMEDY CENTRAL PRESENTS: DANIEL TOSH (2003) \u2013 Full Transcript",
+   "comedian": "Comedy Central Presents",
+   "url": "https://scrapsfromtheloft.com/comedy/comedy-central-presents-daniel-tosh-2003-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 3840,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Comedy Central, Season 7, Episode 23 One, two, three, four\u2026\n Announcer: From New York City, comedy central presents: Daniel Tosh: Thank you. You guys are ready to go. I hope you don\u2019t mind if I just warm up a little bit first, just a couple of these. There you go. All right. You remember that exerci",
+   "r2_special_key": "comedians/comedy-central-presents/specials/daniel-tosh-2003.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-central-presents/specials/daniel-tosh-2003.json"
+  },
+  {
+   "special_slug": "patton-oswalt-1999",
+   "title": "COMEDY CENTRAL PRESENTS: PATTON OSWALT (1999) \u2013 Full Transcript",
+   "comedian": "Comedy Central Presents",
+   "url": "https://scrapsfromtheloft.com/comedy/comedy-central-patton-oswalt-1999-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 3666,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "(Announcer) from New York City, Comedy Central presents Patton Oswalt (cheering) Thank you. Thanks. Oh, thank you all for coming out. This makes it nice, having an audience for my special. Thank you very much. You know, remember when you were a little kid, and your friends would be out playing a gam",
+   "r2_special_key": "comedians/comedy-central-presents/specials/patton-oswalt-1999.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-central-presents/specials/patton-oswalt-1999.json"
+  },
+  {
+   "special_slug": "dave-attell-1999",
+   "title": "COMEDY CENTRAL PRESENTS: DAVE ATTELL (1999) \u2013 Full Transcript",
+   "comedian": "Comedy Central Presents",
+   "url": "https://scrapsfromtheloft.com/comedy/comedy-central-presents-dave-attell-1999-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 3405,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Dave Attell (S02E07) is the seventh episode of season two of \u201cComedy Central Presents\u201d released on Sat Jul 10, 1999. Announcer: From New York City\u2026 ( Cheering, applause) Thank you very much. All right, back at you. Yeah, mm-hmm. Yeah, uh-huh, why not? How\u2019s it going? You guys are into it. I like it.",
+   "r2_special_key": "comedians/comedy-central-presents/specials/dave-attell-1999.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-central-presents/specials/dave-attell-1999.json"
+  },
+  {
+   "special_slug": "tom-segura-s15e01",
+   "title": "Comedy Central Presents: Tom Segura [S15e01] \u2013 Transcript",
+   "comedian": "Comedy Central Presents",
+   "url": "https://scrapsfromtheloft.com/comedy/comedy-central-presents-tom-segura-s15e01-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 2791,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Yes. I agree. I totally agree. Totally. It\u2019s great to be here in New York, uh\u2026 yeah. Just relax. I was just in Atlantic City and\u2013 I don\u2019t know if you\u2019re familiar with Atlantic City but if you hate yourself and your family, and your friends\u2026 take them to Atlantic City. It\u2019s basically like, if Las Veg",
+   "r2_special_key": "comedians/comedy-central-presents/specials/tom-segura-s15e01.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/comedy-central-presents/specials/tom-segura-s15e01.json"
+  }
+ ],
+ "count": 4
+}

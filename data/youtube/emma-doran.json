@@ -1,0 +1,38 @@
+{
+ "comedian_id": "emma-doran",
+ "name": "Emma Doran",
+ "clips": 1,
+ "total_views": 2800,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "_Yh7mG71oZI",
+  "title": "English \u2018Professional Policing\u2019 | Emma Doran | #comedy #funny #police",
+  "channel": "@craicdencomedyclub",
+  "views": 2800,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=_Yh7mG71oZI",
+  "r2_clip_key": "comedians/emma-doran/clips/emma-doran-yh7mg71ozi.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/emma-doran/clips/emma-doran-yh7mg71ozi.json"
+ },
+ "rows": [
+  {
+   "videoId": "_Yh7mG71oZI",
+   "title": "English \u2018Professional Policing\u2019 | Emma Doran | #comedy #funny #police",
+   "channel": "@craicdencomedyclub",
+   "views": 2800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=_Yh7mG71oZI",
+   "n_words": 266,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What are your plans after the gig, sir? Going home. You're going home? I've been up since 3:00 a.m. You've been up since 3:00 a.m. Do you want a [\u00a0__\u00a0] medal or what's the crack? We invented 3:00 a.m.",
+   "r2_clip_key": "comedians/emma-doran/clips/emma-doran-yh7mg71ozi.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/emma-doran/clips/emma-doran-yh7mg71ozi.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

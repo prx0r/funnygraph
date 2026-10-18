@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {
@@ -72,5 +72,19 @@
       "comedy"
     ],
     "source": "musicbrainz (name+comedy-tag)"
+  },
+  "bio": {
+    "wikidata_id": "Q734221",
+    "dob": "1934-02-17",
+    "dod": "2023-04-22",
+    "birthplace": "Kew",
+    "citizenship": "Australia",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "film actor",
+      "painter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

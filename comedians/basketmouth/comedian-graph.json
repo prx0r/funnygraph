@@ -1,121 +1,228 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "basketmouth",
-  "name": "Basketmouth",
-  "tier": "indie",
-  "region": "nigeria",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/global",
-  "note": "b.1978 Lagos. Nite of a Thousand Laughs \u2192 Basketmouth Uncensored (invented the solo-show model in Nigeria). Observational + insult + satire. 2005-06 National Comedy Awards.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "ng-press",
-      "nite-of-a-thousand-laughs-lineage"
-    ],
-    "discovery_note": "b.1978 Lagos. Nite of a Thousand Laughs \u2192 Basketmouth Uncensored (invented the solo-show model in Nigeria). Observational + insult + satire. 2005-06 National Comedy Awards."
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "continent": "africa",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 62.8,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "bio": {
-    "wikidata_id": "Q16159340",
-    "dob": "1978-09-14",
-    "dod": null,
-    "birthplace": "Lagos State",
-    "citizenship": "Nigeria",
-    "occupations": [
-      "actor",
-      "comedian"
-    ],
-    "source": "wikidata (CC0)"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "sean-lock",
-      "sim": 0.065
-    },
-    {
-      "comedian_id": "urzila-carlson",
-      "sim": 0.06
-    },
-    {
-      "comedian_id": "tig-notaro",
-      "sim": 0.059
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "basketmouth",
+ "name": "Basketmouth",
+ "tier": "indie",
+ "region": "nigeria",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/global",
+ "note": "b.1978 Lagos. Nite of a Thousand Laughs \u2192 Basketmouth Uncensored (invented the solo-show model in Nigeria). Observational + insult + satire. 2005-06 National Comedy Awards.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "ng-press",
+   "nite-of-a-thousand-laughs-lineage"
   ],
-  "recognition": {
-    "awards": []
+  "discovery_note": "b.1978 Lagos. Nite of a Thousand Laughs \u2192 Basketmouth Uncensored (invented the solo-show model in Nigeria). Observational + insult + satire. 2005-06 National Comedy Awards."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "continent": "africa",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 87.1,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "bio": {
+  "wikidata_id": "Q16159340",
+  "dob": "1978-09-14",
+  "dod": null,
+  "birthplace": "Lagos State",
+  "citizenship": "Nigeria",
+  "occupations": [
+   "actor",
+   "comedian"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "sean-lock",
+   "sim": 0.065
   },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  {
+   "comedian_id": "urzila-carlson",
+   "sim": 0.06
   },
-  "style_tags": {
-    "humor_type": "surreal",
-    "theories": [
-      "literalise",
-      "incongruity",
-      "rigidity"
-    ],
-    "via": "sean-lock",
-    "sim": 0.065,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "tig-notaro",
+   "sim": 0.059
   }
+ ],
+ "recognition": {
+  "awards": []
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "style_tags": {
+  "humor_type": "surreal",
+  "theories": [
+   "literalise",
+   "incongruity",
+   "rigidity"
+  ],
+  "via": "sean-lock",
+  "sim": 0.065,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "jkdCcBzxLWE",
+   "title": "PAPA BENJI SPECIALS: Hunger Games | Bimbo Ademoye I Nedu I Basketmouth",
+   "duration_s": 1911,
+   "views": 413502,
+   "url": "https://www.youtube.com/watch?v=jkdCcBzxLWE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "17FjRvJZqaU",
+   "title": "PAPA BENJI SPECIALS: Sugar Daddies | Basketmouth I Buchi I Jemima Osunde",
+   "duration_s": 1926,
+   "views": 94581,
+   "url": "https://www.youtube.com/watch?v=17FjRvJZqaU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3NQTNKoCEqQ",
+   "title": "PAPA BENJI SPECIALS: Visa On Arrival | Sabinus",
+   "duration_s": 1339,
+   "views": 213011,
+   "url": "https://www.youtube.com/watch?v=3NQTNKoCEqQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DTZClm1cgHE",
+   "title": "YAHOO YAHOO: Crime or Career? | The Average Nigerian",
+   "duration_s": 1308,
+   "views": 38817,
+   "url": "https://www.youtube.com/watch?v=DTZClm1cgHE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-eLwROt4BLY",
+   "title": "A Comedic Breakdown of our Democracy | The Average Nigerian",
+   "duration_s": 1412,
+   "views": 24546,
+   "url": "https://www.youtube.com/watch?v=-eLwROt4BLY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "mpIzP9DbADc",
+   "title": "I Was Scared I'll Never Make It - QUE DERA DERA by Eme Chidera",
+   "duration_s": 3146,
+   "views": 20936,
+   "url": "https://www.youtube.com/watch?v=mpIzP9DbADc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GSBi3djS5NA",
+   "title": "MAKE SHE NO WEAR BIKINI AGAIN BECAUSE SHE MARRY?",
+   "duration_s": 1664,
+   "views": 232908,
+   "url": "https://www.youtube.com/watch?v=GSBi3djS5NA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "REJFz7lmhN0",
+   "title": "PROBLEM NO DEY FINIISH FOR THIS FLAT.",
+   "duration_s": 1695,
+   "views": 302492,
+   "url": "https://www.youtube.com/watch?v=REJFz7lmhN0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Y2pHjROjPdw",
+   "title": "His Excellency (Episode 1) National Cake.",
+   "duration_s": 1279,
+   "views": 154753,
+   "url": "https://www.youtube.com/watch?v=Y2pHjROjPdw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rYtw57WiyRY",
+   "title": "The Other Side of Bright (A short Documentary)",
+   "duration_s": 1360,
+   "views": 101098,
+   "url": "https://www.youtube.com/watch?v=rYtw57WiyRY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8DGOvbZzOn0",
+   "title": "My Flatmates (My Traditional Marriage)",
+   "duration_s": 1364,
+   "views": 368976,
+   "url": "https://www.youtube.com/watch?v=8DGOvbZzOn0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0jWD-ywwKBo",
+   "title": "Your Ex Boyfriend?",
+   "duration_s": 1230,
+   "views": 281124,
+   "url": "https://www.youtube.com/watch?v=0jWD-ywwKBo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Wj1ROF40ETg",
+   "title": "My Flatmates (Uselessness in High Places)",
+   "duration_s": 1501,
+   "views": 466300,
+   "url": "https://www.youtube.com/watch?v=Wj1ROF40ETg",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 13
 }

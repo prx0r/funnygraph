@@ -1,0 +1,38 @@
+{
+ "comedian_id": "proper-jokes",
+ "name": "Proper Jokes",
+ "clips": 1,
+ "total_views": 967461,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Vw5I59zDpHQ",
+  "title": "Proper Jokes | Peter Kay: Live At The Bolton Albert Halls",
+  "channel": "Peter Kay",
+  "views": 967461,
+  "duration_s": 148,
+  "url": "https://www.youtube.com/watch?v=Vw5I59zDpHQ",
+  "r2_clip_key": "comedians/proper-jokes/clips/proper-jokes-vw5i59zdphq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/proper-jokes/clips/proper-jokes-vw5i59zdphq.json"
+ },
+ "rows": [
+  {
+   "videoId": "Vw5I59zDpHQ",
+   "title": "Proper Jokes | Peter Kay: Live At The Bolton Albert Halls",
+   "channel": "Peter Kay",
+   "views": 967461,
+   "likes": null,
+   "duration_s": 148,
+   "url": "https://www.youtube.com/watch?v=Vw5I59zDpHQ",
+   "n_words": 229,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "[Applause] you can peek two suits on like you down Hey I rang its here last now said dear deliver they said nor we do a lot of chicken and fish bank form don't know who started know who started our on",
+   "r2_clip_key": "comedians/proper-jokes/clips/proper-jokes-vw5i59zdphq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/proper-jokes/clips/proper-jokes-vw5i59zdphq.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

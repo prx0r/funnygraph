@@ -1,0 +1,38 @@
+{
+ "comedian_id": "joe-jacobs",
+ "name": "Joe Jacobs",
+ "clips": 1,
+ "total_views": 7900,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "MAX-X48bMjw",
+  "title": "Modern Relationship Nonsense | Joe Jacobs | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 7900,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=MAX-X48bMjw",
+  "r2_clip_key": "comedians/joe-jacobs/clips/joe-jacobs-max-x48bmjw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-jacobs/clips/joe-jacobs-max-x48bmjw.json"
+ },
+ "rows": [
+  {
+   "videoId": "MAX-X48bMjw",
+   "title": "Modern Relationship Nonsense | Joe Jacobs | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 7900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=MAX-X48bMjw",
+   "n_words": 66,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "You got any kinks, my friend? >> [laughter] >> Read about a few. I've read about the praise kink, that's one. The praise kink, that's when you compliment your partner. I would have thought that's basi",
+   "r2_clip_key": "comedians/joe-jacobs/clips/joe-jacobs-max-x48bmjw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-jacobs/clips/joe-jacobs-max-x48bmjw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

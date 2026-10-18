@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ingrid-dahle",
+ "name": "Ingrid Dahle",
+ "clips": 1,
+ "total_views": 18000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "YxHU1nIeEWo",
+  "title": "British Drinking Culture | Ingrid Dahle | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 18000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=YxHU1nIeEWo",
+  "r2_clip_key": "comedians/ingrid-dahle/clips/ingrid-dahle-yxhu1nieewo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ingrid-dahle/clips/ingrid-dahle-yxhu1nieewo.json"
+ },
+ "rows": [
+  {
+   "videoId": "YxHU1nIeEWo",
+   "title": "British Drinking Culture | Ingrid Dahle | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 18000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=YxHU1nIeEWo",
+   "n_words": 68,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "So for British people, it's not natural. When you drink, you're funny. When you drink, you do funny things. You put like traffic combs on statues. That's hilarious. And then you do crazy stuff. You go",
+   "r2_clip_key": "comedians/ingrid-dahle/clips/ingrid-dahle-yxhu1nieewo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ingrid-dahle/clips/ingrid-dahle-yxhu1nieewo.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

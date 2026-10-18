@@ -1,519 +1,759 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "jimmy-carr",
-  "name": "Jimmy Carr",
-  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
-  "version": 2,
-  "created": "2026-10-16",
-  "annotator": "mimo-v2.5",
-  "identity": {
-    "deal": "Mechanical one-liner assassin who delivers the darkest setup with the cadence of a game-show host and the eyes of a man who knows.",
-    "premise": "A man who treats the one-liner as a precision instrument and the audience's shock as the point of impact.",
-    "archetype": "surgical_one_liner",
-    "awareness": "aware",
-    "awareness_note": "Fully aware; the host persona is the delivery system for the darkness.",
-    "philosophy": {
-      "ontology": "A joke is a machine with one moving part: the turn.",
-      "epistemology": "If you have to explain, you built it wrong.",
-      "axiology": "Craft over comfort; the clean line is the ethical line.",
-      "causality": "One exact word in the wrong slot collapses the setup into comedy.",
-      "agency": "Anyone can be shocking; almost nobody is precise about it."
-    },
-    "dramatic_core": {
-      "want": "the clean kill",
-      "fear": "the muddy bit \u2014 the joke that needs a paragraph",
-      "need": "to be the best one-liner writer in the room, unambiguously",
-      "self_model": "a man with a scalpel and a game-show grin",
-      "blind_spots": [
-        "the precision can read as cold",
-        "the darkness can become a formula"
-      ]
-    },
-    "misinterpretation_rule": "Takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work.",
-    "contradictions": [
-      "the warmest host voice with the darkest content",
-      "the machine-precise writer with the casual delivery",
-      "the panel-show nice guy who kills on stage"
-    ],
-    "status_model": {
-      "desired_status": "the best in the format",
-      "felt_status": "a man permanently holding the scalpel and the smile"
-    },
-    "expression": {
-      "default_register": "host-assassin",
-      "emotional_restraint": "total \u2014 the smile never breaks",
-      "tells": [
-        "the pause before the kill",
-        "the laugh at his own audacity",
-        "the 'now, moving on' reset"
-      ]
-    },
-    "modulator_range": [
-      "surgical",
-      "host-grin",
-      "dark-turn",
-      "panel-warm",
-      "meta-craft"
-    ],
-    "profile": {
-      "energy": 0.6,
-      "pace": "even, setup-punch-reload",
-      "gesture_frequency": 0.35,
-      "punchline_hold_ms": 700
-    },
-    "operator_priors": {
-      "rigidify": 0.5,
-      "literalize": 0.45,
-      "double_interpret": 0.6,
-      "status_invert": 0.4,
-      "character_violation": 0.65,
-      "status": "hypothesis from specials"
-    },
-    "preferred_theories": [
-      "incongruity",
-      "benign_violation",
-      "status_reversal"
-    ],
-    "threads": [
-      "the one-liner as a precision instrument",
-      "the host grin as a weapon",
-      "darkness with polish",
-      "the game-show cadence of doom",
-      "the clean kill"
-    ],
-    "problem_space": [
-      "shock as a craft material",
-      "the panel-show persona",
-      "the economy of the joke"
-    ],
-    "style_thesis": "Surgical one-liner engine: takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work. The grin is the benign frame that makes the violation benign. The economy is the craft \u2014 every word pays rent."
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "jimmy-carr",
+ "name": "Jimmy Carr",
+ "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+ "version": 2,
+ "created": "2026-10-16",
+ "annotator": "mimo-v2.5",
+ "identity": {
+  "deal": "Mechanical one-liner assassin who delivers the darkest setup with the cadence of a game-show host and the eyes of a man who knows.",
+  "premise": "A man who treats the one-liner as a precision instrument and the audience's shock as the point of impact.",
+  "archetype": "surgical_one_liner",
+  "awareness": "aware",
+  "awareness_note": "Fully aware; the host persona is the delivery system for the darkness.",
+  "philosophy": {
+   "ontology": "A joke is a machine with one moving part: the turn.",
+   "epistemology": "If you have to explain, you built it wrong.",
+   "axiology": "Craft over comfort; the clean line is the ethical line.",
+   "causality": "One exact word in the wrong slot collapses the setup into comedy.",
+   "agency": "Anyone can be shocking; almost nobody is precise about it."
   },
-  "engine": {
-    "voice_clone_id": null,
-    "delivery_archetype": "surgical_one_liner",
-    "jev_state": {
-      "status": "NOT RUN"
-    }
+  "dramatic_core": {
+   "want": "the clean kill",
+   "fear": "the muddy bit \u2014 the joke that needs a paragraph",
+   "need": "to be the best one-liner writer in the room, unambiguously",
+   "self_model": "a man with a scalpel and a game-show grin",
+   "blind_spots": [
+    "the precision can read as cold",
+    "the darkness can become a formula"
+   ]
   },
-  "sets": [
-    {
-      "set_id": "jimmy-carr_2011-ull-ranscript",
-      "title": "2011 Ull Ranscript",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/jimmy-carr/2011-ull-ranscript.txt",
-        "format": "plain txt",
-        "words": 10461
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    },
-    {
-      "set_id": "jimmy-carr_2016-ull-ranscript",
-      "title": "2016 Ull Ranscript",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/jimmy-carr/2016-ull-ranscript.txt",
-        "format": "plain txt",
-        "words": 7463
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    },
-    {
-      "set_id": "jimmy-carr_immy-arr-aughing-and-oking-2013-ranscript",
-      "title": "Immy Arr Aughing And Oking 2013 Ranscript",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/jimmy-carr/immy-arr-aughing-and-oking-2013-ranscript.txt",
-        "format": "plain txt",
-        "words": 10972
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    },
-    {
-      "set_id": "jimmy-carr_immy-arr-he-est-of-ltimate-old-reatest-its-2019-ul",
-      "title": "Immy Arr He Est Of Ltimate Old Reatest Its 2019 Ull Ranscript",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/jimmy-carr/immy-arr-he-est-of-ltimate-old-reatest-its-2019-ull-ranscript.txt",
-        "format": "plain txt",
-        "words": 6216
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    }
+  "misinterpretation_rule": "Takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work.",
+  "contradictions": [
+   "the warmest host voice with the darkest content",
+   "the machine-precise writer with the casual delivery",
+   "the panel-show nice guy who kills on stage"
   ],
-  "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+  "status_model": {
+   "desired_status": "the best in the format",
+   "felt_status": "a man permanently holding the scalpel and the smile"
   },
-  "essay_seeds": [
-    {
-      "id": "jimmy-carr-essay-01",
-      "title": "Why is Jimmy Carr funny? The surgical one liner engine",
-      "thesis": "Surgical one-liner engine: takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work. The grin is the benign frame that makes the violation benign. The economy is the craft \u2014 every word pays rent.",
-      "evidence": [
-        "identity.misinterpretation_rule",
-        "known_bits",
-        "identity.operator_priors",
-        "timing_profile.doctrine_hypothesis"
-      ],
-      "outline": [
-        "the deal in one sentence",
-        "the misinterpretation rule as engine",
-        "2-3 signature bits dissected",
-        "timing doctrine",
-        "what makes this persona impossible to copy"
-      ],
-      "status": "seed \u2014 ready to draft"
-    },
-    {
-      "id": "jimmy-carr-essay-02",
-      "title": "Jimmy Carr: 'The dark turn on a normal premise' \u2014 how the bit works",
-      "thesis": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
-      "evidence": [
-        "known_bits[0]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    },
-    {
-      "id": "jimmy-carr-essay-03",
-      "title": "Jimmy Carr: 'Self-aware shock comedy' \u2014 how the bit works",
-      "thesis": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
-      "evidence": [
-        "known_bits[1]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    },
-    {
-      "id": "jimmy-carr-bit-01",
-      "title": "Jimmy Carr: 'The dark turn on a normal premise' \u2014 how the bit works",
-      "thesis": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
-      "evidence": [
-        "known_bits[0]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    },
-    {
-      "id": "jimmy-carr-bit-02",
-      "title": "Jimmy Carr: 'Self-aware shock comedy' \u2014 how the bit works",
-      "thesis": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
-      "evidence": [
-        "known_bits[1]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    }
+  "expression": {
+   "default_register": "host-assassin",
+   "emotional_restraint": "total \u2014 the smile never breaks",
+   "tells": [
+    "the pause before the kill",
+    "the laugh at his own audacity",
+    "the 'now, moving on' reset"
+   ]
+  },
+  "modulator_range": [
+   "surgical",
+   "host-grin",
+   "dark-turn",
+   "panel-warm",
+   "meta-craft"
   ],
-  "provenance": {
-    "persona": "authored from public reputation (no verbatim bits)",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines",
-      "hypothesis until measured"
-    ],
-    "sets_observed": 0,
-    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
-    "theory_applied": true,
-    "deepened": "2026-10-16",
-    "transcripts_linked": [
-      "transcripts/jimmy-carr/2011-ull-ranscript.txt",
-      "transcripts/jimmy-carr/2016-ull-ranscript.txt",
-      "transcripts/jimmy-carr/immy-arr-aughing-and-oking-2013-ranscript.txt",
-      "transcripts/jimmy-carr/immy-arr-he-est-of-ltimate-old-reatest-its-2019-ull-ranscript.txt"
-    ]
+  "profile": {
+   "energy": 0.6,
+   "pace": "even, setup-punch-reload",
+   "gesture_frequency": 0.35,
+   "punchline_hold_ms": 700
   },
-  "timing_profile": {
-    "doctrine_hypothesis": "Even setup-punch-reload. The pause before the kill is surgical \u2014 always long enough for the room to see it coming, never long enough for them to escape. The grin after the kill is punctuation.",
-    "status": "hypothesis until word-timed sets measured"
+  "operator_priors": {
+   "rigidify": 0.5,
+   "literalize": 0.45,
+   "double_interpret": 0.6,
+   "status_invert": 0.4,
+   "character_violation": 0.65,
+   "status": "hypothesis from specials"
   },
-  "known_bits": [
-    {
-      "title": "The dark turn on a normal premise",
-      "why_it_works": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
-      "theory_links": [
-        "two_stories",
-        "benign_violation"
-      ]
-    },
-    {
-      "title": "Self-aware shock comedy",
-      "why_it_works": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
-      "theory_links": [
-        "split_knowledge",
-        "benign_violation"
-      ]
-    }
+  "preferred_theories": [
+   "incongruity",
+   "benign_violation",
+   "status_reversal"
   ],
-  "theory_links": {
-    "internal": [
-      {
-        "id": "gtvh",
-        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
-        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "attardo-pause-taxonomy",
-        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
-        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "dpv",
-        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
-        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "incongruity",
-        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
-        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "benign_violation",
-        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
-        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "status_reversal",
-        "cite": "Roger & Duffy / status theory of humor",
-        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "split_knowledge",
-        "cite": "Veatch 1978 \u2014 theory of joking relationships",
-        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "escalation",
-        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
-        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
-        "applies_to": "primary move / timing / structure"
-      }
-    ],
-    "external": [
-      {
-        "id": "standup4ai",
-        "cite": "StandUp4AI dataset (EMNLP 2025)",
-        "use": "future laugh-position ground truth"
-      },
-      {
-        "id": "tic-talk",
-        "cite": "TIC-TALK (CHum 2026)",
-        "use": "future cross-comedian timing normalization"
-      }
-    ]
-  },
-  "generation": {
-    "id": "aughts",
-    "label": "Aughts",
-    "span": "2000s",
-    "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
-    "scene": "uk-panel",
-    "breakthrough": "2000s"
-  },
-  "specials_rated": [
-    {
-      "special": "Jimmy Carr: Comedian",
-      "year": 2007,
-      "imdb_id": "tt1172061",
-      "imdb_rating": 7.9,
-      "imdb_votes": 1417,
-      "source": "known-title",
-      "standout": false
-    },
-    {
-      "special": "Jimmy Carr: Making People Laugh",
-      "year": 2010,
-      "imdb_id": "tt1794821",
-      "imdb_rating": 7.8,
-      "imdb_votes": 1257,
-      "source": "known-title",
-      "standout": false
-    },
-    {
-      "special": "Jimmy Carr: Being Funny",
-      "year": 2011,
-      "imdb_id": "tt2120780",
-      "imdb_rating": 7.7,
-      "imdb_votes": 1316,
-      "source": "known-title",
-      "standout": false
-    },
-    {
-      "special": "Jimmy Carr: Laughing and Joking",
-      "year": 2013,
-      "imdb_id": "tt3486648",
-      "imdb_rating": 7.8,
-      "imdb_votes": 1373,
-      "source": "known-title",
-      "standout": false
-    }
+  "threads": [
+   "the one-liner as a precision instrument",
+   "the host grin as a weapon",
+   "darkness with polish",
+   "the game-show cadence of doom",
+   "the clean kill"
   ],
-  "bio": {
-    "wikidata_id": "Q964454",
-    "dob": "1972-09-15",
-    "dod": null,
-    "birthplace": "Hounslow",
-    "citizenship": "United Kingdom",
-    "occupations": [
-      "comedian",
-      "television presenter",
-      "stand-up comedian",
-      "film actor"
-    ],
-    "source": "wikidata (CC0)"
-  },
-  "humor_type": {
-    "primary": "one-liner",
-    "secondary": "observational",
-    "scores": {
-      "one-liner": 0.5,
-      "observational": 0.17,
-      "dark-confessional": 0.17
-    },
-    "method": "archetype+theories+transcript"
-  },
-  "netflix_viewership": {
-    "hours": 13500000,
-    "views": 11300000,
-    "specials": 4,
-    "source": "What We Watched 2023H1-2026H1"
-  },
-  "metrics": {
-    "legacy": 80.2,
-    "legacy_era": 87.9,
-    "audience": 72.5,
-    "popularity": 80.7,
-    "theory": 62.5,
-    "heat": null,
-    "gap_value": 0.082,
-    "overrated": "accurately rated",
-    "canon_lag": -0.077
-  },
-  "tier": "king",
-  "region": "uk",
-  "continent": "europe",
-  "modes": {
-    "signature": "one-liner",
-    "signature_title": "dark surgeon",
-    "repertoire": {
-      "one-liner": 0.37,
-      "meta": 0.37,
-      "observational": 0.13,
-      "dark-confessional": 0.13
-    },
-    "n_modes": 4
-  },
-  "style": {
-    "words": 49008,
-    "profanity_rate": 0.007,
-    "question_rate": 0.261,
-    "i_rate": 0.041,
-    "vocab_div": 0.089,
-    "avg_sent_len": 10.2,
-    "top_words": [
-      "said",
-      "think",
-      "well",
-      "people",
-      "laughter",
-      "fucking",
-      "thing",
-      "joke",
-      "audience",
-      "because",
-      "some",
-      "woman"
-    ]
-  },
-  "recognition": {
-    "awards": [
-      {
-        "award": "British Comedy Awards",
-        "year": null
-      }
-    ]
-  },
-  "rating": {
-    "headline": 52.8,
-    "coverage": "UNRANKED",
-    "provisional": "global-prior",
-    "boards": {
-      "house": {
-        "rank": null
-      },
-      "consensus": {
-        "rank": 83,
-        "ref": true
-      },
-      "canon": {
-        "rank": 146,
-        "ref": true
-      },
-      "peoples": {
-        "rank": 18,
-        "wr": 7.796,
-        "ref": true
-      },
-      "era": {
-        "rank": 51,
-        "ref": true
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "website": {
-    "url": "http://www.jimmycarr.com/",
-    "source": "wikidata-P856",
-    "checked": "2026-10-17"
-  },
-  "youtube_channel": {
-    "id": "UCf9BO33b-MnIxB5y0azrxmg",
-    "handle": "JimmyCarr",
-    "title": "Jimmy Carr",
-    "subs": 2230000,
-    "via": "forHandle-verified",
-    "source": "UK push (verified, no search)"
+  "problem_space": [
+   "shock as a craft material",
+   "the panel-show persona",
+   "the economy of the joke"
+  ],
+  "style_thesis": "Surgical one-liner engine: takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work. The grin is the benign frame that makes the violation benign. The economy is the craft \u2014 every word pays rent."
+ },
+ "engine": {
+  "voice_clone_id": null,
+  "delivery_archetype": "surgical_one_liner",
+  "jev_state": {
+   "status": "NOT RUN"
   }
+ },
+ "sets": [
+  {
+   "set_id": "jimmy-carr_2011-ull-ranscript",
+   "title": "2011 Ull Ranscript",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/jimmy-carr/2011-ull-ranscript.txt",
+    "format": "plain txt",
+    "words": 10461
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+  },
+  {
+   "set_id": "jimmy-carr_2016-ull-ranscript",
+   "title": "2016 Ull Ranscript",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/jimmy-carr/2016-ull-ranscript.txt",
+    "format": "plain txt",
+    "words": 7463
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+  },
+  {
+   "set_id": "jimmy-carr_immy-arr-aughing-and-oking-2013-ranscript",
+   "title": "Immy Arr Aughing And Oking 2013 Ranscript",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/jimmy-carr/immy-arr-aughing-and-oking-2013-ranscript.txt",
+    "format": "plain txt",
+    "words": 10972
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+  },
+  {
+   "set_id": "jimmy-carr_immy-arr-he-est-of-ltimate-old-reatest-its-2019-ul",
+   "title": "Immy Arr He Est Of Ltimate Old Reatest Its 2019 Ull Ranscript",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/jimmy-carr/immy-arr-he-est-of-ltimate-old-reatest-its-2019-ull-ranscript.txt",
+    "format": "plain txt",
+    "words": 6216
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+  }
+ ],
+ "set_queue": {
+  "note": "5 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+  "r2_specials": [
+   "laughing-and-joking-2013",
+   "being-funny-2011",
+   "funny-business-2016",
+   "natural-born-killer-2024",
+   "the-best-of-ultimate-gold-greatest-hits-2019"
+  ],
+  "special_titles": [
+   "Jimmy Carr: Laughing and Joking (2013) | Transcript",
+   "JIMMY CARR: BEING FUNNY (2011) \u2013 Full Transcript",
+   "JIMMY CARR: FUNNY BUSINESS (2016) \u2013 Full Transcript",
+   "Jimmy Carr: Natural Born Killer (2024)",
+   "Jimmy Carr: The Best of Ultimate Gold Greatest Hits (2019) \u2013 Full Transcript"
+  ],
+  "blocked_on": "ingest (r2 specials are transcript-linked)"
+ },
+ "essay_seeds": [
+  {
+   "id": "jimmy-carr-essay-01",
+   "title": "Why is Jimmy Carr funny? The surgical one liner engine",
+   "thesis": "Surgical one-liner engine: takes the darkest available reading of a normal situation and delivers it with host-level polish so the contrast does the work. The grin is the benign frame that makes the violation benign. The economy is the craft \u2014 every word pays rent.",
+   "evidence": [
+    "identity.misinterpretation_rule",
+    "known_bits",
+    "identity.operator_priors",
+    "timing_profile.doctrine_hypothesis"
+   ],
+   "outline": [
+    "the deal in one sentence",
+    "the misinterpretation rule as engine",
+    "2-3 signature bits dissected",
+    "timing doctrine",
+    "what makes this persona impossible to copy"
+   ],
+   "status": "seed \u2014 ready to draft"
+  },
+  {
+   "id": "jimmy-carr-essay-02",
+   "title": "Jimmy Carr: 'The dark turn on a normal premise' \u2014 how the bit works",
+   "thesis": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
+   "evidence": [
+    "known_bits[0]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  },
+  {
+   "id": "jimmy-carr-essay-03",
+   "title": "Jimmy Carr: 'Self-aware shock comedy' \u2014 how the bit works",
+   "thesis": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
+   "evidence": [
+    "known_bits[1]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  },
+  {
+   "id": "jimmy-carr-bit-01",
+   "title": "Jimmy Carr: 'The dark turn on a normal premise' \u2014 how the bit works",
+   "thesis": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
+   "evidence": [
+    "known_bits[0]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  },
+  {
+   "id": "jimmy-carr-bit-02",
+   "title": "Jimmy Carr: 'Self-aware shock comedy' \u2014 how the bit works",
+   "thesis": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
+   "evidence": [
+    "known_bits[1]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  }
+ ],
+ "provenance": {
+  "persona": "authored from public reputation (no verbatim bits)",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines",
+   "hypothesis until measured"
+  ],
+  "sets_observed": 0,
+  "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+  "theory_applied": true,
+  "deepened": "2026-10-16",
+  "transcripts_linked": [
+   "transcripts/jimmy-carr/2011-ull-ranscript.txt",
+   "transcripts/jimmy-carr/2016-ull-ranscript.txt",
+   "transcripts/jimmy-carr/immy-arr-aughing-and-oking-2013-ranscript.txt",
+   "transcripts/jimmy-carr/immy-arr-he-est-of-ltimate-old-reatest-its-2019-ull-ranscript.txt"
+  ]
+ },
+ "timing_profile": {
+  "doctrine_hypothesis": "Even setup-punch-reload. The pause before the kill is surgical \u2014 always long enough for the room to see it coming, never long enough for them to escape. The grin after the kill is punctuation.",
+  "status": "hypothesis until word-timed sets measured"
+ },
+ "known_bits": [
+  {
+   "title": "The dark turn on a normal premise",
+   "why_it_works": "Setup installs a normal, even wholesome scenario. Punch reveals the darkest reading was there all along. two_stories at maximum darkness. The host grin is the benign frame \u2014 without it, the violation is just cruel; with it, it's comedy.",
+   "theory_links": [
+    "two_stories",
+    "benign_violation"
+   ]
+  },
+  {
+   "title": "Self-aware shock comedy",
+   "why_it_works": "He names the mechanism ('I know, I know') which is itself a transgression \u2014 the room is shocked AND complicit. split_knowledge: everyone knows the joke is 'too far'; the grin says we all chose to be here.",
+   "theory_links": [
+    "split_knowledge",
+    "benign_violation"
+   ]
+  }
+ ],
+ "theory_links": {
+  "internal": [
+   {
+    "id": "gtvh",
+    "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+    "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "attardo-pause-taxonomy",
+    "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+    "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "dpv",
+    "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+    "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "incongruity",
+    "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+    "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "benign_violation",
+    "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+    "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "status_reversal",
+    "cite": "Roger & Duffy / status theory of humor",
+    "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "split_knowledge",
+    "cite": "Veatch 1978 \u2014 theory of joking relationships",
+    "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "escalation",
+    "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+    "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+    "applies_to": "primary move / timing / structure"
+   }
+  ],
+  "external": [
+   {
+    "id": "standup4ai",
+    "cite": "StandUp4AI dataset (EMNLP 2025)",
+    "use": "future laugh-position ground truth"
+   },
+   {
+    "id": "tic-talk",
+    "cite": "TIC-TALK (CHum 2026)",
+    "use": "future cross-comedian timing normalization"
+   }
+  ]
+ },
+ "generation": {
+  "id": "aughts",
+  "label": "Aughts",
+  "span": "2000s",
+  "note": "Comedy Central era, UK panel boom, early YouTube, podcast seeds.",
+  "scene": "uk-panel",
+  "breakthrough": "2000s"
+ },
+ "specials_rated": [
+  {
+   "special": "Jimmy Carr: Comedian",
+   "year": 2007,
+   "imdb_id": "tt1172061",
+   "imdb_rating": 7.9,
+   "imdb_votes": 1417,
+   "source": "known-title",
+   "standout": false
+  },
+  {
+   "special": "Jimmy Carr: Making People Laugh",
+   "year": 2010,
+   "imdb_id": "tt1794821",
+   "imdb_rating": 7.8,
+   "imdb_votes": 1257,
+   "source": "known-title",
+   "standout": false
+  },
+  {
+   "special": "Jimmy Carr: Being Funny",
+   "year": 2011,
+   "imdb_id": "tt2120780",
+   "imdb_rating": 7.7,
+   "imdb_votes": 1316,
+   "source": "known-title",
+   "standout": false
+  },
+  {
+   "special": "Jimmy Carr: Laughing and Joking",
+   "year": 2013,
+   "imdb_id": "tt3486648",
+   "imdb_rating": 7.8,
+   "imdb_votes": 1373,
+   "source": "known-title",
+   "standout": false
+  }
+ ],
+ "bio": {
+  "wikidata_id": "Q964454",
+  "dob": "1972-09-15",
+  "dod": null,
+  "birthplace": "Hounslow",
+  "citizenship": "United Kingdom",
+  "occupations": [
+   "comedian",
+   "television presenter",
+   "stand-up comedian",
+   "film actor"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "humor_type": {
+  "primary": "one-liner",
+  "secondary": "observational",
+  "scores": {
+   "one-liner": 0.5,
+   "observational": 0.17,
+   "dark-confessional": 0.17
+  },
+  "method": "archetype+theories+transcript"
+ },
+ "netflix_viewership": {
+  "hours": 13500000,
+  "views": 11300000,
+  "specials": 4,
+  "source": "What We Watched 2023H1-2026H1"
+ },
+ "metrics": {
+  "legacy": 80.2,
+  "legacy_era": 87.9,
+  "audience": 72.5,
+  "popularity": 79.6,
+  "theory": 62.5,
+  "heat": null,
+  "gap_value": 0.071,
+  "overrated": "accurately rated",
+  "canon_lag": -0.077
+ },
+ "tier": "king",
+ "region": "uk",
+ "continent": "europe",
+ "modes": {
+  "signature": "one-liner",
+  "signature_title": "dark surgeon",
+  "repertoire": {
+   "one-liner": 0.37,
+   "meta": 0.37,
+   "observational": 0.13,
+   "dark-confessional": 0.13
+  },
+  "n_modes": 4
+ },
+ "style": {
+  "words": 49008,
+  "profanity_rate": 0.007,
+  "question_rate": 0.261,
+  "i_rate": 0.041,
+  "vocab_div": 0.089,
+  "avg_sent_len": 10.2,
+  "top_words": [
+   "said",
+   "think",
+   "well",
+   "people",
+   "laughter",
+   "fucking",
+   "thing",
+   "joke",
+   "audience",
+   "because",
+   "some",
+   "woman"
+  ]
+ },
+ "recognition": {
+  "awards": [
+   {
+    "award": "British Comedy Awards",
+    "year": null
+   }
+  ]
+ },
+ "rating": {
+  "headline": 26.5,
+  "coverage": "UNRANKED",
+  "provisional": "neighbor-latent",
+  "boards": {
+   "house": {
+    "rank": null
+   },
+   "consensus": {
+    "rank": 83,
+    "ref": true
+   },
+   "canon": {
+    "rank": 146,
+    "ref": true
+   },
+   "peoples": {
+    "rank": 18,
+    "wr": 7.796,
+    "ref": true
+   },
+   "era": {
+    "rank": 51,
+    "ref": true
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "website": {
+  "url": "http://www.jimmycarr.com/",
+  "source": "wikidata-P856",
+  "checked": "2026-10-17"
+ },
+ "youtube_channel": {
+  "id": "UCf9BO33b-MnIxB5y0azrxmg",
+  "handle": "JimmyCarr",
+  "title": "Jimmy Carr",
+  "subs": 2230000,
+  "via": "forHandle-verified",
+  "source": "UK push (verified, no search)"
+ },
+ "discovery": {
+  "discovered_from": [
+   "r2:comedy-specials"
+  ],
+  "r2_comedian": true,
+  "r2_clips": 6,
+  "r2_specials": 5
+ },
+ "youtube": {
+  "clips": 6,
+  "total_views": 1754750,
+  "timed_clips": 6,
+  "r2_linked": true,
+  "top_clip": {
+   "videoId": "t2ICmOYP8gs",
+   "title": "Jimmy Carr - Polish joke",
+   "views": 829360,
+   "duration_s": 32,
+   "url": "https://www.youtube.com/watch?v=t2ICmOYP8gs",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jimmy-carr/clips/jimmy-carr-t2icmoyp8gs.json"
+  }
+ },
+ "transcripts": {
+  "clip_words": 1561,
+  "special_words": 58576,
+  "timed_clips": 6,
+  "timed_specials": 0,
+  "r2_source": "r2:comedy-specials",
+  "synced": "2026-10-18"
+ },
+ "r2_profiled": "2026-10-18",
+ "youtube_specials": [
+  {
+   "videoId": "Rzo5-2zbXU8",
+   "title": "Jimmy Carr Listens as a Fan Shares a Powerful Story About His Mother - Wellington, New Zealand",
+   "duration_s": 1568,
+   "views": 11150,
+   "url": "https://www.youtube.com/watch?v=Rzo5-2zbXU8",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "g2JQTBj4EuM",
+   "title": "Jimmy Carr's Greatest Contributions to British Television - Season 12| 8 Out of 10 Cats",
+   "duration_s": 1596,
+   "views": 15731,
+   "url": "https://www.youtube.com/watch?v=g2JQTBj4EuM",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "Qqu-hmeIQ2g",
+   "title": "68% of Men Said WHAT?!... Jimmy Carr's Best One-Liners | 8 Out of 10 Cats",
+   "duration_s": 1610,
+   "views": 21207,
+   "url": "https://www.youtube.com/watch?v=Qqu-hmeIQ2g",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "2RDd0MvoJkA",
+   "title": "Antwerp, Amsterdam & Athens - 30+ Minutes of International Crowd Work | Jimmy Carr",
+   "duration_s": 2066,
+   "views": 163695,
+   "url": "https://www.youtube.com/watch?v=2RDd0MvoJkA",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "H18OWzljKoQ",
+   "title": "Jimmy Carr Refuses to Believe This 56-Year-Old Man Is Actually a Chimney Sweep",
+   "duration_s": 3152,
+   "views": 525147,
+   "url": "https://www.youtube.com/watch?v=H18OWzljKoQ",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "4_jNI4fwpIA",
+   "title": "Jimmy Carr Has the Best Seat in the House | Last One Laughing",
+   "duration_s": 1968,
+   "views": 100271,
+   "url": "https://www.youtube.com/watch?v=4_jNI4fwpIA",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "98j4LHMfMX8",
+   "title": "Jimmy SIGNS a Fan's Back! - 30 Minutes of WILD Audience Requests | Jimmy Carr",
+   "duration_s": 1835,
+   "views": 55309,
+   "url": "https://www.youtube.com/watch?v=98j4LHMfMX8",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "0_kNBPLo11A",
+   "title": "\"He Would Break Me Instantly\" - Sam Campbell Chose Chaos! | Last One Laughing",
+   "duration_s": 1682,
+   "views": 1218122,
+   "url": "https://www.youtube.com/watch?v=0_kNBPLo11A",
+   "r2_special_key": "comedians/jimmy-carr/specials/laughing-and-joking-2013.json",
+   "r2_special_slug": "laughing-and-joking-2013",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "KAMWHhV9XJA",
+   "title": "\"I hope you find love somewhere\" - Jimmy Taken Aback by Sobering Message From Fan - Dunedin",
+   "duration_s": 1204,
+   "views": 11013,
+   "url": "https://www.youtube.com/watch?v=KAMWHhV9XJA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5OI-jeEUSK8",
+   "title": "Season 01 Full Episode Collection - Unfiltered & 4K Enhanced | 8 Out of 10 Cats",
+   "duration_s": 13705,
+   "views": 41399,
+   "url": "https://www.youtube.com/watch?v=5OI-jeEUSK8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "j3yBqFBz-Ik",
+   "title": "\"Can I Get a Beer?!\" - Bold Heckle Ends In Shocking Bereavement Story - Great Malvern, England",
+   "duration_s": 1237,
+   "views": 12377,
+   "url": "https://www.youtube.com/watch?v=j3yBqFBz-Ik",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5WUVaZtndNA",
+   "title": "Claudia Winkleman & Gabby Logan Enter the Guessing Game | 8 Out of 10 Cats",
+   "duration_s": 2861,
+   "views": 22831,
+   "url": "https://www.youtube.com/watch?v=5WUVaZtndNA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UwID4K1DBFI",
+   "title": "Jimmy Tries to Make Sense of a \"Medical Emergency\" in the Audience - Truro, England",
+   "duration_s": 1329,
+   "views": 11697,
+   "url": "https://www.youtube.com/watch?v=UwID4K1DBFI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IsGxv0XCzLo",
+   "title": "Britain Was Surveyed. Lee Mack & Frankie Boyle Disagreed | 8 Out of 10 Cats",
+   "duration_s": 2826,
+   "views": 25436,
+   "url": "https://www.youtube.com/watch?v=IsGxv0XCzLo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NgCc-zIlc5o",
+   "title": "\"It\u2019s Illegal to Die in the Houses of Parliament?!\u201d | 8 Out of 10 Cats",
+   "duration_s": 2712,
+   "views": 48720,
+   "url": "https://www.youtube.com/watch?v=NgCc-zIlc5o",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Cit5P5DtJtc",
+   "title": "Two Future Arena Comics and One Louis Walsh | 8 Out of 10 Cats",
+   "duration_s": 3048,
+   "views": 23272,
+   "url": "https://www.youtube.com/watch?v=Cit5P5DtJtc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Qt9rquhktWU",
+   "title": "\"What Don\u2019t You Like About Florida?\" - Jimmy's BRUTALLY Honest Response - Florida, USA",
+   "duration_s": 1584,
+   "views": 12466,
+   "url": "https://www.youtube.com/watch?v=Qt9rquhktWU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lg3cdspsu98",
+   "title": "Johnny Vegas & Krishnan Guru-Murthy Rewrite the News | 8 Out of 10 Cats",
+   "duration_s": 3007,
+   "views": 16058,
+   "url": "https://www.youtube.com/watch?v=lg3cdspsu98",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "iI6DfoV1Z0A",
+   "title": "\u201cHe Knocked Himself Out on Me Fist!\u201d... An Interesting Bar Fight | 8 Out of 10 Cats",
+   "duration_s": 1401,
+   "views": 47636,
+   "url": "https://www.youtube.com/watch?v=iI6DfoV1Z0A",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rSfR1pZNFwY",
+   "title": "What Jokes Do You Have For Truck Drivers?! - Jimmy Doesn't Hold Back - Columbus, Ohio",
+   "duration_s": 1501,
+   "views": 13517,
+   "url": "https://www.youtube.com/watch?v=rSfR1pZNFwY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UvVs2-pYwAM",
+   "title": "When Sarah Silverman & Kelly Osbourne Had the Microphone\u2026| 8 Out of 10 Cats",
+   "duration_s": 2986,
+   "views": 21950,
+   "url": "https://www.youtube.com/watch?v=UvVs2-pYwAM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Ce5D0eRASw8",
+   "title": "DOUBLE FEATURE: Chris Hoy Has the Medals. Rhod Gilbert Has Complaints. | 8 Out of 10 Cats",
+   "duration_s": 2980,
+   "views": 15949,
+   "url": "https://www.youtube.com/watch?v=Ce5D0eRASw8",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 22
 }

@@ -1,0 +1,72 @@
+{
+ "comedian_id": "roast-battle",
+ "name": "Roast Battle",
+ "clips": 3,
+ "total_views": 2528840,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "6dJYWjG3Y6s",
+  "title": "Roast Battle - Jimmy Carr vs. Christi Chiello",
+  "channel": "Comedy Central",
+  "views": 2525659,
+  "duration_s": 68,
+  "url": "https://www.youtube.com/watch?v=6dJYWjG3Y6s",
+  "r2_clip_key": "comedians/roast-battle/clips/roast-battle-6djywjg3y6s.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/roast-battle/clips/roast-battle-6djywjg3y6s.json"
+ },
+ "rows": [
+  {
+   "videoId": "6dJYWjG3Y6s",
+   "title": "Roast Battle - Jimmy Carr vs. Christi Chiello",
+   "channel": "Comedy Central",
+   "views": 2525659,
+   "likes": null,
+   "duration_s": 68,
+   "url": "https://www.youtube.com/watch?v=6dJYWjG3Y6s",
+   "n_words": 19,
+   "words_timed": true,
+   "transcript_method": "youtube-manual-captions",
+   "transcript_available": true,
+   "transcript_preview": "I WAS GOING TO TALK\nABOUT CHRISTI'S CAREER, BUT IT'S LIKE TRYING\nTO PUNCH FOG. THERE'S NOTHING THERE.\nTHERE'S NOTHING. THERE ARE ISIS SLEEPER CELLS\nWITH HIGHER PROFILES. I LOOKED HER UP\nON THE INTERNE",
+   "r2_clip_key": "comedians/roast-battle/clips/roast-battle-6djywjg3y6s.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/roast-battle/clips/roast-battle-6djywjg3y6s.json",
+   "source_group": "big-names-shorts"
+  },
+  {
+   "videoId": "-MsxSWr-r90",
+   "title": "Rob Nother VS Robbie Wild | Roast Battle | Craic Den Comedy Dublin #comedy #roastbattle #roast",
+   "channel": "@craicdencomedyclub",
+   "views": 2200,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=-MsxSWr-r90",
+   "n_words": 413,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Yeah. All right. Uh, so Robbie, uh, he dresses like a 1940s Irish farmer and, uh, has the body type of an 1840s Irish farmer. Robbie is a he's a passionate artist and really knows how to control a cro",
+   "r2_clip_key": "comedians/roast-battle/clips/roast-battle-msxswr-r90.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/roast-battle/clips/roast-battle-msxswr-r90.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "TppICmvRb9k",
+   "title": "James Cadden VS Andrew Dorman | Roast Battle | Craic Den #Comedy #standupcomedy #roast #jokes #haha",
+   "channel": "@craicdencomedyclub",
+   "views": 981,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=TppICmvRb9k",
+   "n_words": 366,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "if an actor had James's physique they'd be praised for their commitment to the role the chicken fillet roll hey there we go hey look at this we're like a double act up here Andrew looks like an AI gen",
+   "r2_clip_key": "comedians/roast-battle/clips/roast-battle-tppicmvrb9k.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/roast-battle/clips/roast-battle-tppicmvrb9k.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

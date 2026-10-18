@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "robin-williams",
+ "specials": [
+  {
+   "special_slug": "weapons-of-self-destruction-2009",
+   "title": "Robin Williams: Weapons of Self Destruction (2009) \u2013 Full Transcript",
+   "comedian": "Robin Williams",
+   "url": "https://scrapsfromtheloft.com/comedy/robin-williams-weapons-of-self-destruction-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 14944,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "In this comedy special taped at DAR Constitution Hall, his first solo special on the network in seven years, Williams covers such topics as global warming, sex and politics, the state of health care in the country (suggesting a cash for clunkers program for elderly relatives, among other things), dr",
+   "r2_special_key": "comedians/robin-williams/specials/weapons-of-self-destruction-2009.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/robin-williams/specials/weapons-of-self-destruction-2009.json"
+  },
+  {
+   "special_slug": "live-on-broadway-2002",
+   "title": "Robin Williams: Live on Broadway (2002)",
+   "comedian": "Robin Williams",
+   "url": "https://scrapsfromtheloft.com/comedy/robin-williams-live-on-broadway-2002-full-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 12376,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nRobin Williams: Live on Broadway (2002) \u2013 Transcript\nPublished April 19, 2019\n52 years old and not slowing down for a second, Robin Williams is non-stop for almost 2 hours as he tackles terrorism, sex, drugs, family, golf, drinking, cats, the gay mafia, and everything else you can think o",
+   "r2_special_key": "comedians/robin-williams/specials/live-on-broadway-2002.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/robin-williams/specials/live-on-broadway-2002.json"
+  }
+ ],
+ "count": 2
+}

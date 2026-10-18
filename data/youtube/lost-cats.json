@@ -1,0 +1,38 @@
+{
+ "comedian_id": "lost-cats",
+ "name": "Lost Cats",
+ "clips": 1,
+ "total_views": 6100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "o41U8FmLwlQ",
+  "title": "Lost Cats - Mark Maier - Live at The Bearcat  #comedy #standup #bearcatcomedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 6100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=o41U8FmLwlQ",
+  "r2_clip_key": "comedians/lost-cats/clips/lost-cats-o41u8fmlwlq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lost-cats/clips/lost-cats-o41u8fmlwlq.json"
+ },
+ "rows": [
+  {
+   "videoId": "o41U8FmLwlQ",
+   "title": "Lost Cats - Mark Maier - Live at The Bearcat  #comedy #standup #bearcatcomedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 6100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=o41U8FmLwlQ",
+   "n_words": 143,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'm on a train recently. I'm trying to do the right thing. There's a bloke sitting opposite me on a train. He's got blue corduroy trousers and brown shoes. So, I hit the emergency alarm. >> [laughter]",
+   "r2_clip_key": "comedians/lost-cats/clips/lost-cats-o41u8fmlwlq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lost-cats/clips/lost-cats-o41u8fmlwlq.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

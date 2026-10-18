@@ -1,0 +1,38 @@
+{
+ "comedian_id": "men-are-dumb",
+ "name": "Men Are Dumb!",
+ "clips": 1,
+ "total_views": 2600,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "lyQsoxLPRaw",
+  "title": "Men Are Dumb! - Ontonio Kareem",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 2600,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=lyQsoxLPRaw",
+  "r2_clip_key": "comedians/men-are-dumb/clips/men-are-dumb-lyqsoxlpraw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/men-are-dumb/clips/men-are-dumb-lyqsoxlpraw.json"
+ },
+ "rows": [
+  {
+   "videoId": "lyQsoxLPRaw",
+   "title": "Men Are Dumb! - Ontonio Kareem",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 2600,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=lyQsoxLPRaw",
+   "n_words": 115,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I was in a bad mood before I got here, dog. I was in a bad mood. I got broken up with before I came to London, man. See, that's how you get the hoes, bro. >> [laughter] >> He's like, \"Hell yeah, bro.\"",
+   "r2_clip_key": "comedians/men-are-dumb/clips/men-are-dumb-lyqsoxlpraw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/men-are-dumb/clips/men-are-dumb-lyqsoxlpraw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

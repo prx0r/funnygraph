@@ -1,0 +1,58 @@
+{
+ "comedian_slug": "bo-burnham",
+ "specials": [
+  {
+   "special_slug": "words-words-words-2010",
+   "title": "Bo Burnham: Words, Words, Words (2010) \u2013 Transcript",
+   "comedian": "Bo Burnham",
+   "url": "https://scrapsfromtheloft.com/comedy/bo-burnham-words-words-words-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8595,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "(Cheers and applause) Thank you. (Laughter) When I say hey, you say ho. Hey. Ho! Hey. Ho! That\u2019s basically how Hitler rose to power. (Laughter, soft piano music plays) \u266b My show is a little bit silly \u266b \u266b And a little bit pretentious \u266b \u266b Like Shakespeare\u2019s willie \u266b \u266b Or Noam Chomsky wearing a strap-o",
+   "r2_special_key": "comedians/bo-burnham/specials/words-words-words-2010.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bo-burnham/specials/words-words-words-2010.json"
+  },
+  {
+   "special_slug": "inside-2021",
+   "title": "Bo Burnham: Inside (2021) \u2013 Transcript",
+   "comedian": "Bo Burnham",
+   "url": "https://scrapsfromtheloft.com/comedy/bo-burnham-inside-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8283,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Exploring mental health decline over 2020, the constant challenges our world faces, and the struggles of life itself, Bo Burnham creates a wonderful masterpiece to explain each of these, both from general view and personal experience.  * * * \u266a If you\u2019d have told me\u00a0\u266a \u266a A year ago\u00a0\u266a \u266a That I\u2019d be loc",
+   "r2_special_key": "comedians/bo-burnham/specials/inside-2021.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bo-burnham/specials/inside-2021.json"
+  },
+  {
+   "special_slug": "make-happy-2016",
+   "title": "Bo Burnham: Make Happy (2016) \u2013 Transcript",
+   "comedian": "Bo Burnham",
+   "url": "https://scrapsfromtheloft.com/comedy/bo-burnham-make-happy-2016-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 7929,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[woman on TV] That has been, really, a difficult thing for me. My mother has always been a very difficult person all her life. Very unhappy. I can never remember my mother being happy. [inhales deeply] And as she gets older, however she was as a young person, I find it\u2019s just now exaggerated and, uh",
+   "r2_special_key": "comedians/bo-burnham/specials/make-happy-2016.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bo-burnham/specials/make-happy-2016.json"
+  },
+  {
+   "special_slug": "what-2013",
+   "title": "Bo Burnham: What (2013) \u2013 Transcript",
+   "comedian": "Bo Burnham",
+   "url": "https://scrapsfromtheloft.com/comedy/bo-burnham-what-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 7462,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Bo What? Old MacDonald had a farm E I E I O And on that farm he had a pig E I E I O Here a snort There a Old MacDonald had a farm E I E I O [Applause] This is Bo Burnham. He\u2019s 22 years old. He\u2019s a male. And he looks like the genetic product of a giraffe having sex with Ellen Degeneres. He has a giga",
+   "r2_special_key": "comedians/bo-burnham/specials/what-2013.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bo-burnham/specials/what-2013.json"
+  }
+ ],
+ "count": 4
+}

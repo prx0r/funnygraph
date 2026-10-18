@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ashlee-bentley",
+ "name": "Ashlee Bentley",
+ "clips": 1,
+ "total_views": 28000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "wFqUArKhT5M",
+  "title": "Coming Out Story | Ashlee Bentley | Craic Den Comedy Club #bi #comedy #irish #funny",
+  "channel": "@craicdencomedyclub",
+  "views": 28000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=wFqUArKhT5M",
+  "r2_clip_key": "comedians/ashlee-bentley/clips/ashlee-bentley-wfquarkht5m.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ashlee-bentley/clips/ashlee-bentley-wfquarkht5m.json"
+ },
+ "rows": [
+  {
+   "videoId": "wFqUArKhT5M",
+   "title": "Coming Out Story | Ashlee Bentley | Craic Den Comedy Club #bi #comedy #irish #funny",
+   "channel": "@craicdencomedyclub",
+   "views": 28000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=wFqUArKhT5M",
+   "n_words": 125,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I had a great coming-out story. I told my mom uh that I was bi and she told me that the next word out of my mouth had better be polar, so >> [laughter] [cheering] [applause] >> So, fun lunch. >> [laug",
+   "r2_clip_key": "comedians/ashlee-bentley/clips/ashlee-bentley-wfquarkht5m.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ashlee-bentley/clips/ashlee-bentley-wfquarkht5m.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

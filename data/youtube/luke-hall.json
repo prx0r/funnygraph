@@ -1,0 +1,38 @@
+{
+ "comedian_id": "luke-hall",
+ "name": "LUKE HALL",
+ "clips": 1,
+ "total_views": 5000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Ga-r7wFoiXU",
+  "title": "LUKE HALL - HEIGHTS OF DATING",
+  "channel": "@BigBellyComedy",
+  "views": 5000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Ga-r7wFoiXU",
+  "r2_clip_key": "comedians/luke-hall/clips/luke-hall-ga-r7wfoixu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/luke-hall/clips/luke-hall-ga-r7wfoixu.json"
+ },
+ "rows": [
+  {
+   "videoId": "Ga-r7wFoiXU",
+   "title": "LUKE HALL - HEIGHTS OF DATING",
+   "channel": "@BigBellyComedy",
+   "views": 5000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Ga-r7wFoiXU",
+   "n_words": 59,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Anybody else on the apps? Yeah. Brandon, did you get much success on the apps? >> [laughter] >> Brandon, actually, can I ask how tall are you? Yeah, I reckon we're about the same height. Probably. So,",
+   "r2_clip_key": "comedians/luke-hall/clips/luke-hall-ga-r7wfoixu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/luke-hall/clips/luke-hall-ga-r7wfoixu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

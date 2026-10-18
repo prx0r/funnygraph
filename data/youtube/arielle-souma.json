@@ -1,0 +1,38 @@
+{
+ "comedian_id": "arielle-souma",
+ "name": "Arielle Souma",
+ "clips": 1,
+ "total_views": 180,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "VlBZCJTGQ9g",
+  "title": "50 Years Old | Arielle Souma @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 180,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=VlBZCJTGQ9g",
+  "r2_clip_key": "comedians/arielle-souma/clips/arielle-souma-vlbzcjtgq9g.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/arielle-souma/clips/arielle-souma-vlbzcjtgq9g.json"
+ },
+ "rows": [
+  {
+   "videoId": "VlBZCJTGQ9g",
+   "title": "50 Years Old | Arielle Souma @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 180,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=VlBZCJTGQ9g",
+   "n_words": 49,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'm 50 years old. What the French said, \"After century.\" It's a bit too much in there. A bit too old, you know? [clears throat] The British like middle age. >> [laughter] >> It's like I'm still alive.",
+   "r2_clip_key": "comedians/arielle-souma/clips/arielle-souma-vlbzcjtgq9g.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/arielle-souma/clips/arielle-souma-vlbzcjtgq9g.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

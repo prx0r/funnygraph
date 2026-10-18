@@ -1,0 +1,38 @@
+{
+ "comedian_id": "samira-banks",
+ "name": "SAMIRA BANKS",
+ "clips": 1,
+ "total_views": 90,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "oqmBq3AQi0c",
+  "title": "SAMIRA BANKS - MIXED RACE CONDOM",
+  "channel": "@BigBellyComedy",
+  "views": 90,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=oqmBq3AQi0c",
+  "r2_clip_key": "comedians/samira-banks/clips/samira-banks-oqmbq3aqi0c.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/samira-banks/clips/samira-banks-oqmbq3aqi0c.json"
+ },
+ "rows": [
+  {
+   "videoId": "oqmBq3AQi0c",
+   "title": "SAMIRA BANKS - MIXED RACE CONDOM",
+   "channel": "@BigBellyComedy",
+   "views": 90,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=oqmBq3AQi0c",
+   "n_words": 109,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Recently, I saw this ad for these condoms that have come out in different skin tones. Katie, uh, if you had to pick a color of condom, what color would you pick? >> They have a different size. [laught",
+   "r2_clip_key": "comedians/samira-banks/clips/samira-banks-oqmbq3aqi0c.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/samira-banks/clips/samira-banks-oqmbq3aqi0c.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

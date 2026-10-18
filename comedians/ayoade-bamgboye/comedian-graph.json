@@ -28,9 +28,12 @@
   },
   "discovery": {
     "discovered_from": [
-      "edinburgh-2025-newcomer-winner"
+      "edinburgh-2025-newcomer-winner",
+      "r2:comedy-specials"
     ],
-    "discovery_note": "DLT Best Newcomer 2025, Swings and Roundabouts"
+    "discovery_note": "DLT Best Newcomer 2025, Swings and Roundabouts",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -45,7 +48,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 65.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -71,8 +74,44 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
-  "nearest_greats": []
+  "nearest_greats": [],
+  "youtube": {
+    "clips": 1,
+    "total_views": 177000,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "694YH_YLELA",
+      "title": "Send this to your twin to thank them \ud83d\udc6f (Ayoade Bamgboye: Swings and Roundabouts)",
+      "views": 177000,
+      "url": "https://www.youtube.com/watch?v=694YH_YLELA",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ayoade-bamgboye/clips/ayoade-bamgboye-694yh-ylela.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 223,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q135940292",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "Nigeria",
+    "occupations": [
+      "comedian",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

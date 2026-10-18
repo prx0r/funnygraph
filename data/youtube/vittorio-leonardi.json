@@ -1,0 +1,38 @@
+{
+ "comedian_id": "vittorio-leonardi",
+ "name": "Vittorio Leonardi",
+ "clips": 1,
+ "total_views": 18000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "PjfFxUBDmJg",
+  "title": "Does Black Make You Look Thinner | Vittorio Leonardi | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "views": 18000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=PjfFxUBDmJg",
+  "r2_clip_key": "comedians/vittorio-leonardi/clips/vittorio-leonardi-pjffxubdmjg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vittorio-leonardi/clips/vittorio-leonardi-pjffxubdmjg.json"
+ },
+ "rows": [
+  {
+   "videoId": "PjfFxUBDmJg",
+   "title": "Does Black Make You Look Thinner | Vittorio Leonardi | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 18000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=PjfFxUBDmJg",
+   "n_words": 54,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "A mirror works, I'm perfectly aware of my size, and it's like from the front, you know, they say black makes you look thinner. Yeah, it doesn't break the laws of physics, unfortunately. From the front",
+   "r2_clip_key": "comedians/vittorio-leonardi/clips/vittorio-leonardi-pjffxubdmjg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vittorio-leonardi/clips/vittorio-leonardi-pjffxubdmjg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

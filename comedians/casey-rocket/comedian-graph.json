@@ -1,326 +1,537 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "casey-rocket",
-  "name": "Casey Rocket",
-  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
-  "version": 2,
-  "created": "2026-10-16",
-  "annotator": "mimo-v2.5",
-  "identity": {
-    "deal": "Absurdist firecracker who treats the set like a controlled explosion of images, sounds, and sudden stillness.",
-    "premise": "A man who treats normal comedy rules as suggestions and the stage as a physics lab he's failing on purpose.",
-    "archetype": "absurdist_firecracker",
-    "awareness": "aware",
-    "awareness_note": "Fully aware the absurdism is a strategy; the commitment is the craft.",
-    "philosophy": {
-      "ontology": "The joke is a physics experiment that fails in an interesting way.",
-      "epistemology": "If the room is confused then delighted, you're on target.",
-      "axiology": "Surprise over polish; the image is the joke.",
-      "causality": "One strange image, committed to, becomes a world.",
-      "agency": "Anyone can be weird; almost nobody commits this hard to the weird."
-    },
-    "dramatic_core": {
-      "want": "to leave the room in a state of delighted confusion",
-      "fear": "the tidy joke \u2014 the death of the experiment",
-      "need": "the room to come with him into the absurd",
-      "self_model": "a man mid-experiment with the materials flying",
-      "blind_spots": [
-        "absurdism without a closer burns",
-        "the chaos can lose the room"
-      ]
-    },
-    "misinterpretation_rule": "Treats the set as a series of strange images that only make sense if you abandon the need for them to make sense.",
-    "contradictions": [
-      "the chaos with a poet's timing",
-      "the absurdism with the precise stillness",
-      "the firecracker who knows exactly when to stop"
-    ],
-    "status_model": {
-      "desired_status": "the experiment that worked",
-      "felt_status": "a man permanently mid-explosion"
-    },
-    "expression": {
-      "default_register": "absurdist-firecracker",
-      "emotional_restraint": "variable \u2014 chaos then stillness",
-      "tells": [
-        "the sudden stillness after the cascade",
-        "the image that lands without explanation",
-        "the laugh that is also a double-take"
-      ]
-    },
-    "modulator_range": [
-      "chaos",
-      "absurdist",
-      "stillness",
-      "wild-ride",
-      "poet-chaos"
-    ],
-    "profile": {
-      "energy": 0.85,
-      "pace": "torrential, sudden freezes",
-      "gesture_frequency": 0.8,
-      "punchline_hold_ms": 600
-    },
-    "operator_priors": {
-      "rigidify": 0.2,
-      "literalize": 0.5,
-      "double_interpret": 0.65,
-      "status_invert": 0.4,
-      "character_violation": 0.6,
-      "status": "measured from KT scribe (372w, 264wpm)"
-    },
-    "preferred_theories": [
-      "incongruity",
-      "bisociation",
-      "benign_violation"
-    ],
-    "threads": [
-      "the set as a physics experiment",
-      "strange images as a form",
-      "the stillness after the chaos",
-      "commitment to the weird",
-      "the laugh that is also a double-take"
-    ],
-    "problem_space": [
-      "absurdism as a strategy",
-      "the body as a special effect",
-      "the room as a co-experimenter"
-    ],
-    "style_thesis": "Absurdist-firecracker engine: treats the set as a series of strange images that only make sense if you abandon the need for them to make sense. incongruity at max without resolution \u2014 the images don't resolve, they accumulate. The freeze is where the room decides how to feel."
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "casey-rocket",
+ "name": "Casey Rocket",
+ "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. Hypothesis unless sets measured. Stage persona only.",
+ "version": 2,
+ "created": "2026-10-16",
+ "annotator": "mimo-v2.5",
+ "identity": {
+  "deal": "Absurdist firecracker who treats the set like a controlled explosion of images, sounds, and sudden stillness.",
+  "premise": "A man who treats normal comedy rules as suggestions and the stage as a physics lab he's failing on purpose.",
+  "archetype": "absurdist_firecracker",
+  "awareness": "aware",
+  "awareness_note": "Fully aware the absurdism is a strategy; the commitment is the craft.",
+  "philosophy": {
+   "ontology": "The joke is a physics experiment that fails in an interesting way.",
+   "epistemology": "If the room is confused then delighted, you're on target.",
+   "axiology": "Surprise over polish; the image is the joke.",
+   "causality": "One strange image, committed to, becomes a world.",
+   "agency": "Anyone can be weird; almost nobody commits this hard to the weird."
   },
-  "engine": {
-    "voice_clone_id": null,
-    "delivery_archetype": "absurdist_firecracker",
-    "jev_state": {
-      "status": "NOT RUN"
-    }
+  "dramatic_core": {
+   "want": "to leave the room in a state of delighted confusion",
+   "fear": "the tidy joke \u2014 the death of the experiment",
+   "need": "the room to come with him into the absurd",
+   "self_model": "a man mid-experiment with the materials flying",
+   "blind_spots": [
+    "absurdism without a closer burns",
+    "the chaos can lose the room"
+   ]
   },
-  "sets": [],
-  "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
-  },
-  "essay_seeds": [
-    {
-      "id": "casey-rocket-essay-01",
-      "title": "Why is Casey Rocket funny? The absurdist firecracker engine",
-      "thesis": "Absurdist-firecracker engine: treats the set as a series of strange images that only make sense if you abandon the need for them to make sense. incongruity at max without resolution \u2014 the images don't resolve, they accumulate. The freeze is where the room decides how to feel.",
-      "evidence": [
-        "identity.misinterpretation_rule",
-        "known_bits",
-        "identity.operator_priors",
-        "timing_profile.doctrine_hypothesis"
-      ],
-      "outline": [
-        "the deal in one sentence",
-        "the misinterpretation rule as engine",
-        "2-3 signature bits dissected",
-        "timing doctrine",
-        "what makes this persona impossible to copy"
-      ],
-      "status": "seed \u2014 ready to draft"
-    },
-    {
-      "id": "casey-rocket-essay-02",
-      "title": "Casey Rocket: 'The strange image cascade' \u2014 how the bit works",
-      "thesis": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
-      "evidence": [
-        "known_bits[0]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    },
-    {
-      "id": "casey-rocket-bit-01",
-      "title": "Casey Rocket: 'The strange image cascade' \u2014 how the bit works",
-      "thesis": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
-      "evidence": [
-        "known_bits[0]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    }
+  "misinterpretation_rule": "Treats the set as a series of strange images that only make sense if you abandon the need for them to make sense.",
+  "contradictions": [
+   "the chaos with a poet's timing",
+   "the absurdism with the precise stillness",
+   "the firecracker who knows exactly when to stop"
   ],
-  "provenance": {
-    "persona": "authored from public reputation (no verbatim bits)",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines",
-      "hypothesis until measured"
-    ],
-    "sets_observed": 0,
-    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
-    "theory_applied": true,
-    "deepened": "2026-10-16"
+  "status_model": {
+   "desired_status": "the experiment that worked",
+   "felt_status": "a man permanently mid-explosion"
   },
-  "timing_profile": {
-    "doctrine_hypothesis": "Torrential, sudden freezes. The stillness after the chaos is the punchline \u2014 the room is catching up to the images while he stands still. The image is the timing device.",
-    "status": "hypothesis until word-timed sets measured"
+  "expression": {
+   "default_register": "absurdist-firecracker",
+   "emotional_restraint": "variable \u2014 chaos then stillness",
+   "tells": [
+    "the sudden stillness after the cascade",
+    "the image that lands without explanation",
+    "the laugh that is also a double-take"
+   ]
   },
-  "known_bits": [
-    {
-      "title": "The strange image cascade",
-      "why_it_works": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
-      "theory_links": [
-        "incongruity",
-        "benign_violation"
-      ]
-    }
+  "modulator_range": [
+   "chaos",
+   "absurdist",
+   "stillness",
+   "wild-ride",
+   "poet-chaos"
   ],
-  "theory_links": {
-    "internal": [
-      {
-        "id": "gtvh",
-        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
-        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "attardo-pause-taxonomy",
-        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
-        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "dpv",
-        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
-        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "incongruity",
-        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
-        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "benign_violation",
-        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
-        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "status_reversal",
-        "cite": "Roger & Duffy / status theory of humor",
-        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "split_knowledge",
-        "cite": "Veatch 1978 \u2014 theory of joking relationships",
-        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "escalation",
-        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
-        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
-        "applies_to": "primary move / timing / structure"
-      }
-    ],
-    "external": [
-      {
-        "id": "standup4ai",
-        "cite": "StandUp4AI dataset (EMNLP 2025)",
-        "use": "future laugh-position ground truth"
-      },
-      {
-        "id": "tic-talk",
-        "cite": "TIC-TALK (CHum 2026)",
-        "use": "future cross-comedian timing normalization"
-      }
-    ]
+  "profile": {
+   "energy": 0.85,
+   "pace": "torrential, sudden freezes",
+   "gesture_frequency": 0.8,
+   "punchline_hold_ms": 600
   },
-  "generation": {
-    "id": "twenties",
-    "label": "Twenties KT/streaming",
-    "span": "2020s",
-    "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
-    "scene": "kill-tony",
-    "breakthrough": "2020s Kill Tony regular"
+  "operator_priors": {
+   "rigidify": 0.2,
+   "literalize": 0.5,
+   "double_interpret": 0.65,
+   "status_invert": 0.4,
+   "character_violation": 0.6,
+   "status": "measured from KT scribe (372w, 264wpm)"
   },
-  "humor_type": {
-    "primary": "absurdist",
-    "secondary": "observational",
-    "scores": {
-      "absurdist": 0.5,
-      "observational": 0.17,
-      "surreal": 0.17
-    },
-    "method": "archetype+theories"
-  },
-  "metrics": {
-    "legacy": 45.2,
-    "legacy_era": 69.3,
-    "audience": null,
-    "popularity": 54.5,
-    "theory": 37.5,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "tier": "king",
-  "discovery": {
-    "discovered_from": [
-      "kill-tony-minutes"
-    ],
-    "kt_appearances": 6
-  },
-  "region": "us",
-  "continent": "north-america",
-  "modes": {
-    "signature": "absurdist",
-    "signature_title": null,
-    "repertoire": {
-      "absurdist": 0.75,
-      "observational": 0.13,
-      "surreal": 0.13
-    },
-    "n_modes": 3
-  },
-  "rating": {
-    "headline": 22.2,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
-    "boards": {
-      "house": {
-        "rank": null
-      },
-      "consensus": {
-        "rank": 228,
-        "ref": true
-      },
-      "canon": {
-        "rank": 190,
-        "ref": true
-      },
-      "peoples": {
-        "rank": null,
-        "wr": null,
-        "ref": true
-      },
-      "era": {
-        "rank": 128,
-        "ref": true
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  "preferred_theories": [
+   "incongruity",
+   "bisociation",
+   "benign_violation"
+  ],
+  "threads": [
+   "the set as a physics experiment",
+   "strange images as a form",
+   "the stillness after the chaos",
+   "commitment to the weird",
+   "the laugh that is also a double-take"
+  ],
+  "problem_space": [
+   "absurdism as a strategy",
+   "the body as a special effect",
+   "the room as a co-experimenter"
+  ],
+  "style_thesis": "Absurdist-firecracker engine: treats the set as a series of strange images that only make sense if you abandon the need for them to make sense. incongruity at max without resolution \u2014 the images don't resolve, they accumulate. The freeze is where the room decides how to feel."
+ },
+ "engine": {
+  "voice_clone_id": null,
+  "delivery_archetype": "absurdist_firecracker",
+  "jev_state": {
+   "status": "NOT RUN"
   }
+ },
+ "sets": [],
+ "set_queue": {
+  "note": "harvest captions or link transcript for measured depth",
+  "blocked_on": "captions/audio"
+ },
+ "essay_seeds": [
+  {
+   "id": "casey-rocket-essay-01",
+   "title": "Why is Casey Rocket funny? The absurdist firecracker engine",
+   "thesis": "Absurdist-firecracker engine: treats the set as a series of strange images that only make sense if you abandon the need for them to make sense. incongruity at max without resolution \u2014 the images don't resolve, they accumulate. The freeze is where the room decides how to feel.",
+   "evidence": [
+    "identity.misinterpretation_rule",
+    "known_bits",
+    "identity.operator_priors",
+    "timing_profile.doctrine_hypothesis"
+   ],
+   "outline": [
+    "the deal in one sentence",
+    "the misinterpretation rule as engine",
+    "2-3 signature bits dissected",
+    "timing doctrine",
+    "what makes this persona impossible to copy"
+   ],
+   "status": "seed \u2014 ready to draft"
+  },
+  {
+   "id": "casey-rocket-essay-02",
+   "title": "Casey Rocket: 'The strange image cascade' \u2014 how the bit works",
+   "thesis": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
+   "evidence": [
+    "known_bits[0]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  },
+  {
+   "id": "casey-rocket-bit-01",
+   "title": "Casey Rocket: 'The strange image cascade' \u2014 how the bit works",
+   "thesis": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
+   "evidence": [
+    "known_bits[0]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  }
+ ],
+ "provenance": {
+  "persona": "authored from public reputation (no verbatim bits)",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines",
+   "hypothesis until measured"
+  ],
+  "sets_observed": 0,
+  "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+  "theory_applied": true,
+  "deepened": "2026-10-16"
+ },
+ "timing_profile": {
+  "doctrine_hypothesis": "Torrential, sudden freezes. The stillness after the chaos is the punchline \u2014 the room is catching up to the images while he stands still. The image is the timing device.",
+  "status": "hypothesis until word-timed sets measured"
+ },
+ "known_bits": [
+  {
+   "title": "The strange image cascade",
+   "why_it_works": "A series of vivid, unconnected images delivered with total commitment. The room doesn't resolve the incongruity \u2014 they ride it. The freeze after the cascade is where the laugh lands, because the room has caught up to where he already was.",
+   "theory_links": [
+    "incongruity",
+    "benign_violation"
+   ]
+  }
+ ],
+ "theory_links": {
+  "internal": [
+   {
+    "id": "gtvh",
+    "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+    "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "attardo-pause-taxonomy",
+    "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+    "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "dpv",
+    "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+    "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "incongruity",
+    "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+    "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "benign_violation",
+    "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+    "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "status_reversal",
+    "cite": "Roger & Duffy / status theory of humor",
+    "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "split_knowledge",
+    "cite": "Veatch 1978 \u2014 theory of joking relationships",
+    "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "escalation",
+    "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+    "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+    "applies_to": "primary move / timing / structure"
+   }
+  ],
+  "external": [
+   {
+    "id": "standup4ai",
+    "cite": "StandUp4AI dataset (EMNLP 2025)",
+    "use": "future laugh-position ground truth"
+   },
+   {
+    "id": "tic-talk",
+    "cite": "TIC-TALK (CHum 2026)",
+    "use": "future cross-comedian timing normalization"
+   }
+  ]
+ },
+ "generation": {
+  "id": "twenties",
+  "label": "Twenties KT/streaming",
+  "span": "2020s",
+  "note": "Kill Tony pipeline, TikTok discovery, streaming-native hours, indie distribution.",
+  "scene": "kill-tony",
+  "breakthrough": "2020s Kill Tony regular"
+ },
+ "humor_type": {
+  "primary": "absurdist",
+  "secondary": "observational",
+  "scores": {
+   "absurdist": 0.5,
+   "observational": 0.17,
+   "surreal": 0.17
+  },
+  "method": "archetype+theories"
+ },
+ "metrics": {
+  "legacy": 45.2,
+  "legacy_era": 69.3,
+  "audience": null,
+  "popularity": 80.0,
+  "theory": 37.5,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "tier": "king",
+ "discovery": {
+  "discovered_from": [
+   "kill-tony-minutes"
+  ],
+  "kt_appearances": 6
+ },
+ "region": "us",
+ "continent": "north-america",
+ "modes": {
+  "signature": "absurdist",
+  "signature_title": null,
+  "repertoire": {
+   "absurdist": 0.75,
+   "observational": 0.13,
+   "surreal": 0.13
+  },
+  "n_modes": 3
+ },
+ "rating": {
+  "headline": 58.8,
+  "coverage": "UNRANKED",
+  "provisional": "neighbor-latent",
+  "boards": {
+   "house": {
+    "rank": null
+   },
+   "consensus": {
+    "rank": 228,
+    "ref": true
+   },
+   "canon": {
+    "rank": 190,
+    "ref": true
+   },
+   "peoples": {
+    "rank": null,
+    "wr": null,
+    "ref": true
+   },
+   "era": {
+    "rank": 128,
+    "ref": true
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "Upj0UTJQ3cE",
+   "title": "Shrimp Basket, My Love? | (GHHPH #27)",
+   "duration_s": 4209,
+   "views": 13255,
+   "url": "https://www.youtube.com/watch?v=Upj0UTJQ3cE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "YEWg-hruS0k",
+   "title": "Doctors Are Born, Not Made | (GHHPH #26)",
+   "duration_s": 3583,
+   "views": 5809,
+   "url": "https://www.youtube.com/watch?v=YEWg-hruS0k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1UJurdlrzlc",
+   "title": "Rango Unchained Directed by William Montgomery | (GHHPH #25)",
+   "duration_s": 2534,
+   "views": 23320,
+   "url": "https://www.youtube.com/watch?v=1UJurdlrzlc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZE6YmOhKfbQ",
+   "title": "The Inaugural Grecian Bozo Brigade | (GHHPH #24)",
+   "duration_s": 3119,
+   "views": 3604,
+   "url": "https://www.youtube.com/watch?v=ZE6YmOhKfbQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pYtPFPB7mBk",
+   "title": "The Bi-Monthly Impractical Jokers Royal Rumble | (GHHPH #23)",
+   "duration_s": 2552,
+   "views": 3581,
+   "url": "https://www.youtube.com/watch?v=pYtPFPB7mBk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NsG6MQjWvwQ",
+   "title": "The 9th Annual Cryptid Draft | (GHHPH #22)",
+   "duration_s": 3725,
+   "views": 4214,
+   "url": "https://www.youtube.com/watch?v=NsG6MQjWvwQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "nBA_rMCo5D0",
+   "title": "The Great Animorph Heist | (GHHPH #21)",
+   "duration_s": 3006,
+   "views": 4889,
+   "url": "https://www.youtube.com/watch?v=nBA_rMCo5D0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "nmp-YRlsGJE",
+   "title": "The Apple Genius Execution | (GHHPH #20)",
+   "duration_s": 3563,
+   "views": 6192,
+   "url": "https://www.youtube.com/watch?v=nmp-YRlsGJE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5NBI-jFzgTw",
+   "title": "She's on The Tarp | (GHHPH #19)",
+   "duration_s": 2712,
+   "views": 6278,
+   "url": "https://www.youtube.com/watch?v=5NBI-jFzgTw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WwoDEppZWnU",
+   "title": "Women Can Be Italian Too | (GHHPH #18)",
+   "duration_s": 4205,
+   "views": 6119,
+   "url": "https://www.youtube.com/watch?v=WwoDEppZWnU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4KhmmU9mbOM",
+   "title": "Give Grimby Da Gold Bullion | (GHHPH #17)",
+   "duration_s": 2640,
+   "views": 2889,
+   "url": "https://www.youtube.com/watch?v=4KhmmU9mbOM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dU-0JMgu2_I",
+   "title": "Grimby Drone Strikes Graceland | (GHHPH #16)",
+   "duration_s": 3730,
+   "views": 4596,
+   "url": "https://www.youtube.com/watch?v=dU-0JMgu2_I",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-XLUofXEUsc",
+   "title": "Sludge Fargo | (GHHPH #15)",
+   "duration_s": 3580,
+   "views": 3461,
+   "url": "https://www.youtube.com/watch?v=-XLUofXEUsc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SYXngyh55RI",
+   "title": "Grimby Weaponizes Jaundice | (GHHPH #14)",
+   "duration_s": 3746,
+   "views": 4426,
+   "url": "https://www.youtube.com/watch?v=SYXngyh55RI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pNXrcC1voD0",
+   "title": "A Mutiny Most Foul (GHHPH #13)",
+   "duration_s": 2733,
+   "views": 3969,
+   "url": "https://www.youtube.com/watch?v=pNXrcC1voD0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZyyA6aiuq_w",
+   "title": "How The Grinch Stole Grimace (GHHPH #12)",
+   "duration_s": 3805,
+   "views": 4479,
+   "url": "https://www.youtube.com/watch?v=ZyyA6aiuq_w",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UNc18EFwxl0",
+   "title": "Grimby Converts At The Alligator Rave (GHHPH Episode 11)",
+   "duration_s": 3805,
+   "views": 4241,
+   "url": "https://www.youtube.com/watch?v=UNc18EFwxl0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3ZZddAHGRU4",
+   "title": "Grimbus Joins The Orthodontist Cult (GHHPH: Episode 10)",
+   "duration_s": 3954,
+   "views": 4089,
+   "url": "https://www.youtube.com/watch?v=3ZZddAHGRU4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "810EtCZ8_Jg",
+   "title": "GHHPH: Grimby Fights The Juggalos (Episode 9)",
+   "duration_s": 3459,
+   "views": 3627,
+   "url": "https://www.youtube.com/watch?v=810EtCZ8_Jg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-galwYRvWHA",
+   "title": "A Trunk Full of Burgers and a Bad Wish (GHHPH Episode 8)",
+   "duration_s": 3120,
+   "views": 5199,
+   "url": "https://www.youtube.com/watch?v=-galwYRvWHA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SoAeQxXURZA",
+   "title": "GHHPH: Grimace Punches a Cow at the Daytona 500 (Episode 7)",
+   "duration_s": 3328,
+   "views": 5477,
+   "url": "https://www.youtube.com/watch?v=SoAeQxXURZA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WQ4gvFfcqpM",
+   "title": "GHHPH: Grimby Fights A Monster Truck (Episode 6)",
+   "duration_s": 2784,
+   "views": 4174,
+   "url": "https://www.youtube.com/watch?v=WQ4gvFfcqpM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "fAB7Qk1XSPw",
+   "title": "GHHPH: No Country For Old Grim (Episode 5)",
+   "duration_s": 3436,
+   "views": 4945,
+   "url": "https://www.youtube.com/watch?v=fAB7Qk1XSPw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "VweJDJRZSJM",
+   "title": "GHHPH: Bathtub Linguini (Episode 4)",
+   "duration_s": 2616,
+   "views": 6280,
+   "url": "https://www.youtube.com/watch?v=VweJDJRZSJM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DoTFwR_tkXo",
+   "title": "GHHPH: Grim Bizkit and the fall of Woodstock '99 (Episode 3)",
+   "duration_s": 2768,
+   "views": 7035,
+   "url": "https://www.youtube.com/watch?v=DoTFwR_tkXo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IsMxGwRo0SM",
+   "title": "GHHPH: Crop Top & The Slop Shop (Episode 2)",
+   "duration_s": 3188,
+   "views": 16603,
+   "url": "https://www.youtube.com/watch?v=IsMxGwRo0SM",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 26
 }

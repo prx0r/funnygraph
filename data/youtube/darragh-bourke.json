@@ -1,0 +1,38 @@
+{
+ "comedian_id": "darragh-bourke",
+ "name": "Darragh Bourke",
+ "clips": 1,
+ "total_views": 19000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "-Ie58oQYGfg",
+  "title": "Irish VS English Goodbye | Darragh Bourke | Craic Den Comedy Club| #comedy #standup #Irish #English",
+  "channel": "@craicdencomedyclub",
+  "views": 19000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=-Ie58oQYGfg",
+  "r2_clip_key": "comedians/darragh-bourke/clips/darragh-bourke-ie58oqygfg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/darragh-bourke/clips/darragh-bourke-ie58oqygfg.json"
+ },
+ "rows": [
+  {
+   "videoId": "-Ie58oQYGfg",
+   "title": "Irish VS English Goodbye | Darragh Bourke | Craic Den Comedy Club| #comedy #standup #Irish #English",
+   "channel": "@craicdencomedyclub",
+   "views": 19000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=-Ie58oQYGfg",
+   "n_words": 117,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "You know, when you ask about when you go to a party and leave without saying goodbye. I hated it so much cuz I learned about it from a an English person. So, what I did I just got my own thing going w",
+   "r2_clip_key": "comedians/darragh-bourke/clips/darragh-bourke-ie58oqygfg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/darragh-bourke/clips/darragh-bourke-ie58oqygfg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

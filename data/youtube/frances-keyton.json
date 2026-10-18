@@ -1,0 +1,38 @@
+{
+ "comedian_id": "frances-keyton",
+ "name": "FRANCES KEYTON",
+ "clips": 1,
+ "total_views": 126,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "FidzjOrK6KY",
+  "title": "FRANCES KEYTON - VAGINA MUSEUM",
+  "channel": "@BigBellyComedy",
+  "views": 126,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=FidzjOrK6KY",
+  "r2_clip_key": "comedians/frances-keyton/clips/frances-keyton-fidzjork6ky.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/frances-keyton/clips/frances-keyton-fidzjork6ky.json"
+ },
+ "rows": [
+  {
+   "videoId": "FidzjOrK6KY",
+   "title": "FRANCES KEYTON - VAGINA MUSEUM",
+   "channel": "@BigBellyComedy",
+   "views": 126,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=FidzjOrK6KY",
+   "n_words": 67,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Last night I went to an event at the vagina museum. >> Yes. A lot of ladies. You lads ever been to the vagina museum? >> Are you? Yeah. Good luck finding it. Um I'll show you later. Um this event that",
+   "r2_clip_key": "comedians/frances-keyton/clips/frances-keyton-fidzjork6ky.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/frances-keyton/clips/frances-keyton-fidzjork6ky.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,141 +1,235 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "jeremiah-watkins",
-  "name": "Jeremiah Watkins",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "discover.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "youtube-uploads:kill-tony"
-    ],
-    "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
-    "evidence": [
-      {
-        "videoId": "zD9fuPP5T98",
-        "title": "Kill Tony #164 - Pat Regan & Jeremiah Watkins",
-        "views": 82285,
-        "publishedAt": "2016-07-23"
-      }
-    ],
-    "subs": "unknown (performer channel unregistered)",
-    "region_method": "venue-scene (overwrite on origin evidence)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 74.5,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UC_7_bEFNqP6woYW8wkiJ1gg",
-    "handle": "jeremiahwatkins",
-    "title": "Jeremiah Watkins",
-    "subs": 222000,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "variety",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-16",
-    "name_match_rate": 0.62,
-    "other_names": [
-      "Adam Ray",
-      "American Pie",
-      "Barack Obama",
-      "Big Jay Oakerson",
-      "Dan Soder",
-      "Dave Gunther",
-      "David Attenborough",
-      "Eric Andre"
-    ]
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "hans-kim",
-      "sim": 0.1
-    },
-    {
-      "comedian_id": "cam-patterson",
-      "sim": 0.097
-    },
-    {
-      "comedian_id": "william-montgomery",
-      "sim": 0.075
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "jeremiah-watkins",
+ "name": "Jeremiah Watkins",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "youtube-uploads:kill-tony",
+   "r2:comedy-specials"
   ],
-  "website": {
-    "url": "https://jeremiahwatkins.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
+  "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
+  "evidence": [
+   {
+    "videoId": "zD9fuPP5T98",
+    "title": "Kill Tony #164 - Pat Regan & Jeremiah Watkins",
+    "views": 82285,
+    "publishedAt": "2016-07-23"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)",
+  "region_method": "venue-scene (overwrite on origin evidence)",
+  "r2_comedian": true,
+  "r2_clips": 5
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 90.5,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "region": "us",
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "literalise",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "hans-kim",
-    "sim": 0.1,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UC_7_bEFNqP6woYW8wkiJ1gg",
+  "handle": "jeremiahwatkins",
+  "title": "Jeremiah Watkins",
+  "subs": 222000,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "variety",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-16",
+  "name_match_rate": 0.62,
+  "other_names": [
+   "Adam Ray",
+   "American Pie",
+   "Barack Obama",
+   "Big Jay Oakerson",
+   "Dan Soder",
+   "Dave Gunther",
+   "David Attenborough",
+   "Eric Andre"
+  ]
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "hans-kim",
+   "sim": 0.1
+  },
+  {
+   "comedian_id": "cam-patterson",
+   "sim": 0.097
+  },
+  {
+   "comedian_id": "william-montgomery",
+   "sim": 0.075
   }
+ ],
+ "website": {
+  "url": "https://jeremiahwatkins.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "region": "us",
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "literalise",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "hans-kim",
+  "sim": 0.1,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "youtube": {
+  "clips": 5,
+  "total_views": 26866019,
+  "timed_clips": 5,
+  "r2_linked": true,
+  "top_clip": {
+   "videoId": "kSTwR0Cok78",
+   "title": "Too Many Harlands \ud83d\udc6c #harlandwilliams #drphil #adamray #jeremiahwatkins #killtony",
+   "views": 14492665,
+   "duration_s": 32,
+   "url": "https://youtube.com/watch?v=kSTwR0Cok78",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jeremiah-watkins/clips/jeremiah-watkins-kstwr0cok78.json"
+  }
+ },
+ "transcripts": {
+  "clip_words": 300,
+  "special_words": 0,
+  "timed_clips": 5,
+  "timed_specials": 0,
+  "r2_source": "r2:comedy-specials",
+  "synced": "2026-10-18"
+ },
+ "continent": "europe",
+ "r2_profiled": "2026-10-18",
+ "youtube_specials": [
+  {
+   "videoId": "zvcgbaWDzyU",
+   "title": "Jeremiah Watkins: Crazy Pizza | Official Comedy Special",
+   "duration_s": 3295,
+   "views": 227611,
+   "url": "https://www.youtube.com/watch?v=zvcgbaWDzyU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "t_PYIU5DIQo",
+   "title": "Jeremiah Watkins\u2019 Best Comedy Duos ft. Eric Andre, Dan Soder & Big Jay Oakerson",
+   "duration_s": 1287,
+   "views": 36344,
+   "url": "https://www.youtube.com/watch?v=t_PYIU5DIQo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2lG-CQBlKB8",
+   "title": "Dave Gunther and Joelina MUKBANG #6 at Lucy's Drive In?! R.I.P. Dolly Parton",
+   "duration_s": 2755,
+   "views": 33765,
+   "url": "https://www.youtube.com/watch?v=2lG-CQBlKB8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sHhB_aqskHQ",
+   "title": "Dave Gunther Does AUSTRALIA | Mukbang at Hungry Jack's + Vlog",
+   "duration_s": 2818,
+   "views": 18942,
+   "url": "https://www.youtube.com/watch?v=sHhB_aqskHQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "uVJdDUCw5GM",
+   "title": "The Nightmare Heckler | A Crowd Work Documentary | Jeremiah Watkins",
+   "duration_s": 2759,
+   "views": 36536,
+   "url": "https://www.youtube.com/watch?v=uVJdDUCw5GM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "I8cdzjT4Wpk",
+   "title": "Dave & Darryl Chug Hot Sauce While Eating Spicy Wings | Spicy Ones",
+   "duration_s": 1745,
+   "views": 40252,
+   "url": "https://www.youtube.com/watch?v=I8cdzjT4Wpk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8vTusDJy6jg",
+   "title": "Dave Gunther and Joelina MUKBANG #5 w/ Olive Garden?! BIG SPENDING",
+   "duration_s": 2488,
+   "views": 30739,
+   "url": "https://www.youtube.com/watch?v=8vTusDJy6jg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HtlbghIhH4k",
+   "title": "SHANKS Christmas Special | w/ Joelina, Steebee Weebee, Jetski Johnson, John Goblikon & Barack Obama!",
+   "duration_s": 4401,
+   "views": 32951,
+   "url": "https://www.youtube.com/watch?v=HtlbghIhH4k",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 8
 }

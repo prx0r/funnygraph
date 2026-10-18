@@ -1,0 +1,38 @@
+{
+ "comedian_id": "shane-clifford",
+ "name": "Shane Clifford",
+ "clips": 1,
+ "total_views": 2500,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "_iiORhMdeNg",
+  "title": "Anti-Depressants | Shane Clifford | Craic Den Comedy Club #anxiety #comedy #irish",
+  "channel": "@craicdencomedyclub",
+  "views": 2500,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=_iiORhMdeNg",
+  "r2_clip_key": "comedians/shane-clifford/clips/shane-clifford-iiorhmdeng.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shane-clifford/clips/shane-clifford-iiorhmdeng.json"
+ },
+ "rows": [
+  {
+   "videoId": "_iiORhMdeNg",
+   "title": "Anti-Depressants | Shane Clifford | Craic Den Comedy Club #anxiety #comedy #irish",
+   "channel": "@craicdencomedyclub",
+   "views": 2500,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=_iiORhMdeNg",
+   "n_words": 232,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'm on antidepressants. The main side effect is well I'm still alive. That's the main side effect I find. >> [laughter] >> I always wonder why they put the side effects in them in the first place. Kin",
+   "r2_clip_key": "comedians/shane-clifford/clips/shane-clifford-iiorhmdeng.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shane-clifford/clips/shane-clifford-iiorhmdeng.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "tim-smith",
+ "name": "Tim Smith",
+ "clips": 1,
+ "total_views": 28000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "AxRrfkOOkSk",
+  "title": "I dated sisters before | Tim Smith | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 28000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=AxRrfkOOkSk",
+  "r2_clip_key": "comedians/tim-smith/clips/tim-smith-axrrfkooksk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tim-smith/clips/tim-smith-axrrfkooksk.json"
+ },
+ "rows": [
+  {
+   "videoId": "AxRrfkOOkSk",
+   "title": "I dated sisters before | Tim Smith | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 28000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=AxRrfkOOkSk",
+   "n_words": 151,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I dated sisters before. That's not great. I was dating a girl that was my age. We broke up. I started dating her older sister almost immediately after. It was incredibly awkward. Easily the most awkwa",
+   "r2_clip_key": "comedians/tim-smith/clips/tim-smith-axrrfkooksk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tim-smith/clips/tim-smith-axrrfkooksk.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

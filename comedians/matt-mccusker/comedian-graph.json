@@ -365,7 +365,7 @@
     "n_modes": 3
   },
   "rating": {
-    "headline": 68.8,
+    "headline": 73.0,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -391,7 +391,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {

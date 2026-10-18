@@ -1,0 +1,38 @@
+{
+ "comedian_id": "frankie-boyle-on-brexit",
+ "name": "Frankie Boyle on Brexit",
+ "clips": 1,
+ "total_views": 286484,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "EHsuFdEj__E",
+  "title": "Frankie Boyle on Brexit - BBC",
+  "channel": "BBC",
+  "views": 286484,
+  "duration_s": 166,
+  "url": "https://www.youtube.com/watch?v=EHsuFdEj__E",
+  "r2_clip_key": "comedians/frankie-boyle-on-brexit/clips/frankie-boyle-on-brexit-ehsufdej__e.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/frankie-boyle-on-brexit/clips/frankie-boyle-on-brexit-ehsufdej__e.json"
+ },
+ "rows": [
+  {
+   "videoId": "EHsuFdEj__E",
+   "title": "Frankie Boyle on Brexit - BBC",
+   "channel": "BBC",
+   "views": 286484,
+   "likes": null,
+   "duration_s": 166,
+   "url": "https://www.youtube.com/watch?v=EHsuFdEj__E",
+   "n_words": 393,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "historically compassionate conservatism has meant little more than mps letting prostitutes wear knee pads and of course most right-wing conservative mps are broadly speaking a collection of personalit",
+   "r2_clip_key": "comedians/frankie-boyle-on-brexit/clips/frankie-boyle-on-brexit-ehsufdej__e.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/frankie-boyle-on-brexit/clips/frankie-boyle-on-brexit-ehsufdej__e.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

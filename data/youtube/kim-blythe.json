@@ -1,0 +1,38 @@
+{
+ "comedian_id": "kim-blythe",
+ "name": "Kim Blythe",
+ "clips": 1,
+ "total_views": 1900,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "LQ3P-wUbHLg",
+  "title": "Kim Blythe | The Stand Comedy Club Podcast",
+  "channel": "@TheStandComedyClub",
+  "views": 1900,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=LQ3P-wUbHLg",
+  "r2_clip_key": "comedians/kim-blythe/clips/kim-blythe-lq3p-wubhlg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kim-blythe/clips/kim-blythe-lq3p-wubhlg.json"
+ },
+ "rows": [
+  {
+   "videoId": "LQ3P-wUbHLg",
+   "title": "Kim Blythe | The Stand Comedy Club Podcast",
+   "channel": "@TheStandComedyClub",
+   "views": 1900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=LQ3P-wUbHLg",
+   "n_words": 266,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "In your friend show last year, you had a through story of you getting fired. I got fired for Sports Direct. We took my pal's phone. We took about 100 photos on the phone and in one of them I got my as",
+   "r2_clip_key": "comedians/kim-blythe/clips/kim-blythe-lq3p-wubhlg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kim-blythe/clips/kim-blythe-lq3p-wubhlg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

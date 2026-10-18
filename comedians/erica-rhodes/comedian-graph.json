@@ -71,7 +71,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "nearest_greats": [
@@ -98,5 +98,18 @@
     "via": "stewart-lee",
     "sim": 0.052,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q13560338",
+    "dob": "1986-04-05",
+    "dod": null,
+    "birthplace": "Newton",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

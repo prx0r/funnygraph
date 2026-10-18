@@ -1,0 +1,55 @@
+{
+ "comedian_id": "mel-giedroyc-unforgivable",
+ "name": "Mel Giedroyc: Unforgivable",
+ "clips": 2,
+ "total_views": 20040,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "LJ4a-gOm9xc",
+  "title": "Lara Ricote Becomes A Cheese Pun | Mel Giedroyc: Unforgivable | Dave",
+  "channel": "U&Laughs",
+  "views": 16554,
+  "duration_s": 121,
+  "url": "https://www.youtube.com/watch?v=LJ4a-gOm9xc",
+  "r2_clip_key": "comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-lj4a-gom9xc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-lj4a-gom9xc.json"
+ },
+ "rows": [
+  {
+   "videoId": "LJ4a-gOm9xc",
+   "title": "Lara Ricote Becomes A Cheese Pun | Mel Giedroyc: Unforgivable | Dave",
+   "channel": "U&Laughs",
+   "views": 16554,
+   "likes": null,
+   "duration_s": 121,
+   "url": "https://www.youtube.com/watch?v=LJ4a-gOm9xc",
+   "n_words": 56,
+   "words_timed": true,
+   "transcript_method": "youtube-manual-captions",
+   "transcript_available": true,
+   "transcript_preview": "Hit us with your worst.\nCome on. I live above a supermarket,\nin Amsterdam, I had a storytelling group\nwas coming to take a livestream of me telling a story in my house. And I was like, I'm gonna pop d",
+   "r2_clip_key": "comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-lj4a-gom9xc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-lj4a-gom9xc.json",
+   "source_group": "shorts-discovery"
+  },
+  {
+   "videoId": "IyO5bpz7eL4",
+   "title": "Dan Tiernan CONFESSES To His Sister | Mel Giedroyc: Unforgivable | U&Dave",
+   "channel": "U&Laughs",
+   "views": 3486,
+   "likes": null,
+   "duration_s": 166,
+   "url": "https://www.youtube.com/watch?v=IyO5bpz7eL4",
+   "n_words": 408,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Dan yeah this one's quite bad to be honest right my sister uh Phoebe uh we get on really well now but we used to hate each other and once she came home she must have only been about 10 at the time and",
+   "r2_clip_key": "comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-iyo5bpz7el4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-iyo5bpz7el4.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "comedian_id": "jason-manford-muddle-class",
+ "name": "Jason Manford: Muddle Class",
+ "clips": 2,
+ "total_views": 24268,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "8KgEQBvfPm4",
+  "title": "When Parents Become Grandparents | Jason Manford: Muddle Class",
+  "channel": "Jason Manford",
+  "views": 20035,
+  "duration_s": 98,
+  "url": "https://www.youtube.com/watch?v=8KgEQBvfPm4",
+  "r2_clip_key": "comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-8kgeqbvfpm4.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-8kgeqbvfpm4.json"
+ },
+ "rows": [
+  {
+   "videoId": "8KgEQBvfPm4",
+   "title": "When Parents Become Grandparents | Jason Manford: Muddle Class",
+   "channel": "Jason Manford",
+   "views": 20035,
+   "likes": null,
+   "duration_s": 98,
+   "url": "https://www.youtube.com/watch?v=8KgEQBvfPm4",
+   "n_words": 185,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "what a set of Legends grandparents are how they've changed their personalities from the ultimate disciplinarian to just jolly green Giants is unbelievable and we got any grandparents in [Applause] a f",
+   "r2_clip_key": "comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-8kgeqbvfpm4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-8kgeqbvfpm4.json",
+   "source_group": "big-names-shorts"
+  },
+  {
+   "videoId": "ZtJ4eznjmdQ",
+   "title": "Core Childhood Memories Unlocked | Jason Manford: Muddle Class",
+   "channel": "Jason Manford",
+   "views": 4233,
+   "likes": null,
+   "duration_s": 176,
+   "url": "https://www.youtube.com/watch?v=ZtJ4eznjmdQ",
+   "n_words": 441,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I spent a lot of time comparing my childhood to my children's childhood you know and I'm slightly jealous of their childhood because they you know they've got all these things that I didn't get and wh",
+   "r2_clip_key": "comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-ztj4eznjmdq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-ztj4eznjmdq.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "ari-shaffir",
+ "specials": [
+  {
+   "special_slug": "double-negative-2017",
+   "title": "ARI SHAFFIR: DOUBLE NEGATIVE (2017) \u2013 Full Transcript",
+   "comedian": "Ari Shaffir",
+   "url": "https://scrapsfromtheloft.com/comedy/ari-shaffir-double-negative-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 15445,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Shaffir\u2019s Double Negative collection includes a 44-minute set called Children, followed by a 47-minute called Adulthood; both filmed on the same night at Cap City Comedy Club in Austin. Shaffir took only a brief intermission to change his wardrobe and the lighting, keeping the same crowd in the hous",
+   "r2_special_key": "comedians/ari-shaffir/specials/double-negative-2017.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ari-shaffir/specials/double-negative-2017.json"
+  },
+  {
+   "special_slug": "america-s-sweetheart-2025",
+   "title": "Ari Shaffir: America\u2019s Sweetheart (2025)",
+   "comedian": "Ari Shaffir",
+   "url": "https://scrapsfromtheloft.com/comedy/ari-shaffir-americas-sweetheart-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 12567,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nAri Shaffir: America\u2019s Sweetheart (2025) \u2013 Transcript\nPublished January 22, 2025\nComedian Ari Shaffir tackles controversial topics like terrorism, gun violence, racism, and more in his stand-up special. With a darkly humorous approach, he explores unexpected perspectives on sensitive soci",
+   "r2_special_key": "comedians/ari-shaffir/specials/america-s-sweetheart-2025.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ari-shaffir/specials/america-s-sweetheart-2025.json"
+  }
+ ],
+ "count": 2
+}

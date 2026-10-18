@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "wanda-sykes",
+ "specials": [
+  {
+   "special_slug": "i-m-an-entertainer-2023",
+   "title": "Wanda Sykes: I\u2019m an Entertainer (2023)",
+   "comedian": "Wanda Sykes",
+   "url": "https://scrapsfromtheloft.com/comedy/wanda-sykes-im-an-entertainer-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8021,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nWanda Sykes: I\u2019m an Entertainer (2023) \u2013 Transcript\nPublished June 21, 2023\nThe comic shares details about her life, from the challenges of raising Gen Z teens to the dilemmas of being a liberal in a charged political climate.\n\n[audience cheering, applauding]\n\n[twinkling tone]\n\n[male anno",
+   "r2_special_key": "comedians/wanda-sykes/specials/i-m-an-entertainer-2023.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/wanda-sykes/specials/i-m-an-entertainer-2023.json"
+  },
+  {
+   "special_slug": "not-normal-2019",
+   "title": "Wanda Sykes: Not Normal (2019) \u2013 Full Transcript",
+   "comedian": "Wanda Sykes",
+   "url": "https://scrapsfromtheloft.com/comedy/wanda-sykes-not-normal-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 7068,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Ladies and gentlemen\u2026 Wanda Sykes! Yes. Yes. Thank you. New York. New York. Oh, my goodness. So\u2026 let me just start by saying\u2026 if you voted for Trump\u2026 \u2026and you came to see me\u2026 \u2026you fucked up again. This shit\u2019s not normal, y\u2019all. It\u2019s not normal. Come on. The lying, the tweeting, the playdates with di",
+   "r2_special_key": "comedians/wanda-sykes/specials/not-normal-2019.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/wanda-sykes/specials/not-normal-2019.json"
+  }
+ ],
+ "count": 2
+}

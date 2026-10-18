@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 57.2,
+    "popularity": 83.8,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -88,7 +88,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -127,5 +127,17 @@
     "via": "brian-regan",
     "sim": 0.16,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q5760110",
+    "dob": "1982-05-06",
+    "dod": null,
+    "birthplace": "Australia",
+    "citizenship": "Australia",
+    "occupations": [
+      "actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

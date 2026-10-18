@@ -1,128 +1,276 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "tommy-tiernan",
-  "name": "Tommy Tiernan",
-  "tier": "king",
-  "region": "ireland",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/global",
-  "note": "Loose storytelling, Derry Girls priest. Irish circuit legend.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "curated-eu-pacific"
-    ],
-    "discovery_note": "Loose storytelling, Derry Girls priest. Irish circuit legend."
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "king",
-    "promoted": "2026-10-17: established (tours/TV); OTM audit"
-  },
-  "continent": "europe",
-  "metrics": {
-    "legacy": 2.2,
-    "legacy_era": 25.6,
-    "audience": null,
-    "popularity": 66.9,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "bert-kreischer",
-      "sim": 0.054
-    },
-    {
-      "comedian_id": "dave-chappelle",
-      "sim": 0.053
-    },
-    {
-      "comedian_id": "mike-birbiglia",
-      "sim": 0.053
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "tommy-tiernan",
+ "name": "Tommy Tiernan",
+ "tier": "king",
+ "region": "ireland",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/global",
+ "note": "Loose storytelling, Derry Girls priest. Irish circuit legend.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-eu-pacific",
+   "r2:comedy-specials"
   ],
-  "rating": {
-    "headline": 52.8,
-    "coverage": "UNRANKED",
-    "provisional": "global-prior",
-    "boards": {
-      "house": {
-        "rank": null
-      },
-      "consensus": {
-        "rank": 406,
-        "ref": true
-      },
-      "canon": {
-        "rank": 404,
-        "ref": true
-      },
-      "peoples": {
-        "rank": null,
-        "wr": null,
-        "ref": true
-      },
-      "era": {
-        "rank": 309,
-        "ref": true
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  "discovery_note": "Loose storytelling, Derry Girls priest. Irish circuit legend.",
+  "r2_comedian": true,
+  "r2_clips": 1
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "king",
+  "promoted": "2026-10-17: established (tours/TV); OTM audit"
+ },
+ "continent": "europe",
+ "metrics": {
+  "legacy": 2.2,
+  "legacy_era": 25.6,
+  "audience": null,
+  "popularity": 88.3,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "bert-kreischer",
+   "sim": 0.054
   },
-  "youtube_channel": {
-    "id": "UCWfX0nD5LDx0rvxHUWWWQUw",
-    "handle": "tommytiernan",
-    "title": "Tommy Tiernan",
-    "subs": 62400,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "stale",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2025-07-14",
-    "name_match_rate": 0.97,
-    "other_names": []
+  {
+   "comedian_id": "dave-chappelle",
+   "sim": 0.053
   },
-  "style_tags": {
-    "humor_type": "storytelling",
-    "theories": [
-      "benign_violation",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "bert-kreischer",
-    "sim": 0.054,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "mike-birbiglia",
+   "sim": 0.053
   }
+ ],
+ "rating": {
+  "headline": 51.5,
+  "coverage": "UNRANKED",
+  "provisional": "global-prior",
+  "boards": {
+   "house": {
+    "rank": null
+   },
+   "consensus": {
+    "rank": 406,
+    "ref": true
+   },
+   "canon": {
+    "rank": 404,
+    "ref": true
+   },
+   "peoples": {
+    "rank": null,
+    "wr": null,
+    "ref": true
+   },
+   "era": {
+    "rank": 309,
+    "ref": true
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCWfX0nD5LDx0rvxHUWWWQUw",
+  "handle": "tommytiernan",
+  "title": "Tommy Tiernan",
+  "subs": 62400,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "stale",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2025-07-14",
+  "name_match_rate": 0.97,
+  "other_names": []
+ },
+ "style_tags": {
+  "humor_type": "storytelling",
+  "theories": [
+   "benign_violation",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "bert-kreischer",
+  "sim": 0.054,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "youtube": {
+  "clips": 1,
+  "total_views": 189000,
+  "timed_clips": 1,
+  "r2_linked": true,
+  "top_clip": {
+   "videoId": "XpDMJbcsUps",
+   "title": "Tommy Tiernan Drunk Driving",
+   "views": 189000,
+   "url": "https://www.youtube.com/watch?v=XpDMJbcsUps",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tommy-tiernan/clips/tommy-tiernan-xpdmjbcsups.json"
+  }
+ },
+ "transcripts": {
+  "clip_words": 309,
+  "special_words": 0,
+  "timed_clips": 1,
+  "timed_specials": 0,
+  "r2_source": "r2:comedy-specials",
+  "synced": "2026-10-18"
+ },
+ "r2_profiled": "2026-10-18",
+ "youtube_specials": [
+  {
+   "videoId": "uFVqRXmGHjY",
+   "title": "Pete Doherty | The Tommy Tiernan Show",
+   "duration_s": 1476,
+   "views": 49572,
+   "url": "https://www.youtube.com/watch?v=uFVqRXmGHjY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "eTfZPN1M8Hc",
+   "title": "Paul Giamatti | The Tommy Tiernan Show",
+   "duration_s": 1426,
+   "views": 139030,
+   "url": "https://www.youtube.com/watch?v=eTfZPN1M8Hc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lJwmHCR8NfY",
+   "title": "Chris Eubank | The Tommy Tiernan Show",
+   "duration_s": 1579,
+   "views": 97125,
+   "url": "https://www.youtube.com/watch?v=lJwmHCR8NfY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vL680cJlvQg",
+   "title": "David Gray | The Tommy Tiernan Show",
+   "duration_s": 1343,
+   "views": 35653,
+   "url": "https://www.youtube.com/watch?v=vL680cJlvQg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "zXGCZR28vqg",
+   "title": "S\u00e9amus and Breannd\u00e1n Begley | The Tommy Tiernan Show",
+   "duration_s": 1248,
+   "views": 43974,
+   "url": "https://www.youtube.com/watch?v=zXGCZR28vqg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IkXKZc0FQaA",
+   "title": "Bob Geldof | The Tommy Tiernan Show",
+   "duration_s": 1382,
+   "views": 160563,
+   "url": "https://www.youtube.com/watch?v=IkXKZc0FQaA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ktUz5NfjM2o",
+   "title": "Steve Coogan | The Tommy Tiernan Show",
+   "duration_s": 1358,
+   "views": 343705,
+   "url": "https://www.youtube.com/watch?v=ktUz5NfjM2o",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2TF1fbCYOjw",
+   "title": "Roy Keane | The Tommy Tiernan Show",
+   "duration_s": 2354,
+   "views": 1023169,
+   "url": "https://www.youtube.com/watch?v=2TF1fbCYOjw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pJk-gxa8pfk",
+   "title": "Stephen Rea | The Tommy Tiernan Show",
+   "duration_s": 1332,
+   "views": 81120,
+   "url": "https://www.youtube.com/watch?v=pJk-gxa8pfk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "o-5rGOzBgy8",
+   "title": "Brenda Fricker | The Tommy Tiernan Show",
+   "duration_s": 1262,
+   "views": 187220,
+   "url": "https://www.youtube.com/watch?v=o-5rGOzBgy8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "iMv592xWTSg",
+   "title": "Michael D. Higgins | The Tommy Tiernan Show",
+   "duration_s": 1249,
+   "views": 210712,
+   "url": "https://www.youtube.com/watch?v=iMv592xWTSg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HxKLrzUnpZc",
+   "title": "Adam Clayton | The Tommy Tiernan Show",
+   "duration_s": 1392,
+   "views": 114989,
+   "url": "https://www.youtube.com/watch?v=HxKLrzUnpZc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "nA8SeMYy1cY",
+   "title": "A Whole Hour Of My Best Jokes | BEST OF TOMMY TIERNAN",
+   "duration_s": 3779,
+   "views": 282451,
+   "url": "https://www.youtube.com/watch?v=nA8SeMYy1cY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GNVGj2P5SGQ",
+   "title": "Reeling In The Years With Tommy Tiernan | BEST OF TOMMY TIERNAN",
+   "duration_s": 1354,
+   "views": 28165,
+   "url": "https://www.youtube.com/watch?v=GNVGj2P5SGQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "zhl2EqFrgnQ",
+   "title": "St Patrick's Day With Tommy Tiernan | BEST OF TOMMY TIERNAN",
+   "duration_s": 1282,
+   "views": 69638,
+   "url": "https://www.youtube.com/watch?v=zhl2EqFrgnQ",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 15
 }

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "men-s-mental-health",
+ "name": "Men's Mental Health",
+ "clips": 1,
+ "total_views": 254000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "nW3NTwOHRDo",
+  "title": "Men's Mental Health - Elliot Steele  - Live at The Bearcat  #comedy #standupcomedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 254000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=nW3NTwOHRDo",
+  "r2_clip_key": "comedians/men-s-mental-health/clips/men-s-mental-health-nw3ntwohrdo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/men-s-mental-health/clips/men-s-mental-health-nw3ntwohrdo.json"
+ },
+ "rows": [
+  {
+   "videoId": "nW3NTwOHRDo",
+   "title": "Men's Mental Health - Elliot Steele  - Live at The Bearcat  #comedy #standupcomedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 254000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=nW3NTwOHRDo",
+   "n_words": 139,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Back in 2019, Keith Limp from the Prodigy had killed himself. I thought, \"Oh my god, if this guy's capable of it, maybe one of my friends is.\" So, I remember opening up my group chat at the time, Maga",
+   "r2_clip_key": "comedians/men-s-mental-health/clips/men-s-mental-health-nw3ntwohrdo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/men-s-mental-health/clips/men-s-mental-health-nw3ntwohrdo.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

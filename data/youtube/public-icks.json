@@ -1,0 +1,38 @@
+{
+ "comedian_id": "public-icks",
+ "name": "PUBLIC ICKS",
+ "clips": 1,
+ "total_views": 15000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "rKSDXCwxmfg",
+  "title": "PUBLIC ICKS | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 15000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=rKSDXCwxmfg",
+  "r2_clip_key": "comedians/public-icks/clips/public-icks-rksdxcwxmfg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/public-icks/clips/public-icks-rksdxcwxmfg.json"
+ },
+ "rows": [
+  {
+   "videoId": "rKSDXCwxmfg",
+   "title": "PUBLIC ICKS | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 15000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=rKSDXCwxmfg",
+   "n_words": 264,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Hicks in a public place. Ah, right, Hicks in a public place .    It\u2019s really disgusting to see old people and Indian people unable to pronounce \"Papa Dum.\" I've never seen anything like that before. O",
+   "r2_clip_key": "comedians/public-icks/clips/public-icks-rksdxcwxmfg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/public-icks/clips/public-icks-rksdxcwxmfg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

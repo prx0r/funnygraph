@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Jason Byrne is an award winning Irish stand up comedian. He is one of the biggest selling comics every year at the Edinburgh Festival Fringe. He has appeared on TV and radio in the UK and Ireland numerous times. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Maili",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/jason-byrne/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/jason-byrne/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -53,7 +56,7 @@
     "legacy": 29.5,
     "legacy_era": 53.1,
     "audience": null,
-    "popularity": null,
+    "popularity": 49.1,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -61,7 +64,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -87,7 +90,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -121,5 +124,39 @@
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 21000,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "G-6dW-JAw1A",
+      "title": "Sounds like an episode of Derry Girls \ud83d\ude06",
+      "views": 21000,
+      "url": "https://www.youtube.com/watch?v=G-6dW-JAw1A",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-byrne/clips/jason-byrne-g-6dw-jaw1a.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 550,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q6162151",
+    "dob": "1972-02-27",
+    "dod": null,
+    "birthplace": "Dublin",
+    "citizenship": "Ireland",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

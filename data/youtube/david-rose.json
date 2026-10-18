@@ -1,0 +1,38 @@
+{
+ "comedian_id": "david-rose",
+ "name": "DAVID ROSE",
+ "clips": 1,
+ "total_views": 285,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "VO3ST-mYCUo",
+  "title": "DAVID ROSE - UNFORTUNATE CIRCUMCISION",
+  "channel": "@BigBellyComedy",
+  "views": 285,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=VO3ST-mYCUo",
+  "r2_clip_key": "comedians/david-rose/clips/david-rose-vo3st-mycuo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/david-rose/clips/david-rose-vo3st-mycuo.json"
+ },
+ "rows": [
+  {
+   "videoId": "VO3ST-mYCUo",
+   "title": "DAVID ROSE - UNFORTUNATE CIRCUMCISION",
+   "channel": "@BigBellyComedy",
+   "views": 285,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=VO3ST-mYCUo",
+   "n_words": 178,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Do we have any Jews here? >> Are you the Jewish man? Yeah, you look like the Jewish man. Yeah, I know. It's weird because the rest of everyone else is like, \"Fuck, he just said you look like a Jew.\" A",
+   "r2_clip_key": "comedians/david-rose/clips/david-rose-vo3st-mycuo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/david-rose/clips/david-rose-vo3st-mycuo.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

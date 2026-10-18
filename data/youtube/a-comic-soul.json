@@ -1,0 +1,38 @@
+{
+ "comedian_id": "a-comic-soul",
+ "name": "A Comic Soul",
+ "clips": 1,
+ "total_views": 27085,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "OJofi1MTQXM",
+  "title": "Busted By The Weed Skills - Kevin Bridges",
+  "channel": "A Comic Soul",
+  "views": 27085,
+  "duration_s": 122,
+  "url": "https://www.youtube.com/watch?v=OJofi1MTQXM",
+  "r2_clip_key": "comedians/a-comic-soul/clips/a-comic-soul-ojofi1mtqxm.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/a-comic-soul/clips/a-comic-soul-ojofi1mtqxm.json"
+ },
+ "rows": [
+  {
+   "videoId": "OJofi1MTQXM",
+   "title": "Busted By The Weed Skills - Kevin Bridges",
+   "channel": "A Comic Soul",
+   "views": 27085,
+   "likes": null,
+   "duration_s": 122,
+   "url": "https://www.youtube.com/watch?v=OJofi1MTQXM",
+   "n_words": 588,
+   "words_timed": true,
+   "transcript_method": "cloudflare-whisper",
+   "transcript_available": true,
+   "transcript_preview": "I don't take drugs I get busted to young taking drugs I get busted to young if fillian bark on any notable drug abuse I get caught smoking weed when I was young Do you know how I get caught mate Do yo",
+   "r2_clip_key": "comedians/a-comic-soul/clips/a-comic-soul-ojofi1mtqxm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/a-comic-soul/clips/a-comic-soul-ojofi1mtqxm.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

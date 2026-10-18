@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "lenny-bruce",
+ "specials": [
+  {
+   "special_slug": "the-berkeley-concert-1965",
+   "title": "Lenny Bruce: The Berkeley Concert (1965) \u2013 Transcript",
+   "comedian": "Lenny Bruce",
+   "url": "https://scrapsfromtheloft.com/comedy/lenny-bruce-berkeley-concert-1965-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 13016,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Recorded December 12, 1965 (released 1971, produced by John Judnich and Frank Zappa) Thank you, thank you, thank you. Hahahaha, you like this? Be weird I have no pants on\u2026 The ecumenical council has given the Pope permission to become a nun\u2026just on Friday\u2019s. I can\u2019t work with this thing..it\u2019s a\u2026isn\u2019",
+   "r2_special_key": "comedians/lenny-bruce/specials/the-berkeley-concert-1965.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lenny-bruce/specials/the-berkeley-concert-1965.json"
+  }
+ ],
+ "count": 1
+}

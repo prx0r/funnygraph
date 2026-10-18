@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "the-standups",
+ "specials": [
+  {
+   "special_slug": "gina-yashere-2018",
+   "title": "The Standups: Gina Yashere (2018) \u2013 Full Transcript",
+   "comedian": "The Standups",
+   "url": "https://scrapsfromtheloft.com/comedy/the-standups-gina-yashere-2018-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 4011,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[announcer] And now, coming to the stage, Gina Yashere! [\u201cAfro Puffs\u201d by The Lady of Rage plays] Oi, oi! Oi, oi! What\u2019s happening, Los Angeles? Good to be back. Good to be back. I don\u2019t know if you know this, guys. I used to live here. I lived in L.A. for a few years. Yes, I did. I lived in Los Ange",
+   "r2_special_key": "comedians/the-standups/specials/gina-yashere-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/the-standups/specials/gina-yashere-2018.json"
+  }
+ ],
+ "count": 1
+}

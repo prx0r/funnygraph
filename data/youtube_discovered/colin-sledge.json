@@ -1,0 +1,26 @@
+{
+ "comedian_id": "colin-sledge",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "8UfpO0Va6aI",
+   "title": "Leadership scales 2026",
+   "channel": "colin sledge",
+   "publishedAt": "2026-05-05T00:50:43Z",
+   "duration_s": 218,
+   "views": 1,
+   "likes": 0,
+   "comedian_slug": "colin-sledge"
+  },
+  {
+   "videoId": "4VDz9GNPtI4",
+   "title": "Leadership scales 2025",
+   "channel": "colin sledge",
+   "publishedAt": "2025-04-18T20:35:27Z",
+   "duration_s": 230,
+   "views": 2,
+   "likes": 0,
+   "comedian_slug": "colin-sledge"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "bossnup-records",
+ "name": "BOSSnUP Records",
+ "clips": 1,
+ "total_views": 39444519,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "hlXlMQc_22o",
+  "title": "A Different Angle That We Didnt See Will Smith And Chris Rock At The Oscars",
+  "channel": "BOSSnUP Records",
+  "views": 39444519,
+  "duration_s": 39,
+  "url": "https://youtube.com/watch?v=hlXlMQc_22o",
+  "r2_clip_key": "comedians/bossnup-records/clips/bossnup-records-hlxlmqc_22o.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bossnup-records/clips/bossnup-records-hlxlmqc_22o.json"
+ },
+ "rows": [
+  {
+   "videoId": "hlXlMQc_22o",
+   "title": "A Different Angle That We Didnt See Will Smith And Chris Rock At The Oscars",
+   "channel": "BOSSnUP Records",
+   "views": 39444519,
+   "likes": 931666,
+   "duration_s": 39,
+   "url": "https://youtube.com/watch?v=hlXlMQc_22o",
+   "n_words": 511,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "Here is an angle most people have not seen Look at Jada's reaction Jada's reaction Jada's reaction Jada's reaction Jada's reaction Jada's reaction Jada's reaction Jada's reaction Jada's reaction Jada'",
+   "r2_clip_key": "comedians/bossnup-records/clips/bossnup-records-hlxlmqc_22o.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bossnup-records/clips/bossnup-records-hlxlmqc_22o.json",
+   "source_group": null
+  }
+ ]
+}

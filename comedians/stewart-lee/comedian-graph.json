@@ -195,17 +195,1144 @@
       },
       "timing_measured": null,
       "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+    },
+    {
+      "id": "stewart-lee-carpet-remnant-world-2012-live",
+      "special": "carpet-remnant-world-2012-live",
+      "title": "carpet-remnant-world-2012-live",
+      "source": "r2:comedians/stewart-lee/specials/carpet-remnant-world-2012-live.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 14998,
+      "duration_s": 7316.5,
+      "timing_measured": {
+        "wpm": 123.1,
+        "pause_count": 401,
+        "pause_bins": {
+          "very_short": 80,
+          "short": 26,
+          "substantial": 23,
+          "topic": 272
+        },
+        "mean_pause_s": 2.615,
+        "punch_pauses_s": [
+          2.44,
+          1.92,
+          1.88,
+          1.72,
+          1.56,
+          1.4,
+          1.4,
+          1.08
+        ],
+        "max_pause_s": 36.76
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 47.84,
+          "pause_before_s": 1.4,
+          "fingerprint": "and stamping on a centipede. Top of"
+        },
+        {
+          "t_start_s": 53.76,
+          "pause_before_s": 1.88,
+          "fingerprint": "Top of the show, pedophile jokes going"
+        },
+        {
+          "t_start_s": 68.32,
+          "pause_before_s": 0.84,
+          "fingerprint": "I'm trying to find out what news"
+        },
+        {
+          "t_start_s": 94.96,
+          "pause_before_s": 0.68,
+          "fingerprint": "So, what news do you know about?"
+        },
+        {
+          "t_start_s": 161.92,
+          "pause_before_s": 1.72,
+          "fingerprint": "I thought, well, there was that one"
+        },
+        {
+          "t_start_s": 219.28,
+          "pause_before_s": 0.84,
+          "fingerprint": "They all get together voluntarily. They go"
+        },
+        {
+          "t_start_s": 281.28,
+          "pause_before_s": 1.08,
+          "fingerprint": "Uh, you you'll know what I my"
+        },
+        {
+          "t_start_s": 374.88,
+          "pause_before_s": 0.6,
+          "fingerprint": "It's very strong and it will gradually"
+        },
+        {
+          "t_start_s": 412.64,
+          "pause_before_s": 2.44,
+          "fingerprint": "winning a British comedy award it's like"
+        },
+        {
+          "t_start_s": 422.24,
+          "pause_before_s": 1.4,
+          "fingerprint": "what can you do there you can't"
+        },
+        {
+          "t_start_s": 428.88,
+          "pause_before_s": 1.92,
+          "fingerprint": "It'll be all right. It's strong down"
+        },
+        {
+          "t_start_s": 454.8,
+          "pause_before_s": 1.56,
+          "fingerprint": "Shame. It's gone to all this trouble"
+        }
+      ],
+      "beat_count": 307,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-live-at-the-lowry",
+      "special": "live-at-the-lowry",
+      "title": "Stewart Lee - Live At The Lowry",
+      "source": "r2:comedians/stewart-lee/specials/live-at-the-lowry.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 12478,
+      "duration_s": 5407.6,
+      "timing_measured": {
+        "wpm": 138.5,
+        "pause_count": 222,
+        "pause_bins": {
+          "very_short": 51,
+          "short": 20,
+          "substantial": 19,
+          "topic": 132
+        },
+        "mean_pause_s": 1.922,
+        "punch_pauses_s": [
+          6.04,
+          3.0,
+          2.86,
+          2.44,
+          2.2,
+          1.96,
+          1.32,
+          1.32
+        ],
+        "max_pause_s": 23.51
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 11.71,
+          "pause_before_s": 2.86,
+          "fingerprint": "[Applause] [Music] It's always difficult to know"
+        },
+        {
+          "t_start_s": 73.04,
+          "pause_before_s": 0.84,
+          "fingerprint": "was Robert Powell nominated for a BAFTA"
+        },
+        {
+          "t_start_s": 83.44,
+          "pause_before_s": 2.44,
+          "fingerprint": "and he said know it isn't that"
+        },
+        {
+          "t_start_s": 116.32,
+          "pause_before_s": 3.0,
+          "fingerprint": "I said there's no point coming in"
+        },
+        {
+          "t_start_s": 130.96,
+          "pause_before_s": 6.04,
+          "fingerprint": "the Well, don't tell me to carry"
+        },
+        {
+          "t_start_s": 138.32,
+          "pause_before_s": 0.68,
+          "fingerprint": "okay the problem is you miss the"
+        },
+        {
+          "t_start_s": 158.08,
+          "pause_before_s": 2.2,
+          "fingerprint": "you can stay right but I don't"
+        },
+        {
+          "t_start_s": 198.64,
+          "pause_before_s": 1.32,
+          "fingerprint": "And what I do is I use"
+        },
+        {
+          "t_start_s": 214.32,
+          "pause_before_s": 1.32,
+          "fingerprint": "coming in late to me, right? It's"
+        },
+        {
+          "t_start_s": 227.76,
+          "pause_before_s": 1.32,
+          "fingerprint": "I'm not going back to that joke"
+        },
+        {
+          "t_start_s": 296.08,
+          "pause_before_s": 1.96,
+          "fingerprint": "or marry a mayfly. short lifespans they've"
+        },
+        {
+          "t_start_s": 300.8,
+          "pause_before_s": 1.0,
+          "fingerprint": "short lifespans they've got, haven't they, madam,"
+        }
+      ],
+      "beat_count": 161,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-stand-up-comedian-2005-live",
+      "special": "stand-up-comedian-2005-live",
+      "title": "Stewart Lee - Stand up Comedian  (FULL)",
+      "source": "r2:comedians/stewart-lee/specials/stand-up-comedian-2005-live.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 10957,
+      "duration_s": 4694.3,
+      "timing_measured": {
+        "wpm": 140.2,
+        "pause_count": 193,
+        "pause_bins": {
+          "very_short": 51,
+          "short": 18,
+          "substantial": 13,
+          "topic": 111
+        },
+        "mean_pause_s": 1.383,
+        "punch_pauses_s": [
+          3.8,
+          3.75,
+          3.56,
+          2.84,
+          2.24,
+          2.14,
+          1.24,
+          1.12
+        ],
+        "max_pause_s": 6.68
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 21.7,
+          "pause_before_s": 3.75,
+          "fingerprint": "[Music] e [Music] [Applause] [Music] [Applause] thank"
+        },
+        {
+          "t_start_s": 101.68,
+          "pause_before_s": 2.24,
+          "fingerprint": "[Applause] [Music] [Applause] [Music] [Applause] [Music] [Ap"
+        },
+        {
+          "t_start_s": 132.55,
+          "pause_before_s": 1.1,
+          "fingerprint": "[Music] [Applause] so on September the 11th"
+        },
+        {
+          "t_start_s": 145.6,
+          "pause_before_s": 3.8,
+          "fingerprint": "so on September the 11th 2001 [Laughter]"
+        },
+        {
+          "t_start_s": 152.54,
+          "pause_before_s": 2.14,
+          "fingerprint": "[Laughter] I was actually on holiday right"
+        },
+        {
+          "t_start_s": 173.96,
+          "pause_before_s": 0.72,
+          "fingerprint": "attacks and I was actually in the"
+        },
+        {
+          "t_start_s": 200.12,
+          "pause_before_s": 0.96,
+          "fingerprint": "dates walking around there on the 9th"
+        },
+        {
+          "t_start_s": 235.64,
+          "pause_before_s": 2.84,
+          "fingerprint": "matter and then I watched for a"
+        },
+        {
+          "t_start_s": 246.12,
+          "pause_before_s": 1.24,
+          "fingerprint": "live and therefore a terrible newsworthy tragedy"
+        },
+        {
+          "t_start_s": 279.44,
+          "pause_before_s": 0.84,
+          "fingerprint": "this and that annoyed me for two"
+        },
+        {
+          "t_start_s": 339.84,
+          "pause_before_s": 3.56,
+          "fingerprint": "C and it was yellow smell of"
+        },
+        {
+          "t_start_s": 347.44,
+          "pause_before_s": 1.12,
+          "fingerprint": "we and while I was doing it"
+        }
+      ],
+      "beat_count": 131,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-90s-comedian-2006-live",
+      "special": "90s-comedian-2006-live",
+      "title": "Stewart Lee: 2006",
+      "source": "r2:comedians/stewart-lee/specials/90s-comedian-2006-live.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 10399,
+      "duration_s": 4145.6,
+      "timing_measured": {
+        "wpm": 150.5,
+        "pause_count": 142,
+        "pause_bins": {
+          "very_short": 52,
+          "short": 15,
+          "substantial": 12,
+          "topic": 63
+        },
+        "mean_pause_s": 1.27,
+        "punch_pauses_s": [
+          4.29,
+          2.55,
+          1.96,
+          1.64,
+          1.56,
+          1.4,
+          1.08,
+          1.04
+        ],
+        "max_pause_s": 11.74
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 6.96,
+          "pause_before_s": 4.29,
+          "fingerprint": "Thank you. [applause] Ah, it's great to"
+        },
+        {
+          "t_start_s": 126.96,
+          "pause_before_s": 0.68,
+          "fingerprint": "But what happened was that the people"
+        },
+        {
+          "t_start_s": 177.76,
+          "pause_before_s": 1.08,
+          "fingerprint": "But eventually all that subsided and I"
+        },
+        {
+          "t_start_s": 241.68,
+          "pause_before_s": 2.55,
+          "fingerprint": "And the next one was from a"
+        },
+        {
+          "t_start_s": 529.84,
+          "pause_before_s": 0.92,
+          "fingerprint": "Now, at the time, I was lying"
+        },
+        {
+          "t_start_s": 535.12,
+          "pause_before_s": 1.64,
+          "fingerprint": "I was lying naked on a slab"
+        },
+        {
+          "t_start_s": 561.68,
+          "pause_before_s": 1.4,
+          "fingerprint": "So I said to her, \"What do"
+        },
+        {
+          "t_start_s": 578.37,
+          "pause_before_s": 0.81,
+          "fingerprint": ">> [laughter] >> So, as I lay there naked"
+        },
+        {
+          "t_start_s": 660.64,
+          "pause_before_s": 1.56,
+          "fingerprint": "Now, I think that is the greatest"
+        },
+        {
+          "t_start_s": 719.68,
+          "pause_before_s": 1.04,
+          "fingerprint": "Although it' be fair to Jimmy Carr,"
+        },
+        {
+          "t_start_s": 743.36,
+          "pause_before_s": 0.68,
+          "fingerprint": "There's always been this kind of material"
+        },
+        {
+          "t_start_s": 857.92,
+          "pause_before_s": 1.96,
+          "fingerprint": "Joe Pasquali goes into a bar. [laughter]"
+        }
+      ],
+      "beat_count": 82,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-comedy-vehicle-s1e4-financial-crisis",
+      "special": "comedy-vehicle-s1e4-financial-crisis",
+      "title": "comedy-vehicle-s1e4-financial-crisis",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e4-financial-crisis.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 4095,
+      "duration_s": 1736.9,
+      "timing_measured": {
+        "wpm": 142.0,
+        "pause_count": 67,
+        "pause_bins": {
+          "very_short": 15,
+          "short": 4,
+          "substantial": 6,
+          "topic": 42
+        },
+        "mean_pause_s": 2.009,
+        "punch_pauses_s": [
+          15.67,
+          8.46,
+          7.81,
+          6.47,
+          3.42,
+          3.08,
+          2.6,
+          2.56
+        ],
+        "max_pause_s": 15.67
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 27.51,
+          "pause_before_s": 6.47,
+          "fingerprint": ">> [music] [music] [applause] [applause] >> Thank you. Thank"
+        },
+        {
+          "t_start_s": 37.34,
+          "pause_before_s": 7.81,
+          "fingerprint": "[music] [applause] [applause] >> Thank you. Thank you."
+        },
+        {
+          "t_start_s": 47.81,
+          "pause_before_s": 8.46,
+          "fingerprint": "[applause] [applause] >> Thank you. Thank you. Thank"
+        },
+        {
+          "t_start_s": 52.4,
+          "pause_before_s": 2.56,
+          "fingerprint": "[applause] >> Thank you. Thank you. Thank you."
+        },
+        {
+          "t_start_s": 57.0,
+          "pause_before_s": 0.92,
+          "fingerprint": "Hello. I'm Stewart Lee. This is Stewart"
+        },
+        {
+          "t_start_s": 65.8,
+          "pause_before_s": 1.12,
+          "fingerprint": "Now tonight I wanted to talk about"
+        },
+        {
+          "t_start_s": 266.44,
+          "pause_before_s": 3.08,
+          "fingerprint": ">> And even as we speak, this satirical"
+        },
+        {
+          "t_start_s": 275.32,
+          "pause_before_s": 2.6,
+          "fingerprint": ">> NOW, BEFORE ALL THIS HAPPENED, ALL THAT"
+        },
+        {
+          "t_start_s": 447.37,
+          "pause_before_s": 15.67,
+          "fingerprint": "[screaming] >> IT'S TAKEN YOU JUST UNDER AN"
+        },
+        {
+          "t_start_s": 458.5,
+          "pause_before_s": 0.98,
+          "fingerprint": ">> [laughter] >> Cheers, Colin. Cheers. >> [laughter] >> But"
+        },
+        {
+          "t_start_s": 463.4,
+          "pause_before_s": 0.64,
+          "fingerprint": "Cheers. >> [laughter] >> But it's dangerous to mess"
+        },
+        {
+          "t_start_s": 525.52,
+          "pause_before_s": 3.42,
+          "fingerprint": ">> Yes, they're applauding you. They're applauding you"
+        }
+      ],
+      "beat_count": 51,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-comedy-vehicle-jeremy-corbyn",
+      "special": "comedy-vehicle-jeremy-corbyn",
+      "title": "Stewart Lee Comedy Vehicle - Jeremy Corbyn",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-jeremy-corbyn.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 4016,
+      "duration_s": 1696.3,
+      "timing_measured": {
+        "wpm": 142.2,
+        "pause_count": 93,
+        "pause_bins": {
+          "very_short": 23,
+          "short": 8,
+          "substantial": 9,
+          "topic": 53
+        },
+        "mean_pause_s": 2.72,
+        "punch_pauses_s": [
+          3.64,
+          3.56,
+          3.36,
+          2.36,
+          2.16,
+          1.44,
+          1.36,
+          1.2
+        ],
+        "max_pause_s": 27.8
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 68.72,
+          "pause_before_s": 0.72,
+          "fingerprint": "It's been a weird year. I January"
+        },
+        {
+          "t_start_s": 91.36,
+          "pause_before_s": 1.36,
+          "fingerprint": "Patriotism's been an ongoing issue though, hasn't"
+        },
+        {
+          "t_start_s": 117.0,
+          "pause_before_s": 3.64,
+          "fingerprint": "All through the election, we were played"
+        },
+        {
+          "t_start_s": 164.04,
+          "pause_before_s": 0.72,
+          "fingerprint": "Okay, I'm sorry. I'm not I'm right."
+        },
+        {
+          "t_start_s": 189.56,
+          "pause_before_s": 3.56,
+          "fingerprint": "Two jokes there, aren't they? Did you"
+        },
+        {
+          "t_start_s": 233.28,
+          "pause_before_s": 1.44,
+          "fingerprint": "I know that's London-centric. Don't write in"
+        },
+        {
+          "t_start_s": 265.8,
+          "pause_before_s": 1.2,
+          "fingerprint": "If you're Jewish and you're in my"
+        },
+        {
+          "t_start_s": 274.96,
+          "pause_before_s": 2.16,
+          "fingerprint": "Your seat, that's the ghetto. Well, you"
+        },
+        {
+          "t_start_s": 282.16,
+          "pause_before_s": 3.36,
+          "fingerprint": "Well, you know, it's it's had a"
+        },
+        {
+          "t_start_s": 350.84,
+          "pause_before_s": 1.0,
+          "fingerprint": "Okay, I'll just explain this cuz it's"
+        },
+        {
+          "t_start_s": 405.48,
+          "pause_before_s": 0.6,
+          "fingerprint": "Back then, that was about as likely"
+        },
+        {
+          "t_start_s": 553.6,
+          "pause_before_s": 2.36,
+          "fingerprint": "You grow older, your tastes change, don't"
+        }
+      ],
+      "beat_count": 66,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-comedy-vehicle-s1e5-comedy",
+      "special": "comedy-vehicle-s1e5-comedy",
+      "title": "comedy-vehicle-s1e5-comedy",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e5-comedy.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 3913,
+      "duration_s": 1691.6,
+      "timing_measured": {
+        "wpm": 139.4,
+        "pause_count": 53,
+        "pause_bins": {
+          "very_short": 14,
+          "short": 3,
+          "substantial": 2,
+          "topic": 34
+        },
+        "mean_pause_s": 4.199,
+        "punch_pauses_s": [
+          31.24,
+          3.64,
+          2.76,
+          2.68,
+          2.12,
+          1.96,
+          1.96,
+          1.8
+        ],
+        "max_pause_s": 35.16
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 48.0,
+          "pause_before_s": 31.24,
+          "fingerprint": "Thank you very much. I'm Stuart Lee. Welcome"
+        },
+        {
+          "t_start_s": 88.24,
+          "pause_before_s": 1.96,
+          "fingerprint": "I should imagine standup comedy is the"
+        },
+        {
+          "t_start_s": 119.2,
+          "pause_before_s": 0.84,
+          "fingerprint": ">> This bloke makes me sick. Being a"
+        },
+        {
+          "t_start_s": 131.44,
+          "pause_before_s": 2.68,
+          "fingerprint": "But it is the hardest job in"
+        },
+        {
+          "t_start_s": 152.96,
+          "pause_before_s": 2.76,
+          "fingerprint": "One person applauding that. And of course,"
+        },
+        {
+          "t_start_s": 272.8,
+          "pause_before_s": 3.64,
+          "fingerprint": "But historically, American comics were the masters"
+        },
+        {
+          "t_start_s": 297.92,
+          "pause_before_s": 0.68,
+          "fingerprint": ">> Hunger pooping. >> Only one man kept the"
+        },
+        {
+          "t_start_s": 367.92,
+          "pause_before_s": 0.92,
+          "fingerprint": "But America wasn't ready for some of"
+        },
+        {
+          "t_start_s": 533.92,
+          "pause_before_s": 1.8,
+          "fingerprint": "Go, \"Yeah, I put a spring onion"
+        },
+        {
+          "t_start_s": 570.72,
+          "pause_before_s": 2.12,
+          "fingerprint": "Nice mash. Are you sure you boiled"
+        },
+        {
+          "t_start_s": 578.0,
+          "pause_before_s": 1.96,
+          "fingerprint": "The other thing I like about this"
+        },
+        {
+          "t_start_s": 621.76,
+          "pause_before_s": 1.28,
+          "fingerprint": "Then we'll get some chips on the"
+        }
+      ],
+      "beat_count": 39,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-comedy-vehicle-dead-mouse",
+      "special": "comedy-vehicle-dead-mouse",
+      "title": "Stewart Lee Comedy Vehicle - Dead Mouse",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-dead-mouse.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 3678,
+      "duration_s": 1720.1,
+      "timing_measured": {
+        "wpm": 128.3,
+        "pause_count": 78,
+        "pause_bins": {
+          "very_short": 22,
+          "short": 1,
+          "substantial": 4,
+          "topic": 51
+        },
+        "mean_pause_s": 2.149,
+        "punch_pauses_s": [
+          3.4,
+          3.24,
+          3.0,
+          2.76,
+          1.96,
+          1.56,
+          1.24,
+          1.16
+        ],
+        "max_pause_s": 30.2
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 49.84,
+          "pause_before_s": 2.76,
+          "fingerprint": "And I thought what an amazing cosmic"
+        },
+        {
+          "t_start_s": 85.12,
+          "pause_before_s": 0.84,
+          "fingerprint": "So, bit of fun, light-hearted routine that"
+        },
+        {
+          "t_start_s": 198.16,
+          "pause_before_s": 3.0,
+          "fingerprint": "throughout Scotland and the north generally. Don't"
+        },
+        {
+          "t_start_s": 203.92,
+          "pause_before_s": 1.16,
+          "fingerprint": "Don't write in. But um I think"
+        },
+        {
+          "t_start_s": 237.04,
+          "pause_before_s": 1.96,
+          "fingerprint": "We warned Gran about taunting that cat."
+        },
+        {
+          "t_start_s": 242.8,
+          "pause_before_s": 0.92,
+          "fingerprint": "Yeah. A bit of fun in it"
+        },
+        {
+          "t_start_s": 299.76,
+          "pause_before_s": 1.24,
+          "fingerprint": "It's the old nature nurture argument. >> It's"
+        },
+        {
+          "t_start_s": 307.76,
+          "pause_before_s": 3.4,
+          "fingerprint": ">> It's quite complicated, isn't it being you?"
+        },
+        {
+          "t_start_s": 413.76,
+          "pause_before_s": 1.56,
+          "fingerprint": "All our dads die. We all die."
+        },
+        {
+          "t_start_s": 426.0,
+          "pause_before_s": 0.76,
+          "fingerprint": "We're just meat being shoveled into a"
+        },
+        {
+          "t_start_s": 432.08,
+          "pause_before_s": 1.0,
+          "fingerprint": "You don't want to hear that on"
+        },
+        {
+          "t_start_s": 449.04,
+          "pause_before_s": 3.24,
+          "fingerprint": "I could do a sad, meaningful, award-winning"
+        }
+      ],
+      "beat_count": 57,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-comedy-vehicle-s1e6-religion",
+      "special": "comedy-vehicle-s1e6-religion",
+      "title": "Stewart Lee Comedy Vehicle  - 1.6 Religion",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e6-religion.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 3611,
+      "duration_s": 1705.5,
+      "timing_measured": {
+        "wpm": 127.0,
+        "pause_count": 68,
+        "pause_bins": {
+          "very_short": 14,
+          "short": 2,
+          "substantial": 8,
+          "topic": 44
+        },
+        "mean_pause_s": 3.92,
+        "punch_pauses_s": [
+          20.28,
+          11.88,
+          11.72,
+          11.56,
+          11.48,
+          10.36,
+          4.84,
+          2.6
+        ],
+        "max_pause_s": 23.48
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 14.56,
+          "pause_before_s": 11.56,
+          "fingerprint": "Heat. Thank you very much. Thank you. Welcome"
+        },
+        {
+          "t_start_s": 37.84,
+          "pause_before_s": 20.28,
+          "fingerprint": "Thank you very much. Thank you. Welcome uh"
+        },
+        {
+          "t_start_s": 60.88,
+          "pause_before_s": 1.4,
+          "fingerprint": "I wrote that joke 20 years ago."
+        },
+        {
+          "t_start_s": 80.56,
+          "pause_before_s": 2.12,
+          "fingerprint": ">> Uh, tonight we're going to be talking"
+        },
+        {
+          "t_start_s": 90.88,
+          "pause_before_s": 2.6,
+          "fingerprint": "Religion. If you are religious, uh, don't"
+        },
+        {
+          "t_start_s": 115.92,
+          "pause_before_s": 11.72,
+          "fingerprint": ">> I don't know if I'm the right"
+        },
+        {
+          "t_start_s": 144.08,
+          "pause_before_s": 1.16,
+          "fingerprint": "I don't think that could just evolve"
+        },
+        {
+          "t_start_s": 149.52,
+          "pause_before_s": 0.6,
+          "fingerprint": "Professor Richard Dawkins was put there by"
+        },
+        {
+          "t_start_s": 164.4,
+          "pause_before_s": 4.84,
+          "fingerprint": "But when you think about it, right,"
+        },
+        {
+          "t_start_s": 232.96,
+          "pause_before_s": 10.36,
+          "fingerprint": "Red hair. Most jokes about religion, as"
+        },
+        {
+          "t_start_s": 248.56,
+          "pause_before_s": 11.88,
+          "fingerprint": "Most jokes about religion, as I say,"
+        },
+        {
+          "t_start_s": 312.08,
+          "pause_before_s": 11.48,
+          "fingerprint": "For me, Lauren Hardy's seaside Greek Orthodox"
+        }
+      ],
+      "beat_count": 53,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    },
+    {
+      "id": "stewart-lee-comedy-vehicle-s1e2-television",
+      "special": "comedy-vehicle-s1e2-television",
+      "title": "Stewart Lee Comedy Vehicle -  1.2 Television",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e2-television.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 3371,
+      "duration_s": 1730.0,
+      "timing_measured": {
+        "wpm": 117.0,
+        "pause_count": 76,
+        "pause_bins": {
+          "very_short": 14,
+          "short": 5,
+          "substantial": 1,
+          "topic": 56
+        },
+        "mean_pause_s": 3.306,
+        "punch_pauses_s": [
+          5.84,
+          5.19,
+          5.19,
+          3.88,
+          3.45,
+          3.04,
+          2.84,
+          2.56
+        ],
+        "max_pause_s": 32.28
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 5.89,
+          "pause_before_s": 2.56,
+          "fingerprint": "[music] >> Music, movies, and arts tomorrow at"
+        },
+        {
+          "t_start_s": 11.36,
+          "pause_before_s": 3.45,
+          "fingerprint": ">> Music, movies, and arts tomorrow at 10:00"
+        },
+        {
+          "t_start_s": 26.2,
+          "pause_before_s": 3.88,
+          "fingerprint": "[music] [music] [music] [applause] >> Thank you. Thank"
+        },
+        {
+          "t_start_s": 33.41,
+          "pause_before_s": 5.19,
+          "fingerprint": "[music] [music] [applause] >> Thank you. Thank you."
+        },
+        {
+          "t_start_s": 40.61,
+          "pause_before_s": 5.19,
+          "fingerprint": "[music] [applause] >> Thank you. Thank you. Thank"
+        },
+        {
+          "t_start_s": 48.47,
+          "pause_before_s": 5.84,
+          "fingerprint": "[applause] >> Thank you. Thank you. Thank you."
+        },
+        {
+          "t_start_s": 52.36,
+          "pause_before_s": 1.87,
+          "fingerprint": ">> Thank you. Thank you. Thank you. >> [applause]"
+        },
+        {
+          "t_start_s": 122.64,
+          "pause_before_s": 1.28,
+          "fingerprint": ">> Once you start to feel like this,"
+        },
+        {
+          "t_start_s": 246.76,
+          "pause_before_s": 3.04,
+          "fingerprint": ">> The inexorable rise of Adrian Chiles it"
+        },
+        {
+          "t_start_s": 280.32,
+          "pause_before_s": 1.23,
+          "fingerprint": ">> Watching ITV 1, Ant and Dec's Saturday"
+        },
+        {
+          "t_start_s": 311.4,
+          "pause_before_s": 2.84,
+          "fingerprint": ">> It sells rawl plugs, Murray Mints, >> [laughter]"
+        },
+        {
+          "t_start_s": 376.92,
+          "pause_before_s": 2.2,
+          "fingerprint": ">> Nothing on one. Nothing on two. >> [cheering]"
+        }
+      ],
+      "beat_count": 59,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "14 full specials in R2 (10 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "content-provider-2018",
+      "carpet-remnant-world-2012",
+      "carpet-remnant-world-2012-live",
+      "live-at-the-lowry",
+      "stand-up-comedian-2005",
+      "stand-up-comedian-2005-live",
+      "90s-comedian-2006",
+      "90s-comedian-2006-live",
+      "comedy-vehicle-s1e4-financial-crisis",
+      "comedy-vehicle-jeremy-corbyn",
+      "comedy-vehicle-s1e5-comedy",
+      "comedy-vehicle-dead-mouse",
+      "comedy-vehicle-s1e6-religion",
+      "comedy-vehicle-s1e2-television"
+    ],
+    "special_titles": [
+      "Stewart Lee: Content Provider (2018) \u2013 Transcript",
+      "Stewart Lee: Carpet Remnant World (2012) \u2013 Full Transcript",
+      "carpet-remnant-world-2012-live",
+      "Stewart Lee - Live At The Lowry",
+      "Stewart Lee: Stand-Up Comedian (2005) \u2013 Transcript",
+      "Stewart Lee - Stand up Comedian  (FULL)",
+      "STEWART LEE: 90s COMEDIAN (2006) \u2013 Full Transcript",
+      "Stewart Lee: 2006"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
-    "measured": null,
+    "measured": [
+      {
+        "set_id": "stewart-lee-carpet-remnant-world-2012-live",
+        "wpm": 123.1,
+        "mean_pause_s": 2.615,
+        "punch_pauses_s": [
+          2.44,
+          1.92,
+          1.88,
+          1.72,
+          1.56
+        ],
+        "max_pause_s": 36.76
+      },
+      {
+        "set_id": "stewart-lee-live-at-the-lowry",
+        "wpm": 138.5,
+        "mean_pause_s": 1.922,
+        "punch_pauses_s": [
+          6.04,
+          3.0,
+          2.86,
+          2.44,
+          2.2
+        ],
+        "max_pause_s": 23.51
+      },
+      {
+        "set_id": "stewart-lee-stand-up-comedian-2005-live",
+        "wpm": 140.2,
+        "mean_pause_s": 1.383,
+        "punch_pauses_s": [
+          3.8,
+          3.75,
+          3.56,
+          2.84,
+          2.24
+        ],
+        "max_pause_s": 6.68
+      },
+      {
+        "set_id": "stewart-lee-90s-comedian-2006-live",
+        "wpm": 150.5,
+        "mean_pause_s": 1.27,
+        "punch_pauses_s": [
+          4.29,
+          2.55,
+          1.96,
+          1.64,
+          1.56
+        ],
+        "max_pause_s": 11.74
+      },
+      {
+        "set_id": "stewart-lee-comedy-vehicle-s1e4-financial-crisis",
+        "wpm": 142.0,
+        "mean_pause_s": 2.009,
+        "punch_pauses_s": [
+          15.67,
+          8.46,
+          7.81,
+          6.47,
+          3.42
+        ],
+        "max_pause_s": 15.67
+      },
+      {
+        "set_id": "stewart-lee-comedy-vehicle-jeremy-corbyn",
+        "wpm": 142.2,
+        "mean_pause_s": 2.72,
+        "punch_pauses_s": [
+          3.64,
+          3.56,
+          3.36,
+          2.36,
+          2.16
+        ],
+        "max_pause_s": 27.8
+      },
+      {
+        "set_id": "stewart-lee-comedy-vehicle-s1e5-comedy",
+        "wpm": 139.4,
+        "mean_pause_s": 4.199,
+        "punch_pauses_s": [
+          31.24,
+          3.64,
+          2.76,
+          2.68,
+          2.12
+        ],
+        "max_pause_s": 35.16
+      },
+      {
+        "set_id": "stewart-lee-comedy-vehicle-dead-mouse",
+        "wpm": 128.3,
+        "mean_pause_s": 2.149,
+        "punch_pauses_s": [
+          3.4,
+          3.24,
+          3.0,
+          2.76,
+          1.96
+        ],
+        "max_pause_s": 30.2
+      },
+      {
+        "set_id": "stewart-lee-comedy-vehicle-s1e6-religion",
+        "wpm": 127.0,
+        "mean_pause_s": 3.92,
+        "punch_pauses_s": [
+          20.28,
+          11.88,
+          11.72,
+          11.56,
+          11.48
+        ],
+        "max_pause_s": 23.48
+      },
+      {
+        "set_id": "stewart-lee-comedy-vehicle-s1e2-television",
+        "wpm": 117.0,
+        "mean_pause_s": 3.306,
+        "punch_pauses_s": [
+          5.84,
+          5.19,
+          5.19,
+          3.88,
+          3.45
+        ],
+        "max_pause_s": 32.28
+      }
+    ],
     "hypothesis": "meta_architect cadence \u2014 hypothesize from specials.",
     "doctrine_hypothesis": "Slow build, deliberate sabotage, long hold. The repetition that turns a phrase into sludge is the timing device \u2014 the room is waiting for the phrase to break, and the break is the punch.",
-    "status": "hypothesis until word-timed sets measured"
+    "status": "measured on 10 set(s)"
   },
   "gtvh_profile": {
     "SO": "",
@@ -367,6 +1494,556 @@
         "repetition_variation",
         "rigidify"
       ]
+    },
+    {
+      "title": "carpet-remnant-world-2012-live: winning a British comedy award it's like",
+      "why_it_works": "Long pause (2.44s) before this beat in carpet-remnant-world-2012-live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-carpet-remnant-world-2012-live",
+      "t_start_s": 412.64,
+      "pause_before_s": 2.44
+    },
+    {
+      "title": "carpet-remnant-world-2012-live: It'll be all right. It's strong down",
+      "why_it_works": "Long pause (1.92s) before this beat in carpet-remnant-world-2012-live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-carpet-remnant-world-2012-live",
+      "t_start_s": 428.88,
+      "pause_before_s": 1.92
+    },
+    {
+      "title": "carpet-remnant-world-2012-live: Top of the show, pedophile jokes going",
+      "why_it_works": "Long pause (1.88s) before this beat in carpet-remnant-world-2012-live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-carpet-remnant-world-2012-live",
+      "t_start_s": 53.76,
+      "pause_before_s": 1.88
+    },
+    {
+      "title": "carpet-remnant-world-2012-live: I thought, well, there was that one",
+      "why_it_works": "Long pause (1.72s) before this beat in carpet-remnant-world-2012-live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-carpet-remnant-world-2012-live",
+      "t_start_s": 161.92,
+      "pause_before_s": 1.72
+    },
+    {
+      "title": "carpet-remnant-world-2012-live: Shame. It's gone to all this trouble",
+      "why_it_works": "Long pause (1.56s) before this beat in carpet-remnant-world-2012-live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-carpet-remnant-world-2012-live",
+      "t_start_s": 454.8,
+      "pause_before_s": 1.56
+    },
+    {
+      "title": "live-at-the-lowry: the Well, don't tell me to carry",
+      "why_it_works": "Long pause (6.04s) before this beat in Stewart Lee - Live At The Lowry. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-live-at-the-lowry",
+      "t_start_s": 130.96,
+      "pause_before_s": 6.04
+    },
+    {
+      "title": "live-at-the-lowry: I said there's no point coming in",
+      "why_it_works": "Long pause (3.0s) before this beat in Stewart Lee - Live At The Lowry. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-live-at-the-lowry",
+      "t_start_s": 116.32,
+      "pause_before_s": 3.0
+    },
+    {
+      "title": "live-at-the-lowry: [Applause] [Music] It's always difficult to know",
+      "why_it_works": "Long pause (2.86s) before this beat in Stewart Lee - Live At The Lowry. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-live-at-the-lowry",
+      "t_start_s": 11.71,
+      "pause_before_s": 2.86
+    },
+    {
+      "title": "live-at-the-lowry: and he said know it isn't that",
+      "why_it_works": "Long pause (2.44s) before this beat in Stewart Lee - Live At The Lowry. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-live-at-the-lowry",
+      "t_start_s": 83.44,
+      "pause_before_s": 2.44
+    },
+    {
+      "title": "live-at-the-lowry: you can stay right but I don't",
+      "why_it_works": "Long pause (2.2s) before this beat in Stewart Lee - Live At The Lowry. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-live-at-the-lowry",
+      "t_start_s": 158.08,
+      "pause_before_s": 2.2
+    },
+    {
+      "title": "stand-up-comedian-2005-live: so on September the 11th 2001 [Laughter]",
+      "why_it_works": "Long pause (3.8s) before this beat in Stewart Lee - Stand up Comedian  (FULL). Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-stand-up-comedian-2005-live",
+      "t_start_s": 145.6,
+      "pause_before_s": 3.8
+    },
+    {
+      "title": "stand-up-comedian-2005-live: [Music] e [Music] [Applause] [Music] [Applause] thank",
+      "why_it_works": "Long pause (3.75s) before this beat in Stewart Lee - Stand up Comedian  (FULL). Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-stand-up-comedian-2005-live",
+      "t_start_s": 21.7,
+      "pause_before_s": 3.75
+    },
+    {
+      "title": "stand-up-comedian-2005-live: C and it was yellow smell of",
+      "why_it_works": "Long pause (3.56s) before this beat in Stewart Lee - Stand up Comedian  (FULL). Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-stand-up-comedian-2005-live",
+      "t_start_s": 339.84,
+      "pause_before_s": 3.56
+    },
+    {
+      "title": "stand-up-comedian-2005-live: matter and then I watched for a",
+      "why_it_works": "Long pause (2.84s) before this beat in Stewart Lee - Stand up Comedian  (FULL). Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-stand-up-comedian-2005-live",
+      "t_start_s": 235.64,
+      "pause_before_s": 2.84
+    },
+    {
+      "title": "stand-up-comedian-2005-live: [Applause] [Music] [Applause] [Music] [Applause] [Music] [Ap",
+      "why_it_works": "Long pause (2.24s) before this beat in Stewart Lee - Stand up Comedian  (FULL). Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-stand-up-comedian-2005-live",
+      "t_start_s": 101.68,
+      "pause_before_s": 2.24
+    },
+    {
+      "title": "90s-comedian-2006-live: Thank you. [applause] Ah, it's great to",
+      "why_it_works": "Long pause (4.29s) before this beat in Stewart Lee: 2006. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-90s-comedian-2006-live",
+      "t_start_s": 6.96,
+      "pause_before_s": 4.29
+    },
+    {
+      "title": "90s-comedian-2006-live: And the next one was from a",
+      "why_it_works": "Long pause (2.55s) before this beat in Stewart Lee: 2006. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-90s-comedian-2006-live",
+      "t_start_s": 241.68,
+      "pause_before_s": 2.55
+    },
+    {
+      "title": "90s-comedian-2006-live: Joe Pasquali goes into a bar. [laughter]",
+      "why_it_works": "Long pause (1.96s) before this beat in Stewart Lee: 2006. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-90s-comedian-2006-live",
+      "t_start_s": 857.92,
+      "pause_before_s": 1.96
+    },
+    {
+      "title": "90s-comedian-2006-live: I was lying naked on a slab",
+      "why_it_works": "Long pause (1.64s) before this beat in Stewart Lee: 2006. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-90s-comedian-2006-live",
+      "t_start_s": 535.12,
+      "pause_before_s": 1.64
+    },
+    {
+      "title": "90s-comedian-2006-live: Now, I think that is the greatest",
+      "why_it_works": "Long pause (1.56s) before this beat in Stewart Lee: 2006. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-90s-comedian-2006-live",
+      "t_start_s": 660.64,
+      "pause_before_s": 1.56
+    },
+    {
+      "title": "comedy-vehicle-s1e4-financial-crisis: [screaming] >> IT'S TAKEN YOU JUST UNDER AN",
+      "why_it_works": "Long pause (15.67s) before this beat in comedy-vehicle-s1e4-financial-crisis. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e4-financial-crisis",
+      "t_start_s": 447.37,
+      "pause_before_s": 15.67
+    },
+    {
+      "title": "comedy-vehicle-s1e4-financial-crisis: [applause] [applause] >> Thank you. Thank you. Thank",
+      "why_it_works": "Long pause (8.46s) before this beat in comedy-vehicle-s1e4-financial-crisis. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e4-financial-crisis",
+      "t_start_s": 47.81,
+      "pause_before_s": 8.46
+    },
+    {
+      "title": "comedy-vehicle-s1e4-financial-crisis: [music] [applause] [applause] >> Thank you. Thank you.",
+      "why_it_works": "Long pause (7.81s) before this beat in comedy-vehicle-s1e4-financial-crisis. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e4-financial-crisis",
+      "t_start_s": 37.34,
+      "pause_before_s": 7.81
+    },
+    {
+      "title": "comedy-vehicle-s1e4-financial-crisis: >> [music] [music] [applause] [applause] >> Thank you. Thank",
+      "why_it_works": "Long pause (6.47s) before this beat in comedy-vehicle-s1e4-financial-crisis. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e4-financial-crisis",
+      "t_start_s": 27.51,
+      "pause_before_s": 6.47
+    },
+    {
+      "title": "comedy-vehicle-s1e4-financial-crisis: >> Yes, they're applauding you. They're applauding you",
+      "why_it_works": "Long pause (3.42s) before this beat in comedy-vehicle-s1e4-financial-crisis. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e4-financial-crisis",
+      "t_start_s": 525.52,
+      "pause_before_s": 3.42
+    },
+    {
+      "title": "comedy-vehicle-jeremy-corbyn: All through the election, we were played",
+      "why_it_works": "Long pause (3.64s) before this beat in Stewart Lee Comedy Vehicle - Jeremy Corbyn. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-jeremy-corbyn",
+      "t_start_s": 117.0,
+      "pause_before_s": 3.64
+    },
+    {
+      "title": "comedy-vehicle-jeremy-corbyn: Two jokes there, aren't they? Did you",
+      "why_it_works": "Long pause (3.56s) before this beat in Stewart Lee Comedy Vehicle - Jeremy Corbyn. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-jeremy-corbyn",
+      "t_start_s": 189.56,
+      "pause_before_s": 3.56
+    },
+    {
+      "title": "comedy-vehicle-jeremy-corbyn: Well, you know, it's it's had a",
+      "why_it_works": "Long pause (3.36s) before this beat in Stewart Lee Comedy Vehicle - Jeremy Corbyn. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-jeremy-corbyn",
+      "t_start_s": 282.16,
+      "pause_before_s": 3.36
+    },
+    {
+      "title": "comedy-vehicle-jeremy-corbyn: You grow older, your tastes change, don't",
+      "why_it_works": "Long pause (2.36s) before this beat in Stewart Lee Comedy Vehicle - Jeremy Corbyn. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-jeremy-corbyn",
+      "t_start_s": 553.6,
+      "pause_before_s": 2.36
+    },
+    {
+      "title": "comedy-vehicle-jeremy-corbyn: Your seat, that's the ghetto. Well, you",
+      "why_it_works": "Long pause (2.16s) before this beat in Stewart Lee Comedy Vehicle - Jeremy Corbyn. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-jeremy-corbyn",
+      "t_start_s": 274.96,
+      "pause_before_s": 2.16
+    },
+    {
+      "title": "comedy-vehicle-s1e5-comedy: Thank you very much. I'm Stuart Lee. Welcome",
+      "why_it_works": "Long pause (31.24s) before this beat in comedy-vehicle-s1e5-comedy. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e5-comedy",
+      "t_start_s": 48.0,
+      "pause_before_s": 31.24
+    },
+    {
+      "title": "comedy-vehicle-s1e5-comedy: But historically, American comics were the masters",
+      "why_it_works": "Long pause (3.64s) before this beat in comedy-vehicle-s1e5-comedy. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e5-comedy",
+      "t_start_s": 272.8,
+      "pause_before_s": 3.64
+    },
+    {
+      "title": "comedy-vehicle-s1e5-comedy: One person applauding that. And of course,",
+      "why_it_works": "Long pause (2.76s) before this beat in comedy-vehicle-s1e5-comedy. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e5-comedy",
+      "t_start_s": 152.96,
+      "pause_before_s": 2.76
+    },
+    {
+      "title": "comedy-vehicle-s1e5-comedy: But it is the hardest job in",
+      "why_it_works": "Long pause (2.68s) before this beat in comedy-vehicle-s1e5-comedy. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e5-comedy",
+      "t_start_s": 131.44,
+      "pause_before_s": 2.68
+    },
+    {
+      "title": "comedy-vehicle-s1e5-comedy: Nice mash. Are you sure you boiled",
+      "why_it_works": "Long pause (2.12s) before this beat in comedy-vehicle-s1e5-comedy. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e5-comedy",
+      "t_start_s": 570.72,
+      "pause_before_s": 2.12
+    },
+    {
+      "title": "comedy-vehicle-dead-mouse: >> It's quite complicated, isn't it being you?",
+      "why_it_works": "Long pause (3.4s) before this beat in Stewart Lee Comedy Vehicle - Dead Mouse. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-dead-mouse",
+      "t_start_s": 307.76,
+      "pause_before_s": 3.4
+    },
+    {
+      "title": "comedy-vehicle-dead-mouse: I could do a sad, meaningful, award-winning",
+      "why_it_works": "Long pause (3.24s) before this beat in Stewart Lee Comedy Vehicle - Dead Mouse. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-dead-mouse",
+      "t_start_s": 449.04,
+      "pause_before_s": 3.24
+    },
+    {
+      "title": "comedy-vehicle-dead-mouse: throughout Scotland and the north generally. Don't",
+      "why_it_works": "Long pause (3.0s) before this beat in Stewart Lee Comedy Vehicle - Dead Mouse. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-dead-mouse",
+      "t_start_s": 198.16,
+      "pause_before_s": 3.0
+    },
+    {
+      "title": "comedy-vehicle-dead-mouse: And I thought what an amazing cosmic",
+      "why_it_works": "Long pause (2.76s) before this beat in Stewart Lee Comedy Vehicle - Dead Mouse. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-dead-mouse",
+      "t_start_s": 49.84,
+      "pause_before_s": 2.76
+    },
+    {
+      "title": "comedy-vehicle-dead-mouse: We warned Gran about taunting that cat.",
+      "why_it_works": "Long pause (1.96s) before this beat in Stewart Lee Comedy Vehicle - Dead Mouse. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-dead-mouse",
+      "t_start_s": 237.04,
+      "pause_before_s": 1.96
+    },
+    {
+      "title": "comedy-vehicle-s1e6-religion: Thank you very much. Thank you. Welcome uh",
+      "why_it_works": "Long pause (20.28s) before this beat in Stewart Lee Comedy Vehicle  - 1.6 Religion. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e6-religion",
+      "t_start_s": 37.84,
+      "pause_before_s": 20.28
+    },
+    {
+      "title": "comedy-vehicle-s1e6-religion: Most jokes about religion, as I say,",
+      "why_it_works": "Long pause (11.88s) before this beat in Stewart Lee Comedy Vehicle  - 1.6 Religion. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e6-religion",
+      "t_start_s": 248.56,
+      "pause_before_s": 11.88
+    },
+    {
+      "title": "comedy-vehicle-s1e6-religion: >> I don't know if I'm the right",
+      "why_it_works": "Long pause (11.72s) before this beat in Stewart Lee Comedy Vehicle  - 1.6 Religion. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e6-religion",
+      "t_start_s": 115.92,
+      "pause_before_s": 11.72
+    },
+    {
+      "title": "comedy-vehicle-s1e6-religion: Heat. Thank you very much. Thank you. Welcome",
+      "why_it_works": "Long pause (11.56s) before this beat in Stewart Lee Comedy Vehicle  - 1.6 Religion. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e6-religion",
+      "t_start_s": 14.56,
+      "pause_before_s": 11.56
+    },
+    {
+      "title": "comedy-vehicle-s1e6-religion: For me, Lauren Hardy's seaside Greek Orthodox",
+      "why_it_works": "Long pause (11.48s) before this beat in Stewart Lee Comedy Vehicle  - 1.6 Religion. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e6-religion",
+      "t_start_s": 312.08,
+      "pause_before_s": 11.48
+    },
+    {
+      "title": "comedy-vehicle-s1e2-television: [applause] >> Thank you. Thank you. Thank you.",
+      "why_it_works": "Long pause (5.84s) before this beat in Stewart Lee Comedy Vehicle -  1.2 Television. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e2-television",
+      "t_start_s": 48.47,
+      "pause_before_s": 5.84
+    },
+    {
+      "title": "comedy-vehicle-s1e2-television: [music] [music] [applause] >> Thank you. Thank you.",
+      "why_it_works": "Long pause (5.19s) before this beat in Stewart Lee Comedy Vehicle -  1.2 Television. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e2-television",
+      "t_start_s": 33.41,
+      "pause_before_s": 5.19
+    },
+    {
+      "title": "comedy-vehicle-s1e2-television: [music] [applause] >> Thank you. Thank you. Thank",
+      "why_it_works": "Long pause (5.19s) before this beat in Stewart Lee Comedy Vehicle -  1.2 Television. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e2-television",
+      "t_start_s": 40.61,
+      "pause_before_s": 5.19
+    },
+    {
+      "title": "comedy-vehicle-s1e2-television: [music] [music] [music] [applause] >> Thank you. Thank",
+      "why_it_works": "Long pause (3.88s) before this beat in Stewart Lee Comedy Vehicle -  1.2 Television. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e2-television",
+      "t_start_s": 26.2,
+      "pause_before_s": 3.88
+    },
+    {
+      "title": "comedy-vehicle-s1e2-television: >> Music, movies, and arts tomorrow at 10:00",
+      "why_it_works": "Long pause (3.45s) before this beat in Stewart Lee Comedy Vehicle -  1.2 Television. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "stewart-lee-comedy-vehicle-s1e2-television",
+      "t_start_s": 11.36,
+      "pause_before_s": 3.45
     }
   ],
   "generation": {
@@ -418,6 +2095,86 @@
       "imdb_rating": 5.4,
       "imdb_votes": 830,
       "transcript": "tewart-ee-arpet-emnant-orld-2012-ull-ranscript.txt"
+    },
+    {
+      "special": "carpet-remnant-world-2012-live",
+      "title": "carpet-remnant-world-2012-live",
+      "source": "r2:comedians/stewart-lee/specials/carpet-remnant-world-2012-live.json",
+      "n_words": 14998,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-carpet-remnant-world-2012-live_analysis.json"
+    },
+    {
+      "special": "live-at-the-lowry",
+      "title": "Stewart Lee - Live At The Lowry",
+      "source": "r2:comedians/stewart-lee/specials/live-at-the-lowry.json",
+      "n_words": 12478,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-live-at-the-lowry_analysis.json"
+    },
+    {
+      "special": "stand-up-comedian-2005-live",
+      "title": "Stewart Lee - Stand up Comedian  (FULL)",
+      "source": "r2:comedians/stewart-lee/specials/stand-up-comedian-2005-live.json",
+      "n_words": 10957,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-stand-up-comedian-2005-live_analysis.json"
+    },
+    {
+      "special": "90s-comedian-2006-live",
+      "title": "Stewart Lee: 2006",
+      "source": "r2:comedians/stewart-lee/specials/90s-comedian-2006-live.json",
+      "n_words": 10399,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-90s-comedian-2006-live_analysis.json"
+    },
+    {
+      "special": "comedy-vehicle-s1e4-financial-crisis",
+      "title": "comedy-vehicle-s1e4-financial-crisis",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e4-financial-crisis.json",
+      "n_words": 4095,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-comedy-vehicle-s1e4-financial-crisis_analysis.json"
+    },
+    {
+      "special": "comedy-vehicle-jeremy-corbyn",
+      "title": "Stewart Lee Comedy Vehicle - Jeremy Corbyn",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-jeremy-corbyn.json",
+      "n_words": 4016,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-comedy-vehicle-jeremy-corbyn_analysis.json"
+    },
+    {
+      "special": "comedy-vehicle-s1e5-comedy",
+      "title": "comedy-vehicle-s1e5-comedy",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e5-comedy.json",
+      "n_words": 3913,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-comedy-vehicle-s1e5-comedy_analysis.json"
+    },
+    {
+      "special": "comedy-vehicle-dead-mouse",
+      "title": "Stewart Lee Comedy Vehicle - Dead Mouse",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-dead-mouse.json",
+      "n_words": 3678,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-comedy-vehicle-dead-mouse_analysis.json"
+    },
+    {
+      "special": "comedy-vehicle-s1e6-religion",
+      "title": "Stewart Lee Comedy Vehicle  - 1.6 Religion",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e6-religion.json",
+      "n_words": 3611,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-comedy-vehicle-s1e6-religion_analysis.json"
+    },
+    {
+      "special": "comedy-vehicle-s1e2-television",
+      "title": "Stewart Lee Comedy Vehicle -  1.2 Television",
+      "source": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e2-television.json",
+      "n_words": 3371,
+      "words_timed": true,
+      "analysis": "analysis/stewart-lee-comedy-vehicle-s1e2-television_analysis.json"
     }
   ],
   "humor_type": {
@@ -431,31 +2188,28 @@
     "method": "archetype+theories+transcript"
   },
   "youtube": {
-    "clips": 6,
-    "total_views": 12951478,
-    "total_likes": 106156,
-    "avg_views": 2158579,
-    "like_rate": 0.0082,
+    "clips": 1,
+    "total_views": 202296,
+    "timed_clips": 1,
+    "r2_linked": true,
     "top_clip": {
-      "videoId": "IGPpaKReRho",
-      "title": "David close to tears laughing at Lee is peak #wilty! #davidmitchell #leemack #britishcomedy",
-      "channel": "Would I Lie To You?",
-      "publishedAt": "2023-10-07",
-      "views": 4023164,
-      "likes": 51042,
-      "comments": 324,
-      "duration_s": 59
+      "videoId": "i577LmfHOsk",
+      "title": "Stewart Lee - How Long Is A Piece Of String?",
+      "views": 202296,
+      "duration_s": 178,
+      "url": "https://www.youtube.com/watch?v=i577LmfHOsk",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/stewart-lee/clips/stewart-lee-i577lmfhosk.json"
     }
   },
   "metrics": {
     "legacy": 83.1,
     "legacy_era": 89.6,
     "audience": 87.5,
-    "popularity": 64.1,
-    "theory": 50.0,
+    "popularity": 87.4,
+    "theory": 87.5,
     "heat": null,
-    "gap_value": -0.234,
-    "overrated": "underrated",
+    "gap_value": -0.001,
+    "overrated": "accurately rated",
     "canon_lag": 0.044
   },
   "tier": "king",
@@ -509,16 +2263,16 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 72.2,
+    "headline": 88.2,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 6,
-        "pct": 72.2,
+        "rank": 5,
+        "pct": 88.2,
         "sweep": [
           5,
-          6
+          5
         ]
       },
       "consensus": {
@@ -541,9 +2295,9 @@
     },
     "interval": {
       "lo": 5,
-      "hi": 6
+      "hi": 5
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -570,5 +2324,23 @@
       "standup comedy"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 1,
+    "r2_specials": 14
+  },
+  "transcripts": {
+    "clip_words": 452,
+    "special_words": 127364,
+    "timed_clips": 1,
+    "timed_specials": 10,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18",
+  "last_ingest": "2026-10-18"
 }

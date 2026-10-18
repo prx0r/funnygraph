@@ -1,0 +1,38 @@
+{
+ "comedian_id": "dinesh-nathan",
+ "name": "Dinesh Nathan",
+ "clips": 1,
+ "total_views": 32000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "8moGJLf1bu8",
+  "title": "Call Centre Revenge | Dinesh Nathan | Live at The Bearcat  #standupcomedy #comedy #comedian #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 32000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=8moGJLf1bu8",
+  "r2_clip_key": "comedians/dinesh-nathan/clips/dinesh-nathan-8mogjlf1bu8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dinesh-nathan/clips/dinesh-nathan-8mogjlf1bu8.json"
+ },
+ "rows": [
+  {
+   "videoId": "8moGJLf1bu8",
+   "title": "Call Centre Revenge | Dinesh Nathan | Live at The Bearcat  #standupcomedy #comedy #comedian #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 32000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=8moGJLf1bu8",
+   "n_words": 63,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I love having this voice but an Asian name. Do you know what I mean? Like, you know what I thought would be really fun to do is like get a job in a call center in the UK and just start failing around ",
+   "r2_clip_key": "comedians/dinesh-nathan/clips/dinesh-nathan-8mogjlf1bu8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dinesh-nathan/clips/dinesh-nathan-8mogjlf1bu8.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

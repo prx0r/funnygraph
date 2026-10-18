@@ -1,0 +1,38 @@
+{
+ "comedian_id": "cipha-sounds",
+ "name": "CIPHA SOUNDS",
+ "clips": 1,
+ "total_views": 456,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "zR2-Hf1xmKY",
+  "title": "CIPHA SOUNDS - SHE CALLED ME A NASTY ASS B*TCH",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 456,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=zR2-Hf1xmKY",
+  "r2_clip_key": "comedians/cipha-sounds/clips/cipha-sounds-zr2-hf1xmky.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cipha-sounds/clips/cipha-sounds-zr2-hf1xmky.json"
+ },
+ "rows": [
+  {
+   "videoId": "zR2-Hf1xmKY",
+   "title": "CIPHA SOUNDS - SHE CALLED ME A NASTY ASS B*TCH",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 456,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=zR2-Hf1xmKY",
+   "n_words": 292,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Say it again. Say what the [\u00a0__\u00a0] you said. BUT BEFORE THAT WHAT WAS What Why was I a nasty ass [\u00a0__\u00a0] Oh, okay. Okay. Thanks for explaining. >> [laughter] >> Cuz you are Cuz you are to [\u00a0__\u00a0] Gen Z e",
+   "r2_clip_key": "comedians/cipha-sounds/clips/cipha-sounds-zr2-hf1xmky.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cipha-sounds/clips/cipha-sounds-zr2-hf1xmky.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

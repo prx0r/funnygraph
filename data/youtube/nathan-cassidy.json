@@ -1,0 +1,38 @@
+{
+ "comedian_id": "nathan-cassidy",
+ "name": "Nathan Cassidy",
+ "clips": 1,
+ "total_views": 228,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "52CiCWZrL-0",
+  "title": "ISH Edinburgh Comedy Awards Ceremony highlights",
+  "channel": "Nathan Cassidy",
+  "views": 228,
+  "duration_s": 140,
+  "url": "https://www.youtube.com/watch?v=52CiCWZrL-0",
+  "r2_clip_key": "comedians/nathan-cassidy/clips/nathan-cassidy-52cicwzrl-0.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nathan-cassidy/clips/nathan-cassidy-52cicwzrl-0.json"
+ },
+ "rows": [
+  {
+   "videoId": "52CiCWZrL-0",
+   "title": "ISH Edinburgh Comedy Awards Ceremony highlights",
+   "channel": "Nathan Cassidy",
+   "views": 228,
+   "likes": null,
+   "duration_s": 140,
+   "url": "https://www.youtube.com/watch?v=52CiCWZrL-0",
+   "n_words": 214,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "is Awards 2023 the guy with the checkbook please put on together [Laughter] and please welcome the lovely Series yeah [Applause] as well and even more delighted that they moved their sound [Laughter] ",
+   "r2_clip_key": "comedians/nathan-cassidy/clips/nathan-cassidy-52cicwzrl-0.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nathan-cassidy/clips/nathan-cassidy-52cicwzrl-0.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

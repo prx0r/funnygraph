@@ -1,132 +1,1523 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "earl-skakel",
-  "name": "Earl Skakel",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "discover.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "youtube-uploads:kill-tony"
-    ],
-    "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
-    "evidence": [
-      {
-        "videoId": "xjh8ZL0Irw8",
-        "title": "Kill Tony #180 - Jim Norton, Sam Roberts & Earl Skakel",
-        "views": 120336,
-        "publishedAt": "2016-12-15"
-      }
-    ],
-    "subs": "unknown (performer channel unregistered)",
-    "region_method": "venue-scene (overwrite on origin evidence)"
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
-  },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 82.8,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCgxDnm5ESjRkscTawvvXDbw",
-    "handle": "earlskakel",
-    "title": "Earl Skakel",
-    "subs": 29300,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "active",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-16",
-    "name_match_rate": 1.0,
-    "other_names": []
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "hans-kim",
-      "sim": 0.089
-    },
-    {
-      "comedian_id": "cam-patterson",
-      "sim": 0.087
-    },
-    {
-      "comedian_id": "william-montgomery",
-      "sim": 0.068
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "earl-skakel",
+ "name": "Earl Skakel",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "discover.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "youtube-uploads:kill-tony"
   ],
-  "website": {
-    "url": "https://earlskakel.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
+  "discovery_note": "Name-mined from kill-tony uploads (registry playlist, no search).",
+  "evidence": [
+   {
+    "videoId": "xjh8ZL0Irw8",
+    "title": "Kill Tony #180 - Jim Norton, Sam Roberts & Earl Skakel",
+    "views": 120336,
+    "publishedAt": "2016-12-15"
+   }
+  ],
+  "subs": "unknown (performer channel unregistered)",
+  "region_method": "venue-scene (overwrite on origin evidence)"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 95.0,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "region": "us",
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "literalise",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "hans-kim",
-    "sim": 0.089,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCgxDnm5ESjRkscTawvvXDbw",
+  "handle": "earlskakel",
+  "title": "Earl Skakel",
+  "subs": 29300,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "active",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-16",
+  "name_match_rate": 1.0,
+  "other_names": []
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "hans-kim",
+   "sim": 0.089
+  },
+  {
+   "comedian_id": "cam-patterson",
+   "sim": 0.087
+  },
+  {
+   "comedian_id": "william-montgomery",
+   "sim": 0.068
   }
+ ],
+ "website": {
+  "url": "https://earlskakel.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "region": "us",
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "literalise",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "hans-kim",
+  "sim": 0.089,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "bio": {
+  "wikidata_id": "Q95193354",
+  "dob": null,
+  "dod": null,
+  "birthplace": null,
+  "citizenship": "United States",
+  "occupations": [
+   "actor",
+   "comedian"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "LCp56VOzbLM",
+   "title": "Earl Skakel Investigates Late Night Car Chase",
+   "duration_s": 3660,
+   "views": 63677,
+   "url": "https://www.youtube.com/watch?v=LCp56VOzbLM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "njBQRyc9FAs",
+   "title": "Earl Skakel is live!",
+   "duration_s": 2525,
+   "views": 15418,
+   "url": "https://www.youtube.com/watch?v=njBQRyc9FAs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pcCp-oyzTGw",
+   "title": "Earl Skakel is live!",
+   "duration_s": 3722,
+   "views": 80382,
+   "url": "https://www.youtube.com/watch?v=pcCp-oyzTGw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "gqS_aCbVHTQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5446,
+   "views": 61988,
+   "url": "https://www.youtube.com/watch?v=gqS_aCbVHTQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "uaXNaekYoes",
+   "title": "Earl Skakel is live!",
+   "duration_s": 9005,
+   "views": 82967,
+   "url": "https://www.youtube.com/watch?v=uaXNaekYoes",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "b8N74xBr5ic",
+   "title": "Earl Skakel Investigates With A Bonus End Of Car Chase",
+   "duration_s": 6131,
+   "views": 202087,
+   "url": "https://www.youtube.com/watch?v=b8N74xBr5ic",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "zVw9_AA_Ex0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 2031,
+   "views": 37201,
+   "url": "https://www.youtube.com/watch?v=zVw9_AA_Ex0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "cD9b77Z1CZI",
+   "title": "Earl Skakel Investigates A Horse Chase",
+   "duration_s": 4456,
+   "views": 54432,
+   "url": "https://www.youtube.com/watch?v=cD9b77Z1CZI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "gxn0Pn4vTB0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3635,
+   "views": 64726,
+   "url": "https://www.youtube.com/watch?v=gxn0Pn4vTB0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8phbJYG804o",
+   "title": "Earl Skakel Investigates Police Chase Stolen Vehicle WITH KIDS!!!!",
+   "duration_s": 8701,
+   "views": 114103,
+   "url": "https://www.youtube.com/watch?v=8phbJYG804o",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ltYQLA9nd_8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 11804,
+   "views": 242182,
+   "url": "https://www.youtube.com/watch?v=ltYQLA9nd_8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GyZ9NbYiz6g",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6115,
+   "views": 187881,
+   "url": "https://www.youtube.com/watch?v=GyZ9NbYiz6g",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "OT_oAEli6cA",
+   "title": "Earl Skakel Investigates BONUS Car Chase",
+   "duration_s": 4515,
+   "views": 43033,
+   "url": "https://www.youtube.com/watch?v=OT_oAEli6cA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "qtuuagy2Zck",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7410,
+   "views": 193913,
+   "url": "https://www.youtube.com/watch?v=qtuuagy2Zck",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "fCHrvAlu_Dw",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4246,
+   "views": 147146,
+   "url": "https://www.youtube.com/watch?v=fCHrvAlu_Dw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2Xdjod0qXAA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8405,
+   "views": 107716,
+   "url": "https://www.youtube.com/watch?v=2Xdjod0qXAA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "JJjlyvOfpd0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 9201,
+   "views": 114370,
+   "url": "https://www.youtube.com/watch?v=JJjlyvOfpd0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "YvsT4jqY89Q",
+   "title": "Earl Skakel is live!",
+   "duration_s": 5401,
+   "views": 115632,
+   "url": "https://www.youtube.com/watch?v=YvsT4jqY89Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vYzZQK3fK_U",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5455,
+   "views": 118429,
+   "url": "https://www.youtube.com/watch?v=vYzZQK3fK_U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "O171tHSWYKE",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3630,
+   "views": 108714,
+   "url": "https://www.youtube.com/watch?v=O171tHSWYKE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3WQ-CijPnPE",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5405,
+   "views": 73242,
+   "url": "https://www.youtube.com/watch?v=3WQ-CijPnPE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "XQdgQv9glcs",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6321,
+   "views": 90741,
+   "url": "https://www.youtube.com/watch?v=XQdgQv9glcs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Vwx6cSeEtzM",
+   "title": "Earl Skakel is live!",
+   "duration_s": 7559,
+   "views": 45293,
+   "url": "https://www.youtube.com/watch?v=Vwx6cSeEtzM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "eSZQAH2fUTw",
+   "title": "Earl Skakel is live!",
+   "duration_s": 3681,
+   "views": 87736,
+   "url": "https://www.youtube.com/watch?v=eSZQAH2fUTw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SyF_Bk8QrYA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8935,
+   "views": 208685,
+   "url": "https://www.youtube.com/watch?v=SyF_Bk8QrYA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "G_3DYkzab9M",
+   "title": "Earl Skakel Investigates BONUS Car Chase",
+   "duration_s": 5395,
+   "views": 191873,
+   "url": "https://www.youtube.com/watch?v=G_3DYkzab9M",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RfBTXSbtwHE",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7558,
+   "views": 204788,
+   "url": "https://www.youtube.com/watch?v=RfBTXSbtwHE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "bHzZQyLNylQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5500,
+   "views": 87244,
+   "url": "https://www.youtube.com/watch?v=bHzZQyLNylQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ooTBF-GhVB8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6520,
+   "views": 179572,
+   "url": "https://www.youtube.com/watch?v=ooTBF-GhVB8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "gPAJZSBEMEc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3791,
+   "views": 50939,
+   "url": "https://www.youtube.com/watch?v=gPAJZSBEMEc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RdVc4f6B8h0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5421,
+   "views": 275980,
+   "url": "https://www.youtube.com/watch?v=RdVc4f6B8h0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "fRoEfFviy7A",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3980,
+   "views": 101440,
+   "url": "https://www.youtube.com/watch?v=fRoEfFviy7A",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "cdKXaycXUFo",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 10800,
+   "views": 237283,
+   "url": "https://www.youtube.com/watch?v=cdKXaycXUFo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "q0tav3GNock",
+   "title": "Earl Skakel Investigates Northridge Shooting",
+   "duration_s": 3825,
+   "views": 155633,
+   "url": "https://www.youtube.com/watch?v=q0tav3GNock",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "oomv_E4zN7s",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 10808,
+   "views": 300673,
+   "url": "https://www.youtube.com/watch?v=oomv_E4zN7s",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "bqJj22wo7fg",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 2048,
+   "views": 29684,
+   "url": "https://www.youtube.com/watch?v=bqJj22wo7fg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EdDuPDdUJgg",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 15050,
+   "views": 334600,
+   "url": "https://www.youtube.com/watch?v=EdDuPDdUJgg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "qswJYkS4OWk",
+   "title": "Earl Skakel Investigates A Car Chase",
+   "duration_s": 5625,
+   "views": 230084,
+   "url": "https://www.youtube.com/watch?v=qswJYkS4OWk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Qm6PbV-rlVc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 10850,
+   "views": 203768,
+   "url": "https://www.youtube.com/watch?v=Qm6PbV-rlVc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CF6AfZUSVT8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5470,
+   "views": 124371,
+   "url": "https://www.youtube.com/watch?v=CF6AfZUSVT8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yTR-0v25sks",
+   "title": "Earl Skakel Investigates   A zZz",
+   "duration_s": 8416,
+   "views": 172896,
+   "url": "https://www.youtube.com/watch?v=yTR-0v25sks",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HnPPO9V4DWU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 9226,
+   "views": 928850,
+   "url": "https://www.youtube.com/watch?v=HnPPO9V4DWU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NNX8wI9aUJo",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6135,
+   "views": 70627,
+   "url": "https://www.youtube.com/watch?v=NNX8wI9aUJo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "X_4GuPQVJnA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7094,
+   "views": 87072,
+   "url": "https://www.youtube.com/watch?v=X_4GuPQVJnA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "fp7uU-Au9MU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5549,
+   "views": 421254,
+   "url": "https://www.youtube.com/watch?v=fp7uU-Au9MU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "iYxXI2O8eKo",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4244,
+   "views": 121130,
+   "url": "https://www.youtube.com/watch?v=iYxXI2O8eKo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "hJgfPghqVcs",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6000,
+   "views": 129456,
+   "url": "https://www.youtube.com/watch?v=hJgfPghqVcs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xRQHNBPGYmQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7655,
+   "views": 303051,
+   "url": "https://www.youtube.com/watch?v=xRQHNBPGYmQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "kSv9J3OLZQQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4226,
+   "views": 266852,
+   "url": "https://www.youtube.com/watch?v=kSv9J3OLZQQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xbhkHv_-NxY",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6100,
+   "views": 330145,
+   "url": "https://www.youtube.com/watch?v=xbhkHv_-NxY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GGPcGzWLL2Y",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7463,
+   "views": 322589,
+   "url": "https://www.youtube.com/watch?v=GGPcGzWLL2Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "VOslkY_kE1Y",
+   "title": "Earl Skakel Investigates I get better it's just like I just don't \ufffc",
+   "duration_s": 7206,
+   "views": 638458,
+   "url": "https://www.youtube.com/watch?v=VOslkY_kE1Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "K83x_MTmLdQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4216,
+   "views": 338703,
+   "url": "https://www.youtube.com/watch?v=K83x_MTmLdQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GJlHDFpfRk8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3921,
+   "views": 177448,
+   "url": "https://www.youtube.com/watch?v=GJlHDFpfRk8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "b4Tu6RATIS0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7616,
+   "views": 229043,
+   "url": "https://www.youtube.com/watch?v=b4Tu6RATIS0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "_4NwkaKqn1o",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3865,
+   "views": 298675,
+   "url": "https://www.youtube.com/watch?v=_4NwkaKqn1o",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "62ERdgak3G0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4631,
+   "views": 867757,
+   "url": "https://www.youtube.com/watch?v=62ERdgak3G0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CXS7yWd4HSA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3710,
+   "views": 899755,
+   "url": "https://www.youtube.com/watch?v=CXS7yWd4HSA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "QIPVVad4lUU",
+   "title": "Earl Skakel is Investigates",
+   "duration_s": 5991,
+   "views": 564288,
+   "url": "https://www.youtube.com/watch?v=QIPVVad4lUU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "B3BN8ewoZTc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7215,
+   "views": 698474,
+   "url": "https://www.youtube.com/watch?v=B3BN8ewoZTc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "mFP9sal0czE",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7215,
+   "views": 552310,
+   "url": "https://www.youtube.com/watch?v=mFP9sal0czE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "l2HM-AXgvNk",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5561,
+   "views": 676792,
+   "url": "https://www.youtube.com/watch?v=l2HM-AXgvNk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ev3cEftedmM",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3591,
+   "views": 2129682,
+   "url": "https://www.youtube.com/watch?v=ev3cEftedmM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "iqr9Q0wBNro",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7230,
+   "views": 276595,
+   "url": "https://www.youtube.com/watch?v=iqr9Q0wBNro",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1neo6uW39AU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7216,
+   "views": 817221,
+   "url": "https://www.youtube.com/watch?v=1neo6uW39AU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "mmGg_-SyC0E",
+   "title": "Earl Skakel Investigates My Birthday",
+   "duration_s": 7694,
+   "views": 1199162,
+   "url": "https://www.youtube.com/watch?v=mmGg_-SyC0E",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ga05uflVycU",
+   "title": "Earl Skakel Investigates My Birthday",
+   "duration_s": 5418,
+   "views": 469372,
+   "url": "https://www.youtube.com/watch?v=ga05uflVycU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SElqUMkryQo",
+   "title": "Earl Skakel Investigates Birthday Stream",
+   "duration_s": 8510,
+   "views": 514538,
+   "url": "https://www.youtube.com/watch?v=SElqUMkryQo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "TXZsTenpYi8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3680,
+   "views": 304330,
+   "url": "https://www.youtube.com/watch?v=TXZsTenpYi8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WOqaYFJj9Og",
+   "title": "Earl Skakel is live!",
+   "duration_s": 3710,
+   "views": 431434,
+   "url": "https://www.youtube.com/watch?v=WOqaYFJj9Og",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Bg9PGAe_Dg0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 10402,
+   "views": 195593,
+   "url": "https://www.youtube.com/watch?v=Bg9PGAe_Dg0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "uZhicvQMRe8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3657,
+   "views": 181110,
+   "url": "https://www.youtube.com/watch?v=uZhicvQMRe8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "z_mLKJWXhHg",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7355,
+   "views": 531215,
+   "url": "https://www.youtube.com/watch?v=z_mLKJWXhHg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "v9sIFyIwNyA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7367,
+   "views": 688316,
+   "url": "https://www.youtube.com/watch?v=v9sIFyIwNyA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3ksqtxD29aI",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4511,
+   "views": 438027,
+   "url": "https://www.youtube.com/watch?v=3ksqtxD29aI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "FooDlJMZfgw",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3785,
+   "views": 321613,
+   "url": "https://www.youtube.com/watch?v=FooDlJMZfgw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pDD4Qs0qjkU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3851,
+   "views": 241217,
+   "url": "https://www.youtube.com/watch?v=pDD4Qs0qjkU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5Ev4LvqNAxc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3825,
+   "views": 564749,
+   "url": "https://www.youtube.com/watch?v=5Ev4LvqNAxc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "N7mX6NjWkFk",
+   "title": "Earl Skakel Investigates Late Night Car Chase",
+   "duration_s": 3000,
+   "views": 139009,
+   "url": "https://www.youtube.com/watch?v=N7mX6NjWkFk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "c6tU8TnUa-w",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6186,
+   "views": 348788,
+   "url": "https://www.youtube.com/watch?v=c6tU8TnUa-w",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0afIjxKRlao",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5471,
+   "views": 477112,
+   "url": "https://www.youtube.com/watch?v=0afIjxKRlao",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "LOEOGp5X_OQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7241,
+   "views": 789135,
+   "url": "https://www.youtube.com/watch?v=LOEOGp5X_OQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "d7cqOFqgmTs",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5416,
+   "views": 485095,
+   "url": "https://www.youtube.com/watch?v=d7cqOFqgmTs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "L2rtNgTC2U0",
+   "title": "Earl Skakel is live!",
+   "duration_s": 7335,
+   "views": 467814,
+   "url": "https://www.youtube.com/watch?v=L2rtNgTC2U0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ldDtBiuiZgs",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7311,
+   "views": 446827,
+   "url": "https://www.youtube.com/watch?v=ldDtBiuiZgs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8wCKASswn_k",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5410,
+   "views": 586838,
+   "url": "https://www.youtube.com/watch?v=8wCKASswn_k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "zrQm-2pZlgM",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7610,
+   "views": 756377,
+   "url": "https://www.youtube.com/watch?v=zrQm-2pZlgM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "z6kKJYU3qWI",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7506,
+   "views": 1272236,
+   "url": "https://www.youtube.com/watch?v=z6kKJYU3qWI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6bWvDQ3IMM8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7100,
+   "views": 241251,
+   "url": "https://www.youtube.com/watch?v=6bWvDQ3IMM8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "cu6J3rx4OqA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5412,
+   "views": 432230,
+   "url": "https://www.youtube.com/watch?v=cu6J3rx4OqA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UOZh2UznTbY",
+   "title": "Earl Skakel Investigates And BONUS Car Chase",
+   "duration_s": 7063,
+   "views": 662440,
+   "url": "https://www.youtube.com/watch?v=UOZh2UznTbY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "puXJT3OMdz4",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7325,
+   "views": 920723,
+   "url": "https://www.youtube.com/watch?v=puXJT3OMdz4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "mmfFb-3QdsE",
+   "title": "Earl Skakel Investigates Live Motorcycle Chase",
+   "duration_s": 5470,
+   "views": 923363,
+   "url": "https://www.youtube.com/watch?v=mmfFb-3QdsE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Ixm1_-4nqJI",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8255,
+   "views": 1788566,
+   "url": "https://www.youtube.com/watch?v=Ixm1_-4nqJI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NLOaZZWDhPw",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5421,
+   "views": 1173911,
+   "url": "https://www.youtube.com/watch?v=NLOaZZWDhPw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "a03RjicOSBI",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7894,
+   "views": 1462854,
+   "url": "https://www.youtube.com/watch?v=a03RjicOSBI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4niOX0GCaQg",
+   "title": "Earl Skakel Int",
+   "duration_s": 5395,
+   "views": 1221728,
+   "url": "https://www.youtube.com/watch?v=4niOX0GCaQg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "bQD6ND8k-30",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8071,
+   "views": 1265883,
+   "url": "https://www.youtube.com/watch?v=bQD6ND8k-30",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "e5edaxCh6N8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8722,
+   "views": 1072767,
+   "url": "https://www.youtube.com/watch?v=e5edaxCh6N8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "zRTAi1RQQhs",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3906,
+   "views": 531060,
+   "url": "https://www.youtube.com/watch?v=zRTAi1RQQhs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "BRzUdv2ZjaU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3900,
+   "views": 685477,
+   "url": "https://www.youtube.com/watch?v=BRzUdv2ZjaU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Tidmc5U1IB0",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 11216,
+   "views": 1081086,
+   "url": "https://www.youtube.com/watch?v=Tidmc5U1IB0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "LfVi0ygXyLU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4525,
+   "views": 898008,
+   "url": "https://www.youtube.com/watch?v=LfVi0ygXyLU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "GjxhT7xkXuw",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5733,
+   "views": 1193291,
+   "url": "https://www.youtube.com/watch?v=GjxhT7xkXuw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "KI67JIG1oMM",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4045,
+   "views": 925840,
+   "url": "https://www.youtube.com/watch?v=KI67JIG1oMM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rhf9AOtz9ac",
+   "title": "Earl Skakel is live!",
+   "duration_s": 5400,
+   "views": 714924,
+   "url": "https://www.youtube.com/watch?v=rhf9AOtz9ac",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RGFajVgxKwc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 10835,
+   "views": 1429271,
+   "url": "https://www.youtube.com/watch?v=RGFajVgxKwc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "z_1k-ALKoIo",
+   "title": "Earl Skakel Investigates Car Chase",
+   "duration_s": 7813,
+   "views": 1002783,
+   "url": "https://www.youtube.com/watch?v=z_1k-ALKoIo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1oTuC_pdVJ4",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7576,
+   "views": 759417,
+   "url": "https://www.youtube.com/watch?v=1oTuC_pdVJ4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SGi4lwVewqs",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7251,
+   "views": 759485,
+   "url": "https://www.youtube.com/watch?v=SGi4lwVewqs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4lVIUwgkkxc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5411,
+   "views": 639788,
+   "url": "https://www.youtube.com/watch?v=4lVIUwgkkxc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "W8GpFEzLg9Q",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7191,
+   "views": 815195,
+   "url": "https://www.youtube.com/watch?v=W8GpFEzLg9Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "t71OrMDuzOU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 11121,
+   "views": 1105680,
+   "url": "https://www.youtube.com/watch?v=t71OrMDuzOU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "scpwdYz_fV8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 10985,
+   "views": 1593218,
+   "url": "https://www.youtube.com/watch?v=scpwdYz_fV8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Py8J2VhGWlc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7706,
+   "views": 1078829,
+   "url": "https://www.youtube.com/watch?v=Py8J2VhGWlc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "JaBcSH-oPqg",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8371,
+   "views": 606806,
+   "url": "https://www.youtube.com/watch?v=JaBcSH-oPqg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jkzOcOJMj5k",
+   "title": "Earl Skakel Investigates Wild Car Chase",
+   "duration_s": 7335,
+   "views": 1000202,
+   "url": "https://www.youtube.com/watch?v=jkzOcOJMj5k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CS-Xv9W7ZTY",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 13195,
+   "views": 978711,
+   "url": "https://www.youtube.com/watch?v=CS-Xv9W7ZTY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IPIY67oX_A4",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7250,
+   "views": 624060,
+   "url": "https://www.youtube.com/watch?v=IPIY67oX_A4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IgVslYejzmc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4800,
+   "views": 895201,
+   "url": "https://www.youtube.com/watch?v=IgVslYejzmc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "96hJSkHV9pg",
+   "title": "Earl Skakel Investigates Motorcycle Police Chase LIVE",
+   "duration_s": 10880,
+   "views": 684470,
+   "url": "https://www.youtube.com/watch?v=96hJSkHV9pg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "QbOQLeNPurM",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8221,
+   "views": 556654,
+   "url": "https://www.youtube.com/watch?v=QbOQLeNPurM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "kIamE-kLQjk",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5475,
+   "views": 295466,
+   "url": "https://www.youtube.com/watch?v=kIamE-kLQjk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DLXEuJ3szaQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 10800,
+   "views": 665051,
+   "url": "https://www.youtube.com/watch?v=DLXEuJ3szaQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "c2IquqT7H90",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3240,
+   "views": 2854,
+   "url": "https://www.youtube.com/watch?v=c2IquqT7H90",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Cv21lCeQ0Xg",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 12814,
+   "views": 458870,
+   "url": "https://www.youtube.com/watch?v=Cv21lCeQ0Xg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "f2ngGW-ZA8A",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8023,
+   "views": 54715,
+   "url": "https://www.youtube.com/watch?v=f2ngGW-ZA8A",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PvxPTLb67kU",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5429,
+   "views": 63562,
+   "url": "https://www.youtube.com/watch?v=PvxPTLb67kU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0t7dmuvWovc",
+   "title": "Earl Skakel investigates",
+   "duration_s": 7215,
+   "views": 90295,
+   "url": "https://www.youtube.com/watch?v=0t7dmuvWovc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EvtEX8UG8Js",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5425,
+   "views": 137885,
+   "url": "https://www.youtube.com/watch?v=EvtEX8UG8Js",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PaJPoPaQ7ks",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4505,
+   "views": 41484,
+   "url": "https://www.youtube.com/watch?v=PaJPoPaQ7ks",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "d8gQshOsS40",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7255,
+   "views": 138741,
+   "url": "https://www.youtube.com/watch?v=d8gQshOsS40",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CJLmumN4oEk",
+   "title": "Earl Skakel Investigates LIVE Car Chase",
+   "duration_s": 7224,
+   "views": 137989,
+   "url": "https://www.youtube.com/watch?v=CJLmumN4oEk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "URPOke6SzCc",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5417,
+   "views": 70513,
+   "url": "https://www.youtube.com/watch?v=URPOke6SzCc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vyyYNndJPMY",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7317,
+   "views": 34493,
+   "url": "https://www.youtube.com/watch?v=vyyYNndJPMY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "eMBbHQrPXJ8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8492,
+   "views": 60894,
+   "url": "https://www.youtube.com/watch?v=eMBbHQrPXJ8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ObxfbFDbMNs",
+   "title": "Earl Skakel Investigated",
+   "duration_s": 4130,
+   "views": 63993,
+   "url": "https://www.youtube.com/watch?v=ObxfbFDbMNs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7W4o6bkl_6U",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4315,
+   "views": 5708,
+   "url": "https://www.youtube.com/watch?v=7W4o6bkl_6U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UKUPuq-mTbw",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 8100,
+   "views": 163736,
+   "url": "https://www.youtube.com/watch?v=UKUPuq-mTbw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1w2hRYlsqnA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5695,
+   "views": 179447,
+   "url": "https://www.youtube.com/watch?v=1w2hRYlsqnA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5xFuTMcbtXo",
+   "title": "Earl Skakel Investigates Live From The Cobra Apartment",
+   "duration_s": 4340,
+   "views": 18021,
+   "url": "https://www.youtube.com/watch?v=5xFuTMcbtXo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rzI67XWba7k",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4389,
+   "views": 255723,
+   "url": "https://www.youtube.com/watch?v=rzI67XWba7k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "b4iq7NWpV_M",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 9190,
+   "views": 161886,
+   "url": "https://www.youtube.com/watch?v=b4iq7NWpV_M",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "cfnmyLhxQMQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7251,
+   "views": 228216,
+   "url": "https://www.youtube.com/watch?v=cfnmyLhxQMQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yvfmF2cf38o",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 6130,
+   "views": 52863,
+   "url": "https://www.youtube.com/watch?v=yvfmF2cf38o",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4q9Z14fiHd4",
+   "title": "Earl Skakel Investigates 12000 Subs",
+   "duration_s": 2088,
+   "views": 9666,
+   "url": "https://www.youtube.com/watch?v=4q9Z14fiHd4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "tgAPXRhxBAM",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7810,
+   "views": 97644,
+   "url": "https://www.youtube.com/watch?v=tgAPXRhxBAM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jDknggOydmE",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7300,
+   "views": 35715,
+   "url": "https://www.youtube.com/watch?v=jDknggOydmE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "T07lhvjRajI",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7311,
+   "views": 141659,
+   "url": "https://www.youtube.com/watch?v=T07lhvjRajI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "V-afuJr4MHA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7331,
+   "views": 96141,
+   "url": "https://www.youtube.com/watch?v=V-afuJr4MHA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8oICeYNKSd8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7241,
+   "views": 73128,
+   "url": "https://www.youtube.com/watch?v=8oICeYNKSd8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PAvRQV18gsA",
+   "title": "Earl Skakel Investigates AEW Redemption",
+   "duration_s": 7402,
+   "views": 7630,
+   "url": "https://www.youtube.com/watch?v=PAvRQV18gsA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "b2utfsJWv7w",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7215,
+   "views": 26776,
+   "url": "https://www.youtube.com/watch?v=b2utfsJWv7w",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "eXgihLPmtIM",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4376,
+   "views": 13693,
+   "url": "https://www.youtube.com/watch?v=eXgihLPmtIM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Qdd1lcvNij4",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 2756,
+   "views": 7662,
+   "url": "https://www.youtube.com/watch?v=Qdd1lcvNij4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "FQi7k1GSGko",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7218,
+   "views": 80792,
+   "url": "https://www.youtube.com/watch?v=FQi7k1GSGko",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HppXaiwiyHA",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5569,
+   "views": 48595,
+   "url": "https://www.youtube.com/watch?v=HppXaiwiyHA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SULTeKAzC9w",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7205,
+   "views": 14038,
+   "url": "https://www.youtube.com/watch?v=SULTeKAzC9w",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "saSCbaq67a8",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7470,
+   "views": 241950,
+   "url": "https://www.youtube.com/watch?v=saSCbaq67a8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UcWQAhOC88k",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4190,
+   "views": 10201,
+   "url": "https://www.youtube.com/watch?v=UcWQAhOC88k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "C-gRXcBwUqQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 2691,
+   "views": 8565,
+   "url": "https://www.youtube.com/watch?v=C-gRXcBwUqQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "e-hCQWF2low",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 7241,
+   "views": 112044,
+   "url": "https://www.youtube.com/watch?v=e-hCQWF2low",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8qn-DZkKVlE",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 5400,
+   "views": 59548,
+   "url": "https://www.youtube.com/watch?v=8qn-DZkKVlE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Uwqz7vVJMVk",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4591,
+   "views": 5608,
+   "url": "https://www.youtube.com/watch?v=Uwqz7vVJMVk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PDFKdZF2uxg",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4540,
+   "views": 39078,
+   "url": "https://www.youtube.com/watch?v=PDFKdZF2uxg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WTFUF37j3Ps",
+   "title": "Earl Skakel is live!",
+   "duration_s": 3605,
+   "views": 27068,
+   "url": "https://www.youtube.com/watch?v=WTFUF37j3Ps",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WE1YRBkQlYQ",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 4811,
+   "views": 45997,
+   "url": "https://www.youtube.com/watch?v=WE1YRBkQlYQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IAuYjn1qcos",
+   "title": "Earl Skakel Investigates",
+   "duration_s": 3840,
+   "views": 4766,
+   "url": "https://www.youtube.com/watch?v=IAuYjn1qcos",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NwP8JZzHT-Y",
+   "title": "Earl Skakel Investigates West Hollywood Sinkhole",
+   "duration_s": 5400,
+   "views": 68734,
+   "url": "https://www.youtube.com/watch?v=NwP8JZzHT-Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WdZQlrvm0Y0",
+   "title": "West Hollywood Is Under Attack A Special Earl Skakel Investigates",
+   "duration_s": 10794,
+   "views": 42922,
+   "url": "https://www.youtube.com/watch?v=WdZQlrvm0Y0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "12uKjm3lBg0",
+   "title": "Earl Skakel  Investigates Argentina Vs England World Cup Semifinal Match",
+   "duration_s": 7565,
+   "views": 8283,
+   "url": "https://www.youtube.com/watch?v=12uKjm3lBg0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "F2JEB_Gx2mg",
+   "title": "I'm Back! Earl Skakel Investigates",
+   "duration_s": 3754,
+   "views": 202,
+   "url": "https://www.youtube.com/watch?v=F2JEB_Gx2mg",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 172
 }

@@ -74,3 +74,88 @@ Freshness footer: "ratings updated {rating.updated}" <- always show.
 - Week boards: Monday `pulse.py --snapshot --report` (velocity needs 2+ snaps; subs_growth needs 2+ subs-bearing snaps).
 - New comics appear automatically (DISCOVERY + provisional) — no site deploy needed to list them.
 - Outbound links (website/youtube_channel) change on discover runs; re-render profiles when `rating.updated` moves.
+
+---
+
+## TRANSCRIPT-LINKED EMBEDS (added 2026-10-18)
+
+R2 bucket `comedy-specials` now synced into local linkage layer.
+Clips and specials carry transcript URLs so the site can embed
+YouTube + show/sync the transcript side-by-side.
+
+### Data files
+
+| File | What | Count |
+|---|---|---|
+| `data/r2/site_manifest.json` | **Site index**: comedian → clips[] + specials[], each with videoId/url + transcript_url | 700 comedians, 2373 clips, 644 specials |
+| `data/youtube/*.json` | Per-comedian clip rows (harvest + R2 merged). Rows with `r2_clip_key` + `transcript_url` are transcript-linkable | 556 files, 418 r2_linked |
+| `data/r2/specials/{slug}.json` | Per-comedian specials (full-length transcripts) | 292 files |
+| `data/r2/live_index.jsonl` | Fresh filename-based clip index (videoId↔r2 key) | 2373 rows |
+| `data/r2/specials_index.json` | Specials index | 644 rows |
+
+### Embedding recipe (site/worker)
+
+```
+1. READ  data/r2/site_manifest.json
+2. FOR each comedian:
+     clips[]   → YouTube embed via videoId/url
+     specials[] → full-special player or transcript reader
+3. WHEN user opens a clip/special with transcript_url:
+     FETCH transcript_url (server-side; R2 S3 endpoint, creds required
+     or use a Cloudflare Worker with R2 binding / presigned URL)
+     JSON has: {id, url, title, words[], transcript, transcript_method}
+     - words[] WITH start/end  → timed transcript (karaoke sync)
+     - words[] WITHOUT start   → text-only (published transcript)
+4. RENDER: YouTube iframe + transcript panel. If words_timed,
+   highlight current word from video currentTime.
+```
+
+### Row schema (clips in data/youtube + manifest)
+
+```json
+{
+  "videoId": "i577LmfHOsk",
+  "title": "...", "channel": "...", "views": 202296, "duration_s": 178,
+  "url": "https://www.youtube.com/watch?v=...",
+  "n_words": 452,
+  "words_timed": true,          // true = karaoke-syncable
+  "transcript_method": "youtube-auto-captions",  // or published-transcript / asr
+  "transcript_available": true,
+  "transcript_preview": "first 200 chars…",
+  "r2_clip_key": "comedians/stewart-lee/clips/stewart-lee-i577lmfhosk.json",
+  "transcript_url": "https://<r2-endpoint>/comedy-specials/<r2_clip_key>"
+}
+```
+
+### Counts at sync time (2026-10-18T16:07Z)
+
+- **2373 clips** linked (1983 with timed words, karaoke-syncable)
+- **644 specials** linked (12 with timed words; most are published text transcripts)
+- **700 comedians** in manifest
+- Timed-word clips come from YouTube auto-captions or ASR; published
+  transcripts (Scraps mirror) are text-only — render as reader, not karaoke.
+
+### Rerunning the sync
+
+```bash
+python3 sync_r2_clips.py      # enumerate R2 → live_index + pass-1 linkage
+python3 sync_r2_metadata.py   # fetch clip JSONs → fill data/youtube rows
+python3 sync_r2_merge.py      # merge overlap + specials + site_manifest
+```
+
+Requires `AWS_ACCESS_KEY_ID`/`AWS_SECRET_ACCESS_KEY` env for the R2
+S3 endpoint. Never commit keys.
+
+### Rules
+
+1. `transcript_url` points at raw R2 S3 — the browser can't fetch it
+   without creds. Site must route through a Worker (R2 binding) or
+   presigned URL. Never expose S3 keys client-side.
+2. `words_timed: false` → render as transcript reader, not karaoke.
+   Never fake timing.
+3. Harvest rows without `r2_clip_key` have no transcript — render
+   the YouTube embed alone, no transcript panel.
+4. `transcript_preview` is display-safe (first 200 chars). Full text
+   lives in R2 only.
+5. Sync scripts are rerunnable; debz/local workers keep R2 fresh.
+   Re-run sync after their handoff to pull new clips.

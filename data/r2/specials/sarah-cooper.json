@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "sarah-cooper",
+ "specials": [
+  {
+   "special_slug": "everything-s-fine-2020",
+   "title": "Sarah Cooper: Everything\u2019s Fine (2020) \u2013 Transcript",
+   "comedian": "Sarah Cooper",
+   "url": "https://scrapsfromtheloft.com/comedy/sarah-cooper-everythings-fine-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 7637,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[anthemic classical music playing] [narrator] This story is about Sarah Cooper, who was a morning news anchor from the spring of 2017 to the fall of 2020. At her peak, Cooper had a HUT rating of 54 and a 27 audience share. [imperceptible] [narrator] She looks all right here, but inside, she\u2019s losing",
+   "r2_special_key": "comedians/sarah-cooper/specials/everything-s-fine-2020.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sarah-cooper/specials/everything-s-fine-2020.json"
+  }
+ ],
+ "count": 1
+}

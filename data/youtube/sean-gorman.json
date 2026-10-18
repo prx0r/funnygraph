@@ -1,0 +1,55 @@
+{
+ "comedian_id": "sean-gorman",
+ "name": "Sean Gorman",
+ "clips": 2,
+ "total_views": 30900,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "vinBmZtC9_U",
+  "title": "SEAN GORMAN - SHOWERED TOGETHER",
+  "channel": "@BigBellyComedy",
+  "views": 27000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=vinBmZtC9_U",
+  "r2_clip_key": "comedians/sean-gorman/clips/sean-gorman-vinbmztc9-u.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sean-gorman/clips/sean-gorman-vinbmztc9-u.json"
+ },
+ "rows": [
+  {
+   "videoId": "vinBmZtC9_U",
+   "title": "SEAN GORMAN - SHOWERED TOGETHER",
+   "channel": "@BigBellyComedy",
+   "views": 27000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=vinBmZtC9_U",
+   "n_words": 116,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Hang on a second. You might be big, but I can hear you as well. What are you talking about? >> Did we? Actually, >> we did. I played age group with this, but this got IDed at 15. I swear to God, they ",
+   "r2_clip_key": "comedians/sean-gorman/clips/sean-gorman-vinbmztc9-u.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sean-gorman/clips/sean-gorman-vinbmztc9-u.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "crVVAMZOvLk",
+   "title": "Trying For A Baby | Sean Gorman | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 3900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=crVVAMZOvLk",
+   "n_words": 96,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "But it's not fair when you're trying to start a family and you know there's a problem with one person or the other. It's not fair to assign blame. So we're not doing that. We're not assigning blame. W",
+   "r2_clip_key": "comedians/sean-gorman/clips/sean-gorman-crvvamzovlk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sean-gorman/clips/sean-gorman-crvvamzovlk.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

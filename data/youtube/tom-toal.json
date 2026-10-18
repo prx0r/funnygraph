@@ -1,0 +1,55 @@
+{
+ "comedian_id": "tom-toal",
+ "name": "TOM TOAL",
+ "clips": 2,
+ "total_views": 6100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "FLwQlDzlfbc",
+  "title": "TOM TOAL - FANUARY",
+  "channel": "@BigBellyComedy",
+  "views": 4100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=FLwQlDzlfbc",
+  "r2_clip_key": "comedians/tom-toal/clips/tom-toal-flwqldzlfbc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tom-toal/clips/tom-toal-flwqldzlfbc.json"
+ },
+ "rows": [
+  {
+   "videoId": "FLwQlDzlfbc",
+   "title": "TOM TOAL - FANUARY",
+   "channel": "@BigBellyComedy",
+   "views": 4100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=FLwQlDzlfbc",
+   "n_words": 70,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Is anyone here doing dry jam? >> We do fan. >> Fanuary. >> And that's where you don't shave the fan hair. Fanny hair. You do fan. I think it's sponsored for it. >> I think it's sponsored for it. >> Sc",
+   "r2_clip_key": "comedians/tom-toal/clips/tom-toal-flwqldzlfbc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tom-toal/clips/tom-toal-flwqldzlfbc.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "gUHiq2zLajw",
+   "title": "TOM TOAL - FIGHT CLUB",
+   "channel": "@BigBellyComedy",
+   "views": 2000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=gUHiq2zLajw",
+   "n_words": 132,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "How do you guys know each other? >> No. No. >> Oh, that's going to look good on video, isn't it? Comments. What the [\u00a0__\u00a0] are they laughing at? I have to show us stuff beforehand. And then people wer",
+   "r2_clip_key": "comedians/tom-toal/clips/tom-toal-guhiq2zlajw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tom-toal/clips/tom-toal-guhiq2zlajw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

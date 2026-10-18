@@ -300,7 +300,7 @@
     "awards": []
   },
   "rating": {
-    "headline": 78.9,
+    "headline": 88.8,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -326,7 +326,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {

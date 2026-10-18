@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -44,7 +45,9 @@
       "UK. He has appeared on Extras (BBC2)"
     ],
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/james-dowdeswell/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/james-dowdeswell/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -60,7 +63,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 68.2,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -86,7 +89,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -120,5 +123,41 @@
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 310000,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "QNdgwYvNZb0",
+      "title": "Local Pub Nicknames | James Dowdeswell | Live at The Bearcat  #standupcomedy #comedy #jokes",
+      "views": 310000,
+      "url": "https://www.youtube.com/watch?v=QNdgwYvNZb0",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/james-dowdeswell/clips/james-dowdeswell-qndgwyvnzb0.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 74,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q16204400",
+    "dob": "1974-05-23",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "actor",
+      "television actor",
+      "writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

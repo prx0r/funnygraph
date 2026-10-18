@@ -28,7 +28,7 @@
     "legacy": 93.0,
     "legacy_era": 98.3,
     "audience": null,
-    "popularity": null,
+    "popularity": 80.9,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,38 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 8
+  },
+  "youtube": {
+    "clips": 8,
+    "total_views": 2743378,
+    "timed_clips": 8,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "iqBw_Vwxdko",
+      "title": "Emergency Chairs at Christmas Dinner | Peter Kay: Live at the Manchester Arena",
+      "views": 611636,
+      "duration_s": 87,
+      "url": "https://www.youtube.com/watch?v=iqBw_Vwxdko",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/peter-kay/clips/peter-kay-iqbw_vwxdko.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 1959,
+    "special_words": 0,
+    "timed_clips": 8,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

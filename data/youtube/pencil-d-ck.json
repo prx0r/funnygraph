@@ -1,0 +1,38 @@
+{
+ "comedian_id": "pencil-d-ck",
+ "name": "Pencil D*ck",
+ "clips": 1,
+ "total_views": 813,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "xUpD1DYd5Ek",
+  "title": "Pencil D*ck | Damo Clark & Jack Hester | Craic Den Comedy Club #comedy #standup #funny",
+  "channel": "@craicdencomedyclub",
+  "views": 813,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=xUpD1DYd5Ek",
+  "r2_clip_key": "comedians/pencil-d-ck/clips/pencil-d-ck-xupd1dyd5ek.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/pencil-d-ck/clips/pencil-d-ck-xupd1dyd5ek.json"
+ },
+ "rows": [
+  {
+   "videoId": "xUpD1DYd5Ek",
+   "title": "Pencil D*ck | Damo Clark & Jack Hester | Craic Den Comedy Club #comedy #standup #funny",
+   "channel": "@craicdencomedyclub",
+   "views": 813,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=xUpD1DYd5Ek",
+   "n_words": 171,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "We had this guy called Pencil Dick. Pencil dick. Wow. It's a shame. It's a shame it wasn't a pen cuz then it'd be a big dick and he get to click the end. Can you feel that? No. How about now? Pointy e",
+   "r2_clip_key": "comedians/pencil-d-ck/clips/pencil-d-ck-xupd1dyd5ek.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/pencil-d-ck/clips/pencil-d-ck-xupd1dyd5ek.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

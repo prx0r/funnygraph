@@ -1,0 +1,38 @@
+{
+ "comedian_id": "luke-kidgwell",
+ "name": "Luke Kidgwell",
+ "clips": 1,
+ "total_views": 38000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "wr5vacUs6qY",
+  "title": "Awkward Front Row | Luke Kidgwell LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 38000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=wr5vacUs6qY",
+  "r2_clip_key": "comedians/luke-kidgwell/clips/luke-kidgwell-wr5vacus6qy.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/luke-kidgwell/clips/luke-kidgwell-wr5vacus6qy.json"
+ },
+ "rows": [
+  {
+   "videoId": "wr5vacUs6qY",
+   "title": "Awkward Front Row | Luke Kidgwell LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 38000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=wr5vacUs6qY",
+   "n_words": 134,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "It's so close. Aha. There's actually one guy in the front row here. Never seen more. It's like someone copied the same white girl eight times. Control C, control V. This is wild. Oh, sorry. You're lik",
+   "r2_clip_key": "comedians/luke-kidgwell/clips/luke-kidgwell-wr5vacus6qy.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/luke-kidgwell/clips/luke-kidgwell-wr5vacus6qy.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

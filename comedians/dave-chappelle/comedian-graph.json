@@ -349,8 +349,39 @@
     }
   ],
   "set_queue": {
-    "note": "0 sets measured. First ingest should be a storytelling-era special (Killin Them Softly, For What It's Worth, The Age of Spin) \u2014 the raconteur engine at full power. Need word-timed ASR; the hold-after-point timing hypothesis is the thing to measure first.",
-    "blocked_on": "YouTube access / owner-supplied audio"
+    "note": "19 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "the-unstoppable-2025",
+      "the-closer-2021",
+      "deep-in-the-heart-of-texas-2017",
+      "the-age-of-spin-2017",
+      "equanimity-2017",
+      "sticks-stones-2019",
+      "for-what-it-s-worth-2004",
+      "killin-them-softly-2000",
+      "the-dreamer-2023",
+      "the-bird-revelation-2017",
+      "equanimity-2017-transcripci-n-completa",
+      "what-s-in-a-name-2022",
+      "the-bird-revelation-2017-transcripci-n-completa",
+      "8-46",
+      "sticks-stones-epilogue-the-punchline",
+      "hbo-comedy-half-hour-1998",
+      "hbo-half-hour-1998-traduzione-italiana",
+      "snl-monologue-2020-scene",
+      "snl-monologue-2020"
+    ],
+    "special_titles": [
+      "Dave Chappelle: The Unstoppable (2025)",
+      "Dave Chappelle: The Closer (2021) | Transcript",
+      "Dave Chappelle: Deep in the Heart of Texas (2017) \u2013 Transcript",
+      "Dave Chappelle: The Age of Spin (2017) \u2013 Transcript",
+      "Dave Chappelle: Equanimity (2017) \u2013 Transcript",
+      "Dave Chappelle: Sticks & Stones (2019) \u2013 Transcript",
+      "Dave Chappelle: For What It\u2019s Worth (2004) \u2013 Transcript",
+      "Dave Chappelle: Killin\u2019 Them Softly (2000) \u2013 Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -751,10 +782,10 @@
     "legacy": 98.8,
     "legacy_era": 100.0,
     "audience": 85.0,
-    "popularity": 97.8,
+    "popularity": 99.0,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.128,
+    "gap_value": 0.14,
     "overrated": "accurately rated",
     "canon_lag": -0.138
   },
@@ -795,13 +826,13 @@
     ]
   },
   "rating": {
-    "headline": 83.3,
+    "headline": 91.2,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 4,
-        "pct": 83.3,
+        "pct": 91.2,
         "sweep": [
           3,
           4
@@ -829,7 +860,7 @@
       "lo": 3,
       "hi": 4
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {
@@ -840,5 +871,21 @@
       "standup comedy"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 19
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 127574,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

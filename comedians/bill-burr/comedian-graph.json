@@ -270,8 +270,32 @@
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "12 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "live-at-red-rocks-2022",
+      "walk-your-way-out-2017",
+      "you-people-are-all-the-same-2012",
+      "i-m-sorry-you-feel-that-way-2014",
+      "paper-tiger-2019",
+      "let-it-go-2010",
+      "why-do-i-do-this-2008-testo-italiano-completo",
+      "i-ll-never-own-a-helicopter-scene",
+      "the-philadelphia-incident-2006-scene",
+      "the-philadelphia-incident-2006",
+      "snl-monologue-2020-scene",
+      "snl-monologue-2020"
+    ],
+    "special_titles": [
+      "Bill Burr: Live at Red Rocks (2022) | Transcript",
+      "BILL BURR: WALK YOUR WAY OUT (2017) \u2013 Full Transcript",
+      "BILL BURR: YOU PEOPLE ARE ALL THE SAME (2012) \u2013 Full Transcript",
+      "BILL BURR: I\u2019M SORRY YOU FEEL THAT WAY (2014) \u2013 Full Transcript",
+      "Bill Burr: Paper Tiger (2019) \u2013 Transcript",
+      "BILL BURR: LET IT GO (2010) \u2013 TRANSCRIPT",
+      "BILL BURR: WHY DO I DO THIS (2008) \u2013 Testo italiano completo",
+      "Bill Burr: \u201cI\u2019ll Never Own a Helicopter\u201d Scene"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -585,10 +609,10 @@
     "legacy": 94.0,
     "legacy_era": 97.6,
     "audience": 82.5,
-    "popularity": 91.2,
+    "popularity": 93.4,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.087,
+    "gap_value": 0.109,
     "overrated": "accurately rated",
     "canon_lag": -0.115
   },
@@ -630,13 +654,13 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 82.4,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 7,
-        "pct": 66.7,
+        "pct": 82.4,
         "sweep": [
           7,
           7
@@ -664,12 +688,28 @@
       "lo": 7,
       "hi": 7
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.billburr.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 12
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 92101,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

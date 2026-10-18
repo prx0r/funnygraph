@@ -1,0 +1,38 @@
+{
+ "comedian_id": "stephen-carlin",
+ "name": "Stephen Carlin",
+ "clips": 1,
+ "total_views": 6700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "YcXffy5D2yM",
+  "title": "Solving Scottish Obesity | Stephen Carlin | Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 6700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=YcXffy5D2yM",
+  "r2_clip_key": "comedians/stephen-carlin/clips/stephen-carlin-ycxffy5d2ym.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/stephen-carlin/clips/stephen-carlin-ycxffy5d2ym.json"
+ },
+ "rows": [
+  {
+   "videoId": "YcXffy5D2yM",
+   "title": "Solving Scottish Obesity | Stephen Carlin | Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 6700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=YcXffy5D2yM",
+   "n_words": 41,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "You never hear about the heroine success stories. [laughter] You know, THERE'S ALWAYS THERE'S ALWAYS SOMEBODY DEAD IN A GUTTER. THEY DON'T tell you about all the tremendous work heroin does. Like in S",
+   "r2_clip_key": "comedians/stephen-carlin/clips/stephen-carlin-ycxffy5d2ym.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/stephen-carlin/clips/stephen-carlin-ycxffy5d2ym.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

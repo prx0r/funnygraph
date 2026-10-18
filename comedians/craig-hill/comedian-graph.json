@@ -88,7 +88,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -114,12 +114,24 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q945494",
+    "dob": "1926-03-05",
+    "dod": "2014-04-21",
+    "birthplace": "Los Angeles",
+    "citizenship": "United States",
+    "occupations": [
+      "film actor",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

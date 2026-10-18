@@ -1,0 +1,38 @@
+{
+ "comedian_id": "roger-monkhouse",
+ "name": "Roger Monkhouse",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "fUfoVvswWrw",
+  "title": "Global Warming Apologies? | Roger Monkhouse | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=fUfoVvswWrw",
+  "r2_clip_key": "comedians/roger-monkhouse/clips/roger-monkhouse-fufovvswwrw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/roger-monkhouse/clips/roger-monkhouse-fufovvswwrw.json"
+ },
+ "rows": [
+  {
+   "videoId": "fUfoVvswWrw",
+   "title": "Global Warming Apologies? | Roger Monkhouse | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=fUfoVvswWrw",
+   "n_words": 141,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Can I apologize to you on on on on on on our behalf just for the state of the world. It's a time to be young. Don't even understand the whole thing. But basically, we've spunked away your future. Um a",
+   "r2_clip_key": "comedians/roger-monkhouse/clips/roger-monkhouse-fufovvswwrw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/roger-monkhouse/clips/roger-monkhouse-fufovvswwrw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

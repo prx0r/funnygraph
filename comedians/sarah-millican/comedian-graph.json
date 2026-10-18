@@ -94,8 +94,14 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "chatterbox-live-2011"
+    ],
+    "special_titles": [
+      "SARAH MILLICAN: CHATTERBOX LIVE (2011) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -223,7 +229,7 @@
     "legacy": 55.3,
     "legacy_era": 22.0,
     "audience": null,
-    "popularity": 17.5,
+    "popularity": 54.5,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -277,7 +283,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 44.1,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -303,7 +309,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -318,5 +324,36 @@
         "year": 2008
       }
     ]
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 13,
+    "r2_specials": 1
+  },
+  "youtube": {
+    "clips": 13,
+    "total_views": 28721361,
+    "timed_clips": 13,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "dmbpagijVkk",
+      "title": "Lee Mack's Joke Leaves John Cleese In Near Tears | The Graham Norton Show",
+      "views": 28042796,
+      "duration_s": 169,
+      "url": "https://www.youtube.com/watch?v=dmbpagijVkk",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sarah-millican/clips/sarah-millican-dmbpagijvkk.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3310,
+    "special_words": 17580,
+    "timed_clips": 13,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

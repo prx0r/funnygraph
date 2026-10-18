@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "eddie-murphy",
+ "specials": [
+  {
+   "special_slug": "raw-1987",
+   "title": "Eddie Murphy: Raw (1987) \u2013 Transcript",
+   "comedian": "Eddie Murphy",
+   "url": "https://scrapsfromtheloft.com/comedy/eddie-murphy-raw-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 15270,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "After achieving fame with Saturday Night Live and Beverly Hills Cop, Eddie Murphy released a film version of one of his live stand-up performances. He mainly focuses on the topics of divorce and relations between the sexes, but also goes into some of the problems he\u2019s encountered because of fame, in",
+   "r2_special_key": "comedians/eddie-murphy/specials/raw-1987.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/eddie-murphy/specials/raw-1987.json"
+  },
+  {
+   "special_slug": "delirious-1983",
+   "title": "Eddie Murphy: Delirious (1983) \u2013 Transcript",
+   "comedian": "Eddie Murphy",
+   "url": "https://scrapsfromtheloft.com/comedy/eddie-murphy-delirious-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8525,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Filmed on August 17, 1983 at DAR Constitution Hall in Washington D.C. Ladies and gentlemen! Eddie Murphy! Thank you. Thank you so much. Two times, far two times. Before I even get started how about a big round of applause for the Bus Boys. There\u2019s some rules, I got some rules when I show down and I ",
+   "r2_special_key": "comedians/eddie-murphy/specials/delirious-1983.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/eddie-murphy/specials/delirious-1983.json"
+  }
+ ],
+ "count": 2
+}

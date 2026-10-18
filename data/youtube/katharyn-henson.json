@@ -1,0 +1,38 @@
+{
+ "comedian_id": "katharyn-henson",
+ "name": "Katharyn Henson",
+ "clips": 1,
+ "total_views": 7500,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "uNvCKdBre0w",
+  "title": "Italian Home Cooking | Katharyn Henson | #standup #comedy #jokes",
+  "channel": "@craicdencomedyclub",
+  "views": 7500,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=uNvCKdBre0w",
+  "r2_clip_key": "comedians/katharyn-henson/clips/katharyn-henson-unvckdbre0w.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/katharyn-henson/clips/katharyn-henson-unvckdbre0w.json"
+ },
+ "rows": [
+  {
+   "videoId": "uNvCKdBre0w",
+   "title": "Italian Home Cooking | Katharyn Henson | #standup #comedy #jokes",
+   "channel": "@craicdencomedyclub",
+   "views": 7500,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=uNvCKdBre0w",
+   "n_words": 103,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Yeah, I once got this yeast infection. Uh, it was legendary. Actually, it blossomed the night before I was getting on a 9-hour bus ride. I discovered it at night time. All the stores were closed, so I",
+   "r2_clip_key": "comedians/katharyn-henson/clips/katharyn-henson-unvckdbre0w.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/katharyn-henson/clips/katharyn-henson-unvckdbre0w.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

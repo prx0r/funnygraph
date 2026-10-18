@@ -130,8 +130,20 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "4 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "what-s-wrong-with-people-2012",
+      "stay-hungry-2019",
+      "it-ain-t-right-2025",
+      "aren-t-you-embarrassed-2014"
+    ],
+    "special_titles": [
+      "Sebastian Maniscalco: What\u2019s Wrong with People? (2012) \u2013 Full Transcript",
+      "Sebastian Maniscalco: Stay Hungry (2019) \u2013 Full Transcript",
+      "Sebastian Maniscalco: It Ain\u2019t Right (2025)",
+      "Sebastian Maniscalco: Aren\u2019t You Embarrassed? (2014) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -364,7 +376,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 50.0,
+    "headline": 73.6,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -390,7 +402,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -421,5 +433,21 @@
   ],
   "recognition": {
     "awards": []
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 4
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 32051,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

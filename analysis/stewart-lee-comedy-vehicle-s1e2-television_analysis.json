@@ -1,0 +1,573 @@
+{
+ "comedian": "stewart_lee",
+ "source": "/tmp/opencode/stewart-lee-comedy-vehicle-s1e2-television.json",
+ "note": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e2-television.json method=youtube-auto-captions",
+ "audio_duration_s": 1729.96,
+ "timing": {
+  "word_count": 3371,
+  "duration_s": 1728.65,
+  "wpm": 117.0,
+  "pause_count": 76,
+  "pause_bins": {
+   "very_short": 14,
+   "short": 5,
+   "substantial": 1,
+   "topic": 56
+  },
+  "mean_pause_s": 3.306,
+  "median_pause_s": 1.84,
+  "punch_pauses_s": [
+   32.28,
+   22.4,
+   15.37,
+   10.52,
+   9.32,
+   8.88,
+   8.46,
+   8.1
+  ],
+  "max_pause_s": 32.28
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 5.89,
+   "pause_before_s": 2.56,
+   "fingerprint": "[music] >> Music, movies, and arts tomorrow at"
+  },
+  {
+   "t_start_s": 11.36,
+   "pause_before_s": 3.45,
+   "fingerprint": ">> Music, movies, and arts tomorrow at 10:00"
+  },
+  {
+   "t_start_s": 26.2,
+   "pause_before_s": 3.88,
+   "fingerprint": "[music] [music] [music] [applause] >> Thank you. Thank"
+  },
+  {
+   "t_start_s": 33.41,
+   "pause_before_s": 5.19,
+   "fingerprint": "[music] [music] [applause] >> Thank you. Thank you."
+  },
+  {
+   "t_start_s": 40.61,
+   "pause_before_s": 5.19,
+   "fingerprint": "[music] [applause] >> Thank you. Thank you. Thank"
+  },
+  {
+   "t_start_s": 48.47,
+   "pause_before_s": 5.84,
+   "fingerprint": "[applause] >> Thank you. Thank you. Thank you."
+  },
+  {
+   "t_start_s": 52.36,
+   "pause_before_s": 1.87,
+   "fingerprint": ">> Thank you. Thank you. Thank you. >> [applause]"
+  },
+  {
+   "t_start_s": 122.64,
+   "pause_before_s": 1.28,
+   "fingerprint": ">> Once you start to feel like this,"
+  },
+  {
+   "t_start_s": 246.76,
+   "pause_before_s": 3.04,
+   "fingerprint": ">> The inexorable rise of Adrian Chiles it"
+  },
+  {
+   "t_start_s": 280.32,
+   "pause_before_s": 1.23,
+   "fingerprint": ">> Watching ITV 1, Ant and Dec's Saturday"
+  },
+  {
+   "t_start_s": 311.4,
+   "pause_before_s": 2.84,
+   "fingerprint": ">> It sells rawl plugs, Murray Mints, >> [laughter]"
+  },
+  {
+   "t_start_s": 376.92,
+   "pause_before_s": 2.2,
+   "fingerprint": ">> Nothing on one. Nothing on two. >> [cheering]"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 1.31,
+   "t1_s": 3.33,
+   "words": 1,
+   "text": "[music]",
+   "pause_after_s": 2.56
+  },
+  {
+   "beat": 1,
+   "t0_s": 5.89,
+   "t1_s": 7.91,
+   "words": 1,
+   "text": "[music]",
+   "pause_after_s": 3.45
+  },
+  {
+   "beat": 2,
+   "t0_s": 11.36,
+   "t1_s": 22.32,
+   "words": 26,
+   "text": ">> Music, movies, and arts tomorrow at 10:00 with the Culture Show. But tonight on BBC 2, Stewart Lee's coming at you with his comedy vehicle. >> [music]",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 3,
+   "t0_s": 26.2,
+   "t1_s": 28.22,
+   "words": 1,
+   "text": "[music]",
+   "pause_after_s": 5.19
+  },
+  {
+   "beat": 4,
+   "t0_s": 33.41,
+   "t1_s": 35.42,
+   "words": 1,
+   "text": "[music]",
+   "pause_after_s": 5.19
+  },
+  {
+   "beat": 5,
+   "t0_s": 40.61,
+   "t1_s": 42.63,
+   "words": 1,
+   "text": "[music]",
+   "pause_after_s": 5.84
+  },
+  {
+   "beat": 6,
+   "t0_s": 48.47,
+   "t1_s": 50.49,
+   "words": 1,
+   "text": "[applause]",
+   "pause_after_s": 1.87
+  },
+  {
+   "beat": 7,
+   "t0_s": 52.36,
+   "t1_s": 121.36,
+   "words": 154,
+   "text": ">> Thank you. Thank you. Thank you. >> [applause] >> Thank you very much. Thank you. And welcome to Stewart Lee's comedy vehicle, which I, Stewart Lee, am driving towards your face. Now, it's my belie",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 8,
+   "t0_s": 122.64,
+   "t1_s": 243.72,
+   "words": 317,
+   "text": ">> Once you start to feel like this, the evidence of the collapse of civilization is everywhere. No more so than in the medium of television. Television, television, drug of the nation. My granddad us",
+   "pause_after_s": 3.04
+  },
+  {
+   "beat": 9,
+   "t0_s": 246.76,
+   "t1_s": 279.09,
+   "words": 67,
+   "text": ">> The inexorable rise of Adrian Chiles it makes me long for the days when a regional accent was considered a professional disadvantage. >> [laughter] >> Watching BBC 2 with Nigella Lawson and Rick St",
+   "pause_after_s": 1.23
+  },
+  {
+   "beat": 10,
+   "t0_s": 280.32,
+   "t1_s": 308.56,
+   "words": 80,
+   "text": ">> Watching ITV 1, Ant and Dec's Saturday Night Takeaway, and Ant and Dec's I'm a Celebrity Get Me Out of Here, and Ant and Dec's telephone voting scandal. I feel like I'm being spat at full in the fa",
+   "pause_after_s": 2.84
+  },
+  {
+   "beat": 11,
+   "t0_s": 311.4,
+   "t1_s": 374.72,
+   "words": 163,
+   "text": ">> It sells rawl plugs, Murray Mints, >> [laughter] >> rats dolls, and topless calendars. Surely it can't last. >> [laughter] >> It's as if there's no guiding intelligence involved. Watching Channel 4",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 12,
+   "t0_s": 376.92,
+   "t1_s": 380.16,
+   "words": 3,
+   "text": ">> Nothing on one.",
+   "pause_after_s": 3.56
+  },
+  {
+   "beat": 13,
+   "t0_s": 383.72,
+   "t1_s": 387.82,
+   "words": 4,
+   "text": "Nothing on two. >> [cheering]",
+   "pause_after_s": 0.86
+  },
+  {
+   "beat": 14,
+   "t0_s": 388.68,
+   "t1_s": 392.04,
+   "words": 3,
+   "text": ">> Nothing on three.",
+   "pause_after_s": 15.37
+  },
+  {
+   "beat": 15,
+   "t0_s": 407.41,
+   "t1_s": 409.43,
+   "words": 1,
+   "text": ">> [laughter]",
+   "pause_after_s": 7.53
+  },
+  {
+   "beat": 16,
+   "t0_s": 416.96,
+   "t1_s": 420.08,
+   "words": 2,
+   "text": ">> Try E4.",
+   "pause_after_s": 32.28
+  },
+  {
+   "beat": 17,
+   "t0_s": 452.36,
+   "t1_s": 503.32,
+   "words": 111,
+   "text": ">> Now Channel 4 is obviously betrayed its founding principles, but what about the BBC? Now, in 1927, when Lord Reith was head of the BBC, he said the purpose of the BBC was to educate, inform, and en",
+   "pause_after_s": 1.69
+  },
+  {
+   "beat": 18,
+   "t0_s": 505.01,
+   "t1_s": 543.06,
+   "words": 90,
+   "text": ">> [applause] >> He'd come in on different mornings. No one knew which race he was going to hate next. >> [laughter] >> I hate the Portuguese today. Lord Reith, you surprised us. Try and keep up. >> [",
+   "pause_after_s": 0.7
+  },
+  {
+   "beat": 19,
+   "t0_s": 543.76,
+   "t1_s": 568.28,
+   "words": 53,
+   "text": ">> And who's the real evil man? Is it Lord Reith? Supporting Hitler, being a jazz racist. Or is it Andrew Lloyd Webber? Sitting back in a throne, in a throne no less. >> [laughter] >> With his weird s",
+   "pause_after_s": 1.44
+  },
+  {
+   "beat": 20,
+   "t0_s": 569.72,
+   "t1_s": 645.89,
+   "words": 180,
+   "text": "Sitting there smiling to himself as he mentally calculates an estimated 10 million pounds of extra ticket sales. Drunk, drunk on the smell of his own farts. >> [laughter] >> His own cold gray farts. O",
+   "pause_after_s": 2.35
+  },
+  {
+   "beat": 21,
+   "t0_s": 648.24,
+   "t1_s": 708.12,
+   "words": 117,
+   "text": ">> Man is born astride the grave. The grave digger weeps into our mouths and covers us with clay. >> And Samuel [music] needs your help casting one of the best loved characters from 20th century exper",
+   "pause_after_s": 4.2
+  },
+  {
+   "beat": 22,
+   "t0_s": 712.32,
+   "t1_s": 773.24,
+   "words": 127,
+   "text": ">> There is still one thing that the BBC do brilliantly. And that is David Attenborough. The BBC do the thing of David Attenborough brilliantly. David Attenborough believes in television. David Attenb",
+   "pause_after_s": 1.63
+  },
+  {
+   "beat": 23,
+   "t0_s": 774.87,
+   "t1_s": 784.6,
+   "words": 26,
+   "text": ">> [laughter] >> And there's the terrible risk that some of them might make their way back to Britain secreted in the saggy folds of his neck skin.",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 24,
+   "t0_s": 785.16,
+   "t1_s": 834.53,
+   "words": 122,
+   "text": "I'm a Celebrity Get Me Out of Here is presided over by Ant and Dec. Ant and Dec harm insects. They humiliate vulnerable celebrities. And they teach us to fear nature. Ant and Dec are the smiling apolo",
+   "pause_after_s": 0.83
+  },
+  {
+   "beat": 25,
+   "t0_s": 835.36,
+   "t1_s": 845.84,
+   "words": 25,
+   "text": ">> But Ant and Dec do not grow old as we that are left grow old. Age shall not wither them nor the years condemn. Why?",
+   "pause_after_s": 8.88
+  },
+  {
+   "beat": 26,
+   "t0_s": 854.72,
+   "t1_s": 894.72,
+   "words": 87,
+   "text": ">> Did you see Anthony McPartlin and Declan Donnelly on the television last night, Percival? >> The television has yet to be invented, Henry, as you know. >> Yet, I fancy I saw them nevertheless throw",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 27,
+   "t0_s": 895.6,
+   "t1_s": 898.28,
+   "words": 2,
+   "text": "But how?",
+   "pause_after_s": 1.76
+  },
+  {
+   "beat": 28,
+   "t0_s": 900.04,
+   "t1_s": 914.88,
+   "words": 30,
+   "text": ">> 20 years ago, Henry. 20 years ago, they came here to this very studio and had me paint their portrait. They have remained beautiful. But look at the picture, Henry.",
+   "pause_after_s": 1.84
+  },
+  {
+   "beat": 29,
+   "t0_s": 916.72,
+   "t1_s": 921.64,
+   "words": 8,
+   "text": "Look at the picture of ANT AND DEC.",
+   "pause_after_s": 1.26
+  },
+  {
+   "beat": 30,
+   "t0_s": 922.9,
+   "t1_s": 924.92,
+   "words": 1,
+   "text": ">> [screaming]",
+   "pause_after_s": 6.8
+  },
+  {
+   "beat": 31,
+   "t0_s": 931.72,
+   "t1_s": 981.44,
+   "words": 150,
+   "text": ">> THE BBC STILL MAKE THE BEST NATURE DOCUMENTARIES, but the most successful nature documentary of all time is actually the worst nature documentary of all time, and that is March of the Penguins. Dav",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 32,
+   "t0_s": 982.84,
+   "t1_s": 989.76,
+   "words": 19,
+   "text": "I don't know if you know, but the mallard it's the only animal which reproduces exclusively by gang rape.",
+   "pause_after_s": 2.24
+  },
+  {
+   "beat": 33,
+   "t0_s": 992.0,
+   "t1_s": 1005.6,
+   "words": 26,
+   "text": "It's also the only bird ever to be caught on film indulging in the act of homosexual necrophilia. >> [laughter] >> So, I've been trying to raise money",
+   "pause_after_s": 1.76
+  },
+  {
+   "beat": 34,
+   "t0_s": 1007.36,
+   "t1_s": 1042.83,
+   "words": 57,
+   "text": "to make a documentary film called March of the Mallards, >> [laughter] >> which will prove that nature wants us to be evil. >> [laughter] >> And ideally, I'll have that with a voiceover from Morgan Fr",
+   "pause_after_s": 4.45
+  },
+  {
+   "beat": 35,
+   "t0_s": 1047.28,
+   "t1_s": 1072.3,
+   "words": 45,
+   "text": ">> Morgan Freeman lied knowingly about penguins for money. >> [laughter] >> David Attenborough would not have done that. My only hope, some weird kind of cosmic justice, is that in a parallel universe",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 36,
+   "t0_s": 1076.18,
+   "t1_s": 1078.2,
+   "words": 1,
+   "text": "[screaming]",
+   "pause_after_s": 3.22
+  },
+  {
+   "beat": 37,
+   "t0_s": 1081.42,
+   "t1_s": 1083.44,
+   "words": 1,
+   "text": "[laughter]",
+   "pause_after_s": 8.46
+  },
+  {
+   "beat": 38,
+   "t0_s": 1091.9,
+   "t1_s": 1093.92,
+   "words": 1,
+   "text": "[screaming]",
+   "pause_after_s": 10.52
+  },
+  {
+   "beat": 39,
+   "t0_s": 1104.44,
+   "t1_s": 1203.96,
+   "words": 278,
+   "text": ">> But March of the Penguins is the most successful documentary of all time. Any Dream Will Do, a hugely rated television program. It's very difficult to know what it is you want. What is it that you ",
+   "pause_after_s": 3.87
+  },
+  {
+   "beat": 40,
+   "t0_s": 1207.83,
+   "t1_s": 1209.85,
+   "words": 1,
+   "text": ">> [laughter]",
+   "pause_after_s": 3.03
+  },
+  {
+   "beat": 41,
+   "t0_s": 1212.88,
+   "t1_s": 1244.16,
+   "words": 44,
+   "text": ">> Del Boy, Stu. He fell through the bar on Only Fools and Horses. And it's the funniest thing there's ever been on television. Ever. HE FELL THROUGH THE BAR, STU. >> [laughter] >> DEL BOY. HE WAS STA",
+   "pause_after_s": 2.0
+  },
+  {
+   "beat": 42,
+   "t0_s": 1246.16,
+   "t1_s": 1268.68,
+   "words": 47,
+   "text": "And Trigger made a face. >> [laughter] >> AND IT'S THE FUNNIEST THING THERE'S EVER BEEN on television. Ever. Is it Is it funnier than Monty Python and Spike Milligan? Yes, it is, STU. CUZ HE FELL THRO",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 43,
+   "t0_s": 1269.6,
+   "t1_s": 1298.04,
+   "words": 45,
+   "text": "And then Trigger made a face. DEL BOY, STU. JAMIE JASON FROM INSPECTOR FROST. NO, STU. INSPECTOR FROST DIDN'T FALL through the bar. He wouldn't do something frivolous like that. Inspector Frost would ",
+   "pause_after_s": 0.8
+  },
+  {
+   "beat": 44,
+   "t0_s": 1298.84,
+   "t1_s": 1365.96,
+   "words": 144,
+   "text": "A serious face. HE FELL THROUGH THE BAR, STU. IT'S THE FUNNIEST THING THERE'S EVER BEEN ON TELEVISION EVER. PLAY IT AGAIN. PLAY IT AGAIN. PLAY IT AGAIN AND again and again EVERY CHRISTMAS OVER AND OVE",
+   "pause_after_s": 9.32
+  },
+  {
+   "beat": 45,
+   "t0_s": 1375.28,
+   "t1_s": 1378.6,
+   "words": 4,
+   "text": "That's what you like.",
+   "pause_after_s": 2.16
+  },
+  {
+   "beat": 46,
+   "t0_s": 1380.76,
+   "t1_s": 1382.78,
+   "words": 1,
+   "text": ">> [applause]",
+   "pause_after_s": 4.98
+  },
+  {
+   "beat": 47,
+   "t0_s": 1387.76,
+   "t1_s": 1395.92,
+   "words": 25,
+   "text": ">> I think we're on a winner here, Sheree. All right. Play it nice and cool, son. [music] Nice and cool. You know WHAT I MEAN?",
+   "pause_after_s": 3.16
+  },
+  {
+   "beat": 48,
+   "t0_s": 1399.08,
+   "t1_s": 1523.6,
+   "words": 403,
+   "text": ">> IT'S JANUARY THE 8TH. AND AS THEY have done every year, the people of Ferrity St. Margaret were about to celebrate the day when British people were first [music] exposed to perhaps the greatest mom",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 49,
+   "t0_s": 1524.64,
+   "t1_s": 1528.88,
+   "words": 6,
+   "text": ">> Oi, think we're in here, Trigger?",
+   "pause_after_s": 3.18
+  },
+  {
+   "beat": 50,
+   "t0_s": 1532.06,
+   "t1_s": 1537.72,
+   "words": 4,
+   "text": ">> [cheering] >> Oi, cool, son.",
+   "pause_after_s": 8.1
+  },
+  {
+   "beat": 51,
+   "t0_s": 1545.82,
+   "t1_s": 1551.0,
+   "words": 11,
+   "text": ">> [cheering] >> Del Boy falls through a bar, Trigger makes a face.",
+   "pause_after_s": 1.92
+  },
+  {
+   "beat": 52,
+   "t0_s": 1552.92,
+   "t1_s": 1609.41,
+   "words": 112,
+   "text": "The funniest thing on television, ever, Del Boy falling THROUGH THE BAR. AND I JUST THINK IT'S FORTUNATE that Sir Isaac Newton did not share the sense of humor of a member of the public. Because had h",
+   "pause_after_s": 1.63
+  },
+  {
+   "beat": 53,
+   "t0_s": 1611.04,
+   "t1_s": 1637.32,
+   "words": 48,
+   "text": ">> AND YES, I AM AWARE that I say this to you while hanging precariously off this ART DECO BALCONY. >> [laughter] >> AND I DO SO deliberately in the hope that I will fall to my death and that you will",
+   "pause_after_s": 1.51
+  },
+  {
+   "beat": 54,
+   "t0_s": 1638.83,
+   "t1_s": 1655.68,
+   "words": 34,
+   "text": ">> [laughter] >> AND WHERE HAVE YOU LEFT ME? Literally hanging. Because the point at where I thought the routine would peak turned out to be about 90 seconds earlier than where I thought it would.",
+   "pause_after_s": 2.72
+  },
+  {
+   "beat": 55,
+   "t0_s": 1658.4,
+   "t1_s": 1673.04,
+   "words": 24,
+   "text": "This is dead time. >> [laughter] >> But we can't leave. We can't stop viewers at home until these people have provided some sense of closure.",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 56,
+   "t0_s": 1674.16,
+   "t1_s": 1694.56,
+   "words": 24,
+   "text": "YEAH. THEY ASKED FOR THEY BEGGED FOR APPLAUSE. >> [applause] >> THEY BEGGED FOR APPLAUSE. IT'S UNDIGNIFIED, BUT IT'S STILL IT STILL COUNTS. GOOD NIGHT. >> [applause and cheering]",
+   "pause_after_s": 4.0
+  },
+  {
+   "beat": 57,
+   "t0_s": 1698.56,
+   "t1_s": 1705.32,
+   "words": 10,
+   "text": ">> OH, GOOD TENSION. JUST RUBBISH. >> Put it on four again.",
+   "pause_after_s": 22.4
+  },
+  {
+   "beat": 58,
+   "t0_s": 1727.72,
+   "t1_s": 1729.96,
+   "words": 1,
+   "text": ">> Okay.",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 59,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 59
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

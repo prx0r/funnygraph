@@ -1,0 +1,38 @@
+{
+ "comedian_id": "funny-video",
+ "name": "Funny Video",
+ "clips": 1,
+ "total_views": 38320,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "tAEASKgfTrI",
+  "title": "JACK WHITEHALL - AWKWARD TOILET SITUATION | Funny Video | FUN HUB CLUB",
+  "channel": "Fun Hub Club",
+  "views": 38320,
+  "duration_s": 64,
+  "url": "https://www.youtube.com/watch?v=tAEASKgfTrI",
+  "r2_clip_key": "comedians/funny-video/clips/funny-video-taeaskgftri.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/funny-video/clips/funny-video-taeaskgftri.json"
+ },
+ "rows": [
+  {
+   "videoId": "tAEASKgfTrI",
+   "title": "JACK WHITEHALL - AWKWARD TOILET SITUATION | Funny Video | FUN HUB CLUB",
+   "channel": "Fun Hub Club",
+   "views": 38320,
+   "likes": null,
+   "duration_s": 64,
+   "url": "https://www.youtube.com/watch?v=tAEASKgfTrI",
+   "n_words": 13,
+   "words_timed": true,
+   "transcript_method": "youtube-manual-captions",
+   "transcript_available": true,
+   "transcript_preview": "I love traveling as well with no language barrier.\u00a0\nThat's what's great about being here. I went to Spain recently. It was a disaster, okay. I went to\u00a0\nthis restaurant. I needed to go to the restroom.",
+   "r2_clip_key": "comedians/funny-video/clips/funny-video-taeaskgftri.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/funny-video/clips/funny-video-taeaskgftri.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

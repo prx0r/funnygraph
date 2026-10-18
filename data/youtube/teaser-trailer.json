@@ -1,0 +1,38 @@
+{
+ "comedian_id": "teaser-trailer",
+ "name": "Teaser Trailer",
+ "clips": 1,
+ "total_views": 5244276,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "TE5v3U79i6s",
+  "title": "IS THIS THING ON? | Teaser Trailer | Searchlight Pictures",
+  "channel": "SearchlightPictures",
+  "views": 5244276,
+  "duration_s": 134,
+  "url": "https://www.youtube.com/watch?v=TE5v3U79i6s",
+  "r2_clip_key": "comedians/teaser-trailer/clips/teaser-trailer-te5v3u79i6s.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/teaser-trailer/clips/teaser-trailer-te5v3u79i6s.json"
+ },
+ "rows": [
+  {
+   "videoId": "TE5v3U79i6s",
+   "title": "IS THIS THING ON? | Teaser Trailer | Searchlight Pictures",
+   "channel": "SearchlightPictures",
+   "views": 5244276,
+   "likes": null,
+   "duration_s": 134,
+   "url": "https://www.youtube.com/watch?v=TE5v3U79i6s",
+   "n_words": 35,
+   "words_timed": true,
+   "transcript_method": "youtube-manual-captions",
+   "transcript_available": true,
+   "transcript_preview": "Bartender:\nAnother one? Alex:\nYeah, why not? Man:\nAlright, Alex Novak. Man:\nDownstairs in two minutes. That\u2019s me. Well you better head\ndown there, then. Where? Bartender:\nJust straight behind you,\ndow",
+   "r2_clip_key": "comedians/teaser-trailer/clips/teaser-trailer-te5v3u79i6s.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/teaser-trailer/clips/teaser-trailer-te5v3u79i6s.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

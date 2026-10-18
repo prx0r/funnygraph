@@ -1,0 +1,413 @@
+{
+ "comedian": "stewart_lee",
+ "source": "/tmp/opencode/stewart-lee-comedy-vehicle-s1e5-comedy.json",
+ "note": "r2:comedians/stewart-lee/specials/comedy-vehicle-s1e5-comedy.json method=youtube-auto-captions",
+ "audio_duration_s": 1691.64,
+ "timing": {
+  "word_count": 3913,
+  "duration_s": 1684.76,
+  "wpm": 139.4,
+  "pause_count": 53,
+  "pause_bins": {
+   "very_short": 14,
+   "short": 3,
+   "substantial": 2,
+   "topic": 34
+  },
+  "mean_pause_s": 4.199,
+  "median_pause_s": 1.48,
+  "punch_pauses_s": [
+   35.16,
+   31.24,
+   26.04,
+   19.88,
+   15.48,
+   13.24,
+   10.2,
+   8.68
+  ],
+  "max_pause_s": 35.16
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 48.0,
+   "pause_before_s": 31.24,
+   "fingerprint": "Thank you very much. I'm Stuart Lee. Welcome"
+  },
+  {
+   "t_start_s": 88.24,
+   "pause_before_s": 1.96,
+   "fingerprint": "I should imagine standup comedy is the"
+  },
+  {
+   "t_start_s": 119.2,
+   "pause_before_s": 0.84,
+   "fingerprint": ">> This bloke makes me sick. Being a"
+  },
+  {
+   "t_start_s": 131.44,
+   "pause_before_s": 2.68,
+   "fingerprint": "But it is the hardest job in"
+  },
+  {
+   "t_start_s": 152.96,
+   "pause_before_s": 2.76,
+   "fingerprint": "One person applauding that. And of course,"
+  },
+  {
+   "t_start_s": 272.8,
+   "pause_before_s": 3.64,
+   "fingerprint": "But historically, American comics were the masters"
+  },
+  {
+   "t_start_s": 297.92,
+   "pause_before_s": 0.68,
+   "fingerprint": ">> Hunger pooping. >> Only one man kept the"
+  },
+  {
+   "t_start_s": 367.92,
+   "pause_before_s": 0.92,
+   "fingerprint": "But America wasn't ready for some of"
+  },
+  {
+   "t_start_s": 533.92,
+   "pause_before_s": 1.8,
+   "fingerprint": "Go, \"Yeah, I put a spring onion"
+  },
+  {
+   "t_start_s": 570.72,
+   "pause_before_s": 2.12,
+   "fingerprint": "Nice mash. Are you sure you boiled"
+  },
+  {
+   "t_start_s": 578.0,
+   "pause_before_s": 1.96,
+   "fingerprint": "The other thing I like about this"
+  },
+  {
+   "t_start_s": 621.76,
+   "pause_before_s": 1.28,
+   "fingerprint": "Then we'll get some chips on the"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 6.88,
+   "t1_s": 16.76,
+   "words": 23,
+   "text": "Strong language in a change to the build episode now on BBC 2 as Stuart Lee puts himself on the comedy firing line.",
+   "pause_after_s": 31.24
+  },
+  {
+   "beat": 1,
+   "t0_s": 48.0,
+   "t1_s": 86.28,
+   "words": 131,
+   "text": "Thank you very much. I'm Stuart Lee. Welcome to this Stuart Lee's Comedy Vehicle. uh of which I Stuart Lee am the driver but I currently have nine points on my license so I won't be taking any risks a",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 2,
+   "t0_s": 88.24,
+   "t1_s": 118.36,
+   "words": 83,
+   "text": "I should imagine standup comedy is the hardest job in the world. And I said to him, it is. And I'm glad that you of all people appreciate that is the case. I said to him, I would rather go into a burn",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 3,
+   "t0_s": 119.2,
+   "t1_s": 128.76,
+   "words": 19,
+   "text": ">> This bloke makes me sick. Being a farmer is the hardest job in the world. >> Porn doesn't watch itself.",
+   "pause_after_s": 2.68
+  },
+  {
+   "beat": 4,
+   "t0_s": 131.44,
+   "t1_s": 150.2,
+   "words": 58,
+   "text": "But it is the hardest job in the world. Um, stand-up comedy, it's also an art form. I would like to think historically, uh, stand-up comedy was one of the great American art forms, one of the great in",
+   "pause_after_s": 2.76
+  },
+  {
+   "beat": 5,
+   "t0_s": 152.96,
+   "t1_s": 269.16,
+   "words": 331,
+   "text": "One person applauding that. And of course, for a stand-up comedian, the only thing worse than no one clapping is the sound of one person clapping alone, which suggests that what you're doing has some ",
+   "pause_after_s": 3.64
+  },
+  {
+   "beat": 6,
+   "t0_s": 272.8,
+   "t1_s": 297.24,
+   "words": 48,
+   "text": "But historically, American comics were the masters of the craft. By the end of the 1980s, the glory days of American standup were over. Even the incendurary cracker source ribs, formerly the voice of ",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 7,
+   "t0_s": 297.92,
+   "t1_s": 367.0,
+   "words": 156,
+   "text": ">> Hunger pooping. >> Only one man kept the flame of the great American art form of standup comedy burning. And that man's name was Dill Spinx. >> Mike, what are they? I mean, come on. What are mice? ",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 8,
+   "t0_s": 367.92,
+   "t1_s": 532.12,
+   "words": 408,
+   "text": "But America wasn't ready for some of the things that Dill Spinx had to say. That's okay. Sorry, but you fail your ass. >> Don't you be ra >> D was offered a prestigious slot on the Lenman talk show on",
+   "pause_after_s": 1.8
+  },
+  {
+   "beat": 9,
+   "t0_s": 533.92,
+   "t1_s": 568.6,
+   "words": 86,
+   "text": "Go, \"Yeah, I put a spring onion in it.\" Yeah. I'm a comedian. Seriously, the back very different image. See that? Very serious face on the back. Well, it's not not overly serious. It's not like suicid",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 10,
+   "t0_s": 570.72,
+   "t1_s": 576.04,
+   "words": 9,
+   "text": "Nice mash. Are you sure you boiled these potatoes?",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 11,
+   "t0_s": 578.0,
+   "t1_s": 620.48,
+   "words": 120,
+   "text": "The other thing I like about this is the sleeve notes, which I genuinely think are are brilliant and tell me as a stand-up and you as consumers of comedy all you really need to know to understand uh w",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 12,
+   "t0_s": 621.76,
+   "t1_s": 698.36,
+   "words": 196,
+   "text": "Then we'll get some chips on the way home. We're artists at work. This makes this clear. There are at least two processes at work here. He goes on, \"All the material on this album is derived from even",
+   "pause_after_s": 13.24
+  },
+  {
+   "beat": 13,
+   "t0_s": 711.6,
+   "t1_s": 720.52,
+   "words": 11,
+   "text": "homosexuals, girls with big breasts and a dick caught in zipper.",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 14,
+   "t0_s": 723.52,
+   "t1_s": 751.8,
+   "words": 64,
+   "text": "And remember ladies and gentlemen, all the material on this album is derived from events and situations which either happened to Franklin AI or which he observed at firsthand. And I was just wondering",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 15,
+   "t0_s": 753.12,
+   "t1_s": 826.36,
+   "words": 148,
+   "text": "He goes on after thinking about these events, I found something in each one to laugh about, and I'm interested in what exactly was the time lag there. Did he see girls with big breasts and immediately",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 16,
+   "t0_s": 828.0,
+   "t1_s": 846.04,
+   "words": 37,
+   "text": "But is this really the case? I clad myself in the garb of the symbolic figure of tragedy, TR, and arrived at a situation where paying customers were expecting to see a girl with big breasts, GWBB.",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 17,
+   "t0_s": 848.56,
+   "t1_s": 862.12,
+   "words": 19,
+   "text": ">> TO BE OR NOT TO BE, THAT IS THE QUESTION. WHETHER IT IS KNOWN HUMAN MINDS ABOUT AGES AGAINST",
+   "pause_after_s": 7.48
+  },
+  {
+   "beat": 18,
+   "t0_s": 869.6,
+   "t1_s": 892.44,
+   "words": 52,
+   "text": "likewise dick caught in zipper was dick caught in zipper an event and situation which happened to Franklin a giant his own penis the foreskin or part of the testicles, the scrotal sack. Did it become ",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 19,
+   "t0_s": 893.92,
+   "t1_s": 947.16,
+   "words": 157,
+   "text": "Or did he dwell on it over time? Think long and hard about how funny that would be? Or was it something he observed at firsthand? Did the dick of a man in a urinal next to him become caught in a zippe",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 20,
+   "t0_s": 949.12,
+   "t1_s": 975.08,
+   "words": 61,
+   "text": "There's a little endorsement on the back of this book from uh another comedian called uh Keenan Ivory Wayans. Now uh I've not seen his work, but he's in the Scary Movie series of films, so one imagine",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 21,
+   "t0_s": 975.6,
+   "t1_s": 1041.76,
+   "words": 194,
+   "text": "with the best will in the world, I don't know if it's possible for there to be a Miles Davis of comedy. Miles Davis had a 50-year career in jazz during which he outlived every major stylistic change. ",
+   "pause_after_s": 2.64
+  },
+  {
+   "beat": 22,
+   "t0_s": 1044.4,
+   "t1_s": 1055.4,
+   "words": 23,
+   "text": "Although weirdly this 50th anniversary edition comes with extra tracks and there is a a studio outtake there called Dick Caught in Zipper",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 23,
+   "t0_s": 1056.64,
+   "t1_s": 1062.84,
+   "words": 11,
+   "text": "on which weirdly uh John Col Train is playing an alto.",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 24,
+   "t0_s": 1064.96,
+   "t1_s": 1087.0,
+   "words": 44,
+   "text": "Couple of people laughing at that of course because uh Cold Train's normal horn of choice in the classic Miles Davis Quintet was the tener. Cannonball Adalie normally played the alto. So uh little jok",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 25,
+   "t0_s": 1090.88,
+   "t1_s": 1135.4,
+   "words": 104,
+   "text": "Welcome to Carnegi Hall. Tonight, the quintet will start with a new composition. It's called security guard in a college girl's dorm looking through the window and jerking off. The other problem is it",
+   "pause_after_s": 2.6
+  },
+  {
+   "beat": 26,
+   "t0_s": 1138.0,
+   "t1_s": 1152.44,
+   "words": 24,
+   "text": "It's mundane. It's middle-aged. And it's exactly copied off Curb Your Enthusiasm to the point where you'd think someone would have been sued. career.",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 27,
+   "t0_s": 1154.0,
+   "t1_s": 1362.76,
+   "words": 678,
+   "text": "This is the kind of thing that happens to me now. This is what my life's like. I went into I was in Worcester a couple of months ago and I got caught overnight. I had to to stay there against my will.",
+   "pause_after_s": 15.48
+  },
+  {
+   "beat": 28,
+   "t0_s": 1378.24,
+   "t1_s": 1390.12,
+   "words": 18,
+   "text": "And there's another glib truism about standup. People say the best stand-up comedians die young, but they don't.",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 29,
+   "t0_s": 1391.52,
+   "t1_s": 1399.96,
+   "words": 21,
+   "text": "It's just that some of them are fortunate enough to die before they write their I hate the Travel Lodge routine.",
+   "pause_after_s": 8.68
+  },
+  {
+   "beat": 30,
+   "t0_s": 1408.64,
+   "t1_s": 1412.6,
+   "words": 5,
+   "text": "I wish I was dead.",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 31,
+   "t0_s": 1413.12,
+   "t1_s": 1448.12,
+   "words": 135,
+   "text": "I wish that I was dead. >> Good afternoon. Afternoon, sir. May I have one bag of these lovely red apples, please? >> That depends, sir. >> On what? >> On whether I have any apples in stock, SIR. >> TH",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 32,
+   "t0_s": 1448.88,
+   "t1_s": 1504.68,
+   "words": 178,
+   "text": "Hello. Is that the National Apples office? Yes. I'm calling from Kevin's Apple Shop. >> Kevin's Apple Shop. I wondered if you could tell me if you had any apples in stock there. >> There are. THANK YO",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 33,
+   "t0_s": 1505.52,
+   "t1_s": 1584.28,
+   "words": 254,
+   "text": ">> HELLO. Is that the National Apples Office? >> Yes. I'm calling from Kevin's Apple Shop. >> I wanted to know if you HAD ANY GOLDEN DELICIOUS apples in stock there. >> No. OH. >> OH, DEAR. WELL, WHAT",
+   "pause_after_s": 19.88
+  },
+  {
+   "beat": 34,
+   "t0_s": 1604.16,
+   "t1_s": 1607.16,
+   "words": 1,
+   "text": "Yeah.",
+   "pause_after_s": 26.04
+  },
+  {
+   "beat": 35,
+   "t0_s": 1633.2,
+   "t1_s": 1635.44,
+   "words": 1,
+   "text": "YEAH.",
+   "pause_after_s": 1.6
+  },
+  {
+   "beat": 36,
+   "t0_s": 1637.04,
+   "t1_s": 1640.2,
+   "words": 2,
+   "text": "COME ON.",
+   "pause_after_s": 10.2
+  },
+  {
+   "beat": 37,
+   "t0_s": 1650.4,
+   "t1_s": 1653.48,
+   "words": 2,
+   "text": "Let me",
+   "pause_after_s": 35.16
+  },
+  {
+   "beat": 38,
+   "t0_s": 1688.64,
+   "t1_s": 1691.64,
+   "words": 1,
+   "text": "Goodbye.",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 39,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 39
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

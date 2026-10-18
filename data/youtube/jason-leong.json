@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jason-leong",
+ "name": "Jason Leong",
+ "clips": 1,
+ "total_views": 1783843,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "CKr0soIf4jA",
+  "title": "Hong Kong People Are Beautifully Rude",
+  "channel": "Jason Leong",
+  "views": 1783843,
+  "duration_s": 130,
+  "url": "https://www.youtube.com/watch?v=CKr0soIf4jA",
+  "r2_clip_key": "comedians/jason-leong/clips/jason-leong-ckr0soif4ja.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-leong/clips/jason-leong-ckr0soif4ja.json"
+ },
+ "rows": [
+  {
+   "videoId": "CKr0soIf4jA",
+   "title": "Hong Kong People Are Beautifully Rude",
+   "channel": "Jason Leong",
+   "views": 1783843,
+   "likes": null,
+   "duration_s": 130,
+   "url": "https://www.youtube.com/watch?v=CKr0soIf4jA",
+   "n_words": 286,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I recently went to Hong Kong to perform comedy and I love Hong Kong because the people in Hong Kong the Hong kongers they are a very unique Bunch people in Hong Kong they don't have a spectrum of poli",
+   "r2_clip_key": "comedians/jason-leong/clips/jason-leong-ckr0soif4ja.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-leong/clips/jason-leong-ckr0soif4ja.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "michael-shafar",
+ "name": "Michael Shafar",
+ "clips": 1,
+ "total_views": 13000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "h-fP25JvjjI",
+  "title": "Crocs VS Guns | Michael Shafar | Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 13000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=h-fP25JvjjI",
+  "r2_clip_key": "comedians/michael-shafar/clips/michael-shafar-h-fp25jvjji.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michael-shafar/clips/michael-shafar-h-fp25jvjji.json"
+ },
+ "rows": [
+  {
+   "videoId": "h-fP25JvjjI",
+   "title": "Crocs VS Guns | Michael Shafar | Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 13000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=h-fP25JvjjI",
+   "n_words": 91,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Buy more crocodiles. [laughter] Any Americans in tonight? Good. This will go better. [laughter] Every American I meet is delusional. This American guy the other day goes to me, he goes, \"Oh, Australia",
+   "r2_clip_key": "comedians/michael-shafar/clips/michael-shafar-h-fp25jvjji.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michael-shafar/clips/michael-shafar-h-fp25jvjji.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

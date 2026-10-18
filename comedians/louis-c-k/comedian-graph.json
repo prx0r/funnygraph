@@ -1,0 +1,127 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "louis-c-k",
+  "name": "Louis C.K.",
+  "tier": "indie",
+  "note": "Indie-tier graph: R2 transcript-linked profile.",
+  "version": 1,
+  "created": "2026-10-18",
+  "annotator": "sync_r2_profiles.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 14
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "set_queue": {
+    "note": "14 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "hilarious-2010",
+      "shameless-2007",
+      "2017",
+      "live-at-the-comedy-store-2015",
+      "live-at-the-beacon-theatre-2011",
+      "sorry-2021",
+      "chewed-up-2008",
+      "ridiculous-2026",
+      "oh-my-god-2013",
+      "snl-monologue-s39e16-03-29-14-scene",
+      "snl-monologue-s39e16-03-29-14",
+      "snl-monologue-may-16-2015",
+      "snl-monologue-s38e06-11-03-12-scene",
+      "snl-monologue-s38e06-11-03-12"
+    ],
+    "special_titles": [
+      "LOUIS C.K.: HILARIOUS (2010) \u2013 Full Transcript",
+      "LOUIS C.K.: SHAMELESS (2007) \u2013 Full Transcript",
+      "LOUIS C.K.: 2017 \u2013 Full transcript",
+      "LOUIS C.K.: LIVE AT  THE COMEDY STORE (2015) \u2013 Transcript",
+      "Louis C.K.: Live at the Beacon Theatre (2011) \u2013 Transcript",
+      "Louis C. K.: Sorry (2021) | Transcript",
+      "Louis C.K.: Chewed Up (2008) | Transcript",
+      "Louis C.K.: Ridiculous (2026)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 90972,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "generation": {
+    "id": "nineties",
+    "label": "Nineties alt + HBO",
+    "span": "1990s",
+    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+    "scene": "nyc-alt",
+    "breakthrough": "1990s Conan/Late Show writer \u2192 HBO 1996"
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-18T17:13:19Z",
+    "pipeline": "rate/v1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "amy-schumer-presents",
+ "specials": [
+  {
+   "special_slug": "parental-advisory-2022",
+   "title": "Amy Schumer Presents: Parental Advisory (2022) | Transcript",
+   "comedian": "Amy Schumer Presents",
+   "url": "https://scrapsfromtheloft.com/comedy/amy-schumer-presents-parental-advisory-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8848,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[announcer] Please welcome your host, Amy Schumer. [cheers, applause] Thank you, wow! Thank you so much! I deserve this, I do. Totally. Please, sit. Please! Thank you, thank you, thank you. Well, if we didn\u2019t have COVID yet, we\u2019ve got it now. What a way to go. I have not had COVID yet. Who else? Cla",
+   "r2_special_key": "comedians/amy-schumer-presents/specials/parental-advisory-2022.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/amy-schumer-presents/specials/parental-advisory-2022.json"
+  }
+ ],
+ "count": 1
+}

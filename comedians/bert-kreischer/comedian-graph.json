@@ -194,8 +194,24 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "6 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "lucky-2025",
+      "hey-big-boy-2020",
+      "razzle-dazzle-2023",
+      "secret-time-2018",
+      "fighting-a-bear",
+      "fighting-a-bear-transcript"
+    ],
+    "special_titles": [
+      "Bert Kreischer: Lucky (2025)",
+      "Bert Kreischer: Hey Big Boy (2020) \u2013 Transcript",
+      "Bert Kreischer: Razzle Dazzle (2023) | Transcript",
+      "Bert Kreischer: Secret Time (2018) \u2013 Transcript",
+      "Bert Kreischer: Fighting A Bear",
+      "Bert Kreischer: Fighting A Bear [Transcript]"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -506,10 +522,10 @@
     "legacy": 73.0,
     "legacy_era": 23.4,
     "audience": 57.5,
-    "popularity": 89.5,
+    "popularity": 94.3,
     "theory": 62.5,
     "heat": null,
-    "gap_value": 0.32,
+    "gap_value": 0.368,
     "overrated": "overrated",
     "canon_lag": -0.155
   },
@@ -549,7 +565,7 @@
     ]
   },
   "rating": {
-    "headline": 75.7,
+    "headline": 84.7,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -575,12 +591,28 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.bertbertbert.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 6
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 42198,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

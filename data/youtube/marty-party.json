@@ -1,0 +1,38 @@
+{
+ "comedian_id": "marty-party",
+ "name": "Marty Party",
+ "clips": 1,
+ "total_views": 1317,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "h_Le4T-LPGw",
+  "title": "Marty Party | The best of Gleeson",
+  "channel": "Essendon Football Club",
+  "views": 1317,
+  "duration_s": 168,
+  "url": "https://www.youtube.com/watch?v=h_Le4T-LPGw",
+  "r2_clip_key": "comedians/marty-party/clips/marty-party-h_le4t-lpgw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marty-party/clips/marty-party-h_le4t-lpgw.json"
+ },
+ "rows": [
+  {
+   "videoId": "h_Le4T-LPGw",
+   "title": "Marty Party | The best of Gleeson",
+   "channel": "Essendon Football Club",
+   "views": 1317,
+   "likes": null,
+   "duration_s": 168,
+   "url": "https://www.youtube.com/watch?v=h_Le4T-LPGw",
+   "n_words": 359,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "[Applause] goddard sweeps the handball to gleason well done some poise and then backs himself and then slings a terrific hamburger goes for francis there to counter and now gleason's on the run forged",
+   "r2_clip_key": "comedians/marty-party/clips/marty-party-h_le4t-lpgw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marty-party/clips/marty-party-h_le4t-lpgw.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

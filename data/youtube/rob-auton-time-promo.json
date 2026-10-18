@@ -1,0 +1,38 @@
+{
+ "comedian_id": "rob-auton-time-promo",
+ "name": "ROB AUTON TIME PROMO",
+ "clips": 1,
+ "total_views": 297,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "MNZyiNKCVa8",
+  "title": "ROB AUTON TIME PROMO",
+  "channel": "@TheStandComedyClub",
+  "views": 297,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=MNZyiNKCVa8",
+  "r2_clip_key": "comedians/rob-auton-time-promo/clips/rob-auton-time-promo-mnzyinkcva8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rob-auton-time-promo/clips/rob-auton-time-promo-mnzyinkcva8.json"
+ },
+ "rows": [
+  {
+   "videoId": "MNZyiNKCVa8",
+   "title": "ROB AUTON TIME PROMO",
+   "channel": "@TheStandComedyClub",
+   "views": 297,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=MNZyiNKCVa8",
+   "n_words": 74,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "hello my name's rob orton i'm going to be dedicating a lot of my time to performing a show about time the show about time is called the time show in the show i will ask questions such as what is time ",
+   "r2_clip_key": "comedians/rob-auton-time-promo/clips/rob-auton-time-promo-mnzyinkcva8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rob-auton-time-promo/clips/rob-auton-time-promo-mnzyinkcva8.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

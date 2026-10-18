@@ -1,0 +1,38 @@
+{
+ "comedian_id": "matt-rouse",
+ "name": "Matt Rouse",
+ "clips": 1,
+ "total_views": 66000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "_qD49WE3-Ww",
+  "title": "Dating can be SCARY! | Matt Rouse | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 66000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=_qD49WE3-Ww",
+  "r2_clip_key": "comedians/matt-rouse/clips/matt-rouse-_qd49we3-ww.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/matt-rouse/clips/matt-rouse-_qd49we3-ww.json"
+ },
+ "rows": [
+  {
+   "videoId": "_qD49WE3-Ww",
+   "title": "Dating can be SCARY! | Matt Rouse | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 66000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=_qD49WE3-Ww",
+   "n_words": 187,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I went on a date two years ago. I went back to this woman's flat. It was the first time I met her. And I was sitting on her sofa. And she turned to me and she went, \"Oh, you don't know me. You've just",
+   "r2_clip_key": "comedians/matt-rouse/clips/matt-rouse-_qd49we3-ww.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/matt-rouse/clips/matt-rouse-_qd49we3-ww.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

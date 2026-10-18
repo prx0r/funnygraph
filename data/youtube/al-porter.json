@@ -1,0 +1,38 @@
+{
+ "comedian_id": "al-porter",
+ "name": "Al Porter",
+ "clips": 1,
+ "total_views": 961,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "XRMvflV_AMQ",
+  "title": "You\u2019re Such An \u2018Emily\u2019 | Al Porter | #standupcomedy #crowdwork #funny",
+  "channel": "@craicdencomedyclub",
+  "views": 961,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=XRMvflV_AMQ",
+  "r2_clip_key": "comedians/al-porter/clips/al-porter-xrmvflv-amq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/al-porter/clips/al-porter-xrmvflv-amq.json"
+ },
+ "rows": [
+  {
+   "videoId": "XRMvflV_AMQ",
+   "title": "You\u2019re Such An \u2018Emily\u2019 | Al Porter | #standupcomedy #crowdwork #funny",
+   "channel": "@craicdencomedyclub",
+   "views": 961,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=XRMvflV_AMQ",
+   "n_words": 205,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "how are you girl sorry are you are you gay for each other no no cuz you look like you know one of them Phil Mitchell lot you know but then behind the scenes is D you know bet you're gay right are you ",
+   "r2_clip_key": "comedians/al-porter/clips/al-porter-xrmvflv-amq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/al-porter/clips/al-porter-xrmvflv-amq.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

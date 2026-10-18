@@ -1,0 +1,38 @@
+{
+ "comedian_id": "amused-moose",
+ "name": "Amused Moose",
+ "clips": 1,
+ "total_views": 6673,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "bKtZ_LnAuSA",
+  "title": "Amused Moose Archive 2007 - Jack Whitehall. (Click Subscribe for updates)",
+  "channel": "Amused Moose",
+  "views": 6673,
+  "duration_s": 149,
+  "url": "https://www.youtube.com/watch?v=bKtZ_LnAuSA",
+  "r2_clip_key": "comedians/amused-moose/clips/amused-moose-bktz_lnausa.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/amused-moose/clips/amused-moose-bktz_lnausa.json"
+ },
+ "rows": [
+  {
+   "videoId": "bKtZ_LnAuSA",
+   "title": "Amused Moose Archive 2007 - Jack Whitehall. (Click Subscribe for updates)",
+   "channel": "Amused Moose",
+   "views": 6673,
+   "likes": null,
+   "duration_s": 149,
+   "url": "https://www.youtube.com/watch?v=bKtZ_LnAuSA",
+   "n_words": 320,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "[Music] good afternoon ladies and gentlemen right I will warn you before I start I am middle-class and I don't any stick for that you know I do go be a stick for being middle-class but it's like I alw",
+   "r2_clip_key": "comedians/amused-moose/clips/amused-moose-bktz_lnausa.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/amused-moose/clips/amused-moose-bktz_lnausa.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

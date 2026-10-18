@@ -1,0 +1,66 @@
+{
+ "comedian_id": "kam-patterson",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "FPbPKkKICZs",
+   "title": "We Just Need Encouragement and....Rocks",
+   "channel": "Kam Patterson",
+   "publishedAt": "2023-11-26T08:01:42Z",
+   "duration_s": 36,
+   "views": 25,
+   "likes": 4,
+   "comedian_slug": "kam-patterson"
+  },
+  {
+   "videoId": "nuxWwAthn4Q",
+   "title": "White Folks Different",
+   "channel": "Kam Patterson",
+   "publishedAt": "2023-11-26T07:58:53Z",
+   "duration_s": 43,
+   "views": 349,
+   "likes": 7,
+   "comedian_slug": "kam-patterson"
+  },
+  {
+   "videoId": "QLlPIIdi1IE",
+   "title": "Publix Is A Cult",
+   "channel": "Kam Patterson",
+   "publishedAt": "2023-11-26T07:57:37Z",
+   "duration_s": 48,
+   "views": 155,
+   "likes": 3,
+   "comedian_slug": "kam-patterson"
+  },
+  {
+   "videoId": "t5z_P2-0VNo",
+   "title": "Tricked Out Da Crib",
+   "channel": "Kam Patterson",
+   "publishedAt": "2023-11-26T07:53:44Z",
+   "duration_s": 39,
+   "views": 2535,
+   "likes": 70,
+   "comedian_slug": "kam-patterson"
+  },
+  {
+   "videoId": "s8DQY5_aa5Y",
+   "title": "Hated that Dude",
+   "channel": "Kam Patterson",
+   "publishedAt": "2023-11-26T07:48:16Z",
+   "duration_s": 69,
+   "views": 36,
+   "likes": 1,
+   "comedian_slug": "kam-patterson"
+  },
+  {
+   "videoId": "pbLK4xz097c",
+   "title": "How we out here in Austin",
+   "channel": "Kam Patterson",
+   "publishedAt": "2023-11-26T07:44:53Z",
+   "duration_s": 81,
+   "views": 12,
+   "likes": 2,
+   "comedian_slug": "kam-patterson"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ismail-abdi",
+ "name": "Ismail Abdi",
+ "clips": 1,
+ "total_views": 5200,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "D_CA6pzXU7A",
+  "title": "The only black kid in school| Ismail Abdi | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 5200,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=D_CA6pzXU7A",
+  "r2_clip_key": "comedians/ismail-abdi/clips/ismail-abdi-d-ca6pzxu7a.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ismail-abdi/clips/ismail-abdi-d-ca6pzxu7a.json"
+ },
+ "rows": [
+  {
+   "videoId": "D_CA6pzXU7A",
+   "title": "The only black kid in school| Ismail Abdi | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 5200,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=D_CA6pzXU7A",
+   "n_words": 88,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "You know what's crazy about going to an Indian school? I was the only black kid in that school, WHICH MEANT I DID ALL THE SPORTS. THEY WERE LIKE, \"BUDDY, THERE'S A BASKETBALL TOURNAMENT TOMORROW. You ",
+   "r2_clip_key": "comedians/ismail-abdi/clips/ismail-abdi-d-ca6pzxu7a.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ismail-abdi/clips/ismail-abdi-d-ca6pzxu7a.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

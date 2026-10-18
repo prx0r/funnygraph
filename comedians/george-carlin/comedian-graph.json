@@ -403,8 +403,48 @@
     }
   ],
   "set_queue": {
-    "note": "First ingest: 'Jammin' in New York' or 'You Are All Diseases' era \u2014 language-prophet at full power. Word-timed ASR needed.",
-    "blocked_on": "audio access"
+    "note": "28 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "life-is-worth-losing-2006",
+      "again-1978",
+      "it-s-bad-for-ya-2008",
+      "it-s-bad-for-ya-2008-full-transcript",
+      "i-m-glad-i-m-dead-2024",
+      "you-are-all-diseased-1999",
+      "it-s-bad-for-ya-2008-testo-italiano-completo",
+      "you-are-all-diseased-1999-testo-italiano-completo",
+      "back-in-town-1996",
+      "jamming-in-new-york-1992",
+      "doin-it-again-1990",
+      "complaints-and-grievances-2001",
+      "carlin-on-campus-1984",
+      "playing-with-your-head-1986",
+      "jamming-in-new-york-1992-testo-italiano-completo",
+      "what-am-i-doing-in-new-jersey-1988",
+      "saving-the-planet-scene",
+      "dumb-americans-2006",
+      "religion-is-bullshit-scene",
+      "politically-correct-language-scene",
+      "religion-is-bullshit-transcript",
+      "politically-correct-language",
+      "seven-words-you-can-never-say-on-television-scene",
+      "the-indian-drill-sergeant-scene",
+      "seven-words-you-can-never-say-on-television",
+      "the-indian-drill-sergeant",
+      "saturday-night-live-monologue-1975-scene",
+      "saturday-night-live-monologue-1975"
+    ],
+    "special_titles": [
+      "George Carlin: Life Is Worth Losing (2006) \u2013 Transcript",
+      "GEORGE CARLIN: AGAIN!* (1978) \u2013 Full Transcript",
+      "George Carlin: It\u2019s Bad For Ya (2008)",
+      "George Carlin: It\u2019s Bad For Ya (2008) Full transcript",
+      "George Carlin: I\u2019m Glad I\u2019m Dead (2024)",
+      "George Carlin: You Are All Diseased (1999) \u2013 Transcript",
+      "GEORGE CARLIN: IT\u2019S BAD FOR YA! (2008) \u2013 Testo italiano completo",
+      "GEORGE CARLIN: YOU ARE ALL DISEASED (1999) \u2013 Testo italiano completo"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -816,10 +856,10 @@
     "legacy": 100.0,
     "legacy_era": 99.5,
     "audience": 85.0,
-    "popularity": 58.1,
+    "popularity": 61.1,
     "theory": 62.5,
     "heat": null,
-    "gap_value": -0.269,
+    "gap_value": -0.239,
     "overrated": "underrated",
     "canon_lag": -0.15
   },
@@ -893,7 +933,7 @@
       "lo": 1,
       "hi": 1
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -909,5 +949,21 @@
       "standup comedy"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 28
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 168249,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

@@ -1,0 +1,55 @@
+{
+ "comedian_id": "andrew-dorman",
+ "name": "Andrew Dorman",
+ "clips": 2,
+ "total_views": 10100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "cT1noOVHfCI",
+  "title": "Failed Drivers Test 3 Times ?! | Andrew Dorman | Craic Den Comedy Club | #fail #driver #funny",
+  "channel": "@craicdencomedyclub",
+  "views": 7500,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=cT1noOVHfCI",
+  "r2_clip_key": "comedians/andrew-dorman/clips/andrew-dorman-ct1noovhfci.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-dorman/clips/andrew-dorman-ct1noovhfci.json"
+ },
+ "rows": [
+  {
+   "videoId": "cT1noOVHfCI",
+   "title": "Failed Drivers Test 3 Times ?! | Andrew Dorman | Craic Den Comedy Club | #fail #driver #funny",
+   "channel": "@craicdencomedyclub",
+   "views": 7500,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=cT1noOVHfCI",
+   "n_words": 196,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Who here has failed a driving test? What happened to you? >> Three times. >> Three times. What happened the first time? >> A bike on a roundabout. >> A bike on a roundabout. So, you killed a man. Whic",
+   "r2_clip_key": "comedians/andrew-dorman/clips/andrew-dorman-ct1noovhfci.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-dorman/clips/andrew-dorman-ct1noovhfci.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "KBvEDl86NSM",
+   "title": "Irish History Lesson | Andrew Dorman | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 2600,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=KBvEDl86NSM",
+   "n_words": 122,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Oh, it's fun. I used to teach a lot of history. My favorite thing about teaching history is you can tell a lot about a country by their history. Oh, here in Ireland we're very affected by our history.",
+   "r2_clip_key": "comedians/andrew-dorman/clips/andrew-dorman-kbvedl86nsm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-dorman/clips/andrew-dorman-kbvedl86nsm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

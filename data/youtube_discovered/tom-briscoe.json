@@ -1,0 +1,46 @@
+{
+ "comedian_id": "tom-briscoe",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "CCfpHhsnspk",
+   "title": "AERIN_BRISCOE_Flute_FO/SO",
+   "channel": "Tom Briscoe",
+   "publishedAt": "2025-11-05T05:37:48Z",
+   "duration_s": 232,
+   "views": 53,
+   "likes": 0,
+   "comedian_slug": "tom-briscoe"
+  },
+  {
+   "videoId": "O7nY-CajsiY",
+   "title": "Sand Play Game Jam - Metaball! - The Sandbox Game",
+   "channel": "Tom Briscoe",
+   "publishedAt": "2022-01-09T20:53:15Z",
+   "duration_s": 107,
+   "views": 94,
+   "likes": 3,
+   "comedian_slug": "tom-briscoe"
+  },
+  {
+   "videoId": "fNwUgVM0FbQ",
+   "title": "Game Jam Glitch - Block Quest",
+   "channel": "Tom Briscoe",
+   "publishedAt": "2021-06-21T02:44:20Z",
+   "duration_s": 58,
+   "views": 142,
+   "likes": 2,
+   "comedian_slug": "tom-briscoe"
+  },
+  {
+   "videoId": "cyrGgR7UxbU",
+   "title": "Amazon Alexa Skills Challenge: Kids - Math Bot",
+   "channel": "Tom Briscoe",
+   "publishedAt": "2018-01-10T04:37:22Z",
+   "duration_s": 228,
+   "views": 318,
+   "likes": 2,
+   "comedian_slug": "tom-briscoe"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "comedian_id": "mock-the-week",
+ "name": "Mock The Week",
+ "clips": 2,
+ "total_views": 73353,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "TiqFJ95bYNY",
+  "title": "Greg Davies On His Teaching Experience | Mock The Week",
+  "channel": "Mock The Week",
+  "views": 50703,
+  "duration_s": 107,
+  "url": "https://www.youtube.com/watch?v=TiqFJ95bYNY",
+  "r2_clip_key": "comedians/mock-the-week/clips/mock-the-week-tiqfj95byny.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mock-the-week/clips/mock-the-week-tiqfj95byny.json"
+ },
+ "rows": [
+  {
+   "videoId": "TiqFJ95bYNY",
+   "title": "Greg Davies On His Teaching Experience | Mock The Week",
+   "channel": "Mock The Week",
+   "views": 50703,
+   "likes": null,
+   "duration_s": 107,
+   "url": "https://www.youtube.com/watch?v=TiqFJ95bYNY",
+   "n_words": 258,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "[Applause] the next topic is teaching who wants to come in on that greg i was a teacher for many many years ladies and gentlemen and i knew the day i had to leave teaching it was simple because a very",
+   "r2_clip_key": "comedians/mock-the-week/clips/mock-the-week-tiqfj95byny.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mock-the-week/clips/mock-the-week-tiqfj95byny.json",
+   "source_group": "big-names-shorts"
+  },
+  {
+   "videoId": "TMB9uTepmZQ",
+   "title": "Greg Davies Real Strange Father Christmas Story | Mock The Week",
+   "channel": "Mock The Week",
+   "views": 22650,
+   "likes": null,
+   "duration_s": 151,
+   "url": "https://www.youtube.com/watch?v=TMB9uTepmZQ",
+   "n_words": 408,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "now we play a round called Tinker Taylor Soldier stand up this game involves Simon Greg and Mickey so if you could make your way to the performance area please this round's the stand-up challenge I la",
+   "r2_clip_key": "comedians/mock-the-week/clips/mock-the-week-tmb9utepmzq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mock-the-week/clips/mock-the-week-tmb9utepmzq.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

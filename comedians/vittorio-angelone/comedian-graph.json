@@ -28,9 +28,12 @@
   },
   "discovery": {
     "discovered_from": [
-      "deadline-2026"
+      "deadline-2026",
+      "r2:comedy-specials"
     ],
-    "discovery_note": "Belfast\u2192London, JFL New Face 2025, 40k tickets Who Do You Think You Are tour"
+    "discovery_note": "Belfast\u2192London, JFL New Face 2025, 40k tickets Who Do You Think You Are tour",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -45,7 +48,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 4.7,
     "theory": 12.5,
     "heat": null,
     "gap_value": null,
@@ -71,7 +74,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -115,5 +118,27 @@
     "via": "jerrod-carmichael",
     "sim": 0.097,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  }
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 0,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "title": "Vittorio Angelone and Martin Angolo",
+      "duration_s": 1682,
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vittorio-angelone/clips/bbc-fringe-vittorio-angelone-and-martin-angolo.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 5611,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

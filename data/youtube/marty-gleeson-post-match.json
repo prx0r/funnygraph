@@ -1,0 +1,38 @@
+{
+ "comedian_id": "marty-gleeson-post-match",
+ "name": "Marty Gleeson post-match",
+ "clips": 1,
+ "total_views": 1407,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "ICDU3OFXTt8",
+  "title": "BTV: RD 17 | Marty Gleeson post-match",
+  "channel": "Essendon Football Club",
+  "views": 1407,
+  "duration_s": 97,
+  "url": "https://www.youtube.com/watch?v=ICDU3OFXTt8",
+  "r2_clip_key": "comedians/marty-gleeson-post-match/clips/marty-gleeson-post-match-icdu3ofxtt8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marty-gleeson-post-match/clips/marty-gleeson-post-match-icdu3ofxtt8.json"
+ },
+ "rows": [
+  {
+   "videoId": "ICDU3OFXTt8",
+   "title": "BTV: RD 17 | Marty Gleeson post-match",
+   "channel": "Essendon Football Club",
+   "views": 1407,
+   "likes": null,
+   "duration_s": 97,
+   "url": "https://www.youtube.com/watch?v=ICDU3OFXTt8",
+   "n_words": 423,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "oh so a nice little bit of [Applause] C as good as you'll see Mar seven goal third quarter what do you think the the boys did really well in that term to get that break on the Saints yeah I think the ",
+   "r2_clip_key": "comedians/marty-gleeson-post-match/clips/marty-gleeson-post-match-icdu3ofxtt8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marty-gleeson-post-match/clips/marty-gleeson-post-match-icdu3ofxtt8.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "mark-cram",
+ "name": "MARK CRAM",
+ "clips": 1,
+ "total_views": 1500,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "OsY9mzFszXw",
+  "title": "MARK CRAM - MINISTRY OF JUSTICE",
+  "channel": "@BigBellyComedy",
+  "views": 1500,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=OsY9mzFszXw",
+  "r2_clip_key": "comedians/mark-cram/clips/mark-cram-osy9mzfszxw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-cram/clips/mark-cram-osy9mzfszxw.json"
+ },
+ "rows": [
+  {
+   "videoId": "OsY9mzFszXw",
+   "title": "MARK CRAM - MINISTRY OF JUSTICE",
+   "channel": "@BigBellyComedy",
+   "views": 1500,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=OsY9mzFszXw",
+   "n_words": 89,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Um, Melissa, was it what do you do for the Ministry of Justice? >> I am. >> Sorry. The Ministry of Justice has a podcast. >> A very successful podcast. Who hosts the Ministry of Justice? >> Oo. Let's ",
+   "r2_clip_key": "comedians/mark-cram/clips/mark-cram-osy9mzfszxw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-cram/clips/mark-cram-osy9mzfszxw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

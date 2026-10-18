@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Many comedians consider Alfie to be one of the best stand up comedians working today. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Alfie Brown Review of 2022 Edinburgh Fringe show Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic updates. Website Content \u00a9 2018 - 2026 Marti",
     "otm_url": "https://www.onthemic.co.uk/comedians_list/alfie-brown/",
-    "otm_enriched": true
+    "otm_enriched": true,
+    "r2_comedian": true,
+    "r2_clips": 15
   },
   "sets": [],
   "essay_seeds": [],
@@ -84,7 +87,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 81.1,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -110,12 +113,47 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 15,
+    "total_views": 2824750,
+    "timed_clips": 15,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "1p4c1912Kgw",
+      "title": "Ross Noble called a racist by Katy Perry! Very funny response",
+      "views": 2294087,
+      "duration_s": 60,
+      "url": "https://www.youtube.com/watch?v=1p4c1912Kgw",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alfie-brown/clips/alfie-brown-1p4c1912kgw.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 4494,
+    "special_words": 0,
+    "timed_clips": 15,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q113656066",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

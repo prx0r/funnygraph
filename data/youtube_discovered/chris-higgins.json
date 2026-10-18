@@ -1,0 +1,26 @@
+{
+ "comedian_id": "chris-higgins",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "CiajbgY6ofU",
+   "title": "Jerry O'Hearn (Andy Daly) at MaxFunCon 2011",
+   "channel": "chrishiggins",
+   "publishedAt": "2011-06-16T18:22:05Z",
+   "duration_s": 331,
+   "views": 118203,
+   "likes": 1760,
+   "comedian_slug": "chris-higgins"
+  },
+  {
+   "videoId": "P7iyHv1T6Xc",
+   "title": "\"The Shining\" Opening Credits With Happier Music",
+   "channel": "chrishiggins",
+   "publishedAt": "2009-04-22T02:50:26Z",
+   "duration_s": 184,
+   "views": 23375,
+   "likes": 79,
+   "comedian_slug": "chris-higgins"
+  }
+ ]
+}

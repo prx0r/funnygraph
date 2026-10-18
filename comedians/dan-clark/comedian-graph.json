@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -42,7 +43,9 @@
     "bio_note": "He played the role of Don Danbury on How Not To Live Your Life (BBC Three) and was Johnny Two Hats from The Mighty Boosh (BBC Three) as well as acting in roles in numerous other TV shows. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Dan Clark On The Mic Wednesday, July 16th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscr",
     "otm_enriched": true,
     "otm_url": "https://www.onthemic.co.uk/comedians_list/dan-clark/",
-    "representation": "https://www.unitedagents.co.uk/dan-clark"
+    "representation": "https://www.unitedagents.co.uk/dan-clark",
+    "r2_comedian": true,
+    "r2_clips": 7
   },
   "sets": [],
   "essay_seeds": [],
@@ -80,7 +83,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 69.1,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -106,12 +109,50 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 7,
+    "total_views": 351802,
+    "timed_clips": 7,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "6yZT48E3aJc",
+      "title": "Dan Clark's Guide to Dating - 10 Things You Shouldn't Do When You Have Her Round For Dinner",
+      "views": 144439,
+      "duration_s": 65,
+      "url": "https://www.youtube.com/watch?v=6yZT48E3aJc",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dan-clark/clips/dan-clark-6yzt48e3ajc.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 1032,
+    "special_words": 0,
+    "timed_clips": 7,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q901493",
+    "dob": "1976-07-03",
+    "dod": null,
+    "birthplace": "London",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "writer",
+      "comedian",
+      "actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

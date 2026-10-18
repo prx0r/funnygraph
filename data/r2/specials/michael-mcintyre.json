@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "michael-mcintyre",
+ "specials": [
+  {
+   "special_slug": "hello-wembley-2009",
+   "title": "MICHAEL MCINTYRE: HELLO WEMBLEY! (2009) \u2013 Full Transcript",
+   "comedian": "Michael Mcintyre",
+   "url": "https://scrapsfromtheloft.com/comedy/michael-mcintyre-hello-wembley-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 14930,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "(INAUDIBLE) ANNOUNCER: Wembley, please welcome Michael Mclntyre. (AUDIENCE CHEERING) McINTYRE: Good evening. (WHOOPING) Hello, Wembley! (LAUGHING) Ah, good. And how are you? Good evening. Welcome. Welcome to my show. It\u2019s Saturday night! (AUDIENCE CHEERING) Now, obviously, there would\u2019ve been variou",
+   "r2_special_key": "comedians/michael-mcintyre/specials/hello-wembley-2009.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michael-mcintyre/specials/hello-wembley-2009.json"
+  },
+  {
+   "special_slug": "showman-2020",
+   "title": "MICHAEL MCINTYRE: SHOWMAN (2020) \u2013 TRANSCRIPT",
+   "comedian": "Michael Mcintyre",
+   "url": "https://scrapsfromtheloft.com/comedy/michael-mcintyre-showman-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10325,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Released on September 15, 2020 [Netflix] Ladies and gentlemen, please welcome to the stage Michael McIntyre! Bravo! Good evening, ladies and gentlemen! Welcome\u2026 \u2026to my Netflix special! Let\u2019s do this! Thank you! If I\u2019m honest with you, I wanted to be in slightly better\u2026 physical condition for\u2026 f-for ",
+   "r2_special_key": "comedians/michael-mcintyre/specials/showman-2020.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michael-mcintyre/specials/showman-2020.json"
+  }
+ ],
+ "count": 2
+}

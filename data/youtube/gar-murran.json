@@ -1,0 +1,55 @@
+{
+ "comedian_id": "gar-murran",
+ "name": "Gar Murran",
+ "clips": 2,
+ "total_views": 8700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "YSOERr6H5XA",
+  "title": "Arriving Late | Gar Murran | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "views": 6800,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=YSOERr6H5XA",
+  "r2_clip_key": "comedians/gar-murran/clips/gar-murran-ysoerr6h5xa.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/gar-murran/clips/gar-murran-ysoerr6h5xa.json"
+ },
+ "rows": [
+  {
+   "videoId": "YSOERr6H5XA",
+   "title": "Arriving Late | Gar Murran | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 6800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=YSOERr6H5XA",
+   "n_words": 259,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "So, just sit down. I've I've just started. I'll be finding a bit about this. It's nice. Look, walking into somebody's front room, isn't it? We're all here having a crack, and then we all go quiet and ",
+   "r2_clip_key": "comedians/gar-murran/clips/gar-murran-ysoerr6h5xa.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/gar-murran/clips/gar-murran-ysoerr6h5xa.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "dSPwsqzNwug",
+   "title": "Get a New Daddy | Gar Murran | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 1900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=dSPwsqzNwug",
+   "n_words": 187,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "left or right. You might You might lie down. Mike, do you HAVE A PARTICULAR >> [laughter] >> WE'RE ALL FRIENDS HERE NOW, MAN. RELAX. Imagine [laughter] Joe is not here. Now, he's your older brother. H",
+   "r2_clip_key": "comedians/gar-murran/clips/gar-murran-dspwsqznwug.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/gar-murran/clips/gar-murran-dspwsqznwug.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

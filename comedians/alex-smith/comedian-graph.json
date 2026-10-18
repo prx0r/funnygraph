@@ -105,12 +105,23 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q4717814",
+    "dob": "1976-02-15",
+    "dod": null,
+    "birthplace": "Liverpool",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "association football player"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

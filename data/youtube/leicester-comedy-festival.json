@@ -1,0 +1,38 @@
+{
+ "comedian_id": "leicester-comedy-festival",
+ "name": "Leicester Comedy Festival",
+ "clips": 1,
+ "total_views": 623,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "DCR-VmHWATE",
+  "title": "Leicester Comedy Festival - Gala Preview Show - Dan Nightingale",
+  "channel": "Leicester Comedy Festival",
+  "views": 623,
+  "duration_s": 128,
+  "url": "https://www.youtube.com/watch?v=DCR-VmHWATE",
+  "r2_clip_key": "comedians/leicester-comedy-festival/clips/leicester-comedy-festival-dcr-vmhwate.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/leicester-comedy-festival/clips/leicester-comedy-festival-dcr-vmhwate.json"
+ },
+ "rows": [
+  {
+   "videoId": "DCR-VmHWATE",
+   "title": "Leicester Comedy Festival - Gala Preview Show - Dan Nightingale",
+   "channel": "Leicester Comedy Festival",
+   "views": 623,
+   "likes": null,
+   "duration_s": 128,
+   "url": "https://www.youtube.com/watch?v=DCR-VmHWATE",
+   "n_words": 314,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "thanks for ever me nice to be here it's nice to be in January away from the Christmas dues that I've been playing in December that was Brewer I did one in South Kensington West London which is what we",
+   "r2_clip_key": "comedians/leicester-comedy-festival/clips/leicester-comedy-festival-dcr-vmhwate.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/leicester-comedy-festival/clips/leicester-comedy-festival-dcr-vmhwate.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

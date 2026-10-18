@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "ismo",
+ "specials": [
+  {
+   "special_slug": "hello-2026",
+   "title": "Ismo: Hello (2026)",
+   "comedian": "Ismo",
+   "url": "https://scrapsfromtheloft.com/comedy/ismo-hello-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 7706,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nISMO: Hello (2026) \u2013 Transcript\nPublished July 7, 2026\nISMO: Hello is the debut full-length English stand-up comedy special from acclaimed Finnish comedian Ismo Leikola, released globally in January 2026.\n\nISMO: Hello is the debut full-length English stand-up comedy special from acclaimed",
+   "r2_special_key": "comedians/ismo/specials/hello-2026.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ismo/specials/hello-2026.json"
+  }
+ ],
+ "count": 1
+}

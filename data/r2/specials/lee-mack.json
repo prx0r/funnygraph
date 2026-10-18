@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "lee-mack",
+ "specials": [
+  {
+   "special_slug": "live-2007",
+   "title": "LEE MACK: LIVE (2007) \u2013 FULL TRANSCRIPT",
+   "comedian": "Lee Mack",
+   "url": "https://scrapsfromtheloft.com/comedy/lee-mack-live-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 12608,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[TAKE ME OUT BY FRANZ FERDINAND PLAYING] PRESENTER: Ladies and gentlemen, please welcome Lee Mack. [AUDIENCE CHEERING] Yes! Come on! It\u2019s the last night of the tour! Yes! Right, let\u2019s start with a joke. Why did the chicken cross the road? \u2018Cause his house is being bombed by the Russians. Leave him a",
+   "r2_special_key": "comedians/lee-mack/specials/live-2007.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lee-mack/specials/live-2007.json"
+  },
+  {
+   "special_slug": "going-out-live-2010",
+   "title": "LEE MACK: GOING OUT LIVE (2010) \u2013 FULL TRANSCRIPT",
+   "comedian": "Lee Mack",
+   "url": "https://scrapsfromtheloft.com/comedy/lee-mack-going-out-live-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9355,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "This programme contains strong language [APPLAUSE AND CHEERING] Over 100 dates across the country but this is the big one, the one he\u2019s really been looking forward to, the best town on the tour, yes, we\u2019re here in\u2026 Hammersmith. Yes, wonderful, beautiful, amazing\u2026 Hammersmith. Famous, of course, for ",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lee-mack/specials/going-out-live-2010.json"
+  }
+ ],
+ "count": 2
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jj-whitehead",
+ "name": "JJ Whitehead",
+ "clips": 1,
+ "total_views": 698,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Uba5tCNVOpU",
+  "title": "Woman on Top | JJ Whitehead | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "views": 698,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Uba5tCNVOpU",
+  "r2_clip_key": "comedians/jj-whitehead/clips/jj-whitehead-uba5tcnvopu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jj-whitehead/clips/jj-whitehead-uba5tcnvopu.json"
+ },
+ "rows": [
+  {
+   "videoId": "Uba5tCNVOpU",
+   "title": "Woman on Top | JJ Whitehead | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 698,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Uba5tCNVOpU",
+   "n_words": 67,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "You ladies are much better. The women in here, congratulations, ladies. You know how to help a friend through hard times, don't you? Women are You're just built better. You have a system. You have a W",
+   "r2_clip_key": "comedians/jj-whitehead/clips/jj-whitehead-uba5tcnvopu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jj-whitehead/clips/jj-whitehead-uba5tcnvopu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

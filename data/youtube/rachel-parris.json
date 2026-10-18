@@ -1,0 +1,38 @@
+{
+ "comedian_id": "rachel-parris",
+ "name": "Rachel Parris",
+ "clips": 1,
+ "total_views": 13000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "mqacqF6v3HQ",
+  "title": "And that\u2019s modern feminism for ya \ud83d\udc85\ud83c\udffc",
+  "channel": "NextUp Comedy",
+  "views": 13000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=mqacqF6v3HQ",
+  "r2_clip_key": "comedians/rachel-parris/clips/rachel-parris-mqacqf6v3hq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rachel-parris/clips/rachel-parris-mqacqf6v3hq.json"
+ },
+ "rows": [
+  {
+   "videoId": "mqacqF6v3HQ",
+   "title": "And that\u2019s modern feminism for ya \ud83d\udc85\ud83c\udffc",
+   "channel": "NextUp Comedy",
+   "views": 13000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=mqacqF6v3HQ",
+   "n_words": 253,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "Mae 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n gwneud i 'n g",
+   "r2_clip_key": "comedians/rachel-parris/clips/rachel-parris-mqacqf6v3hq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rachel-parris/clips/rachel-parris-mqacqf6v3hq.json",
+   "source_group": null
+  }
+ ]
+}

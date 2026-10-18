@@ -1,0 +1,38 @@
+{
+ "comedian_id": "joke-thief",
+ "name": "JOKE THIEF!",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "j_Zu4cNc_1k",
+  "title": "JOKE THIEF! | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=j_Zu4cNc_1k",
+  "r2_clip_key": "comedians/joke-thief/clips/joke-thief-j-zu4cnc-1k.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joke-thief/clips/joke-thief-j-zu4cnc-1k.json"
+ },
+ "rows": [
+  {
+   "videoId": "j_Zu4cNc_1k",
+   "title": "JOKE THIEF! | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=j_Zu4cNc_1k",
+   "n_words": 122,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Played a football darts quiz. What is this ? Yes, football 501. Congratulations to James on football. The best football quiz show in the universe. They played five games against each other. James did ",
+   "r2_clip_key": "comedians/joke-thief/clips/joke-thief-j-zu4cnc-1k.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joke-thief/clips/joke-thief-j-zu4cnc-1k.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

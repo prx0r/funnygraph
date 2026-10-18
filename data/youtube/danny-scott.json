@@ -1,0 +1,38 @@
+{
+ "comedian_id": "danny-scott",
+ "name": "DANNY SCOTT",
+ "clips": 1,
+ "total_views": 2400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "4efhIsV4eF8",
+  "title": "DANNY SCOTT - BIG BOY",
+  "channel": "@BigBellyComedy",
+  "views": 2400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=4efhIsV4eF8",
+  "r2_clip_key": "comedians/danny-scott/clips/danny-scott-4efhisv4ef8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/danny-scott/clips/danny-scott-4efhisv4ef8.json"
+ },
+ "rows": [
+  {
+   "videoId": "4efhIsV4eF8",
+   "title": "DANNY SCOTT - BIG BOY",
+   "channel": "@BigBellyComedy",
+   "views": 2400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=4efhIsV4eF8",
+   "n_words": 73,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "How did you two meet? >> At a bus stop. >> At a bus stop. >> And what happened? >> The bus was late. >> The bus was late. Yeah. >> Started chatting. >> You started chatting >> and then >> Oh, hello bi",
+   "r2_clip_key": "comedians/danny-scott/clips/danny-scott-4efhisv4ef8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/danny-scott/clips/danny-scott-4efhisv4ef8.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

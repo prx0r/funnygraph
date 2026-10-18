@@ -125,8 +125,14 @@
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "the-berkeley-concert-1965"
+    ],
+    "special_titles": [
+      "Lenny Bruce: The Berkeley Concert (1965) \u2013 Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -344,10 +350,10 @@
     "legacy": 98.3,
     "legacy_era": 96.4,
     "audience": 32.5,
-    "popularity": 55.2,
+    "popularity": 81.5,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.227,
+    "gap_value": 0.49,
     "overrated": "overrated",
     "canon_lag": -0.658
   },
@@ -406,16 +412,16 @@
     ]
   },
   "rating": {
-    "headline": 11.1,
+    "headline": 20.6,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
-        "rank": 17,
-        "pct": 11.1,
+        "rank": 28,
+        "pct": 20.6,
         "sweep": [
-          17,
-          17
+          28,
+          28
         ]
       },
       "consensus": {
@@ -437,10 +443,10 @@
       }
     },
     "interval": {
-      "lo": 17,
-      "hi": 17
+      "lo": 28,
+      "hi": 28
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {
@@ -452,5 +458,21 @@
       "death by overdose"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 1
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 13016,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

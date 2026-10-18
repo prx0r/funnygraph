@@ -1,0 +1,38 @@
+{
+ "comedian_id": "i-quit-drinking",
+ "name": "I Quit Drinking",
+ "clips": 1,
+ "total_views": 16000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "8Z6NDqrN8tI",
+  "title": "I Quit Drinking - Stephanie Laing - Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 16000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=8Z6NDqrN8tI",
+  "r2_clip_key": "comedians/i-quit-drinking/clips/i-quit-drinking-8z6ndqrn8ti.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/i-quit-drinking/clips/i-quit-drinking-8z6ndqrn8ti.json"
+ },
+ "rows": [
+  {
+   "videoId": "8Z6NDqrN8tI",
+   "title": "I Quit Drinking - Stephanie Laing - Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 16000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=8Z6NDqrN8tI",
+   "n_words": 73,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I think I'm all right looking in a weird way, right? I've got quite a big forehead. I'm a bit pointy. I think I'm the sort of person where you might look at me and think, \"Yeah, she's kind of sexy.\" B",
+   "r2_clip_key": "comedians/i-quit-drinking/clips/i-quit-drinking-8z6ndqrn8ti.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/i-quit-drinking/clips/i-quit-drinking-8z6ndqrn8ti.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

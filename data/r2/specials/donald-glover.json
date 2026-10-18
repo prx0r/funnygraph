@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "donald-glover",
+ "specials": [
+  {
+   "special_slug": "weirdo-2012",
+   "title": "Donald Glover: Weirdo (2012) \u2013 Transcript",
+   "comedian": "Donald Glover",
+   "url": "https://scrapsfromtheloft.com/comedy/donald-glover-weirdo-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 11247,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Yeah. Yeah. Yeah. Yeah, gonna talk about a lot of stuff. My parents are gonna see it. They\u2019re the ones in the other car. My mom hasn\u2019t. Yeah. I want her to see what I do, you know? Yeah\u2026 but you know, if you gotta do that\u2026 You know, you can\u2019t live in fear. You see I\u2019m trying to make a turn, right? I",
+   "r2_special_key": "comedians/donald-glover/specials/weirdo-2012.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/donald-glover/specials/weirdo-2012.json"
+  }
+ ],
+ "count": 1
+}

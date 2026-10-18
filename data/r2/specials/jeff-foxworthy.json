@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "jeff-foxworthy",
+ "specials": [
+  {
+   "special_slug": "totally-committed-1998",
+   "title": "Jeff Foxworthy: Totally Committed (1998) \u2013 Full Transcript",
+   "comedian": "Jeff Foxworthy",
+   "url": "https://scrapsfromtheloft.com/comedy/jeff-foxworthy-totally-committed-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8167,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Ladies and gentlemen, please welcome Jeff Foxworthy! Thank you. Thank you very much. Nice to be back in Cincinnati! Special city special night special boots I bought new boots for the show. Can you see those? [applause from the audience] Blue stingray boots. Boots that make a statement. And that sta",
+   "r2_special_key": "comedians/jeff-foxworthy/specials/totally-committed-1998.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jeff-foxworthy/specials/totally-committed-1998.json"
+  }
+ ],
+ "count": 1
+}

@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "youtube-uploads:venue-roster:angel-comedy"
+      "youtube-uploads:venue-roster:angel-comedy",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
     "evidence": [
@@ -37,7 +38,9 @@
         "venue": "angel-comedy"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "r2_comedian": true,
+    "r2_clips": 17
   },
   "sets": [],
   "essay_seeds": [],
@@ -49,7 +52,7 @@
     "legacy": 44.9,
     "legacy_era": 69.1,
     "audience": null,
-    "popularity": null,
+    "popularity": 67.8,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -57,7 +60,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -83,7 +86,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -91,5 +94,42 @@
     "source": "url-guess-verified",
     "checked": "2026-10-17"
   },
-  "region": "uk"
+  "region": "uk",
+  "youtube": {
+    "clips": 17,
+    "total_views": 307233,
+    "timed_clips": 17,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "3NNlnBcNxo0",
+      "title": "Do YOU have a side of the bed? - BBC",
+      "views": 130688,
+      "duration_s": 176,
+      "url": "https://www.youtube.com/watch?v=3NNlnBcNxo0",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/catherine-bohart/clips/catherine-bohart-3nnlnbcnxo0.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 4856,
+    "special_words": 0,
+    "timed_clips": 17,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q56648697",
+    "dob": "1988-08-16",
+    "dod": null,
+    "birthplace": "Dublin",
+    "citizenship": "Ireland",
+    "occupations": [
+      "stand-up comedian",
+      "writer",
+      "radio personality"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

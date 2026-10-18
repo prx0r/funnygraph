@@ -1,0 +1,38 @@
+{
+ "comedian_id": "khurram-yasin",
+ "name": "Khurram Yasin",
+ "clips": 1,
+ "total_views": 293228,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "tZrCMM8SJ14",
+  "title": "Jason Manford Liverpool",
+  "channel": "Khurram Yasin",
+  "views": 293228,
+  "duration_s": 83,
+  "url": "https://www.youtube.com/watch?v=tZrCMM8SJ14",
+  "r2_clip_key": "comedians/khurram-yasin/clips/khurram-yasin-tzrcmm8sj14.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/khurram-yasin/clips/khurram-yasin-tzrcmm8sj14.json"
+ },
+ "rows": [
+  {
+   "videoId": "tZrCMM8SJ14",
+   "title": "Jason Manford Liverpool",
+   "channel": "Khurram Yasin",
+   "views": 293228,
+   "likes": null,
+   "duration_s": 83,
+   "url": "https://www.youtube.com/watch?v=tZrCMM8SJ14",
+   "n_words": 210,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "All friends here. Liverpool's has a strange relationship with Manchester as well. Is anybody in from Liverpool? All right. Thought we might have priced you out. Not to worry. I I love Liverpool. It wa",
+   "r2_clip_key": "comedians/khurram-yasin/clips/khurram-yasin-tzrcmm8sj14.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/khurram-yasin/clips/khurram-yasin-tzrcmm8sj14.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

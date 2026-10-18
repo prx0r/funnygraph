@@ -1,398 +1,1195 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "lee-mack",
-  "name": "Lee Mack",
-  "note": "AUTO-DRAFT from transcript stats \u2014 needs human review for identity/style thesis. Threads and vocabulary are measured.",
-  "version": 2,
-  "created": "2026-10-16",
-  "annotator": "mimo-v2.5",
-  "identity": {
-    "deal": "Stand-up voice with 15,549 words of specials in the corpus. Top distinctive vocabulary: your, said, fucking, about, there.",
-    "premise": "Auto-drafted from 15,549 transcript words \u2014 needs human review for the engine thesis.",
-    "archetype": "auto_draft",
-    "awareness": "unknown",
-    "awareness_note": "auto-draft \u2014 needs human review",
-    "philosophy": {
-      "ontology": "Top topics suggest: your, said, fucking, about.",
-      "epistemology": "auto-draft",
-      "axiology": "auto-draft",
-      "causality": "auto-draft",
-      "agency": "auto-draft"
-    },
-    "dramatic_core": {
-      "want": "auto-draft",
-      "fear": "auto-draft",
-      "need": "auto-draft",
-      "self_model": "auto-draft",
-      "blind_spots": [
-        "auto-draft \u2014 needs human review"
-      ]
-    },
-    "misinterpretation_rule": "auto-draft \u2014 derive from distinctive vocabulary and topics",
-    "contradictions": [],
-    "status_model": {
-      "desired_status": "auto-draft",
-      "felt_status": "auto-draft"
-    },
-    "expression": {
-      "default_register": "auto-draft",
-      "emotional_restraint": "high",
-      "tells": [
-        "top words: your, said, fucking, about, there"
-      ]
-    },
-    "modulator_range": [],
-    "profile": {
-      "energy": 0.5,
-      "pace": "auto-draft",
-      "gesture_frequency": 0.5,
-      "punchline_hold_ms": 800
-    },
-    "operator_priors": {
-      "rigidify": 0.5,
-      "literalize": 0.5,
-      "double_interpret": 0.5,
-      "status_invert": 0.5,
-      "character_violation": 0.5,
-      "status": "auto-draft from transcript stats"
-    },
-    "preferred_theories": [],
-    "threads": [
-      "your",
-      "said",
-      "fucking",
-      "about",
-      "there",
-      "very"
-    ],
-    "problem_space": [
-      "people",
-      "name",
-      "went",
-      "fuck"
-    ]
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "lee-mack",
+ "name": "Lee Mack",
+ "note": "AUTO-DRAFT from transcript stats \u2014 needs human review for identity/style thesis. Threads and vocabulary are measured.",
+ "version": 2,
+ "created": "2026-10-16",
+ "annotator": "mimo-v2.5",
+ "identity": {
+  "deal": "Stand-up voice with 15,549 words of specials in the corpus. Top distinctive vocabulary: your, said, fucking, about, there.",
+  "premise": "Auto-drafted from 15,549 transcript words \u2014 needs human review for the engine thesis.",
+  "archetype": "auto_draft",
+  "awareness": "unknown",
+  "awareness_note": "auto-draft \u2014 needs human review",
+  "philosophy": {
+   "ontology": "Top topics suggest: your, said, fucking, about.",
+   "epistemology": "auto-draft",
+   "axiology": "auto-draft",
+   "causality": "auto-draft",
+   "agency": "auto-draft"
   },
-  "engine": {
-    "voice_clone_id": null,
-    "delivery_archetype": "auto_draft",
-    "jev_state": {
-      "status": "NOT RUN"
-    }
+  "dramatic_core": {
+   "want": "auto-draft",
+   "fear": "auto-draft",
+   "need": "auto-draft",
+   "self_model": "auto-draft",
+   "blind_spots": [
+    "auto-draft \u2014 needs human review"
+   ]
   },
-  "sets": [
-    {
-      "set_id": "lee-mack_2007",
-      "title": "2007",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/lee-mack/2007.txt",
-        "format": "plain txt",
-        "words": 8834
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    },
-    {
-      "set_id": "lee-mack_2010",
-      "title": "2010",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/lee-mack/2010.txt",
-        "format": "plain txt",
-        "words": 6715
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    }
+  "misinterpretation_rule": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+  "contradictions": [],
+  "status_model": {
+   "desired_status": "auto-draft",
+   "felt_status": "auto-draft"
+  },
+  "expression": {
+   "default_register": "auto-draft",
+   "emotional_restraint": "high",
+   "tells": [
+    "top words: your, said, fucking, about, there"
+   ]
+  },
+  "modulator_range": [],
+  "profile": {
+   "energy": 0.5,
+   "pace": "auto-draft",
+   "gesture_frequency": 0.5,
+   "punchline_hold_ms": 800
+  },
+  "operator_priors": {
+   "rigidify": 0.5,
+   "literalize": 0.5,
+   "double_interpret": 0.5,
+   "status_invert": 0.5,
+   "character_violation": 0.5,
+   "status": "auto-draft from transcript stats"
+  },
+  "preferred_theories": [],
+  "threads": [
+   "your",
+   "said",
+   "fucking",
+   "about",
+   "there",
+   "very"
   ],
-  "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
-  },
-  "essay_seeds": [
-    {
-      "id": "lee-mack-essay-01",
-      "title": "Why is Lee Mack funny?",
-      "thesis": "auto-draft \u2014 derive from distinctive vocabulary and topics",
-      "evidence": [
-        "identity.misinterpretation_rule",
-        "identity.operator_priors",
-        "identity.threads"
-      ],
-      "outline": [
-        "the deal",
-        "the engine",
-        "the priors",
-        "three threads",
-        "why it can't be copied"
-      ],
-      "status": "seed"
-    },
-    {
-      "id": "lee-mack-bit-01",
-      "title": "Lee Mack: 'Suffering as sitcom engine' \u2014 how the bit works",
-      "thesis": "Plays the put-upon straight man to a chaotic world (and sitcom). The moan is musical \u2014 audiences laugh at the inevitability before the punchline lands.",
-      "evidence": [
-        "known_bits[0]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals"
-      ],
-      "status": "seed"
-    },
-    {
-      "id": "lee-mack-bit-02",
-      "title": "Lee Mack: 'Quick wit under fire' \u2014 how the bit works",
-      "thesis": "Would I Lie to You? turned his heckler-brain into a panel-show weapon. The speed IS the bit: thinking faster than everyone in the room, live.",
-      "evidence": [
-        "known_bits[1]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals"
-      ],
-      "status": "seed"
-    }
-  ],
-  "provenance": {
-    "persona": "authored from public reputation (no verbatim bits)",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines",
-      "hypothesis until measured"
-    ],
-    "sets_observed": 0,
-    "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
-    "transcripts_linked": [
-      "transcripts/lee-mack/2007.txt",
-      "transcripts/lee-mack/2010.txt"
-    ],
-    "theory_applied": true,
-    "deepened": "2026-10-16"
-  },
-  "theory_links": {
-    "internal": [
-      {
-        "id": "gtvh",
-        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
-        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "attardo-pause-taxonomy",
-        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
-        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "dpv",
-        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
-        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "incongruity",
-        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
-        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "benign_violation",
-        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
-        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "status_reversal",
-        "cite": "Roger & Duffy / status theory of humor",
-        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "split_knowledge",
-        "cite": "Veatch 1978 \u2014 theory of joking relationships",
-        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "escalation",
-        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
-        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
-        "applies_to": "primary move / timing / structure"
-      }
-    ],
-    "external": [
-      {
-        "id": "standup4ai",
-        "cite": "StandUp4AI dataset (EMNLP 2025)",
-        "use": "future laugh-position ground truth"
-      },
-      {
-        "id": "tic-talk",
-        "cite": "TIC-TALK (CHum 2026)",
-        "use": "future cross-comedian timing normalization"
-      }
-    ]
-  },
-  "generation": {
-    "id": "nineties",
-    "label": "Nineties alt + HBO",
-    "span": "1990s",
-    "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
-    "scene": "uk-panel",
-    "breakthrough": "1990s"
-  },
-  "bio": {
-    "wikidata_id": "Q2405844",
-    "dob": "1968-08-04",
-    "dod": null,
-    "birthplace": "Southport",
-    "citizenship": "United Kingdom",
-    "occupations": [
-      "television actor",
-      "autobiographer",
-      "stand-up comedian",
-      "film actor"
-    ],
-    "source": "wikidata (CC0)"
-  },
-  "humor_type": {
-    "primary": "observational",
-    "secondary": null,
-    "scores": {
-      "observational": 1.0
-    },
-    "method": "archetype+theories+transcript"
-  },
-  "metrics": {
-    "legacy": 76.3,
-    "legacy_era": 80.9,
-    "audience": 55.0,
-    "popularity": null,
-    "theory": 50.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": -0.213
-  },
-  "tier": "king",
-  "region": "uk",
-  "continent": "europe",
-  "modes": {
-    "signature": "observational",
-    "signature_title": "put-upon everyman",
-    "repertoire": {
-      "observational": 1.0
-    },
-    "n_modes": 1
-  },
-  "style": {
-    "words": 21871,
-    "profanity_rate": 0.0091,
-    "question_rate": 0.295,
-    "i_rate": 0.044,
-    "vocab_div": 0.121,
-    "avg_sent_len": 8.8,
-    "top_words": [
-      "said",
-      "fucking",
-      "people",
-      "name",
-      "went",
-      "fuck",
-      "love",
-      "think",
-      "time",
-      "great",
-      "good",
-      "well"
-    ]
-  },
-  "recognition": {
-    "awards": [
-      {
-        "award": "Chortle Award for Best Comp\u00e8re",
-        "year": 2002
-      }
-    ]
-  },
-  "rating": {
-    "headline": 16.7,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
-    "boards": {
-      "house": {
-        "rank": null
-      },
-      "consensus": {
-        "rank": 99,
-        "ref": true
-      },
-      "canon": {
-        "rank": 147,
-        "ref": true
-      },
-      "peoples": {
-        "rank": 31,
-        "wr": 7.42,
-        "ref": true
-      },
-      "era": {
-        "rank": 80,
-        "ref": true
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "specials_rated": [
-    {
-      "special": "Lee Mack: Going Out Live",
-      "year": 2010,
-      "imdb_id": "tt2170475",
-      "imdb_rating": 7.2,
-      "imdb_votes": 183,
-      "source": "known-title",
-      "standout": false
-    }
-  ],
-  "timing_profile": {
-    "doctrine_hypothesis": "Rapid-fire moaning with perfect sitcom timing \u2014 the complaint arrives before the setup finishes. Not Going Out rhythm: chaos enters, Lee suffers, audience sides with the sufferer."
-  },
-  "known_bits": [
-    {
-      "title": "Suffering as sitcom engine",
-      "why_it_works": "Plays the put-upon straight man to a chaotic world (and sitcom). The moan is musical \u2014 audiences laugh at the inevitability before the punchline lands.",
-      "theory_links": [
-        "status_reversal",
-        "benign_violation"
-      ]
-    },
-    {
-      "title": "Quick wit under fire",
-      "why_it_works": "Would I Lie to You? turned his heckler-brain into a panel-show weapon. The speed IS the bit: thinking faster than everyone in the room, live.",
-      "theory_links": [
-        "split_knowledge",
-        "superiority"
-      ]
-    }
-  ],
-  "youtube_channel": {
-    "id": "UCCwNLAU8YZk2SuviSjR3CQA",
-    "handle": "LeeMack",
-    "title": "Lee Mack",
-    "subs": 61000,
-    "via": "forHandle-verified",
-    "source": "UK push (verified, no search)"
+  "problem_space": [
+   "people",
+   "name",
+   "went",
+   "fuck"
+  ]
+ },
+ "engine": {
+  "voice_clone_id": null,
+  "delivery_archetype": "auto_draft",
+  "jev_state": {
+   "status": "NOT RUN"
   }
+ },
+ "sets": [
+  {
+   "set_id": "lee-mack_2007",
+   "title": "2007",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/lee-mack/2007.txt",
+    "format": "plain txt",
+    "words": 8834
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+  },
+  {
+   "set_id": "lee-mack_2010",
+   "title": "2010",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/lee-mack/2010.txt",
+    "format": "plain txt",
+    "words": 6715
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
+  }
+ ],
+ "set_queue": {
+  "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+  "r2_specials": [
+   "live-2007",
+   "going-out-live-2010"
+  ],
+  "special_titles": [
+   "LEE MACK: LIVE (2007) \u2013 FULL TRANSCRIPT",
+   "LEE MACK: GOING OUT LIVE (2010) \u2013 FULL TRANSCRIPT"
+  ],
+  "blocked_on": "ingest (r2 specials are transcript-linked)"
+ },
+ "essay_seeds": [
+  {
+   "id": "lee-mack-essay-01",
+   "title": "Why is Lee Mack funny?",
+   "thesis": "auto-draft \u2014 derive from distinctive vocabulary and topics",
+   "evidence": [
+    "identity.misinterpretation_rule",
+    "identity.operator_priors",
+    "identity.threads"
+   ],
+   "outline": [
+    "the deal",
+    "the engine",
+    "the priors",
+    "three threads",
+    "why it can't be copied"
+   ],
+   "status": "seed"
+  },
+  {
+   "id": "lee-mack-bit-01",
+   "title": "Lee Mack: 'Suffering as sitcom engine' \u2014 how the bit works",
+   "thesis": "Plays the put-upon straight man to a chaotic world (and sitcom). The moan is musical \u2014 audiences laugh at the inevitability before the punchline lands.",
+   "evidence": [
+    "known_bits[0]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals"
+   ],
+   "status": "seed"
+  },
+  {
+   "id": "lee-mack-bit-02",
+   "title": "Lee Mack: 'Quick wit under fire' \u2014 how the bit works",
+   "thesis": "Would I Lie to You? turned his heckler-brain into a panel-show weapon. The speed IS the bit: thinking faster than everyone in the room, live.",
+   "evidence": [
+    "known_bits[1]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals"
+   ],
+   "status": "seed"
+  }
+ ],
+ "provenance": {
+  "persona": "authored from public reputation (no verbatim bits)",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines",
+   "hypothesis until measured"
+  ],
+  "sets_observed": 0,
+  "next": "harvest captions \u2192 analyze_set \u2192 fill timing_measured",
+  "transcripts_linked": [
+   "transcripts/lee-mack/2007.txt",
+   "transcripts/lee-mack/2010.txt"
+  ],
+  "theory_applied": true,
+  "deepened": "2026-10-16"
+ },
+ "theory_links": {
+  "internal": [
+   {
+    "id": "gtvh",
+    "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+    "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "attardo-pause-taxonomy",
+    "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+    "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "dpv",
+    "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+    "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "incongruity",
+    "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+    "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "benign_violation",
+    "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+    "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "status_reversal",
+    "cite": "Roger & Duffy / status theory of humor",
+    "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "split_knowledge",
+    "cite": "Veatch 1978 \u2014 theory of joking relationships",
+    "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "escalation",
+    "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+    "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+    "applies_to": "primary move / timing / structure"
+   }
+  ],
+  "external": [
+   {
+    "id": "standup4ai",
+    "cite": "StandUp4AI dataset (EMNLP 2025)",
+    "use": "future laugh-position ground truth"
+   },
+   {
+    "id": "tic-talk",
+    "cite": "TIC-TALK (CHum 2026)",
+    "use": "future cross-comedian timing normalization"
+   }
+  ]
+ },
+ "generation": {
+  "id": "nineties",
+  "label": "Nineties alt + HBO",
+  "span": "1990s",
+  "note": "Alt rooms, HBO hours, SNL golden age, Boston/LA/NYC scenes. Anti-boom craft.",
+  "scene": "uk-panel",
+  "breakthrough": "1990s"
+ },
+ "bio": {
+  "wikidata_id": "Q2405844",
+  "dob": "1968-08-04",
+  "dod": null,
+  "birthplace": "Southport",
+  "citizenship": "United Kingdom",
+  "occupations": [
+   "television actor",
+   "autobiographer",
+   "stand-up comedian",
+   "film actor"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "humor_type": {
+  "primary": "observational",
+  "secondary": null,
+  "scores": {
+   "observational": 1.0
+  },
+  "method": "archetype+theories+transcript"
+ },
+ "metrics": {
+  "legacy": 76.3,
+  "legacy_era": 80.9,
+  "audience": 55.0,
+  "popularity": null,
+  "theory": 50.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": -0.213
+ },
+ "tier": "king",
+ "region": "uk",
+ "continent": "europe",
+ "modes": {
+  "signature": "observational",
+  "signature_title": "put-upon everyman",
+  "repertoire": {
+   "observational": 1.0
+  },
+  "n_modes": 1
+ },
+ "style": {
+  "words": 21871,
+  "profanity_rate": 0.0091,
+  "question_rate": 0.295,
+  "i_rate": 0.044,
+  "vocab_div": 0.121,
+  "avg_sent_len": 8.8,
+  "top_words": [
+   "said",
+   "fucking",
+   "people",
+   "name",
+   "went",
+   "fuck",
+   "love",
+   "think",
+   "time",
+   "great",
+   "good",
+   "well"
+  ]
+ },
+ "recognition": {
+  "awards": [
+   {
+    "award": "Chortle Award for Best Comp\u00e8re",
+    "year": 2002
+   }
+  ]
+ },
+ "rating": {
+  "headline": 55.9,
+  "coverage": "UNRANKED",
+  "provisional": "neighbor-latent",
+  "boards": {
+   "house": {
+    "rank": null
+   },
+   "consensus": {
+    "rank": 99,
+    "ref": true
+   },
+   "canon": {
+    "rank": 147,
+    "ref": true
+   },
+   "peoples": {
+    "rank": 31,
+    "wr": 7.42,
+    "ref": true
+   },
+   "era": {
+    "rank": 80,
+    "ref": true
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "specials_rated": [
+  {
+   "special": "Lee Mack: Going Out Live",
+   "year": 2010,
+   "imdb_id": "tt2170475",
+   "imdb_rating": 7.2,
+   "imdb_votes": 183,
+   "source": "known-title",
+   "standout": false
+  }
+ ],
+ "timing_profile": {
+  "doctrine_hypothesis": "Rapid-fire moaning with perfect sitcom timing \u2014 the complaint arrives before the setup finishes. Not Going Out rhythm: chaos enters, Lee suffers, audience sides with the sufferer."
+ },
+ "known_bits": [
+  {
+   "title": "Suffering as sitcom engine",
+   "why_it_works": "Plays the put-upon straight man to a chaotic world (and sitcom). The moan is musical \u2014 audiences laugh at the inevitability before the punchline lands.",
+   "theory_links": [
+    "status_reversal",
+    "benign_violation"
+   ]
+  },
+  {
+   "title": "Quick wit under fire",
+   "why_it_works": "Would I Lie to You? turned his heckler-brain into a panel-show weapon. The speed IS the bit: thinking faster than everyone in the room, live.",
+   "theory_links": [
+    "split_knowledge",
+    "superiority"
+   ]
+  }
+ ],
+ "youtube_channel": {
+  "id": "UCCwNLAU8YZk2SuviSjR3CQA",
+  "handle": "LeeMack",
+  "title": "Lee Mack",
+  "subs": 61000,
+  "via": "forHandle-verified",
+  "source": "UK push (verified, no search)"
+ },
+ "discovery": {
+  "discovered_from": [
+   "r2:comedy-specials"
+  ],
+  "r2_comedian": true,
+  "r2_specials": 2
+ },
+ "transcripts": {
+  "clip_words": 0,
+  "special_words": 21963,
+  "timed_clips": 0,
+  "timed_specials": 0,
+  "r2_source": "r2:comedy-specials",
+  "synced": "2026-10-18"
+ },
+ "r2_profiled": "2026-10-18",
+ "youtube_specials": [
+  {
+   "videoId": "YSVOK7S3CNA",
+   "title": "Not Going Out - Hotel Room | Full Episode",
+   "duration_s": 1689,
+   "views": 50943,
+   "url": "https://www.youtube.com/watch?v=YSVOK7S3CNA",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "FgKzqi8EQp0",
+   "title": "Not Going Out - Dragon Castle | Full Episode",
+   "duration_s": 1695,
+   "views": 43449,
+   "url": "https://www.youtube.com/watch?v=FgKzqi8EQp0",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "oeCiI0xl9LE",
+   "title": "Not Going Out - Oasis | Full Episode",
+   "duration_s": 1752,
+   "views": 79081,
+   "url": "https://www.youtube.com/watch?v=oeCiI0xl9LE",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "SEj_opL7_po",
+   "title": "Not Going Out - Campervan | Full Episode",
+   "duration_s": 1704,
+   "views": 55627,
+   "url": "https://www.youtube.com/watch?v=SEj_opL7_po",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "mmjjIOTqf9I",
+   "title": "Not Going Out - Doll | Full Episode",
+   "duration_s": 1732,
+   "views": 78810,
+   "url": "https://www.youtube.com/watch?v=mmjjIOTqf9I",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "PoAA1JsZWSQ",
+   "title": "Not Going Out - House Move | Full Episode",
+   "duration_s": 1633,
+   "views": 59062,
+   "url": "https://www.youtube.com/watch?v=PoAA1JsZWSQ",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "TjK5eD85Ymo",
+   "title": "Not Going Out - Wilfred | Full Episode",
+   "duration_s": 2417,
+   "views": 62838,
+   "url": "https://www.youtube.com/watch?v=TjK5eD85Ymo",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "cOTQVkgLMMs",
+   "title": "Not Going Out - Football | Full Episode",
+   "duration_s": 1741,
+   "views": 46886,
+   "url": "https://www.youtube.com/watch?v=cOTQVkgLMMs",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "jT-ll4xdPjk",
+   "title": "Not Going Out - Beep | Full Episode",
+   "duration_s": 1702,
+   "views": 51353,
+   "url": "https://www.youtube.com/watch?v=jT-ll4xdPjk",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "g-Y7hUGgjeo",
+   "title": "Not Going Out - Train | Full Episode",
+   "duration_s": 1739,
+   "views": 53115,
+   "url": "https://www.youtube.com/watch?v=g-Y7hUGgjeo",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "fEyoXC3gLMM",
+   "title": "Not Going Out - Coffin | Full Episode",
+   "duration_s": 1590,
+   "views": 23236,
+   "url": "https://www.youtube.com/watch?v=fEyoXC3gLMM",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "JnwtzHlS9TM",
+   "title": "Not Going Out - Day Out | Full Episode",
+   "duration_s": 1723,
+   "views": 43919,
+   "url": "https://www.youtube.com/watch?v=JnwtzHlS9TM",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "qEXeIEvwmzU",
+   "title": "Not Going Out - Hospital | Full Episode",
+   "duration_s": 1743,
+   "views": 47125,
+   "url": "https://www.youtube.com/watch?v=qEXeIEvwmzU",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "C67lMaobdps",
+   "title": "Not Going Out - Italian Lessons | Full Episode",
+   "duration_s": 1771,
+   "views": 63735,
+   "url": "https://www.youtube.com/watch?v=C67lMaobdps",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "UChpzHvuPGM",
+   "title": "Not Going Out - Tent | Full Episode",
+   "duration_s": 1748,
+   "views": 111864,
+   "url": "https://www.youtube.com/watch?v=UChpzHvuPGM",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "qPDHI8tDYA4",
+   "title": "Not Going Out - Jury | Full Episode",
+   "duration_s": 1774,
+   "views": 47922,
+   "url": "https://www.youtube.com/watch?v=qPDHI8tDYA4",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "JtsP6jHUdUU",
+   "title": "Not Going Out - Front Window | Full Episode",
+   "duration_s": 1658,
+   "views": 55442,
+   "url": "https://www.youtube.com/watch?v=JtsP6jHUdUU",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "YaPRi_anAog",
+   "title": "Not Going Out - Friend | Full Episode",
+   "duration_s": 1769,
+   "views": 55048,
+   "url": "https://www.youtube.com/watch?v=YaPRi_anAog",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "o7eG5lNc3m4",
+   "title": "Not Going Out - Text | Full Episode",
+   "duration_s": 1718,
+   "views": 55386,
+   "url": "https://www.youtube.com/watch?v=o7eG5lNc3m4",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "06Hmp78GsiQ",
+   "title": "Not Going Out - Painting | Full Episode",
+   "duration_s": 1684,
+   "views": 54338,
+   "url": "https://www.youtube.com/watch?v=06Hmp78GsiQ",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "BCgtEPenXHs",
+   "title": "Lee Mack's Most Awkward Moments | Not Going Out",
+   "duration_s": 1650,
+   "views": 139034,
+   "url": "https://www.youtube.com/watch?v=BCgtEPenXHs",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "mUQGNff33yo",
+   "title": "Not Going Out - Examination | Full Episode",
+   "duration_s": 1652,
+   "views": 123692,
+   "url": "https://www.youtube.com/watch?v=mUQGNff33yo",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "Prv3rdODn3s",
+   "title": "Not Going Out - Band | Full Episode",
+   "duration_s": 1728,
+   "views": 120264,
+   "url": "https://www.youtube.com/watch?v=Prv3rdODn3s",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "qCZSgJvA11k",
+   "title": "Not Going Out - Speech | Full Episode",
+   "duration_s": 1642,
+   "views": 139833,
+   "url": "https://www.youtube.com/watch?v=qCZSgJvA11k",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "W3U9dLuHhUQ",
+   "title": "Not Going Out - Gangsta | Full Episode",
+   "duration_s": 1765,
+   "views": 203930,
+   "url": "https://www.youtube.com/watch?v=W3U9dLuHhUQ",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "j8JCC2aZbPI",
+   "title": "Not Going Out - Art | Full Episode",
+   "duration_s": 1746,
+   "views": 199643,
+   "url": "https://www.youtube.com/watch?v=j8JCC2aZbPI",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "AMK3Y5o-Hns",
+   "title": "Not Going Out - The Librarian | Full Episode",
+   "duration_s": 1497,
+   "views": 136443,
+   "url": "https://www.youtube.com/watch?v=AMK3Y5o-Hns",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "DRnxqzzSL0Q",
+   "title": "Not Going Out - Dating | Full Episode",
+   "duration_s": 1747,
+   "views": 208194,
+   "url": "https://www.youtube.com/watch?v=DRnxqzzSL0Q",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "LqmT4vZtns8",
+   "title": "Not Going Out - Mortgage | Full Episode",
+   "duration_s": 1752,
+   "views": 289402,
+   "url": "https://www.youtube.com/watch?v=LqmT4vZtns8",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "1nK91pScnh4",
+   "title": "Not Going Out - Marriage | Full Episode",
+   "duration_s": 1699,
+   "views": 148891,
+   "url": "https://www.youtube.com/watch?v=1nK91pScnh4",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "MhQFs_Yn9-c",
+   "title": "Not Going Out - Party | Full Episode",
+   "duration_s": 1641,
+   "views": 187393,
+   "url": "https://www.youtube.com/watch?v=MhQFs_Yn9-c",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "wD6krRT5IEw",
+   "title": "Not Going Out - Neighbour | Full Episode",
+   "duration_s": 1692,
+   "views": 39365,
+   "url": "https://www.youtube.com/watch?v=wD6krRT5IEw",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "uMLMnMX_PXo",
+   "title": "Not Going Out - Pregnant | Full Episode",
+   "duration_s": 1754,
+   "views": 54284,
+   "url": "https://www.youtube.com/watch?v=uMLMnMX_PXo",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "PPKhu9gNoDM",
+   "title": "Not Going Out - Amy | Full Episode",
+   "duration_s": 1657,
+   "views": 165883,
+   "url": "https://www.youtube.com/watch?v=PPKhu9gNoDM",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "UNuQkKXzj-w",
+   "title": "Not Going Out - Life On Mars Bars | Full Episode",
+   "duration_s": 1748,
+   "views": 178318,
+   "url": "https://www.youtube.com/watch?v=UNuQkKXzj-w",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "TNCue1znH3k",
+   "title": "Not Going Out - Fireworks | Full Episode",
+   "duration_s": 1691,
+   "views": 160397,
+   "url": "https://www.youtube.com/watch?v=TNCue1znH3k",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "oTYcda_QS-M",
+   "title": "Not Going Out - Dancing | Full Episode",
+   "duration_s": 1747,
+   "views": 197877,
+   "url": "https://www.youtube.com/watch?v=oTYcda_QS-M",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "nsVudWj6duU",
+   "title": "Not Going Out- Resolutions | Full Episode",
+   "duration_s": 2566,
+   "views": 269348,
+   "url": "https://www.youtube.com/watch?v=nsVudWj6duU",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "hvr-1GMNo7c",
+   "title": "Not Going Out - The True Meaning Of Christmas | Full Episode",
+   "duration_s": 2269,
+   "views": 297339,
+   "url": "https://www.youtube.com/watch?v=hvr-1GMNo7c",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "NQw7DtC2tZo",
+   "title": "Not Going Out- Christmas Shopping | Full Episode",
+   "duration_s": 2588,
+   "views": 142661,
+   "url": "https://www.youtube.com/watch?v=NQw7DtC2tZo",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "P_p3e1pUpUU",
+   "title": "Not Going Out - Old Acquaintance | Full Episode",
+   "duration_s": 1739,
+   "views": 175064,
+   "url": "https://www.youtube.com/watch?v=P_p3e1pUpUU",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "M8ZT_RGIfWQ",
+   "title": "Not Going Out - Carol | Full Episode",
+   "duration_s": 1668,
+   "views": 173344,
+   "url": "https://www.youtube.com/watch?v=M8ZT_RGIfWQ",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "AuPrBW5N4qs",
+   "title": "Not Going Out - Halloween | Full Episode",
+   "duration_s": 2287,
+   "views": 77917,
+   "url": "https://www.youtube.com/watch?v=AuPrBW5N4qs",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "q33_HfC5bIw",
+   "title": "Not Going Out - Skiing | Full Episode",
+   "duration_s": 1699,
+   "views": 133817,
+   "url": "https://www.youtube.com/watch?v=q33_HfC5bIw",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "EM3Pd1LwIFY",
+   "title": "Not Going Out-  Pub Quiz | Full Episode",
+   "duration_s": 1608,
+   "views": 147526,
+   "url": "https://www.youtube.com/watch?v=EM3Pd1LwIFY",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "pKqO0A1vSb4",
+   "title": "Not Going Out- Small Package | Full Episode",
+   "duration_s": 1647,
+   "views": 132922,
+   "url": "https://www.youtube.com/watch?v=pKqO0A1vSb4",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "R4BoSu9e638",
+   "title": "Not Going Out- The House | Full Episode",
+   "duration_s": 2676,
+   "views": 352007,
+   "url": "https://www.youtube.com/watch?v=R4BoSu9e638",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "04-qsMjk8aA",
+   "title": "Not Going Out- Therapy | Full Episode",
+   "duration_s": 1773,
+   "views": 224659,
+   "url": "https://www.youtube.com/watch?v=04-qsMjk8aA",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "OVo6LYfIEHQ",
+   "title": "Not Going Out - Rachel | Full Episode",
+   "duration_s": 1769,
+   "views": 247125,
+   "url": "https://www.youtube.com/watch?v=OVo6LYfIEHQ",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "xvfXf5k8GjE",
+   "title": "Not Going Out- Bust Up | Full Episode",
+   "duration_s": 1703,
+   "views": 210126,
+   "url": "https://www.youtube.com/watch?v=xvfXf5k8GjE",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "6i46KLgMhpE",
+   "title": "Not Going Out- Pets | Full Episode",
+   "duration_s": 1645,
+   "views": 123833,
+   "url": "https://www.youtube.com/watch?v=6i46KLgMhpE",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "aeQpvRZ9MmQ",
+   "title": "Not Going Out- Memory | Full Episode",
+   "duration_s": 1638,
+   "views": 165394,
+   "url": "https://www.youtube.com/watch?v=aeQpvRZ9MmQ",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "8xaa5iHd7Cw",
+   "title": "Not Going Out - Lollipop Man | Full Episode",
+   "duration_s": 1633,
+   "views": 145648,
+   "url": "https://www.youtube.com/watch?v=8xaa5iHd7Cw",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "RYpw_ELj2cs",
+   "title": "Not Going Out - Holiday Share | Full Episode",
+   "duration_s": 1661,
+   "views": 176797,
+   "url": "https://www.youtube.com/watch?v=RYpw_ELj2cs",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "wuu_q7NQd0A",
+   "title": "Not Going Out - Enough | Full Episode",
+   "duration_s": 1723,
+   "views": 293368,
+   "url": "https://www.youtube.com/watch?v=wuu_q7NQd0A",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "Pb7bYhNpC7s",
+   "title": "Not Going Out - Play | Full Episode",
+   "duration_s": 1713,
+   "views": 169773,
+   "url": "https://www.youtube.com/watch?v=Pb7bYhNpC7s",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "CgzoWmx39gg",
+   "title": "Not Going Out - Plane | Full Episode",
+   "duration_s": 1647,
+   "views": 386487,
+   "url": "https://www.youtube.com/watch?v=CgzoWmx39gg",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "ZqyBJVCJKRY",
+   "title": "Not Going Out - Pants on Fire | Full Episode",
+   "duration_s": 1729,
+   "views": 194173,
+   "url": "https://www.youtube.com/watch?v=ZqyBJVCJKRY",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "Bz1A_LuD3_I",
+   "title": "Not Going Out - Boat | Full Episode",
+   "duration_s": 1752,
+   "views": 239405,
+   "url": "https://www.youtube.com/watch?v=Bz1A_LuD3_I",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "yEnu1Ao5GHI",
+   "title": "Not Going Out - Rabbit | Full Episode",
+   "duration_s": 1732,
+   "views": 145747,
+   "url": "https://www.youtube.com/watch?v=yEnu1Ao5GHI",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "Lb-G6kaWpeI",
+   "title": "Not Going Out - Charlie | Full Episode",
+   "duration_s": 1774,
+   "views": 173386,
+   "url": "https://www.youtube.com/watch?v=Lb-G6kaWpeI",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "Hin5rPl_1cI",
+   "title": "Not Going Out - Mugging | Full Episode",
+   "duration_s": 1639,
+   "views": 134350,
+   "url": "https://www.youtube.com/watch?v=Hin5rPl_1cI",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "f_un7EwBE_8",
+   "title": "Not Going Out - Conference | Full Episode",
+   "duration_s": 1697,
+   "views": 231265,
+   "url": "https://www.youtube.com/watch?v=f_un7EwBE_8",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "Yv7iEEYDUMo",
+   "title": "Not Going Out - Anna | Full Episode",
+   "duration_s": 1758,
+   "views": 211345,
+   "url": "https://www.youtube.com/watch?v=Yv7iEEYDUMo",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "7QBd70AG5qU",
+   "title": "Not Going Out - Home Improvements | Full Episode",
+   "duration_s": 1601,
+   "views": 192126,
+   "url": "https://www.youtube.com/watch?v=7QBd70AG5qU",
+   "r2_special_key": "comedians/lee-mack/specials/going-out-live-2010.json",
+   "r2_special_slug": "going-out-live-2010",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "2ZgWYiRteNU",
+   "title": "Christmas Best Bits Pt.2 | Not Going Out",
+   "duration_s": 1825,
+   "views": 111908,
+   "url": "https://www.youtube.com/watch?v=2ZgWYiRteNU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "B3xZC3jn1_4",
+   "title": "Christmas Best Bits Pt.1 | Not Going Out",
+   "duration_s": 1675,
+   "views": 98279,
+   "url": "https://www.youtube.com/watch?v=B3xZC3jn1_4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ENyBya-XbVA",
+   "title": "Best of Series 11 | Not Going Out",
+   "duration_s": 1294,
+   "views": 123935,
+   "url": "https://www.youtube.com/watch?v=ENyBya-XbVA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "VM-c2AKlo7M",
+   "title": "Lee and Lucy's BIGGEST Fights | Not Going Out",
+   "duration_s": 1631,
+   "views": 177359,
+   "url": "https://www.youtube.com/watch?v=VM-c2AKlo7M",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lcFGQlbmK_U",
+   "title": "Not Going Out's Scariest Moments | Not Going Out",
+   "duration_s": 1775,
+   "views": 33054,
+   "url": "https://www.youtube.com/watch?v=lcFGQlbmK_U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NvmPAlm52pQ",
+   "title": "Tim and Lee Being An Iconic Duo | Not Going Out",
+   "duration_s": 1350,
+   "views": 246878,
+   "url": "https://www.youtube.com/watch?v=NvmPAlm52pQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jpxfqHAmMDI",
+   "title": "Biggest Family Bust Ups | Not Going Out",
+   "duration_s": 1805,
+   "views": 243272,
+   "url": "https://www.youtube.com/watch?v=jpxfqHAmMDI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "p1-0m9l4Qh0",
+   "title": "Tim Vine's Best Bits | Not Going Out",
+   "duration_s": 1305,
+   "views": 198378,
+   "url": "https://www.youtube.com/watch?v=p1-0m9l4Qh0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4FrRAid9FLo",
+   "title": "Lee and Lucy's Most Awkward Couple's Moments | Not Going Out",
+   "duration_s": 1564,
+   "views": 168218,
+   "url": "https://www.youtube.com/watch?v=4FrRAid9FLo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "l8-4_64I68E",
+   "title": "Best of Series 10 | Not Going Out",
+   "duration_s": 1921,
+   "views": 202288,
+   "url": "https://www.youtube.com/watch?v=l8-4_64I68E",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "N9aw4exLwmE",
+   "title": "Lee Embarrassing Lucy For 26 Minutes Straight | Not Going Out",
+   "duration_s": 1566,
+   "views": 313137,
+   "url": "https://www.youtube.com/watch?v=N9aw4exLwmE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lToYwRlkKxE",
+   "title": "Lee Putting His Foot In It Compilation | Not Going Out",
+   "duration_s": 2168,
+   "views": 322466,
+   "url": "https://www.youtube.com/watch?v=lToYwRlkKxE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dm3TdfRj8MY",
+   "title": "The Best Of Series 5 | Not Going Out",
+   "duration_s": 2392,
+   "views": 284920,
+   "url": "https://www.youtube.com/watch?v=dm3TdfRj8MY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RiJghXWudC4",
+   "title": "Lee's Best Bits | Not Going Out",
+   "duration_s": 1869,
+   "views": 294287,
+   "url": "https://www.youtube.com/watch?v=RiJghXWudC4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "53-njrlR9S0",
+   "title": "Not Going Out - War | Not Going Out",
+   "duration_s": 1569,
+   "views": 133732,
+   "url": "https://www.youtube.com/watch?v=53-njrlR9S0",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 80
 }

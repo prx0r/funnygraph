@@ -1,0 +1,38 @@
+{
+ "comedian_id": "tony-sad",
+ "name": "TONY SAD",
+ "clips": 1,
+ "total_views": 11000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Ak9m6kNwGJ8",
+  "title": "TONY SAD | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 11000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Ak9m6kNwGJ8",
+  "r2_clip_key": "comedians/tony-sad/clips/tony-sad-ak9m6knwgj8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tony-sad/clips/tony-sad-ak9m6knwgj8.json"
+ },
+ "rows": [
+  {
+   "videoId": "Ak9m6kNwGJ8",
+   "title": "TONY SAD | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 11000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Ak9m6kNwGJ8",
+   "n_words": 140,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Do you know how this conversation started? About how they throw mud at me. Yeah, yes. He sent me a message: \"I'm upset.\" I say, \" Why, buddy?\" He replied, \"Jamie, I put the AirTag in his bag. It's bee",
+   "r2_clip_key": "comedians/tony-sad/clips/tony-sad-ak9m6knwgj8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tony-sad/clips/tony-sad-ak9m6knwgj8.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

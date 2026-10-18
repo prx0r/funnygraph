@@ -39,7 +39,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -65,7 +65,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {
@@ -77,5 +77,19 @@
       "satire"
     ],
     "source": "musicbrainz (name+comedy-tag)"
+  },
+  "bio": {
+    "wikidata_id": "Q718078",
+    "dob": "1929-09-05",
+    "dod": "2024-07-18",
+    "birthplace": "Oak Park",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "television actor",
+      "film actor",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

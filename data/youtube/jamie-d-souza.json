@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jamie-d-souza",
+ "name": "JAMIE D'SOUZA",
+ "clips": 1,
+ "total_views": 520,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "qOJF36ANpg0",
+  "title": "JAMIE D'SOUZA - BIG BELLY BULEMIA",
+  "channel": "@BigBellyComedy",
+  "views": 520,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=qOJF36ANpg0",
+  "r2_clip_key": "comedians/jamie-d-souza/clips/jamie-d-souza-qojf36anpg0.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jamie-d-souza/clips/jamie-d-souza-qojf36anpg0.json"
+ },
+ "rows": [
+  {
+   "videoId": "qOJF36ANpg0",
+   "title": "JAMIE D'SOUZA - BIG BELLY BULEMIA",
+   "channel": "@BigBellyComedy",
+   "views": 520,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=qOJF36ANpg0",
+   "n_words": 41,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "It's a bit weird though to be a guy with bulimia. It is very triggering being at Big Belly Comedy Club, but that was apparently that was the name. It wasn't called that before I turned up, but it's [l",
+   "r2_clip_key": "comedians/jamie-d-souza/clips/jamie-d-souza-qojf36anpg0.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jamie-d-souza/clips/jamie-d-souza-qojf36anpg0.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

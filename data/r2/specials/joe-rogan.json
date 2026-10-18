@@ -1,0 +1,45 @@
+{
+ "comedian_slug": "joe-rogan",
+ "specials": [
+  {
+   "special_slug": "burn-the-boats-2024",
+   "title": "Joe Rogan: Burn the Boats (2024)",
+   "comedian": "Joe Rogan",
+   "url": "https://scrapsfromtheloft.com/comedy/joe-rogan-burn-the-boats-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 11074,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nJoe Rogan: Burn the Boats (2024) \u2013 Transcript\nPublished August 7, 2024\nJoe Rogan discusses Texas life, aliens, COVID-19, and social issues, blending humor and provocative insights while engaging his San Antonio audience.\n\nJoe Rogan, performing live in San Antonio, expresses his love for T",
+   "r2_special_key": "comedians/joe-rogan/specials/burn-the-boats-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-rogan/specials/burn-the-boats-2024.json"
+  },
+  {
+   "special_slug": "triggered-2016",
+   "title": "Joe Rogan: Triggered (2016) \u2013 Transcript",
+   "comedian": "Joe Rogan",
+   "url": "https://scrapsfromtheloft.com/comedy/joe-rogan-triggered-2016-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10848,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[rock music playing] [audience cheering] [announcer] Ladies and gentlemen, welcome Joe Rogan. [audience cheering and applauding] What the f*ck is going on, San Francisco? Thanks for coming. I appreciate it! God damn! Put your phone down, f*ckface! I see you, b*tch! Put your phone down! Motherf*ckers",
+   "r2_special_key": "comedians/joe-rogan/specials/triggered-2016.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-rogan/specials/triggered-2016.json"
+  },
+  {
+   "special_slug": "strange-times-2018",
+   "title": "Joe Rogan: Strange Times (2018) \u2013 Full Transcript",
+   "comedian": "Joe Rogan",
+   "url": "https://scrapsfromtheloft.com/comedy/joe-rogan-strange-times-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10124,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[indistinct chattering] [faint laughter] [audience cheering and applauding] Oh! What the fuck, Boston? Goddamn! Thank you. It\u2019s good to be here. Good to be back. Fuck! I love it. Goddamn it! Good to see happy people\u2026 having a good time. It\u2019s a tense world we\u2019re living in today. You got a president t",
+   "r2_special_key": "comedians/joe-rogan/specials/strange-times-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-rogan/specials/strange-times-2018.json"
+  }
+ ],
+ "count": 3
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "shalaka-kurup",
+ "name": "SHALAKA KURUP",
+ "clips": 1,
+ "total_views": 22000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "F-skCbblWoQ",
+  "title": "SHALAKA KURUP - TRAIN MAN",
+  "channel": "@BigBellyComedy",
+  "views": 22000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=F-skCbblWoQ",
+  "r2_clip_key": "comedians/shalaka-kurup/clips/shalaka-kurup-f-skcbblwoq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shalaka-kurup/clips/shalaka-kurup-f-skcbblwoq.json"
+ },
+ "rows": [
+  {
+   "videoId": "F-skCbblWoQ",
+   "title": "SHALAKA KURUP - TRAIN MAN",
+   "channel": "@BigBellyComedy",
+   "views": 22000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=F-skCbblWoQ",
+   "n_words": 170,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'm Indian so obviously I am a doctor. This is a true fact about me. I'm not like a useful kind of doctor. I have a PhD. Thank you. In trains. >> Do we have some train fans in? Give me a try. >> Yeah.",
+   "r2_clip_key": "comedians/shalaka-kurup/clips/shalaka-kurup-f-skcbblwoq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shalaka-kurup/clips/shalaka-kurup-f-skcbblwoq.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

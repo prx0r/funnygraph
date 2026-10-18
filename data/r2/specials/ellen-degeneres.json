@@ -1,0 +1,45 @@
+{
+ "comedian_slug": "ellen-degeneres",
+ "specials": [
+  {
+   "special_slug": "for-your-approval-2024",
+   "title": "Ellen DeGeneres: For Your Approval (2024)",
+   "comedian": "Ellen DeGeneres",
+   "url": "https://scrapsfromtheloft.com/comedy/ellen-degeneres-for-your-approval-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 9613,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nEllen DeGeneres: For Your Approval (2024) \u2013 Transcript\nPublished September 25, 2024\n\u201cFor Your Approval\u201d is a disappointing, self-serving finale that highlights how out of touch Ellen has become.\n\nEllen DeGeneres: For Your Approval is less a comedy special and more an hour-long ego massage",
+   "r2_special_key": "comedians/ellen-degeneres/specials/for-your-approval-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ellen-degeneres/specials/for-your-approval-2024.json"
+  },
+  {
+   "special_slug": "relatable-2018",
+   "title": "Ellen Degeneres: Relatable (2018) \u2013 Transcript",
+   "comedian": "Ellen Degeneres",
+   "url": "https://scrapsfromtheloft.com/comedy/ellen-degeneres-relatable-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9607,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "A NETFLIX ORIGINAL COMEDY SPECIAL [crowd cheers] [background song] Thank you so much. Thank you. That is lovely energy. I appreciate it. Thank you so much for being here,\u00a0Seattle. So it\u2019s been 15 years since I\u2019ve done\u00a0stand-up and when I decided to do this\u00a0special a friend of mine was at my house an",
+   "r2_special_key": "comedians/ellen-degeneres/specials/relatable-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ellen-degeneres/specials/relatable-2018.json"
+  },
+  {
+   "special_slug": "the-beginning-2000",
+   "title": "ELLEN DEGENERES: THE BEGINNING (2000) \u2013 Full Transcript",
+   "comedian": "Ellen Degeneres",
+   "url": "https://scrapsfromtheloft.com/comedy/ellen-degeneres-the-beginning-2000-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8201,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Ladies and gentlemen, please, welcome Ellen Degeneres.\n Thank you, thank you.. Thank you very much. Yeah, woo\u2026 This is a very emotional night for me, you have no idea, ehm or maybe you do now. This has been quite a journey for me and\u2026 to lead to this night, because since I made the decision to come ",
+   "r2_special_key": "comedians/ellen-degeneres/specials/the-beginning-2000.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ellen-degeneres/specials/the-beginning-2000.json"
+  }
+ ],
+ "count": 3
+}

@@ -8,7 +8,7 @@
    "channel": "Tommy Tiernan"
   }
  },
- "clips": 100,
+ "clips": 101,
  "total_views": 15038186,
  "total_likes": 194916,
  "avg_views": 150381,
@@ -260,6 +260,23 @@
    "likes": 4206,
    "comments": 57,
    "duration_s": 40
+  },
+  {
+   "videoId": "XpDMJbcsUps",
+   "title": "Tommy Tiernan Drunk Driving",
+   "channel": "NextUp Comedy",
+   "views": 189000,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=XpDMJbcsUps",
+   "n_words": 309,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "The whole point of independence the whole idea of being an independent country is that you can dream of laws to suit yourself isn't it That's the whole idea of it you know And I think that our politic",
+   "r2_clip_key": "comedians/tommy-tiernan/clips/tommy-tiernan-xpdmjbcsups.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tommy-tiernan/clips/tommy-tiernan-xpdmjbcsups.json",
+   "source_group": null,
+   "source": "r2"
   },
   {
    "videoId": "o-5rGOzBgy8",
@@ -1328,5 +1345,7 @@
    "duration_s": 47
   }
  ],
- "method": "registry-uploads (no search)"
+ "method": "registry-uploads (no search)",
+ "r2_linked": true,
+ "r2_merged_at": "2026-10-18T16:05:14Z"
 }

@@ -113,12 +113,26 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q504390",
+    "dob": "1971-04-15",
+    "dod": null,
+    "birthplace": "Westchester County",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "actor",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

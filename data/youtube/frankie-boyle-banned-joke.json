@@ -1,0 +1,38 @@
+{
+ "comedian_id": "frankie-boyle-banned-joke",
+ "name": "Frankie Boyle Banned Joke",
+ "clips": 1,
+ "total_views": 333265,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "HtefgX-ZQYo",
+  "title": "Frankie Boyle Banned Joke - Mock the week",
+  "channel": "1prjnnam",
+  "views": 333265,
+  "duration_s": 33,
+  "url": "https://www.youtube.com/watch?v=HtefgX-ZQYo",
+  "r2_clip_key": "comedians/frankie-boyle-banned-joke/clips/frankie-boyle-banned-joke-htefgx-zqyo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/frankie-boyle-banned-joke/clips/frankie-boyle-banned-joke-htefgx-zqyo.json"
+ },
+ "rows": [
+  {
+   "videoId": "HtefgX-ZQYo",
+   "title": "Frankie Boyle Banned Joke - Mock the week",
+   "channel": "1prjnnam",
+   "views": 333265,
+   "likes": null,
+   "duration_s": 33,
+   "url": "https://www.youtube.com/watch?v=HtefgX-ZQYo",
+   "n_words": 30,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "dear points of view watching Queen ey For The Straight Guy made me think that if I made gay friends they'd give me fashion tips actually they [\u00a0__\u00a0] me h",
+   "r2_clip_key": "comedians/frankie-boyle-banned-joke/clips/frankie-boyle-banned-joke-htefgx-zqyo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/frankie-boyle-banned-joke/clips/frankie-boyle-banned-joke-htefgx-zqyo.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

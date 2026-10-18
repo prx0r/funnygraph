@@ -1,0 +1,38 @@
+{
+ "comedian_id": "terry-alderton",
+ "name": "Terry Alderton",
+ "clips": 1,
+ "total_views": 2400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "t7Q13oihgR4",
+  "title": "Merry Terry Christmas | Terry Alderton | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 2400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=t7Q13oihgR4",
+  "r2_clip_key": "comedians/terry-alderton/clips/terry-alderton-t7q13oihgr4.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/terry-alderton/clips/terry-alderton-t7q13oihgr4.json"
+ },
+ "rows": [
+  {
+   "videoId": "t7Q13oihgR4",
+   "title": "Merry Terry Christmas | Terry Alderton | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 2400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=t7Q13oihgR4",
+   "n_words": 134,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Listen, can I wish you a very merry Christmas? And for those who don't do Christmas, can I wish you a very merry Christmas? And you are honestly I [\u00a0__\u00a0] absolutely relish coming to this place cuz you",
+   "r2_clip_key": "comedians/terry-alderton/clips/terry-alderton-t7q13oihgr4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/terry-alderton/clips/terry-alderton-t7q13oihgr4.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

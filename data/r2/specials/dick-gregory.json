@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "dick-gregory",
+ "specials": [
+  {
+   "special_slug": "speech-at-st-john-s-baptist-church-may-20-1963-scene",
+   "title": "Dick Gregory: Speech at St. John\u2019s Baptist Church, May 20, 1963 Scene",
+   "comedian": "Dick Gregory",
+   "url": "https://scrapsfromtheloft.com/comedy/dick-gregory-speech-st-johns-baptist-church-may-20-1963/",
+   "source": "scrapsfromtheloft",
+   "n_words": 5816,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Scene\nDick Gregory: Speech at St. John\u2019s Baptist Church, May 20, 1963 \u2013 Transcript\nPublished August 11, 2018\nTranscript of Dick Gregory\u2019s speech at St. John\u2019s Baptist Church \u2013 Birmingham, Alabama \u2013 May 20, 1963\n\nGeorge O\u2019Hare recounts his friendship with Dick Gregory and the events that led to his a",
+   "r2_special_key": "comedians/dick-gregory/specials/speech-at-st-john-s-baptist-church-may-20-1963-scene.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dick-gregory/specials/speech-at-st-john-s-baptist-church-may-20-1963-scene.json"
+  },
+  {
+   "special_slug": "speech-at-st-john-s-baptist-church-may-20-1963",
+   "title": "Dick Gregory: Speech at St. John\u2019s Baptist Church, May 20, 1963 \u2013 Transcript",
+   "comedian": "Dick Gregory",
+   "url": "https://scrapsfromtheloft.com/comedy/dick-gregory-speech-st-johns-baptist-church-may-20-1963/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 5777,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "George O\u2019Hare recounts his friendship with Dick Gregory and the events that led to his arrest in Birmingham, Alabama in 1963. Extracts from Confessions of a Recovering Racist, Morgan James Publishing, New York, 2018 Mr. Kelly\u2019s was a nightclub on the Near North Side of Chicago and in those days, you",
+   "r2_special_key": "comedians/dick-gregory/specials/speech-at-st-john-s-baptist-church-may-20-1963.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dick-gregory/specials/speech-at-st-john-s-baptist-church-may-20-1963.json"
+  }
+ ],
+ "count": 2
+}

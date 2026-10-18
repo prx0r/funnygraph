@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Jarlath Regan is an Irish stand up comedian based in the UK and Ireland. Jarlath performs live at international comedy festivals across the world including Edinburgh, Montreal, Melbourne, New Zealand and Dubai festivals. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Jarlath Regan Jarlath Regan on Patreon Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuf",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/jarlath-regan/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/jarlath-regan/",
+    "r2_comedian": true,
+    "r2_clips": 3
   },
   "sets": [],
   "essay_seeds": [],
@@ -53,7 +56,7 @@
     "legacy": 29.9,
     "legacy_era": 53.6,
     "audience": null,
-    "popularity": null,
+    "popularity": 58.6,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -61,7 +64,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -87,7 +90,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -116,5 +119,40 @@
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 3,
+    "total_views": 56000,
+    "timed_clips": 3,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "ztgIj7-KpBc",
+      "title": "Mammy Translations #Comedy #Irish #mothers",
+      "views": 34000,
+      "url": "https://www.youtube.com/watch?v=ztgIj7-KpBc",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jarlath-regan/clips/jarlath-regan-ztgij7-kpbc.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 763,
+    "special_words": 0,
+    "timed_clips": 3,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q6160315",
+    "dob": "1980-08-24",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "Ireland",
+    "occupations": [
+      "comedian",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

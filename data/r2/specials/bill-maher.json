@@ -1,0 +1,45 @@
+{
+ "comedian_slug": "bill-maher",
+ "specials": [
+  {
+   "special_slug": "is-anyone-else-seeing-this-2025",
+   "title": "Bill Maher: Is Anyone Else Seeing This? (2025)",
+   "comedian": "Bill Maher",
+   "url": "https://scrapsfromtheloft.com/comedy/bill-maher-is-anyone-else-seeing-this-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10397,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nBill Maher: Is Anyone Else Seeing This? (2025) \u2013 Transcript\nPublished January 12, 2025\nBill Maher\u2019s special critiques woke culture, political extremes, and societal absurdities with sharp humor, urging open dialogue amid polarizing times.\n\nBill Maher\u2018s Is Anyone Else Seeing This? is a sha",
+   "r2_special_key": "comedians/bill-maher/specials/is-anyone-else-seeing-this-2025.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bill-maher/specials/is-anyone-else-seeing-this-2025.json"
+  },
+  {
+   "special_slug": "live-from-d-c-2014",
+   "title": "BILL MAHER: LIVE FROM D.C. (2014) \u2013 Full Transcript",
+   "comedian": "Bill Maher",
+   "url": "https://scrapsfromtheloft.com/comedy/bill-maher-live-from-d-c-2014-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8500,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Broadcast live on September 12, 2014 from the Warner Theater in Washington, D.C. * WOMAN: At the tone, the time will be\u2026\n KEITH OLBERMANN: From the Warner Theatre\u2026 [Audience cheering] In Washington, It\u2019s \u201cBill Maher, Live from D.C.\u201d [Applause] And hello again, everyone. I\u2019m Keith Olbermann, Reportin",
+   "r2_special_key": "comedians/bill-maher/specials/live-from-d-c-2014.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bill-maher/specials/live-from-d-c-2014.json"
+  },
+  {
+   "special_slug": "live-from-oklahoma-2018",
+   "title": "BILL MAHER: LIVE FROM OKLAHOMA (2018) \u2013 Full Transcript",
+   "comedian": "Bill Maher",
+   "url": "https://scrapsfromtheloft.com/comedy/bill-maher-live-from-oklahoma-2018-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8081,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Comedian Bill Maher took on President Trump and a variety of current topics during his HBO standup special in Tulsa, Oklahoma. Thank you. Oh, thank you very much. Thank you. Thank you folks. Wow. Thank you very much. Oh, wonderful greeting, I appreciate that. I know, we are on TV\u2026 Thank you. Listen,",
+   "r2_special_key": "comedians/bill-maher/specials/live-from-oklahoma-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bill-maher/specials/live-from-oklahoma-2018.json"
+  }
+ ],
+ "count": 3
+}

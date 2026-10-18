@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -38,7 +39,9 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/tom-ward/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "r2_comedian": true,
+    "r2_clips": 4
   },
   "sets": [],
   "essay_seeds": [],
@@ -54,7 +57,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 77.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -80,12 +83,35 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
-  }
+  },
+  "youtube": {
+    "clips": 4,
+    "total_views": 1373000,
+    "timed_clips": 4,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "8PiuSRDYEXI",
+      "title": "Football rivalries, need we say more...\u26bd\ufe0f\ud83d\ude43",
+      "views": 1300000,
+      "url": "https://www.youtube.com/watch?v=8PiuSRDYEXI",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tom-ward/clips/tom-ward-8piusrdyexi.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 623,
+    "special_words": 0,
+    "timed_clips": 4,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

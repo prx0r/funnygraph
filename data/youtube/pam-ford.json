@@ -1,0 +1,38 @@
+{
+ "comedian_id": "pam-ford",
+ "name": "PAM FORD",
+ "clips": 1,
+ "total_views": 754,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "8wftvYk8NRw",
+  "title": "PAM FORD - GILLET OR GILLET",
+  "channel": "@BigBellyComedy",
+  "views": 754,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=8wftvYk8NRw",
+  "r2_clip_key": "comedians/pam-ford/clips/pam-ford-8wftvyk8nrw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/pam-ford/clips/pam-ford-8wftvyk8nrw.json"
+ },
+ "rows": [
+  {
+   "videoId": "8wftvYk8NRw",
+   "title": "PAM FORD - GILLET OR GILLET",
+   "channel": "@BigBellyComedy",
+   "views": 754,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=8wftvYk8NRw",
+   "n_words": 39,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Gillet, man. God's sakes. I hate gilllets. I'm sorry. I really hate Do you hate gilllets? I hate gillets. Now, a gillet. Have you got a gilllet? Have you got a farm? >> No. Well, don't wear the gillle",
+   "r2_clip_key": "comedians/pam-ford/clips/pam-ford-8wftvyk8nrw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/pam-ford/clips/pam-ford-8wftvyk8nrw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

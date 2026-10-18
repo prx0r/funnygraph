@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "fern-brady",
+ "specials": [
+  {
+   "special_slug": "autistic-bikini-queen-2024",
+   "title": "Fern Brady: Autistic Bikini Queen (2024)",
+   "comedian": "Fern Brady",
+   "url": "https://scrapsfromtheloft.com/comedy/fern-brady-autistic-bikini-queen-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 9723,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nFern Brady: Autistic Bikini Queen (2024) \u2013 Transcript\nPublished May 5, 2024\nThe irreverent Scottish comedian tackles big themes like death, decline and the disappointments of middle age in her stand-up special filmed in Bristol.\n\n[Fern] Please welcome to the stage Fern Brady!\n\n[cheering]\n",
+   "r2_special_key": "comedians/fern-brady/specials/autistic-bikini-queen-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fern-brady/specials/autistic-bikini-queen-2024.json"
+  },
+  {
+   "special_slug": "power-chaos-2021",
+   "title": "Fern Brady: Power & Chaos (2021)",
+   "comedian": "Fern Brady",
+   "url": "https://scrapsfromtheloft.com/comedy/fern-brady-power-chaos-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8623,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nFern Brady: Power & Chaos (2021) \u2013 Transcript\nPublished May 5, 2024\nStand-up comedian Fern Brady brings her unique take on contemporary culture and the state of the UK to a packed crowd in Glasgow.\n\n[electricity buzzes]\n\nLadies and gentlemen, welcome to the stage it\u2019s Fern Brady.\n\n[audien",
+   "r2_special_key": "comedians/fern-brady/specials/power-chaos-2021.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fern-brady/specials/power-chaos-2021.json"
+  }
+ ],
+ "count": 2
+}

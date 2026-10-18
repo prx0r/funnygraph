@@ -94,8 +94,16 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "i-m-an-entertainer-2023",
+      "not-normal-2019"
+    ],
+    "special_titles": [
+      "Wanda Sykes: I\u2019m an Entertainer (2023)",
+      "Wanda Sykes: Not Normal (2019) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -319,7 +327,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 38.9,
+    "headline": 41.2,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -345,12 +353,28 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://www.wandasykes.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 2
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 15089,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

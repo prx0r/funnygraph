@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jimmy-carr-explains-accents",
+ "name": "Jimmy Carr Explains Accents",
+ "clips": 1,
+ "total_views": 5002979,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "UeYDI4wdjQw",
+  "title": "Jimmy Carr Explains Accents - The Graham Norton Show - Series 10 Episode 7 - BBC",
+  "channel": "BBC",
+  "views": 5002979,
+  "duration_s": 155,
+  "url": "https://www.youtube.com/watch?v=UeYDI4wdjQw",
+  "r2_clip_key": "comedians/jimmy-carr-explains-accents/clips/jimmy-carr-explains-accents-ueydi4wdjqw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jimmy-carr-explains-accents/clips/jimmy-carr-explains-accents-ueydi4wdjqw.json"
+ },
+ "rows": [
+  {
+   "videoId": "UeYDI4wdjQw",
+   "title": "Jimmy Carr Explains Accents - The Graham Norton Show - Series 10 Episode 7 - BBC",
+   "channel": "BBC",
+   "views": 5002979,
+   "likes": null,
+   "duration_s": 155,
+   "url": "https://www.youtube.com/watch?v=UeYDI4wdjQw",
+   "n_words": 346,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "and we were talking with Antonia and Salma about you know there are difficult to be the English when they got to America sure but in this tour this is and you do a kind of masterclass in accents what ",
+   "r2_clip_key": "comedians/jimmy-carr-explains-accents/clips/jimmy-carr-explains-accents-ueydi4wdjqw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jimmy-carr-explains-accents/clips/jimmy-carr-explains-accents-ueydi4wdjqw.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

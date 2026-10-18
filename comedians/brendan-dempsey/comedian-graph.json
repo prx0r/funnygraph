@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Brendan Dempsey is an Irish stand up comedian and actor. He\u2019s best known to TV audiences for appearing several Paddy Power commercials and for the role of Father Dick Mayo in the TV sitcom, Father Ted. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/brendan-dempsey/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/brendan-dempsey/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -84,7 +87,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 25.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -110,12 +113,35 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
-  }
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 2700,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "Mmtr5MZ_Tj8",
+      "title": "You've Got Junk Mail | Brendan Dempsey | Craic Den Comedy Club #standupcomedy #irish #comedy",
+      "views": 2700,
+      "url": "https://www.youtube.com/watch?v=Mmtr5MZ_Tj8",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/brendan-dempsey/clips/brendan-dempsey-mmtr5mz-tj8.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 102,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

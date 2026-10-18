@@ -1,0 +1,38 @@
+{
+ "comedian_id": "s-awek-u-el",
+ "name": "S\u0142awek \"\u017cu\u017cel\"",
+ "clips": 1,
+ "total_views": 117186,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "HpzXlZ0R-lA",
+  "title": "Jason Manford about Football Manager (english subtitles)",
+  "channel": "S\u0142awek \"\u017cu\u017cel\"",
+  "views": 117186,
+  "duration_s": 168,
+  "url": "https://www.youtube.com/watch?v=HpzXlZ0R-lA",
+  "r2_clip_key": "comedians/s-awek-u-el/clips/s-awek-u-el-hpzxlz0r-la.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/s-awek-u-el/clips/s-awek-u-el-hpzxlz0r-la.json"
+ },
+ "rows": [
+  {
+   "videoId": "HpzXlZ0R-lA",
+   "title": "Jason Manford about Football Manager (english subtitles)",
+   "channel": "S\u0142awek \"\u017cu\u017cel\"",
+   "views": 117186,
+   "likes": null,
+   "duration_s": 168,
+   "url": "https://www.youtube.com/watch?v=HpzXlZ0R-lA",
+   "n_words": 515,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "can't be asked we got Lee Dixon hello Lee Dixon Arsenal Legend a Manchester City fan of course Lee Dixon like myself and he went to the same school as my dad he never what's that not the same age as y",
+   "r2_clip_key": "comedians/s-awek-u-el/clips/s-awek-u-el-hpzxlz0r-la.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/s-awek-u-el/clips/s-awek-u-el-hpzxlz0r-la.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

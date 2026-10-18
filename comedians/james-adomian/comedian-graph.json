@@ -83,7 +83,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -117,5 +117,19 @@
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q6128399",
+    "dob": "1980-01-31",
+    "dod": null,
+    "birthplace": "Omaha",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "actor",
+      "podcaster",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

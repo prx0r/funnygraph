@@ -81,7 +81,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "nearest_greats": [
@@ -109,5 +109,18 @@
     "via": "hans-kim",
     "sim": 0.074,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q4885259",
+    "dob": "1970-10-30",
+    "dod": null,
+    "birthplace": "Bowling Green",
+    "citizenship": "United States",
+    "occupations": [
+      "television presenter",
+      "podcaster",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

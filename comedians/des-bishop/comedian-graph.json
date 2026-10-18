@@ -44,7 +44,7 @@
     "legacy": 39.4,
     "legacy_era": 63.3,
     "audience": null,
-    "popularity": 21.4,
+    "popularity": 6.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -71,7 +71,7 @@
     }
   ],
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -97,7 +97,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -125,5 +125,16 @@
     "url": "https://desbishop.net",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "bio": {
+    "wikidata_id": "Q5263431",
+    "dob": "1975-11-12",
+    "dod": null,
+    "birthplace": "Queens",
+    "citizenship": "United States",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

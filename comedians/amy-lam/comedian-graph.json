@@ -1,0 +1,117 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "amy-lam",
+  "name": "Amy Lam\u00e9",
+  "tier": "indie",
+  "note": "Indie-tier graph: R2 transcript-linked profile.",
+  "version": 1,
+  "created": "2026-10-18",
+  "annotator": "sync_r2_profiles.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 11
+  },
+  "sets": [],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "youtube": {
+    "clips": 11,
+    "total_views": 39186283,
+    "timed_clips": 11,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "9SNNbcG-ma0",
+      "title": "Gordon Ramsay Animated - WHERES THE LAMB SAUCE",
+      "views": 11490828,
+      "duration_s": 44,
+      "url": "https://www.youtube.com/watch?v=9SNNbcG-ma0",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/amy-lam/clips/amy-lam-9snnbcg-ma0.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 2471,
+    "special_words": 0,
+    "timed_clips": 11,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q4749278",
+    "dob": "1971-01-03",
+    "dod": null,
+    "birthplace": "New Jersey",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "writer",
+      "podcaster",
+      "radio personality",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": 92.6,
+    "theory": 0.0,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 0.0,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-18T17:13:19Z",
+    "pipeline": "rate/v1"
+  }
+}

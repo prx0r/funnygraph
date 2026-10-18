@@ -1,0 +1,38 @@
+{
+ "comedian_id": "joe-sutherland",
+ "name": "JOE SUTHERLAND",
+ "clips": 1,
+ "total_views": 76,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "SZhZ0xUvJKU",
+  "title": "JOE SUTHERLAND - APPROPRIATING GAY CULTURE",
+  "channel": "@BigBellyComedy",
+  "views": 76,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=SZhZ0xUvJKU",
+  "r2_clip_key": "comedians/joe-sutherland/clips/joe-sutherland-szhz0xuvjku.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-sutherland/clips/joe-sutherland-szhz0xuvjku.json"
+ },
+ "rows": [
+  {
+   "videoId": "SZhZ0xUvJKU",
+   "title": "JOE SUTHERLAND - APPROPRIATING GAY CULTURE",
+   "channel": "@BigBellyComedy",
+   "views": 76,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=SZhZ0xUvJKU",
+   "n_words": 22,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "There's two types of sleeveless gay. You're not? NO. OKAY. >> [screaming] >> WAY TO APPROPRIATE. LIKE OKAY, MY culture is not your costume.",
+   "r2_clip_key": "comedians/joe-sutherland/clips/joe-sutherland-szhz0xuvjku.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-sutherland/clips/joe-sutherland-szhz0xuvjku.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "dating-older-men",
+ "name": "Dating Older Men",
+ "clips": 1,
+ "total_views": 5000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "HZXx11Uakyk",
+  "title": "Dating Older Men - Sarah Callaghan - Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 5000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=HZXx11Uakyk",
+  "r2_clip_key": "comedians/dating-older-men/clips/dating-older-men-hzxx11uakyk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dating-older-men/clips/dating-older-men-hzxx11uakyk.json"
+ },
+ "rows": [
+  {
+   "videoId": "HZXx11Uakyk",
+   "title": "Dating Older Men - Sarah Callaghan - Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 5000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=HZXx11Uakyk",
+   "n_words": 98,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Because men in their 20s and 30s, they're not listening, right? Like you're telling them a story, they're just zoning out thinking, \"When's she gonna shut the [\u00a0__\u00a0] up?\" You know, like if I'm telling",
+   "r2_clip_key": "comedians/dating-older-men/clips/dating-older-men-hzxx11uakyk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dating-older-men/clips/dating-older-men-hzxx11uakyk.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

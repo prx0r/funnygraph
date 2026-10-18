@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {
@@ -77,5 +77,19 @@
       "united kingdom"
     ],
     "source": "musicbrainz (name+comedy-tag)"
+  },
+  "bio": {
+    "wikidata_id": "Q944744",
+    "dob": "1965-01-13",
+    "dod": null,
+    "birthplace": "Bath",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "composer",
+      "pianist"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

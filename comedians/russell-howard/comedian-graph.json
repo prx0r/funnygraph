@@ -94,8 +94,14 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "recalibrate-2017"
+    ],
+    "special_titles": [
+      "RUSSELL HOWARD: RECALIBRATE (2017) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -222,7 +228,7 @@
     "legacy": 54.1,
     "legacy_era": 19.8,
     "audience": null,
-    "popularity": 42.1,
+    "popularity": 64.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -277,7 +283,7 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 44.1,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -303,7 +309,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -318,5 +324,36 @@
         "year": 2006
       }
     ]
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 11,
+    "r2_specials": 1
+  },
+  "youtube": {
+    "clips": 11,
+    "total_views": 11076004,
+    "timed_clips": 11,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "UiL-lTzKxlA",
+      "title": "Why is America obsessed with guns?",
+      "views": 3271713,
+      "duration_s": 164,
+      "url": "https://www.youtube.com/watch?v=UiL-lTzKxlA",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/russell-howard/clips/russell-howard-uil-ltzkxla.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3053,
+    "special_words": 10395,
+    "timed_clips": 11,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

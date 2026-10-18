@@ -131,8 +131,18 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "3 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "annihilation-2017",
+      "i-love-everything-2020",
+      "we-all-scream-2022"
+    ],
+    "special_titles": [
+      "PATTON OSWALT: ANNIHILATION (2017) \u2013 Full Transcript",
+      "PATTON OSWALT: I LOVE EVERYTHING (2020) \u2013 FULL TRANSCRIPT",
+      "Patton Oswalt: We All Scream (2022) | Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -339,10 +349,10 @@
     "legacy": 89.9,
     "legacy_era": 90.1,
     "audience": 65.0,
-    "popularity": 46.7,
+    "popularity": 57.7,
     "theory": 37.5,
     "heat": null,
-    "gap_value": -0.183,
+    "gap_value": -0.073,
     "overrated": "accurately rated",
     "canon_lag": -0.249
   },
@@ -396,12 +406,17 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 44.1,
+    "coverage": "FULL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 20,
+        "pct": 44.1,
+        "sweep": [
+          20,
+          21
+        ]
       },
       "consensus": {
         "rank": 43,
@@ -421,8 +436,11 @@
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "interval": {
+      "lo": 20,
+      "hi": 21
+    },
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -440,5 +458,21 @@
       "standup comedy"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 3
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 27725,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

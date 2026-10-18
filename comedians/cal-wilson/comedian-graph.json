@@ -88,7 +88,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "style_tags": {
@@ -100,5 +100,17 @@
     "via": "trevor-noah",
     "sim": 0.169,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q5018240",
+    "dob": "1970-10-05",
+    "dod": "2023-10-11",
+    "birthplace": "Christchurch",
+    "citizenship": "New Zealand",
+    "occupations": [
+      "comedian",
+      "children's writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

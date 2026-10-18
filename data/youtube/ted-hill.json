@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ted-hill",
+ "name": "Ted Hill",
+ "clips": 1,
+ "total_views": 13000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "s8M7xP1uI_I",
+  "title": "Watch Ted Hill \u2018All The Presidents Man\u2019 on NextUp Comedy now! #standuplive #standupcomedy",
+  "channel": "NextUp Comedy",
+  "views": 13000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=s8M7xP1uI_I",
+  "r2_clip_key": "comedians/ted-hill/clips/ted-hill-s8m7xp1ui-i.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ted-hill/clips/ted-hill-s8m7xp1ui-i.json"
+ },
+ "rows": [
+  {
+   "videoId": "s8M7xP1uI_I",
+   "title": "Watch Ted Hill \u2018All The Presidents Man\u2019 on NextUp Comedy now! #standuplive #standupcomedy",
+   "channel": "NextUp Comedy",
+   "views": 13000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=s8M7xP1uI_I",
+   "n_words": 78,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "We're going to be talking about every single president so shout out the name of a president Oh slow down guys are you guys a keen any president you want No no no not that one any president no any of t",
+   "r2_clip_key": "comedians/ted-hill/clips/ted-hill-s8m7xp1ui-i.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ted-hill/clips/ted-hill-s8m7xp1ui-i.json",
+   "source_group": null
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "dave-landau",
+ "name": "Dave Landau",
+ "clips": 1,
+ "total_views": 17000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "1DEfFHzjNN8",
+  "title": "Dave Landau is A Prison 10. Watch now on NextUp Comedy! #standupcomedy #comedy #davelandau #standup",
+  "channel": "NextUp Comedy",
+  "views": 17000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=1DEfFHzjNN8",
+  "r2_clip_key": "comedians/dave-landau/clips/dave-landau-1deffhzjnn8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dave-landau/clips/dave-landau-1deffhzjnn8.json"
+ },
+ "rows": [
+  {
+   "videoId": "1DEfFHzjNN8",
+   "title": "Dave Landau is A Prison 10. Watch now on NextUp Comedy! #standupcomedy #comedy #davelandau #standup",
+   "channel": "NextUp Comedy",
+   "views": 17000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=1DEfFHzjNN8",
+   "n_words": 75,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "I do like candy I'm recovering drug addicts and alky I got sober about 13 years ago and I yeah it's fun I didn't want to go to jail Well prison So I might be a Michigan 5 or 6 but I'm a prison 10 folk",
+   "r2_clip_key": "comedians/dave-landau/clips/dave-landau-1deffhzjnn8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dave-landau/clips/dave-landau-1deffhzjnn8.json",
+   "source_group": null
+  }
+ ]
+}

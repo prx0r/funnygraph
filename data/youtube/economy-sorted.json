@@ -1,0 +1,38 @@
+{
+ "comedian_id": "economy-sorted",
+ "name": "ECONOMY? SORTED",
+ "clips": 1,
+ "total_views": 14000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Xne6C3FzvCI",
+  "title": "ECONOMY? SORTED | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 14000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Xne6C3FzvCI",
+  "r2_clip_key": "comedians/economy-sorted/clips/economy-sorted-xne6c3fzvci.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/economy-sorted/clips/economy-sorted-xne6c3fzvci.json"
+ },
+ "rows": [
+  {
+   "videoId": "Xne6C3FzvCI",
+   "title": "ECONOMY? SORTED | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 14000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Xne6C3FzvCI",
+   "n_words": 208,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "things are now, I think money will soon cease to exist. I look at this and think: there is no more cash. Just a number on the screen. Yes. And I think: we will change this. We will change it. Several ",
+   "r2_clip_key": "comedians/economy-sorted/clips/economy-sorted-xne6c3fzvci.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/economy-sorted/clips/economy-sorted-xne6c3fzvci.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

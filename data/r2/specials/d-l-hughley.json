@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "d-l-hughley",
+ "specials": [
+  {
+   "special_slug": "unapologetic-2007",
+   "title": "D.L. Hughley: Unapologetic (2007) \u2013 Transcript",
+   "comedian": "D.L. Hughley",
+   "url": "https://scrapsfromtheloft.com/comedy/d-l-hughley-unapologetic-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10411,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[Audience cheering] (DL Hughley enters from stage left with his head cocked and grabs the microphone) Hey now! How yallll doiinnnnnn. How yall doin chocolate city? Goddamn. Now, there\u2019s some good looking people around here. Give yourself a round of applause. [Audience cheering] That\u2019s nice! It\u2019s a m",
+   "r2_special_key": "comedians/d-l-hughley/specials/unapologetic-2007.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/d-l-hughley/specials/unapologetic-2007.json"
+  },
+  {
+   "special_slug": "contrarian-2018",
+   "title": "D.L. Hughley: Contrarian (2018) \u2013 Transcript",
+   "comedian": "D.L. Hughley",
+   "url": "https://scrapsfromtheloft.com/comedy/d-l-hughley-contrarian-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 7963,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "THE UNIVERSITY OF THE ARTS MERRIAM THEATER \u266aAmerica has to take those blindfolds off \u266a\n \u266a You are not machines! \u266a\n \u266a Blindfolds off \u266a\n [scratching]\n \u266a You are men! \u266a\n \u266a Blindfolds off \u266a Coming to the stage, he\u2019s the king of comedy. Y\u2019all clap your hands right now for my man\u2013D.L. Hughley! [cheering] ",
+   "r2_special_key": "comedians/d-l-hughley/specials/contrarian-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/d-l-hughley/specials/contrarian-2018.json"
+  }
+ ],
+ "count": 2
+}

@@ -44,7 +44,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 48.3,
+    "popularity": 70.0,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -89,7 +89,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -121,5 +121,19 @@
     "via": "james-acaster",
     "sim": 0.069,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q5913690",
+    "dob": "1973-12-02",
+    "dod": null,
+    "birthplace": "Granadilla de Abona",
+    "citizenship": "Spain",
+    "occupations": [
+      "actor",
+      "stand-up comedian",
+      "screenwriter",
+      "singer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

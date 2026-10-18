@@ -130,8 +130,28 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "8 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "quality-time-2019",
+      "obsessed-2014",
+      "noble-ape-2018",
+      "cinco-2017",
+      "dark-pale-2023",
+      "comedy-monster-2021",
+      "the-skinny-2024",
+      "live-from-old-forester-the-bourbon-set-2025"
+    ],
+    "special_titles": [
+      "Jim Gaffigan: Quality Time (2019) \u2013 Full Transcript",
+      "Jim Gaffigan: Obsessed (2014)",
+      "JIM GAFFIGAN: NOBLE APE (2018) \u2013 Full Transcript",
+      "JIM GAFFIGAN: CINCO (2017) \u2013 Full Transcript",
+      "Jim Gaffigan: Dark Pale (2023)",
+      "Jim Gaffigan: Comedy Monster (2021) | Transcript",
+      "Jim Gaffigan: The Skinny (2024)",
+      "Jim Gaffigan: Live from Old Forester \u2013 The Bourbon Set (2025)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -377,7 +397,7 @@
     "paste_2017": 40
   },
   "rating": {
-    "headline": 72.2,
+    "headline": 2.9,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -403,7 +423,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "known_bits": [
@@ -423,5 +443,21 @@
         "status_reversal"
       ]
     }
-  ]
+  ],
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 8
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 79963,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "mark-normand",
+ "specials": [
+  {
+   "special_slug": "don-t-be-yourself-2017",
+   "title": "Mark Normand: Don\u2019t Be Yourself (2017) \u2013 Transcript",
+   "comedian": "Mark Normand",
+   "url": "https://scrapsfromtheloft.com/comedy/mark-normand-dont-be-yourself-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9212,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Mark Normand: One minute. Amy Schumer: Mark, listen. I know exactly what you\u2019re thinking right now. You\u2019re thinking, this is my first hour special and I\u2019m freaking out and I don\u2019t deserve it. And you\u2019re thinking you\u2019re not funny enough and that you\u2019re not good-looking enough for television. And just",
+   "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-normand/specials/don-t-be-yourself-2017.json"
+  },
+  {
+   "special_slug": "soup-to-nuts-2023",
+   "title": "Mark Normand: Soup to Nuts (2023)",
+   "comedian": "Mark Normand",
+   "url": "https://scrapsfromtheloft.com/comedy/mark-normand-soup-to-nuts-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 9150,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nMark Normand: Soup to Nuts (2023) \u2013 Transcript\nPublished September 7, 2023\nFrom awkward lap dances to the intimacy of letting one rip in front of a spouse, comedian Mark Normand unloads in this rapid-fire stand-up special.\n\n[AUDIENCE LAUGHS]\n\nThis is getting off the rails here. What\u2019s tha",
+   "r2_special_key": "comedians/mark-normand/specials/soup-to-nuts-2023.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-normand/specials/soup-to-nuts-2023.json"
+  }
+ ],
+ "count": 2
+}

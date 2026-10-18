@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jason-manford-live",
+ "name": "Jason Manford LIVE",
+ "clips": 1,
+ "total_views": 375623,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "4S8w7IUn4-g",
+  "title": "Geordie: The Friendliest Accent | Jason Manford LIVE | Universal Comedy",
+  "channel": "Universal Comedy",
+  "views": 375623,
+  "duration_s": 96,
+  "url": "https://www.youtube.com/watch?v=4S8w7IUn4-g",
+  "r2_clip_key": "comedians/jason-manford-live/clips/jason-manford-live-4s8w7iun4-g.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-manford-live/clips/jason-manford-live-4s8w7iun4-g.json"
+ },
+ "rows": [
+  {
+   "videoId": "4S8w7IUn4-g",
+   "title": "Geordie: The Friendliest Accent | Jason Manford LIVE | Universal Comedy",
+   "channel": "Universal Comedy",
+   "views": 375623,
+   "likes": null,
+   "duration_s": 96,
+   "url": "https://www.youtube.com/watch?v=4S8w7IUn4-g",
+   "n_words": 247,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "what I like about Newcastle is her accent I've always L about Newcastle accent it's great it's great on women as well I'm big fan of it on women that's why they always put call centers in Newcastle lo",
+   "r2_clip_key": "comedians/jason-manford-live/clips/jason-manford-live-4s8w7iun4-g.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jason-manford-live/clips/jason-manford-live-4s8w7iun4-g.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

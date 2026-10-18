@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "pablo-francisco",
+ "specials": [
+  {
+   "special_slug": "ouch-live-from-san-jose-2006",
+   "title": "Pablo Francisco: Ouch! Live From San Jose (2006) \u2013 Full Transcript",
+   "comedian": "Pablo Francisco",
+   "url": "https://scrapsfromtheloft.com/comedy/pablo-francisco-ouch-live-san-jose-2006-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 6942,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "\u201cAre you ready?\u201d \u201cBrokeba\u2026homies\u201d. That\u2019s good. It\u2019s about a six on that one. \u201cAre you ready?\u201d Pablo! Pablo! \u201cAll right, here we go.\u201d No, that\u2019s a three at most. \u201cAlright. Hey.\u201d \u201cHi, I\u2019m William Hung. Hello.\u201d That\u2019s about a seven. Pablo! Pablo! \u201cAre you ready? Are you? Are you ready?\u201d Yes, I\u2019m ready",
+   "r2_special_key": "comedians/pablo-francisco/specials/ouch-live-from-san-jose-2006.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/pablo-francisco/specials/ouch-live-from-san-jose-2006.json"
+  }
+ ],
+ "count": 1
+}

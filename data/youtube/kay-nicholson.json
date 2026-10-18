@@ -1,0 +1,38 @@
+{
+ "comedian_id": "kay-nicholson",
+ "name": "Kay Nicholson",
+ "clips": 1,
+ "total_views": 74000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "N1Tj5QHt4AQ",
+  "title": "Dolly Parton | Kay Nicholson LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 74000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=N1Tj5QHt4AQ",
+  "r2_clip_key": "comedians/kay-nicholson/clips/kay-nicholson-n1tj5qht4aq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kay-nicholson/clips/kay-nicholson-n1tj5qht4aq.json"
+ },
+ "rows": [
+  {
+   "videoId": "N1Tj5QHt4AQ",
+   "title": "Dolly Parton | Kay Nicholson LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 74000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=N1Tj5QHt4AQ",
+   "n_words": 193,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "My mom texted me out of the blue: Dolly Parton, coffin emoji, coffin emoji. Very sad, I'm a little shocked, crying emoji. She then sent a screenshot of a photo of a lion with the heartbreaking news: S",
+   "r2_clip_key": "comedians/kay-nicholson/clips/kay-nicholson-n1tj5qht4aq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kay-nicholson/clips/kay-nicholson-n1tj5qht4aq.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

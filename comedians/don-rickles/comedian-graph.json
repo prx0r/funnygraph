@@ -39,7 +39,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -65,7 +65,21 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
+  },
+  "bio": {
+    "wikidata_id": "Q269890",
+    "dob": "1926-05-08",
+    "dod": "2017-04-06",
+    "birthplace": "Queens",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "actor",
+      "television presenter",
+      "singer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

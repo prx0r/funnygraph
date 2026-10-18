@@ -1,0 +1,38 @@
+{
+ "comedian_id": "john-bishop-is-ukrainian",
+ "name": "John Bishop Is Ukrainian?",
+ "clips": 1,
+ "total_views": 88664,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "v4fDzwcysII",
+  "title": "John Bishop Is Ukrainian? | The Graham Norton Show",
+  "channel": "The Graham Norton Show",
+  "views": 88664,
+  "duration_s": 100,
+  "url": "https://www.youtube.com/watch?v=v4fDzwcysII",
+  "r2_clip_key": "comedians/john-bishop-is-ukrainian/clips/john-bishop-is-ukrainian-v4fdzwcysii.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/john-bishop-is-ukrainian/clips/john-bishop-is-ukrainian-v4fdzwcysii.json"
+ },
+ "rows": [
+  {
+   "videoId": "v4fDzwcysII",
+   "title": "John Bishop Is Ukrainian? | The Graham Norton Show",
+   "channel": "The Graham Norton Show",
+   "views": 88664,
+   "likes": null,
+   "duration_s": 100,
+   "url": "https://www.youtube.com/watch?v=v4fDzwcysII",
+   "n_words": 290,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Donkey, have you done an American accent or something or not? >> No, no. The trouble with having this accent is that I don't you you this is what intrigues me with people who play with their own voice",
+   "r2_clip_key": "comedians/john-bishop-is-ukrainian/clips/john-bishop-is-ukrainian-v4fdzwcysii.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/john-bishop-is-ukrainian/clips/john-bishop-is-ukrainian-v4fdzwcysii.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

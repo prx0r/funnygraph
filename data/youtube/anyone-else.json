@@ -1,0 +1,38 @@
+{
+ "comedian_id": "anyone-else",
+ "name": "ANYONE ELSE?",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "JtGB-WvlqgA",
+  "title": "ANYONE ELSE? | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=JtGB-WvlqgA",
+  "r2_clip_key": "comedians/anyone-else/clips/anyone-else-jtgb-wvlqga.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/anyone-else/clips/anyone-else-jtgb-wvlqga.json"
+ },
+ "rows": [
+  {
+   "videoId": "JtGB-WvlqgA",
+   "title": "ANYONE ELSE? | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=JtGB-WvlqgA",
+   "n_words": 216,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Do you think it's sad that this was your last sleepover and you didn't even know it? Well, not really. We had one in 11th grade, right? My friend had grandparents , and they went on vacation. So we st",
+   "r2_clip_key": "comedians/anyone-else/clips/anyone-else-jtgb-wvlqga.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/anyone-else/clips/anyone-else-jtgb-wvlqga.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

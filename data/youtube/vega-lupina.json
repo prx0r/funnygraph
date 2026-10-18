@@ -1,0 +1,38 @@
+{
+ "comedian_id": "vega-lupina",
+ "name": "Vega Lupina",
+ "clips": 1,
+ "total_views": 371041,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "f8Micrt3hDw",
+  "title": "Taskmaster S9E7 - Greg's Surprise for Ed Gamble",
+  "channel": "Vega Lupina",
+  "views": 371041,
+  "duration_s": 99,
+  "url": "https://www.youtube.com/watch?v=f8Micrt3hDw",
+  "r2_clip_key": "comedians/vega-lupina/clips/vega-lupina-f8micrt3hdw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vega-lupina/clips/vega-lupina-f8micrt3hdw.json"
+ },
+ "rows": [
+  {
+   "videoId": "f8Micrt3hDw",
+   "title": "Taskmaster S9E7 - Greg's Surprise for Ed Gamble",
+   "channel": "Vega Lupina",
+   "views": 371041,
+   "likes": null,
+   "duration_s": 99,
+   "url": "https://www.youtube.com/watch?v=f8Micrt3hDw",
+   "n_words": 177,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "are you all right it's probably not appropriate to tell you and we should probably move on but i will tell you i woke up this morning and i realized i didn't have any clean pants so i improvised and u",
+   "r2_clip_key": "comedians/vega-lupina/clips/vega-lupina-f8micrt3hdw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vega-lupina/clips/vega-lupina-f8micrt3hdw.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

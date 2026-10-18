@@ -4,7 +4,7 @@
   "name": "Daniel Sloss",
   "tier": "king",
   "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
+  "version": 2,
   "created": "2026-10-17",
   "annotator": "discover.py",
   "identity": {
@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -46,9 +47,109 @@
       "The Rob Brydon Show (BBC2)"
     ],
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/daniel-sloss/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/daniel-sloss/",
+    "r2_comedian": true,
+    "r2_specials": 4
   },
-  "sets": [],
+  "sets": [
+    {
+      "id": "daniel-sloss-socio-2021",
+      "special": "socio-2021",
+      "title": "Daniel Sloss: SOCIO",
+      "source": "r2:comedians/daniel-sloss/specials/socio-2021.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 12985,
+      "duration_s": 4394.2,
+      "timing_measured": {
+        "wpm": 177.3,
+        "pause_count": 161,
+        "pause_bins": {
+          "very_short": 50,
+          "short": 15,
+          "substantial": 16,
+          "topic": 80
+        },
+        "mean_pause_s": 1.557,
+        "punch_pauses_s": [
+          4.4,
+          3.91,
+          2.84,
+          2.8,
+          1.92,
+          1.33,
+          1.0,
+          0.92
+        ],
+        "max_pause_s": 12.56
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 4.44,
+          "pause_before_s": 1.0,
+          "fingerprint": "well thank you so much for coming"
+        },
+        {
+          "t_start_s": 50.56,
+          "pause_before_s": 2.8,
+          "fingerprint": "mine and they have promised you that"
+        },
+        {
+          "t_start_s": 139.28,
+          "pause_before_s": 2.84,
+          "fingerprint": "test you survive another day it's [\u00a0__\u00a0]"
+        },
+        {
+          "t_start_s": 242.4,
+          "pause_before_s": 0.68,
+          "fingerprint": "D don't make me like him like"
+        },
+        {
+          "t_start_s": 310.44,
+          "pause_before_s": 1.92,
+          "fingerprint": "it good get his parents too he"
+        },
+        {
+          "t_start_s": 451.16,
+          "pause_before_s": 0.6,
+          "fingerprint": "it's that's amazing thank you so much"
+        },
+        {
+          "t_start_s": 491.96,
+          "pause_before_s": 0.72,
+          "fingerprint": "pp have a [\u00a0__\u00a0] orange like you"
+        },
+        {
+          "t_start_s": 510.68,
+          "pause_before_s": 0.8,
+          "fingerprint": "let's say I get drunk tonight as"
+        },
+        {
+          "t_start_s": 520.88,
+          "pause_before_s": 4.4,
+          "fingerprint": "[\u00a0__\u00a0] after the show you see me"
+        },
+        {
+          "t_start_s": 563.4,
+          "pause_before_s": 0.92,
+          "fingerprint": "right just like the rest of you"
+        },
+        {
+          "t_start_s": 603.83,
+          "pause_before_s": 3.91,
+          "fingerprint": "[Applause] look all I'm trying to say"
+        },
+        {
+          "t_start_s": 608.24,
+          "pause_before_s": 1.33,
+          "fingerprint": "look all I'm trying to say is"
+        }
+      ],
+      "beat_count": 104,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    }
+  ],
   "essay_seeds": [],
   "provenance": {
     "tier": "king",
@@ -86,16 +187,16 @@
     "legacy_era": 65.9,
     "audience": null,
     "popularity": null,
-    "theory": 0.0,
+    "theory": 62.5,
     "heat": null,
     "gap_value": null,
     "overrated": null,
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 87.9,
     "coverage": "UNRANKED",
-    "provisional": "global-prior",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
         "rank": null
@@ -119,12 +220,138 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
-  }
+  },
+  "set_queue": {
+    "note": "4 full specials in R2 (1 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "x-2019",
+      "socio-2021",
+      "dark-2018",
+      "jigsaw-2018"
+    ],
+    "special_titles": [
+      "Daniel Sloss: X (2019)",
+      "Daniel Sloss: SOCIO",
+      "Daniel Sloss: Dark (2018)",
+      "Daniel Sloss: Jigsaw (2018)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 50161,
+    "timed_clips": 0,
+    "timed_specials": 1,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q5218786",
+    "dob": "1990-09-11",
+    "dod": null,
+    "birthplace": "Kingston upon Thames",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "stand-up comedian",
+      "television actor",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
+  },
+  "known_bits": [
+    {
+      "title": "socio-2021: [\u00a0__\u00a0] after the show you see me",
+      "why_it_works": "Long pause (4.4s) before this beat in Daniel Sloss: SOCIO. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "daniel-sloss-socio-2021",
+      "t_start_s": 520.88,
+      "pause_before_s": 4.4
+    },
+    {
+      "title": "socio-2021: [Applause] look all I'm trying to say",
+      "why_it_works": "Long pause (3.91s) before this beat in Daniel Sloss: SOCIO. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "daniel-sloss-socio-2021",
+      "t_start_s": 603.83,
+      "pause_before_s": 3.91
+    },
+    {
+      "title": "socio-2021: test you survive another day it's [\u00a0__\u00a0]",
+      "why_it_works": "Long pause (2.84s) before this beat in Daniel Sloss: SOCIO. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "daniel-sloss-socio-2021",
+      "t_start_s": 139.28,
+      "pause_before_s": 2.84
+    },
+    {
+      "title": "socio-2021: mine and they have promised you that",
+      "why_it_works": "Long pause (2.8s) before this beat in Daniel Sloss: SOCIO. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "daniel-sloss-socio-2021",
+      "t_start_s": 50.56,
+      "pause_before_s": 2.8
+    },
+    {
+      "title": "socio-2021: it good get his parents too he",
+      "why_it_works": "Long pause (1.92s) before this beat in Daniel Sloss: SOCIO. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "daniel-sloss-socio-2021",
+      "t_start_s": 310.44,
+      "pause_before_s": 1.92
+    }
+  ],
+  "timing_profile": {
+    "measured": [
+      {
+        "set_id": "daniel-sloss-socio-2021",
+        "wpm": 177.3,
+        "mean_pause_s": 1.557,
+        "punch_pauses_s": [
+          4.4,
+          3.91,
+          2.84,
+          2.8,
+          1.92
+        ],
+        "max_pause_s": 12.56
+      }
+    ],
+    "status": "measured on 1 set(s)"
+  },
+  "specials_rated": [
+    {
+      "special": "socio-2021",
+      "title": "Daniel Sloss: SOCIO",
+      "source": "r2:comedians/daniel-sloss/specials/socio-2021.json",
+      "n_words": 12985,
+      "words_timed": true,
+      "analysis": "analysis/daniel-sloss-socio-2021_analysis.json"
+    }
+  ],
+  "last_ingest": "2026-10-18"
 }

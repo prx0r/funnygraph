@@ -1,0 +1,38 @@
+{
+ "comedian_id": "complaining-in-a-restaurant",
+ "name": "Complaining In A Restaurant",
+ "clips": 1,
+ "total_views": 1357179,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "2Urw9g6DwqY",
+  "title": "Complaining In A Restaurant | Peter Kay: The Tour That Didn't Tour Tour",
+  "channel": "Peter Kay",
+  "views": 1357179,
+  "duration_s": 162,
+  "url": "https://www.youtube.com/watch?v=2Urw9g6DwqY",
+  "r2_clip_key": "comedians/complaining-in-a-restaurant/clips/complaining-in-a-restaurant-2urw9g6dwqy.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/complaining-in-a-restaurant/clips/complaining-in-a-restaurant-2urw9g6dwqy.json"
+ },
+ "rows": [
+  {
+   "videoId": "2Urw9g6DwqY",
+   "title": "Complaining In A Restaurant | Peter Kay: The Tour That Didn't Tour Tour",
+   "channel": "Peter Kay",
+   "views": 1357179,
+   "likes": null,
+   "duration_s": 162,
+   "url": "https://www.youtube.com/watch?v=2Urw9g6DwqY",
+   "n_words": 352,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "no I love when you go for a meal nobody complains you'll all complain to each other but God forbid you'd ever tell a member of staff they're on their bloody Mimi Lurie they're on their main meal we've",
+   "r2_clip_key": "comedians/complaining-in-a-restaurant/clips/complaining-in-a-restaurant-2urw9g6dwqy.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/complaining-in-a-restaurant/clips/complaining-in-a-restaurant-2urw9g6dwqy.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

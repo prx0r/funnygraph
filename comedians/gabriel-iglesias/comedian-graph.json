@@ -130,8 +130,22 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "5 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "stadium-fluffy-2022",
+      "legend-of-fluffy-2025",
+      "i-m-sorry-for-what-i-said-when-i-was-hungry-2016",
+      "hot-and-fluffy-2007",
+      "i-m-not-fat-i-m-fluffy-2009"
+    ],
+    "special_titles": [
+      "Gabriel Iglesias: Stadium Fluffy (2022) | Transcript",
+      "Gabriel Iglesias: Legend of Fluffy (2025)",
+      "GABRIEL IGLESIAS: I\u2019M SORRY FOR WHAT I SAID WHEN I WAS HUNGRY (2016) \u2013 Full Transcript",
+      "Gabriel Iglesias: Hot And Fluffy (2007) \u2013 Transcript",
+      "GABRIEL IGLESIAS: I\u2019M NOT FAT \u2026 I\u2019M FLUFFY (2009) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -368,7 +382,7 @@
     "awards": []
   },
   "rating": {
-    "headline": 51.4,
+    "headline": 65.4,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -394,7 +408,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -430,5 +444,21 @@
       "comico"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 5
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 70664,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

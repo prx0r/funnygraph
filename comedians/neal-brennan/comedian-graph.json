@@ -130,8 +130,20 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "4 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "3-mics-2017",
+      "women-and-black-dudes-2014",
+      "blocks-2022",
+      "crazy-good-2024"
+    ],
+    "special_titles": [
+      "NEAL BRENNAN: 3 MICS (2017)- FULL TRANSCRIPT",
+      "Neal Brennan: Women And Black Dudes (2014) \u2013 Transcript",
+      "Neal Brennan: Blocks (2022) | Transcript",
+      "Neal Brennan: Crazy Good (2024)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -373,12 +385,17 @@
     "awards": []
   },
   "rating": {
-    "headline": 38.9,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 41.2,
+    "coverage": "FULL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 21,
+        "pct": 41.2,
+        "sweep": [
+          19,
+          22
+        ]
       },
       "consensus": {
         "rank": 146,
@@ -398,8 +415,11 @@
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "interval": {
+      "lo": 19,
+      "hi": 22
+    },
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -427,5 +447,21 @@
         "juxtapose"
       ]
     }
-  ]
+  ],
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 4
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 36482,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "sam-noouny-says",
+ "name": "Sam Noouny Says",
+ "clips": 1,
+ "total_views": 292121,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "8wE6CFDIGCE",
+  "title": "Frankie Boyle On Jordan and Peter Andre and their kid Harvey",
+  "channel": "Sam Noouny Says",
+  "views": 292121,
+  "duration_s": 46,
+  "url": "https://www.youtube.com/watch?v=8wE6CFDIGCE",
+  "r2_clip_key": "comedians/sam-noouny-says/clips/sam-noouny-says-8we6cfdigce.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sam-noouny-says/clips/sam-noouny-says-8we6cfdigce.json"
+ },
+ "rows": [
+  {
+   "videoId": "8wE6CFDIGCE",
+   "title": "Frankie Boyle On Jordan and Peter Andre and their kid Harvey",
+   "channel": "Sam Noouny Says",
+   "views": 292121,
+   "likes": null,
+   "duration_s": 46,
+   "url": "https://www.youtube.com/watch?v=8wE6CFDIGCE",
+   "n_words": 58,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Bartley job Dan in Peter Andreea Phaeton each other over custody of Harvey eventually one of them will lose and have to keep him a Vasily that job had married a cage failure because she needed someone",
+   "r2_clip_key": "comedians/sam-noouny-says/clips/sam-noouny-says-8we6cfdigce.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sam-noouny-says/clips/sam-noouny-says-8we6cfdigce.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

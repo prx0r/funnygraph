@@ -110,12 +110,26 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q4685289",
+    "dob": "1979-01-29",
+    "dod": null,
+    "birthplace": "Burton upon Trent",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "screenwriter",
+      "playwright",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

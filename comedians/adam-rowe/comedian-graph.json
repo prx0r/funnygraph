@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Adam Rowe is a stand up comedian based in Liverpool, England. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Adam Rowe On The Mic Sunday, June 24th, 2018 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic updates. Website Content \u00a9 2018 - 2026 Martin Walker / Ab",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/adam-rowe/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/adam-rowe/",
+    "r2_comedian": true,
+    "r2_clips": 5
   },
   "sets": [],
   "essay_seeds": [],
@@ -84,7 +87,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 58.5,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -110,12 +113,47 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 5,
+    "total_views": 53118,
+    "timed_clips": 5,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "2pC_OemAZXo",
+      "title": "Adam Rowe: Thin Skinned Wendy | Online Exclusive | Jonathan Ross\u2019 Comedy Club",
+      "views": 24164,
+      "duration_s": 156,
+      "url": "https://www.youtube.com/watch?v=2pC_OemAZXo",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/adam-rowe/clips/adam-rowe-2pc_oemazxo.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 1793,
+    "special_words": 0,
+    "timed_clips": 5,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q95489633",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

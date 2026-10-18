@@ -1,119 +1,242 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "zakir-khan",
-  "name": "Zakir Khan",
-  "tier": "indie",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "region": "india",
-  "discovery": {
-    "discovered_from": [
-      "youtube-native",
-      "amazon-prime",
-      "netflix"
-    ],
-    "discovery_note": "India's biggest stand-up: 960M+ YT views, 6 specials, MSG sellout. Storyteller of a generation."
-  },
-  "continent": "asia",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": null,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "neal-brennan",
-      "sim": 0.051
-    },
-    {
-      "comedian_id": "al-madrigal",
-      "sim": 0.051
-    },
-    {
-      "comedian_id": "jerrod-carmichael",
-      "sim": 0.048
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "zakir-khan",
+ "name": "Zakir Khan",
+ "tier": "indie",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "region": "india",
+ "discovery": {
+  "discovered_from": [
+   "youtube-native",
+   "amazon-prime",
+   "netflix"
   ],
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  "discovery_note": "India's biggest stand-up: 960M+ YT views, 6 specials, MSG sellout. Storyteller of a generation."
+ },
+ "continent": "asia",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": null,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "neal-brennan",
+   "sim": 0.051
   },
-  "youtube_channel": {
-    "id": "UCkS7Vxu4PjM99w0Is6idjcg",
-    "handle": "zakirkhan",
-    "title": "Zakir Khan",
-    "subs": 8490000,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "dormant",
-    "checked": "2026-10-17",
-    "clips": 0,
-    "newest_upload": "",
-    "name_match_rate": 0.0,
-    "other_names": []
+  {
+   "comedian_id": "al-madrigal",
+   "sim": 0.051
   },
-  "style_tags": {
-    "humor_type": "dark-confessional",
-    "theories": [
-      "benign_violation",
-      "persona_gap"
-    ],
-    "via": "neal-brennan",
-    "sim": 0.051,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "jerrod-carmichael",
+   "sim": 0.048
   }
+ ],
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCkS7Vxu4PjM99w0Is6idjcg",
+  "handle": "zakirkhan",
+  "title": "Zakir Khan",
+  "subs": 8490000,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "dormant",
+  "checked": "2026-10-17",
+  "clips": 0,
+  "newest_upload": "",
+  "name_match_rate": 0.0,
+  "other_names": []
+ },
+ "style_tags": {
+  "humor_type": "dark-confessional",
+  "theories": [
+   "benign_violation",
+   "persona_gap"
+  ],
+  "via": "neal-brennan",
+  "sim": 0.051,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "IPO6g1HboRk",
+   "title": "In Conversation with Zakir Khan x Nayyi Navelli | Ft. Yami Gautam, Aanand L Rai, Kullu, Anurag",
+   "duration_s": 2028,
+   "views": 1085312,
+   "url": "https://www.youtube.com/watch?v=IPO6g1HboRk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EV-rF0N1was",
+   "title": "Tafseel Se Baatein - Zakir Khan in Conversation with Aamir Khan and Mansoor Khan",
+   "duration_s": 3638,
+   "views": 1716239,
+   "url": "https://www.youtube.com/watch?v=EV-rF0N1was",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "tOc_PEW_8_k",
+   "title": "Hello Bachhon! - Alakh Pandey in Conversation with Zakir Khan",
+   "duration_s": 1217,
+   "views": 1280810,
+   "url": "https://www.youtube.com/watch?v=tOc_PEW_8_k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vflWLItnwfA",
+   "title": "CLASS | Zakir khan | Stand-Up Comedy | Sukha Puri 8",
+   "duration_s": 1447,
+   "views": 29527447,
+   "url": "https://www.youtube.com/watch?v=vflWLItnwfA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "441QuFh41Mc",
+   "title": "Ummeed | Season 2 | Ep 1 | Struggle, Success & Love | ft @KumarVarunOfficial Manoj & Shraddha",
+   "duration_s": 1329,
+   "views": 1211914,
+   "url": "https://www.youtube.com/watch?v=441QuFh41Mc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "R1I7sZOeMxE",
+   "title": "Chacha Vidhayak Party LIVE!",
+   "duration_s": 6333,
+   "views": 559537,
+   "url": "https://www.youtube.com/watch?v=R1I7sZOeMxE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "bhB7QXxNYJY",
+   "title": "India Shayari Project | Zakir Khan | Poetry",
+   "duration_s": 1675,
+   "views": 3016317,
+   "url": "https://www.youtube.com/watch?v=bhB7QXxNYJY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "MNTgquMcwi4",
+   "title": "Aur Sunao | #StayHome and #Chill #WithMe | Zakir khan",
+   "duration_s": 2044,
+   "views": 834211,
+   "url": "https://www.youtube.com/watch?v=MNTgquMcwi4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rA0JQJoGNJI",
+   "title": "Chhichhore | Hmm Achha Theek Hai with Zakir Khan | Sushant | Shraddha | Varun | Tushar | Naveen",
+   "duration_s": 1298,
+   "views": 9165456,
+   "url": "https://www.youtube.com/watch?v=rA0JQJoGNJI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZXSGHmgBkWM",
+   "title": "Aur Sunao - Youtube live - 19/02/18",
+   "duration_s": 1208,
+   "views": 1058128,
+   "url": "https://www.youtube.com/watch?v=ZXSGHmgBkWM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "OQQ1sGphUj4",
+   "title": "\u201cMeri Dastaan Sunana\u201d - Zakir Khan | Spoken 2017 by Kommune",
+   "duration_s": 1778,
+   "views": 12642321,
+   "url": "https://www.youtube.com/watch?v=OQQ1sGphUj4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Wltj4mW3gfM",
+   "title": "Aur Sunao - 17/01/18",
+   "duration_s": 1384,
+   "views": 780871,
+   "url": "https://www.youtube.com/watch?v=Wltj4mW3gfM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "moF0SXOKRnM",
+   "title": "Aur Sunao - 1-12-2017",
+   "duration_s": 1544,
+   "views": 1324262,
+   "url": "https://www.youtube.com/watch?v=moF0SXOKRnM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PVJdv18aVpI",
+   "title": "Aur sunao - Youtube live - 10/10/17",
+   "duration_s": 1301,
+   "views": 713754,
+   "url": "https://www.youtube.com/watch?v=PVJdv18aVpI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DjFmCxxsBQI",
+   "title": "Aur Batao",
+   "duration_s": 1453,
+   "views": 1290803,
+   "url": "https://www.youtube.com/watch?v=DjFmCxxsBQI",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 15
 }

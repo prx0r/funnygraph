@@ -1,0 +1,38 @@
+{
+ "comedian_id": "release-topic",
+ "name": "Release - Topic",
+ "clips": 1,
+ "total_views": 44,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "kocdiV-zgAc",
+  "title": "Full of Beans",
+  "channel": "Release - Topic",
+  "views": 44,
+  "duration_s": 169,
+  "url": "https://www.youtube.com/watch?v=kocdiV-zgAc",
+  "r2_clip_key": "comedians/release-topic/clips/release-topic-kocdiv-zgac.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/release-topic/clips/release-topic-kocdiv-zgac.json"
+ },
+ "rows": [
+  {
+   "videoId": "kocdiV-zgAc",
+   "title": "Full of Beans",
+   "channel": "Release - Topic",
+   "views": 44,
+   "likes": null,
+   "duration_s": 169,
+   "url": "https://www.youtube.com/watch?v=kocdiV-zgAc",
+   "n_words": 296,
+   "words_timed": true,
+   "transcript_method": "local-faster-whisper-tiny",
+   "transcript_available": true,
+   "transcript_preview": "DREAM ME IN! GET ME IN YOUR eyes! They don't make me like me! I'll be a distant memory before you know it. You'll be in bed like the D-Rally fucking look like that. No, no, pop out from under your bed",
+   "r2_clip_key": "comedians/release-topic/clips/release-topic-kocdiv-zgac.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/release-topic/clips/release-topic-kocdiv-zgac.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

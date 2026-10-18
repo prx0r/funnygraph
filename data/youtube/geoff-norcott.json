@@ -1,0 +1,55 @@
+{
+ "comedian_id": "geoff-norcott",
+ "name": "Geoff Norcott",
+ "clips": 2,
+ "total_views": 97000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "vkqZFITFLag",
+  "title": "Well that didn\u2019t go as planned \ud83e\udee3",
+  "channel": "NextUp Comedy",
+  "views": 54000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=vkqZFITFLag",
+  "r2_clip_key": "comedians/geoff-norcott/clips/geoff-norcott-vkqzfitflag.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/geoff-norcott/clips/geoff-norcott-vkqzfitflag.json"
+ },
+ "rows": [
+  {
+   "videoId": "vkqZFITFLag",
+   "title": "Well that didn\u2019t go as planned \ud83e\udee3",
+   "channel": "NextUp Comedy",
+   "views": 54000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=vkqZFITFLag",
+   "n_words": 146,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "Shut up what's your name Paul what do you do Do you fucking like clean steam engines or something You're retired you're retired what the fuck How old are you 58 right This is why young people are angr",
+   "r2_clip_key": "comedians/geoff-norcott/clips/geoff-norcott-vkqzfitflag.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/geoff-norcott/clips/geoff-norcott-vkqzfitflag.json",
+   "source_group": null
+  },
+  {
+   "videoId": "8Ma4az_kJT4",
+   "title": "Watch Geoff Norcott\u2019s full comedy special, Basic Bloke, by hitting that \u2018JOIN\u2019 button. \ud83c\udfa5\ud83d\ude0e",
+   "channel": "NextUp Comedy",
+   "views": 43000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=8Ma4az_kJT4",
+   "n_words": 469,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "The female body has more power over men than men do generally over women right And I can explain it on a localised level If I'm upset with my wife right I'm angry with my wife from furious with her At",
+   "r2_clip_key": "comedians/geoff-norcott/clips/geoff-norcott-8ma4az-kjt4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/geoff-norcott/clips/geoff-norcott-8ma4az-kjt4.json",
+   "source_group": null
+  }
+ ]
+}

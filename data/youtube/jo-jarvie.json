@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jo-jarvie",
+ "name": "Jo Jarvie",
+ "clips": 1,
+ "total_views": 6600,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "zZJQOM6nvMw",
+  "title": "Winning The Lotto | Jo Jarvie | Craic Den Comedy Club | #lotto #jokes #comedy #standupcomedy",
+  "channel": "@craicdencomedyclub",
+  "views": 6600,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=zZJQOM6nvMw",
+  "r2_clip_key": "comedians/jo-jarvie/clips/jo-jarvie-zzjqom6nvmw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jo-jarvie/clips/jo-jarvie-zzjqom6nvmw.json"
+ },
+ "rows": [
+  {
+   "videoId": "zZJQOM6nvMw",
+   "title": "Winning The Lotto | Jo Jarvie | Craic Den Comedy Club | #lotto #jokes #comedy #standupcomedy",
+   "channel": "@craicdencomedyclub",
+   "views": 6600,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=zZJQOM6nvMw",
+   "n_words": 48,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "When I was in my 20ies, I used to call my [\u00a0__\u00a0] the lotto. And I'll tell you for why. Because if you got it, you got [\u00a0__\u00a0] lucky. Now I still call it the lotto, ladies, fellas. But just cuz I [\u00a0__\u00a0]",
+   "r2_clip_key": "comedians/jo-jarvie/clips/jo-jarvie-zzjqom6nvmw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jo-jarvie/clips/jo-jarvie-zzjqom6nvmw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

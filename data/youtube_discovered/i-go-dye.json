@@ -1,0 +1,88 @@
+{
+ "comedian_id": "i-go-dye",
+ "specials": [
+  {
+   "videoId": "lPv3FLgmkR4",
+   "title": "playing with randoms",
+   "channel": "GODYE",
+   "publishedAt": "2022-11-17T17:06:22Z",
+   "duration_s": 1667,
+   "views": 8,
+   "likes": 2,
+   "comedian_slug": "i-go-dye",
+   "matched_r2_special": "playing-with-your-head-1986"
+  }
+ ],
+ "clips": [
+  {
+   "videoId": "8QdyXk7t3hw",
+   "title": "Win A Game With  Randoms \ud83d\ude31\ud83d\ude31\ud83d\ude31",
+   "channel": "GODYE",
+   "publishedAt": "2022-11-18T04:00:04Z",
+   "duration_s": 488,
+   "views": 6,
+   "likes": 2,
+   "comedian_slug": "i-go-dye"
+  },
+  {
+   "videoId": "urUNRG77TQ8",
+   "title": "how yall vacation going let me know in the comments",
+   "channel": "GODYE",
+   "publishedAt": "2022-08-07T21:01:29Z",
+   "duration_s": 55,
+   "views": 11,
+   "likes": 1,
+   "comedian_slug": "i-go-dye"
+  },
+  {
+   "videoId": "dPV7m0pg8u4",
+   "title": "the best edit yeah boy",
+   "channel": "GODYE",
+   "publishedAt": "2022-06-02T16:57:34Z",
+   "duration_s": 48,
+   "views": 6,
+   "likes": 0,
+   "comedian_slug": "i-go-dye"
+  },
+  {
+   "videoId": "ykGt8jSNHCQ",
+   "title": "now Come form get the milk",
+   "channel": "GODYE",
+   "publishedAt": "2022-04-22T18:31:56Z",
+   "duration_s": 45,
+   "views": 3,
+   "likes": 1,
+   "comedian_slug": "i-go-dye"
+  },
+  {
+   "videoId": "Xaec6Cf4X3k",
+   "title": "two weeks break",
+   "channel": "GODYE",
+   "publishedAt": "2022-03-10T23:05:29Z",
+   "duration_s": 68,
+   "views": 14,
+   "likes": 3,
+   "comedian_slug": "i-go-dye"
+  },
+  {
+   "videoId": "7_frllNgliE",
+   "title": "who is ready for carnival",
+   "channel": "GODYE",
+   "publishedAt": "2022-02-24T18:29:43Z",
+   "duration_s": 44,
+   "views": 14,
+   "likes": 3,
+   "comedian_slug": "i-go-dye"
+  },
+  {
+   "videoId": "PpNPbU5vRtE",
+   "title": "trinidad is not rel place",
+   "channel": "GODYE",
+   "publishedAt": "2022-02-17T02:23:16Z",
+   "duration_s": 32,
+   "views": 15,
+   "likes": 2,
+   "comedian_slug": "i-go-dye"
+  }
+ ]
+}

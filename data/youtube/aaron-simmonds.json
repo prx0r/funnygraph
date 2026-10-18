@@ -1,0 +1,38 @@
+{
+ "comedian_id": "aaron-simmonds",
+ "name": "Aaron Simmonds",
+ "clips": 1,
+ "total_views": 3100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "kzP1GoR_UxU",
+  "title": "Competitive Relations | Aaron Simmonds LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 3100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=kzP1GoR_UxU",
+  "r2_clip_key": "comedians/aaron-simmonds/clips/aaron-simmonds-kzp1gor_uxu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/aaron-simmonds/clips/aaron-simmonds-kzp1gor_uxu.json"
+ },
+ "rows": [
+  {
+   "videoId": "kzP1GoR_UxU",
+   "title": "Competitive Relations | Aaron Simmonds LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 3100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=kzP1GoR_UxU",
+   "n_words": 127,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "We are now officially in a relationship. Thank you. Thank you. Moreover, we are in an open relationship. A completely different reaction. You nod. Come see me after the show. She was the one who propo",
+   "r2_clip_key": "comedians/aaron-simmonds/clips/aaron-simmonds-kzp1gor_uxu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/aaron-simmonds/clips/aaron-simmonds-kzp1gor_uxu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

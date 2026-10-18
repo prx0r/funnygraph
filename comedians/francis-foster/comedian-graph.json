@@ -105,12 +105,26 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q116223572",
+    "dob": "1982-05-01",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "stand-up comedian",
+      "comedian",
+      "political pundit",
+      "podcaster"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

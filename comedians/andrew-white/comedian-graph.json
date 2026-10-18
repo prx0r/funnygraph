@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "UK based Andrew White performed his first hour-long stand up comedy show at 17 years old. In the early days, Andrew frequently used his father as a warm-up act. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Andrew White On The Mic Wednesday, July 20th, 2022 READ INTERVIEW Andrew White On The Mic Sunday, June 24th, 2018 READ INTERVIEW Andrew White Podcast Andrew White TikTok Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum just",
     "otm_url": "https://www.onthemic.co.uk/comedians_list/andrew-white/",
-    "otm_enriched": true
+    "otm_enriched": true,
+    "r2_comedian": true,
+    "r2_clips": 112
   },
   "sets": [],
   "essay_seeds": [],
@@ -104,7 +107,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 70.9,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -130,12 +133,35 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
-  }
+  },
+  "youtube": {
+    "clips": 112,
+    "total_views": 352000,
+    "timed_clips": 50,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "sig-FtxJq-0",
+      "title": "Merry Christmas xoxo #christmascards #merrychristmas #ukcomedy #lgbt #shorts #gaycomedy #xmas #funny",
+      "views": 97000,
+      "url": "https://www.youtube.com/watch?v=sig-FtxJq-0",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-white/clips/andrew-white-sig-ftxjq-0.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 5921,
+    "special_words": 0,
+    "timed_clips": 50,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

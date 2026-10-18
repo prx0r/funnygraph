@@ -1,0 +1,38 @@
+{
+ "comedian_id": "teaching-is-hard",
+ "name": "Teaching is hard",
+ "clips": 1,
+ "total_views": 12000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "bmtS9gnhOSo",
+  "title": "Teaching is hard - Robert White - Live at The Bearcat  #comedy #standupcomedy #funny #standup",
+  "channel": "@BearcatComedyClub",
+  "views": 12000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=bmtS9gnhOSo",
+  "r2_clip_key": "comedians/teaching-is-hard/clips/teaching-is-hard-bmts9gnhoso.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/teaching-is-hard/clips/teaching-is-hard-bmts9gnhoso.json"
+ },
+ "rows": [
+  {
+   "videoId": "bmtS9gnhOSo",
+   "title": "Teaching is hard - Robert White - Live at The Bearcat  #comedy #standupcomedy #funny #standup",
+   "channel": "@BearcatComedyClub",
+   "views": 12000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=bmtS9gnhOSo",
+   "n_words": 126,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "So, this is a song about accidentally calling people [\u00a0__\u00a0] It's a new song, uh, but I've done it three times, and each time people laughed, so if you don't, you're wrong. Here we go. [laughter] Somet",
+   "r2_clip_key": "comedians/teaching-is-hard/clips/teaching-is-hard-bmts9gnhoso.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/teaching-is-hard/clips/teaching-is-hard-bmts9gnhoso.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

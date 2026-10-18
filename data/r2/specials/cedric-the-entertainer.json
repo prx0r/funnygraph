@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "cedric-the-entertainer",
+ "specials": [
+  {
+   "special_slug": "live-from-the-ville-2016",
+   "title": "Cedric the Entertainer: Live from the Ville (2016) \u2013 Transcript",
+   "comedian": "Cedric the Entertainer",
+   "url": "https://scrapsfromtheloft.com/comedy/cedric-the-entertainer-live-from-the-ville-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8910,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[slow jazz music playing] [Ice Cube] He one of the OGs, one of the all-time greats. He can make you laugh with a look. [Jimmie Walker] He is a legend in the stand-up game. [Chris Rock] Yes. [Jerry Seinfeld] He\u2019s so good. He\u2019s completely unique. I love the guy. [Rock] The hardest gig I ever did was f",
+   "r2_special_key": "comedians/cedric-the-entertainer/specials/live-from-the-ville-2016.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cedric-the-entertainer/specials/live-from-the-ville-2016.json"
+  }
+ ],
+ "count": 1
+}

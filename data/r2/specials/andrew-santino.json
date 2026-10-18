@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "andrew-santino",
+ "specials": [
+  {
+   "special_slug": "home-field-advantage-2017",
+   "title": "Andrew Santino: Home Field Advantage (2017)",
+   "comedian": "Andrew Santino",
+   "url": "https://scrapsfromtheloft.com/comedy/andrew-santino-home-field-advantage-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 12015,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nAndrew Santino: Home Field Advantage (2017) \u2013 Transcript\nPublished September 26, 2023\nComedian Andrew Santino performs his first Showtime stand-up comedy special at Vic Theatre in front of his hometown of Chicago.\n\nHey, it\u2019s Andrew Santino, and here I am in my hometown, Chicago, Illinois,",
+   "r2_special_key": "comedians/andrew-santino/specials/home-field-advantage-2017.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-santino/specials/home-field-advantage-2017.json"
+  },
+  {
+   "special_slug": "cheeseburger-2023",
+   "title": "Andrew Santino: Cheeseburger (2023)",
+   "comedian": "Andrew Santino",
+   "url": "https://scrapsfromtheloft.com/comedy/andrew-santino-cheeseburger-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 9833,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nAndrew Santino: Cheeseburger (2023) \u2013 Transcript\nPublished September 24, 2023\nNo topic is safe in this unfiltered stand-up set from Andrew Santino as he skewers everything from global warming to sex injuries to politics\n\n[\u201cHold On, Here It Go\u201d playing]\n\n[crowd cheering]\n\n[announcer] Denve",
+   "r2_special_key": "comedians/andrew-santino/specials/cheeseburger-2023.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andrew-santino/specials/cheeseburger-2023.json"
+  }
+ ],
+ "count": 2
+}

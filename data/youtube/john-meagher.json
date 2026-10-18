@@ -8,12 +8,32 @@
    "channel": "John Meagher"
   }
  },
- "clips": 0,
+ "clips": 1,
  "total_views": 0,
  "total_likes": 0,
  "avg_views": 0,
  "like_rate": 0.0,
  "top_clip": null,
- "rows": [],
- "method": "registry-uploads (no search)"
+ "rows": [
+  {
+   "videoId": "",
+   "title": "John Meagher and Amy Gledhill",
+   "channel": null,
+   "views": null,
+   "duration_s": 1861,
+   "url": null,
+   "n_words": 5587,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "You're very welcome to the French Comedy Showcase! I'm Alice's daughter, we got some amazing accent tonight. Amazing accent tonight. I give me a show here if anyone's ever done a wager board before. A",
+   "r2_clip_key": "comedians/john-meagher/clips/bbc-fringe-john-meagher-and-amy-gledhill.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/john-meagher/clips/bbc-fringe-john-meagher-and-amy-gledhill.json",
+   "source_group": null,
+   "source": "r2"
+  }
+ ],
+ "method": "registry-uploads (no search)",
+ "r2_linked": true,
+ "r2_merged_at": "2026-10-18T16:05:10Z"
 }

@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "simon-amstell",
+ "specials": [
+  {
+   "special_slug": "do-nothing-live",
+   "title": "Simon Amstell - Do Nothing Live",
+   "comedian": "Simon Amstell",
+   "url": "https://www.youtube.com/watch?v=K4mH6E0hMbI",
+   "source": "youtube-full",
+   "n_words": 9366,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_preview": "ladies and Gentlemen please will you welcome onto the stage Simon amstone [Applause] [Music] [Applause] hello thank you how are you are you okay you're all right well this is fun isn't it this is sort of this is sort of a fun thing to be doing it's fun it's fun right I'm quite lonely let's start wit",
+   "r2_special_key": "comedians/simon-amstell/specials/do-nothing-live.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/simon-amstell/specials/do-nothing-live.json"
+  }
+ ],
+ "count": 1
+}

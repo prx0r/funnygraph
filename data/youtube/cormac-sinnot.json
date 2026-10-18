@@ -1,0 +1,38 @@
+{
+ "comedian_id": "cormac-sinnot",
+ "name": "Cormac Sinnot",
+ "clips": 1,
+ "total_views": 4800,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "zDdayuiQBkk",
+  "title": "Late Milestones | Cormac Sinnot | Craic Den Comedy Club | #comedy #irish #standupcomedy #jokes",
+  "channel": "@craicdencomedyclub",
+  "views": 4800,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=zDdayuiQBkk",
+  "r2_clip_key": "comedians/cormac-sinnot/clips/cormac-sinnot-zddayuiqbkk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cormac-sinnot/clips/cormac-sinnot-zddayuiqbkk.json"
+ },
+ "rows": [
+  {
+   "videoId": "zDdayuiQBkk",
+   "title": "Late Milestones | Cormac Sinnot | Craic Den Comedy Club | #comedy #irish #standupcomedy #jokes",
+   "channel": "@craicdencomedyclub",
+   "views": 4800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=zDdayuiQBkk",
+   "n_words": 58,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Hit a lot of milestones very late. I'm 24 now, but I didn't have my first kiss until I was 18. I didn't have my first drink until I was 20. I didn't have sex for the first time until I was 25. >> [lau",
+   "r2_clip_key": "comedians/cormac-sinnot/clips/cormac-sinnot-zddayuiqbkk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cormac-sinnot/clips/cormac-sinnot-zddayuiqbkk.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

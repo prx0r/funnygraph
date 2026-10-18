@@ -1,0 +1,55 @@
+{
+ "comedian_id": "joe-foster",
+ "name": "Joe Foster",
+ "clips": 2,
+ "total_views": 6423,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "YqdeafAvYsI",
+  "title": "Modern Ghost Stories | Joe Foster | Live at The Bearcat #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 6300,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=YqdeafAvYsI",
+  "r2_clip_key": "comedians/joe-foster/clips/joe-foster-yqdeafavysi.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-foster/clips/joe-foster-yqdeafavysi.json"
+ },
+ "rows": [
+  {
+   "videoId": "YqdeafAvYsI",
+   "title": "Modern Ghost Stories | Joe Foster | Live at The Bearcat #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 6300,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=YqdeafAvYsI",
+   "n_words": 114,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I realized the other day that the [\u00a0__\u00a0] jobs of now are going to be the ghosts of the future. How [\u00a0__\u00a0] is that? Imagine that crap, isn't it? Imagine that. Paying for a ghost tour in London and then",
+   "r2_clip_key": "comedians/joe-foster/clips/joe-foster-yqdeafavysi.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-foster/clips/joe-foster-yqdeafavysi.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "xMyh_w1mmFM",
+   "title": "Proud Smokers | Joe Foster @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 123,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=xMyh_w1mmFM",
+   "n_words": 178,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Well, I'm trying to give up smoking and I'm trying to give up vaping, but I keep doing both simultaneously. >> [laughter] >> It's hard, you know, it's hard to give up smoking. Especially at the moment",
+   "r2_clip_key": "comedians/joe-foster/clips/joe-foster-xmyh-w1mmfm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/joe-foster/clips/joe-foster-xmyh-w1mmfm.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

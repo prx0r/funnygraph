@@ -1,0 +1,38 @@
+{
+ "comedian_id": "vittorio-angelone",
+ "name": null,
+ "clips": 1,
+ "total_views": 0,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "",
+  "title": "Vittorio Angelone and Martin Angolo",
+  "channel": null,
+  "views": 0,
+  "duration_s": 1682,
+  "url": null,
+  "r2_clip_key": "comedians/vittorio-angelone/clips/bbc-fringe-vittorio-angelone-and-martin-angolo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vittorio-angelone/clips/bbc-fringe-vittorio-angelone-and-martin-angolo.json"
+ },
+ "rows": [
+  {
+   "videoId": "",
+   "title": "Vittorio Angelone and Martin Angolo",
+   "channel": null,
+   "views": 0,
+   "likes": null,
+   "duration_s": 1682,
+   "url": null,
+   "n_words": 5611,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "I'm here to play with you. I'm here to play with you. You ready? Welcome to the French coffee showcase with me. I was so thrilled. Hello, Daniel. Time to have a game. So full of sight of our vene here",
+   "r2_clip_key": "comedians/vittorio-angelone/clips/bbc-fringe-vittorio-angelone-and-martin-angolo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vittorio-angelone/clips/bbc-fringe-vittorio-angelone-and-martin-angolo.json",
+   "source_group": null
+  }
+ ]
+}

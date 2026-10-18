@@ -1,0 +1,38 @@
+{
+ "comedian_id": "gun-toting-american",
+ "name": "Gun Toting American",
+ "clips": 1,
+ "total_views": 5300,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "8929zCK-gYk",
+  "title": "Shawn Uyosa | Gun Toting American #standupcomedy #american #shotgun #comedy #crowdwork",
+  "channel": "@craicdencomedyclub",
+  "views": 5300,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=8929zCK-gYk",
+  "r2_clip_key": "comedians/gun-toting-american/clips/gun-toting-american-8929zck-gyk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/gun-toting-american/clips/gun-toting-american-8929zck-gyk.json"
+ },
+ "rows": [
+  {
+   "videoId": "8929zCK-gYk",
+   "title": "Shawn Uyosa | Gun Toting American #standupcomedy #american #shotgun #comedy #crowdwork",
+   "channel": "@craicdencomedyclub",
+   "views": 5300,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=8929zCK-gYk",
+   "n_words": 84,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "wait Texas do you do you own any guns yeah ah which guns do you own a shotgun just a shotgun have you shot anything Birds you've shot birds with a shotgun I thought that was like close range like what",
+   "r2_clip_key": "comedians/gun-toting-american/clips/gun-toting-american-8929zck-gyk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/gun-toting-american/clips/gun-toting-american-8929zck-gyk.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

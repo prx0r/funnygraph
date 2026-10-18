@@ -1,0 +1,38 @@
+{
+ "comedian_id": "alexander-mason",
+ "name": "Alexander Mason",
+ "clips": 1,
+ "total_views": 25000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "sELBACyExQM",
+  "title": "Stop Therapy Bragging! | Alexander Mason | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 25000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=sELBACyExQM",
+  "r2_clip_key": "comedians/alexander-mason/clips/alexander-mason-selbacyexqm.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alexander-mason/clips/alexander-mason-selbacyexqm.json"
+ },
+ "rows": [
+  {
+   "videoId": "sELBACyExQM",
+   "title": "Stop Therapy Bragging! | Alexander Mason | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 25000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=sELBACyExQM",
+   "n_words": 67,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "My friends say I should do I should do therapy. Um, but I think it's cringe. And I think it shows weakness. Uh, and this isn't a big deal. I can't afford it. I've come to the conclusion that having a ",
+   "r2_clip_key": "comedians/alexander-mason/clips/alexander-mason-selbacyexqm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alexander-mason/clips/alexander-mason-selbacyexqm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

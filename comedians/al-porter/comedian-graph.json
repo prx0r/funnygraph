@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Al Porter is a stand up comedian and televsion preseneter from Ireland. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic updates. Website Content \u00a9 2018 - 2026 Martin Walker / About On The Mic | Site built by Giant Banana .",
     "otm_url": "https://www.onthemic.co.uk/comedians_list/al-porter/",
-    "otm_enriched": true
+    "otm_enriched": true,
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -79,7 +82,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 18.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -105,12 +108,46 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 961,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "XRMvflV_AMQ",
+      "title": "You\u2019re Such An \u2018Emily\u2019 | Al Porter | #standupcomedy #crowdwork #funny",
+      "views": 961,
+      "url": "https://www.youtube.com/watch?v=XRMvflV_AMQ",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/al-porter/clips/al-porter-xrmvflv-amq.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 205,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q27899234",
+    "dob": "1993-01-06",
+    "dod": null,
+    "birthplace": "Tallaght",
+    "citizenship": "Ireland",
+    "occupations": [
+      "entertainer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

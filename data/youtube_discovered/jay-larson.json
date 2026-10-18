@@ -1,0 +1,46 @@
+{
+ "comedian_id": "jay-larson",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "7WskUpEXMI8",
+   "title": "Rivers Rush alt",
+   "channel": "Jay Larson",
+   "publishedAt": "2019-08-07T15:04:55Z",
+   "duration_s": 30,
+   "views": 12,
+   "likes": 0,
+   "comedian_slug": "jay-larson"
+  },
+  {
+   "videoId": "kiE0OjhnN_M",
+   "title": "Rivers Rush",
+   "channel": "Jay Larson",
+   "publishedAt": "2019-08-07T14:57:15Z",
+   "duration_s": 31,
+   "views": 41,
+   "likes": 0,
+   "comedian_slug": "jay-larson"
+  },
+  {
+   "videoId": "RN8TA5LBz34",
+   "title": "Mascot Challenge",
+   "channel": "Jay Larson",
+   "publishedAt": "2019-08-06T23:02:46Z",
+   "duration_s": 91,
+   "views": 105,
+   "likes": 1,
+   "comedian_slug": "jay-larson"
+  },
+  {
+   "videoId": "dA4pUHawGP0",
+   "title": "bokeh",
+   "channel": "Jay Larson",
+   "publishedAt": "2017-08-02T06:59:50Z",
+   "duration_s": 61,
+   "views": 4,
+   "likes": 0,
+   "comedian_slug": "jay-larson"
+  }
+ ]
+}

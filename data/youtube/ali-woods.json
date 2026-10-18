@@ -8,12 +8,66 @@
    "channel": "aliwoods"
   }
  },
- "clips": 0,
+ "clips": 3,
  "total_views": 0,
  "total_likes": 0,
  "avg_views": 0,
  "like_rate": 0.0,
  "top_clip": null,
- "rows": [],
- "method": "registry-uploads (no search)"
+ "rows": [
+  {
+   "videoId": "LIQVLoz1eBQ",
+   "title": "ALI WOODS - FALLING ASLEEP",
+   "channel": "@BigBellyComedy",
+   "views": 1500,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=LIQVLoz1eBQ",
+   "n_words": 112,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What a strange crowd this is. We have a 13-year-old who's pretending to be 19. This man's falling asleep. What a night. This man is genuinely passed out in the front row of the amount of people wearin",
+   "r2_clip_key": "comedians/ali-woods/clips/ali-woods-liqvloz1ebq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ali-woods/clips/ali-woods-liqvloz1ebq.json",
+   "source_group": "web-discovered",
+   "source": "r2"
+  },
+  {
+   "videoId": "r8ky4Zz_Zls",
+   "title": "Craziest Party Story",
+   "channel": "NextUp Comedy",
+   "views": 0,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=r8ky4Zz_Zls",
+   "n_words": 1648,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "the craziest thing I did the craziest thing I did I'll tell you this story and then get out of here but the craziest thing I did uh was I once I once went to a sex party right sort of yeah thank you o",
+   "r2_clip_key": "comedians/ali-woods/clips/ali-woods-r8ky4zz-zls.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ali-woods/clips/ali-woods-r8ky4zz-zls.json",
+   "source_group": null,
+   "source": "r2"
+  },
+  {
+   "videoId": "_QzEmV10xY8",
+   "title": "At The Moment FULL SPECIAL",
+   "channel": "NextUp Comedy",
+   "views": 0,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=_QzEmV10xY8",
+   "n_words": 11617,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Hey, thank you. Thank you so much for coming. This is so cool. I'll address the Britney Spears headset first off. The thing is there's so many comedians now doing comedy and uh you have to stand out a",
+   "r2_clip_key": "comedians/ali-woods/clips/ali-woods-qzemv10xy8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ali-woods/clips/ali-woods-qzemv10xy8.json",
+   "source_group": null,
+   "source": "r2"
+  }
+ ],
+ "method": "registry-uploads (no search)",
+ "r2_linked": true,
+ "r2_merged_at": "2026-10-18T16:05:02Z"
 }

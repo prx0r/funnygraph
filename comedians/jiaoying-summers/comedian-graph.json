@@ -1,132 +1,252 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "jiaoying-summers",
-  "name": "Jiaoying Summers",
-  "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "Completed hour, self-built tour",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "gold-2026"
-    ],
-    "discovery_note": "Completed hour, self-built tour"
-  },
-  "theory_score": null,
-  "nearest_greats": [
-    {
-      "comedian_id": "joe-list",
-      "sim": 0.079
-    },
-    {
-      "comedian_id": "jim-norton",
-      "sim": 0.078
-    },
-    {
-      "comedian_id": "joan-rivers",
-      "sim": 0.068
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "jiaoying-summers",
+ "name": "Jiaoying Summers",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "Completed hour, self-built tour",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "gold-2026"
   ],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
+  "discovery_note": "Completed hour, self-built tour"
+ },
+ "theory_score": null,
+ "nearest_greats": [
+  {
+   "comedian_id": "joe-list",
+   "sim": 0.079
   },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 60.7,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+  {
+   "comedian_id": "jim-norton",
+   "sim": 0.078
   },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UC6tI7PwweyR3TQlsMTR1zWg",
-    "handle": "jiaoyingsummers",
-    "title": "Jiaoying Summers",
-    "subs": 530000,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "variety",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-16",
-    "name_match_rate": 0.55,
-    "other_names": [
-      "Aussie Chinese",
-      "Golden Showers",
-      "Jenny Tian",
-      "Kaila Yu"
-    ]
-  },
-  "website": {
-    "url": "https://jiaoyingsummers.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
-  },
-  "style_tags": {
-    "humor_type": "clean-everyman",
-    "theories": [
-      "benign_violation",
-      "incongruity",
-      "status_reversal"
-    ],
-    "via": "joe-list",
-    "sim": 0.079,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  {
+   "comedian_id": "joan-rivers",
+   "sim": 0.068
   }
+ ],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 85.6,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UC6tI7PwweyR3TQlsMTR1zWg",
+  "handle": "jiaoyingsummers",
+  "title": "Jiaoying Summers",
+  "subs": 530000,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "variety",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-16",
+  "name_match_rate": 0.55,
+  "other_names": [
+   "Aussie Chinese",
+   "Golden Showers",
+   "Jenny Tian",
+   "Kaila Yu"
+  ]
+ },
+ "website": {
+  "url": "https://jiaoyingsummers.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "style_tags": {
+  "humor_type": "clean-everyman",
+  "theories": [
+   "benign_violation",
+   "incongruity",
+   "status_reversal"
+  ],
+  "via": "joe-list",
+  "sim": 0.079,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "bio": {
+  "wikidata_id": "Q114422143",
+  "dob": "1990-01-18",
+  "dod": null,
+  "birthplace": "Henan",
+  "citizenship": "United States",
+  "occupations": [
+   "comedian",
+   "actor",
+   "producer"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "e53DeinqeWE",
+   "title": "Sorry, I\u2019m Poorphobic w/ Eva Evans | Jiaoying Summers",
+   "duration_s": 2683,
+   "views": 2400,
+   "url": "https://www.youtube.com/watch?v=e53DeinqeWE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "89ZnRta1bQs",
+   "title": "Sister Moms w/ Helen Hong | Jiaoying Summers",
+   "duration_s": 4261,
+   "views": 5412,
+   "url": "https://www.youtube.com/watch?v=89ZnRta1bQs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "o6-4astbSqA",
+   "title": "Aussie Chinese w/ Jenny Tian | Jiaoying Summers",
+   "duration_s": 3576,
+   "views": 19594,
+   "url": "https://www.youtube.com/watch?v=o6-4astbSqA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IS7K_z3Ux58",
+   "title": "You Are THAT Bi*ch w/ Gia Gunn | Jiaoying Summers",
+   "duration_s": 3886,
+   "views": 5325,
+   "url": "https://www.youtube.com/watch?v=IS7K_z3Ux58",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8fy7p7h1jzQ",
+   "title": "Bring Back Bullying w/ Pete Lee | Jiaoying Summers",
+   "duration_s": 3705,
+   "views": 6020,
+   "url": "https://www.youtube.com/watch?v=8fy7p7h1jzQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "hpJ0On5ZQUY",
+   "title": "Mr. Big Balls with Josh Wolf (Ep 157) | Jiaoying Summers",
+   "duration_s": 4687,
+   "views": 13005,
+   "url": "https://www.youtube.com/watch?v=hpJ0On5ZQUY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WDbXm02q6Nk",
+   "title": "Sagging Is a Privilege with Kat Bird (Ep 156) | Jiaoying Summers",
+   "duration_s": 3657,
+   "views": 18768,
+   "url": "https://www.youtube.com/watch?v=WDbXm02q6Nk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RyiZt0wIOQY",
+   "title": "| Jiaoying Summers",
+   "duration_s": 3587,
+   "views": 7751,
+   "url": "https://www.youtube.com/watch?v=RyiZt0wIOQY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "JuiSW11sAEQ",
+   "title": "Golden Showers w/ Kaila Yu | Jiaoying Summers",
+   "duration_s": 3860,
+   "views": 11226,
+   "url": "https://www.youtube.com/watch?v=JuiSW11sAEQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "iCXuippIPlI",
+   "title": "Jiaoying\u2019s Blk Brother w/ Willie Macc | Jiaoying Summers",
+   "duration_s": 3764,
+   "views": 1205,
+   "url": "https://www.youtube.com/watch?v=iCXuippIPlI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dJOUtjR4r0I",
+   "title": "A White Man in China w/ Jesse Appell | Jiaoying Summers",
+   "duration_s": 4266,
+   "views": 2419,
+   "url": "https://www.youtube.com/watch?v=dJOUtjR4r0I",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5HgiFuulJzc",
+   "title": "Rat Daddy with Luke and Sassy Scott (Tiger Mommy episode 152)",
+   "duration_s": 3554,
+   "views": 2086,
+   "url": "https://www.youtube.com/watch?v=5HgiFuulJzc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jPF53KKYXso",
+   "title": "Wearing Men\u2019s Underwear with Sarah Lawrence | Jiaoying Summers",
+   "duration_s": 3704,
+   "views": 2858,
+   "url": "https://www.youtube.com/watch?v=jPF53KKYXso",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 13
 }

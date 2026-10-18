@@ -28,9 +28,12 @@
   },
   "discovery": {
     "discovered_from": [
-      "edinburgh-2025-newcomer"
+      "edinburgh-2025-newcomer",
+      "r2:comedy-specials"
     ],
-    "discovery_note": "Best Newcomer nominee 2025, Accessible Pigeon Material"
+    "discovery_note": "Best Newcomer nominee 2025, Accessible Pigeon Material",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -45,7 +48,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 27.0,
     "theory": 12.5,
     "heat": null,
     "gap_value": null,
@@ -71,7 +74,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "nearest_greats": [
@@ -110,5 +113,29 @@
     "via": "richard-pryor",
     "sim": 0.07,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  }
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 3100,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "vJIcJ2bXdEU",
+      "title": "Farmers Markets | Toussaint Douglass | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+      "views": 3100,
+      "url": "https://www.youtube.com/watch?v=vJIcJ2bXdEU",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/toussaint-douglass/clips/toussaint-douglass-vjicj2bxdeu.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 120,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

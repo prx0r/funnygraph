@@ -88,7 +88,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "style_tags": {
@@ -100,5 +100,18 @@
     "via": "mike-birbiglia",
     "sim": 0.077,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q107995761",
+    "dob": "1990-09-25",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "New Zealand",
+    "occupations": [
+      "actor",
+      "comedian",
+      "podcaster"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

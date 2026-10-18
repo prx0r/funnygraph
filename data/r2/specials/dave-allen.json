@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "dave-allen",
+ "specials": [
+  {
+   "special_slug": "first-day-at-catholic-school-scene",
+   "title": "Dave Allen: First Day At Catholic School Scene",
+   "comedian": "Dave Allen",
+   "url": "https://scrapsfromtheloft.com/comedy/dave-allen-first-day-at-school-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 852,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Scene\nDave Allen: First Day At Catholic School \u2013 Transcript\nPublished April 30, 2020\nDave Allen on his first day at Catholic school. A reminder that the best comedy is truth: just by re-stating exactly what the church preaches, it exposes its absurdity.\n\nDave Allen on his first day at Catholic schoo",
+   "r2_special_key": "comedians/dave-allen/specials/first-day-at-catholic-school-scene.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dave-allen/specials/first-day-at-catholic-school-scene.json"
+  },
+  {
+   "special_slug": "first-day-at-catholic-school-transcript",
+   "title": "DAVE ALLEN: FIRST DAY AT CATHOLIC SCHOOL [TRANSCRIPT]",
+   "comedian": "Dave Allen",
+   "url": "https://scrapsfromtheloft.com/comedy/dave-allen-first-day-at-school-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 805,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Dave Allen on his first day at Catholic school. A reminder that the best comedy is truth: just by re-stating exactly what the church preaches, it exposes its absurdity. I went to the school in a little village called Raheny (Rath Eanna) in county Dublin. My first day. The school. This convent. Long ",
+   "r2_special_key": "comedians/dave-allen/specials/first-day-at-catholic-school-transcript.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dave-allen/specials/first-day-at-catholic-school-transcript.json"
+  }
+ ],
+ "count": 2
+}

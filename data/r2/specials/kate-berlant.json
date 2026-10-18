@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "kate-berlant",
+ "specials": [
+  {
+   "special_slug": "parmesan-2026",
+   "title": "Kate Berlant: Parmesan (2026)",
+   "comedian": "Kate Berlant",
+   "url": "https://scrapsfromtheloft.com/comedy/kate-berlant-parmesan-2026-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8333,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nKate Berlant: Parmesan (2026) \u2013 Transcript\nPublished October 17, 2026\nKate Berlant reflects on technology, sexuality, performance and the contradictions of modern life in her HBO stand-up special.\n\nPlatformHBO / HBO Max\n\nKate Berlant: Parmesan (2026)\n\nDirected by: Doron Max Hagay\n\nWritten",
+   "r2_special_key": "comedians/kate-berlant/specials/parmesan-2026.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kate-berlant/specials/parmesan-2026.json"
+  },
+  {
+   "special_slug": "cinnamon-in-the-wind-2022",
+   "title": "Kate Berlant: Cinnamon in the Wind (2022) | Transcript",
+   "comedian": "Kate Berlant",
+   "url": "https://scrapsfromtheloft.com/comedy/kate-berlant-cinnamon-in-the-wind-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 6814,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Whoa! Okay, yeah. Good. Okay, don\u2019t embarrass yourself, okay. Ohh, the expectations. Crushing, I would argue. Absolutely crushing, debilitating in every way. I\u2019m gonna move this, \u2019cause I\u2019m so thin I\u2019ll disappear behind it, so\u2026 And then you\u2019ll be like, \u201cIs that\u2026 Is that Kate \u201cor is that Kate? Right?",
+   "r2_special_key": "comedians/kate-berlant/specials/cinnamon-in-the-wind-2022.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kate-berlant/specials/cinnamon-in-the-wind-2022.json"
+  }
+ ],
+ "count": 2
+}

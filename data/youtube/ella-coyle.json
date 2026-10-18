@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ella-coyle",
+ "name": "Ella Coyle",
+ "clips": 1,
+ "total_views": 2000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "N7jhPOAEDbk",
+  "title": "F-Word | Ella Coyle | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "views": 2000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=N7jhPOAEDbk",
+  "r2_clip_key": "comedians/ella-coyle/clips/ella-coyle-n7jhpoaedbk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ella-coyle/clips/ella-coyle-n7jhpoaedbk.json"
+ },
+ "rows": [
+  {
+   "videoId": "N7jhPOAEDbk",
+   "title": "F-Word | Ella Coyle | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 2000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=N7jhPOAEDbk",
+   "n_words": 201,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Um, but I like to think I'm a cool teacher, and I showed them a poem by Philip Larkin that's called They [\u00a0__\u00a0] you up, your mom and dad. Pretty risqu\u00e9. Pretty cool. So, I showed them this poem, and I",
+   "r2_clip_key": "comedians/ella-coyle/clips/ella-coyle-n7jhpoaedbk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ella-coyle/clips/ella-coyle-n7jhpoaedbk.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

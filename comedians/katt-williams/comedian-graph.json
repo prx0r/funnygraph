@@ -106,8 +106,18 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "3 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "live-2006",
+      "great-america-2018",
+      "woke-foke-2024"
+    ],
+    "special_titles": [
+      "Katt Williams: Live (2006) \u2013 Transcript",
+      "Katt Williams: Great America (2018) \u2013 Transcript",
+      "Katt Williams: Woke Foke (2024)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -276,10 +286,10 @@
     "legacy": 74.9,
     "legacy_era": 79.0,
     "audience": 47.5,
-    "popularity": 95.6,
+    "popularity": 96.5,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.481,
+    "gap_value": 0.49,
     "overrated": "overrated",
     "canon_lag": -0.274
   },
@@ -338,7 +348,7 @@
     ]
   },
   "rating": {
-    "headline": 38.9,
+    "headline": 41.2,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -364,12 +374,28 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://kattwilliams.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 3
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 29374,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

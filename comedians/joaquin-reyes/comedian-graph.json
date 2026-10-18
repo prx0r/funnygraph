@@ -89,7 +89,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "style_tags": {
@@ -102,5 +102,19 @@
     "via": "maria-bamford",
     "sim": 0.098,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q175333",
+    "dob": "1974-08-16",
+    "dod": null,
+    "birthplace": "Albacete",
+    "citizenship": "Spain",
+    "occupations": [
+      "comedian",
+      "film director",
+      "television director",
+      "television presenter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "jerry-seinfeld",
+ "specials": [
+  {
+   "special_slug": "i-m-telling-you-for-the-last-time-1998",
+   "title": "Jerry Seinfeld: I\u2019m Telling You for the Last Time (1998) \u2013 Transcript",
+   "comedian": "Jerry Seinfeld",
+   "url": "https://scrapsfromtheloft.com/comedy/jerry-seinfeld-im-telling-you-for-the-last-time-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9258,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "The special aired live on HBO on August 9, 1998 from the Broadhurst Theatre in New York City. Ladies and gentlemen, Jerry Seinfeld. Thank you. Thank you. That was very, very nice. Thank you very much. Thank you. Standing ovation. Now I know there\u2019s always a\u2026 Scuse me? Perfect start of the show. Than",
+   "r2_special_key": "comedians/jerry-seinfeld/specials/i-m-telling-you-for-the-last-time-1998.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jerry-seinfeld/specials/i-m-telling-you-for-the-last-time-1998.json"
+  },
+  {
+   "special_slug": "23-hours-to-kill-2020",
+   "title": "Jerry Seinfeld: 23 Hours To Kill (2020) \u2013 Transcript",
+   "comedian": "Jerry Seinfeld",
+   "url": "https://scrapsfromtheloft.com/comedy/jerry-seinfeld-23-hours-to-kill-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8571,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Jerry Seinfeld\u2019s new hourlong comedy special, Jerry Seinfeld: 23 Hours to Kill is now available on Netflix [In the first scene of the special we see Seinfield arriving at New York\u2019s Beacon Theater after taking on a secret-agent persona and jumping out of a helicopter into the Hudson River] Helicopte",
+   "r2_special_key": "comedians/jerry-seinfeld/specials/23-hours-to-kill-2020.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jerry-seinfeld/specials/23-hours-to-kill-2020.json"
+  }
+ ],
+ "count": 2
+}

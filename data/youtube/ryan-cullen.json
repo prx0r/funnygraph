@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ryan-cullen",
+ "name": "Ryan Cullen",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "f55fDCqWiFw",
+  "title": "The Strongest Drug | Ryan Cullen | #jokes #comedy #standupcomedy",
+  "channel": "@craicdencomedyclub",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=f55fDCqWiFw",
+  "r2_clip_key": "comedians/ryan-cullen/clips/ryan-cullen-f55fdcqwifw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ryan-cullen/clips/ryan-cullen-f55fdcqwifw.json"
+ },
+ "rows": [
+  {
+   "videoId": "f55fDCqWiFw",
+   "title": "The Strongest Drug | Ryan Cullen | #jokes #comedy #standupcomedy",
+   "channel": "@craicdencomedyclub",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=f55fDCqWiFw",
+   "n_words": 54,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I was watch I was on Tik Tok the last day and it said that the strongest drug is exercise. [\u00a0__\u00a0] off. What a [\u00a0__\u00a0] stupid thing to claim. There isn't people sucking each other off in the streets for",
+   "r2_clip_key": "comedians/ryan-cullen/clips/ryan-cullen-f55fdcqwifw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ryan-cullen/clips/ryan-cullen-f55fdcqwifw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

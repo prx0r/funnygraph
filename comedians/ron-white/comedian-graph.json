@@ -106,8 +106,16 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "a-little-unprofessional-2012",
+      "if-you-quit-listening-i-ll-shut-up-2018"
+    ],
+    "special_titles": [
+      "RON WHITE: A LITTLE UNPROFESSIONAL (2012) \u2013 Full Transcript",
+      "RON WHITE: IF YOU QUIT LISTENING, I\u2019LL SHUT UP (2018) \u2013 FULL TRANSCRIPT"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -293,10 +301,10 @@
     "legacy": 77.0,
     "legacy_era": 84.1,
     "audience": 60.0,
-    "popularity": 71.4,
+    "popularity": 76.8,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.114,
+    "gap_value": 0.168,
     "overrated": "accurately rated",
     "canon_lag": -0.17
   },
@@ -347,13 +355,13 @@
     ]
   },
   "rating": {
-    "headline": 16.7,
+    "headline": 55.9,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 16,
-        "pct": 16.7,
+        "pct": 55.9,
         "sweep": [
           16,
           16
@@ -381,7 +389,7 @@
       "lo": 16,
       "hi": 16
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "recognition": {
@@ -398,5 +406,21 @@
       "satire"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 2
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 19053,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

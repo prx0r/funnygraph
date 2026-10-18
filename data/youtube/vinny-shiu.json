@@ -1,0 +1,38 @@
+{
+ "comedian_id": "vinny-shiu",
+ "name": "VINNY SHIU",
+ "clips": 1,
+ "total_views": 1700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "euUimyd0wsM",
+  "title": "VINNY SHIU - ANCESTRAL TRIP",
+  "channel": "@BigBellyComedy",
+  "views": 1700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=euUimyd0wsM",
+  "r2_clip_key": "comedians/vinny-shiu/clips/vinny-shiu-euuimyd0wsm.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vinny-shiu/clips/vinny-shiu-euuimyd0wsm.json"
+ },
+ "rows": [
+  {
+   "videoId": "euUimyd0wsM",
+   "title": "VINNY SHIU - ANCESTRAL TRIP",
+   "channel": "@BigBellyComedy",
+   "views": 1700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=euUimyd0wsM",
+   "n_words": 60,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Yeah. Are you from China? >> Yeah. >> You're looking at me with a sense of judgment. I feel like you're channeling the energy of my ancestors here. >> Ancestral trip. >> You're on an ancestral trip ri",
+   "r2_clip_key": "comedians/vinny-shiu/clips/vinny-shiu-euuimyd0wsm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/vinny-shiu/clips/vinny-shiu-euuimyd0wsm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

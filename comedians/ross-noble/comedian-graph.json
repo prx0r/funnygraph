@@ -1,132 +1,207 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "ross-noble",
-  "name": "Ross Noble",
-  "tier": "king",
-  "region": "uk",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py/global",
-  "note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage.",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "discovery": {
-    "discovered_from": [
-      "curated-eu-pacific"
-    ],
-    "discovery_note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage."
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "king",
-    "promoted": "2026-10-17: established (tours/TV); OTM audit"
-  },
-  "continent": "europe",
-  "metrics": {
-    "legacy": 8.9,
-    "legacy_era": 32.4,
-    "audience": null,
-    "popularity": 51.7,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "eddie-izzard",
-      "sim": 0.077
-    },
-    {
-      "comedian_id": "sean-lock",
-      "sim": 0.043
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "ross-noble",
+ "name": "Ross Noble",
+ "tier": "king",
+ "region": "uk",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py/global",
+ "note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage.",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "curated-eu-pacific"
   ],
-  "rating": {
-    "headline": 52.8,
-    "coverage": "UNRANKED",
-    "provisional": "global-prior",
-    "boards": {
-      "house": {
-        "rank": null
-      },
-      "consensus": {
-        "rank": 378,
-        "ref": true
-      },
-      "canon": {
-        "rank": 369,
-        "ref": true
-      },
-      "peoples": {
-        "rank": null,
-        "wr": null,
-        "ref": true
-      },
-      "era": {
-        "rank": 281,
-        "ref": true
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  "discovery_note": "Geordie surrealist rambler, totally improvised hours. Perrier nominee lineage."
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "king",
+  "promoted": "2026-10-17: established (tours/TV); OTM audit"
+ },
+ "continent": "europe",
+ "metrics": {
+  "legacy": 8.9,
+  "legacy_era": 32.4,
+  "audience": null,
+  "popularity": 75.2,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "eddie-izzard",
+   "sim": 0.077
   },
-  "youtube_channel": {
-    "id": "UCn1oWs8BagoPTXT05neY7lA",
-    "handle": "rossnoble",
-    "title": "Ross Noble",
-    "subs": 10400,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "active",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-06-15",
-    "name_match_rate": 0.88,
-    "other_names": [
-      "Ross Noble's",
-      "Sponges For Hands"
-    ]
-  },
-  "style_tags": {
-    "humor_type": "character",
-    "theories": [
-      "incongruity",
-      "bisociation",
-      "benign_violation"
-    ],
-    "via": "eddie-izzard",
-    "sim": 0.077,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  },
-  "website": {
-    "url": "https://rossnoble.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
+  {
+   "comedian_id": "sean-lock",
+   "sim": 0.043
   }
+ ],
+ "rating": {
+  "headline": 51.5,
+  "coverage": "UNRANKED",
+  "provisional": "global-prior",
+  "boards": {
+   "house": {
+    "rank": null
+   },
+   "consensus": {
+    "rank": 378,
+    "ref": true
+   },
+   "canon": {
+    "rank": 369,
+    "ref": true
+   },
+   "peoples": {
+    "rank": null,
+    "wr": null,
+    "ref": true
+   },
+   "era": {
+    "rank": 281,
+    "ref": true
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCn1oWs8BagoPTXT05neY7lA",
+  "handle": "rossnoble",
+  "title": "Ross Noble",
+  "subs": 10400,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "active",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-06-15",
+  "name_match_rate": 0.88,
+  "other_names": [
+   "Ross Noble's",
+   "Sponges For Hands"
+  ]
+ },
+ "style_tags": {
+  "humor_type": "character",
+  "theories": [
+   "incongruity",
+   "bisociation",
+   "benign_violation"
+  ],
+  "via": "eddie-izzard",
+  "sim": 0.077,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "website": {
+  "url": "https://rossnoble.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "ghB595rjz-Y",
+   "title": "Ross Noble\u2019s Australian Trip | Episode 3 [FULL EPISODE]",
+   "duration_s": 2661,
+   "views": 12512,
+   "url": "https://www.youtube.com/watch?v=ghB595rjz-Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5PXT4NEwUv0",
+   "title": "Ross Noble\u2019s Australian Trip | Episode 2 [FULL EPISODE]",
+   "duration_s": 2566,
+   "views": 12381,
+   "url": "https://www.youtube.com/watch?v=5PXT4NEwUv0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lphMNu9xNB8",
+   "title": "Ross Noble\u2019s Australian Trip | Episode 1 [FULL EPISODE]",
+   "duration_s": 2600,
+   "views": 15370,
+   "url": "https://www.youtube.com/watch?v=lphMNu9xNB8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "c-sR8W2vG_k",
+   "title": "A Quiet Word with... Ross Noble  [FULL INTERVIEW]",
+   "duration_s": 1577,
+   "views": 4172,
+   "url": "https://www.youtube.com/watch?v=c-sR8W2vG_k",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "P3zLtbBSiMk",
+   "title": "Ross Noble's Highland Fling [FULL COMEDY FEATURE]",
+   "duration_s": 4362,
+   "views": 8535,
+   "url": "https://www.youtube.com/watch?v=P3zLtbBSiMk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "TKgMHw5nDdE",
+   "title": "The 24hour UK Enduro Dawn To Dusk Race | Ross Noble (2010)",
+   "duration_s": 2494,
+   "views": 3605,
+   "url": "https://www.youtube.com/watch?v=TKgMHw5nDdE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "XINPmbbt7u8",
+   "title": "Questionable Gifts From The Audience | Ross Noble | Things",
+   "duration_s": 1238,
+   "views": 16010,
+   "url": "https://www.youtube.com/watch?v=XINPmbbt7u8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5rzCSS798XY",
+   "title": "BEST Improv Comedy Opener EVER? | Ross Noble | MindBlender",
+   "duration_s": 1452,
+   "views": 111678,
+   "url": "https://www.youtube.com/watch?v=5rzCSS798XY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "wA7WpdFDb-I",
+   "title": "Ross Noble's Stairway To Devon (with Austin Vince) | FULL FEATURE",
+   "duration_s": 3009,
+   "views": 46025,
+   "url": "https://www.youtube.com/watch?v=wA7WpdFDb-I",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 9
 }

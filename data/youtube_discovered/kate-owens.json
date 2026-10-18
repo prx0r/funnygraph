@@ -1,0 +1,696 @@
+{
+ "comedian_id": "kate-owens",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "9jwd18NIbzU",
+   "title": "Courtney's rendition of \"I Will Always Love You\" by Whitney Houston",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-16T01:15:23Z",
+   "duration_s": 108,
+   "views": 188,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "IwKCSE4cWuk",
+   "title": "Elias' rendition of 3Oh!3's \"Don't Trust Me\"",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-16T01:11:50Z",
+   "duration_s": 31,
+   "views": 76,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "ZsttrxMoZ9Y",
+   "title": "NO DOUBT \"HEY BABY\"",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-10T02:11:43Z",
+   "duration_s": 80,
+   "views": 106,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "94gctLF0-Ok",
+   "title": "Relic Revival",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-10T02:10:17Z",
+   "duration_s": 274,
+   "views": 132,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "bnlHWXltKfw",
+   "title": "NO DOUBT LIVE 2009",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-10T02:09:40Z",
+   "duration_s": 40,
+   "views": 88,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "CwShX7AREPA",
+   "title": "DSCN4522",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-09T20:10:11Z",
+   "duration_s": 135,
+   "views": 25,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "4H3_5zIvdeI",
+   "title": "DSCN4521",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-09T19:59:38Z",
+   "duration_s": 54,
+   "views": 8,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "LS_jTlVeCFU",
+   "title": "DSCN4520",
+   "channel": "kateowens",
+   "publishedAt": "2009-06-09T19:55:04Z",
+   "duration_s": 54,
+   "views": 43,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "AUZEQqkoo0k",
+   "title": "The Click Before the Strike",
+   "channel": "kateowens",
+   "publishedAt": "2009-03-09T07:32:39Z",
+   "duration_s": 275,
+   "views": 104,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "oWnq2NF0y7U",
+   "title": "Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2009-03-09T07:02:17Z",
+   "duration_s": 161,
+   "views": 270,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "SEuK5tzBS28",
+   "title": "MAMA",
+   "channel": "kateowens",
+   "publishedAt": "2009-03-09T06:41:19Z",
+   "duration_s": 152,
+   "views": 196,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "ldPitvuqebE",
+   "title": "Click Before the Strike",
+   "channel": "kateowens",
+   "publishedAt": "2009-03-09T06:22:30Z",
+   "duration_s": 270,
+   "views": 184,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "t6_0QnN4BfA",
+   "title": "Teabagging: The aftermath",
+   "channel": "kateowens",
+   "publishedAt": "2009-01-02T18:58:11Z",
+   "duration_s": 73,
+   "views": 371,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "QzOnyzRW00s",
+   "title": "press me.wmv",
+   "channel": "kateowens",
+   "publishedAt": "2008-11-22T09:46:48Z",
+   "duration_s": 465,
+   "views": 819,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "tzUBnxIUONk",
+   "title": "Jezebel (Part Two)",
+   "channel": "kateowens",
+   "publishedAt": "2008-11-12T04:05:26Z",
+   "duration_s": 84,
+   "views": 893,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "jp57iEELYJU",
+   "title": "Jezebel (Part One)",
+   "channel": "kateowens",
+   "publishedAt": "2008-11-12T03:57:01Z",
+   "duration_s": 73,
+   "views": 955,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "BWlzZk36PcU",
+   "title": "Heeeads will roooll!",
+   "channel": "kateowens",
+   "publishedAt": "2008-11-06T17:48:40Z",
+   "duration_s": 221,
+   "views": 70,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "RzYvakYXuA8",
+   "title": "Protest the Hero",
+   "channel": "kateowens",
+   "publishedAt": "2008-11-06T17:28:38Z",
+   "duration_s": 83,
+   "views": 72,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "3BLQtPcHXDs",
+   "title": "The Acaia Strain",
+   "channel": "kateowens",
+   "publishedAt": "2008-11-06T17:18:19Z",
+   "duration_s": 48,
+   "views": 111,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "J8S0RfdgBUU",
+   "title": "Girl Named Tennessee",
+   "channel": "kateowens",
+   "publishedAt": "2008-09-08T21:39:41Z",
+   "duration_s": 94,
+   "views": 501,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "x6taN5VYhwc",
+   "title": "Embracing Goodbye Part Duex",
+   "channel": "kateowens",
+   "publishedAt": "2008-08-28T14:09:04Z",
+   "duration_s": 68,
+   "views": 687,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "bQMR3LWlEzw",
+   "title": "Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2008-08-27T14:05:00Z",
+   "duration_s": 222,
+   "views": 2836,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "6uoZO4JWZTY",
+   "title": "Oldies but goodies, drunk girls included.",
+   "channel": "kateowens",
+   "publishedAt": "2008-08-12T01:00:54Z",
+   "duration_s": 224,
+   "views": 297,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "BxJ3YtJaI1c",
+   "title": "Lord! Guide my hand! As I send them to meet you!",
+   "channel": "kateowens",
+   "publishedAt": "2008-08-12T00:37:24Z",
+   "duration_s": 43,
+   "views": 141,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "DJhnos6JbWk",
+   "title": "Chew you up! And spit you out!",
+   "channel": "kateowens",
+   "publishedAt": "2008-08-12T00:23:55Z",
+   "duration_s": 107,
+   "views": 648,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "vfIfEfNC1yk",
+   "title": "We'll stand together, we'll die as one!",
+   "channel": "kateowens",
+   "publishedAt": "2008-08-12T00:17:27Z",
+   "duration_s": 186,
+   "views": 178,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "GI_QxBTHwdM",
+   "title": "Living Sacrifice",
+   "channel": "kateowens",
+   "publishedAt": "2008-07-16T21:48:27Z",
+   "duration_s": 253,
+   "views": 91,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "-Sm0ecAmg6E",
+   "title": "Bored Stiff",
+   "channel": "kateowens",
+   "publishedAt": "2008-07-16T21:46:59Z",
+   "duration_s": 76,
+   "views": 109,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "VUk0H-jY2sw",
+   "title": "We'rewolf",
+   "channel": "kateowens",
+   "publishedAt": "2008-07-16T21:38:45Z",
+   "duration_s": 69,
+   "views": 426,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "suj7ygXOVt4",
+   "title": "Embracing Goodbye-- The Devil Went Down To Georgia",
+   "channel": "kateowens",
+   "publishedAt": "2008-06-24T23:38:37Z",
+   "duration_s": 31,
+   "views": 387,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "lCppwC6JoB8",
+   "title": "Embracing Goodbye-- BLACK BETTY!",
+   "channel": "kateowens",
+   "publishedAt": "2008-06-24T23:28:11Z",
+   "duration_s": 304,
+   "views": 2298,
+   "likes": 8,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "NWMydfRTnvk",
+   "title": "Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2008-06-24T23:13:03Z",
+   "duration_s": 76,
+   "views": 228,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "WY3JisOEniE",
+   "title": "Embracing Goodbye-- Mama",
+   "channel": "kateowens",
+   "publishedAt": "2008-06-24T22:51:00Z",
+   "duration_s": 51,
+   "views": 426,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "rCLiriERIQc",
+   "title": "No Son of Mine",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-23T04:31:29Z",
+   "duration_s": 117,
+   "views": 448,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "gWb6hYycsQ0",
+   "title": "Nolan and Eric",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-23T04:09:11Z",
+   "duration_s": 170,
+   "views": 241,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "weSrIcKOMiM",
+   "title": "Killswitch Engage",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-23T03:11:00Z",
+   "duration_s": 278,
+   "views": 232,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "jlHRHjcEvKo",
+   "title": "This Is My Curse",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-23T00:57:09Z",
+   "duration_s": 131,
+   "views": 256,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "bP341Dgo-iI",
+   "title": "The Price Is Right!",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-23T00:13:25Z",
+   "duration_s": 121,
+   "views": 3690,
+   "likes": 5,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "gzB2ZOv16V4",
+   "title": "The New Black",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-21T20:41:26Z",
+   "duration_s": 177,
+   "views": 229,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "NWCyIb-9lj0",
+   "title": "Kill Whitney Dead and Easy from Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-07T06:32:16Z",
+   "duration_s": 30,
+   "views": 3700,
+   "likes": 4,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "QEdUJsKthAQ",
+   "title": "The Demonstration",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-07T06:25:17Z",
+   "duration_s": 57,
+   "views": 1534,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "aK1bSe2y1BQ",
+   "title": "The Demonstration",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-07T06:18:35Z",
+   "duration_s": 130,
+   "views": 1367,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "3S-IFl-NosQ",
+   "title": "Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-07T05:56:30Z",
+   "duration_s": 78,
+   "views": 144,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "U4Svjur5rBc",
+   "title": "Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2008-01-07T05:21:26Z",
+   "duration_s": 224,
+   "views": 195,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "HhUK7P7Rzmw",
+   "title": "Platform!",
+   "channel": "kateowens",
+   "publishedAt": "2007-12-26T04:06:15Z",
+   "duration_s": 63,
+   "views": 104,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "_HElJywFJEA",
+   "title": "Joy To The World",
+   "channel": "kateowens",
+   "publishedAt": "2007-12-26T03:57:36Z",
+   "duration_s": 171,
+   "views": 441,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "tyUoL6gR1gI",
+   "title": "Trans-Siberian Orchestra",
+   "channel": "kateowens",
+   "publishedAt": "2007-12-26T03:31:29Z",
+   "duration_s": 140,
+   "views": 65,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "y2EHUU3wSKo",
+   "title": "Put On Your Dancing Shoes",
+   "channel": "kateowens",
+   "publishedAt": "2007-12-04T05:51:33Z",
+   "duration_s": 168,
+   "views": 1843,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "JcHFD8vCgbU",
+   "title": "My Sweet Jezebel",
+   "channel": "kateowens",
+   "publishedAt": "2007-12-04T05:28:39Z",
+   "duration_s": 276,
+   "views": 1104,
+   "likes": 4,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "WROKRQNNBck",
+   "title": "Monuments",
+   "channel": "kateowens",
+   "publishedAt": "2007-12-03T22:42:18Z",
+   "duration_s": 90,
+   "views": 863,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "F4N-87lHOEc",
+   "title": "I Aim To Misbehave",
+   "channel": "kateowens",
+   "publishedAt": "2007-12-03T22:19:18Z",
+   "duration_s": 209,
+   "views": 8708,
+   "likes": 7,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "loW638TVmD4",
+   "title": "Mute Math",
+   "channel": "kateowens",
+   "publishedAt": "2007-11-02T17:41:50Z",
+   "duration_s": 132,
+   "views": 52,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "69bT5HXxkKc",
+   "title": "Mute Math",
+   "channel": "kateowens",
+   "publishedAt": "2007-11-02T17:13:54Z",
+   "duration_s": 109,
+   "views": 29,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "TcPM06RNhmo",
+   "title": "Travis from Knives Exhanging Hands with Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2007-09-05T21:29:04Z",
+   "duration_s": 301,
+   "views": 1067,
+   "likes": 2,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "85tY2rVJAJg",
+   "title": "New Song from Embracing Goodbye @ The Brewery",
+   "channel": "kateowens",
+   "publishedAt": "2007-09-05T20:53:17Z",
+   "duration_s": 257,
+   "views": 612,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "Yq4dwvP1LDw",
+   "title": "Scary Kids Scaring Kids",
+   "channel": "kateowens",
+   "publishedAt": "2007-07-24T07:00:16Z",
+   "duration_s": 36,
+   "views": 382,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "4JEHvVzBL8g",
+   "title": "Anberlin",
+   "channel": "kateowens",
+   "publishedAt": "2007-07-24T06:51:41Z",
+   "duration_s": 61,
+   "views": 299,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "tOXhXeVCn9E",
+   "title": "Haste The Day",
+   "channel": "kateowens",
+   "publishedAt": "2007-07-24T06:16:01Z",
+   "duration_s": 69,
+   "views": 688,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "QJphWTNZQOo",
+   "title": "Haste The Day",
+   "channel": "kateowens",
+   "publishedAt": "2007-07-24T06:06:04Z",
+   "duration_s": 71,
+   "views": 612,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "kLYFc-1c73E",
+   "title": "The Spill Canvas",
+   "channel": "kateowens",
+   "publishedAt": "2007-07-24T05:18:53Z",
+   "duration_s": 48,
+   "views": 249,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "3eUyr0qiOfs",
+   "title": "Brewery Birthday Bash5- Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-05T13:46:29Z",
+   "duration_s": 50,
+   "views": 187,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "gLgNqi8CTa0",
+   "title": "Brewery Birthday Bash4- Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-05T05:02:30Z",
+   "duration_s": 43,
+   "views": 802,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "DQPRzROH15k",
+   "title": "Brewery Birthday Bash2- Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-05T02:29:14Z",
+   "duration_s": 40,
+   "views": 137,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "Ak402CfRYD4",
+   "title": "Embracing Goodbye @ Ziggy's3",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-05T01:02:38Z",
+   "duration_s": 202,
+   "views": 109,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "evt7wctHsfo",
+   "title": "Embracing Goodbye @ Ziggy's2",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-04T23:33:47Z",
+   "duration_s": 220,
+   "views": 405,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "X9mvpGwSpp0",
+   "title": "Embracing Goodbye @ Ziggy's",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-04T22:56:34Z",
+   "duration_s": 194,
+   "views": 535,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "07_Za3Od8bk",
+   "title": "Embracing Goodbye",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-04T21:33:41Z",
+   "duration_s": 113,
+   "views": 398,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "zXWmB0o1m3U",
+   "title": "The Clown!",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-04T20:55:18Z",
+   "duration_s": 45,
+   "views": 208,
+   "likes": 0,
+   "comedian_slug": "kate-owens"
+  },
+  {
+   "videoId": "75G-SY7ZLes",
+   "title": "Silver Bullet1",
+   "channel": "kateowens",
+   "publishedAt": "2007-06-04T20:45:22Z",
+   "duration_s": 299,
+   "views": 501,
+   "likes": 1,
+   "comedian_slug": "kate-owens"
+  }
+ ]
+}

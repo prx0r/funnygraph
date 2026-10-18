@@ -111,12 +111,24 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q131729330",
+    "dob": null,
+    "dod": null,
+    "birthplace": "Parker",
+    "citizenship": null,
+    "occupations": [
+      "entertainer",
+      "female impersonator"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

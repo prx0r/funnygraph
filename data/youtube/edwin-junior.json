@@ -1,0 +1,38 @@
+{
+ "comedian_id": "edwin-junior",
+ "name": "EDWIN JUNIOR",
+ "clips": 1,
+ "total_views": 89,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "b_qoZvE9Mps",
+  "title": "EDWIN JUNIOR - PERVERT IN AUDIENCE",
+  "channel": "@BigBellyComedy",
+  "views": 89,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=b_qoZvE9Mps",
+  "r2_clip_key": "comedians/edwin-junior/clips/edwin-junior-b-qozve9mps.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/edwin-junior/clips/edwin-junior-b-qozve9mps.json"
+ },
+ "rows": [
+  {
+   "videoId": "b_qoZvE9Mps",
+   "title": "EDWIN JUNIOR - PERVERT IN AUDIENCE",
+   "channel": "@BigBellyComedy",
+   "views": 89,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=b_qoZvE9Mps",
+   "n_words": 101,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "But it's hard to watch porn on 12. >> VPN. >> That's how you know you have an addiction. What the [\u00a0__\u00a0] I mean, it's really difficult to like watch porn and then see a funny tweet at the same time. Y",
+   "r2_clip_key": "comedians/edwin-junior/clips/edwin-junior-b-qozve9mps.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/edwin-junior/clips/edwin-junior-b-qozve9mps.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

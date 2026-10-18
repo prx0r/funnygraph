@@ -1,0 +1,38 @@
+{
+ "comedian_id": "are-you-russian",
+ "name": "\u201cAre You Russian?\u201d",
+ "clips": 1,
+ "total_views": 4400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "O1H1fK4kRrg",
+  "title": "Gar Murran | \u201cAre You Russian?\u201d #comedy #crowdwork #standupcomedy #irishcomedy",
+  "channel": "@craicdencomedyclub",
+  "views": 4400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=O1H1fK4kRrg",
+  "r2_clip_key": "comedians/are-you-russian/clips/are-you-russian-o1h1fk4krrg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/are-you-russian/clips/are-you-russian-o1h1fk4krrg.json"
+ },
+ "rows": [
+  {
+   "videoId": "O1H1fK4kRrg",
+   "title": "Gar Murran | \u201cAre You Russian?\u201d #comedy #crowdwork #standupcomedy #irishcomedy",
+   "channel": "@craicdencomedyclub",
+   "views": 4400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=O1H1fK4kRrg",
+   "n_words": 102,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "what's your names I'm Dom you're Dom short for Dominic Dominic okay uh Stephen just stop there was no reason I would go so far as to say there's never a reason for an audience member to look at anothe",
+   "r2_clip_key": "comedians/are-you-russian/clips/are-you-russian-o1h1fk4krrg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/are-you-russian/clips/are-you-russian-o1h1fk4krrg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

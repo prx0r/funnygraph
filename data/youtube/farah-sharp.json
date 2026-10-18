@@ -1,0 +1,38 @@
+{
+ "comedian_id": "farah-sharp",
+ "name": "FARAH SHARP",
+ "clips": 1,
+ "total_views": 91,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "zDq73XmP0Gg",
+  "title": "FARAH SHARP - SMEAR TEST",
+  "channel": "@BigBellyComedy",
+  "views": 91,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=zDq73XmP0Gg",
+  "r2_clip_key": "comedians/farah-sharp/clips/farah-sharp-zdq73xmp0gg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/farah-sharp/clips/farah-sharp-zdq73xmp0gg.json"
+ },
+ "rows": [
+  {
+   "videoId": "zDq73XmP0Gg",
+   "title": "FARAH SHARP - SMEAR TEST",
+   "channel": "@BigBellyComedy",
+   "views": 91,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=zDq73XmP0Gg",
+   "n_words": 148,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I recently had my smear test. Thanks. So, it's one of those appointments uh where your where your legs are in stirrups, right? Um I'm naked from the waist down like a sort of Winnie the Pooh with flap",
+   "r2_clip_key": "comedians/farah-sharp/clips/farah-sharp-zdq73xmp0gg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/farah-sharp/clips/farah-sharp-zdq73xmp0gg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

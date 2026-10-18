@@ -118,12 +118,26 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q123173337",
+    "dob": "1975-02-00",
+    "dod": null,
+    "birthplace": "Dartford",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "writer",
+      "actor",
+      "screenwriter",
+      "script doctor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

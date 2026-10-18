@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "fred-armisen",
+ "specials": [
+  {
+   "special_slug": "standup-for-drummers-2018",
+   "title": "FRED ARMISEN: STANDUP FOR DRUMMERS (2018) \u2013 Full Transcript",
+   "comedian": "Fred Armisen",
+   "url": "https://scrapsfromtheloft.com/comedy/fred-armisen-standup-for-drummers-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 7915,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[man] Drummers only tonight. Drummers only. Not bad. All right. [drumroll] [crowd cheers] [crowd cheers] Have you guys ever checked into one of those newer hotels, like the W Hotel, like a sort of very futuristic-looking hotel, with like sort of white shag carpeting everywhere? And for some reason, ",
+   "r2_special_key": "comedians/fred-armisen/specials/standup-for-drummers-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fred-armisen/specials/standup-for-drummers-2018.json"
+  }
+ ],
+ "count": 1
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "c-mon-boots",
+ "name": "C'MON BOOTS!",
+ "clips": 1,
+ "total_views": 9700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "kt-n1F51y2A",
+  "title": "C'MON BOOTS! | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 9700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=kt-n1F51y2A",
+  "r2_clip_key": "comedians/c-mon-boots/clips/c-mon-boots-kt-n1f51y2a.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/c-mon-boots/clips/c-mon-boots-kt-n1f51y2a.json"
+ },
+ "rows": [
+  {
+   "videoId": "kt-n1F51y2A",
+   "title": "C'MON BOOTS! | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 9700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=kt-n1F51y2A",
+   "n_words": 96,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What's in the bag, Jamie? These ones. Oh, boots. Indigestion relief, orange flavor calcium carbonate. They're really nice. This is That's how funny That's how funny it would be though if we got a spon",
+   "r2_clip_key": "comedians/c-mon-boots/clips/c-mon-boots-kt-n1f51y2a.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/c-mon-boots/clips/c-mon-boots-kt-n1f51y2a.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

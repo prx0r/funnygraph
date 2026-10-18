@@ -1,0 +1,38 @@
+{
+ "comedian_id": "susie-mccabe",
+ "name": "Susie McCabe",
+ "clips": 1,
+ "total_views": 21000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "QrO7s4zlKy8",
+  "title": "In menopausal Scottish women we trust \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+  "channel": "NextUp Comedy",
+  "views": 21000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=QrO7s4zlKy8",
+  "r2_clip_key": "comedians/susie-mccabe/clips/susie-mccabe-qro7s4zlky8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/susie-mccabe/clips/susie-mccabe-qro7s4zlky8.json"
+ },
+ "rows": [
+  {
+   "videoId": "QrO7s4zlKy8",
+   "title": "In menopausal Scottish women we trust \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+   "channel": "NextUp Comedy",
+   "views": 21000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=QrO7s4zlKy8",
+   "n_words": 223,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "Mae 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r gweithio 'r g",
+   "r2_clip_key": "comedians/susie-mccabe/clips/susie-mccabe-qro7s4zlky8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/susie-mccabe/clips/susie-mccabe-qro7s4zlky8.json",
+   "source_group": null
+  }
+ ]
+}

@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Andi Osho is a prolific stand up comedian, writer and actor based in England. She has acted in serious roles performed comedy on prime time television in the US and in the UK and has completed several international tours. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/andi-osho/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/andi-osho/",
+    "r2_comedian": true,
+    "r2_clips": 10
   },
   "sets": [],
   "essay_seeds": [],
@@ -80,7 +83,7 @@
     "legacy": 51.0,
     "legacy_era": 75.1,
     "audience": null,
-    "popularity": null,
+    "popularity": 73.2,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -88,7 +91,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -114,12 +117,49 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 10,
+    "total_views": 594534,
+    "timed_clips": 10,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "qPqMJvBjboQ",
+      "title": "Andi Osho on Rappers - Michael McIntyre's Comedy Roadshow - BBC",
+      "views": 190361,
+      "duration_s": 131,
+      "url": "https://www.youtube.com/watch?v=qPqMJvBjboQ",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andi-osho/clips/andi-osho-qpqmjvbjboq.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3179,
+    "special_words": 0,
+    "timed_clips": 10,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q4754431",
+    "dob": "1973-01-27",
+    "dod": null,
+    "birthplace": "Plaistow",
+    "citizenship": "Nigeria",
+    "occupations": [
+      "actor",
+      "comedian",
+      "film director"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

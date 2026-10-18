@@ -28,9 +28,12 @@
   },
   "discovery": {
     "discovered_from": [
-      "edinburgh-2026-newcomer-winner"
+      "edinburgh-2026-newcomer-winner",
+      "r2:comedy-specials"
     ],
-    "discovery_note": "Best Newcomer 2026, Dog Ear"
+    "discovery_note": "Best Newcomer 2026, Dog Ear",
+    "r2_comedian": true,
+    "r2_clips": 15
   },
   "sets": [],
   "essay_seeds": [],
@@ -45,7 +48,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 92.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -71,8 +74,33 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
-  "nearest_greats": []
+  "nearest_greats": [],
+  "youtube": {
+    "clips": 15,
+    "total_views": 36426683,
+    "timed_clips": 15,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "dmbpagijVkk",
+      "title": "Lee Mack's Joke Leaves John Cleese In Near Tears | The Graham Norton Show",
+      "views": 28043200,
+      "duration_s": 169,
+      "url": "https://www.youtube.com/watch?v=dmbpagijVkk",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marty-gleeson/clips/marty-gleeson-dmbpagijvkk.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3727,
+    "special_words": 0,
+    "timed_clips": 15,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

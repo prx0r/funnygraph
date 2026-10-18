@@ -1,0 +1,38 @@
+{
+ "comedian_id": "shane-daniel-byrne",
+ "name": "Shane Daniel Byrne",
+ "clips": 1,
+ "total_views": 4900,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "aC7k4MmiW_A",
+  "title": "Homophobic Aussies | Shane Daniel Byrne | #standupcomedy #crowdwork #comedy",
+  "channel": "@craicdencomedyclub",
+  "views": 4900,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=aC7k4MmiW_A",
+  "r2_clip_key": "comedians/shane-daniel-byrne/clips/shane-daniel-byrne-ac7k4mmiw-a.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shane-daniel-byrne/clips/shane-daniel-byrne-ac7k4mmiw-a.json"
+ },
+ "rows": [
+  {
+   "videoId": "aC7k4MmiW_A",
+   "title": "Homophobic Aussies | Shane Daniel Byrne | #standupcomedy #crowdwork #comedy",
+   "channel": "@craicdencomedyclub",
+   "views": 4900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=aC7k4MmiW_A",
+   "n_words": 211,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "my wife yvon is here okay just kidding cuz I'm gay do you get it [Applause] like oh my God that was so scary for a while is everyone okay like it's over now let's move on why were you so excited about",
+   "r2_clip_key": "comedians/shane-daniel-byrne/clips/shane-daniel-byrne-ac7k4mmiw-a.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shane-daniel-byrne/clips/shane-daniel-byrne-ac7k4mmiw-a.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

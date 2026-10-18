@@ -1,0 +1,38 @@
+{
+ "comedian_id": "fiona-frawley",
+ "name": "Fiona Frawley",
+ "clips": 1,
+ "total_views": 2900,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "qtJcqt4WTUI",
+  "title": "You Don't Like Your Kids?! | Fiona Frawley | Craic Den ComedyClub  #standupcomedy  #comedy #parents",
+  "channel": "@craicdencomedyclub",
+  "views": 2900,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=qtJcqt4WTUI",
+  "r2_clip_key": "comedians/fiona-frawley/clips/fiona-frawley-qtjcqt4wtui.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fiona-frawley/clips/fiona-frawley-qtjcqt4wtui.json"
+ },
+ "rows": [
+  {
+   "videoId": "qtJcqt4WTUI",
+   "title": "You Don't Like Your Kids?! | Fiona Frawley | Craic Den ComedyClub  #standupcomedy  #comedy #parents",
+   "channel": "@craicdencomedyclub",
+   "views": 2900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=qtJcqt4WTUI",
+   "n_words": 172,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Yeah. Hey. Hey girls. Um, >> my kids though. >> You don't like your kids? >> No, they're [\u00a0__\u00a0] >> They're [\u00a0__\u00a0] [laughter] >> You are really volunteering up this information. So, you were ready with",
+   "r2_clip_key": "comedians/fiona-frawley/clips/fiona-frawley-qtjcqt4wtui.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fiona-frawley/clips/fiona-frawley-qtjcqt4wtui.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

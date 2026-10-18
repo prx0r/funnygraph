@@ -197,8 +197,22 @@
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "5 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "a-speck-of-dust-2017",
+      "postmortem-2025",
+      "jesus-is-magic-2005",
+      "we-are-miracles-2013",
+      "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+    ],
+    "special_titles": [
+      "SARAH SILVERMAN: A SPECK OF DUST (2017) \u2013 Full Transcript",
+      "Sarah Silverman: PostMortem (2025)",
+      "Sarah Silverman: Jesus Is Magic (2005) \u2013 Transcript",
+      "SARAH SILVERMAN: WE ARE MIRACLES (2013) \u2013 Full Transcript",
+      "Sarah Silverman: Saturday Night Live Monologue \u2013 SEASON 40 | EPISODE 2 | 10/04/2014 \u2013 Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -469,11 +483,11 @@
     "legacy": 88.4,
     "legacy_era": 17.2,
     "audience": 47.5,
-    "popularity": 56.1,
+    "popularity": 67.5,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.086,
-    "overrated": "accurately rated",
+    "gap_value": 0.2,
+    "overrated": "overrated",
     "canon_lag": -0.409
   },
   "tier": "king",
@@ -528,9 +542,9 @@
     "source": "wikidata (CC0)"
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 52.9,
     "coverage": "UNRANKED",
-    "provisional": "global-prior",
+    "provisional": "type-prior",
     "boards": {
       "house": {
         "rank": null
@@ -554,12 +568,28 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://sarahsilverman.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 5
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 33927,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

@@ -43,7 +43,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 61.4,
+    "popularity": 86.0,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -84,7 +84,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -109,5 +109,19 @@
     "via": "gabriel-iglesias",
     "sim": 0.072,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q318991",
+    "dob": "1971-04-19",
+    "dod": null,
+    "birthplace": "Casablanca",
+    "citizenship": "Canada",
+    "occupations": [
+      "comedian",
+      "cabaret performer",
+      "director",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

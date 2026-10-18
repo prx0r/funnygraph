@@ -1,0 +1,38 @@
+{
+ "comedian_id": "rich-hall",
+ "name": "Rich Hall",
+ "clips": 1,
+ "total_views": 12000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "jamx4vPSWqU",
+  "title": "Health Advice for Dummies | Rich Hall | Live at The Bearcat  #standupcomedy #comedy  #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 12000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=jamx4vPSWqU",
+  "r2_clip_key": "comedians/rich-hall/clips/rich-hall-jamx4vpswqu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rich-hall/clips/rich-hall-jamx4vpswqu.json"
+ },
+ "rows": [
+  {
+   "videoId": "jamx4vPSWqU",
+   "title": "Health Advice for Dummies | Rich Hall | Live at The Bearcat  #standupcomedy #comedy  #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 12000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=jamx4vPSWqU",
+   "n_words": 117,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Well, nobody's going to tell me what to put in my body. I have seen what you put in your body. You fat [\u00a0__\u00a0] You were at the steak chopped house last night, eating a baked potato the size of a bean b",
+   "r2_clip_key": "comedians/rich-hall/clips/rich-hall-jamx4vpswqu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rich-hall/clips/rich-hall-jamx4vpswqu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

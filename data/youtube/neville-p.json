@@ -1,0 +1,38 @@
+{
+ "comedian_id": "neville-p",
+ "name": "Neville P",
+ "clips": 1,
+ "total_views": 518662,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "10dGpZcihMQ",
+  "title": "Frankie Boyle Making fun of the audience",
+  "channel": "Neville P",
+  "views": 518662,
+  "duration_s": 69,
+  "url": "https://www.youtube.com/watch?v=10dGpZcihMQ",
+  "r2_clip_key": "comedians/neville-p/clips/neville-p-10dgpzcihmq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/neville-p/clips/neville-p-10dgpzcihmq.json"
+ },
+ "rows": [
+  {
+   "videoId": "10dGpZcihMQ",
+   "title": "Frankie Boyle Making fun of the audience",
+   "channel": "Neville P",
+   "views": 518662,
+   "likes": null,
+   "duration_s": 69,
+   "url": "https://www.youtube.com/watch?v=10dGpZcihMQ",
+   "n_words": 117,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "we think that's what he was saying he had four [\u00a0__\u00a0] in his mouth at the time how you do we boys a [\u00a0__\u00a0] we boy with a receding hairline how are you doing Benjamin Button you've been hit with a deat",
+   "r2_clip_key": "comedians/neville-p/clips/neville-p-10dgpzcihmq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/neville-p/clips/neville-p-10dgpzcihmq.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

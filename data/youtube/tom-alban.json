@@ -1,0 +1,38 @@
+{
+ "comedian_id": "tom-alban",
+ "name": "Tom Alban",
+ "clips": 1,
+ "total_views": 6900,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "KeHUeYLAZQs",
+  "title": "Diagnosed as a Millennial | Tom Alban | Live at The Bearcat #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 6900,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=KeHUeYLAZQs",
+  "r2_clip_key": "comedians/tom-alban/clips/tom-alban-kehueylazqs.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tom-alban/clips/tom-alban-kehueylazqs.json"
+ },
+ "rows": [
+  {
+   "videoId": "KeHUeYLAZQs",
+   "title": "Diagnosed as a Millennial | Tom Alban | Live at The Bearcat #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 6900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=KeHUeYLAZQs",
+   "n_words": 116,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "But, no, I used to play rugby, I used to do Duke of Edinburgh, I used to do every single extracurricular subject you could possibly think of because I was terrible at school. I couldn't concentrate. I",
+   "r2_clip_key": "comedians/tom-alban/clips/tom-alban-kehueylazqs.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tom-alban/clips/tom-alban-kehueylazqs.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

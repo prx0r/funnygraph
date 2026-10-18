@@ -1,0 +1,38 @@
+{
+ "comedian_id": "grintage-ireland",
+ "name": "Grintage Ireland",
+ "clips": 1,
+ "total_views": 107474,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "x7aO5sRkt5M",
+  "title": "John Bishop on Hurling | Grintage Ireland",
+  "channel": "Grintage Ireland",
+  "views": 107474,
+  "duration_s": 76,
+  "url": "https://www.youtube.com/watch?v=x7aO5sRkt5M",
+  "r2_clip_key": "comedians/grintage-ireland/clips/grintage-ireland-x7ao5srkt5m.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/grintage-ireland/clips/grintage-ireland-x7ao5srkt5m.json"
+ },
+ "rows": [
+  {
+   "videoId": "x7aO5sRkt5M",
+   "title": "John Bishop on Hurling | Grintage Ireland",
+   "channel": "Grintage Ireland",
+   "views": 107474,
+   "likes": null,
+   "duration_s": 76,
+   "url": "https://www.youtube.com/watch?v=x7aO5sRkt5M",
+   "n_words": 213,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "So, I'd say I'd say what I like I'd say what I like about Ireland as well is that that you you you're clever. You know what I mean? I don't mean clever clever. I mean you're clever in the fact the fac",
+   "r2_clip_key": "comedians/grintage-ireland/clips/grintage-ireland-x7ao5srkt5m.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/grintage-ireland/clips/grintage-ireland-x7ao5srkt5m.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

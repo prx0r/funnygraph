@@ -1,0 +1,38 @@
+{
+ "comedian_id": "faizan-shah",
+ "name": "FAIZAN SHAH",
+ "clips": 1,
+ "total_views": 2200,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Ovsxza_LX1s",
+  "title": "FAIZAN SHAH - GREGGS SHARES",
+  "channel": "@BigBellyComedy",
+  "views": 2200,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Ovsxza_LX1s",
+  "r2_clip_key": "comedians/faizan-shah/clips/faizan-shah-ovsxza-lx1s.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/faizan-shah/clips/faizan-shah-ovsxza-lx1s.json"
+ },
+ "rows": [
+  {
+   "videoId": "Ovsxza_LX1s",
+   "title": "FAIZAN SHAH - GREGGS SHARES",
+   "channel": "@BigBellyComedy",
+   "views": 2200,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Ovsxza_LX1s",
+   "n_words": 106,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "So, I bought a share in Greg's three years ago, \u00a312.15, currently trading at \u00a316.39. It started affecting me in weird ways cuz like I'd go into Gregs and I wouldn't go in as a customer anymore. I'd st",
+   "r2_clip_key": "comedians/faizan-shah/clips/faizan-shah-ovsxza-lx1s.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/faizan-shah/clips/faizan-shah-ovsxza-lx1s.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

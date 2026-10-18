@@ -1,0 +1,757 @@
+{
+ "comedian": "stewart_lee",
+ "source": "/tmp/opencode/stewart-lee-90s-comedian-2006-live.json",
+ "note": "r2:comedians/stewart-lee/specials/90s-comedian-2006-live.json method=youtube-auto-captions",
+ "audio_duration_s": 4145.6,
+ "timing": {
+  "word_count": 10399,
+  "duration_s": 4144.95,
+  "wpm": 150.5,
+  "pause_count": 142,
+  "pause_bins": {
+   "very_short": 52,
+   "short": 15,
+   "substantial": 12,
+   "topic": 63
+  },
+  "mean_pause_s": 1.27,
+  "median_pause_s": 0.68,
+  "punch_pauses_s": [
+   11.74,
+   6.68,
+   6.5,
+   5.23,
+   4.69,
+   4.68,
+   4.29,
+   4.2
+  ],
+  "max_pause_s": 11.74
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 6.96,
+   "pause_before_s": 4.29,
+   "fingerprint": "Thank you. [applause] Ah, it's great to"
+  },
+  {
+   "t_start_s": 126.96,
+   "pause_before_s": 0.68,
+   "fingerprint": "But what happened was that the people"
+  },
+  {
+   "t_start_s": 177.76,
+   "pause_before_s": 1.08,
+   "fingerprint": "But eventually all that subsided and I"
+  },
+  {
+   "t_start_s": 241.68,
+   "pause_before_s": 2.55,
+   "fingerprint": "And the next one was from a"
+  },
+  {
+   "t_start_s": 529.84,
+   "pause_before_s": 0.92,
+   "fingerprint": "Now, at the time, I was lying"
+  },
+  {
+   "t_start_s": 535.12,
+   "pause_before_s": 1.64,
+   "fingerprint": "I was lying naked on a slab"
+  },
+  {
+   "t_start_s": 561.68,
+   "pause_before_s": 1.4,
+   "fingerprint": "So I said to her, \"What do"
+  },
+  {
+   "t_start_s": 578.37,
+   "pause_before_s": 0.81,
+   "fingerprint": ">> [laughter] >> So, as I lay there naked"
+  },
+  {
+   "t_start_s": 660.64,
+   "pause_before_s": 1.56,
+   "fingerprint": "Now, I think that is the greatest"
+  },
+  {
+   "t_start_s": 719.68,
+   "pause_before_s": 1.04,
+   "fingerprint": "Although it' be fair to Jimmy Carr,"
+  },
+  {
+   "t_start_s": 743.36,
+   "pause_before_s": 0.68,
+   "fingerprint": "There's always been this kind of material"
+  },
+  {
+   "t_start_s": 857.92,
+   "pause_before_s": 1.96,
+   "fingerprint": "Joe Pasquali goes into a bar. [laughter]"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 0.65,
+   "t1_s": 2.67,
+   "words": 1,
+   "text": "[applause]",
+   "pause_after_s": 4.29
+  },
+  {
+   "beat": 1,
+   "t0_s": 6.96,
+   "t1_s": 126.28,
+   "words": 336,
+   "text": "Thank you. [applause] Ah, it's great to be back. Um, now uh I'm going to I'm going to tell you a story, right? It'll take about um an hour and 15 minutes. Uh which is sort of a bit too long for a show",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 2,
+   "t0_s": 126.96,
+   "t1_s": 176.68,
+   "words": 89,
+   "text": "But what happened was that the people of Lincoln took that as an invitation to spend the next 354 minutes making the noises of increasingly complex and obscure animals. [laughter] All of which I was a",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 3,
+   "t0_s": 177.76,
+   "t1_s": 239.13,
+   "words": 194,
+   "text": "But eventually all that subsided and I thought, right, I'll get on with my ace new stuff now. But before I could do that, a guy down on the right with long curly hair and little round glasses, he star",
+   "pause_after_s": 2.55
+  },
+  {
+   "beat": 4,
+   "t0_s": 241.68,
+   "t1_s": 528.92,
+   "words": 742,
+   "text": "And the next one was from a New Zealand comic called Ben Hurley who I'd worked with in Oakuckland in May. Same thing, one line. Are you all right? So I email back, yes, fine, thanks. How are you? [lau",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 5,
+   "t0_s": 529.84,
+   "t1_s": 533.48,
+   "words": 4,
+   "text": "Now, at the time,",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 6,
+   "t0_s": 535.12,
+   "t1_s": 560.28,
+   "words": 48,
+   "text": "I was lying naked on a slab in a third length floral print hospital gown with a fiber optic tube inserted into my lubricated anus. If I'd seen that, I would have laughed. But I suppose if you work in ",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 7,
+   "t0_s": 561.68,
+   "t1_s": 577.56,
+   "words": 50,
+   "text": "So I said to her, \"What do you mean a comedian should look funny?\" And she said, \"A comedian,\" she said, \"should be the sort of person,\" she said, \"that as soon as you look at them,\" she said, \"It mak",
+   "pause_after_s": 0.81
+  },
+  {
+   "beat": 8,
+   "t0_s": 578.37,
+   "t1_s": 659.08,
+   "words": 211,
+   "text": ">> [laughter] >> So, as I lay there naked on a slab in a third length floral print hospital gown with a fiber optic tube inserted into my anus looking at live video footage relay of my own rotting and",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 9,
+   "t0_s": 660.64,
+   "t1_s": 718.64,
+   "words": 194,
+   "text": "Now, I think that is the greatest opening line ever. [laughter] Um, not just for a comedy set either, for anything. I don't think there's a book or a film or a poem or a play that couldn't be improved",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 10,
+   "t0_s": 719.68,
+   "t1_s": 742.68,
+   "words": 63,
+   "text": "Although it' be fair to Jimmy Carr, it was a kind of sexist womanhating bit that he'd written with a sense of irony that Jim Davidson was able to appropriate at face value. One of the kindest things y",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 11,
+   "t0_s": 743.36,
+   "t1_s": 855.96,
+   "words": 335,
+   "text": "There's always been this kind of material theft tradition. So I rang up. I did an article for a Sunday newspaper in 1995. And I rang up Joe Pasquali about this idea of stealing material. And I said to",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 12,
+   "t0_s": 857.92,
+   "t1_s": 883.0,
+   "words": 52,
+   "text": "Joe Pasquali goes into a bar. [laughter] He says to the barman, \"I'd like a pint of beer, please.\" And the barman says, \"Why don't you just come around the bar, help yourself to the beer, and then wal",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 13,
+   "t0_s": 884.0,
+   "t1_s": 1044.68,
+   "words": 409,
+   "text": "or perhaps send in someone else to steal the beer for you [laughter] and then deny that beer can actually be owned. Say that you find the very concept of the ownership of beer hard to understand. Or b",
+   "pause_after_s": 0.71
+  },
+  {
+   "beat": 14,
+   "t0_s": 1045.39,
+   "t1_s": 1047.41,
+   "words": 1,
+   "text": ">> [laughter]",
+   "pause_after_s": 1.15
+  },
+  {
+   "beat": 15,
+   "t0_s": 1048.56,
+   "t1_s": 1093.4,
+   "words": 97,
+   "text": ">> But Cardiff, who are these inhuman bombers that strike, they strike at the very heart of our society with no respect for human life, without even the courtesy of a preuncter warning. It makes you n",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 16,
+   "t0_s": 1094.08,
+   "t1_s": 1149.88,
+   "words": 126,
+   "text": "They didn't want to be British, but they were. And as such, they couldn't help but embody some fundamentally decent British values. [laughter] We'll miss them now. They're gone. And another great thin",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 17,
+   "t0_s": 1151.28,
+   "t1_s": 1159.4,
+   "words": 16,
+   "text": "But here are some areas of Western Judeo-Christian civilization that we'd be happy to let go.",
+   "pause_after_s": 3.56
+  },
+  {
+   "beat": 18,
+   "t0_s": 1162.96,
+   "t1_s": 1213.12,
+   "words": 176,
+   "text": "I don't even know what that is. I just I just saw it on a map. Splot and Joe Pasquali. He could be sent out. There's lots of good stories from the war against terror though. I was reading this um I ha",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 19,
+   "t0_s": 1213.68,
+   "t1_s": 1257.64,
+   "words": 118,
+   "text": "He was the guy that organized the photographing of a naked, hooded, bound Iraqi civilian being dragged out of a cell uh on his hands and knees uh on a dog's lead. And um in his defense, uh his lawyer,",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 20,
+   "t0_s": 1258.92,
+   "t1_s": 1447.56,
+   "words": 542,
+   "text": "[laughter] but obviously he was having some difficulty knowing which way to crawl uh because of the hood uh and because of the fact that he was approaching a palpably abstract concept. [laughter] Okay",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 21,
+   "t0_s": 1448.88,
+   "t1_s": 1471.32,
+   "words": 67,
+   "text": "Do you think that's true? You think that's [laughter] true? If it was true, I hope he'd already bought him a present and he didn't just get something from a garage on the way, you And then he said he ",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 22,
+   "t0_s": 1472.16,
+   "t1_s": 1529.5,
+   "words": 168,
+   "text": "That's what he said. And the weird thing was when I saw him in there, I thought, \"Oh, I hope he doesn't come backstage afterwards. I won't know what to say. What positive thing could you say?\" You kno",
+   "pause_after_s": 1.06
+  },
+  {
+   "beat": 23,
+   "t0_s": 1530.56,
+   "t1_s": 1611.08,
+   "words": 214,
+   "text": "Lindy England was a female American soldier and she was photographed pointing and laughing at the naked genitals of hoodedbound Iraqis. And in her trial, the judge actually intervened rather unusually",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 24,
+   "t0_s": 1611.92,
+   "t1_s": 1699.96,
+   "words": 236,
+   "text": "But you can throw them off. Take them off. Throw them away. You will float in this lake. You will float. There was another story from that war. It was uh it was discredited, but it was true. Which was",
+   "pause_after_s": 2.4
+  },
+  {
+   "beat": 25,
+   "t0_s": 1702.36,
+   "t1_s": 1721.56,
+   "words": 51,
+   "text": "[laughter] I don't know if you know, but the Catholic Church are very worried about you all reading the Da Vinci Code. And in fact, in January last year, the Vatican actually issued an official statem",
+   "pause_after_s": 6.68
+  },
+  {
+   "beat": 26,
+   "t0_s": 1728.24,
+   "t1_s": 1751.24,
+   "words": 69,
+   "text": "6 minutes time, I tell you that you'll be fine. Right? But you're right not to laugh at that. It's not a proper joke. Right? It's just based on a shared set of assumptions. It doesn't work. Um, now I ",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 27,
+   "t0_s": 1752.08,
+   "t1_s": 1821.96,
+   "words": 181,
+   "text": "What I really like about Catholicism, my favorite thing about it is the way that it combines a search for profound spiritual meaning in the universe with a love of kind of inane seaside tat. And you d",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 28,
+   "t0_s": 1822.48,
+   "t1_s": 1830.92,
+   "words": 9,
+   "text": "to lick [laughter] a sugar effigy of his face.",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 29,
+   "t0_s": 1831.84,
+   "t1_s": 1965.72,
+   "words": 332,
+   "text": "Or whether they'd go, \"Ah, the Pope's just died.\" But what better way to pay tribute to his memory than by licking a sugar effigy of his face to eat that, swallow it, digest it, [\u00a0__\u00a0] out a kind of e",
+   "pause_after_s": 1.8
+  },
+  {
+   "beat": 30,
+   "t0_s": 1967.52,
+   "t1_s": 1987.56,
+   "words": 56,
+   "text": "But you know, it was an act of love, right? It was an act of love. The first one was the second one in retrospect I feel ambivalent about. But you're in the moment and you have to act in the moment. I",
+   "pause_after_s": 2.68
+  },
+  {
+   "beat": 31,
+   "t0_s": 1990.24,
+   "t1_s": 2030.84,
+   "words": 122,
+   "text": "I don't know if you remember, but the pope's the scheduling of the Pope's funeral actually caused some problems for the royal family because um it ended up being arranged for the same weekend as the w",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 32,
+   "t0_s": 2034.72,
+   "t1_s": 2037.78,
+   "words": 4,
+   "text": "You want him? [laughter]",
+   "pause_after_s": 6.5
+  },
+  {
+   "beat": 33,
+   "t0_s": 2044.28,
+   "t1_s": 2239.53,
+   "words": 597,
+   "text": "[laughter] >> Okay. The problem we've got now, right, is that there are there's a section of the room ahead of the punchlines. You have to be up to speed. Now, this fuz cuz the first half of the show,",
+   "pause_after_s": 1.03
+  },
+  {
+   "beat": 34,
+   "t0_s": 2240.56,
+   "t1_s": 2278.88,
+   "words": 117,
+   "text": ">> Hey, and before you all write in, I know that the first Blasby prosecution was 1628. But but there's something rhythmically pleasing about 1508 and so um but it was kind of weird cuz I I've got a w",
+   "pause_after_s": 4.16
+  },
+  {
+   "beat": 35,
+   "t0_s": 2283.04,
+   "t1_s": 2457.64,
+   "words": 545,
+   "text": "And you have to admire that, don't you? The kind of construct of it, you know, it's is it takes you one way and then it goes the other. It's a classic Pasquali move. We thought he was at home in his b",
+   "pause_after_s": 2.44
+  },
+  {
+   "beat": 36,
+   "t0_s": 2460.08,
+   "t1_s": 2497.64,
+   "words": 124,
+   "text": "that's the kind of little village it is, right? [laughter] But as it turned out, running away to Worcester was a mistake. What I didn't know was that the new Labour MP for Worcester was one of the new",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 37,
+   "t0_s": 2498.32,
+   "t1_s": 2516.52,
+   "words": 23,
+   "text": "going right back to your school reports [laughter] and your adoption certificate. >> [laughter] >> Reason for abandonment of infant. Infant is a [\u00a0__\u00a0] Clear.",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 38,
+   "t0_s": 2518.24,
+   "t1_s": 2532.97,
+   "words": 31,
+   "text": "I expect this early childhood rejection will lead to him spending most of his adult life traveling the country in search of the approval of ever dwindling groups of strangers. [laughter]",
+   "pause_after_s": 2.55
+  },
+  {
+   "beat": 39,
+   "t0_s": 2535.52,
+   "t1_s": 2560.68,
+   "words": 67,
+   "text": "Yeah, laugh it up. [laughter] >> But um those women in that the women in the shop that I mentioned, right, they really like me in the village shop. From what I can work work out, it's cuz I've got a l",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 40,
+   "t0_s": 2561.28,
+   "t1_s": 2722.84,
+   "words": 503,
+   "text": "It's like Keano Reeves from the Matrix. It's like Gary Newman had come around, Batman. Weird. And so they really like me. So they used to cut these things out of the newspaper, slanging me off, lamina",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 41,
+   "t0_s": 2724.96,
+   "t1_s": 2742.84,
+   "words": 42,
+   "text": "the 1970s television Jesus. So I thought it was my subconscious or Jesus was real and he had chosen to appear to me in a form that I would recognize cuz he would know that I also used to watch the det",
+   "pause_after_s": 2.84
+  },
+  {
+   "beat": 42,
+   "t0_s": 2745.68,
+   "t1_s": 2756.44,
+   "words": 14,
+   "text": "He could have come as Jasper Cara [laughter] which is the same initials right.",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 43,
+   "t0_s": 2756.96,
+   "t1_s": 3260.52,
+   "words": 1289,
+   "text": "Robert Powell is a more holy kind of figure and he so but even so I thought this is my subconscious I'm going nuts I tried to walk on past it but as I got level with Jesus he took my hand and he start",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 44,
+   "t0_s": 3261.2,
+   "t1_s": 3267.4,
+   "words": 8,
+   "text": "And he was pointing at his open mouth",
+   "pause_after_s": 1.74
+  },
+  {
+   "beat": 45,
+   "t0_s": 3269.14,
+   "t1_s": 3316.36,
+   "words": 82,
+   "text": "[laughter] as if what he wanted was for me to vomit into the open mouth of Christ. [laughter] And I looked down and I thought, \"This can't be right. But he was pointing and laughing and smiling and en",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 46,
+   "t0_s": 3317.36,
+   "t1_s": 3331.96,
+   "words": 20,
+   "text": "Now, right, I've been doing standup for 17 years, okay? And I can sense when there's tension in a room",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 47,
+   "t0_s": 3333.44,
+   "t1_s": 3344.56,
+   "words": 33,
+   "text": "and I know why it is and I I understand it. Basically, there's a performer audience bond of trust built up. We have worked on that together over the last hour and and",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 48,
+   "t0_s": 3346.24,
+   "t1_s": 3400.2,
+   "words": 136,
+   "text": "you think yes there is stew but you've broken that bond of trust [laughter] because we weren't expecting to be made to visualize this image. [laughter] There was no warning of this. It wasn't flagged ",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 49,
+   "t0_s": 3401.36,
+   "t1_s": 3530.92,
+   "words": 258,
+   "text": "Even at arms length, wearing a mitten through the shattered window of a rural bus shelter [laughter] at the end of an otherwise pleasant evening as an inappropriate gesture of thanks. You wouldn't do ",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 50,
+   "t0_s": 3531.52,
+   "t1_s": 3548.84,
+   "words": 27,
+   "text": "being offens. And I'll be crouching down and I'll be watching you all laughing. [laughter] Haha. And I'll be crying, right? But I will also be masturbating.",
+   "pause_after_s": 2.28
+  },
+  {
+   "beat": 51,
+   "t0_s": 3551.12,
+   "t1_s": 3583.6,
+   "words": 69,
+   "text": "Right. And I will be enjoying that unique fusion [laughter] of profound grief and violent sexual arousal. And that's the most profound feeling anyone can ever have. And if you have never had that feel",
+   "pause_after_s": 2.72
+  },
+  {
+   "beat": 52,
+   "t0_s": 3586.32,
+   "t1_s": 3596.76,
+   "words": 8,
+   "text": "if someone that you love has died, right?",
+   "pause_after_s": 1.85
+  },
+  {
+   "beat": 53,
+   "t0_s": 3598.61,
+   "t1_s": 3621.59,
+   "words": 29,
+   "text": "[laughter] Don't take flowers to the grave. Take whatever apparatus you need to achieve a state of mind whereby you can pay them the highest tribute of all. [laughter]",
+   "pause_after_s": 11.74
+  },
+  {
+   "beat": 54,
+   "t0_s": 3633.33,
+   "t1_s": 3635.35,
+   "words": 1,
+   "text": ">> [laughter]",
+   "pause_after_s": 2.17
+  },
+  {
+   "beat": 55,
+   "t0_s": 3637.52,
+   "t1_s": 3693.24,
+   "words": 146,
+   "text": ">> So I vomited into the open mouth of Christ [laughter] and I stepped back and I shut my eyes and I thought that's it now surely no more. But then I felt the sick rising in me again and I thought wha",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 56,
+   "t0_s": 3693.76,
+   "t1_s": 3708.05,
+   "words": 32,
+   "text": "And he had his right hand on the floor to balance him upside down. And with his left hand, he was using the fingers to kind of spllay open his anus. [laughter]",
+   "pause_after_s": 3.31
+  },
+  {
+   "beat": 57,
+   "t0_s": 3711.36,
+   "t1_s": 3719.08,
+   "words": 9,
+   "text": "as if what he as if what he wanted",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 58,
+   "t0_s": 3719.68,
+   "t1_s": 3727.0,
+   "words": 11,
+   "text": "was for me to vomit into the gaping anus of Christ",
+   "pause_after_s": 5.23
+  },
+  {
+   "beat": 59,
+   "t0_s": 3732.23,
+   "t1_s": 3736.36,
+   "words": 4,
+   "text": "[laughter] and don't IMAGINE",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 60,
+   "t0_s": 3737.44,
+   "t1_s": 3741.04,
+   "words": 5,
+   "text": "AND TALK ABOUT THIS LIGHTLY",
+   "pause_after_s": 2.64
+  },
+  {
+   "beat": 61,
+   "t0_s": 3743.68,
+   "t1_s": 3770.28,
+   "words": 63,
+   "text": "I DON'T KNOW WHAT I THOUGHT THAT I ASKED AROUND. I KNOW IT'S a bit [clears throat] much, but I said to I asked Tony L. He's a Canadian standup comedian. He's the most reasonable man I know. I said to ",
+   "pause_after_s": 4.68
+  },
+  {
+   "beat": 62,
+   "t0_s": 3774.96,
+   "t1_s": 3779.8,
+   "words": 6,
+   "text": "AND HE SAID, \"WELL, POSSIBLY CONTENT,\"",
+   "pause_after_s": 2.21
+  },
+  {
+   "beat": 63,
+   "t0_s": 3782.01,
+   "t1_s": 3784.03,
+   "words": 1,
+   "text": "[clears throat]",
+   "pause_after_s": 0.77
+  },
+  {
+   "beat": 64,
+   "t0_s": 3784.8,
+   "t1_s": 3790.6,
+   "words": 13,
+   "text": "BUT HE SAID, \"YOU WON'T BE ABLE TO USE IT AS THE TITLE.\"",
+   "pause_after_s": 3.2
+  },
+  {
+   "beat": 65,
+   "t0_s": 3793.8,
+   "t1_s": 3795.82,
+   "words": 1,
+   "text": "[applause]",
+   "pause_after_s": 4.18
+  },
+  {
+   "beat": 66,
+   "t0_s": 3800.0,
+   "t1_s": 3825.8,
+   "words": 58,
+   "text": "I'm not GOING TO DO THAT. BUT IMAGINE this situation IS IMPOSSIBLE. THERE IS NO RIGHT WAY OUT OF IT. I I SAID to Jesus, \"ARE YOU SURE THIS IS WHAT YOU WANT?\" And he said to ME, \"LOOK, YOU'RE GOING TO ",
+   "pause_after_s": 1.41
+  },
+  {
+   "beat": 67,
+   "t0_s": 3827.21,
+   "t1_s": 3829.23,
+   "words": 1,
+   "text": "[applause]",
+   "pause_after_s": 4.69
+  },
+  {
+   "beat": 68,
+   "t0_s": 3833.92,
+   "t1_s": 3850.19,
+   "words": 19,
+   "text": "So yes, HE TOLD ME TO vomited into the surprise until the surprise was over. I did that [laughter]",
+   "pause_after_s": 2.69
+  },
+  {
+   "beat": 69,
+   "t0_s": 3852.88,
+   "t1_s": 3884.28,
+   "words": 102,
+   "text": "and then I sat back and I shut my eyes and I thought that's it now. Surely no more. But then I felt the sick rising in me again. [laughter] And I thought, what am I supposed to do? The floor is covere",
+   "pause_after_s": 0.57
+  },
+  {
+   "beat": 70,
+   "t0_s": 3884.85,
+   "t1_s": 3886.87,
+   "words": 1,
+   "text": ">> [laughter]",
+   "pause_after_s": 1.85
+  },
+  {
+   "beat": 71,
+   "t0_s": 3888.72,
+   "t1_s": 3895.38,
+   "words": 8,
+   "text": ">> That's my cleaning done for the week. >> [laughter]",
+   "pause_after_s": 0.54
+  },
+  {
+   "beat": 72,
+   "t0_s": 3895.92,
+   "t1_s": 3931.16,
+   "words": 72,
+   "text": ">> So what I did was I got my penis out and as [laughter] respectfully and tenderly and accurately as I could [laughter] and I urinated into the gaping anus of Christ so that all the vomit there kind ",
+   "pause_after_s": 3.08
+  },
+  {
+   "beat": 73,
+   "t0_s": 3934.24,
+   "t1_s": 3938.28,
+   "words": 6,
+   "text": "And then my mom came in.",
+   "pause_after_s": 3.56
+  },
+  {
+   "beat": 74,
+   "t0_s": 3941.84,
+   "t1_s": 3969.08,
+   "words": 62,
+   "text": "[laughter] She looked at the sick on the floor. She looked at the sick all down my clothes. She looked at the cat's feet towel, all covered in sick. She was irritated by that. She looked at the sink o",
+   "pause_after_s": 4.2
+  },
+  {
+   "beat": 75,
+   "t0_s": 3973.28,
+   "t1_s": 3985.48,
+   "words": 19,
+   "text": "[laughter] into the gaping anus of Christ?\" And I said, \"No, this was like this when I got here.",
+   "pause_after_s": 2.36
+  },
+  {
+   "beat": 76,
+   "t0_s": 3987.84,
+   "t1_s": 3991.67,
+   "words": 7,
+   "text": "The cat must have done it.\" [laughter]",
+   "pause_after_s": 0.81
+  },
+  {
+   "beat": 77,
+   "t0_s": 3992.48,
+   "t1_s": 3999.72,
+   "words": 13,
+   "text": "And she said, \"The cat's in the garden and his feet are wet.\"",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 78,
+   "t0_s": 4000.56,
+   "t1_s": 4102.52,
+   "words": 319,
+   "text": "And I'd like to know what you propose to do about that given the current state of the cat's feet. >> [laughter] >> And then she said to me, \"It was you, wasn't it?\" And I said, \"Yes.\" And she said, \"L",
+   "pause_after_s": 2.41
+  },
+  {
+   "beat": 79,
+   "t0_s": 4104.93,
+   "t1_s": 4106.95,
+   "words": 1,
+   "text": ">> [applause]",
+   "pause_after_s": 0.73
+  },
+  {
+   "beat": 80,
+   "t0_s": 4107.68,
+   "t1_s": 4142.04,
+   "words": 82,
+   "text": ">> that's never had a clap before, which probably means it is time to stop doing this show. And then she said to me, \"That's very interesting, Stu, but I don't believe you. Why would you really be tel",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 81,
+   "t0_s": 4142.72,
+   "t1_s": 4145.6,
+   "words": 2,
+   "text": "Thank you.",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 82,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 82
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

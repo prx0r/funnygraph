@@ -1,0 +1,38 @@
+{
+ "comedian_id": "drunk-aircraft-mechanics",
+ "name": "Drunk Aircraft Mechanics",
+ "clips": 1,
+ "total_views": 813,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "RVJOKYwXnnM",
+  "title": "Damo Clark | Drunk Aircraft Mechanics #crowdwork #comedy #standup",
+  "channel": "@craicdencomedyclub",
+  "views": 813,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=RVJOKYwXnnM",
+  "r2_clip_key": "comedians/drunk-aircraft-mechanics/clips/drunk-aircraft-mechanics-rvjokywxnnm.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/drunk-aircraft-mechanics/clips/drunk-aircraft-mechanics-rvjokywxnnm.json"
+ },
+ "rows": [
+  {
+   "videoId": "RVJOKYwXnnM",
+   "title": "Damo Clark | Drunk Aircraft Mechanics #crowdwork #comedy #standup",
+   "channel": "@craicdencomedyclub",
+   "views": 813,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=RVJOKYwXnnM",
+   "n_words": 94,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "how do you know each other what was they friend shipping [\u00a0__\u00a0] m not any [\u00a0__\u00a0] [Music] m a big playing out of the hung come come up where's [\u00a0__\u00a0] playing where's the a where's the [\u00a0__\u00a0] a man I wo",
+   "r2_clip_key": "comedians/drunk-aircraft-mechanics/clips/drunk-aircraft-mechanics-rvjokywxnnm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/drunk-aircraft-mechanics/clips/drunk-aircraft-mechanics-rvjokywxnnm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

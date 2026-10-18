@@ -94,8 +94,16 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "road-work-2014",
+      "hot-cross-buns-2024"
+    ],
+    "special_titles": [
+      "DAVE ATTELL: ROAD WORK (2014) \u2013 Full Transcript",
+      "Dave Attell: Hot Cross Buns (2024)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -277,9 +285,9 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 35.3,
     "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
         "rank": null
@@ -303,7 +311,23 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 2
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 12454,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

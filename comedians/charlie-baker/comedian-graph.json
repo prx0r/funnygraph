@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -42,7 +43,9 @@
     "bio_note": "Charlie Baker is a stand up comedian, singer, actor and presenter based in Newton Abbot, in Devon, England. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic updates. Website Content \u00a9 2018 - 2026 Martin Walker / About On The Mic",
     "otm_enriched": true,
     "otm_url": "https://www.onthemic.co.uk/comedians_list/charlie-baker/",
-    "representation": "https://offthekerb.com/"
+    "representation": "https://offthekerb.com/",
+    "r2_comedian": true,
+    "r2_clips": 14
   },
   "sets": [],
   "essay_seeds": [],
@@ -85,7 +88,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 64.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -111,12 +114,49 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 14,
+    "total_views": 157299,
+    "timed_clips": 14,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "ERnYETH3b1o",
+      "title": "James Thornton and Charlie Baker - Let's Dance for Comic Relief 2011 Show 2 - BBC",
+      "views": 135672,
+      "duration_s": 130,
+      "url": "https://www.youtube.com/watch?v=ERnYETH3b1o",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/charlie-baker/clips/charlie-baker-ernyeth3b1o.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 2995,
+    "special_words": 0,
+    "timed_clips": 14,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q5076629",
+    "dob": "1956-11-13",
+    "dod": null,
+    "birthplace": "Elmira",
+    "citizenship": "United States",
+    "occupations": [
+      "businessperson",
+      "politician",
+      "governor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

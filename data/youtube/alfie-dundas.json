@@ -1,0 +1,38 @@
+{
+ "comedian_id": "alfie-dundas",
+ "name": "Alfie Dundas",
+ "clips": 1,
+ "total_views": 6700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "YMZ564Ytg-Q",
+  "title": "This Family Has Secrets| Alfie Dundas | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 6700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=YMZ564Ytg-Q",
+  "r2_clip_key": "comedians/alfie-dundas/clips/alfie-dundas-ymz564ytg-q.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alfie-dundas/clips/alfie-dundas-ymz564ytg-q.json"
+ },
+ "rows": [
+  {
+   "videoId": "YMZ564Ytg-Q",
+   "title": "This Family Has Secrets| Alfie Dundas | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 6700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=YMZ564Ytg-Q",
+   "n_words": 179,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What do you do, John? >> I'm in government. >> What kind of department? >> say. >> You can't say? As in you can't say cuz it's like it's embarrassing or it's Minister of war in the front row of my sho",
+   "r2_clip_key": "comedians/alfie-dundas/clips/alfie-dundas-ymz564ytg-q.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alfie-dundas/clips/alfie-dundas-ymz564ytg-q.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

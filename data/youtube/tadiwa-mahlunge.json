@@ -1,0 +1,55 @@
+{
+ "comedian_id": "tadiwa-mahlunge",
+ "name": "Tadiwa Mahlunge",
+ "clips": 2,
+ "total_views": 17400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "tiKzvbWMe6A",
+  "title": "His Girlfriend Said What?! | Tadiwa Mahlunge | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 11000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=tiKzvbWMe6A",
+  "r2_clip_key": "comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-tikzvbwme6a.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-tikzvbwme6a.json"
+ },
+ "rows": [
+  {
+   "videoId": "tiKzvbWMe6A",
+   "title": "His Girlfriend Said What?! | Tadiwa Mahlunge | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 11000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=tiKzvbWMe6A",
+   "n_words": 110,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I love having a white girlfriend, though. It's It's the best, you know? I feel like I feel like being in an interracial couple or I feel like it's making me a better person than you. >> [laughter] >> ",
+   "r2_clip_key": "comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-tikzvbwme6a.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-tikzvbwme6a.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "9IQ2s4Gcy3c",
+   "title": "Recently Moved to Croydon | Tadiwa Mahlunge | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 6400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=9IQ2s4Gcy3c",
+   "n_words": 89,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Are you guys aware of Cudon up here in Twickenham? >> So you all know I don't have long to live. Uh [laughter] stick out like a sore thumb and Cudon. I I'm not tough. I don't give off the vibe require",
+   "r2_clip_key": "comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-9iq2s4gcy3c.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-9iq2s4gcy3c.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

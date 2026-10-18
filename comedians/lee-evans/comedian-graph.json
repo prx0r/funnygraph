@@ -28,7 +28,7 @@
     "legacy": 88.6,
     "legacy_era": 88.4,
     "audience": null,
-    "popularity": null,
+    "popularity": 91.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,38 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 12
+  },
+  "youtube": {
+    "clips": 12,
+    "total_views": 32025776,
+    "timed_clips": 12,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "dmbpagijVkk",
+      "title": "Lee Mack's Joke Leaves John Cleese In Near Tears | The Graham Norton Show",
+      "views": 28043280,
+      "duration_s": 169,
+      "url": "https://www.youtube.com/watch?v=dmbpagijVkk",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lee-evans/clips/lee-evans-dmbpagijvkk.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3285,
+    "special_words": 0,
+    "timed_clips": 12,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

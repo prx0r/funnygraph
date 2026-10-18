@@ -1,0 +1,38 @@
+{
+ "comedian_id": "cheryl-hurst",
+ "name": "Cheryl Hurst",
+ "clips": 1,
+ "total_views": 432,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "kJRAxUw3jJ4",
+  "title": "Girl Math | Cheryl Hurst @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 432,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=kJRAxUw3jJ4",
+  "r2_clip_key": "comedians/cheryl-hurst/clips/cheryl-hurst-kjraxuw3jj4.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cheryl-hurst/clips/cheryl-hurst-kjraxuw3jj4.json"
+ },
+ "rows": [
+  {
+   "videoId": "kJRAxUw3jJ4",
+   "title": "Girl Math | Cheryl Hurst @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 432,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=kJRAxUw3jJ4",
+   "n_words": 216,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "How hard it is to explain girl math to an old man? >> [laughter] >> Do you guys know what girl math is? That's like honestly one of the greatest things that Gen Z's ever given us. Like that that and l",
+   "r2_clip_key": "comedians/cheryl-hurst/clips/cheryl-hurst-kjraxuw3jj4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cheryl-hurst/clips/cheryl-hurst-kjraxuw3jj4.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

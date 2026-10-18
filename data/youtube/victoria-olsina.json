@@ -1,0 +1,38 @@
+{
+ "comedian_id": "victoria-olsina",
+ "name": "Victoria Olsina",
+ "clips": 1,
+ "total_views": 47,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Pdo5TYHSLKg",
+  "title": "What British People Know About Argentina | Victoria Olsina",
+  "channel": "Comedy Bloomers",
+  "views": 47,
+  "duration_s": 24,
+  "url": "https://www.youtube.com/watch?v=Pdo5TYHSLKg",
+  "r2_clip_key": "comedians/victoria-olsina/clips/victoria-olsina-pdo5tyhslkg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/victoria-olsina/clips/victoria-olsina-pdo5tyhslkg.json"
+ },
+ "rows": [
+  {
+   "videoId": "Pdo5TYHSLKg",
+   "title": "What British People Know About Argentina | Victoria Olsina",
+   "channel": "Comedy Bloomers",
+   "views": 47,
+   "likes": null,
+   "duration_s": 24,
+   "url": "https://www.youtube.com/watch?v=Pdo5TYHSLKg",
+   "n_words": 27,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "whenever I tell people here that I'm from Argentina they get very excited like oh my God Argentina football Samba I have two times been to Rio",
+   "r2_clip_key": "comedians/victoria-olsina/clips/victoria-olsina-pdo5tyhslkg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/victoria-olsina/clips/victoria-olsina-pdo5tyhslkg.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

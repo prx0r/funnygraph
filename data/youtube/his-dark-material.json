@@ -1,0 +1,38 @@
+{
+ "comedian_id": "his-dark-material",
+ "name": "HIS DARK MATERIAL",
+ "clips": 1,
+ "total_views": 319291,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "CJurYs12ay4",
+  "title": "Jimmy Carr on Holocaust & Jehovah's Witnesses Joke | HIS DARK MATERIAL",
+  "channel": "Comedy Centre",
+  "views": 319291,
+  "duration_s": 118,
+  "url": "https://www.youtube.com/watch?v=CJurYs12ay4",
+  "r2_clip_key": "comedians/his-dark-material/clips/his-dark-material-cjurys12ay4.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/his-dark-material/clips/his-dark-material-cjurys12ay4.json"
+ },
+ "rows": [
+  {
+   "videoId": "CJurYs12ay4",
+   "title": "Jimmy Carr on Holocaust & Jehovah's Witnesses Joke | HIS DARK MATERIAL",
+   "channel": "Comedy Centre",
+   "views": 319291,
+   "likes": null,
+   "duration_s": 118,
+   "url": "https://www.youtube.com/watch?v=CJurYs12ay4",
+   "n_words": 271,
+   "words_timed": true,
+   "transcript_method": "local-faster-whisper-tiny",
+   "transcript_available": true,
+   "transcript_preview": "This should be a career end. OK, strapping everyone, you ready? When people talk about the Holocaust? When people talk about the Holocaust, they talk about the tragedy and horror of six million Jewish",
+   "r2_clip_key": "comedians/his-dark-material/clips/his-dark-material-cjurys12ay4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/his-dark-material/clips/his-dark-material-cjurys12ay4.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

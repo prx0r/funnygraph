@@ -1,0 +1,38 @@
+{
+ "comedian_id": "louis-theroux-s-new-doc",
+ "name": "LOUIS THEROUX'S NEW DOC?",
+ "clips": 1,
+ "total_views": 6700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "gxENyHmLV9I",
+  "title": "LOUIS THEROUX'S NEW DOC? | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 6700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=gxENyHmLV9I",
+  "r2_clip_key": "comedians/louis-theroux-s-new-doc/clips/louis-theroux-s-new-doc-gxenyhmlv9i.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/louis-theroux-s-new-doc/clips/louis-theroux-s-new-doc-gxenyhmlv9i.json"
+ },
+ "rows": [
+  {
+   "videoId": "gxENyHmLV9I",
+   "title": "LOUIS THEROUX'S NEW DOC? | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 6700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=gxENyHmLV9I",
+   "n_words": 195,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "calls me a leftist just because I say : consider all the arguments before deciding. Stop reading TikTok. Just look at everything from different angles before deciding. So I said no. My mom and I watch",
+   "r2_clip_key": "comedians/louis-theroux-s-new-doc/clips/louis-theroux-s-new-doc-gxenyhmlv9i.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/louis-theroux-s-new-doc/clips/louis-theroux-s-new-doc-gxenyhmlv9i.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

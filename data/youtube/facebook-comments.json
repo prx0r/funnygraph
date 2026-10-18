@@ -1,0 +1,38 @@
+{
+ "comedian_id": "facebook-comments",
+ "name": "Facebook Comments",
+ "clips": 1,
+ "total_views": 34000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "EDAlnbGMVfw",
+  "title": "Facebook Comments - John Mann - Live at the Bearcat  #comedy #standupcomedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 34000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=EDAlnbGMVfw",
+  "r2_clip_key": "comedians/facebook-comments/clips/facebook-comments-edalnbgmvfw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/facebook-comments/clips/facebook-comments-edalnbgmvfw.json"
+ },
+ "rows": [
+  {
+   "videoId": "EDAlnbGMVfw",
+   "title": "Facebook Comments - John Mann - Live at the Bearcat  #comedy #standupcomedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 34000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=EDAlnbGMVfw",
+   "n_words": 80,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I got a WhatsApp WhatsApp message from my wife that simply said, \"You twat.\" [laughter] I done. I phoned her up. I said, \"What's the matter?\" She says, \"What you wrote on the community Facebook page?\"",
+   "r2_clip_key": "comedians/facebook-comments/clips/facebook-comments-edalnbgmvfw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/facebook-comments/clips/facebook-comments-edalnbgmvfw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

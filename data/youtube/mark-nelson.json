@@ -1,0 +1,38 @@
+{
+ "comedian_id": "mark-nelson",
+ "name": "Mark Nelson",
+ "clips": 1,
+ "total_views": 2000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "hJyGc40j9Ns",
+  "title": "Mark Nelson | The Stand Comedy Club Podcast",
+  "channel": "@TheStandComedyClub",
+  "views": 2000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=hJyGc40j9Ns",
+  "r2_clip_key": "comedians/mark-nelson/clips/mark-nelson-hjygc40j9ns.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-nelson/clips/mark-nelson-hjygc40j9ns.json"
+ },
+ "rows": [
+  {
+   "videoId": "hJyGc40j9Ns",
+   "title": "Mark Nelson | The Stand Comedy Club Podcast",
+   "channel": "@TheStandComedyClub",
+   "views": 2000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=hJyGc40j9Ns",
+   "n_words": 187,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "when my we girl was three I think. Um she was at a dance class, right? She went to this [\u00a0__\u00a0] dance class and uh it was dog [\u00a0__\u00a0] and like it was one of like No, but the woman the woman who taught i",
+   "r2_clip_key": "comedians/mark-nelson/clips/mark-nelson-hjygc40j9ns.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-nelson/clips/mark-nelson-hjygc40j9ns.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "comedian_slug": "demetri-martin",
+ "specials": [
+  {
+   "special_slug": "the-overthinker-2018",
+   "title": "Demetri Martin: The Overthinker (2018) | Transcript",
+   "comedian": "Demetri Martin",
+   "url": "https://scrapsfromtheloft.com/comedy/demetri-martin-overthinker-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9042,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[cheering, applause] [Demetri] Man, that was a good improv. I\u2019m so glad I asked for notes. I think my favorite animal to look at is probably the squirrel. [man] Yeah! You know what I mean? \u2018Cause any squirrel, if you watch \u2019em long enough, there\u2019s a moment where they suddenly realize they\u2019re late fo",
+   "r2_special_key": "comedians/demetri-martin/specials/the-overthinker-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/demetri-martin/specials/the-overthinker-2018.json"
+  },
+  {
+   "special_slug": "live-at-the-time-2015",
+   "title": "Demetri Martin: Live (At The Time) (2015) | Transcript",
+   "comedian": "Demetri Martin",
+   "url": "https://scrapsfromtheloft.com/comedy/demetri-martin-live-at-the-time-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8912,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Air date: August 14, 2015\n Recorded at The Lincoln Theater in Washington D.C. [rock music plays] [crowd cheering] Thank you. Thank you so much, everybody. Thank you for clapping. I appreciate that. Thank you. Thanks. Thanks a lot. Thank you. That\u2019s cool. All right. This is a good crowd. This is\u2026 All",
+   "r2_special_key": "comedians/demetri-martin/specials/live-at-the-time-2015.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/demetri-martin/specials/live-at-the-time-2015.json"
+  },
+  {
+   "special_slug": "demetri-deconstructed-2024",
+   "title": "Demetri Martin: Demetri Deconstructed (2024)",
+   "comedian": "Demetri Martin",
+   "url": "https://scrapsfromtheloft.com/comedy/demetri-martin-demetri-deconstructed-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8175,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nDemetri Martin: Demetri Deconstructed (2024) \u2013 Transcript\nPublished April 13, 2024\nFrom his thoughts on aggressively scented trash bags to desk jobs in hell, Demetri Martin returns with a new stand-up special.\n\n[typing on keyboard]\n\n[woman] Standby for systems check.\n\n[beep]\n\n[typing] Int",
+   "r2_special_key": "comedians/demetri-martin/specials/demetri-deconstructed-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/demetri-martin/specials/demetri-deconstructed-2024.json"
+  }
+ ],
+ "count": 3
+}

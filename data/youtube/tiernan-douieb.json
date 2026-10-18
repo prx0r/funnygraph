@@ -1,0 +1,38 @@
+{
+ "comedian_id": "tiernan-douieb",
+ "name": "Tiernan Douieb",
+ "clips": 1,
+ "total_views": 1075,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "eS9JS9bnaN0",
+  "title": "Tiernan Douieb - British Values",
+  "channel": "Tiernan Douieb",
+  "views": 1075,
+  "duration_s": 60,
+  "url": "https://www.youtube.com/watch?v=eS9JS9bnaN0",
+  "r2_clip_key": "comedians/tiernan-douieb/clips/tiernan-douieb-es9js9bnan0.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tiernan-douieb/clips/tiernan-douieb-es9js9bnan0.json"
+ },
+ "rows": [
+  {
+   "videoId": "eS9JS9bnaN0",
+   "title": "Tiernan Douieb - British Values",
+   "channel": "Tiernan Douieb",
+   "views": 1075,
+   "likes": null,
+   "duration_s": 60,
+   "url": "https://www.youtube.com/watch?v=eS9JS9bnaN0",
+   "n_words": 168,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "just after conservative government got into power one of the first policies they pushed forward was that they were going to tackle minor extremism mine extremism an incredible term already how do you ",
+   "r2_clip_key": "comedians/tiernan-douieb/clips/tiernan-douieb-es9js9bnan0.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/tiernan-douieb/clips/tiernan-douieb-es9js9bnan0.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

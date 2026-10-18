@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "bill-burr-presents",
+ "specials": [
+  {
+   "special_slug": "friends-who-kill-2022",
+   "title": "Bill Burr Presents: Friends Who Kill (2022) | Transcript",
+   "comedian": "Bill Burr Presents",
+   "url": "https://scrapsfromtheloft.com/comedy/bill-burr-presents-friends-who-kill-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 10838,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[rock music] [announcer] Please welcome Bill Burr. All right, what\u2019s going on? How are you? Good evening. Good evening and welcome. Welcome to this wonderful evening of stand-up comedy. All right, you guys have great energy. I like that. I\u2019m liking the energy already. It\u2019s safe to say I guess the pa",
+   "r2_special_key": "comedians/bill-burr-presents/specials/friends-who-kill-2022.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bill-burr-presents/specials/friends-who-kill-2022.json"
+  }
+ ],
+ "count": 1
+}

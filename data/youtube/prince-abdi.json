@@ -1,0 +1,38 @@
+{
+ "comedian_id": "prince-abdi",
+ "name": "PRINCE ABDI",
+ "clips": 1,
+ "total_views": 2400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "5FbG1zPzRZg",
+  "title": "PRINCE ABDI - WALK OUT",
+  "channel": "@BigBellyComedy",
+  "views": 2400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=5FbG1zPzRZg",
+  "r2_clip_key": "comedians/prince-abdi/clips/prince-abdi-5fbg1zpzrzg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/prince-abdi/clips/prince-abdi-5fbg1zpzrzg.json"
+ },
+ "rows": [
+  {
+   "videoId": "5FbG1zPzRZg",
+   "title": "PRINCE ABDI - WALK OUT",
+   "channel": "@BigBellyComedy",
+   "views": 2400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=5FbG1zPzRZg",
+   "n_words": 44,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "We listen to her before conversation. Where the are you going? racist. Um, he's like, \"Yeah, she is.\" >> Yeah, she's going reform and she's >> Oh, she been sick. >> No, not >> Okay. She just looked at",
+   "r2_clip_key": "comedians/prince-abdi/clips/prince-abdi-5fbg1zpzrzg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/prince-abdi/clips/prince-abdi-5fbg1zpzrzg.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

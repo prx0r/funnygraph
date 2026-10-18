@@ -88,7 +88,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "style_tags": {
@@ -101,5 +101,17 @@
     "via": "william-montgomery",
     "sim": 0.076,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q29477912",
+    "dob": "1988-09-29",
+    "dod": null,
+    "birthplace": "Wellington",
+    "citizenship": "New Zealand",
+    "occupations": [
+      "comedian",
+      "podcaster"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

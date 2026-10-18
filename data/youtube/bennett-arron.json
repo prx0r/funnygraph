@@ -1,0 +1,38 @@
+{
+ "comedian_id": "bennett-arron",
+ "name": "Bennett Arron",
+ "clips": 1,
+ "total_views": 7100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Kzllp9bWVbo",
+  "title": "Slow audience member | Bennett Arron | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 7100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Kzllp9bWVbo",
+  "r2_clip_key": "comedians/bennett-arron/clips/bennett-arron-kzllp9bwvbo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bennett-arron/clips/bennett-arron-kzllp9bwvbo.json"
+ },
+ "rows": [
+  {
+   "videoId": "Kzllp9bWVbo",
+   "title": "Slow audience member | Bennett Arron | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 7100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Kzllp9bWVbo",
+   "n_words": 70,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "You're explaining it to her. Yeah. Well done. So, she's the thick one. Um, you have to understand, he said, \"We don't believe in Jesus.\" I said, \"Not even cheddar.\" He said, \"You're not listening.\" Je",
+   "r2_clip_key": "comedians/bennett-arron/clips/bennett-arron-kzllp9bwvbo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bennett-arron/clips/bennett-arron-kzllp9bwvbo.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

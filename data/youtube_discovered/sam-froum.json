@@ -1,0 +1,56 @@
+{
+ "comedian_id": "sam-froum",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "Uuqh8v4A86g",
+   "title": "Rebellious Teen",
+   "channel": "Sam Froum",
+   "publishedAt": "2026-05-26T19:20:24Z",
+   "duration_s": 53,
+   "views": 2511,
+   "likes": 155,
+   "comedian_slug": "sam-froum"
+  },
+  {
+   "videoId": "2OgAhN5khzk",
+   "title": "Stevie Wonder",
+   "channel": "Sam Froum",
+   "publishedAt": "2026-05-26T19:11:43Z",
+   "duration_s": 33,
+   "views": 21581,
+   "likes": 349,
+   "comedian_slug": "sam-froum"
+  },
+  {
+   "videoId": "fNEnA9wiz4Q",
+   "title": "Heroin",
+   "channel": "Sam Froum",
+   "publishedAt": "2026-05-15T22:35:03Z",
+   "duration_s": 31,
+   "views": 3019,
+   "likes": 157,
+   "comedian_slug": "sam-froum"
+  },
+  {
+   "videoId": "JrVv60X9THk",
+   "title": "Stand-Up is Embarrassing",
+   "channel": "Sam Froum",
+   "publishedAt": "2026-05-15T22:34:35Z",
+   "duration_s": 50,
+   "views": 3824,
+   "likes": 231,
+   "comedian_slug": "sam-froum"
+  },
+  {
+   "videoId": "dxgefk4sgk8",
+   "title": "Wealthy Liberal",
+   "channel": "Sam Froum",
+   "publishedAt": "2026-05-15T22:31:31Z",
+   "duration_s": 60,
+   "views": 5384,
+   "likes": 228,
+   "comedian_slug": "sam-froum"
+  }
+ ]
+}

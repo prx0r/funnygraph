@@ -1,0 +1,38 @@
+{
+ "comedian_id": "being-santa",
+ "name": "Being Santa",
+ "clips": 1,
+ "total_views": 21000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "3RUp3YWnKH8",
+  "title": "Being Santa - Rudi Lickwood - Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 21000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=3RUp3YWnKH8",
+  "r2_clip_key": "comedians/being-santa/clips/being-santa-3rup3ywnkh8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/being-santa/clips/being-santa-3rup3ywnkh8.json"
+ },
+ "rows": [
+  {
+   "videoId": "3RUp3YWnKH8",
+   "title": "Being Santa - Rudi Lickwood - Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 21000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=3RUp3YWnKH8",
+   "n_words": 117,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "So they came up to me and asked me to play the role of Santa Claus. Some of the parents got upset for real. Can you believe that? How can you have a black Santa Claus? I said, \"Calm down, man. Santa's",
+   "r2_clip_key": "comedians/being-santa/clips/being-santa-3rup3ywnkh8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/being-santa/clips/being-santa-3rup3ywnkh8.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

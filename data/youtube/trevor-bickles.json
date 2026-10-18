@@ -1,0 +1,38 @@
+{
+ "comedian_id": "trevor-bickles",
+ "name": "Trevor Bickles",
+ "clips": 1,
+ "total_views": 223,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "K7tMlUwnGIw",
+  "title": "March 2022 @The stand up club London",
+  "channel": "Trevor Bickles",
+  "views": 223,
+  "duration_s": 67,
+  "url": "https://www.youtube.com/watch?v=K7tMlUwnGIw",
+  "r2_clip_key": "comedians/trevor-bickles/clips/trevor-bickles-k7tmluwngiw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/trevor-bickles/clips/trevor-bickles-k7tmluwngiw.json"
+ },
+ "rows": [
+  {
+   "videoId": "K7tMlUwnGIw",
+   "title": "March 2022 @The stand up club London",
+   "channel": "Trevor Bickles",
+   "views": 223,
+   "likes": null,
+   "duration_s": 67,
+   "url": "https://www.youtube.com/watch?v=K7tMlUwnGIw",
+   "n_words": 200,
+   "words_timed": true,
+   "transcript_method": "cloudflare-whisper",
+   "transcript_available": true,
+   "transcript_preview": "I'm sexy we're well that's all we're well head to the ladies give us a give us a yes yes all right it's lovely to be in tonight I wasn't actually meant to be in I'm going to come with you stop I'm jok",
+   "r2_clip_key": "comedians/trevor-bickles/clips/trevor-bickles-k7tmluwngiw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/trevor-bickles/clips/trevor-bickles-k7tmluwngiw.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

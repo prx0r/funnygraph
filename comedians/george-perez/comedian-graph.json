@@ -81,7 +81,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "nearest_greats": [
@@ -109,5 +109,19 @@
     "via": "hans-kim",
     "sim": 0.084,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q1375856",
+    "dob": "1954-06-09",
+    "dod": "2022-05-06",
+    "birthplace": "South Bronx",
+    "citizenship": "United States",
+    "occupations": [
+      "writer",
+      "comics artist",
+      "penciller",
+      "comics writer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "eleanor-tiernan",
+ "name": "Eleanor Tiernan",
+ "clips": 1,
+ "total_views": 2300,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "qirBdZ8T-aU",
+  "title": "Eleanor Tiernan | Blowing Up A Petrol Station #standupcomedy #story #irishcomedy",
+  "channel": "@craicdencomedyclub",
+  "views": 2300,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=qirBdZ8T-aU",
+  "r2_clip_key": "comedians/eleanor-tiernan/clips/eleanor-tiernan-qirbdz8t-au.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/eleanor-tiernan/clips/eleanor-tiernan-qirbdz8t-au.json"
+ },
+ "rows": [
+  {
+   "videoId": "qirBdZ8T-aU",
+   "title": "Eleanor Tiernan | Blowing Up A Petrol Station #standupcomedy #story #irishcomedy",
+   "channel": "@craicdencomedyclub",
+   "views": 2300,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=qirBdZ8T-aU",
+   "n_words": 182,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "worth of petrol but when I come back out I do the same thing I have done every other time in the past that I have just paid for petrol I got in the car and I drove away yes so next thing I hear is a v",
+   "r2_clip_key": "comedians/eleanor-tiernan/clips/eleanor-tiernan-qirbdz8t-au.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/eleanor-tiernan/clips/eleanor-tiernan-qirbdz8t-au.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

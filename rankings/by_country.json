@@ -1,7 +1,7 @@
 {
  "us": {
   "label": "United States",
-  "n_kings": 15,
+  "n_kings": 28,
   "n_indies": 57,
   "thin": false,
   "kings": [
@@ -17,7 +17,7 @@
     "comedian_id": "louis-ck",
     "name": "Louis C.K.",
     "house": 0.907993,
-    "house_pct": 94.4,
+    "house_pct": 97.1,
     "rank": 2,
     "coverage": "FULL"
    },
@@ -25,7 +25,7 @@
     "comedian_id": "chris-rock",
     "name": "Chris Rock",
     "house": 0.882839,
-    "house_pct": 88.9,
+    "house_pct": 94.1,
     "rank": 3,
     "coverage": "FULL"
    },
@@ -33,7 +33,7 @@
     "comedian_id": "dave-chappelle",
     "name": "Dave Chappelle",
     "house": 0.863237,
-    "house_pct": 83.3,
+    "house_pct": 91.2,
     "rank": 4,
     "coverage": "FULL"
    },
@@ -41,7 +41,7 @@
     "comedian_id": "bill-burr",
     "name": "Bill Burr",
     "house": 0.686616,
-    "house_pct": 66.7,
+    "house_pct": 82.4,
     "rank": 7,
     "coverage": "FULL"
    },
@@ -49,7 +49,7 @@
     "comedian_id": "john-mulaney",
     "name": "John Mulaney",
     "house": 0.652256,
-    "house_pct": 55.6,
+    "house_pct": 76.5,
     "rank": 9,
     "coverage": "FULL"
    },
@@ -57,7 +57,7 @@
     "comedian_id": "kevin-hart",
     "name": "Kevin Hart",
     "house": 0.615858,
-    "house_pct": 50.0,
+    "house_pct": 73.5,
     "rank": 10,
     "coverage": "FULL"
    },
@@ -65,7 +65,7 @@
     "comedian_id": "jerry-seinfeld",
     "name": "Jerry Seinfeld",
     "house": 0.599883,
-    "house_pct": 44.4,
+    "house_pct": 70.6,
     "rank": 11,
     "coverage": "FULL"
    },
@@ -73,7 +73,7 @@
     "comedian_id": "richard-pryor",
     "name": "Richard Pryor",
     "house": 0.571069,
-    "house_pct": 38.9,
+    "house_pct": 67.6,
     "rank": 12,
     "coverage": "FULL"
    },
@@ -81,7 +81,7 @@
     "comedian_id": "bill-hicks",
     "name": "Bill Hicks",
     "house": 0.542281,
-    "house_pct": 33.3,
+    "house_pct": 64.7,
     "rank": 13,
     "coverage": "FULL"
    },
@@ -89,7 +89,7 @@
     "comedian_id": "eddie-murphy",
     "name": "Eddie Murphy",
     "house": 0.471852,
-    "house_pct": 27.8,
+    "house_pct": 61.8,
     "rank": 14,
     "coverage": "FULL"
    },
@@ -97,7 +97,7 @@
     "comedian_id": "robin-williams",
     "name": "Robin Williams",
     "house": 0.463857,
-    "house_pct": 22.2,
+    "house_pct": 58.8,
     "rank": 15,
     "coverage": "FULL"
    },
@@ -105,24 +105,24 @@
     "comedian_id": "ron-white",
     "name": "Ron White",
     "house": 0.424146,
-    "house_pct": 16.7,
+    "house_pct": 55.9,
     "rank": 16,
     "coverage": "FULL"
    },
    {
-    "comedian_id": "lenny-bruce",
-    "name": "Lenny Bruce",
-    "house": 0.294307,
-    "house_pct": 11.1,
-    "rank": 17,
+    "comedian_id": "shane-gillis",
+    "name": "Shane Gillis",
+    "house": 0.383908,
+    "house_pct": 50.0,
+    "rank": 18,
     "coverage": "FULL"
    },
    {
-    "comedian_id": "mitch-hedberg",
-    "name": "Mitch Hedberg",
-    "house": 0.248702,
-    "house_pct": 5.6,
-    "rank": 18,
+    "comedian_id": "patton-oswalt",
+    "name": "Patton Oswalt",
+    "house": 0.348357,
+    "house_pct": 44.1,
+    "rank": 20,
     "coverage": "FULL"
    }
   ],
@@ -191,28 +191,60 @@
  },
  "uk": {
   "label": "United Kingdom",
-  "n_kings": 2,
-  "n_indies": 1351,
+  "n_kings": 3,
+  "n_indies": 1772,
   "thin": true,
   "kings": [
    {
     "comedian_id": "stewart-lee",
     "name": "Stewart Lee",
-    "house": 0.717235,
-    "house_pct": 72.2,
-    "rank": 6,
+    "house": 0.754764,
+    "house_pct": 88.2,
+    "rank": 5,
     "coverage": "FULL"
    },
    {
     "comedian_id": "eddie-izzard",
     "name": "Eddie Izzard",
     "house": 0.668385,
-    "house_pct": 61.1,
+    "house_pct": 79.4,
     "rank": 8,
+    "coverage": "FULL"
+   },
+   {
+    "comedian_id": "ricky-gervais",
+    "name": "Ricky Gervais",
+    "house": 0.404372,
+    "house_pct": 52.9,
+    "rank": 17,
     "coverage": "FULL"
    }
   ],
   "rising": [
+   {
+    "comedian_id": "toussaint-douglass",
+    "name": "Toussaint Douglass",
+    "headline": 12.5,
+    "provisional": "theory-depth"
+   },
+   {
+    "comedian_id": "vittorio-angelone",
+    "name": "Vittorio Angelone",
+    "headline": 12.5,
+    "provisional": "theory-depth"
+   },
+   {
+    "comedian_id": "a-comedy-thing",
+    "name": "A Comedy Thing",
+    "headline": null,
+    "provisional": null
+   },
+   {
+    "comedian_id": "a-comic-soul",
+    "name": "A Comic Soul",
+    "headline": null,
+    "provisional": null
+   },
    {
     "comedian_id": "aamer-rahman",
     "name": "Aamer Rahman",
@@ -248,30 +280,6 @@
     "name": "Aaron Jay",
     "headline": 0.0,
     "provisional": "theory-depth"
-   },
-   {
-    "comedian_id": "aaron-levene",
-    "name": "Aaron Levene",
-    "headline": 0.0,
-    "provisional": "theory-depth"
-   },
-   {
-    "comedian_id": "aaron-nemo",
-    "name": "Aaron Nemo",
-    "headline": 0.0,
-    "provisional": "theory-depth"
-   },
-   {
-    "comedian_id": "aaron-simmonds",
-    "name": "Aaron Simmonds",
-    "headline": 0.0,
-    "provisional": "theory-depth"
-   },
-   {
-    "comedian_id": "aaron-twitchen",
-    "name": "Aaron Twitchen",
-    "headline": 0.0,
-    "provisional": "theory-depth"
    }
   ]
  },
@@ -285,8 +293,8 @@
     "comedian_id": "norm-macdonald",
     "name": "Norm Macdonald",
     "house": 0.740665,
-    "house_pct": 77.8,
-    "rank": 5,
+    "house_pct": 85.3,
+    "rank": 6,
     "coverage": "FULL"
    }
   ],

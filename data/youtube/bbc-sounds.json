@@ -1,0 +1,38 @@
+{
+ "comedian_id": "bbc-sounds",
+ "name": "BBC Sounds",
+ "clips": 1,
+ "total_views": 1162665,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "ObDFY_z3Aqo",
+  "title": "Jason Manford's ghost story will give you shivers! | BBC Sounds",
+  "channel": "BBC Sounds",
+  "views": 1162665,
+  "duration_s": 182,
+  "url": "https://www.youtube.com/watch?v=ObDFY_z3Aqo",
+  "r2_clip_key": "comedians/bbc-sounds/clips/bbc-sounds-obdfy_z3aqo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bbc-sounds/clips/bbc-sounds-obdfy_z3aqo.json"
+ },
+ "rows": [
+  {
+   "videoId": "ObDFY_z3Aqo",
+   "title": "Jason Manford's ghost story will give you shivers! | BBC Sounds",
+   "channel": "BBC Sounds",
+   "views": 1162665,
+   "likes": null,
+   "duration_s": 182,
+   "url": "https://www.youtube.com/watch?v=ObDFY_z3Aqo",
+   "n_words": 427,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "so you know where i'm going to start this jason do you believe in ghosts i'm going to say no so you don't believe in ghosts but your story is a ghost story it is a ghost story gone tell me what happen",
+   "r2_clip_key": "comedians/bbc-sounds/clips/bbc-sounds-obdfy_z3aqo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bbc-sounds/clips/bbc-sounds-obdfy_z3aqo.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

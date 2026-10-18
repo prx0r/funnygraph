@@ -1,0 +1,38 @@
+{
+ "comedian_id": "racist-chelsea-fans",
+ "name": "Racist Chelsea Fans",
+ "clips": 1,
+ "total_views": 1372361,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "uUCvjDsvvts",
+  "title": "Racist Chelsea Fans | Russell Howard Stand Up Central",
+  "channel": "Comedy Central UK",
+  "views": 1372361,
+  "duration_s": 148,
+  "url": "https://www.youtube.com/watch?v=uUCvjDsvvts",
+  "r2_clip_key": "comedians/racist-chelsea-fans/clips/racist-chelsea-fans-uucvjdsvvts.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/racist-chelsea-fans/clips/racist-chelsea-fans-uucvjdsvvts.json"
+ },
+ "rows": [
+  {
+   "videoId": "uUCvjDsvvts",
+   "title": "Racist Chelsea Fans | Russell Howard Stand Up Central",
+   "channel": "Comedy Central UK",
+   "views": 1372361,
+   "likes": null,
+   "duration_s": 148,
+   "url": "https://www.youtube.com/watch?v=uUCvjDsvvts",
+   "n_words": 349,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "The world's depressing, isn't it? The news, Ebola, ISIS, those Chelsea fans that push that black bloke off a train. How can you be a Chelsea fan and racist? We scored. Who got it? Drogba. For sake. Gi",
+   "r2_clip_key": "comedians/racist-chelsea-fans/clips/racist-chelsea-fans-uucvjdsvvts.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/racist-chelsea-fans/clips/racist-chelsea-fans-uucvjdsvvts.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

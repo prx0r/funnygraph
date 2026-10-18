@@ -1,0 +1,38 @@
+{
+ "comedian_id": "out-now",
+ "name": "Out Now!",
+ "clips": 1,
+ "total_views": 26340,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "AQqbh1GqDXw",
+  "title": "Sarah Millican: Late Bloomer - New Stand-Up Special | Out Now!",
+  "channel": "Sarah Millican",
+  "views": 26340,
+  "duration_s": 63,
+  "url": "https://www.youtube.com/watch?v=AQqbh1GqDXw",
+  "r2_clip_key": "comedians/out-now/clips/out-now-aqqbh1gqdxw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/out-now/clips/out-now-aqqbh1gqdxw.json"
+ },
+ "rows": [
+  {
+   "videoId": "AQqbh1GqDXw",
+   "title": "Sarah Millican: Late Bloomer - New Stand-Up Special | Out Now!",
+   "channel": "Sarah Millican",
+   "views": 26340,
+   "likes": null,
+   "duration_s": 63,
+   "url": "https://www.youtube.com/watch?v=AQqbh1GqDXw",
+   "n_words": 108,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "There is a trigger warning and the show don't have a problem with them at all. The trigger warning is because later on in the show there will be stories of drug abuse and pornography. That is how you'",
+   "r2_clip_key": "comedians/out-now/clips/out-now-aqqbh1gqdxw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/out-now/clips/out-now-aqqbh1gqdxw.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

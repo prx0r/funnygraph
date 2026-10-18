@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "youtube-uploads:venue-roster:angel-comedy"
+      "youtube-uploads:venue-roster:angel-comedy",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Name-mined from venue-roster:angel-comedy uploads (registry playlist, no search).",
     "evidence": [
@@ -37,7 +38,9 @@
         "venue": "angel-comedy"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -49,7 +52,7 @@
     "legacy": 49.5,
     "legacy_era": 73.7,
     "audience": null,
-    "popularity": null,
+    "popularity": 50.5,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -57,7 +60,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -83,8 +86,44 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
-  "region": "ireland"
+  "region": "ireland",
+  "youtube": {
+    "clips": 1,
+    "total_views": 22000,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "Vsfz2cVemc8",
+      "title": "Sending all you 40-somethings our condolences \ud83d\udc90",
+      "views": 22000,
+      "url": "https://www.youtube.com/watch?v=Vsfz2cVemc8",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/angela-barnes/clips/angela-barnes-vsfz2cvemc8.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 150,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q4762371",
+    "dob": "1976-11-09",
+    "dod": null,
+    "birthplace": "Sidcup",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "comedian",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

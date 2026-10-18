@@ -1,0 +1,38 @@
+{
+ "comedian_id": "markus-birdman",
+ "name": "Markus Birdman",
+ "clips": 1,
+ "total_views": 16000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "WCo8ZwhMmoo",
+  "title": "He Doubled Down Perfectly | Markus Birdman | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 16000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=WCo8ZwhMmoo",
+  "r2_clip_key": "comedians/markus-birdman/clips/markus-birdman-wco8zwhmmoo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/markus-birdman/clips/markus-birdman-wco8zwhmmoo.json"
+ },
+ "rows": [
+  {
+   "videoId": "WCo8ZwhMmoo",
+   "title": "He Doubled Down Perfectly | Markus Birdman | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 16000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=WCo8ZwhMmoo",
+   "n_words": 164,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I've got a condition called homonymous hemianopia. Anyone heard of that? Uh there's no reason why you should. It's It's very It's very half blind in both eyes. So I went to an optician. So I said, \"Is",
+   "r2_clip_key": "comedians/markus-birdman/clips/markus-birdman-wco8zwhmmoo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/markus-birdman/clips/markus-birdman-wco8zwhmmoo.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

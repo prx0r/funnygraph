@@ -1,0 +1,55 @@
+{
+ "comedian_id": "rob-copland",
+ "name": "ROB COPLAND",
+ "clips": 2,
+ "total_views": 10400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "TcTdv7wv6vI",
+  "title": "ROB COPLAND - NEW STAGE",
+  "channel": "@BigBellyComedy",
+  "views": 8700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=TcTdv7wv6vI",
+  "r2_clip_key": "comedians/rob-copland/clips/rob-copland-tctdv7wv6vi.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rob-copland/clips/rob-copland-tctdv7wv6vi.json"
+ },
+ "rows": [
+  {
+   "videoId": "TcTdv7wv6vI",
+   "title": "ROB COPLAND - NEW STAGE",
+   "channel": "@BigBellyComedy",
+   "views": 8700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=TcTdv7wv6vI",
+   "n_words": 87,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "[laughter] Oh, what even? IT'S NOT A WALL. IT'S NOT A WALL. THEY LIED TO YOU. LOOK, THERE'S A WORLD OUT THERE. [laughter] OH, I found the actual stage. You got Yeah. You know, you have fun with that. ",
+   "r2_clip_key": "comedians/rob-copland/clips/rob-copland-tctdv7wv6vi.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rob-copland/clips/rob-copland-tctdv7wv6vi.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "fZNHU2gTYaA",
+   "title": "ROB COPLAND - ANOTHER NEW STAGE",
+   "channel": "@BigBellyComedy",
+   "views": 1700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=fZNHU2gTYaA",
+   "n_words": 220,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "[cheering] >> Right, you guys are tense right away. I'm going to have to get in the crowd to release some tension. Uh listen, listen, I didn't want to do this. I'm coming further into the crowd. Come ",
+   "r2_clip_key": "comedians/rob-copland/clips/rob-copland-fznhu2gtyaa.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rob-copland/clips/rob-copland-fznhu2gtyaa.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

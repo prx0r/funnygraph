@@ -1,0 +1,1149 @@
+{
+ "comedian": "stewart_lee",
+ "source": "/tmp/opencode/stewart-lee-stand-up-comedian-2005-live.json",
+ "note": "r2:comedians/stewart-lee/specials/stand-up-comedian-2005-live.json method=youtube-auto-captions",
+ "audio_duration_s": 4694.27,
+ "timing": {
+  "word_count": 10957,
+  "duration_s": 4688.26,
+  "wpm": 140.2,
+  "pause_count": 193,
+  "pause_bins": {
+   "very_short": 51,
+   "short": 18,
+   "substantial": 13,
+   "topic": 111
+  },
+  "mean_pause_s": 1.383,
+  "median_pause_s": 1.0,
+  "punch_pauses_s": [
+   6.68,
+   6.28,
+   5.88,
+   5.04,
+   4.64,
+   4.48,
+   4.44,
+   4.24
+  ],
+  "max_pause_s": 6.68
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 21.7,
+   "pause_before_s": 3.75,
+   "fingerprint": "[Music] e [Music] [Applause] [Music] [Applause] thank"
+  },
+  {
+   "t_start_s": 101.68,
+   "pause_before_s": 2.24,
+   "fingerprint": "[Applause] [Music] [Applause] [Music] [Applause] [Music] [Ap"
+  },
+  {
+   "t_start_s": 132.55,
+   "pause_before_s": 1.1,
+   "fingerprint": "[Music] [Applause] so on September the 11th"
+  },
+  {
+   "t_start_s": 145.6,
+   "pause_before_s": 3.8,
+   "fingerprint": "so on September the 11th 2001 [Laughter]"
+  },
+  {
+   "t_start_s": 152.54,
+   "pause_before_s": 2.14,
+   "fingerprint": "[Laughter] I was actually on holiday right"
+  },
+  {
+   "t_start_s": 173.96,
+   "pause_before_s": 0.72,
+   "fingerprint": "attacks and I was actually in the"
+  },
+  {
+   "t_start_s": 200.12,
+   "pause_before_s": 0.96,
+   "fingerprint": "dates walking around there on the 9th"
+  },
+  {
+   "t_start_s": 235.64,
+   "pause_before_s": 2.84,
+   "fingerprint": "matter and then I watched for a"
+  },
+  {
+   "t_start_s": 246.12,
+   "pause_before_s": 1.24,
+   "fingerprint": "live and therefore a terrible newsworthy tragedy"
+  },
+  {
+   "t_start_s": 279.44,
+   "pause_before_s": 0.84,
+   "fingerprint": "this and that annoyed me for two"
+  },
+  {
+   "t_start_s": 339.84,
+   "pause_before_s": 3.56,
+   "fingerprint": "C and it was yellow smell of"
+  },
+  {
+   "t_start_s": 347.44,
+   "pause_before_s": 1.12,
+   "fingerprint": "we and while I was doing it"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 6.01,
+   "t1_s": 17.95,
+   "words": 2,
+   "text": "[Music] [Applause]",
+   "pause_after_s": 3.75
+  },
+  {
+   "beat": 1,
+   "t0_s": 21.7,
+   "t1_s": 99.44,
+   "words": 74,
+   "text": "[Music] e [Music] [Applause] [Music] [Applause] thank you very thank you very much okay none of this Rhymes I hope we're all settled here ready for a really great time turn off your mobiles and turn o",
+   "pause_after_s": 2.24
+  },
+  {
+   "beat": 2,
+   "t0_s": 101.68,
+   "t1_s": 131.45,
+   "words": 5,
+   "text": "[Applause] [Music] [Applause] [Music] [Applause]",
+   "pause_after_s": 1.1
+  },
+  {
+   "beat": 3,
+   "t0_s": 132.55,
+   "t1_s": 141.8,
+   "words": 2,
+   "text": "[Music] [Applause]",
+   "pause_after_s": 3.8
+  },
+  {
+   "beat": 4,
+   "t0_s": 145.6,
+   "t1_s": 150.4,
+   "words": 6,
+   "text": "so on September the 11th 2001",
+   "pause_after_s": 2.14
+  },
+  {
+   "beat": 5,
+   "t0_s": 152.54,
+   "t1_s": 173.24,
+   "words": 31,
+   "text": "[Laughter] I was actually on holiday right that seems distasteful now but I wasn't to know at the time you know I didn't plan it the holid I mean not the",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 6,
+   "t0_s": 173.96,
+   "t1_s": 199.16,
+   "words": 72,
+   "text": "attacks and I was actually in the city of Granada in southern Spain right it's interesting place Granada was kind of the last point of Muslim occupation of medieval Europe it's still a very mixed City",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 7,
+   "t0_s": 200.12,
+   "t1_s": 232.8,
+   "words": 66,
+   "text": "dates walking around there on the 9th of November 911 and I went into a little Spanish bar and on television there was all this film of buildings on fire and things falling down and people running aro",
+   "pause_after_s": 2.84
+  },
+  {
+   "beat": 8,
+   "t0_s": 235.64,
+   "t1_s": 244.88,
+   "words": 20,
+   "text": "matter and then I watched for a bit longer Glasgow and I realized that it New York where English-speaking people",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 9,
+   "t0_s": 246.12,
+   "t1_s": 278.6,
+   "words": 84,
+   "text": "live and therefore a terrible newsworthy tragedy and I don't know if you remember do you remember the planes flying into the yeah World TR because we got that on the news in London I don't know if you",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 10,
+   "t0_s": 279.44,
+   "t1_s": 336.28,
+   "words": 134,
+   "text": "this and that annoyed me for two reasons one because it was grammatically inaccurate and secondly because you could already see the terrible kind of cultural Fallout of what this was going to mean the",
+   "pause_after_s": 3.56
+  },
+  {
+   "beat": 11,
+   "t0_s": 339.84,
+   "t1_s": 346.32,
+   "words": 7,
+   "text": "C and it was yellow smell of",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 12,
+   "t0_s": 347.44,
+   "t1_s": 403.08,
+   "words": 131,
+   "text": "we and while I was doing it this thing happened that happens when when you get a bit older where when you kind of release the pressure on the front sphincter the back sphincter kind of loosens off of ",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 13,
+   "t0_s": 405.28,
+   "t1_s": 415.0,
+   "words": 13,
+   "text": "anao a fart that smelled mainly of hair and was comprised principally of",
+   "pause_after_s": 1.44
+  },
+  {
+   "beat": 14,
+   "t0_s": 416.44,
+   "t1_s": 435.92,
+   "words": 32,
+   "text": "ideas but it was a fart nonetheless and the Arab guy heard the F and he looked across at me and I looked back at him and he laughed and then I",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 15,
+   "t0_s": 436.6,
+   "t1_s": 441.24,
+   "words": 9,
+   "text": "laughed and I realized everything was going to be",
+   "pause_after_s": 1.92
+  },
+  {
+   "beat": 16,
+   "t0_s": 443.16,
+   "t1_s": 469.48,
+   "words": 68,
+   "text": "okay and then I went back into the bar by now the situation was even worse even more tense the room had kind of split along racial religious lines there was a horrible tension in the room and then sud",
+   "pause_after_s": 1.52
+  },
+  {
+   "beat": 17,
+   "t0_s": 471.0,
+   "t1_s": 520.2,
+   "words": 149,
+   "text": "Workshop Colin po went on television on the 9th of November Spanish bar and he said we are going to launch a crusade against them folks what done this and being in a largely Muslim town full of murals",
+   "pause_after_s": 3.52
+  },
+  {
+   "beat": 18,
+   "t0_s": 523.72,
+   "t1_s": 563.24,
+   "words": 112,
+   "text": "solution you know be received badly and as a as a world leader Colin pal should be aware of these kind of cultural shifts in language but he said Crusade and it went down really badly so there was eve",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 19,
+   "t0_s": 565.2,
+   "t1_s": 571.36,
+   "words": 11,
+   "text": "will you know I'm not a 19th century French musical Entertainer",
+   "pause_after_s": 2.4
+  },
+  {
+   "beat": 20,
+   "t0_s": 573.76,
+   "t1_s": 576.6,
+   "words": 4,
+   "text": "I'm the opposite of",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 21,
+   "t0_s": 577.48,
+   "t1_s": 720.56,
+   "words": 396,
+   "text": "them in four main ways that there isn't time to go into now but someone went oh disappointed there if you seek me out afterwards I'll clarify the exact uh position but I knew I had to do something so ",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 22,
+   "t0_s": 722.52,
+   "t1_s": 743.48,
+   "words": 63,
+   "text": "bear that in mind and every year in Ed he was give that award to Comedy to a human being speaking about some stuff but if they had any Integrity they would give the perier award to the genuinely funni",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 23,
+   "t0_s": 744.56,
+   "t1_s": 806.88,
+   "words": 161,
+   "text": "wood but Glasgow if a farts in a forest and no one hears it is it still funny yes it is cuz it's some gas but smells of coming out of an ass and if the perer had any Integrity which they don't they wo",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 24,
+   "t0_s": 807.64,
+   "t1_s": 827.6,
+   "words": 19,
+   "text": "[Applause] so the day after the 9th of November which is the 9th of December [Laughter] 912 do the",
+   "pause_after_s": 1.11
+  },
+  {
+   "beat": 25,
+   "t0_s": 828.71,
+   "t1_s": 930.96,
+   "words": 239,
+   "text": "[Laughter] math I flew back from Spain to Heathrow Airport I got a mini cab from Heath air port to St new Inon Hackney Northeast London where I live and on the way I had to go past the Finsbury Park M",
+   "pause_after_s": 6.28
+  },
+  {
+   "beat": 26,
+   "t0_s": 937.24,
+   "t1_s": 951.96,
+   "words": 28,
+   "text": "so just look like a 60-minute stream of uninterrupted success although ironically I may consider leaving this part in to give the illusion of it being a genuine",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 27,
+   "t0_s": 953.0,
+   "t1_s": 962.84,
+   "words": 19,
+   "text": "event what do you think of that viewers at home this is similar to ously dishonest and yet also",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 28,
+   "t0_s": 964.0,
+   "t1_s": 973.84,
+   "words": 28,
+   "text": "satisfying but Abu Hamer of course he's in B Marsh at the moment he's in the process of being deported to America where he is guaranteed a fair",
+   "pause_after_s": 1.36
+  },
+  {
+   "beat": 29,
+   "t0_s": 975.2,
+   "t1_s": 981.44,
+   "words": 13,
+   "text": "trial irony there one of the many comic tools we'll be using tonight",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 30,
+   "t0_s": 982.76,
+   "t1_s": 1025.08,
+   "words": 111,
+   "text": "so I was driving past the finby Park Mosque on the uh 9th of December the day after the 9th of November and it was all kicking off outside there's Muslim demonstrators on one side of the street compla",
+   "pause_after_s": 2.6
+  },
+  {
+   "beat": 31,
+   "t0_s": 1027.68,
+   "t1_s": 1039.04,
+   "words": 24,
+   "text": "and it looked Glasgow like there was going to be a fullscale religious race riot and so I said to the mini cab driver",
+   "pause_after_s": 2.28
+  },
+  {
+   "beat": 32,
+   "t0_s": 1041.32,
+   "t1_s": 1049.8,
+   "words": 8,
+   "text": "stop let me out I can help you",
+   "pause_after_s": 5.04
+  },
+  {
+   "beat": 33,
+   "t0_s": 1054.84,
+   "t1_s": 1100.32,
+   "words": 129,
+   "text": "and I got out of the mini cab I pushed through the British national party blocks I pushed through the police line I pushed through the Muslim demonstrators I ran into the mosque some guy tried to get ",
+   "pause_after_s": 1.6
+  },
+  {
+   "beat": 34,
+   "t0_s": 1101.92,
+   "t1_s": 1107.28,
+   "words": 9,
+   "text": "it but on that occasion it didn't really help",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 35,
+   "t0_s": 1109.0,
+   "t1_s": 1124.84,
+   "words": 19,
+   "text": "in fact some eyewitnesses to the ensuing Carnage was subsequently to suggest that it may have made the situation",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 36,
+   "t0_s": 1127.36,
+   "t1_s": 1144.16,
+   "words": 29,
+   "text": "worse and my heartfelt message of peace and goodwi to all men was misunderstood although I take some comfort in the fact that a similar thing often happen to",
+   "pause_after_s": 3.56
+  },
+  {
+   "beat": 37,
+   "t0_s": 1147.72,
+   "t1_s": 1172.88,
+   "words": 56,
+   "text": "Jesus not saying that I am Jesus that's for you to think about at home but if I was him this is the kind of place I would come isn't it a a simple humble place not not the Glasgow Empire I would come ",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 38,
+   "t0_s": 1175.4,
+   "t1_s": 1224.92,
+   "words": 140,
+   "text": "climate well I think there a kind of European kind of smugness where we look at America's kind of hysterical overreaction to the events of the 9th of November and we go thanks for that America thanks ",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 39,
+   "t0_s": 1226.64,
+   "t1_s": 1232.16,
+   "words": 10,
+   "text": "papers shops which don't have the word Barn in their",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 40,
+   "t0_s": 1233.28,
+   "t1_s": 1238.2,
+   "words": 6,
+   "text": "name and the metaphysical concept of",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 41,
+   "t0_s": 1240.24,
+   "t1_s": 1263.84,
+   "words": 71,
+   "text": "shame but you mustn't hate the Americans don't hate them Glasgow Americans live in a kind of state of ignorant prelapsarian Bliss they don't know what's going on and because of that it can be very rel",
+   "pause_after_s": 1.33
+  },
+  {
+   "beat": 42,
+   "t0_s": 1265.17,
+   "t1_s": 1276.16,
+   "words": 11,
+   "text": "[Applause] massacre you watch them walking around looking at colors and",
+   "pause_after_s": 1.6
+  },
+  {
+   "beat": 43,
+   "t0_s": 1277.76,
+   "t1_s": 1328.96,
+   "words": 101,
+   "text": "shapes and lights words sometimes imagining what the words might mean it's very relaxing CL it's like watching carp in a pond in a stately home their mouths opening and closing it's Charming but you m",
+   "pause_after_s": 6.68
+  },
+  {
+   "beat": 44,
+   "t0_s": 1335.64,
+   "t1_s": 1411.24,
+   "words": 230,
+   "text": "hat the farmer likely to arrest the T cozy turn it illegally in wantan Bay and then repeatedly anally rape it until such time as it admits that it was actually a member of an Al-Qaeda training cell ev",
+   "pause_after_s": 3.2
+  },
+  {
+   "beat": 45,
+   "t0_s": 1414.44,
+   "t1_s": 1423.8,
+   "words": 17,
+   "text": "there hello I don't know if you can help me I'm interested in buying one of those",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 46,
+   "t0_s": 1424.88,
+   "t1_s": 1438.72,
+   "words": 24,
+   "text": "iPods I'm sorry sir I won't be able to help you on account of the fact that I am fashioned entirely from colorful wool",
+   "pause_after_s": 2.56
+  },
+  {
+   "beat": 47,
+   "t0_s": 1441.28,
+   "t1_s": 1583.72,
+   "words": 430,
+   "text": "perhaps you'd like to ask one of my colleagues the cardigan the Mitten the balaklava helmet and again you'll notice there a list of three things really they ought comedically to build but the Bal laav",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 48,
+   "t0_s": 1585.28,
+   "t1_s": 1678.8,
+   "words": 260,
+   "text": "do no and when you've tried to do it you realize why he doesn't it's hard it's hard to do it's much easier to just go ER in every sentence and give the illusion of spontaneity so I came out let it go ",
+   "pause_after_s": 2.8
+  },
+  {
+   "beat": 49,
+   "t0_s": 1681.6,
+   "t1_s": 1690.36,
+   "words": 18,
+   "text": "and electrical straight although to be fair this wasn't the part of the set they like least you",
+   "pause_after_s": 2.88
+  },
+  {
+   "beat": 50,
+   "t0_s": 1693.24,
+   "t1_s": 1705.8,
+   "words": 28,
+   "text": "know after the 911 opening a lot of the American audience have been shaken off in in Aspen and if anything arguably the New York warm-ups were worse",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 51,
+   "t0_s": 1707.12,
+   "t1_s": 1732.36,
+   "words": 83,
+   "text": "but it's weird cuz about about two weeks into edin some kid emailed me and he went um you know that bit you do about people being so bored they wear tacos as hats I went yeah he goes um there's a spik",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 52,
+   "t0_s": 1734.88,
+   "t1_s": 1803.28,
+   "words": 189,
+   "text": "work but I was making a number of kind of Crash generalizations about Americans I don't really believe any of them and I did it for Comic effects and I don't understand how anyone can have a kind of g",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 53,
+   "t0_s": 1803.92,
+   "t1_s": 1810.32,
+   "words": 16,
+   "text": "women not there are men in kills but that's just nature trying to find its own",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 54,
+   "t0_s": 1811.32,
+   "t1_s": 1825.36,
+   "words": 46,
+   "text": "level and if a Scottish man wants to breed of course you have to travel South of the Border normally you get as far as a major English railway station get off the train lie down in a gutter drunk and ",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 55,
+   "t0_s": 1825.92,
+   "t1_s": 1908.88,
+   "words": 228,
+   "text": "you and I can say that remember because I technically I am Scotch yeah Scotch yeah genetically if not culturally but I think that even though I grew up thinking I was English I think I always knew tha",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 56,
+   "t0_s": 1912.76,
+   "t1_s": 1919.84,
+   "words": 14,
+   "text": "heroin simp like that you know deep fried heroin if I could get it",
+   "pause_after_s": 0.8
+  },
+  {
+   "beat": 57,
+   "t0_s": 1920.64,
+   "t1_s": 2034.64,
+   "words": 338,
+   "text": "with sauce heroin supper 295 but so I think I always knew Glasgow can hardly believe this is happening I think I always knew but I was a scotch man and I saw I always knew and but Scottish yeah Scotti",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 58,
+   "t0_s": 2035.2,
+   "t1_s": 2045.32,
+   "words": 17,
+   "text": "old now Glasco I'm not saying but William Wallace Braveheart your national hero didn't have sex with",
+   "pause_after_s": 1.28
+  },
+  {
+   "beat": 59,
+   "t0_s": 2046.6,
+   "t1_s": 2106.8,
+   "words": 115,
+   "text": "her you know he probably did if I look but my own personal background there's a lot of sexual opportunism involved in it but um not saying he didn't have he probably did but if he did and he did he de",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 60,
+   "t0_s": 2107.32,
+   "t1_s": 2181.36,
+   "words": 180,
+   "text": "face muttering unintelligible sexual threats in a frankly incomprehensible dialect but another weird thing about that film is you know in it like um fine leave at this point uh it gets it gets worse a",
+   "pause_after_s": 1.36
+  },
+  {
+   "beat": 61,
+   "t0_s": 2182.72,
+   "t1_s": 2239.48,
+   "words": 118,
+   "text": "uh at uh glam's Castle or somewhere and the letters were exchanged between William Wallace and Robert the Bruce and they were full of declarations they were they were full of Declarations of love and ",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 62,
+   "t0_s": 2240.08,
+   "t1_s": 2284.76,
+   "words": 132,
+   "text": "gay signed William Wallace Brave heart and the brave heart bit was an inverted commas so they knew that meant it was real it's like a fun nickname you know it's like real so so uh William Wallace bra ",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 63,
+   "t0_s": 2285.4,
+   "t1_s": 2348.08,
+   "words": 180,
+   "text": "patwell and the clues in the name if you look at it right gay lick that means gay homosexual gay and then Li is language your tongue so gayc is literally the language of gays and you know I was booed ",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 64,
+   "t0_s": 2349.72,
+   "t1_s": 2417.76,
+   "words": 143,
+   "text": "weren't and it's only William Wallace great the Scottish one that definitely was gay of course another sorry someone uh said Robin Hood was surely and from there saying Men in Tights but of course the",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 65,
+   "t0_s": 2418.68,
+   "t1_s": 2423.16,
+   "words": 7,
+   "text": "company as a way of marketing Highland",
+   "pause_after_s": 1.6
+  },
+  {
+   "beat": 66,
+   "t0_s": 2424.76,
+   "t1_s": 2431.28,
+   "words": 14,
+   "text": "toofe because of course traditionally we think tof's better it's manufactured at a high",
+   "pause_after_s": 2.16
+  },
+  {
+   "beat": 67,
+   "t0_s": 2433.44,
+   "t1_s": 2470.6,
+   "words": 119,
+   "text": "altitude but again I was making a number of kind of Crash generalizations about the Scots about my country then I don't I don't believe any of them again I did it for Comic effect but you do meet peop",
+   "pause_after_s": 0.8
+  },
+  {
+   "beat": 68,
+   "t0_s": 2471.4,
+   "t1_s": 2474.96,
+   "words": 5,
+   "text": "conversation you know with a",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 69,
+   "t0_s": 2475.72,
+   "t1_s": 2558.64,
+   "words": 227,
+   "text": "stranger and I was a bit taken a back I went to him oh why' you think that and then there was a pause cuz he'd obviously never had to go to the next level of the argument before fraternizing mainly wi",
+   "pause_after_s": 3.16
+  },
+  {
+   "beat": 70,
+   "t0_s": 2561.8,
+   "t1_s": 2580.24,
+   "words": 46,
+   "text": "you from minut I went yeah and I thought hang on that's the most fantastic way of winning an argument I've ever heard you can I'm not interested in facts I find they tend to cloud my judgment I prefer",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 71,
+   "t0_s": 2580.96,
+   "t1_s": 2670.96,
+   "words": 263,
+   "text": "Prejudice and I came of age for one of a better phrase in in the in the 1980s when we had political correctness and people look back at that and they go ah political correctness was wasn't it being fa",
+   "pause_after_s": 1.76
+  },
+  {
+   "beat": 72,
+   "t0_s": 2672.72,
+   "t1_s": 2692.52,
+   "words": 32,
+   "text": "chinny because he had a big chin and again I read that and I thought call me a square from the past but surely the word is more offensive than the word",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 73,
+   "t0_s": 2693.48,
+   "t1_s": 2746.56,
+   "words": 133,
+   "text": "chinny because the word comes with a whole weight of cultural and historical significance that it's not really there for the word chinny you know there were not um there not people in this country sta",
+   "pause_after_s": 3.84
+  },
+  {
+   "beat": 74,
+   "t0_s": 2750.4,
+   "t1_s": 2754.04,
+   "words": 4,
+   "text": "chins woke up this",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 75,
+   "t0_s": 2754.92,
+   "t1_s": 2758.92,
+   "words": 5,
+   "text": "morning got a big chin",
+   "pause_after_s": 1.8
+  },
+  {
+   "beat": 76,
+   "t0_s": 2760.72,
+   "t1_s": 2778.64,
+   "words": 44,
+   "text": "it's not that much of a problem to be honest I won't base an entire musical genre on it and you don't hear news reports saying a man was beaten to death in Hull last night the violence is thought to h",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 77,
+   "t0_s": 2779.32,
+   "t1_s": 2808.48,
+   "words": 66,
+   "text": "motivated although in Jimmy Hill's case I'd be happy to see an exception made kill him kill Jimmy Hill but kill him in an ironic way break in to the Natural History Museum steal the Jawbone of a blue ",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 78,
+   "t0_s": 2809.36,
+   "t1_s": 2828.8,
+   "words": 53,
+   "text": "violence but we shouldn't be surprised Glasgow to find out that Jimmy Hill is evil and mad right because all people that are involved in the business of football or play football or go and support it ",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 79,
+   "t0_s": 2829.84,
+   "t1_s": 2922.84,
+   "words": 265,
+   "text": "uh take Gary liner for example right Gary liner is a twisted evil man you're going no he isn't stew he's nice he's like a velvet owl he isn't Gary liner is evil Gary liner chooses to advertise crisps ",
+   "pause_after_s": 4.64
+  },
+  {
+   "beat": 80,
+   "t0_s": 2927.48,
+   "t1_s": 2930.48,
+   "words": 1,
+   "text": "dying",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 81,
+   "t0_s": 2931.2,
+   "t1_s": 3021.88,
+   "words": 244,
+   "text": "now there's one person clapping over there of course remember for a comedian anything worse than no one clapping is the sound of one person clapping cuz it suggests you're out on a kind of a limb but ",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 82,
+   "t0_s": 3023.44,
+   "t1_s": 3180.04,
+   "words": 466,
+   "text": "Buddhism but it is easy Glasgow right in the current climate of par to make kind of race based error right I've done it myself I'll tell you how it happened I haven't been doing this for a few years a",
+   "pause_after_s": 1.8
+  },
+  {
+   "beat": 83,
+   "t0_s": 3181.84,
+   "t1_s": 3185.92,
+   "words": 7,
+   "text": "angry you wouldn't like me when I'm",
+   "pause_after_s": 5.88
+  },
+  {
+   "beat": 84,
+   "t0_s": 3191.8,
+   "t1_s": 3203.32,
+   "words": 17,
+   "text": "angry then there was a long embarrassed pause and then angle said I'm sorry what did you",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 85,
+   "t0_s": 3204.64,
+   "t1_s": 3229.76,
+   "words": 33,
+   "text": "say and I said I said angle you have you've directed The Hulk film you must be very excited and proud but um don't make me angry you wouldn't like me when I'm",
+   "pause_after_s": 2.24
+  },
+  {
+   "beat": 86,
+   "t0_s": 3232.0,
+   "t1_s": 3249.8,
+   "words": 41,
+   "text": "angry and there was another kind of silence and then and angly said I'm sorry can you repeat that and I said there's no need it was just a stupid joke and he went no what did you say and I",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 87,
+   "t0_s": 3250.4,
+   "t1_s": 3253.72,
+   "words": 3,
+   "text": "said I said",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 88,
+   "t0_s": 3254.28,
+   "t1_s": 3271.44,
+   "words": 25,
+   "text": "angly you've directed The Hulk film you must be very excited and proud but um don't make me angry you wouldn't like me when I'm",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 89,
+   "t0_s": 3272.44,
+   "t1_s": 3293.16,
+   "words": 35,
+   "text": "angry and he didn't say anything and I said I expect loads of people have made that joke to you and he said no no one's ever said it before why did you say it",
+   "pause_after_s": 1.76
+  },
+  {
+   "beat": 90,
+   "t0_s": 3294.92,
+   "t1_s": 3299.84,
+   "words": 4,
+   "text": "why and I well",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 91,
+   "t0_s": 3300.88,
+   "t1_s": 3305.4,
+   "words": 9,
+   "text": "Ang you know the Hulk film and he went",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 92,
+   "t0_s": 3308.32,
+   "t1_s": 3347.24,
+   "words": 61,
+   "text": "yeah I said Well in that uh Bruce Banner he's the Hulk he says don't make me angry you wouldn't like me when I'm angry and your name's angly and you directed it so I said um don't make me angry you wo",
+   "pause_after_s": 3.52
+  },
+  {
+   "beat": 93,
+   "t0_s": 3350.76,
+   "t1_s": 3374.02,
+   "words": 31,
+   "text": "doesn't and I said come on Ang be fair Ang Le does sound a bit like angry and angle said no it doesn't angly is a completely different word to [Laughter]",
+   "pause_after_s": 3.38
+  },
+  {
+   "beat": 94,
+   "t0_s": 3377.4,
+   "t1_s": 3381.84,
+   "words": 9,
+   "text": "angle and I said I'm sorry can you repeat",
+   "pause_after_s": 2.4
+  },
+  {
+   "beat": 95,
+   "t0_s": 3384.24,
+   "t1_s": 3392.8,
+   "words": 12,
+   "text": "that and angle said yes angly is a completely different word to",
+   "pause_after_s": 1.8
+  },
+  {
+   "beat": 96,
+   "t0_s": 3394.6,
+   "t1_s": 3488.08,
+   "words": 363,
+   "text": "angly and I said I don't understand what point you're trying to make Angry what I'm saying if you listen is that angry sounds a bit like angly so if you swap them round people can see there's a slight",
+   "pause_after_s": 1.6
+  },
+  {
+   "beat": 97,
+   "t0_s": 3489.68,
+   "t1_s": 3527.16,
+   "words": 101,
+   "text": "angry and I said you've proved my point you Tai when's idiot he said don't call me that he got another bloke on an advisor like to get someone else on the publisher there's like a six way 2hour debate",
+   "pause_after_s": 3.36
+  },
+  {
+   "beat": 98,
+   "t0_s": 3530.52,
+   "t1_s": 3606.6,
+   "words": 209,
+   "text": "pain I'm going to shout some questions now I need you to answer loudly to them the answer to most of them is yes okay one two 3 who likes alcohol louder who likes sweets who likes cream cakes who like",
+   "pause_after_s": 4.24
+  },
+  {
+   "beat": 99,
+   "t0_s": 3610.84,
+   "t1_s": 3702.6,
+   "words": 324,
+   "text": "principles yeah clap let him hear you so uh cuz people hate benel and every now and again a journalist has the courage to ask him why this is I've seen it happen twice in print and once on Parkinson P",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 100,
+   "t0_s": 3703.56,
+   "t1_s": 3932.3,
+   "words": 698,
+   "text": "success and and if you think about it all the great comedians are kind of Outsider figures commenting on society from outside kind of holy fools shame and clowns Outsiders Spike Milligan was able to a",
+   "pause_after_s": 1.3
+  },
+  {
+   "beat": 101,
+   "t0_s": 3933.6,
+   "t1_s": 3942.6,
+   "words": 22,
+   "text": "Cardigans but in the end I didn't do that what I did was I said that I would go no I just",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 102,
+   "t0_s": 3944.16,
+   "t1_s": 4039.44,
+   "words": 226,
+   "text": "didn't yeah but we're back talking about the war again last bit and uh like I say there's this kind of assumption I think from us here in Europe where we look at in Britain where we look at America's ",
+   "pause_after_s": 2.88
+  },
+  {
+   "beat": 103,
+   "t0_s": 4042.32,
+   "t1_s": 4065.04,
+   "words": 37,
+   "text": "ET was honestly there outside Kensington Palace two days before the state funeral and I stood there looking at the inflatable ET for some 40 or 50 minutes and I thought to myself how did that get",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 104,
+   "t0_s": 4065.92,
+   "t1_s": 4073.6,
+   "words": 10,
+   "text": "there who would have thought that that was an appropriate",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 105,
+   "t0_s": 4074.2,
+   "t1_s": 4131.12,
+   "words": 112,
+   "text": "gesture and I imagined a household somewhere on that awful Autumn Sunday morning where perhaps a wife had woken up first and she'd watched the news and she went through to her still sleeping husband a",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 106,
+   "t0_s": 4131.68,
+   "t1_s": 4137.44,
+   "words": 10,
+   "text": "asleep I don't want to get up I'm asleep so",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 107,
+   "t0_s": 4138.04,
+   "t1_s": 4144.64,
+   "words": 13,
+   "text": "just I know you're upset but just say what it is what is",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 108,
+   "t0_s": 4145.52,
+   "t1_s": 4169.76,
+   "words": 41,
+   "text": "it and she'd have gone please if you if you love me just this one time just get up and because it's an awful thing and I need I can't be alone I need someone to comfort me and just please",
+   "pause_after_s": 2.64
+  },
+  {
+   "beat": 109,
+   "t0_s": 4172.4,
+   "t1_s": 4216.2,
+   "words": 86,
+   "text": "okay I need to come look I was out late last night I've got I've got work at 7 tomorrow I don't this is my this is my one day for sleeping in I don't want to get up to about 11 to be honest even then ",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 110,
+   "t0_s": 4219.12,
+   "t1_s": 4228.44,
+   "words": 13,
+   "text": "it she'd have gone Princess Diana Lady D has she she has been",
+   "pause_after_s": 3.72
+  },
+  {
+   "beat": 111,
+   "t0_s": 4232.16,
+   "t1_s": 4241.8,
+   "words": 10,
+   "text": "killed and he have gone no not the Queen of",
+   "pause_after_s": 2.72
+  },
+  {
+   "beat": 112,
+   "t0_s": 4244.52,
+   "t1_s": 4261.08,
+   "words": 27,
+   "text": "Hearts the rose of England and Scotland and Wales and bits of Ireland no how did it there's no God how did it why how did it",
+   "pause_after_s": 3.2
+  },
+  {
+   "beat": 113,
+   "t0_s": 4264.28,
+   "t1_s": 4275.76,
+   "words": 20,
+   "text": "happen shaon was in a car crash in Paris last night they don't know the exact details yeah but she's",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 114,
+   "t0_s": 4277.8,
+   "t1_s": 4304.44,
+   "words": 39,
+   "text": "dead so presly at that point he' he' got up got out of bed tried to get dressed you know get some kind of grip on his emotions and his feelings calm down his grief and then he just",
+   "pause_after_s": 4.48
+  },
+  {
+   "beat": 115,
+   "t0_s": 4308.92,
+   "t1_s": 4320.69,
+   "words": 14,
+   "text": "said I better go out and get a life- siiz in flavor model [Laughter]",
+   "pause_after_s": 1.33
+  },
+  {
+   "beat": 116,
+   "t0_s": 4322.02,
+   "t1_s": 4325.11,
+   "words": 1,
+   "text": "[Music]",
+   "pause_after_s": 3.61
+  },
+  {
+   "beat": 117,
+   "t0_s": 4328.72,
+   "t1_s": 4330.92,
+   "words": 1,
+   "text": "you",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 118,
+   "t0_s": 4331.84,
+   "t1_s": 4335.92,
+   "words": 6,
+   "text": "know for the gates of our",
+   "pause_after_s": 4.44
+  },
+  {
+   "beat": 119,
+   "t0_s": 4340.36,
+   "t1_s": 4345.52,
+   "words": 8,
+   "text": "home and his wife would have said yes",
+   "pause_after_s": 1.2
+  },
+  {
+   "beat": 120,
+   "t0_s": 4346.72,
+   "t1_s": 4350.56,
+   "words": 10,
+   "text": "but you better hurry cuz there'll be a rush on",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 121,
+   "t0_s": 4351.88,
+   "t1_s": 4420.04,
+   "words": 171,
+   "text": "those we don't want to be the only people not putting one me and I was talking about this on stage in cyen at the time it happened and a bloke shouted out I was there and I saw that and it wasn't a li",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 122,
+   "t0_s": 4421.28,
+   "t1_s": 4438.28,
+   "words": 58,
+   "text": "it it never goes away it's back in the news now the princess din Memorial Fountain last year people going oh it's great it's it's what she would have wanted it's a place where families can hang out ch",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 123,
+   "t0_s": 4438.84,
+   "t1_s": 4450.32,
+   "words": 24,
+   "text": "killed and then in death not to have become the unwitting receptacle with a hysterical overemotional shrieking grief of that's what she would have",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 124,
+   "t0_s": 4451.88,
+   "t1_s": 4600.36,
+   "words": 386,
+   "text": "wanted it didn't even work didn't even work last ago children were supposed to be able to play in it they kept falling over breaking their arms and legs they made it out of slate or sheets of ice or s",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 125,
+   "t0_s": 4601.36,
+   "t1_s": 4629.81,
+   "words": 41,
+   "text": "say I'm paying tribute in the only way I understand to the memory of Princess Diana Princess of Wales I've been stly thanks a lot for beinging with us tonight [Applause] [Music] this [Applause] [Music",
+   "pause_after_s": 1.47
+  },
+  {
+   "beat": 126,
+   "t0_s": 4631.28,
+   "t1_s": 4644.16,
+   "words": 22,
+   "text": "is I'm the queen of the world Listen People that's the way goes all you got to do is make to I",
+   "pause_after_s": 2.36
+  },
+  {
+   "beat": 127,
+   "t0_s": 4646.52,
+   "t1_s": 4649.72,
+   "words": 5,
+   "text": "I'm the queen of the",
+   "pause_after_s": 2.96
+  },
+  {
+   "beat": 128,
+   "t0_s": 4652.68,
+   "t1_s": 4672.68,
+   "words": 30,
+   "text": "world I'm the queen of the world I don't care what the people say I know that this is the way God I I'm the queen of the world I",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 129,
+   "t0_s": 4673.84,
+   "t1_s": 4678.08,
+   "words": 6,
+   "text": "I I'm the queen of the",
+   "pause_after_s": 2.44
+  },
+  {
+   "beat": 130,
+   "t0_s": 4680.52,
+   "t1_s": 4694.27,
+   "words": 4,
+   "text": "world I know [Music]",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 131,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 131
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

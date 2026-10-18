@@ -1,0 +1,55 @@
+{
+ "comedian_id": "rory-o-hanlon",
+ "name": "Rory O Hanlon",
+ "clips": 2,
+ "total_views": 10300,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "kzMB_-3xnIY",
+  "title": "American Teacher | Rory O'Hanlon | Craic Den Comedy Club #ireland #comedy #american #funny",
+  "channel": "@craicdencomedyclub",
+  "views": 6000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=kzMB_-3xnIY",
+  "r2_clip_key": "comedians/rory-o-hanlon/clips/rory-o-hanlon-kzmb-3xniy.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rory-o-hanlon/clips/rory-o-hanlon-kzmb-3xniy.json"
+ },
+ "rows": [
+  {
+   "videoId": "kzMB_-3xnIY",
+   "title": "American Teacher | Rory O'Hanlon | Craic Den Comedy Club #ireland #comedy #american #funny",
+   "channel": "@craicdencomedyclub",
+   "views": 6000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=kzMB_-3xnIY",
+   "n_words": 56,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What do you do, Mark? >> I'm a high school math teacher. >> A high school teacher pile over there. [laughter] [\u00a0__\u00a0] you getting excited about the kids, man. [laughter] That's a level of promotion I'v",
+   "r2_clip_key": "comedians/rory-o-hanlon/clips/rory-o-hanlon-kzmb-3xniy.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rory-o-hanlon/clips/rory-o-hanlon-kzmb-3xniy.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "LyV2uoAg8W0",
+   "title": "Irish Doctors in Australia | Rory O Hanlon | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 4300,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=LyV2uoAg8W0",
+   "n_words": 104,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "There's a lot of young Irish people who have emigrated to Australia. A lot of young Irish people in their 20s now are living in Australia. And I met a whole load of them in Perth, and a lot of them we",
+   "r2_clip_key": "comedians/rory-o-hanlon/clips/rory-o-hanlon-lyv2uoag8w0.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rory-o-hanlon/clips/rory-o-hanlon-lyv2uoag8w0.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

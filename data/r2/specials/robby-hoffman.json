@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "robby-hoffman",
+ "specials": [
+  {
+   "special_slug": "i-m-nervous-2019",
+   "title": "Robby Hoffman: I\u2019m Nervous (2019)",
+   "comedian": "Robby Hoffman",
+   "url": "https://scrapsfromtheloft.com/comedy/robby-hoffman-im-nervous-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 9579,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nRobby Hoffman: I\u2019m Nervous (2019) \u2013 Transcript\nPublished December 22, 2025\nRobby Hoffman: I\u2019m Nervous is the debut one-hour comedy special from American-Canadian comedian and writer Robby Hoffman.\n\nRobby Hoffman: I\u2019m Nervous\u00a0is the\u00a0debut one-hour comedy special from American-Canadian come",
+   "r2_special_key": "comedians/robby-hoffman/specials/i-m-nervous-2019.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/robby-hoffman/specials/i-m-nervous-2019.json"
+  },
+  {
+   "special_slug": "wake-up-2025",
+   "title": "Robby Hoffman: Wake Up (2025)",
+   "comedian": "Robby Hoffman",
+   "url": "https://scrapsfromtheloft.com/comedy/robby-hoffman-wake-up-2025-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 9527,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nRobby Hoffman: Wake Up (2025) \u2013 Transcript\nPublished December 22, 2025\nRobby Hoffman: Wake Up\u00a0is the second hour-long stand-up comedy special from American-Canadian comedian Robby Hoffman.\n\nRobby Hoffman: Wake Up\u00a0is the second hour-long stand-up comedy special from American-Canadian comed",
+   "r2_special_key": "comedians/robby-hoffman/specials/wake-up-2025.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/robby-hoffman/specials/wake-up-2025.json"
+  }
+ ],
+ "count": 2
+}

@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "youtube-uploads:angel-comedy"
+      "youtube-uploads:angel-comedy",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Name-mined from angel-comedy uploads (registry playlist, no search).",
     "evidence": [
@@ -39,7 +40,9 @@
         "publishedAt": "2026-03-23"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "r2_comedian": true,
+    "r2_clips": 11
   },
   "sets": [],
   "essay_seeds": [],
@@ -51,7 +54,7 @@
     "legacy": 51.7,
     "legacy_era": 75.8,
     "audience": null,
-    "popularity": null,
+    "popularity": 59.2,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -59,7 +62,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -85,8 +88,46 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
-  "region": "ireland"
+  "region": "ireland",
+  "youtube": {
+    "clips": 11,
+    "total_views": 59491,
+    "timed_clips": 11,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "U7bDphOrm5I",
+      "title": "Nowhere Fast | Monday 10pm | RT\u00c92",
+      "views": 19947,
+      "duration_s": 52,
+      "url": "https://www.youtube.com/watch?v=U7bDphOrm5I",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alison-spittle/clips/alison-spittle-u7bdphorm5i.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 2016,
+    "special_words": 0,
+    "timed_clips": 11,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q44065197",
+    "dob": "1989-06-14",
+    "dod": null,
+    "birthplace": "Harrow",
+    "citizenship": "Ireland",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "actor",
+      "broadcaster"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

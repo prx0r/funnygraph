@@ -1,0 +1,72 @@
+{
+ "comedian_id": "chloe-petts",
+ "name": "Chloe Petts",
+ "clips": 3,
+ "total_views": 150,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "GnlSul8Nw-0",
+  "title": "Chloe Petts Clip",
+  "channel": "Royal & Derngate",
+  "views": 83,
+  "duration_s": 61,
+  "url": "https://www.youtube.com/watch?v=GnlSul8Nw-0",
+  "r2_clip_key": "comedians/chloe-petts/clips/chloe-petts-gnlsul8nw-0.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chloe-petts/clips/chloe-petts-gnlsul8nw-0.json"
+ },
+ "rows": [
+  {
+   "videoId": "GnlSul8Nw-0",
+   "title": "Chloe Petts Clip",
+   "channel": "Royal & Derngate",
+   "views": 83,
+   "likes": null,
+   "duration_s": 61,
+   "url": "https://www.youtube.com/watch?v=GnlSul8Nw-0",
+   "n_words": 150,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "sir on the end of the row. Do you think you'd call it um towing or toe fingering? You like towing. What I like about you is you really thought about that for a long time. It's towing. I think it's tow",
+   "r2_clip_key": "comedians/chloe-petts/clips/chloe-petts-gnlsul8nw-0.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chloe-petts/clips/chloe-petts-gnlsul8nw-0.json",
+   "source_group": "shorts-discovery"
+  },
+  {
+   "videoId": "RS7Vb8LVBxI",
+   "title": "WWAW EPISODE 71 REVIEW - Hannah Gadsby\u2019s Gender Agenda w/ Alok, Krishna Istha, Chloe Petts, Jes Tom",
+   "channel": "Knack Entertainment",
+   "views": 35,
+   "likes": null,
+   "duration_s": 77,
+   "url": "https://www.youtube.com/watch?v=RS7Vb8LVBxI",
+   "n_words": 264,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "all right and uh the last standup special that I was going to bring is actually we've talked about Hannah Gatsby on this series a couple times before and so I saw her name pop up in my list of shows a",
+   "r2_clip_key": "comedians/chloe-petts/clips/chloe-petts-rs7vb8lvbxi.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chloe-petts/clips/chloe-petts-rs7vb8lvbxi.json",
+   "source_group": "shorts-discovery"
+  },
+  {
+   "videoId": "XiWwZtB3Koc",
+   "title": "Comedy review: Chloe Petts, how you see me, how you don't",
+   "channel": "Choodle reviews comedy",
+   "views": 32,
+   "likes": null,
+   "duration_s": 90,
+   "url": "https://www.youtube.com/watch?v=XiWwZtB3Koc",
+   "n_words": 223,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Chloe Pets, How You See Me, How You Don't. Sunday, 30th March, 2025. Melbourne International Comedy Festival preview show, Melbourne Town Hall. 4.5 stars. This is a very, very funny show from the come",
+   "r2_clip_key": "comedians/chloe-petts/clips/chloe-petts-xiwwztb3koc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chloe-petts/clips/chloe-petts-xiwwztb3koc.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -38,7 +39,9 @@
         "profile": "https://www.onthemic.co.uk/comedians_list/kyle-kinane/"
       }
     ],
-    "subs": "unknown (performer channel unregistered)"
+    "subs": "unknown (performer channel unregistered)",
+    "r2_comedian": true,
+    "r2_specials": 2
   },
   "sets": [],
   "essay_seeds": [],
@@ -58,7 +61,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -84,12 +87,34 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
-  }
+  },
+  "set_queue": {
+    "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "whiskey-icarus-2012",
+      "loose-in-chicago-2016"
+    ],
+    "special_titles": [
+      "Kyle Kinane: Whiskey Icarus (2012)",
+      "Kyle Kinane: Loose in Chicago (2016)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 17654,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

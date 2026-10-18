@@ -28,7 +28,7 @@
     "legacy": 90.8,
     "legacy_era": 87.4,
     "audience": null,
-    "popularity": null,
+    "popularity": 72.8,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "musicbrainz": {
@@ -76,5 +76,50 @@
       "uk"
     ],
     "source": "musicbrainz (name+comedy-tag)"
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 12
+  },
+  "youtube": {
+    "clips": 12,
+    "total_views": 547777,
+    "timed_clips": 12,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "EM_RrFBiWPg",
+      "title": "Alexei Sayle Star Trek the Next Generation Sketch",
+      "views": 137292,
+      "duration_s": 90,
+      "url": "https://www.youtube.com/watch?v=EM_RrFBiWPg",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/alexei-sayle/clips/alexei-sayle-em_rrfbiwpg.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 2530,
+    "special_words": 0,
+    "timed_clips": 12,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q970287",
+    "dob": "1952-08-07",
+    "dod": null,
+    "birthplace": "Liverpool",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "screenwriter",
+      "television actor",
+      "film actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

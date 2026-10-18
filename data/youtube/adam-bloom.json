@@ -1,0 +1,38 @@
+{
+ "comedian_id": "adam-bloom",
+ "name": "Adam Bloom",
+ "clips": 1,
+ "total_views": 28000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Y_s0e6t50MA",
+  "title": "Obsessive Comic Delivery | Adam Bloom | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 28000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Y_s0e6t50MA",
+  "r2_clip_key": "comedians/adam-bloom/clips/adam-bloom-y_s0e6t50ma.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/adam-bloom/clips/adam-bloom-y_s0e6t50ma.json"
+ },
+ "rows": [
+  {
+   "videoId": "Y_s0e6t50MA",
+   "title": "Obsessive Comic Delivery | Adam Bloom | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 28000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Y_s0e6t50MA",
+   "n_words": 129,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "First of all, I've got OCD. I probably got OCD. I don't think I've got OCD. I count things all day long. I count things all day long. Not now cuz I'm busy talking to all 62 of you, right? I don't mean",
+   "r2_clip_key": "comedians/adam-bloom/clips/adam-bloom-y_s0e6t50ma.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/adam-bloom/clips/adam-bloom-y_s0e6t50ma.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

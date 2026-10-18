@@ -1,125 +1,480 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "kenny-sebastian",
-  "name": "Kenny Sebastian",
-  "tier": "indie",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "regions.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
-  },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie"
-  },
-  "region": "india",
-  "discovery": {
-    "discovered_from": [
-      "youtube-native",
-      "musician"
-    ],
-    "discovery_note": "Music + standup, #KennySingForMe. Middle-class restaurant problems."
-  },
-  "continent": "asia",
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 88.3,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "mark-normand",
-      "sim": 0.044
-    }
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "kenny-sebastian",
+ "name": "Kenny Sebastian",
+ "tier": "indie",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "regions.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
+  "tier": "indie"
+ },
+ "region": "india",
+ "discovery": {
+  "discovered_from": [
+   "youtube-native",
+   "musician"
   ],
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCzNq9i-DlDDBLjPerVzJW-A",
-    "handle": "kennysebastian",
-    "title": "Kenny Sebastian",
-    "subs": 2260000,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "variety",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-03",
-    "name_match_rate": 0.13,
-    "other_names": [
-      "Can Kenny Sebastian",
-      "Comedian Vs Doctor",
-      "New Chapter Feat",
-      "Reunited Dallas",
-      "Shamik Chakrabarti",
-      "Shreeja Chaturvedi",
-      "Simple Ken Podcast",
-      "Tour Diaries"
-    ]
-  },
-  "website": {
-    "url": "https://kennysebastian.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
-  },
-  "style_tags": {
-    "humor_type": "crowd-improv",
-    "theories": [
-      "incongruity",
-      "status_reversal",
-      "benign_violation"
-    ],
-    "via": "mark-normand",
-    "sim": 0.044,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  "discovery_note": "Music + standup, #KennySingForMe. Middle-class restaurant problems."
+ },
+ "continent": "asia",
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 96.8,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "mark-normand",
+   "sim": 0.044
   }
+ ],
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCzNq9i-DlDDBLjPerVzJW-A",
+  "handle": "kennysebastian",
+  "title": "Kenny Sebastian",
+  "subs": 2260000,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "variety",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-03",
+  "name_match_rate": 0.13,
+  "other_names": [
+   "Can Kenny Sebastian",
+   "Comedian Vs Doctor",
+   "New Chapter Feat",
+   "Reunited Dallas",
+   "Shamik Chakrabarti",
+   "Shreeja Chaturvedi",
+   "Simple Ken Podcast",
+   "Tour Diaries"
+  ]
+ },
+ "website": {
+  "url": "https://kennysebastian.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "style_tags": {
+  "humor_type": "crowd-improv",
+  "theories": [
+   "incongruity",
+   "status_reversal",
+   "benign_violation"
+  ],
+  "via": "mark-normand",
+  "sim": 0.044,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "Ju0huFYTLxc",
+   "title": "Two Types of People ft. @SauravMehta @shamikchakrabarti @Hoezaay @PrashastiSinghStandup",
+   "duration_s": 4041,
+   "views": 110288,
+   "url": "https://www.youtube.com/watch?v=Ju0huFYTLxc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0tNRnTrdRBw",
+   "title": "Two Types of People ft. @SauravMehta @TarangHardikar @Hoezaay @shamikchakrabarti  \u200b",
+   "duration_s": 4977,
+   "views": 227212,
+   "url": "https://www.youtube.com/watch?v=0tNRnTrdRBw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0v5Z0BItJSU",
+   "title": "Two Types of People ft. @SauravMehta @sonofabish @Hoezaay @shamikchakrabarti",
+   "duration_s": 4326,
+   "views": 289875,
+   "url": "https://www.youtube.com/watch?v=0v5Z0BItJSU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yPRt-AepM-g",
+   "title": "Simple Ken  | S02E24 Get Together Feat. @sonofabish @kaneezsurka007 @kanan_gill ",
+   "duration_s": 4324,
+   "views": 176363,
+   "url": "https://www.youtube.com/watch?v=yPRt-AepM-g",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NlLCEGyGE1Y",
+   "title": "Simple Ken Podcast | S02E23 Rohan Rises Feat. @rohanjoshi8016",
+   "duration_s": 5033,
+   "views": 130206,
+   "url": "https://www.youtube.com/watch?v=NlLCEGyGE1Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "O75Jw34maeY",
+   "title": "Simple Ken Podcast | S02E22 Team Work Feat. Nishant, Erushka, Shreemayee & Vivian",
+   "duration_s": 4829,
+   "views": 19097,
+   "url": "https://www.youtube.com/watch?v=O75Jw34maeY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "wyAK9H9eh9E",
+   "title": "Simple Ken- Two Types of People @ShreejaChaturvedi   @shamikchakrabarti@Hoezaay@SauravMehta",
+   "duration_s": 4437,
+   "views": 265930,
+   "url": "https://www.youtube.com/watch?v=wyAK9H9eh9E",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "k_Y_iAMNwQ8",
+   "title": "Is Content Still King? | Kenny Sebastian X OPPO",
+   "duration_s": 3460,
+   "views": 3373635,
+   "url": "https://www.youtube.com/watch?v=k_Y_iAMNwQ8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "39gydFdqoD4",
+   "title": "Simple Ken Podcast | S02E20 Paternal Hang Feat. Papa Sebastian",
+   "duration_s": 3952,
+   "views": 64929,
+   "url": "https://www.youtube.com/watch?v=39gydFdqoD4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "zQ-eCZ96Z_g",
+   "title": "SimpleKen Podcast Girl Dads S02E19@yokalyanyo@sapanv@AnirbanDasgupta5 @vaibhavsethiacomedian",
+   "duration_s": 4532,
+   "views": 283874,
+   "url": "https://www.youtube.com/watch?v=zQ-eCZ96Z_g",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "saRXeXWDRNE",
+   "title": "Simple Ken- Two Types of People @ShreejaChaturvedi   @shamikchakrabarti@Hoezaay@SauravMehta",
+   "duration_s": 4586,
+   "views": 310742,
+   "url": "https://www.youtube.com/watch?v=saRXeXWDRNE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Lh1MRU-eyAk",
+   "title": "Simple Ken Podcast | S02E17 Honest Answers with @KennySebastian",
+   "duration_s": 2773,
+   "views": 29881,
+   "url": "https://www.youtube.com/watch?v=Lh1MRU-eyAk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "W6dB5-GCF6c",
+   "title": "Simple Ken Podcast | S02E16 Universal Relevance Feat @GianmarcoSoresi",
+   "duration_s": 4850,
+   "views": 70211,
+   "url": "https://www.youtube.com/watch?v=W6dB5-GCF6c",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "QaWGRBNVcL4",
+   "title": "Simple Ken Podcast | S02E15 The Sequel Feat @rohanjoshi8016",
+   "duration_s": 5044,
+   "views": 104036,
+   "url": "https://www.youtube.com/watch?v=QaWGRBNVcL4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CkhS-7KHoD4",
+   "title": "Simple Ken- Two Types of People @SauravMehta   @PrashastiSinghStandup  @shamikchakrabarti  @Hoezaay ",
+   "duration_s": 3177,
+   "views": 182408,
+   "url": "https://www.youtube.com/watch?v=CkhS-7KHoD4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7sPRn3q5r4A",
+   "title": "Simple Ken Podcast | S02E13 Family Foundation Feat Kunal Khemu",
+   "duration_s": 4475,
+   "views": 72705,
+   "url": "https://www.youtube.com/watch?v=7sPRn3q5r4A",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rNELG-f4tDI",
+   "title": "Simple Ken - Two Types of People @Hoezaay@shamikchakrabarti @ShreejaChaturvedi@SauravMehta",
+   "duration_s": 4492,
+   "views": 319812,
+   "url": "https://www.youtube.com/watch?v=rNELG-f4tDI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "kN8v34kNox0",
+   "title": "Simple Ken Podcast | S02E11 Perfect Harmony Feat \u00a0@jonitamusic",
+   "duration_s": 4475,
+   "views": 48365,
+   "url": "https://www.youtube.com/watch?v=kN8v34kNox0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "I25BPL_QYdk",
+   "title": "Simple Ken Podcast | S02E10 Couple Questions Feat. Tracy",
+   "duration_s": 3607,
+   "views": 148293,
+   "url": "https://www.youtube.com/watch?v=I25BPL_QYdk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pPjlu92gL2Q",
+   "title": "Simple Ken Podcast | S2E09 Celebrating Music Feat @ritvizji\u200b",
+   "duration_s": 4632,
+   "views": 24053,
+   "url": "https://www.youtube.com/watch?v=pPjlu92gL2Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "hb1TQC5ryzY",
+   "title": "Simple Ken -Two Types of People Ft.@Hoezaay @TarangHardikar @ShreejaChaturvedi @SauravMehta\u200b",
+   "duration_s": 4082,
+   "views": 205026,
+   "url": "https://www.youtube.com/watch?v=hb1TQC5ryzY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "N8ZHfc7K2F4",
+   "title": "Simple Ken Podcast | S2E07 Artistic Joy Feat  @kushakapila5643",
+   "duration_s": 4422,
+   "views": 112149,
+   "url": "https://www.youtube.com/watch?v=N8ZHfc7K2F4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "JCyMZschwqo",
+   "title": "Simple Ken Podcast | S2E06 Composing Success Feat @YashrajMukhateOfficial",
+   "duration_s": 4112,
+   "views": 26337,
+   "url": "https://www.youtube.com/watch?v=JCyMZschwqo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yFMmTFAabOw",
+   "title": "Simple Ken Podcast | S2E05 Character Assassination Feat @rohanjoshi8016",
+   "duration_s": 3810,
+   "views": 145523,
+   "url": "https://www.youtube.com/watch?v=yFMmTFAabOw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "FnXzIgFadsQ",
+   "title": "Simple Ken -Two Types of People Ft. @Hoezaay @shamikchakrabarti @ShreejaChaturvedi @SauravMehta",
+   "duration_s": 5410,
+   "views": 483559,
+   "url": "https://www.youtube.com/watch?v=FnXzIgFadsQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-tWX0kgAp6I",
+   "title": "Fathers, Mothers, Husbands & Wives - Kenny Sebastian | Stand Up Comedy",
+   "duration_s": 1397,
+   "views": 1173091,
+   "url": "https://www.youtube.com/watch?v=-tWX0kgAp6I",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vptf5YHw4xQ",
+   "title": "Simple Ken Podcast | S2E03 Why This? Feat @kanan_gill",
+   "duration_s": 3719,
+   "views": 191352,
+   "url": "https://www.youtube.com/watch?v=vptf5YHw4xQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SsO3HBMA7b8",
+   "title": "Simple Ken Podcast | S2E02 Uncharted Terrain Feat Kartikeya Singhee",
+   "duration_s": 4391,
+   "views": 50643,
+   "url": "https://www.youtube.com/watch?v=SsO3HBMA7b8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6qUaLetIN6c",
+   "title": "Simple Ken Podcast | S2E01 New Parents Feat Tracy Viegas Sebastian",
+   "duration_s": 2727,
+   "views": 334987,
+   "url": "https://www.youtube.com/watch?v=6qUaLetIN6c",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "H-UgYXYH2Eo",
+   "title": "SimpleKen - Two Types of People Ep 2 with @kanan_gill, @ShreejaChaturvedi & @shamikchakrabarti",
+   "duration_s": 3717,
+   "views": 356473,
+   "url": "https://www.youtube.com/watch?v=H-UgYXYH2Eo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2qf6c4l11EQ",
+   "title": "Simple Ken Podcast | EP 45 - Personal Currency Feat @warikoo",
+   "duration_s": 4058,
+   "views": 42602,
+   "url": "https://www.youtube.com/watch?v=2qf6c4l11EQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Bgpji_zyHPE",
+   "title": "SimpleKen - Two Types of People Ep1 with @AakashGupta  ,@ShreejaChaturvedi &@shamikchakrabarti",
+   "duration_s": 3724,
+   "views": 574387,
+   "url": "https://www.youtube.com/watch?v=Bgpji_zyHPE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6UXulwxBQbo",
+   "title": "Simple Ken Podcast | EP 43 - Figuring Fatherhood Feat Anirban Dasgupta",
+   "duration_s": 3110,
+   "views": 58459,
+   "url": "https://www.youtube.com/watch?v=6UXulwxBQbo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "_L8-noa8wxk",
+   "title": "Simple Ken Podcast | EP 42 - New Chapter Feat @kanan_gill",
+   "duration_s": 3907,
+   "views": 248284,
+   "url": "https://www.youtube.com/watch?v=_L8-noa8wxk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xae97Br09x0",
+   "title": "Simple Ken Podcast | EP 41 - Loneliness Lessons Feat @PrashastiSinghStandup & Saurav Mehta",
+   "duration_s": 4075,
+   "views": 126850,
+   "url": "https://www.youtube.com/watch?v=xae97Br09x0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "a9SVp1SLZRw",
+   "title": "Simple Ken Podcast | EP 40 - Clean Comedy Feat @Hoezaay",
+   "duration_s": 3793,
+   "views": 180946,
+   "url": "https://www.youtube.com/watch?v=a9SVp1SLZRw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "_PQ7HQSbRuw",
+   "title": "Simple Ken Podcast | EP 39 - Viral Friendship Feat. @NirmalPillaiOriginal & @Theabishekkumar",
+   "duration_s": 4298,
+   "views": 512572,
+   "url": "https://www.youtube.com/watch?v=_PQ7HQSbRuw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "R4Uyno5ilCA",
+   "title": "Simple Ken Podcast | EP 38 - Love Languages Feat. Kanan, Prashasti, Shreeja & Shamik",
+   "duration_s": 3873,
+   "views": 659842,
+   "url": "https://www.youtube.com/watch?v=R4Uyno5ilCA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "iuy6m_Rwwww",
+   "title": "Moving Forward Feat. Vir Das - Simple Ken Podcast | EP 37",
+   "duration_s": 3881,
+   "views": 161266,
+   "url": "https://www.youtube.com/watch?v=iuy6m_Rwwww",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "9aLMF9vWOC4",
+   "title": "Simple Ken Podcast | EP 36 - Taking Responsibility",
+   "duration_s": 1799,
+   "views": 39549,
+   "url": "https://www.youtube.com/watch?v=9aLMF9vWOC4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RLh0jqwuEaY",
+   "title": "Simple Ken Podcast | EP 35 Emotional Investment Feat. Kumar Varun, Rohan Desai & Shreemayee Das",
+   "duration_s": 3788,
+   "views": 99193,
+   "url": "https://www.youtube.com/watch?v=RLh0jqwuEaY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "a4qzg_YSg-s",
+   "title": "Simple Ken Podcast | EP 34 Understanding Law Feat. Aniket Dasgupta,Aneesa Cheema & Ranjeev Carvalho",
+   "duration_s": 3581,
+   "views": 103197,
+   "url": "https://www.youtube.com/watch?v=a4qzg_YSg-s",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6AnUtT0EZH4",
+   "title": "Simple Ken Podcast | EP 33 - Facing Reality Feat. Prashasti, Shamik Chakrabarti & Shreeja Chaturvedi",
+   "duration_s": 3547,
+   "views": 305117,
+   "url": "https://www.youtube.com/watch?v=6AnUtT0EZH4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6jnTP5tKf2g",
+   "title": "Simple Ken Podcast | EP 32 - Teenage Struggles",
+   "duration_s": 1655,
+   "views": 78785,
+   "url": "https://www.youtube.com/watch?v=6jnTP5tKf2g",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 44
 }

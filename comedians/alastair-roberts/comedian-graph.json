@@ -105,12 +105,24 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q334258",
+    "dob": "1943-07-04",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "politician",
+      "diplomat"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

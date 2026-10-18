@@ -1,0 +1,38 @@
+{
+ "comedian_id": "cleaners-or-cops",
+ "name": "Cleaners Or Cops",
+ "clips": 1,
+ "total_views": 2900,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "Ht0SjxaY_2E",
+  "title": "Damo Clark | Cleaners Or Cops #crowdwork #comedy #funny #nyc",
+  "channel": "@craicdencomedyclub",
+  "views": 2900,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=Ht0SjxaY_2E",
+  "r2_clip_key": "comedians/cleaners-or-cops/clips/cleaners-or-cops-ht0sjxay-2e.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cleaners-or-cops/clips/cleaners-or-cops-ht0sjxay-2e.json"
+ },
+ "rows": [
+  {
+   "videoId": "Ht0SjxaY_2E",
+   "title": "Damo Clark | Cleaners Or Cops #crowdwork #comedy #funny #nyc",
+   "channel": "@craicdencomedyclub",
+   "views": 2900,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Ht0SjxaY_2E",
+   "n_words": 105,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "what's your name Jad John Jim John Jim Joey get the [\u00a0__\u00a0] out of here John Jim and Joey I feel like I'm in a children's boook I'm joh I'm Joy how do you guys know each other work work what do you wor",
+   "r2_clip_key": "comedians/cleaners-or-cops/clips/cleaners-or-cops-ht0sjxay-2e.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cleaners-or-cops/clips/cleaners-or-cops-ht0sjxay-2e.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,613 @@
+{
+ "comedian_id": "casey-rocket",
+ "specials": [
+  {
+   "videoId": "Upj0UTJQ3cE",
+   "title": "Shrimp Basket, My Love? | (GHHPH #27)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-12-11T22:00:06Z",
+   "duration_s": 4209,
+   "views": 13255,
+   "likes": 331,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "YEWg-hruS0k",
+   "title": "Doctors Are Born, Not Made | (GHHPH #26)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-09-18T21:04:32Z",
+   "duration_s": 3583,
+   "views": 5809,
+   "likes": 169,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "1UJurdlrzlc",
+   "title": "Rango Unchained Directed by William Montgomery | (GHHPH #25)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-06-29T21:46:37Z",
+   "duration_s": 2534,
+   "views": 23320,
+   "likes": 524,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "ZE6YmOhKfbQ",
+   "title": "The Inaugural Grecian Bozo Brigade | (GHHPH #24)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-06-15T21:00:09Z",
+   "duration_s": 3119,
+   "views": 3604,
+   "likes": 83,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "pYtPFPB7mBk",
+   "title": "The Bi-Monthly Impractical Jokers Royal Rumble | (GHHPH #23)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-05-29T22:33:28Z",
+   "duration_s": 2552,
+   "views": 3581,
+   "likes": 92,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "live-at-the-o2-london-2018-prince-harry-meghan-markle-s-roya"
+  },
+  {
+   "videoId": "NsG6MQjWvwQ",
+   "title": "The 9th Annual Cryptid Draft | (GHHPH #22)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-05-15T19:00:07Z",
+   "duration_s": 3725,
+   "views": 4214,
+   "likes": 116,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "nikki-glaser-opening-monologue-at-the-83rd-annual-golden-glo"
+  },
+  {
+   "videoId": "nBA_rMCo5D0",
+   "title": "The Great Animorph Heist | (GHHPH #21)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-04-25T21:00:31Z",
+   "duration_s": 3006,
+   "views": 4889,
+   "likes": 130,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "making-america-great-again-2016"
+  },
+  {
+   "videoId": "nmp-YRlsGJE",
+   "title": "The Apple Genius Execution | (GHHPH #20)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-04-13T21:00:08Z",
+   "duration_s": 3563,
+   "views": 6192,
+   "likes": 144,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "5NBI-jFzgTw",
+   "title": "She's on The Tarp | (GHHPH #19)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-03-27T21:00:02Z",
+   "duration_s": 2712,
+   "views": 6278,
+   "likes": 165,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "WwoDEppZWnU",
+   "title": "Women Can Be Italian Too | (GHHPH #18)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-03-17T21:27:29Z",
+   "duration_s": 4205,
+   "views": 6119,
+   "likes": 160,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "women-and-black-dudes-2014"
+  },
+  {
+   "videoId": "4KhmmU9mbOM",
+   "title": "Give Grimby Da Gold Bullion | (GHHPH #17)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-03-03T22:00:08Z",
+   "duration_s": 2640,
+   "views": 2889,
+   "likes": 69,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "dU-0JMgu2_I",
+   "title": "Grimby Drone Strikes Graceland | (GHHPH #16)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-02-23T22:00:14Z",
+   "duration_s": 3730,
+   "views": 4596,
+   "likes": 109,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "-XLUofXEUsc",
+   "title": "Sludge Fargo | (GHHPH #15)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-02-03T22:49:52Z",
+   "duration_s": 3580,
+   "views": 3461,
+   "likes": 90,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "SYXngyh55RI",
+   "title": "Grimby Weaponizes Jaundice | (GHHPH #14)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-01-19T22:00:11Z",
+   "duration_s": 3746,
+   "views": 4426,
+   "likes": 98,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "pNXrcC1voD0",
+   "title": "A Mutiny Most Foul (GHHPH #13)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-01-06T19:46:18Z",
+   "duration_s": 2733,
+   "views": 3969,
+   "likes": 132,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "ZyyA6aiuq_w",
+   "title": "How The Grinch Stole Grimace (GHHPH #12)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-12-24T01:58:15Z",
+   "duration_s": 3805,
+   "views": 4479,
+   "likes": 113,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "UNc18EFwxl0",
+   "title": "Grimby Converts At The Alligator Rave (GHHPH Episode 11)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-12-16T03:03:08Z",
+   "duration_s": 3805,
+   "views": 4241,
+   "likes": 129,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+  },
+  {
+   "videoId": "3ZZddAHGRU4",
+   "title": "Grimbus Joins The Orthodontist Cult (GHHPH: Episode 10)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-12-08T22:00:02Z",
+   "duration_s": 3954,
+   "views": 4089,
+   "likes": 110,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+  },
+  {
+   "videoId": "810EtCZ8_Jg",
+   "title": "GHHPH: Grimby Fights The Juggalos (Episode 9)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-11-19T00:45:10Z",
+   "duration_s": 3459,
+   "views": 3627,
+   "likes": 97,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "tickle-fight-2017"
+  },
+  {
+   "videoId": "-galwYRvWHA",
+   "title": "A Trunk Full of Burgers and a Bad Wish (GHHPH Episode 8)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-10-13T21:00:00Z",
+   "duration_s": 3120,
+   "views": 5199,
+   "likes": 127,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+  },
+  {
+   "videoId": "SoAeQxXURZA",
+   "title": "GHHPH: Grimace Punches a Cow at the Daytona 500 (Episode 7)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-10-06T21:00:14Z",
+   "duration_s": 3328,
+   "views": 5477,
+   "likes": 163,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+  },
+  {
+   "videoId": "WQ4gvFfcqpM",
+   "title": "GHHPH: Grimby Fights A Monster Truck (Episode 6)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-09-29T21:00:15Z",
+   "duration_s": 2784,
+   "views": 4174,
+   "likes": 104,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "monster-rain-2007"
+  },
+  {
+   "videoId": "fAB7Qk1XSPw",
+   "title": "GHHPH: No Country For Old Grim (Episode 5)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-09-22T21:00:31Z",
+   "duration_s": 3436,
+   "views": 4945,
+   "likes": 118,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "this-is-your-country-2024"
+  },
+  {
+   "videoId": "VweJDJRZSJM",
+   "title": "GHHPH: Bathtub Linguini (Episode 4)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-09-15T21:00:11Z",
+   "duration_s": 2616,
+   "views": 6280,
+   "likes": 176,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+  },
+  {
+   "videoId": "DoTFwR_tkXo",
+   "title": "GHHPH: Grim Bizkit and the fall of Woodstock '99 (Episode 3)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-09-08T21:00:05Z",
+   "duration_s": 2768,
+   "views": 7035,
+   "likes": 184,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+  },
+  {
+   "videoId": "IsMxGwRo0SM",
+   "title": "GHHPH: Crop Top & The Slop Shop (Episode 2)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-09-01T21:00:20Z",
+   "duration_s": 3188,
+   "views": 16603,
+   "likes": 362,
+   "comedian_slug": "casey-rocket",
+   "matched_r2_special": "saturday-night-live-monologue-season-40-episode-2-10-04-2014"
+  }
+ ],
+ "clips": [
+  {
+   "videoId": "7f0ZFu0iMqs",
+   "title": "Football Is Wife (I Want To Marry A Football)",
+   "channel": "Casey Rocket",
+   "publishedAt": "2025-02-16T09:23:07Z",
+   "duration_s": 161,
+   "views": 25057,
+   "likes": 1146,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "ayP1_wWvcvk",
+   "title": "Unfathomable riffs \ud83d\udc0e\ud83c\udf05 This Thursday at Creek & Cave \ud83d\udc3b#standup #austin #standupcomedy #texas",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-12-07T03:49:52Z",
+   "duration_s": 54,
+   "views": 41074,
+   "likes": 2438,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "0osMAizaG2A",
+   "title": "2nite \ud83e\udd80 8pm \ud83e\udd80 solving the riff crisis at Creek & Cave #standup #austin #comedy",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-11-22T23:05:30Z",
+   "duration_s": 38,
+   "views": 14490,
+   "likes": 577,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "O6-E2tvLpyc",
+   "title": "The Riff Goose Returns \ud83e\udd80 This Friday \ud83e\udd86 #standup #austin #texas #standupcomedy #crab",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-11-16T18:46:29Z",
+   "duration_s": 57,
+   "views": 20442,
+   "likes": 783,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "zNjYfz-qk9k",
+   "title": "Athens \ud83d\udc36 2nite \ud83e\udd80 Riff walls will fall \ud83e\udec2 #standup #georgia #comedy #athens",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-11-09T00:28:01Z",
+   "duration_s": 53,
+   "views": 10080,
+   "likes": 508,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "OirbNF_IS3Q",
+   "title": "Scared yet? This Thursday \ud83e\udd80 8pm \ud83e\udd80 at Creek & Cave #standup #austin #comedy #texas",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-11-01T23:29:20Z",
+   "duration_s": 60,
+   "views": 18320,
+   "likes": 1079,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "gCPlwd9ePhE",
+   "title": "Houston: Big Riffs Academy \ud83e\udd80 2nite",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-10-19T21:35:22Z",
+   "duration_s": 78,
+   "views": 9006,
+   "likes": 209,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "udLWVzmk5sI",
+   "title": "2nite \ud83c\udf00 The Riff Coven begins their final transformation \ud83c\udf83 #standupcomedy #comedy #austin #texas",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-10-18T22:23:03Z",
+   "duration_s": 61,
+   "views": 7579,
+   "likes": 217,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "nXavCUcL7NY",
+   "title": "You can\u2019t spell Thursday without Dallas! (& Fort Worth) #standup #standupcomedy #dallas #comedy \ud83e\udd80",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-10-05T19:51:17Z",
+   "duration_s": 61,
+   "views": 9376,
+   "likes": 290,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "hmqXxzemRis",
+   "title": "You already know what the score is pal \ud83d\ude44 #austin #comedy #standup #texas #caseyrocket",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-09-15T05:11:30Z",
+   "duration_s": 43,
+   "views": 8067,
+   "likes": 273,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "UkRAI4eWFhQ",
+   "title": "The Crab \ud83e\udd80 June 16th at Creek & Cave #comedy #texas #standupcomedy #caseyrocket #austin",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-06-14T10:04:09Z",
+   "duration_s": 60,
+   "views": 245071,
+   "likes": 7835,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "QBr30J_vuEg",
+   "title": "A Home-Cooked Grimace Beatdown",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-05-26T10:51:03Z",
+   "duration_s": 47,
+   "views": 14651,
+   "likes": 314,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "acaimiXT458",
+   "title": "Movie Review: The Last Day for ChooChoo is the First Day for BooBoo",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-03-02T00:27:38Z",
+   "duration_s": 280,
+   "views": 2867,
+   "likes": 71,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "j7OE-p8QfDo",
+   "title": "Top 4 Grimace Saw Traps",
+   "channel": "Casey Rocket",
+   "publishedAt": "2023-02-06T06:42:06Z",
+   "duration_s": 432,
+   "views": 8049,
+   "likes": 143,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "9fDdyzt_CFY",
+   "title": "The Riff Gauntlet: Circle of Tuss",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-06-29T07:02:40Z",
+   "duration_s": 330,
+   "views": 70708,
+   "likes": 1625,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "yzFmHUXDL9Y",
+   "title": "The Mummy's Promise",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-06-28T21:20:47Z",
+   "duration_s": 90,
+   "views": 8478,
+   "likes": 178,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "723xrxG12GE",
+   "title": "A Walk Amongst The Riff Gardens",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-06-08T22:17:21Z",
+   "duration_s": 387,
+   "views": 151661,
+   "likes": 3089,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "Jh1GwzuYkek",
+   "title": "My Ideal Relapse",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-06-08T21:00:04Z",
+   "duration_s": 93,
+   "views": 13676,
+   "likes": 287,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "DpcBAJ3eMK8",
+   "title": "\ud83e\udd80 Big Benadryl Crowd \ud83e\udd80",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-04-25T21:51:30Z",
+   "duration_s": 115,
+   "views": 17643,
+   "likes": 395,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "FVVQXj6Ymso",
+   "title": "Crab Doctor Roasts Suspected Stink Mercenary",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-04-20T22:02:26Z",
+   "duration_s": 146,
+   "views": 7203,
+   "likes": 222,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "DcLeSQECCLQ",
+   "title": "Worm Report: A Sincere Apology \u26be\ufe0f",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-04-17T20:56:08Z",
+   "duration_s": 140,
+   "views": 5627,
+   "likes": 191,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "nQDBwPTZvDw",
+   "title": "1-800-Riffs-4-Jar-Jar",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-01-25T23:51:47Z",
+   "duration_s": 433,
+   "views": 579364,
+   "likes": 13625,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "bNpggSlk6S0",
+   "title": "Dancing King: A Seal Team 6 Flags Story \ud83c\uddfa\ud83c\uddf8",
+   "channel": "Casey Rocket",
+   "publishedAt": "2022-01-22T20:17:49Z",
+   "duration_s": 211,
+   "views": 42345,
+   "likes": 785,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "7qde2ieLXIk",
+   "title": "*Leaked Footage* Busty Crab Sets North American Land Speed Record \ud83d\ude31",
+   "channel": "Casey Rocket",
+   "publishedAt": "2021-11-07T10:51:43Z",
+   "duration_s": 47,
+   "views": 5033,
+   "likes": 122,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "bfkVV22QqKw",
+   "title": "The Riff Martyr: Judgement Day",
+   "channel": "Casey Rocket",
+   "publishedAt": "2021-11-04T09:10:04Z",
+   "duration_s": 172,
+   "views": 2349,
+   "likes": 79,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "4dve41SHnKE",
+   "title": "~ Pumpkin Set ~",
+   "channel": "Casey Rocket",
+   "publishedAt": "2021-10-08T21:31:25Z",
+   "duration_s": 253,
+   "views": 37157,
+   "likes": 852,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "sd2Qc_--UOA",
+   "title": "Mommas Don\u2019t Let Your Babies Grow Up To Be Riff Cowboys \ud83d\udc0e",
+   "channel": "Casey Rocket",
+   "publishedAt": "2021-07-03T09:27:58Z",
+   "duration_s": 301,
+   "views": 67123,
+   "likes": 1128,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "0nXq7ptrQ4Q",
+   "title": "BLOOD MOON: The Most Erotic of Prophecies \ud83d\ude4f",
+   "channel": "Casey Rocket",
+   "publishedAt": "2021-05-09T10:50:16Z",
+   "duration_s": 296,
+   "views": 1730,
+   "likes": 69,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "2RE4mGM5RuY",
+   "title": "Taking a ride on the riff express, all aboard for Laughsville",
+   "channel": "Casey Rocket",
+   "publishedAt": "2019-12-06T09:51:35Z",
+   "duration_s": 231,
+   "views": 1998,
+   "likes": 72,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "9we8zFqR17o",
+   "title": "The Doc\u2019s Diaries: Coins Is Food",
+   "channel": "Casey Rocket",
+   "publishedAt": "2019-10-10T22:23:42Z",
+   "duration_s": 412,
+   "views": 20299,
+   "likes": 542,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "oS9I8LBqM6c",
+   "title": "Boise\u2019s Dogshit Science Center",
+   "channel": "Casey Rocket",
+   "publishedAt": "2019-07-25T07:29:31Z",
+   "duration_s": 461,
+   "views": 23258,
+   "likes": 509,
+   "comedian_slug": "casey-rocket"
+  },
+  {
+   "videoId": "74r9-fz-WU8",
+   "title": "Rodeo Grimace vs. Hip Hop Chungus: Lust For Vengeance",
+   "channel": "Casey Rocket",
+   "publishedAt": "2019-05-21T06:50:14Z",
+   "duration_s": 278,
+   "views": 1782,
+   "likes": 55,
+   "comedian_slug": "casey-rocket"
+  }
+ ]
+}

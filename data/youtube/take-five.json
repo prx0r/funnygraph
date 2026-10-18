@@ -1,0 +1,72 @@
+{
+ "comedian_id": "take-five",
+ "name": "Take Five",
+ "clips": 3,
+ "total_views": 3123,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "tfVYAGwREfI",
+  "title": "Take Five - 80s/90s Kids Movies. Exclusive To Patreon. #ciaranbartlett #takefive #hook #spielberg",
+  "channel": "@ciaranbartlettcomedy",
+  "views": 1300,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=tfVYAGwREfI",
+  "r2_clip_key": "comedians/take-five/clips/take-five-tfvyagwrefi.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/take-five/clips/take-five-tfvyagwrefi.json"
+ },
+ "rows": [
+  {
+   "videoId": "tfVYAGwREfI",
+   "title": "Take Five - 80s/90s Kids Movies. Exclusive To Patreon. #ciaranbartlett #takefive #hook #spielberg",
+   "channel": "@ciaranbartlettcomedy",
+   "views": 1300,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=tfVYAGwREfI",
+   "n_words": 156,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "At number three, Hook with Robin Williams. Maggie Smith, Dustin Hoffman, Glenn Close plays one of the parts. And and a favorite uh early '90s actress of mine, actor actress, Caroline Goodall, she's th",
+   "r2_clip_key": "comedians/take-five/clips/take-five-tfvyagwrefi.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/take-five/clips/take-five-tfvyagwrefi.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "Tla8pzW2uRo",
+   "title": "Take Five - Book Thrillers. Exclusive to Patreon. #ciaranbartlett #takefive #comedy #movie #podcast",
+   "channel": "@ciaranbartlettcomedy",
+   "views": 1200,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=Tla8pzW2uRo",
+   "n_words": 193,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Do you know who's in this? A guy who's also in Seven and a and a and one of my one of my boys, Leland Orser. If you don't know who that is, he's Liam Neeson in we met at a taken. But he's the guy with",
+   "r2_clip_key": "comedians/take-five/clips/take-five-tla8pzw2uro.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/take-five/clips/take-five-tla8pzw2uro.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "_VR5oPTohEA",
+   "title": "Take Five - Golden Era Musicals. Exclusive To Patreon. #ciaranbartlett #takefive #soundofmusic",
+   "channel": "@ciaranbartlettcomedy",
+   "views": 623,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=_VR5oPTohEA",
+   "n_words": 76,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Sound of Music with Christopher Plummer, a Rodgers and Hammerstein classic. Julie Andrews uh is brilliantness. Her singing's amazing. The hills are alive with the sound of music. I have confidence in ",
+   "r2_clip_key": "comedians/take-five/clips/take-five-vr5optohea.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/take-five/clips/take-five-vr5optohea.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

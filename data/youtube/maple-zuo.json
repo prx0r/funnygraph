@@ -1,0 +1,38 @@
+{
+ "comedian_id": "maple-zuo",
+ "name": "MAPLE ZUO",
+ "clips": 1,
+ "total_views": 7300,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "nbF4EUf0UsU",
+  "title": "MAPLE ZUO - ASIANS DON'T RAISIN",
+  "channel": "@BigBellyComedy",
+  "views": 7300,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=nbF4EUf0UsU",
+  "r2_clip_key": "comedians/maple-zuo/clips/maple-zuo-nbf4euf0usu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/maple-zuo/clips/maple-zuo-nbf4euf0usu.json"
+ },
+ "rows": [
+  {
+   "videoId": "nbF4EUf0UsU",
+   "title": "MAPLE ZUO - ASIANS DON'T RAISIN",
+   "channel": "@BigBellyComedy",
+   "views": 7300,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=nbF4EUf0UsU",
+   "n_words": 26,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'm like 42 now, guys. What? Yeah, yeah. I have a LOT OF BOTOX. I KNOW. ALSO, ASIAN DON'T DIE. WE'RE LIKE lonely Chinese people everywhere.",
+   "r2_clip_key": "comedians/maple-zuo/clips/maple-zuo-nbf4euf0usu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/maple-zuo/clips/maple-zuo-nbf4euf0usu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

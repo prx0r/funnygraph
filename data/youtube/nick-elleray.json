@@ -1,0 +1,55 @@
+{
+ "comedian_id": "nick-elleray",
+ "name": "Nick Elleray",
+ "clips": 2,
+ "total_views": 177000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "yHANe9xKYTk",
+  "title": "Quit Drinking, Still Poor! | Nick Elleray | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 167000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=yHANe9xKYTk",
+  "r2_clip_key": "comedians/nick-elleray/clips/nick-elleray-yhane9xkytk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nick-elleray/clips/nick-elleray-yhane9xkytk.json"
+ },
+ "rows": [
+  {
+   "videoId": "yHANe9xKYTk",
+   "title": "Quit Drinking, Still Poor! | Nick Elleray | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 167000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=yHANe9xKYTk",
+   "n_words": 108,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I've got this app on my phone that tracks when I'm drinking. So, I opened it recently and it said, \"Ah, it's been 7 years, 3 months, and 2 days since you had a drink.\" And in that time of not drinking",
+   "r2_clip_key": "comedians/nick-elleray/clips/nick-elleray-yhane9xkytk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nick-elleray/clips/nick-elleray-yhane9xkytk.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "K5q9xtQ6xaE",
+   "title": "Dating Younger Women | Nick Elleray | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=K5q9xtQ6xaE",
+   "n_words": 96,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I know there are guys who go out with women like 30 years younger than themselves, 40 years younger than themselves. I think that's weird and cruel and unusual and I don't want to have to pretend to l",
+   "r2_clip_key": "comedians/nick-elleray/clips/nick-elleray-k5q9xtq6xae.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/nick-elleray/clips/nick-elleray-k5q9xtq6xae.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -106,8 +106,18 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "3 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "is-anyone-else-seeing-this-2025",
+      "live-from-d-c-2014",
+      "live-from-oklahoma-2018"
+    ],
+    "special_titles": [
+      "Bill Maher: Is Anyone Else Seeing This? (2025)",
+      "BILL MAHER: LIVE FROM D.C. (2014) \u2013 Full Transcript",
+      "BILL MAHER: LIVE FROM OKLAHOMA (2018) \u2013 Full Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -290,7 +300,7 @@
     "legacy": 81.4,
     "legacy_era": 90.3,
     "audience": null,
-    "popularity": 75.9,
+    "popularity": 93.0,
     "theory": 37.5,
     "heat": null,
     "gap_value": null,
@@ -344,7 +354,7 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 44.1,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -370,12 +380,28 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "http://billmaher.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 3
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 26978,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

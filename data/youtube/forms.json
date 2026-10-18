@@ -1,0 +1,38 @@
+{
+ "comedian_id": "forms",
+ "name": "FORMS \ud83e\udd2e",
+ "clips": 1,
+ "total_views": 8800,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "iFOacBc0ddw",
+  "title": "FORMS \ud83e\udd2e | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 8800,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=iFOacBc0ddw",
+  "r2_clip_key": "comedians/forms/clips/forms-ifoacbc0ddw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/forms/clips/forms-ifoacbc0ddw.json"
+ },
+ "rows": [
+  {
+   "videoId": "iFOacBc0ddw",
+   "title": "FORMS \ud83e\udd2e | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 8800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=iFOacBc0ddw",
+   "n_words": 136,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "The only sensible idea would be \u2014we still have to order things. Oh. This is why I hate filling out forms. Forms, dude. To hell with the form. There are a lot of addresses there. I can't stand it when ",
+   "r2_clip_key": "comedians/forms/clips/forms-ifoacbc0ddw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/forms/clips/forms-ifoacbc0ddw.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

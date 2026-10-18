@@ -1,0 +1,38 @@
+{
+ "comedian_id": "finalists-favourite-jokes",
+ "name": "Finalists' Favourite Jokes",
+ "clips": 1,
+ "total_views": 17648,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "m8vEsoAyHRg",
+  "title": "New Comedy Awards 2023 | Finalists' Favourite Jokes",
+  "channel": "BBC",
+  "views": 17648,
+  "duration_s": 181,
+  "url": "https://www.youtube.com/watch?v=m8vEsoAyHRg",
+  "r2_clip_key": "comedians/finalists-favourite-jokes/clips/finalists-favourite-jokes-m8vesoayhrg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/finalists-favourite-jokes/clips/finalists-favourite-jokes-m8vesoayhrg.json"
+ },
+ "rows": [
+  {
+   "videoId": "m8vEsoAyHRg",
+   "title": "New Comedy Awards 2023 | Finalists' Favourite Jokes",
+   "channel": "BBC",
+   "views": 17648,
+   "likes": null,
+   "duration_s": 181,
+   "url": "https://www.youtube.com/watch?v=m8vEsoAyHRg",
+   "n_words": 387,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "when grandpa passed his driving test the Injustice of the property Market that's what gets me down I found out recently our land lady owns eight properties you think that's terrible to think if she wa",
+   "r2_clip_key": "comedians/finalists-favourite-jokes/clips/finalists-favourite-jokes-m8vesoayhrg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/finalists-favourite-jokes/clips/finalists-favourite-jokes-m8vesoayhrg.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

@@ -1,0 +1,1807 @@
+{
+ "comedian_id": "just-for-laughs",
+ "specials": [
+  {
+   "videoId": "Fzpy43cd238",
+   "title": "Just For Laughs - Back To School Compilation",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-14T18:23:37Z",
+   "duration_s": 3334,
+   "views": 18542,
+   "likes": 105,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": "first-day-at-catholic-school-scene"
+  },
+  {
+   "videoId": "dktKkly0DnM",
+   "title": "Dog Stand-Up Jokes for National Dog Day",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-26T21:41:51Z",
+   "duration_s": 1365,
+   "views": 7297,
+   "likes": 54,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": "shane-gillis-stand-up-monologue-snl-scene"
+  },
+  {
+   "videoId": "xXVxf9CMBT4",
+   "title": "Festival Favorites 2026",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-04T13:00:36Z",
+   "duration_s": 3352,
+   "views": 2514,
+   "likes": 47,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "xI8kqgS-wes",
+   "title": "You know them now, but did you know they were New Faces?",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-22T14:11:55Z",
+   "duration_s": 3455,
+   "views": 1631,
+   "likes": 36,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "wcYT4PsUi68",
+   "title": "Just For... America. \ud83c\uddfa\ud83c\uddf8 Happy 4th of July! \ud83d\ude02",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-04T13:30:07Z",
+   "duration_s": 2591,
+   "views": 3497,
+   "likes": 89,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": "making-america-great-again-2016"
+  },
+  {
+   "videoId": "eytznmZM00E",
+   "title": "Canadian Comics @ Just for Laughs",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-01T13:32:21Z",
+   "duration_s": 3403,
+   "views": 10834,
+   "likes": 232,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "dQMM4Z5s-iU",
+   "title": "Just for Laughs - Pride Compilation",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-18T13:30:33Z",
+   "duration_s": 3610,
+   "views": 67858,
+   "likes": 1512,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "CwgqBvcd1SQ",
+   "title": "The Best Mom Jokes Ever Told | Mother\u2019s Day Comedy Compilation",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-10T12:00:32Z",
+   "duration_s": 1711,
+   "views": 28282,
+   "likes": 530,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": "comedy-camisado-2016"
+  },
+  {
+   "videoId": "jmDjZ9Zv3PI",
+   "title": "Best of Nikki Glaser at JFL",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-24T16:17:32Z",
+   "duration_s": 1642,
+   "views": 123715,
+   "likes": 1049,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": "perfect-2016"
+  },
+  {
+   "videoId": "0TDwJUfG_kk",
+   "title": "Mike Birbiglia Compilation | Bombing on the muppets",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-21T13:54:06Z",
+   "duration_s": 1915,
+   "views": 16871,
+   "likes": 305,
+   "comedian_slug": "just-for-laughs",
+   "matched_r2_special": null
+  }
+ ],
+ "clips": [
+  {
+   "videoId": "f4Le5sqcqZk",
+   "title": "Norm Macdonald on returning to Just for Laughs after 25 years",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-17T16:36:01Z",
+   "duration_s": 102,
+   "views": 26744,
+   "likes": 517,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "IzEWplZtpxY",
+   "title": "Gavin Matts on the freedom to choose",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-16T15:13:50Z",
+   "duration_s": 118,
+   "views": 14429,
+   "likes": 518,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "4qyhAJHKSLw",
+   "title": "Kate Berlant Needs a Ride Home",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-15T16:00:23Z",
+   "duration_s": 88,
+   "views": 19248,
+   "likes": 319,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "9s_1Qj5sRC4",
+   "title": "Kate Berlant Needs a Ride Home",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-15T15:54:58Z",
+   "duration_s": 570,
+   "views": 7696,
+   "likes": 79,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "bdwrrfViu_A",
+   "title": "a JFL orignal comedy special, GAVIN MATTS: PRESENT, out on Monday October 19",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-14T14:50:10Z",
+   "duration_s": 88,
+   "views": 13950,
+   "likes": 171,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "YVqOjxG9Jjc",
+   "title": "I am a member of the LGBTQ | Kyle Brownrigg | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-13T20:22:02Z",
+   "duration_s": 77,
+   "views": 8350,
+   "likes": 39,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "s4bzGij69IY",
+   "title": "Michael Che thinks Trump would be funnier if he was someone else's problem",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-13T13:17:56Z",
+   "duration_s": 52,
+   "views": 39265,
+   "likes": 575,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Di9iaAKpLEA",
+   "title": "Michael Che Wishes Trump Was Canada\u2019s Problem | Just For Laughs",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-13T13:11:48Z",
+   "duration_s": 462,
+   "views": 161217,
+   "likes": 1303,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "HX7CRgnc33U",
+   "title": "Aisling Bea- Americans have the Best Words",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-09T16:00:28Z",
+   "duration_s": 267,
+   "views": 154722,
+   "likes": 1262,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "YkmcBqPn9bU",
+   "title": "Marcello Hern\u00e1ndez\u2019s Cuban Mom (referenced on Good Hang with Amy Poehler)",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-08T14:13:06Z",
+   "duration_s": 50,
+   "views": 90111,
+   "likes": 831,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "cj5B6y8S2h8",
+   "title": "Marcello Hern\u00e1ndez\u2019s Original JFL New Faces Set | The Set He Told Amy Poehler About",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-08T14:02:23Z",
+   "duration_s": 483,
+   "views": 540012,
+   "likes": 3126,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "ShVjL-V7j1c",
+   "title": "Marcello Hernandez on Good Hang and Just for Laughs",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-07T21:08:42Z",
+   "duration_s": 88,
+   "views": 25874,
+   "likes": 585,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "3Sk8XSpgSUI",
+   "title": "Guy Montgomery - Ask Questions Please.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-07T15:00:22Z",
+   "duration_s": 203,
+   "views": 9545,
+   "likes": 49,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "TmAhBi66uVo",
+   "title": "Guy Montgomery - American monologue.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-07T15:00:03Z",
+   "duration_s": 30,
+   "views": 28566,
+   "likes": 290,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "pgGl7Q4E-CU",
+   "title": "White people learning about racism | Natasha Lyn Myles | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-05T22:02:02Z",
+   "duration_s": 270,
+   "views": 6353,
+   "likes": 47,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "oPKNy3vuyWE",
+   "title": "Eddie Della Siepe - Father Issues?",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-05T16:00:28Z",
+   "duration_s": 67,
+   "views": 13666,
+   "likes": 252,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "8rTjqtUCfEQ",
+   "title": "Eddie Della Siepe - Dating Advices and Father Issues.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-05T16:00:20Z",
+   "duration_s": 278,
+   "views": 3483,
+   "likes": 29,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "m1uZRF1bTwQ",
+   "title": "Jeff Dunham Roasts Canada",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-04T20:15:46Z",
+   "duration_s": 40,
+   "views": 316718,
+   "likes": 2566,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "A6QqkB48_qQ",
+   "title": "BARRY ROTHBART - Marriage is Gross",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-02T16:00:12Z",
+   "duration_s": 71,
+   "views": 7706,
+   "likes": 168,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "5BEFo4NaL0E",
+   "title": "Barry Rothbart - The Future Is Gross",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-10-02T16:00:08Z",
+   "duration_s": 262,
+   "views": 3044,
+   "likes": 31,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Yn9HkTiR-pc",
+   "title": "Sarah Tiana - Married Women are Always Scheming",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-30T16:00:36Z",
+   "duration_s": 329,
+   "views": 8987,
+   "likes": 76,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "2nE-5Xg_sUE",
+   "title": "Sarah Tiana -  Married women act like they're Alone.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-30T16:00:17Z",
+   "duration_s": 60,
+   "views": 22879,
+   "likes": 582,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "-Vol-NuRfL0",
+   "title": "My Mom Came Out | Sophia Johnson | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-29T00:11:28Z",
+   "duration_s": 227,
+   "views": 22908,
+   "likes": 108,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "pqvppAqCs8k",
+   "title": "Peter White - Skip university. Learn it online.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-28T16:00:30Z",
+   "duration_s": 211,
+   "views": 5976,
+   "likes": 61,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "dWuN_2evhF0",
+   "title": "Peter White - University is a Scam.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-28T16:00:17Z",
+   "duration_s": 47,
+   "views": 15009,
+   "likes": 222,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "s6s8W5Sy-5U",
+   "title": "Running through the Six with my....",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-27T13:44:47Z",
+   "duration_s": 69,
+   "views": 26831,
+   "likes": 458,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "hKSuahpMR0E",
+   "title": "Pete Davidson is Running Through the Six",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-27T11:00:29Z",
+   "duration_s": 562,
+   "views": 5576,
+   "likes": 58,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Snwup_21mck",
+   "title": "NOUR HADIDI - Job Interviews & Inter-weight Couples",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-26T16:00:05Z",
+   "duration_s": 226,
+   "views": 10472,
+   "likes": 92,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Dr-uwan3-sY",
+   "title": "Modi - Is Orlando closed?",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-25T16:00:36Z",
+   "duration_s": 225,
+   "views": 10083,
+   "likes": 54,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "WU1ykdkBQZQ",
+   "title": "Modi misses basic vacations",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-25T16:00:12Z",
+   "duration_s": 61,
+   "views": 13916,
+   "likes": 197,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "UrrN2ndK9h4",
+   "title": "Bonnie McFarlane - I hate Paper Straws!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-24T16:00:16Z",
+   "duration_s": 65,
+   "views": 1386,
+   "likes": 35,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "xrSj_CiQDgY",
+   "title": "Bonnie McFarlane - I hate Paper Straws!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-24T16:00:06Z",
+   "duration_s": 408,
+   "views": 3597,
+   "likes": 39,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "6aGg_3rtPN4",
+   "title": "Kyle Brownrigg - DREAMS DO COME TRUE",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-22T16:30:06Z",
+   "duration_s": 44,
+   "views": 7329,
+   "likes": 74,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "PxN9HBEiWRc",
+   "title": "Kyle Brownrigg - Wasted on the News",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-22T16:30:02Z",
+   "duration_s": 374,
+   "views": 4963,
+   "likes": 49,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "IBO4sNXJE8Y",
+   "title": "Im From Montreal | Eva Alexopoulos | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-22T14:00:17Z",
+   "duration_s": 260,
+   "views": 4669,
+   "likes": 26,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "wS5Ri0aqdtU",
+   "title": "Jak Knight - Bonding with Canadians...",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-21T16:00:27Z",
+   "duration_s": 60,
+   "views": 14166,
+   "likes": 265,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "MMTUZNEBbOI",
+   "title": "Jak Knight Had Nothing in Common With Canadians",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-21T16:00:25Z",
+   "duration_s": 219,
+   "views": 9020,
+   "likes": 112,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "oJNXP50r7Lk",
+   "title": "Andrew Santino - Don't die Naked.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-18T19:22:54Z",
+   "duration_s": 389,
+   "views": 10423,
+   "likes": 121,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "psUOi1CYGA4",
+   "title": "Andrew Santino - Anxiety and adult movies \ud83d\udc40",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-18T19:00:18Z",
+   "duration_s": 46,
+   "views": 2464,
+   "likes": 62,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Q0QNUB3gF9M",
+   "title": "Jon Dore - Cat people are weird",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-17T18:00:13Z",
+   "duration_s": 293,
+   "views": 10821,
+   "likes": 89,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "0YsAPyi3V9U",
+   "title": "Jon Dore - Depression pills please",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-17T18:00:05Z",
+   "duration_s": 45,
+   "views": 14325,
+   "likes": 210,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "2I3UB1wDaoM",
+   "title": "PETE DAVIDSON - Learning Curve",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-16T17:00:33Z",
+   "duration_s": 71,
+   "views": 10583,
+   "likes": 308,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "9grcJbx-lts",
+   "title": "\"SCHOOL'S OUT\" John Mulaney's movie pitch for a Law & Order romantic comedy",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-15T18:00:22Z",
+   "duration_s": 334,
+   "views": 10232,
+   "likes": 79,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "hxkY4yuu4fk",
+   "title": "\"SCHOOL'S OUT\" JOHN MULANEY'S PITCH FOR A LAW & ORDER ROMANTIC COMEDY",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-15T18:00:15Z",
+   "duration_s": 69,
+   "views": 28708,
+   "likes": 490,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "CFejF30-6Qw",
+   "title": "The only job Im good at | Spencer Adamus | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-14T17:00:26Z",
+   "duration_s": 233,
+   "views": 3629,
+   "likes": 20,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "YMBzKjkE7hw",
+   "title": "Just For Laughs - Back to School Compilation",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-14T17:00:22Z",
+   "duration_s": 160,
+   "views": 6986,
+   "likes": 243,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "PEP1wzlHcM8",
+   "title": "Jim Breuer - British Guy gets Mauled on Safari",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-12T16:00:02Z",
+   "duration_s": 441,
+   "views": 5214,
+   "likes": 72,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "wFyUUrrYsrQ",
+   "title": "Sir Patrick Stewart wants his eulogy done right",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-10T17:00:23Z",
+   "duration_s": 259,
+   "views": 167927,
+   "likes": 3285,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "jeg68UQ7XHQ",
+   "title": "Sir Patrick Stewart - Eulogy",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-10T17:00:02Z",
+   "duration_s": 103,
+   "views": 34397,
+   "likes": 336,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "GIGsw8i7mYU",
+   "title": "Forrest Shaw - Crisis actors?",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-09T16:00:15Z",
+   "duration_s": 37,
+   "views": 8387,
+   "likes": 163,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "tzHwGwRPYms",
+   "title": "Forrest Shaw - Get a new wife... From the Shelter.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-09T04:00:18Z",
+   "duration_s": 323,
+   "views": 9826,
+   "likes": 97,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "ihjjMt9nQQ0",
+   "title": "Byron Bowers - Mental health like a Nitendo",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-08T16:11:31Z",
+   "duration_s": 226,
+   "views": 8447,
+   "likes": 109,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "ahQVVSO_Cxg",
+   "title": "Byron Bowers - Mental health\ud83d\ude02",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-08T16:00:37Z",
+   "duration_s": 55,
+   "views": 15763,
+   "likes": 201,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "0rEMHm0g6u4",
+   "title": "Not Good At Being Sudanese | Faris Hytiaa | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-08T03:12:08Z",
+   "duration_s": 332,
+   "views": 55856,
+   "likes": 518,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "njM_TSpMGcA",
+   "title": "Watch Pete Davidson\u2019s best moments at Just For Laughs and catch him live in Toronto on September 26",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-09-03T18:00:23Z",
+   "duration_s": 117,
+   "views": 5207,
+   "likes": 129,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "OAhWPAkUJTM",
+   "title": "I look like i escaped a cult | Rachel Manson | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-31T21:26:06Z",
+   "duration_s": 238,
+   "views": 7463,
+   "likes": 56,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "XJWoQAuSGCM",
+   "title": "Turns out, raising two teenage girls is harder than running a country. \ud83d\ude02",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-31T17:36:30Z",
+   "duration_s": 36,
+   "views": 18827,
+   "likes": 303,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "6n-roQsfHmE",
+   "title": "Johnny Pemberton - This is what America Sounds like",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-29T15:30:29Z",
+   "duration_s": 83,
+   "views": 11226,
+   "likes": 341,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "bZ8ZL7rADCs",
+   "title": "Jonathan Van Ness Has Some Thoughts About Canada | Just For Laughs",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-28T16:00:14Z",
+   "duration_s": 305,
+   "views": 8997,
+   "likes": 48,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "2-cagUSgYMo",
+   "title": "From Fire Island to Loot, Catch Joel Kim Booster live in Toronto for two nights of comedy!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-25T16:32:01Z",
+   "duration_s": 40,
+   "views": 24122,
+   "likes": 319,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "aHwh9HRP9Oc",
+   "title": "My phone is non binary | Ahren Belisle | The New Wave Of Standup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-25T01:05:58Z",
+   "duration_s": 161,
+   "views": 1567,
+   "likes": 74,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "_3_la_tebgc",
+   "title": "Kev Adams is learning that \"hang out\" may be too versatile a term.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-22T16:00:09Z",
+   "duration_s": 116,
+   "views": 31285,
+   "likes": 899,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "awEg5WxG5XY",
+   "title": "Joe List takes the stage at Just For Laughs Toronto.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-21T16:00:32Z",
+   "duration_s": 97,
+   "views": 8441,
+   "likes": 150,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "rkUFPsqTrJc",
+   "title": "Joe List's Parenting Advice is Completely Unhinged",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-21T12:00:28Z",
+   "duration_s": 353,
+   "views": 3220,
+   "likes": 81,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "2MIvMFPxMXA",
+   "title": "Tom Rhodes - I Peed on the Colosseum",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-20T13:00:33Z",
+   "duration_s": 64,
+   "views": 10073,
+   "likes": 95,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "rFz2DJdwO4U",
+   "title": "Tom Rhodes Stand Up Comedy - I Peed on the Colosseum",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-20T13:00:13Z",
+   "duration_s": 237,
+   "views": 927,
+   "likes": 39,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Hhzaybs2yEY",
+   "title": "From The Tonight Show to Kevin Hart\u2019s Funny AF, Caitlin Peluffo is impossible to ignore.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-19T16:00:31Z",
+   "duration_s": 64,
+   "views": 4617,
+   "likes": 181,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "yGboewdsnVM",
+   "title": "The New Wave Of Standup | Brandon Ash-Mohammed",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-18T00:14:51Z",
+   "duration_s": 592,
+   "views": 1059,
+   "likes": 30,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "F5-Xw2rNLA0",
+   "title": "Rewatch Rory Scovel at Just For Laughs as his new special Hired Gun is now streaming on Netflix!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-14T16:00:07Z",
+   "duration_s": 46,
+   "views": 20553,
+   "likes": 386,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "LnZnGaUiPfg",
+   "title": "Rory Scovel, get high and go grocery shopping",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-14T15:09:57Z",
+   "duration_s": 200,
+   "views": 5646,
+   "likes": 112,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "s0VvojqyRAg",
+   "title": "Murder mystery with no suspects. It was an inside job. \ud83d\udd75\ufe0f\u200d\u2640\ufe0f #SasheerZamata",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-12T16:00:25Z",
+   "duration_s": 51,
+   "views": 8133,
+   "likes": 134,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "2_632NgCmSA",
+   "title": "Sasheer Zamata - One in four chance I\u2019m bleeding",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-12T13:30:29Z",
+   "duration_s": 391,
+   "views": 4486,
+   "likes": 278,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "M278gXnXvyU",
+   "title": "We caught up with the SMOSH crew to talk Reddit, Montr\u00e9al crowds, cocktail culture, and more. \ud83c\udf78\ud83d\udcd6",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-11T16:00:01Z",
+   "duration_s": 80,
+   "views": 4279,
+   "likes": 133,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "AMy1FGqyVyU",
+   "title": "SMOSH Quick Fire Reading Reddit Stories Q&A at Just For Laughs Montr\u00e9al",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-11T13:30:14Z",
+   "duration_s": 390,
+   "views": 26764,
+   "likes": 1611,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "65RpFSefiDE",
+   "title": "Honest mistake\u2026 \ud83d\udc80 #TommyLittle",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-10T16:00:18Z",
+   "duration_s": 31,
+   "views": 12632,
+   "likes": 118,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "X7RVpyEOWa0",
+   "title": "Tommy Little - Dice tattooed on my nuts",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-10T13:30:08Z",
+   "duration_s": 367,
+   "views": 1006,
+   "likes": 43,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "tGq5Mkck3QA",
+   "title": "Forget therapy. Club bathroom girls have your back. \ud83d\udc80",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-08T16:00:30Z",
+   "duration_s": 60,
+   "views": 17270,
+   "likes": 313,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "HiJ8uGosB78",
+   "title": "Felicity Ward - Pregnant mainly for the career boost.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-08T13:30:19Z",
+   "duration_s": 303,
+   "views": 1988,
+   "likes": 59,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "iQQe2qzoAAM",
+   "title": "Becky Lucas - I hope I\u2019ve got a thyroid condition.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-06T13:30:25Z",
+   "duration_s": 236,
+   "views": 3080,
+   "likes": 114,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "ZX_164nxrG4",
+   "title": "Just for laughs Montreal Festival 2026 - from the archives",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-04T13:00:21Z",
+   "duration_s": 90,
+   "views": 3461,
+   "likes": 73,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Qz0sUw-XPtM",
+   "title": "The New Wave Of Standup | Ahren Belisle",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-03T20:36:22Z",
+   "duration_s": 493,
+   "views": 1962,
+   "likes": 78,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "DD9B4BTiU1I",
+   "title": "For Kev Adams there's at least one key difference between cinema and horror films.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-03T20:00:04Z",
+   "duration_s": 72,
+   "views": 12322,
+   "likes": 216,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "CUKQfL5-CIw",
+   "title": "Xavier Mortimer Levitates Above a Crowded Harbour in Broad Daylight!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-08-01T17:31:34Z",
+   "duration_s": 34,
+   "views": 4299,
+   "likes": 53,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "A3dwLZOCDWY",
+   "title": "Weird Al Yankovic Rocks the 2026 Just for Laughs Festival",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-30T18:56:51Z",
+   "duration_s": 84,
+   "views": 14219,
+   "likes": 554,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "H5tgg7OvBms",
+   "title": "The New Wave Of Standup | Kyle Brownrigg",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-27T23:50:37Z",
+   "duration_s": 510,
+   "views": 1678,
+   "likes": 68,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "FmM22LmuHk4",
+   "title": "The New Wave Of Standup | Alistair Ogden",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-27T23:47:36Z",
+   "duration_s": 584,
+   "views": 1495,
+   "likes": 56,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "KLLooMKisYM",
+   "title": "Tiffany Haddish LOVES Montr\u00e9al",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-22T20:00:17Z",
+   "duration_s": 399,
+   "views": 3647,
+   "likes": 100,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "HTkcmt3_Pvk",
+   "title": "Everyone say \"Bonjour Tiffany\" \ud83d\ude18\ud83d\ude18\ud83d\ude18",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-22T20:00:06Z",
+   "duration_s": 51,
+   "views": 11086,
+   "likes": 173,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "nVQLl1LtH7o",
+   "title": "Mike Birbiglia\u2019s a champion scrambler, so long as he doesn\u2019t look at anything.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-20T20:00:17Z",
+   "duration_s": 90,
+   "views": 15141,
+   "likes": 380,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "K2Q4cauzu0U",
+   "title": "Mike Birbiglia \u201cI Got to Get Into The Makeout Club\"",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-20T13:00:17Z",
+   "duration_s": 512,
+   "views": 1460,
+   "likes": 53,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "t48UPoS43qU",
+   "title": "Joel Kim Booster doesn't appreciate your \"of course\" face.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-20T12:41:41Z",
+   "duration_s": 40,
+   "views": 31363,
+   "likes": 578,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "xCEWYCL8k5c",
+   "title": "It's safe to say the Jim Breuer isn't the biggest football fan, no matter if it's World Cup or not.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-19T16:29:49Z",
+   "duration_s": 90,
+   "views": 39576,
+   "likes": 992,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "JIIvBYHyXMo",
+   "title": "Jim Breuer World Cup",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-19T15:58:39Z",
+   "duration_s": 237,
+   "views": 8921,
+   "likes": 209,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "RODT0-A3jtc",
+   "title": "Joel Kim Booster - Hot And Single Is a Prison of Your Own Making",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-19T13:32:50Z",
+   "duration_s": 239,
+   "views": 4596,
+   "likes": 153,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "fcQ_yKtmths",
+   "title": "We can\u2019t wait to unveil the 2026 New Faces of Comedy.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-18T16:00:03Z",
+   "duration_s": 50,
+   "views": 4777,
+   "likes": 68,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "QehzVGImWLg",
+   "title": "Marito Lopez knows that his mom's name is none of his business.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-17T16:00:03Z",
+   "duration_s": 87,
+   "views": 15894,
+   "likes": 437,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "7t2_o1211Eg",
+   "title": "Marito Lopez - You Know Your Mom's Name?!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-17T13:47:04Z",
+   "duration_s": 254,
+   "views": 936,
+   "likes": 43,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "TBW9PWvptTM",
+   "title": "Keith Pedro can tell your credit score from just from looking at your cellphone bill.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-16T16:00:07Z",
+   "duration_s": 52,
+   "views": 11366,
+   "likes": 118,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "NDVncEtgbZo",
+   "title": "Keith Pedro BAM! Midlife Crisis",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-16T13:00:17Z",
+   "duration_s": 252,
+   "views": 1203,
+   "likes": 32,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "EmXLDk5-ogo",
+   "title": "Sorry Millennials, when it comes to haters the call is coming from inside the house.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-15T16:00:28Z",
+   "duration_s": 73,
+   "views": 29171,
+   "likes": 1048,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "UjWEmbt0Dlo",
+   "title": "Dan Soder - Russians are the Scariest White People",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-15T13:00:28Z",
+   "duration_s": 332,
+   "views": 188565,
+   "likes": 4796,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "fMiI9W3Uphs",
+   "title": "The New Wave Of Standup | Eva Alexopoulos",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-15T04:01:46Z",
+   "duration_s": 562,
+   "views": 1323,
+   "likes": 47,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "3XzfybMW9pw",
+   "title": "In honour of Bastille Day, Kev Adams runs us through the differences between the US and France.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-14T14:00:38Z",
+   "duration_s": 187,
+   "views": 3743,
+   "likes": 86,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "YeKZ13osEoI",
+   "title": "Get a glimpse of Maria Bamford's greatest JFL moments, because there is truly nobody like her",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-13T16:00:21Z",
+   "duration_s": 86,
+   "views": 3651,
+   "likes": 152,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "_yOlbcuJboM",
+   "title": "The New Wave Of Standup | Spencer Adamus",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-07T00:37:25Z",
+   "duration_s": 545,
+   "views": 3339,
+   "likes": 65,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "xAkEomuAPWI",
+   "title": "Red, White & Roasted. \ud83c\uddfa\ud83c\uddf8 God Bless America.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-04T13:30:04Z",
+   "duration_s": 111,
+   "views": 22460,
+   "likes": 669,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "3NqvBoGznNo",
+   "title": "Kev Adams learned that in America, all roads leads to Taco Bell \ud83c\udf2e",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-03T16:00:34Z",
+   "duration_s": 52,
+   "views": 1026575,
+   "likes": 33294,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "kBA7QLGtC6k",
+   "title": "Maybe surviving Canadian winters builds character. Or maybe it just builds comedians. #CanadaDay",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-07-01T13:36:58Z",
+   "duration_s": 93,
+   "views": 24784,
+   "likes": 327,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "2eyK45yi-lg",
+   "title": "The New Wave Of Standup | Sophia Johnson",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-29T21:43:24Z",
+   "duration_s": 588,
+   "views": 1930,
+   "likes": 56,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "pW7VNuO0-Y8",
+   "title": "When the heatwave is this bad, don\u2019t make me do Fahrenheit math. #JimJefferies",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-29T16:00:35Z",
+   "duration_s": 69,
+   "views": 8235,
+   "likes": 168,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "lfFbQ9vPBPA",
+   "title": "Jim Jeffries- \u201cCelsius, Canada and Fat Shaming\"",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-29T13:30:19Z",
+   "duration_s": 290,
+   "views": 42375,
+   "likes": 697,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "LSSyyO9xVDQ",
+   "title": "when you\u2019re hot\u2026.for someone with an \u201cold polish cabbage farmer\u201d name. #EstherPovitsky",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-27T16:00:38Z",
+   "duration_s": 65,
+   "views": 23053,
+   "likes": 375,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "587YaDiwkBM",
+   "title": "Esther Povitsky \u201cHot for My Name\"",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-27T13:24:30Z",
+   "duration_s": 280,
+   "views": 4696,
+   "likes": 136,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "_YANCjiOj4c",
+   "title": "sorry, kid, that\u2019s not a very happy meal then is it? #JoneDore",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-26T20:00:35Z",
+   "duration_s": 47,
+   "views": 24856,
+   "likes": 206,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "MLAmx_20HNc",
+   "title": "Can you name the comedian before the reveal? Comment your guess. \ud83d\udc47",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-26T16:00:09Z",
+   "duration_s": 31,
+   "views": 1954,
+   "likes": 12,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "bnW8w1InmCA",
+   "title": "Jon Dore - Happy Meal Strategy",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-26T13:07:27Z",
+   "duration_s": 231,
+   "views": 4146,
+   "likes": 63,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "21iB59uHeQg",
+   "title": "Making friends as an adult is never not weird, but a \"toddler rave\" is a new low @climatecomedian",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-22T16:00:30Z",
+   "duration_s": 70,
+   "views": 22673,
+   "likes": 444,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "OWOcP3ERp2E",
+   "title": "Stuart Goldsmith - Making Friends as an Adult",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-22T13:38:35Z",
+   "duration_s": 291,
+   "views": 8828,
+   "likes": 74,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Um7V2CUfcC4",
+   "title": "Kev Adams knows that girls and wifi have more in common than you think!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-21T16:00:26Z",
+   "duration_s": 106,
+   "views": 10422,
+   "likes": 249,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "BCI1Af6Kq9s",
+   "title": "More like LOLGTBQ amirite? Happy Pride Month to the girls, gays theys and everyone in between!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-18T16:00:26Z",
+   "duration_s": 111,
+   "views": 8899,
+   "likes": 189,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "y_OlkN1Wxbo",
+   "title": "When you run out of people to impress\u2026 get a pet .\ud83d\udc29\ud83d\ude02",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-16T16:00:23Z",
+   "duration_s": 52,
+   "views": 12728,
+   "likes": 194,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "KUV8vVu_r78",
+   "title": "call 'em daddy, it's almost father's day after all.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-12T16:00:03Z",
+   "duration_s": 108,
+   "views": 4442,
+   "likes": 88,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "x_AiOcmrG0E",
+   "title": "The New Wave Of Standup | Rachel Manson",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-08T21:10:52Z",
+   "duration_s": 492,
+   "views": 2550,
+   "likes": 57,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "66M4VbdglRE",
+   "title": "I did not think that's what Jay was short for TBH. @JayPharoahComedy",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-08T16:00:19Z",
+   "duration_s": 60,
+   "views": 6731,
+   "likes": 111,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "UgYWphNGbRo",
+   "title": "Jay Pharoah - That's not my name",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-08T13:21:47Z",
+   "duration_s": 230,
+   "views": 18308,
+   "likes": 106,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "nXKk_s8vaoU",
+   "title": "If you've just discovered @KevAdamsss on @AGT, start here.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-07T14:00:34Z",
+   "duration_s": 175,
+   "views": 69346,
+   "likes": 1980,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "I6E4RJH7uvU",
+   "title": "when you\u2019re born in 1925, everything\u2019s a shocker. @RussellPeters",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-06T16:00:22Z",
+   "duration_s": 42,
+   "views": 24878,
+   "likes": 350,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "GwaE3UDAz_E",
+   "title": "Russel Peters | Romanian is a Colour",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-06T13:15:57Z",
+   "duration_s": 348,
+   "views": 260255,
+   "likes": 4543,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "zV4V8F3svDg",
+   "title": "A challenge that not even DuoLingo can help you figure out. @RonnyChieng",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-02T16:00:19Z",
+   "duration_s": 58,
+   "views": 10982,
+   "likes": 170,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "mg729saedGE",
+   "title": "Ronny Chieng - Asian People Are The Best",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-02T13:30:13Z",
+   "duration_s": 417,
+   "views": 393993,
+   "likes": 3089,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "WfkfmWpoXNw",
+   "title": "The New Wave Of Standup | Salma Hindy",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-01T23:07:27Z",
+   "duration_s": 563,
+   "views": 3303,
+   "likes": 126,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Q1Nkp0T3GsA",
+   "title": "Silence those Grindr notifications, book that cat sitter, we\u2019re kicking off Pride Month!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-06-01T14:00:26Z",
+   "duration_s": 55,
+   "views": 4013,
+   "likes": 66,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "If0l1S06CVE",
+   "title": "and you thought the worst part of diarrhea was having it. @MichaelKosta",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-30T16:00:12Z",
+   "duration_s": 107,
+   "views": 4716,
+   "likes": 122,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "_quBvWk4GC0",
+   "title": "Michael Kosta - Phones made me forget every number",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-30T13:30:37Z",
+   "duration_s": 260,
+   "views": 3384,
+   "likes": 103,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "J2MLw4wei_A",
+   "title": "One night in Bangkok\u2026 #RalphieMay",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-29T16:00:01Z",
+   "duration_s": 66,
+   "views": 40626,
+   "likes": 529,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "JWcZkZ8cRVA",
+   "title": "Ralphie May | The Elephant",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-29T13:30:18Z",
+   "duration_s": 202,
+   "views": 7530,
+   "likes": 124,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "9iMLKriSR84",
+   "title": "The New Wave Of Standup | Alannah Brittany",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-26T19:37:23Z",
+   "duration_s": 595,
+   "views": 3730,
+   "likes": 38,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "m3zKTf-BmNM",
+   "title": "Nobody escapes the Alonzo Bodden smoke in this set.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-22T16:01:06Z",
+   "duration_s": 62,
+   "views": 20949,
+   "likes": 289,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "bfOqiR3jAXU",
+   "title": "Alonzo Bodden Just For Laughs Festival",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-22T13:30:19Z",
+   "duration_s": 259,
+   "views": 2835,
+   "likes": 110,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "w5OEYK9NHN8",
+   "title": "Habs in four! Feel the blue, blanc, rouge spirit with this throwback clip of PK Subban.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-21T16:01:27Z",
+   "duration_s": 127,
+   "views": 3107,
+   "likes": 87,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "p2mwFtkzYos",
+   "title": "P.K. Subban Had the Crowd in a CHOKEHOLD at Just For Laughs",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-21T14:52:33Z",
+   "duration_s": 327,
+   "views": 1527,
+   "likes": 48,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "_i7Rp-Dee5k",
+   "title": "Catch up on Wanda Sykes JFL moments as her new special LEGACY is now streaming on Netflix!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-19T16:00:43Z",
+   "duration_s": 106,
+   "views": 82184,
+   "likes": 3672,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "efUl0biaBMo",
+   "title": "Everybody knows how drunk you are at 30, let's sit this one out next time shall we\ud83d\ude29 #BradMacdonald",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-18T16:22:46Z",
+   "duration_s": 51,
+   "views": 19876,
+   "likes": 298,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "vbdeqD0sdwU",
+   "title": "we've come a long way from \"your mom\" jokes. Check out this mother's day comedy medley on our \ud83d\udcfa",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-10T15:01:32Z",
+   "duration_s": 98,
+   "views": 20618,
+   "likes": 512,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "Z-9sUp8VDYQ",
+   "title": "Before she was a Funny AF finalist Caitlin Peluffo was busting sides as one of our New Faces.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-05T16:01:04Z",
+   "duration_s": 64,
+   "views": 5469,
+   "likes": 177,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "bWgZPGwGVyY",
+   "title": "Caitlin Peluffo | Tiny Guys",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-05T13:54:40Z",
+   "duration_s": 470,
+   "views": 8623,
+   "likes": 319,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "XzEs-_2x1DI",
+   "title": "No doubt, Kevin Hart's always been Funny AF.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-04T15:14:38Z",
+   "duration_s": 97,
+   "views": 85050,
+   "likes": 1507,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "kHC91DUzk54",
+   "title": "To \"furbaby\" or not to \"furbaby\"? Rhys Nicholson has thoughts.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-02T16:01:07Z",
+   "duration_s": 44,
+   "views": 12446,
+   "likes": 110,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "9cTmw0QVFu4",
+   "title": "Rhys Nicholson on Fur Babies and Dog People | Just For Laughs",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-05-02T13:30:11Z",
+   "duration_s": 349,
+   "views": 2977,
+   "likes": 90,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "LYQpiwhQ2fY",
+   "title": "Ron Funches with the upgraded to-do list hack",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-28T15:27:06Z",
+   "duration_s": 62,
+   "views": 28866,
+   "likes": 802,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "XANDA52INB0",
+   "title": "Ron Funches | My son is a 10-year-old mob boss",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-28T15:14:21Z",
+   "duration_s": 338,
+   "views": 14939,
+   "likes": 328,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "315VG6o9o8k",
+   "title": "The New Wave Of Standup | Heidi Brander",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-28T01:35:43Z",
+   "duration_s": 469,
+   "views": 1713,
+   "likes": 62,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "biX1tDCZO60",
+   "title": "Ashima Franklin is unapologetically about that luxe life. Catch her on the Michelle Buteau Gala!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-26T16:00:51Z",
+   "duration_s": 76,
+   "views": 10754,
+   "likes": 227,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "KbBIC2AtvEw",
+   "title": "Nikki Glaser core \ud83e\uddda Congrats on the Good Girl launch, you've always been a real one Nikki \ud83d\ude42\u200d\u2195\ufe0f",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-24T16:30:44Z",
+   "duration_s": 90,
+   "views": 43297,
+   "likes": 303,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "XhDdumXO_rI",
+   "title": "JUST ANNOUNCED! Gerry Dee Gala is coming to Just For Laughs Montreal.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-23T16:01:02Z",
+   "duration_s": 75,
+   "views": 13350,
+   "likes": 166,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "PWoMPMgTezw",
+   "title": "Gerry Dee | I never ACTUALLY marked your tests",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-23T13:30:26Z",
+   "duration_s": 452,
+   "views": 3262,
+   "likes": 86,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "usUA5vundF0",
+   "title": "Atsuko Okatsuka is coming to Just For Laughs Montreal to host a Gala!",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-22T16:01:28Z",
+   "duration_s": 83,
+   "views": 52281,
+   "likes": 513,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "kClSPa7amAY",
+   "title": "The New Wave Of Standup | Jacob Balshin",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-21T06:55:12Z",
+   "duration_s": 449,
+   "views": 1220,
+   "likes": 43,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "m97AHk9wr44",
+   "title": "Cat Cohen's a poet, wouldn't you know it?",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-20T16:01:14Z",
+   "duration_s": 66,
+   "views": 6608,
+   "likes": 95,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "m85yOHv-PSw",
+   "title": "and a very happy 420 to those who celebrate \ud83c\udf43",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-19T16:01:15Z",
+   "duration_s": 91,
+   "views": 27560,
+   "likes": 612,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "IWEFhxU-dI4",
+   "title": "\"Weird Al\" is BACK, Bigger & Weirder than ever. Don't miss the epic show LIVE.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-18T16:00:32Z",
+   "duration_s": 73,
+   "views": 23090,
+   "likes": 831,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "-r0YdlB7h3g",
+   "title": "\"Weird Al\" Yankovic | Musical comedy needs to be celebrated",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-18T13:30:00Z",
+   "duration_s": 237,
+   "views": 1922,
+   "likes": 123,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "scu5ibHDgHs",
+   "title": "This is not a drill; the 2026 lineup is hot, stacked, and we're just getting started.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-17T14:01:39Z",
+   "duration_s": 33,
+   "views": 2563,
+   "likes": 16,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "zyoQsBPAHoc",
+   "title": "#MichelleButeau is the mood and is the moment.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-14T16:01:49Z",
+   "duration_s": 90,
+   "views": 47343,
+   "likes": 1128,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "LHNUdLAtQwE",
+   "title": "@SABRINAJALEESdotCOM scores a \"lesbian grand slam\" and more.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-13T14:00:28Z",
+   "duration_s": 51,
+   "views": 8122,
+   "likes": 123,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "gUT_NfePIxg",
+   "title": "@SarahKeyworthComedy's favourite thing, you ask?",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-12T20:00:23Z",
+   "duration_s": 86,
+   "views": 21508,
+   "likes": 561,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "N-edfYesNNk",
+   "title": "@HeylandoShow knows where it's at",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-12T15:00:37Z",
+   "duration_s": 81,
+   "views": 4814,
+   "likes": 84,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "AgZOduiDawU",
+   "title": "Orlando Leyba | Married men should NOT have abs",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-12T13:30:10Z",
+   "duration_s": 324,
+   "views": 4714,
+   "likes": 131,
+   "comedian_slug": "just-for-laughs"
+  },
+  {
+   "videoId": "La2BtMYPHcY",
+   "title": "@BradWilliamsComedy isn't hard to please.",
+   "channel": "Just For Laughs",
+   "publishedAt": "2026-04-11T16:08:16Z",
+   "duration_s": 76,
+   "views": 52353,
+   "likes": 1237,
+   "comedian_slug": "just-for-laughs"
+  }
+ ]
+}

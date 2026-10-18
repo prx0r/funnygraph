@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "UK based Andy Parsons is a stand up comedian and writer. He was a regular on the BBC2 panel show, Mock the Week until 2015. He is the host of the Slacktivist Action Group podcast. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/andy-parsons/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/andy-parsons/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -80,7 +83,7 @@
     "legacy": 50.2,
     "legacy_era": 74.4,
     "audience": null,
-    "popularity": null,
+    "popularity": 15.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -88,7 +91,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -114,12 +117,49 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 465,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "DUeCv17L7bA",
+      "title": "Liz Truss vs Boris vs Churchill (Statue Edition) | Andy Parsons",
+      "views": 465,
+      "duration_s": 161,
+      "url": "https://www.youtube.com/watch?v=DUeCv17L7bA",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/andy-parsons/clips/andy-parsons-duecv17l7ba.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 415,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q1754637",
+    "dob": "1966-11-30",
+    "dod": null,
+    "birthplace": "Weymouth",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

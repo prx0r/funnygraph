@@ -1,0 +1,38 @@
+{
+ "comedian_id": "shawn-uyosa",
+ "name": "Shawn Uyosa",
+ "clips": 1,
+ "total_views": 1800,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "vOBjiogaPCY",
+  "title": "Guns | Shawn Uyosa | Craic Den Comedy Club | #america #comedy #standupcomedy #funny #irish",
+  "channel": "@craicdencomedyclub",
+  "views": 1800,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=vOBjiogaPCY",
+  "r2_clip_key": "comedians/shawn-uyosa/clips/shawn-uyosa-vobjiogapcy.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shawn-uyosa/clips/shawn-uyosa-vobjiogapcy.json"
+ },
+ "rows": [
+  {
+   "videoId": "vOBjiogaPCY",
+   "title": "Guns | Shawn Uyosa | Craic Den Comedy Club | #america #comedy #standupcomedy #funny #irish",
+   "channel": "@craicdencomedyclub",
+   "views": 1800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=vOBjiogaPCY",
+   "n_words": 113,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Can the Americans make some noise? Do you own any guns? Did you hear him get horny? He got horny. He was like, \"Guns, this is what I'm talking about.\" And what have you shot at? Oh, deer and rabbits. ",
+   "r2_clip_key": "comedians/shawn-uyosa/clips/shawn-uyosa-vobjiogapcy.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shawn-uyosa/clips/shawn-uyosa-vobjiogapcy.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "niall-fulton",
+ "name": "Niall Fulton",
+ "clips": 1,
+ "total_views": 58,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "wQb953mE8i0",
+  "title": "Chris Thorburn Profile",
+  "channel": "Niall Fulton",
+  "views": 58,
+  "duration_s": 157,
+  "url": "https://www.youtube.com/watch?v=wQb953mE8i0",
+  "r2_clip_key": "comedians/niall-fulton/clips/niall-fulton-wqb953me8i0.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/niall-fulton/clips/niall-fulton-wqb953me8i0.json"
+ },
+ "rows": [
+  {
+   "videoId": "wQb953mE8i0",
+   "title": "Chris Thorburn Profile",
+   "channel": "Niall Fulton",
+   "views": 58,
+   "likes": null,
+   "duration_s": 157,
+   "url": "https://www.youtube.com/watch?v=wQb953mE8i0",
+   "n_words": 363,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "hello i'm zoe de chanel and it's wonderful to be here musical comedy is hard to write musical comedy can easily turn out shite chris thorburn is an amateur comedian working in the west of scotland dur",
+   "r2_clip_key": "comedians/niall-fulton/clips/niall-fulton-wqb953me8i0.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/niall-fulton/clips/niall-fulton-wqb953me8i0.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

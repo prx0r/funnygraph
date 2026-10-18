@@ -29,9 +29,12 @@
   "discovery": {
     "discovered_from": [
       "comedyville-2026",
-      "tiktok"
+      "tiktok",
+      "r2:comedy-specials"
     ],
-    "discovery_note": "TikTok crowd-work \u2192 touring juggernaut"
+    "discovery_note": "TikTok crowd-work \u2192 touring juggernaut",
+    "r2_comedian": true,
+    "r2_specials": 3
   },
   "theory_score": null,
   "nearest_greats": [
@@ -61,7 +64,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 16.6,
+    "popularity": 5.4,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -92,7 +95,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -119,5 +122,30 @@
     "via": "andrew-schulz",
     "sim": 0.196,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  }
+  },
+  "set_queue": {
+    "note": "3 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "matthew-steven-rife",
+      "unwrapped-a-christmas-crowd-work-special-2025",
+      "natural-selection-2023"
+    ],
+    "special_titles": [
+      "Matt Rife: Matthew Steven Rife",
+      "Matt Rife: Unwrapped \u2013 A Christmas Crowd Work Special (2025)",
+      "Matt Rife: Natural Selection (2023)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 31872,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

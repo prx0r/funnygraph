@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Emily-Anne Lyons, or Elf Lyons to her friends and fans, is a UK based stand up comedian, writer, actor, teacher and director. She set up Soho Theatre \u2018s Comedy Labs Plus course. She also travels the UK and Europe delivering clowning workshops to both artists and non-artists. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Origin Story: Elf Lyons On The Mic Wednesday, July 17th, 2024 LISTEN HERE Elf Lyons On The Mic Saturday, July 7th, 2018 READ INTERVIEW Elf Lyons On The Mic Sunday, July 30th, 2017 READ INTERVIEW Elf Lyons On The Mic Thursday, July 17th, 2014 READ I",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/elf-lyons/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/elf-lyons/",
+    "r2_comedian": true,
+    "r2_clips": 13
   },
   "sets": [],
   "essay_seeds": [],
@@ -84,7 +87,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 54.1,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -110,12 +113,48 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "youtube": {
+    "clips": 13,
+    "total_views": 31479,
+    "timed_clips": 13,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "8b5HHcjuzDk",
+      "title": "Worst Things I\u2019ve Bought Drunk | Elf Lyons' Life Lesson",
+      "views": 11539,
+      "duration_s": 157,
+      "url": "https://www.youtube.com/watch?v=8b5HHcjuzDk",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/elf-lyons/clips/elf-lyons-8b5hhcjuzdk.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3457,
+    "special_words": 0,
+    "timed_clips": 13,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q16902196",
+    "dob": "1991-06-10",
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "stand-up comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

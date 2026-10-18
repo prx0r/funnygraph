@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "He won the Edinburgh Comedy Award for Best Newcomer in 2014 and was nominated for Best Show in the same competition in 2018. Alex wrote and presented several series of Alex Edelman\u2019s Peer Group (BBC Radio 4). PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Alex Edelman On The Mic Sunday, July 20th, 2014 READ INTERVIEW Alex Edelman On The Mic Sunday, June 24th, 2018 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum ",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/alex-edelman/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/alex-edelman/",
+    "r2_comedian": true,
+    "r2_specials": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -110,12 +113,44 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "set_queue": {
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "just-for-us-2024"
+    ],
+    "special_titles": [
+      "Alex Edelman: Just for Us (2024)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 13429,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q22277661",
+    "dob": "1989-03-20",
+    "dod": null,
+    "birthplace": "Boston",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "film screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

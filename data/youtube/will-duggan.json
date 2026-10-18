@@ -1,0 +1,38 @@
+{
+ "comedian_id": "will-duggan",
+ "name": "Will Duggan",
+ "clips": 1,
+ "total_views": 8100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "qBMsum_jwNo",
+  "title": "Wait... You're How Old?! | Will Duggan | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 8100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=qBMsum_jwNo",
+  "r2_clip_key": "comedians/will-duggan/clips/will-duggan-qbmsum_jwno.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/will-duggan/clips/will-duggan-qbmsum_jwno.json"
+ },
+ "rows": [
+  {
+   "videoId": "qBMsum_jwNo",
+   "title": "Wait... You're How Old?! | Will Duggan | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 8100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=qBMsum_jwNo",
+   "n_words": 97,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "You, you, you're very young. How old are you? 46. 40 what? 46. >> 46. [\u00a0__\u00a0] you're rich. That's the secret, isn't it? I'm 46 and I've got a trust fund. I understand. I understand. I'm nearly 40. Why ",
+   "r2_clip_key": "comedians/will-duggan/clips/will-duggan-qbmsum_jwno.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/will-duggan/clips/will-duggan-qbmsum_jwno.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

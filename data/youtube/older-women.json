@@ -1,0 +1,38 @@
+{
+ "comedian_id": "older-women",
+ "name": "Older Women",
+ "clips": 1,
+ "total_views": 8700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "CEWE8GLQc1I",
+  "title": "Older Women - Dom LTR - Live at The Bearcat  #standupcomedy #comedy",
+  "channel": "@BearcatComedyClub",
+  "views": 8700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=CEWE8GLQc1I",
+  "r2_clip_key": "comedians/older-women/clips/older-women-cewe8glqc1i.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/older-women/clips/older-women-cewe8glqc1i.json"
+ },
+ "rows": [
+  {
+   "videoId": "CEWE8GLQc1I",
+   "title": "Older Women - Dom LTR - Live at The Bearcat  #standupcomedy #comedy",
+   "channel": "@BearcatComedyClub",
+   "views": 8700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=CEWE8GLQc1I",
+   "n_words": 83,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "My mom told me I was too muscular, which you know pretty devastating when you find out you're not your mom's type. That's really the hardest there. >> [laughter] >> My girlfriend's actually 10 years o",
+   "r2_clip_key": "comedians/older-women/clips/older-women-cewe8glqc1i.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/older-women/clips/older-women-cewe8glqc1i.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

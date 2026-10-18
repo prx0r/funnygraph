@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ily-hamdia",
+ "name": "Ily Hamdia",
+ "clips": 1,
+ "total_views": 134,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "4wNqViJUgm8",
+  "title": "The West Country | Ily Hamdia @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 134,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=4wNqViJUgm8",
+  "r2_clip_key": "comedians/ily-hamdia/clips/ily-hamdia-4wnqvijugm8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ily-hamdia/clips/ily-hamdia-4wnqvijugm8.json"
+ },
+ "rows": [
+  {
+   "videoId": "4wNqViJUgm8",
+   "title": "The West Country | Ily Hamdia @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 134,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=4wNqViJUgm8",
+   "n_words": 95,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I grew up in the West Country. Does anyone else here from the West Country? Give us a cheer. All right, that's >> [laughter] >> just me who grew up sounding like Hagrid then. I'll take it. I'll take t",
+   "r2_clip_key": "comedians/ily-hamdia/clips/ily-hamdia-4wnqvijugm8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ily-hamdia/clips/ily-hamdia-4wnqvijugm8.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

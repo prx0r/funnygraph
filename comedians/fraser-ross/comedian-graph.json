@@ -110,12 +110,23 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q42313353",
+    "dob": "1989-03-29",
+    "dod": null,
+    "birthplace": "New Hampshire",
+    "citizenship": "New Zealand",
+    "occupations": [
+      "basketball coach"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

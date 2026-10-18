@@ -1,0 +1,38 @@
+{
+ "comedian_id": "maisie-adam",
+ "name": "Maisie Adam",
+ "clips": 1,
+ "total_views": 41000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "J0v8WfPmEYI",
+  "title": "This could quite possible be one of my proudest achievements | Maisie Adam",
+  "channel": "@MaisieAdamComedy",
+  "views": 41000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=J0v8WfPmEYI",
+  "r2_clip_key": "comedians/maisie-adam/clips/maisie-adam-j0v8wfpmeyi.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/maisie-adam/clips/maisie-adam-j0v8wfpmeyi.json"
+ },
+ "rows": [
+  {
+   "videoId": "J0v8WfPmEYI",
+   "title": "This could quite possible be one of my proudest achievements | Maisie Adam",
+   "channel": "@MaisieAdamComedy",
+   "views": 41000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=J0v8WfPmEYI",
+   "n_words": 186,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Build a tower of bricks on this trolley, then push it down the slope. The tallest tower that passes the finish line wins. As well as bricks, all the contents of one of these bins must be part of your ",
+   "r2_clip_key": "comedians/maisie-adam/clips/maisie-adam-j0v8wfpmeyi.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/maisie-adam/clips/maisie-adam-j0v8wfpmeyi.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

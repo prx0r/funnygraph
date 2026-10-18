@@ -1,0 +1,38 @@
+{
+ "comedian_id": "michael-mcintyre-showman",
+ "name": "Michael McIntyre: SHOWMAN",
+ "clips": 1,
+ "total_views": 132891,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "5JrUlE8U3eg",
+  "title": "Touring in New Zealand | Michael McIntyre: SHOWMAN | Netflix",
+  "channel": "Comedy Centre",
+  "views": 132891,
+  "duration_s": 170,
+  "url": "https://www.youtube.com/watch?v=5JrUlE8U3eg",
+  "r2_clip_key": "comedians/michael-mcintyre-showman/clips/michael-mcintyre-showman-5jrule8u3eg.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michael-mcintyre-showman/clips/michael-mcintyre-showman-5jrule8u3eg.json"
+ },
+ "rows": [
+  {
+   "videoId": "5JrUlE8U3eg",
+   "title": "Touring in New Zealand | Michael McIntyre: SHOWMAN | Netflix",
+   "channel": "Comedy Centre",
+   "views": 132891,
+   "likes": null,
+   "duration_s": 170,
+   "url": "https://www.youtube.com/watch?v=5JrUlE8U3eg",
+   "n_words": 479,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "new zealand's amazing i love new zealand um but it takes 24 hours as you know to get there from here and that's that's a day of your life gone just gone it's insane and the jet lag is monumental so i ",
+   "r2_clip_key": "comedians/michael-mcintyre-showman/clips/michael-mcintyre-showman-5jrule8u3eg.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/michael-mcintyre-showman/clips/michael-mcintyre-showman-5jrule8u3eg.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

@@ -1,0 +1,3824 @@
+{
+ "generated": "2026-10-18 08:34 UTC",
+ "source": "r2:comedy-specials/comedians",
+ "comedians": 379,
+ "clips": 1497,
+ "total_words": 354377,
+ "per_comedian": {
+  "a-comedy-thing": {
+   "name": "A Comedy Thing",
+   "clips": 68,
+   "words": 9684,
+   "views": 11943238,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "a-comic-soul": {
+   "name": "A Comic Soul",
+   "clips": 1,
+   "words": 588,
+   "views": 27085,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "aaron-simmonds": {
+   "name": "Aaron Simmonds",
+   "clips": 1,
+   "words": 127,
+   "views": 3100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "abandoman": {
+   "name": "Abandoman",
+   "clips": 4,
+   "words": 754,
+   "views": 1073,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "abdullah-afzal": {
+   "name": "Abdullah Afzal",
+   "clips": 3,
+   "words": 396,
+   "views": 10890,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "adam-bloom": {
+   "name": "Adam Bloom",
+   "clips": 1,
+   "words": 129,
+   "views": 28000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "adam-flood": {
+   "name": "ADAM FLOOD",
+   "clips": 1,
+   "words": 156,
+   "views": 1400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "adam-rowe": {
+   "name": "Adam Rowe",
+   "clips": 1,
+   "words": 287,
+   "views": 5898,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ahmed-ibrahim": {
+   "name": "AHMED IBRAHIM",
+   "clips": 1,
+   "words": 178,
+   "views": 1400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "aideen-mcqueen": {
+   "name": "Aideen McQueen",
+   "clips": 5,
+   "words": 633,
+   "views": 9905,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "al-murray": {
+   "name": "Al Murray",
+   "clips": 1,
+   "words": 55,
+   "views": 884000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "al-porter": {
+   "name": "Al Porter",
+   "clips": 1,
+   "words": 205,
+   "views": 961,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "alasdair-beckett-king": {
+   "name": "Alasdair Beckett-King",
+   "clips": 4,
+   "words": 2316,
+   "views": 487000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 4
+  },
+  "alex-haddow": {
+   "name": "Alex Haddow",
+   "clips": 1,
+   "words": 86,
+   "views": 34000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "alex-kitson": {
+   "name": "Alex Kitson",
+   "clips": 1,
+   "words": 73,
+   "views": 29,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "alexander-mason": {
+   "name": "Alexander Mason",
+   "clips": 1,
+   "words": 67,
+   "views": 25000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "alexandra-haddow": {
+   "name": "Alexandra Haddow",
+   "clips": 2,
+   "words": 8809,
+   "views": 2400,
+   "sources": [
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 1
+  },
+  "alfie-brown": {
+   "name": "Alfie Brown",
+   "clips": 11,
+   "words": 2599,
+   "views": 2789334,
+   "sources": [
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "alfie-dundas": {
+   "name": "Alfie Dundas",
+   "clips": 1,
+   "words": 179,
+   "views": 6700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ali-woods": {
+   "name": "ALI WOODS",
+   "clips": 3,
+   "words": 13377,
+   "views": 1500,
+   "sources": [
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 2
+  },
+  "alistair-barrie": {
+   "name": "Alistair Barrie",
+   "clips": 1,
+   "words": 131,
+   "views": 8200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "amused-moose": {
+   "name": "Amused Moose",
+   "clips": 1,
+   "words": 320,
+   "views": 6673,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "amy-gledhill": {
+   "name": "Amy Gledhill",
+   "clips": 1,
+   "words": 5587,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "andrew-bird": {
+   "name": "Andrew Bird",
+   "clips": 2,
+   "words": 154,
+   "views": 100000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "andrew-dorman": {
+   "name": "Andrew Dorman",
+   "clips": 2,
+   "words": 318,
+   "views": 10100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "angela-barnes": {
+   "name": "Angela Barnes",
+   "clips": 1,
+   "words": 150,
+   "views": 22000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "anyone-else": {
+   "name": "ANYONE ELSE?",
+   "clips": 1,
+   "words": 216,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "are-you-russian": {
+   "name": "“Are You Russian?”",
+   "clips": 1,
+   "words": 102,
+   "views": 4400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "arielle-souma": {
+   "name": "Arielle Souma",
+   "clips": 1,
+   "words": 49,
+   "views": 180,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ashlee-bentley": {
+   "name": "Ashlee Bentley",
+   "clips": 1,
+   "words": 125,
+   "views": 28000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "aurie-styla": {
+   "name": "Aurie Styla",
+   "clips": 1,
+   "words": 554,
+   "views": 4930,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ayoade-bamgboye": {
+   "name": "Ayoade Bamgboye",
+   "clips": 1,
+   "words": 223,
+   "views": 177000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "bbc-sounds": {
+   "name": "BBC Sounds",
+   "clips": 1,
+   "words": 427,
+   "views": 1162665,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "being-santa": {
+   "name": "Being Santa",
+   "clips": 1,
+   "words": 117,
+   "views": 21000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "bennett-arron": {
+   "name": "Bennett Arron",
+   "clips": 1,
+   "words": 70,
+   "views": 7100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "best-docs-network": {
+   "name": "Best Docs Network",
+   "clips": 1,
+   "words": 190,
+   "views": 298,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "bill-hicks": {
+   "name": "Bill Hicks",
+   "clips": 1,
+   "words": 253,
+   "views": 0,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "billy-connolly": {
+   "name": "Billy Connolly",
+   "clips": 11,
+   "words": 2633,
+   "views": 27767573,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "bobby-davro": {
+   "name": "Bobby Davro",
+   "clips": 2,
+   "words": 189,
+   "views": 2698000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "bobby-jethro": {
+   "name": "Bobby Jethro",
+   "clips": 13,
+   "words": 3177,
+   "views": 15625762,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "bossnup-records": {
+   "name": "BOSSnUP Records",
+   "clips": 1,
+   "words": 511,
+   "views": 39444519,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "both-ends": {
+   "name": "Both ends?",
+   "clips": 1,
+   "words": 52,
+   "views": 15000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "brain-gallagher": {
+   "name": "Brain Gallagher",
+   "clips": 1,
+   "words": 96,
+   "views": 11000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "breda-hegarty": {
+   "name": "Breda Hegarty",
+   "clips": 3,
+   "words": 419,
+   "views": 8400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "brendan-dempsey": {
+   "name": "Brendan Dempsey",
+   "clips": 1,
+   "words": 102,
+   "views": 2700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "brian-gallagher": {
+   "name": "Brian Gallagher",
+   "clips": 1,
+   "words": 165,
+   "views": 1700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "brit-spotlight": {
+   "name": "Brit Spotlight",
+   "clips": 1,
+   "words": 374,
+   "views": 48,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "british-comedy-guide": {
+   "name": "British Comedy Guide",
+   "clips": 1,
+   "words": 110,
+   "views": 1494371,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "british-pride-prejudice": {
+   "name": "British Pride (& Prejudice)",
+   "clips": 1,
+   "words": 61,
+   "views": 29000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "c-mon-boots": {
+   "name": "C'MON BOOTS!",
+   "clips": 1,
+   "words": 96,
+   "views": 9700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "californian-lovin": {
+   "name": "Californian Lovin'",
+   "clips": 1,
+   "words": 81,
+   "views": 2200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "catherine-bohart": {
+   "name": "Catherine Bohart",
+   "clips": 10,
+   "words": 3246,
+   "views": 43037,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "cats-does-countdown": {
+   "name": "Cats Does Countdown",
+   "clips": 1,
+   "words": 251,
+   "views": 30106,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "cecily-hitchcock": {
+   "name": "Cecily Hitchcock",
+   "clips": 12,
+   "words": 2841,
+   "views": 8276664,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "celya-ab": {
+   "name": "Celya AB",
+   "clips": 12,
+   "words": 2876,
+   "views": 23621997,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "charlie-baker": {
+   "name": "Charlie Baker",
+   "clips": 8,
+   "words": 2046,
+   "views": 151963,
+   "sources": [
+    "bbc-radio",
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "chatting-up-women": {
+   "name": "Chatting Up Women",
+   "clips": 1,
+   "words": 208,
+   "views": 368994,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "cheryl-hurst": {
+   "name": "Cheryl Hurst",
+   "clips": 1,
+   "words": 216,
+   "views": 432,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "chloe-petts": {
+   "name": "Chloe Petts",
+   "clips": 3,
+   "words": 637,
+   "views": 150,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "chris-cantrill": {
+   "name": "Chris Cantrill",
+   "clips": 13,
+   "words": 3159,
+   "views": 2631724,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "chris-thorburn": {
+   "name": "Chris Thorburn",
+   "clips": 1,
+   "words": 268,
+   "views": 1400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "chris-watts": {
+   "name": "Chris Watts",
+   "clips": 1,
+   "words": 137,
+   "views": 30000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "christian-jegard": {
+   "name": "Christian Jegard",
+   "clips": 1,
+   "words": 54,
+   "views": 368,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ciara-barnes": {
+   "name": "Ciara Barnes",
+   "clips": 1,
+   "words": 158,
+   "views": 49,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "cipha-sounds": {
+   "name": "CIPHA SOUNDS",
+   "clips": 1,
+   "words": 292,
+   "views": 456,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "cleaners-or-cops": {
+   "name": "Cleaners Or Cops",
+   "clips": 1,
+   "words": 105,
+   "views": 2900,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "clinton-baptiste": {
+   "name": "Clinton Baptiste",
+   "clips": 4,
+   "words": 1207,
+   "views": 310000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 4
+  },
+  "comedy-central-uk": {
+   "name": "Comedy Central UK",
+   "clips": 4,
+   "words": 1585,
+   "views": 1683195,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "comedy-centre": {
+   "name": "Comedy Centre",
+   "clips": 3,
+   "words": 665,
+   "views": 479459,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "comedy-roast-battle": {
+   "name": "Comedy Roast Battle",
+   "clips": 1,
+   "words": 271,
+   "views": 1200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "complaining-in-a-restaurant": {
+   "name": "Complaining In A Restaurant",
+   "clips": 1,
+   "words": 352,
+   "views": 1357179,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "cormac-sinnot": {
+   "name": "Cormac Sinnot",
+   "clips": 1,
+   "words": 58,
+   "views": 4800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "creamy-guiness": {
+   "name": "CREAMY GUINESS",
+   "clips": 1,
+   "words": 193,
+   "views": 9700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "damo-clark": {
+   "name": "Damo Clark",
+   "clips": 16,
+   "words": 1789,
+   "views": 80934,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dan-clark": {
+   "name": "Dan Clark",
+   "clips": 7,
+   "words": 1032,
+   "views": 351802,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dan-tiernan": {
+   "name": "Dan Tiernan",
+   "clips": 14,
+   "words": 2632,
+   "views": 26156,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "danny-ryan": {
+   "name": "Danny Ryan",
+   "clips": 1,
+   "words": 236,
+   "views": 1800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "danny-scott": {
+   "name": "DANNY SCOTT",
+   "clips": 1,
+   "words": 73,
+   "views": 2400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "darragh-bourke": {
+   "name": "Darragh Bourke",
+   "clips": 1,
+   "words": 117,
+   "views": 19000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dating-older-men": {
+   "name": "Dating Older Men",
+   "clips": 1,
+   "words": 98,
+   "views": 5000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dave-landau": {
+   "name": "Dave Landau",
+   "clips": 1,
+   "words": 75,
+   "views": 17000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "dave-w": {
+   "name": "Dave W",
+   "clips": 1,
+   "words": 133,
+   "views": 687276,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "david-anthony": {
+   "name": "DAVID ANTHONY",
+   "clips": 5,
+   "words": 589,
+   "views": 6270,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "david-mcsavage": {
+   "name": "David McSavage",
+   "clips": 4,
+   "words": 433,
+   "views": 8125,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "david-rose": {
+   "name": "DAVID ROSE",
+   "clips": 1,
+   "words": 178,
+   "views": 285,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "david-tsonos": {
+   "name": "DAVID TSONOS",
+   "clips": 1,
+   "words": 85,
+   "views": 1600,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dead-men-talking": {
+   "name": "Dead Men Talking",
+   "clips": 1,
+   "words": 239,
+   "views": 290,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dinesh-nathan": {
+   "name": "Dinesh Nathan",
+   "clips": 1,
+   "words": 63,
+   "views": 32000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "does-that-make-sense": {
+   "name": "Does That Make Sense?",
+   "clips": 1,
+   "words": 104,
+   "views": 5100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dom-mcgovern": {
+   "name": "Dom McGovern",
+   "clips": 15,
+   "words": 3282,
+   "views": 64810546,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "donna-fletcher": {
+   "name": "Donna Fletcher",
+   "clips": 1,
+   "words": 321,
+   "views": 1100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "dream-lads-holiday": {
+   "name": "DREAM LADS HOLIDAY",
+   "clips": 1,
+   "words": 232,
+   "views": 15000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "drunk-aircraft-mechanics": {
+   "name": "Drunk Aircraft Mechanics",
+   "clips": 1,
+   "words": 94,
+   "views": 813,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "economy-sorted": {
+   "name": "ECONOMY? SORTED",
+   "clips": 1,
+   "words": 208,
+   "views": 14000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "eddie-mullarkey": {
+   "name": "Eddie Mullarkey",
+   "clips": 7,
+   "words": 1517,
+   "views": 17774,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "edinburgh-comedy-awards": {
+   "name": "Edinburgh Comedy Awards",
+   "clips": 3,
+   "words": 917,
+   "views": 3878,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "edwin-junior": {
+   "name": "EDWIN JUNIOR",
+   "clips": 1,
+   "words": 101,
+   "views": 89,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "eleanor-tiernan": {
+   "name": "Eleanor Tiernan",
+   "clips": 1,
+   "words": 182,
+   "views": 2300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "elf-lyons": {
+   "name": "Elf Lyons",
+   "clips": 12,
+   "words": 3293,
+   "views": 30143,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ella-coyle": {
+   "name": "Ella Coyle",
+   "clips": 1,
+   "words": 201,
+   "views": 2000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "elliot-steel": {
+   "name": "Elliot Steel",
+   "clips": 1,
+   "words": 204,
+   "views": 7300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "emma-doran": {
+   "name": "Emma Doran",
+   "clips": 1,
+   "words": 266,
+   "views": 2800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "emmanuel-sonubi": {
+   "name": "Emmanuel Sonubi",
+   "clips": 117,
+   "words": 27381,
+   "views": 20427600,
+   "sources": [
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 1
+  },
+  "entertainment-tonight": {
+   "name": "Entertainment Tonight",
+   "clips": 1,
+   "words": 187,
+   "views": 49987,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "enya-martin": {
+   "name": "Enya Martin",
+   "clips": 1,
+   "words": 179,
+   "views": 21000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "epic-exam-failure": {
+   "name": "Epic Exam FAILURE",
+   "clips": 1,
+   "words": 188,
+   "views": 954744,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "erich-mcelroy": {
+   "name": "Erich McElroy",
+   "clips": 1,
+   "words": 114,
+   "views": 6800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "fab-goualin": {
+   "name": "Fab Goualin",
+   "clips": 1,
+   "words": 79,
+   "views": 5400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "facebook-comments": {
+   "name": "Facebook Comments",
+   "clips": 1,
+   "words": 80,
+   "views": 34000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "faizan-shah": {
+   "name": "FAIZAN SHAH",
+   "clips": 1,
+   "words": 106,
+   "views": 2200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "farah-sharp": {
+   "name": "FARAH SHARP",
+   "clips": 1,
+   "words": 148,
+   "views": 91,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "fatiha-el-ghorri": {
+   "name": "Fatiha El-Ghorri",
+   "clips": 9,
+   "words": 2072,
+   "views": 94887,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "fighting-fears-in-greece": {
+   "name": "FIGHTING FEARS IN GREECE",
+   "clips": 1,
+   "words": 323,
+   "views": 15000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "finalists-favourite-jokes": {
+   "name": "Finalists' Favourite Jokes",
+   "clips": 1,
+   "words": 387,
+   "views": 17648,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "fiona-frawley": {
+   "name": "Fiona Frawley",
+   "clips": 1,
+   "words": 172,
+   "views": 2900,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "flotation-tank-theory": {
+   "name": "FLOTATION TANK THEORY",
+   "clips": 1,
+   "words": 287,
+   "views": 15000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "forms": {
+   "name": "FORMS 🤮",
+   "clips": 1,
+   "words": 136,
+   "views": 8800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "frances-keyton": {
+   "name": "FRANCES KEYTON",
+   "clips": 1,
+   "words": 67,
+   "views": 126,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "frankie-boyle": {
+   "name": "Frankie Boyle",
+   "clips": 7,
+   "words": 1552,
+   "views": 10940053,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "frankie-boyle-banned-joke": {
+   "name": "Frankie Boyle Banned Joke",
+   "clips": 1,
+   "words": 30,
+   "views": 333265,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "frankie-boyle-on-brexit": {
+   "name": "Frankie Boyle on Brexit",
+   "clips": 1,
+   "words": 393,
+   "views": 286484,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "freddie-meredith": {
+   "name": "Freddie Meredith",
+   "clips": 11,
+   "words": 2397,
+   "views": 1021149,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "funmbi-omotayo": {
+   "name": "Funmbi Omotayo",
+   "clips": 1,
+   "words": 124,
+   "views": 34000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "funny-video": {
+   "name": "Funny Video",
+   "clips": 1,
+   "words": 13,
+   "views": 38320,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "gar-murran": {
+   "name": "Gar Murran",
+   "clips": 2,
+   "words": 446,
+   "views": 8700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "gbemi-gap-tooth-comedian": {
+   "name": "Gbemi (Gap Tooth Comedian)",
+   "clips": 1,
+   "words": 72,
+   "views": 3700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "gbemi-oladipo": {
+   "name": "Gbemi Oladipo",
+   "clips": 1,
+   "words": 193,
+   "views": 4500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "geoff-norcott": {
+   "name": "Geoff Norcott",
+   "clips": 2,
+   "words": 615,
+   "views": 97000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 2
+  },
+  "greg-davies": {
+   "name": "Greg Davies",
+   "clips": 12,
+   "words": 3320,
+   "views": 53659736,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "grintage-ireland": {
+   "name": "Grintage Ireland",
+   "clips": 1,
+   "words": 213,
+   "views": 107474,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "gun-toting-american": {
+   "name": "Gun Toting American",
+   "clips": 1,
+   "words": 84,
+   "views": 5300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "hal-cruttenden": {
+   "name": "Hal Cruttenden",
+   "clips": 1,
+   "words": 597,
+   "views": 71000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "harriet-dyer": {
+   "name": "Harriet Dyer",
+   "clips": 1,
+   "words": 5544,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "harry-cloney": {
+   "name": "Harry Cloney",
+   "clips": 1,
+   "words": 30,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "hat-trick": {
+   "name": "Hat Trick",
+   "clips": 1,
+   "words": 271,
+   "views": 783396,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "hating-on-messi": {
+   "name": "Hating on Messi",
+   "clips": 1,
+   "words": 63,
+   "views": 18000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "hazel-donovan": {
+   "name": "Hazel Donovan",
+   "clips": 1,
+   "words": 102,
+   "views": 17000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "his-dark-material": {
+   "name": "HIS DARK MATERIAL",
+   "clips": 1,
+   "words": 271,
+   "views": 319291,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "horatio-gould": {
+   "name": "Horatio Gould",
+   "clips": 1,
+   "words": 145,
+   "views": 1100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "i-quit-drinking": {
+   "name": "I Quit Drinking",
+   "clips": 1,
+   "words": 73,
+   "views": 16000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ian-stone": {
+   "name": "Ian Stone",
+   "clips": 1,
+   "words": 79,
+   "views": 22000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ikea-didn-t-like-this": {
+   "name": "IKEA didn't like this",
+   "clips": 1,
+   "words": 63,
+   "views": 16000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ily-hamdia": {
+   "name": "Ily Hamdia",
+   "clips": 1,
+   "words": 95,
+   "views": 134,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "imran-yusuf": {
+   "name": "Imran Yusuf",
+   "clips": 1,
+   "words": 125,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ingrid-dahle": {
+   "name": "Ingrid Dahle",
+   "clips": 1,
+   "words": 68,
+   "views": 18000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ismail-abdi": {
+   "name": "Ismail Abdi",
+   "clips": 1,
+   "words": 88,
+   "views": 5200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "it-didn-t-work-out": {
+   "name": "IT DIDN'T WORK OUT!",
+   "clips": 1,
+   "words": 95,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "it-was-his-thing": {
+   "name": "IT WAS HIS \"THING\"?!",
+   "clips": 1,
+   "words": 137,
+   "views": 7300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jack-hester": {
+   "name": "Jack Hester",
+   "clips": 1,
+   "words": 99,
+   "views": 25000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jack-shortall": {
+   "name": "Jack Shortall",
+   "clips": 1,
+   "words": 133,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jack-weiler": {
+   "name": "Jack Weiler",
+   "clips": 1,
+   "words": 137,
+   "views": 17000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jack-whitehall": {
+   "name": "Jack Whitehall",
+   "clips": 9,
+   "words": 3144,
+   "views": 34044991,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jake-lambert": {
+   "name": "Jake Lambert",
+   "clips": 17,
+   "words": 3105,
+   "views": 8290400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "james-dowdeswell": {
+   "name": "James Dowdeswell",
+   "clips": 1,
+   "words": 74,
+   "views": 310000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "james-o-donoghue": {
+   "name": "James O’Donoghue",
+   "clips": 1,
+   "words": 236,
+   "views": 1100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jamie-d-souza": {
+   "name": "JAMIE D'SOUZA",
+   "clips": 1,
+   "words": 41,
+   "views": 520,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jamie-s-hobbies": {
+   "name": "JAMIE'S HOBBIES",
+   "clips": 1,
+   "words": 183,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "janey-godley": {
+   "name": "Janey Godley",
+   "clips": 16,
+   "words": 1333,
+   "views": 458200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jarlath-regan": {
+   "name": "Jarlath Regan",
+   "clips": 3,
+   "words": 763,
+   "views": 56000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jason-byrne": {
+   "name": "Jason Byrne",
+   "clips": 1,
+   "words": 550,
+   "views": 21000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "jason-leong": {
+   "name": "Jason Leong",
+   "clips": 1,
+   "words": 286,
+   "views": 1783843,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jason-manford": {
+   "name": "Jason Manford",
+   "clips": 4,
+   "words": 1515,
+   "views": 1142882,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jason-manford-live": {
+   "name": "Jason Manford LIVE",
+   "clips": 1,
+   "words": 247,
+   "views": 375623,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jason-manford-muddle-class": {
+   "name": "Jason Manford: Muddle Class",
+   "clips": 2,
+   "words": 626,
+   "views": 24268,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jason-manford-s-shopping-story": {
+   "name": "Jason Manford's shopping story",
+   "clips": 1,
+   "words": 581,
+   "views": 90928,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "jeff-innocent": {
+   "name": "Jeff Innocent",
+   "clips": 1,
+   "words": 150,
+   "views": 36000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jen-brister": {
+   "name": "Jen Brister",
+   "clips": 1,
+   "words": 310,
+   "views": 38000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "jenny-collier": {
+   "name": "Jenny Collier",
+   "clips": 1,
+   "words": 94,
+   "views": 33000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jeremiah-watkins": {
+   "name": "Jeremiah Watkins",
+   "clips": 5,
+   "words": 300,
+   "views": 26866019,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 5
+  },
+  "jimmy-carr": {
+   "name": "Jimmy Carr",
+   "clips": 6,
+   "words": 1561,
+   "views": 1754750,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jimmy-carr-explains-accents": {
+   "name": "Jimmy Carr Explains Accents",
+   "clips": 1,
+   "words": 346,
+   "views": 5002979,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "jj-whitehead": {
+   "name": "JJ Whitehead",
+   "clips": 1,
+   "words": 67,
+   "views": 698,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "jo-jarvie": {
+   "name": "Jo Jarvie",
+   "clips": 1,
+   "words": 48,
+   "views": 6600,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "joe-bor": {
+   "name": "JOE BOR",
+   "clips": 1,
+   "words": 49,
+   "views": 34000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "joe-foster": {
+   "name": "Joe Foster",
+   "clips": 2,
+   "words": 292,
+   "views": 6423,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "joe-jacobs": {
+   "name": "Joe Jacobs",
+   "clips": 1,
+   "words": 66,
+   "views": 7900,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "joe-sutherland": {
+   "name": "JOE SUTHERLAND",
+   "clips": 1,
+   "words": 22,
+   "views": 76,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "john-bishop": {
+   "name": "John Bishop",
+   "clips": 9,
+   "words": 2192,
+   "views": 28397218,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "john-bishop-is-ukrainian": {
+   "name": "John Bishop Is Ukrainian?",
+   "clips": 1,
+   "words": 290,
+   "views": 88664,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "john-lynn": {
+   "name": "John Lynn",
+   "clips": 2,
+   "words": 398,
+   "views": 2800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "john-meagher": {
+   "name": "John Meagher",
+   "clips": 1,
+   "words": 5587,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "joke-thief": {
+   "name": "JOKE THIEF!",
+   "clips": 1,
+   "words": 122,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "joseph-morpurgo": {
+   "name": "Joseph Morpurgo",
+   "clips": 11,
+   "words": 2495,
+   "views": 12609,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "josh-jones": {
+   "name": "Josh Jones",
+   "clips": 1,
+   "words": 124,
+   "views": 27000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "joshua-bethania": {
+   "name": "Joshua Bethania",
+   "clips": 1,
+   "words": 5779,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "joshua-khoury": {
+   "name": "Joshua Khoury",
+   "clips": 12,
+   "words": 3887,
+   "views": 5048389,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "josie-long": {
+   "name": "Josie Long",
+   "clips": 1,
+   "words": 196,
+   "views": 4200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "justine-halpin": {
+   "name": "Justine Halpin",
+   "clips": 1,
+   "words": 160,
+   "views": 655,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "karl-spain": {
+   "name": "Karl Spain",
+   "clips": 2,
+   "words": 262,
+   "views": 41000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kate-barron": {
+   "name": "Kate Barron",
+   "clips": 1,
+   "words": 200,
+   "views": 35,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kate-dolan": {
+   "name": "Kate Dolan",
+   "clips": 12,
+   "words": 4218,
+   "views": 416977,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kate-feeney": {
+   "name": "Kate Feeney",
+   "clips": 2,
+   "words": 202,
+   "views": 12700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kate-smurthwaite": {
+   "name": "Kate Smurthwaite",
+   "clips": 13,
+   "words": 2035,
+   "views": 366877,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "katharyn-henson": {
+   "name": "Katharyn Henson",
+   "clips": 1,
+   "words": 103,
+   "views": 7500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "katie-norris": {
+   "name": "Katie Norris",
+   "clips": 1,
+   "words": 459,
+   "views": 243,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kay-nicholson": {
+   "name": "Kay Nicholson",
+   "clips": 1,
+   "words": 193,
+   "views": 74000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kevin-mcgahern": {
+   "name": "Kevin McGahern",
+   "clips": 3,
+   "words": 469,
+   "views": 32727,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "khalid-winter": {
+   "name": "Khalid Winter",
+   "clips": 1,
+   "words": 150,
+   "views": 169,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "khurram-yasin": {
+   "name": "Khurram Yasin",
+   "clips": 1,
+   "words": 210,
+   "views": 293228,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kim-blythe": {
+   "name": "Kim Blythe",
+   "clips": 1,
+   "words": 266,
+   "views": 1900,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kyla-cobbler": {
+   "name": "Kyla Cobbler",
+   "clips": 1,
+   "words": 233,
+   "views": 2400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "kyle-legacy": {
+   "name": "Kyle Legacy",
+   "clips": 1,
+   "words": 65,
+   "views": 254,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "lara-ricote": {
+   "name": "Lara Ricote",
+   "clips": 11,
+   "words": 3123,
+   "views": 443761,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "larry-dean": {
+   "name": "Larry Dean",
+   "clips": 118,
+   "words": 14594,
+   "views": 2068500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "lee-evans": {
+   "name": "Lee Evans",
+   "clips": 12,
+   "words": 3285,
+   "views": 32025776,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "leicester-comedy-festival": {
+   "name": "Leicester Comedy Festival",
+   "clips": 1,
+   "words": 314,
+   "views": 623,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "li-jin-hao": {
+   "name": "Li Jin Hao",
+   "clips": 11,
+   "words": 2770,
+   "views": 1973309,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "life-long-third-wheels": {
+   "name": "Life Long Third Wheels!",
+   "clips": 1,
+   "words": 309,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "live-comedy": {
+   "name": "Live Comedy",
+   "clips": 1,
+   "words": 221,
+   "views": 543294,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "loni-love": {
+   "name": "Loni Love",
+   "clips": 1,
+   "words": 242,
+   "views": 17000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "loremen-podcast": {
+   "name": "Loremen Podcast",
+   "clips": 1,
+   "words": 295,
+   "views": 1029,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "lost-cats": {
+   "name": "Lost Cats",
+   "clips": 1,
+   "words": 143,
+   "views": 6100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "lou-taylor": {
+   "name": "Lou Taylor",
+   "clips": 1,
+   "words": 163,
+   "views": 12000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "louis-theroux-s-new-doc": {
+   "name": "LOUIS THEROUX'S NEW DOC?",
+   "clips": 1,
+   "words": 195,
+   "views": 6700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "louise-rogerson-bond": {
+   "name": "Louise Rogerson-Bond",
+   "clips": 1,
+   "words": 68,
+   "views": 270757,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "lucas-jones-ho": {
+   "name": "Lucas Jones Ho",
+   "clips": 10,
+   "words": 2603,
+   "views": 273531445,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "luke-hall": {
+   "name": "LUKE HALL",
+   "clips": 1,
+   "words": 59,
+   "views": 5000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "luke-kidgwell": {
+   "name": "Luke Kidgwell",
+   "clips": 1,
+   "words": 134,
+   "views": 38000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "lush-shops": {
+   "name": "Lush Shops",
+   "clips": 1,
+   "words": 277,
+   "views": 370,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "magic-moments": {
+   "name": "Magic Moments",
+   "clips": 1,
+   "words": 186,
+   "views": 380168,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "maisie-adam": {
+   "name": "Maisie Adam",
+   "clips": 1,
+   "words": 186,
+   "views": 41000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "malinda-perera": {
+   "name": "Malinda Perera",
+   "clips": 1,
+   "words": 72,
+   "views": 20000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "maple-zuo": {
+   "name": "MAPLE ZUO",
+   "clips": 1,
+   "words": 26,
+   "views": 7300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "marc-jennings": {
+   "name": "Marc Jennings",
+   "clips": 1,
+   "words": 190,
+   "views": 1200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "marcus-brigstocke": {
+   "name": "Marcus Brigstocke",
+   "clips": 2,
+   "words": 1192,
+   "views": 177000,
+   "sources": [
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "maria-shehata": {
+   "name": "Maria Shehata",
+   "clips": 1,
+   "words": 125,
+   "views": 95,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mark-cram": {
+   "name": "MARK CRAM",
+   "clips": 1,
+   "words": 89,
+   "views": 1500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mark-nelson": {
+   "name": "Mark Nelson",
+   "clips": 1,
+   "words": 187,
+   "views": 2000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mark-o-keeffe": {
+   "name": "Mark O'Keeffe",
+   "clips": 1,
+   "words": 105,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mark-rothman": {
+   "name": "Mark Rothman",
+   "clips": 1,
+   "words": 374,
+   "views": 3000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mark-simmons": {
+   "name": "Mark Simmons",
+   "clips": 1,
+   "words": 5544,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "markus-birdman": {
+   "name": "Markus Birdman",
+   "clips": 1,
+   "words": 164,
+   "views": 16000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "martin-angolo": {
+   "name": "Martin Angolo",
+   "clips": 1,
+   "words": 5611,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "martin-westgate": {
+   "name": "Martin Westgate",
+   "clips": 1,
+   "words": 23,
+   "views": 18000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "marty-gleeson": {
+   "name": "Marty Gleeson",
+   "clips": 14,
+   "words": 3459,
+   "views": 36346512,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "marty-gleeson-post-match": {
+   "name": "Marty Gleeson post-match",
+   "clips": 1,
+   "words": 423,
+   "views": 1407,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "marty-gleeson-stand-up": {
+   "name": "Marty Gleeson Stand-Up",
+   "clips": 1,
+   "words": 129,
+   "views": 213,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "marty-party": {
+   "name": "Marty Party",
+   "clips": 1,
+   "words": 359,
+   "views": 1317,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "marvels-new-star": {
+   "name": "MARVELS NEW STAR?",
+   "clips": 1,
+   "words": 239,
+   "views": 13000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "matt-rouse": {
+   "name": "Matt Rouse",
+   "clips": 1,
+   "words": 187,
+   "views": 66000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mel-giedroyc-unforgivable": {
+   "name": "Mel Giedroyc: Unforgivable",
+   "clips": 2,
+   "words": 464,
+   "views": 20040,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "men-are-dumb": {
+   "name": "Men Are Dumb!",
+   "clips": 1,
+   "words": 115,
+   "views": 2600,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "men-s-mental-health": {
+   "name": "Men's Mental Health",
+   "clips": 1,
+   "words": 139,
+   "views": 254000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "michael-mcintyre": {
+   "name": "Michael McIntyre",
+   "clips": 5,
+   "words": 1668,
+   "views": 11136415,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "michael-mcintyre-s-comedy-roadshow": {
+   "name": "Michael McIntyre's Comedy Roadshow",
+   "clips": 3,
+   "words": 1086,
+   "views": 3619668,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 0
+  },
+  "michael-mcintyre-showman": {
+   "name": "Michael McIntyre: SHOWMAN",
+   "clips": 1,
+   "words": 479,
+   "views": 132891,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "michael-shafar": {
+   "name": "Michael Shafar",
+   "clips": 1,
+   "words": 91,
+   "views": 13000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "michelle-shaughnessy": {
+   "name": "Michelle Shaughnessy",
+   "clips": 1,
+   "words": 5779,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "mike-drop-studios": {
+   "name": "Mike Drop Studios",
+   "clips": 1,
+   "words": 12,
+   "views": 219,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "miles-jupp": {
+   "name": "Miles Jupp",
+   "clips": 3,
+   "words": 2790,
+   "views": 0,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 3
+  },
+  "milo-edwards": {
+   "name": "Milo Edwards",
+   "clips": 43,
+   "words": 8377,
+   "views": 7887000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mock-the-week": {
+   "name": "Mock The Week",
+   "clips": 2,
+   "words": 666,
+   "views": 73353,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "morgan-rees": {
+   "name": "Morgan Rees",
+   "clips": 71,
+   "words": 8765,
+   "views": 977730,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "mushin-yesilada": {
+   "name": "Mushin Yesilada",
+   "clips": 1,
+   "words": 51,
+   "views": 5200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "my-body": {
+   "name": "My Body",
+   "clips": 1,
+   "words": 497,
+   "views": 62296,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "naomi-cooper": {
+   "name": "Naomi Cooper",
+   "clips": 1,
+   "words": 146,
+   "views": 11000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "nathan-cassidy": {
+   "name": "Nathan Cassidy",
+   "clips": 1,
+   "words": 214,
+   "views": 228,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "neville-p": {
+   "name": "Neville P",
+   "clips": 1,
+   "words": 117,
+   "views": 518662,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "new-p-rn-category": {
+   "name": "New P*rn Category",
+   "clips": 1,
+   "words": 206,
+   "views": 3200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "niall-fulton": {
+   "name": "Niall Fulton",
+   "clips": 1,
+   "words": 363,
+   "views": 58,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "nick-byard": {
+   "name": "Nick Byard",
+   "clips": 1,
+   "words": 80,
+   "views": 146,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "nick-elleray": {
+   "name": "Nick Elleray",
+   "clips": 2,
+   "words": 204,
+   "views": 177000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "nico-yearwood": {
+   "name": "Nico Yearwood",
+   "clips": 1,
+   "words": 244,
+   "views": 2800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "norwich-theatre": {
+   "name": "Norwich Theatre",
+   "clips": 1,
+   "words": 39,
+   "views": 315,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "official-trailer": {
+   "name": "Official Trailer",
+   "clips": 1,
+   "words": 41,
+   "views": 83780,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "official-trailer-hd": {
+   "name": "Official Trailer [HD]",
+   "clips": 1,
+   "words": 150,
+   "views": 81077,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "older-women": {
+   "name": "Older Women",
+   "clips": 1,
+   "words": 83,
+   "views": 8700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "omar-badawy": {
+   "name": "Omar Badawy",
+   "clips": 13,
+   "words": 2987,
+   "views": 5286,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "out-now": {
+   "name": "Out Now!",
+   "clips": 1,
+   "words": 108,
+   "views": 26340,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "paddy-young": {
+   "name": "Paddy Young",
+   "clips": 9,
+   "words": 2703,
+   "views": 1939813,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "pam-ford": {
+   "name": "PAM FORD",
+   "clips": 1,
+   "words": 39,
+   "views": 754,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "paranoid-in-ibiza": {
+   "name": "PARANOID IN IBIZA",
+   "clips": 1,
+   "words": 405,
+   "views": 67000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "patrick-mcdonnell": {
+   "name": "Patrick McDonnell",
+   "clips": 1,
+   "words": 157,
+   "views": 4100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "patrick-monahan": {
+   "name": "Patrick Monahan",
+   "clips": 1,
+   "words": 221,
+   "views": 658,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "patser-murray": {
+   "name": "Patser Murray",
+   "clips": 2,
+   "words": 235,
+   "views": 6500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "paul-foot": {
+   "name": "Paul Foot",
+   "clips": 8,
+   "words": 2981,
+   "views": 489708,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "paul-smith": {
+   "name": "Paul Smith",
+   "clips": 30,
+   "words": 5607,
+   "views": 6877000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "pencil-d-ck": {
+   "name": "Pencil D*ck",
+   "clips": 1,
+   "words": 171,
+   "views": 813,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "peter-flanagan": {
+   "name": "Peter Flanagan",
+   "clips": 2,
+   "words": 165,
+   "views": 31200,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "peter-kay": {
+   "name": "Peter Kay",
+   "clips": 8,
+   "words": 1959,
+   "views": 2743378,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "phil-chapman": {
+   "name": "Phil Chapman",
+   "clips": 7,
+   "words": 893,
+   "views": 118000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "philip-simon": {
+   "name": "Philip Simon",
+   "clips": 1,
+   "words": 67,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "phillip-reiss": {
+   "name": "Phillip Reiss",
+   "clips": 2,
+   "words": 186,
+   "views": 2300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "please-don-t-destroy": {
+   "name": "Please Don’t Destroy",
+   "clips": 1,
+   "words": 70,
+   "views": 2499817,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "president-obonjo": {
+   "name": "President Obonjo",
+   "clips": 1,
+   "words": 107,
+   "views": 2000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "prince-abdi": {
+   "name": "PRINCE ABDI",
+   "clips": 1,
+   "words": 44,
+   "views": 2400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "proper-jokes": {
+   "name": "Proper Jokes",
+   "clips": 1,
+   "words": 229,
+   "views": 967461,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "public-icks": {
+   "name": "PUBLIC ICKS",
+   "clips": 1,
+   "words": 264,
+   "views": 15000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "questionable-inheritance-planning": {
+   "name": "Questionable Inheritance Planning",
+   "clips": 1,
+   "words": 144,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rachel-parris": {
+   "name": "Rachel Parris",
+   "clips": 1,
+   "words": 253,
+   "views": 13000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "racist-chelsea-fans": {
+   "name": "Racist Chelsea Fans",
+   "clips": 1,
+   "words": 349,
+   "views": 1372361,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "raj-poojara": {
+   "name": "RAJ POOJARA",
+   "clips": 1,
+   "words": 87,
+   "views": 3100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ramada-inn": {
+   "name": "Ramada Inn",
+   "clips": 1,
+   "words": 282,
+   "views": 24294,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "raymond-mearns": {
+   "name": "Raymond Mearns",
+   "clips": 29,
+   "words": 6530,
+   "views": 415925,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "release-topic": {
+   "name": "Release - Topic",
+   "clips": 1,
+   "words": 296,
+   "views": 44,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rich-hall": {
+   "name": "Rich Hall",
+   "clips": 1,
+   "words": 117,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "richard-todd": {
+   "name": "Richard Todd",
+   "clips": 1,
+   "words": 90,
+   "views": 2100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rip-the-mons": {
+   "name": "RIP THE MONS",
+   "clips": 1,
+   "words": 47,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ripping-on-blanchardstown": {
+   "name": "Ripping On Blanchardstown",
+   "clips": 1,
+   "words": 76,
+   "views": 1500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "roast-battle": {
+   "name": "Roast Battle",
+   "clips": 3,
+   "words": 798,
+   "views": 2528840,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rob-auton-time-promo": {
+   "name": "ROB AUTON TIME PROMO",
+   "clips": 1,
+   "words": 74,
+   "views": 297,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rob-copland": {
+   "name": "ROB COPLAND",
+   "clips": 2,
+   "words": 307,
+   "views": 10400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rob-thomas": {
+   "name": "Rob Thomas",
+   "clips": 4,
+   "words": 718,
+   "views": 87400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "robyn-perkins": {
+   "name": "ROBYN PERKINS",
+   "clips": 2,
+   "words": 309,
+   "views": 1473,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "roger-monkhouse": {
+   "name": "Roger Monkhouse",
+   "clips": 1,
+   "words": 141,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "roman-harris": {
+   "name": "ROMAN HARRIS",
+   "clips": 1,
+   "words": 125,
+   "views": 1300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rory-o-hanlon": {
+   "name": "Rory O'Hanlon",
+   "clips": 2,
+   "words": 160,
+   "views": 10300,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rosie-o-donnell": {
+   "name": "Rosie O’Donnell",
+   "clips": 1,
+   "words": 148,
+   "views": 9400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ross-smith": {
+   "name": "ROSS SMITH",
+   "clips": 4,
+   "words": 484,
+   "views": 9274,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "rural-concerns": {
+   "name": "Rural Concerns",
+   "clips": 1,
+   "words": 318,
+   "views": 80,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "russell-howard": {
+   "name": "Russell Howard",
+   "clips": 11,
+   "words": 3053,
+   "views": 11076004,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "russell-howard-s-good-news": {
+   "name": "Russell Howard's good news",
+   "clips": 1,
+   "words": 173,
+   "views": 1212173,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "russell-s-greatest-heckle-yet": {
+   "name": "Russell's Greatest Heckle Yet",
+   "clips": 1,
+   "words": 193,
+   "views": 100650,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ryan-cullen": {
+   "name": "Ryan Cullen",
+   "clips": 1,
+   "words": 54,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "s-awek-u-el": {
+   "name": "Sławek \"żużel\"",
+   "clips": 1,
+   "words": 515,
+   "views": 117186,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sam-eley": {
+   "name": "Sam Eley",
+   "clips": 9,
+   "words": 1752,
+   "views": 382797,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sam-nicoresti": {
+   "name": "Sam Nicoresti",
+   "clips": 1,
+   "words": 297,
+   "views": 847,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sam-noouny-says": {
+   "name": "Sam Noouny Says",
+   "clips": 1,
+   "words": 58,
+   "views": 292121,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sam-o-leary": {
+   "name": "Sam O'Leary",
+   "clips": 1,
+   "words": 231,
+   "views": 871,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "samira-banks": {
+   "name": "SAMIRA BANKS",
+   "clips": 1,
+   "words": 109,
+   "views": 90,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sandro-ford": {
+   "name": "Sandro Ford",
+   "clips": 1,
+   "words": 107,
+   "views": 5400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sarah-lewis": {
+   "name": "Sarah Lewis",
+   "clips": 11,
+   "words": 2811,
+   "views": 28512102,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sarah-millican": {
+   "name": "Sarah Millican",
+   "clips": 13,
+   "words": 3310,
+   "views": 28721361,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sean-chalmers": {
+   "name": "Sean Chalmers",
+   "clips": 1,
+   "words": 96,
+   "views": 526,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sean-gorman": {
+   "name": "SEAN GORMAN",
+   "clips": 2,
+   "words": 212,
+   "views": 30900,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sean-lock": {
+   "name": "Sean Lock",
+   "clips": 8,
+   "words": 1945,
+   "views": 9536457,
+   "sources": [
+    "bbc-radio",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sexy-ninja-turtles": {
+   "name": "Sexy Ninja Turtles",
+   "clips": 1,
+   "words": 187,
+   "views": 8400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "shagun-chheda": {
+   "name": "Shagun Chheda",
+   "clips": 1,
+   "words": 64,
+   "views": 157,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "shalaka-kurup": {
+   "name": "SHALAKA KURUP",
+   "clips": 1,
+   "words": 170,
+   "views": 22000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "shane-clifford": {
+   "name": "Shane Clifford",
+   "clips": 1,
+   "words": 232,
+   "views": 2500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "shane-daniel-byrne": {
+   "name": "Shane Daniel Byrne",
+   "clips": 1,
+   "words": 211,
+   "views": 4900,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "shappi-khorsandi": {
+   "name": "Shappi Khorsandi",
+   "clips": 1,
+   "words": 100,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "shawn-uyosa": {
+   "name": "Shawn Uyosa",
+   "clips": 1,
+   "words": 113,
+   "views": 1800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "soho-theatre": {
+   "name": "Soho Theatre",
+   "clips": 100,
+   "words": 12675,
+   "views": 1418943,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "spencer-jones": {
+   "name": "Spencer Jones",
+   "clips": 11,
+   "words": 2547,
+   "views": 168665,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "stand-up-comedy": {
+   "name": "Stand Up Comedy",
+   "clips": 1,
+   "words": 22,
+   "views": 1700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "stephen-carlin": {
+   "name": "Stephen Carlin",
+   "clips": 1,
+   "words": 41,
+   "views": 6700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "stephen-catling": {
+   "name": "Stephen Catling",
+   "clips": 1,
+   "words": 71,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "stewart-lee": {
+   "name": "Stewart Lee",
+   "clips": 1,
+   "words": 452,
+   "views": 202296,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "stuart-laws": {
+   "name": "Stuart Laws",
+   "clips": 1,
+   "words": 114,
+   "views": 212,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "sukh-kaur-ojla": {
+   "name": "Sukh Kaur Ojla",
+   "clips": 1,
+   "words": 394,
+   "views": 33000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "susie-mccabe": {
+   "name": "Susie McCabe",
+   "clips": 1,
+   "words": 223,
+   "views": 21000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "tadiwa-mahlunge": {
+   "name": "Tadiwa Mahlunge",
+   "clips": 2,
+   "words": 199,
+   "views": 17400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "take-notes-everyone": {
+   "name": "Take notes everyone ✏️💦",
+   "clips": 1,
+   "words": 185,
+   "views": 883,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "taran-o-sullivan": {
+   "name": "Taran O'Sullivan",
+   "clips": 1,
+   "words": 38,
+   "views": 921,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "teaching-is-hard": {
+   "name": "Teaching is hard",
+   "clips": 1,
+   "words": 126,
+   "views": 12000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "teaser-trailer": {
+   "name": "Teaser Trailer",
+   "clips": 1,
+   "words": 35,
+   "views": 5244276,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tech-for-everyone": {
+   "name": "Tech for Everyone",
+   "clips": 1,
+   "words": 231,
+   "views": 675,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "ted-hill": {
+   "name": "Ted Hill",
+   "clips": 1,
+   "words": 78,
+   "views": 13000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "terry-alderton": {
+   "name": "Terry Alderton",
+   "clips": 1,
+   "words": 134,
+   "views": 2400,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tevin-everett": {
+   "name": "Tevin Everett",
+   "clips": 5,
+   "words": 465,
+   "views": 23399,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "this-is-art": {
+   "name": "THIS. IS. ART!",
+   "clips": 1,
+   "words": 117,
+   "views": 14000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tiernan-douieb": {
+   "name": "Tiernan Douieb",
+   "clips": 1,
+   "words": 168,
+   "views": 1075,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tim-smith": {
+   "name": "Tim Smith",
+   "clips": 1,
+   "words": 151,
+   "views": 28000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tom-alban": {
+   "name": "Tom Alban",
+   "clips": 1,
+   "words": 116,
+   "views": 6900,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tom-toal": {
+   "name": "TOM TOAL",
+   "clips": 2,
+   "words": 202,
+   "views": 6100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tom-towelling": {
+   "name": "Tom Towelling",
+   "clips": 13,
+   "words": 2961,
+   "views": 457795,
+   "sources": [
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tom-ward": {
+   "name": "Tom Ward",
+   "clips": 4,
+   "words": 623,
+   "views": 1373000,
+   "sources": [
+    "nextup",
+    "youtube"
+   ],
+   "has_audio": 3
+  },
+  "tommy-tiernan": {
+   "name": "Tommy Tiernan",
+   "clips": 1,
+   "words": 309,
+   "views": 189000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  },
+  "tony-carroll": {
+   "name": "Tony Carroll",
+   "clips": 1,
+   "words": 63,
+   "views": 10000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "tony-sad": {
+   "name": "TONY SAD",
+   "clips": 1,
+   "words": 140,
+   "views": 11000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "top-secret-comedy-club": {
+   "name": "Top Secret Comedy Club",
+   "clips": 6,
+   "words": 853,
+   "views": 1372800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "toussaint-douglass": {
+   "name": "Toussaint Douglass",
+   "clips": 1,
+   "words": 120,
+   "views": 3100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "trevor-bickles": {
+   "name": "Trevor Bickles",
+   "clips": 1,
+   "words": 200,
+   "views": 223,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "urooj-ashfaq": {
+   "name": "Urooj Ashfaq",
+   "clips": 1,
+   "words": 82,
+   "views": 5387,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "val-vulpe": {
+   "name": "Val Vulpe",
+   "clips": 4,
+   "words": 364,
+   "views": 1938600,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "vega-lupina": {
+   "name": "Vega Lupina",
+   "clips": 1,
+   "words": 177,
+   "views": 371041,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "victoria-olsina": {
+   "name": "Victoria Olsina",
+   "clips": 1,
+   "words": 27,
+   "views": 47,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "vinny-shiu": {
+   "name": "VINNY SHIU",
+   "clips": 1,
+   "words": 60,
+   "views": 1700,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "vittorio-angelone": {
+   "name": "Vittorio Angelone",
+   "clips": 1,
+   "words": 5611,
+   "views": 0,
+   "sources": [
+    "bbc-radio"
+   ],
+   "has_audio": 1
+  },
+  "vittorio-leonardi": {
+   "name": "Vittorio Leonardi",
+   "clips": 1,
+   "words": 54,
+   "views": 18000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "we-saw-that": {
+   "name": "We Saw That",
+   "clips": 2,
+   "words": 271,
+   "views": 107000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "weird-belly-button": {
+   "name": "Weird belly button",
+   "clips": 1,
+   "words": 101,
+   "views": 3500,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "white-yardie": {
+   "name": "White Yardie",
+   "clips": 1,
+   "words": 191,
+   "views": 32000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "will-duggan": {
+   "name": "Will Duggan",
+   "clips": 1,
+   "words": 97,
+   "views": 8100,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "winner-stays-on": {
+   "name": "WINNER STAYS ON",
+   "clips": 1,
+   "words": 261,
+   "views": 11000,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "working-from-home": {
+   "name": "Working From Home",
+   "clips": 1,
+   "words": 184,
+   "views": 3800,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "yogie-belle": {
+   "name": "Yogie Belle",
+   "clips": 9,
+   "words": 1474,
+   "views": 69891817,
+   "sources": [
+    "youtube"
+   ],
+   "has_audio": 0
+  },
+  "zoe-lyons": {
+   "name": "Zoe Lyons",
+   "clips": 1,
+   "words": 269,
+   "views": 21000,
+   "sources": [
+    "nextup"
+   ],
+   "has_audio": 1
+  }
+ }
+}

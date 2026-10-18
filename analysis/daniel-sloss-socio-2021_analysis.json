@@ -1,0 +1,933 @@
+{
+ "comedian": "daniel_sloss",
+ "source": "/tmp/opencode/daniel-sloss-socio-2021.json",
+ "note": "r2:comedians/daniel-sloss/specials/socio-2021.json method=youtube-auto-captions",
+ "audio_duration_s": 4394.24,
+ "timing": {
+  "word_count": 12985,
+  "duration_s": 4394.2,
+  "wpm": 177.3,
+  "pause_count": 161,
+  "pause_bins": {
+   "very_short": 50,
+   "short": 15,
+   "substantial": 16,
+   "topic": 80
+  },
+  "mean_pause_s": 1.557,
+  "median_pause_s": 0.76,
+  "punch_pauses_s": [
+   12.56,
+   9.96,
+   8.56,
+   7.56,
+   7.03,
+   6.08,
+   5.76,
+   5.68
+  ],
+  "max_pause_s": 12.56
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 4.44,
+   "pause_before_s": 1.0,
+   "fingerprint": "well thank you so much for coming"
+  },
+  {
+   "t_start_s": 50.56,
+   "pause_before_s": 2.8,
+   "fingerprint": "mine and they have promised you that"
+  },
+  {
+   "t_start_s": 139.28,
+   "pause_before_s": 2.84,
+   "fingerprint": "test you survive another day it's [\u00a0__\u00a0]"
+  },
+  {
+   "t_start_s": 242.4,
+   "pause_before_s": 0.68,
+   "fingerprint": "D don't make me like him like"
+  },
+  {
+   "t_start_s": 310.44,
+   "pause_before_s": 1.92,
+   "fingerprint": "it good get his parents too he"
+  },
+  {
+   "t_start_s": 451.16,
+   "pause_before_s": 0.6,
+   "fingerprint": "it's that's amazing thank you so much"
+  },
+  {
+   "t_start_s": 491.96,
+   "pause_before_s": 0.72,
+   "fingerprint": "pp have a [\u00a0__\u00a0] orange like you"
+  },
+  {
+   "t_start_s": 510.68,
+   "pause_before_s": 0.8,
+   "fingerprint": "let's say I get drunk tonight as"
+  },
+  {
+   "t_start_s": 520.88,
+   "pause_before_s": 4.4,
+   "fingerprint": "[\u00a0__\u00a0] after the show you see me"
+  },
+  {
+   "t_start_s": 563.4,
+   "pause_before_s": 0.92,
+   "fingerprint": "right just like the rest of you"
+  },
+  {
+   "t_start_s": 603.83,
+   "pause_before_s": 3.91,
+   "fingerprint": "[Applause] look all I'm trying to say"
+  },
+  {
+   "t_start_s": 608.24,
+   "pause_before_s": 1.33,
+   "fingerprint": "look all I'm trying to say is"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 0.04,
+   "t1_s": 3.44,
+   "words": 7,
+   "text": "hello Austin how you doing are you",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 1,
+   "t0_s": 4.44,
+   "t1_s": 47.76,
+   "words": 133,
+   "text": "well thank you so much for coming along it's always good just to you know see so many people and for those of you that have seen me before see my stand up thank you very much for coming along and for ",
+   "pause_after_s": 2.8
+  },
+  {
+   "beat": 2,
+   "t0_s": 50.56,
+   "t1_s": 136.44,
+   "words": 232,
+   "text": "mine and they have promised you that I am [\u00a0__\u00a0] excellent for the past two weeks you've been listening to them doing get versions of my jokes just being like yeah I mean I I guess that sounds okay li",
+   "pause_after_s": 2.84
+  },
+  {
+   "beat": 3,
+   "t0_s": 139.28,
+   "t1_s": 153.32,
+   "words": 27,
+   "text": "test you survive another day it's [\u00a0__\u00a0] nice to be back in America while it's still here it's good fun is it come out and visit the",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 4,
+   "t0_s": 153.84,
+   "t1_s": 181.84,
+   "words": 85,
+   "text": "Doos s love coming out here it's [\u00a0__\u00a0] insane in a good way don't mean that in a negative way well I think it's ex I really do I love coming to this country just because it's the only country I watch",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 5,
+   "t0_s": 182.44,
+   "t1_s": 241.72,
+   "words": 195,
+   "text": "it's I don't think you just have a problem with the fake news over here I think the problem you have is you've just got too much news you got so many 24-hour news stations guys not that much stuff's h",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 6,
+   "t0_s": 242.4,
+   "t1_s": 246.4,
+   "words": 5,
+   "text": "D don't make me like",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 7,
+   "t0_s": 246.92,
+   "t1_s": 308.52,
+   "words": 173,
+   "text": "him like those are very mixed signals you just said he was a dick now he sounds cool no I'm just sat there being like well were they like stealing his porn feel like if you're going to give me any rel",
+   "pause_after_s": 1.92
+  },
+  {
+   "beat": 8,
+   "t0_s": 310.44,
+   "t1_s": 313.44,
+   "words": 1,
+   "text": "it",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 9,
+   "t0_s": 314.0,
+   "t1_s": 436.8,
+   "words": 358,
+   "text": "good get his parents too he learned it from somewhere good riddance I say how dare he how dare he call orange juice with palp juice it's not juice it's not juice if you have to chew it who choose juic",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 10,
+   "t0_s": 437.36,
+   "t1_s": 450.56,
+   "words": 34,
+   "text": "is and are you from you from Austin where you from Sir Chicago oh cool what brings you down here me you came all the way I'm in Chicago in like two weeks buddy",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 11,
+   "t0_s": 451.16,
+   "t1_s": 491.24,
+   "words": 147,
+   "text": "it's that's amazing thank you so much for coming angel you are indeed an angel for coming angel I we live in a world now that's a little bit too polarized we exist now in a world where if you disagree",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 12,
+   "t0_s": 491.96,
+   "t1_s": 509.88,
+   "words": 49,
+   "text": "pp have a [\u00a0__\u00a0] orange like you don't want orange juice you want orange and they already do those they're called oranges right now Angel whatever you drink in the privacy of your own home that's abso",
+   "pause_after_s": 0.8
+  },
+  {
+   "beat": 13,
+   "t0_s": 510.68,
+   "t1_s": 516.48,
+   "words": 22,
+   "text": "let's say I get drunk tonight as I fully intend to do these are Jin and tonics my mother didn't raise a",
+   "pause_after_s": 4.4
+  },
+  {
+   "beat": 14,
+   "t0_s": 520.88,
+   "t1_s": 562.48,
+   "words": 157,
+   "text": "[\u00a0__\u00a0] after the show you see me I'm not I'll be honest with you I'm not handling the Jin and tonics well the Texas sun gets to me I'm just I'm too dehydrated I'm incoherent I'm wandering the streets ",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 15,
+   "t0_s": 563.4,
+   "t1_s": 599.92,
+   "words": 95,
+   "text": "right just like the rest of you pop loving [\u00a0__\u00a0] you never tell us in this in civilians what you intend to do you just expect us to join him with your kinky [\u00a0__\u00a0] fetish it is unforgivable it's is a",
+   "pause_after_s": 3.91
+  },
+  {
+   "beat": 16,
+   "t0_s": 603.83,
+   "t1_s": 606.91,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 1.33
+  },
+  {
+   "beat": 17,
+   "t0_s": 608.24,
+   "t1_s": 690.72,
+   "words": 188,
+   "text": "look all I'm trying to say is I think some people deserve to die and I really I really do mean that don't don't get me wrong death is bad most of the time most of the time death is awful 60 65% of the",
+   "pause_after_s": 1.2
+  },
+  {
+   "beat": 18,
+   "t0_s": 691.92,
+   "t1_s": 719.8,
+   "words": 59,
+   "text": "Life's a miracle okay what bit sincerely what bit how is it what How It's Made do you know how you were made your dad came and your mom that's only a miracle if she's hideous that's what a horrible th",
+   "pause_after_s": 1.36
+  },
+  {
+   "beat": 19,
+   "t0_s": 721.16,
+   "t1_s": 751.8,
+   "words": 116,
+   "text": "s you still disagree you'll be sad that being like no Daniel no that's not true no I I I value all life on this planet no you don't nobody values all life on this planet right and I can prove it to yo",
+   "pause_after_s": 1.36
+  },
+  {
+   "beat": 20,
+   "t0_s": 753.16,
+   "t1_s": 757.84,
+   "words": 7,
+   "text": "place I just watched 900 of you",
+   "pause_after_s": 2.0
+  },
+  {
+   "beat": 21,
+   "t0_s": 759.84,
+   "t1_s": 791.44,
+   "words": 112,
+   "text": "go I mean off the top of my head I can give you a sex like let's not even get political it's too [\u00a0__\u00a0] easy in this dayn to stick a flag in the sand and have half the people clap about where you chos",
+   "pause_after_s": 2.56
+  },
+  {
+   "beat": 22,
+   "t0_s": 794.0,
+   "t1_s": 863.44,
+   "words": 209,
+   "text": "just I'm just saying when you're walking around the shops you can't listen to your podcasts anymore just have a little hypothetical genocide pass the time just walking around being like martiny he nee",
+   "pause_after_s": 2.56
+  },
+  {
+   "beat": 23,
+   "t0_s": 866.0,
+   "t1_s": 875.12,
+   "words": 19,
+   "text": "and some 10 did I did you get a divorce because to my show [\u00a0__\u00a0] get in sir well",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 24,
+   "t0_s": 877.16,
+   "t1_s": 902.28,
+   "words": 62,
+   "text": "done and some people have the audacity to suggest I'm smug about those stats I am very happy I broke up sad relationships bad relationships static relationships toxic relationships I didn't break up a",
+   "pause_after_s": 1.2
+  },
+  {
+   "beat": 25,
+   "t0_s": 903.48,
+   "t1_s": 955.24,
+   "words": 167,
+   "text": "place jigsaw was originally meant as a love letter to single people just let you know that there's nothing wrong being single is perfectly normal thing it just happens to resonate with a lot of people",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 26,
+   "t0_s": 956.2,
+   "t1_s": 1020.84,
+   "words": 187,
+   "text": "okay but I've been called soop well before I started standup in all honesty and have a general rule for myself if more than five people accuse you of being something have a check it's unlikely that th",
+   "pause_after_s": 1.12
+  },
+  {
+   "beat": 27,
+   "t0_s": 1021.96,
+   "t1_s": 1139.84,
+   "words": 372,
+   "text": "no my uh Grand and Granddad they own a caravan which is like a it's like a it's a shitty trailer uh that uh middle class people live with in the UK and it's like a hly thing now the own Caravan and in",
+   "pause_after_s": 2.72
+  },
+  {
+   "beat": 28,
+   "t0_s": 1142.56,
+   "t1_s": 1260.48,
+   "words": 423,
+   "text": "she's so naive to the world of drugs I forget how innocent she is like when I was 17 years old I just started doing standup comedy uh so the nights I wasn't gigging uh my friends were come around to m",
+   "pause_after_s": 4.6
+  },
+  {
+   "beat": 29,
+   "t0_s": 1265.08,
+   "t1_s": 1275.6,
+   "words": 35,
+   "text": "oh H oh was it was it that guy who I murdered oh [\u00a0__\u00a0] oh [\u00a0__\u00a0] oh [\u00a0__\u00a0] oh how did you get me to do that oh you got me officer mom you [\u00a0__\u00a0]",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 30,
+   "t0_s": 1276.12,
+   "t1_s": 1327.44,
+   "words": 172,
+   "text": "[\u00a0__\u00a0] guess what I found in the garden dog [\u00a0__\u00a0] she does say anything she goes into her back pocket she brings an empty can of deodorant sticks it on the table and I'm like [\u00a0__\u00a0] I've been rumbled",
+   "pause_after_s": 1.93
+  },
+  {
+   "beat": 31,
+   "t0_s": 1329.37,
+   "t1_s": 1332.64,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 1.52
+  },
+  {
+   "beat": 32,
+   "t0_s": 1334.16,
+   "t1_s": 1340.88,
+   "words": 5,
+   "text": "cans a you're a [\u00a0__\u00a0]",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 33,
+   "t0_s": 1341.64,
+   "t1_s": 1385.96,
+   "words": 160,
+   "text": "[\u00a0__\u00a0] she's too precious for this world not a chance she's passing the sociopath test sure enough my grand answer the question my mom's got no idea then my dad walks in grandson she wants to know if ",
+   "pause_after_s": 1.8
+  },
+  {
+   "beat": 34,
+   "t0_s": 1387.76,
+   "t1_s": 1453.32,
+   "words": 200,
+   "text": "weapon he's he's also very coldly analytical his sense of humor is one of the funniest but SL I want to say cruel but right here's an example when my mother was diagnosed with my youngest brother she ",
+   "pause_after_s": 3.04
+  },
+  {
+   "beat": 35,
+   "t0_s": 1456.36,
+   "t1_s": 1460.12,
+   "words": 3,
+   "text": "wow that's [\u00a0__\u00a0]",
+   "pause_after_s": 5.68
+  },
+  {
+   "beat": 36,
+   "t0_s": 1465.8,
+   "t1_s": 1590.24,
+   "words": 449,
+   "text": "sociopathic much to my surprise and my father father's dismay when my gr asked him the question he didn't know the answer he was annoyed at himself he's a problem solver he's normally very good at the",
+   "pause_after_s": 2.48
+  },
+  {
+   "beat": 37,
+   "t0_s": 1592.72,
+   "t1_s": 1625.0,
+   "words": 122,
+   "text": "sociopath do you think you're a sociopath Ashley H you question it that's good that's a very good sign that you're not by the way for anyone that got the question right please do not have an existenti",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 38,
+   "t0_s": 1626.88,
+   "t1_s": 1634.92,
+   "words": 24,
+   "text": "like I was too young to know what the word sociopath meant all I knew is that I wasn't allowed a dog for 10",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 39,
+   "t0_s": 1636.16,
+   "t1_s": 1726.08,
+   "words": 308,
+   "text": "years but that question really stuck with me man I was like why did I get that question right and why did my family not why did Ashley get this question right why did the rest of us not if it's not so",
+   "pause_after_s": 4.48
+  },
+  {
+   "beat": 40,
+   "t0_s": 1730.56,
+   "t1_s": 1762.84,
+   "words": 91,
+   "text": "at you are never happier than when you are the victim but why would you say that because you're like this you're the end of reason you're the end of rational debate and you are the reason why Trump is",
+   "pause_after_s": 0.8
+  },
+  {
+   "beat": 41,
+   "t0_s": 1763.64,
+   "t1_s": 1792.08,
+   "words": 74,
+   "text": "poetry the lowest form of art that currently exists and I say that as a comedian uh you're also good at [\u00a0__\u00a0] I'll give you that emotional people you are very very good at [\u00a0__\u00a0] you're very because ",
+   "pause_after_s": 1.68
+  },
+  {
+   "beat": 42,
+   "t0_s": 1793.76,
+   "t1_s": 1935.08,
+   "words": 502,
+   "text": "just Linda I've read two books on the subject if you're not coming it's because you're broke Bren okay oh here come the tears also understand when I say emotional I do not mean having emotions having ",
+   "pause_after_s": 5.44
+  },
+  {
+   "beat": 43,
+   "t0_s": 1940.52,
+   "t1_s": 1993.04,
+   "words": 188,
+   "text": "eyes so why I don't like you know being left wing a lot of the time man in all honesty cuz we're the emotional ones so I got like I just [\u00a0__\u00a0] hate my team mates lot of the time I do wish I was right",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 44,
+   "t0_s": 1993.6,
+   "t1_s": 1997.44,
+   "words": 5,
+   "text": "[\u00a0__\u00a0] why did you say",
+   "pause_after_s": 3.29
+  },
+  {
+   "beat": 45,
+   "t0_s": 2000.73,
+   "t1_s": 2009.76,
+   "words": 12,
+   "text": "[Applause] [\u00a0__\u00a0] what it's just interesting that you chose to say [\u00a0__\u00a0]",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 46,
+   "t0_s": 2011.72,
+   "t1_s": 2031.96,
+   "words": 37,
+   "text": "I don't think that's important right now when when will it be important when this is done let's do it when this is done there's a literal [\u00a0__\u00a0] Nazi like can we focus on other things please",
+   "pause_after_s": 7.56
+  },
+  {
+   "beat": 47,
+   "t0_s": 2039.52,
+   "t1_s": 2042.04,
+   "words": 9,
+   "text": "and to the left he let's get him no",
+   "pause_after_s": 4.08
+  },
+  {
+   "beat": 48,
+   "t0_s": 2046.12,
+   "t1_s": 2109.6,
+   "words": 241,
+   "text": "no but I get it man I'm [\u00a0__\u00a0] look my most my friends not all of them but most my friends are [\u00a0__\u00a0] left wi and they're the ones that annoy me more and I'm on their team I did I agree with them on m",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 49,
+   "t0_s": 2111.0,
+   "t1_s": 2136.12,
+   "words": 68,
+   "text": "they [\u00a0__\u00a0] off like just because bad things happen other places doesn't mean I don't get to have a concept of sadness man right you don't get to put that's not how perspective works right otherwise I",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 50,
+   "t0_s": 2137.0,
+   "t1_s": 2140.0,
+   "words": 1,
+   "text": "huh",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 51,
+   "t0_s": 2141.24,
+   "t1_s": 2196.08,
+   "words": 216,
+   "text": "perspective cuz that's the thing you only put my favorite emotions into perspective right you only put sadness and anger you never put happiness into perspective do you right because you understand th",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 52,
+   "t0_s": 2196.92,
+   "t1_s": 2205.92,
+   "words": 15,
+   "text": "improvise that is a very nice football but there are kids in Edinburgh who have",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 53,
+   "t0_s": 2208.04,
+   "t1_s": 2232.0,
+   "words": 38,
+   "text": "Xboxes so in the grand scheme of things you're not actually that happy are you that is such third world happiness right there and it's coming across a little bit smug a little bit smug I've got a",
+   "pause_after_s": 2.57
+  },
+  {
+   "beat": 54,
+   "t0_s": 2234.57,
+   "t1_s": 2237.78,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 3.18
+  },
+  {
+   "beat": 55,
+   "t0_s": 2240.96,
+   "t1_s": 2292.0,
+   "words": 169,
+   "text": "dad sometimes my friends in the left they come up with campaigns there are so easy to support free the nipple in I can't do I don't need to hear anymore I'm straight yeah yeah yeah yeah that one this ",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 56,
+   "t0_s": 2292.6,
+   "t1_s": 2323.4,
+   "words": 106,
+   "text": "yes think it's such a nice thing to do what a kind thing what a kind thing to do for just another person just good on you I don't know when you do it like I don't know what mindset you have to get you",
+   "pause_after_s": 9.96
+  },
+  {
+   "beat": 57,
+   "t0_s": 2333.36,
+   "t1_s": 2352.12,
+   "words": 57,
+   "text": "like oh my God I look that sexy I look natural you know who'd appreciate a picture of this my loving partner who I love very much click Send think that's beautiful think there's nothing wrong with it ",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 58,
+   "t0_s": 2353.76,
+   "t1_s": 2380.64,
+   "words": 50,
+   "text": "ways you sound fun I know your type exactly here's your birthday blow job oh yeah oh [\u00a0__\u00a0] hope it's a toothy one oh sure enough sure enough there it is why not why not get your MERS involved in the ",
+   "pause_after_s": 4.16
+  },
+  {
+   "beat": 59,
+   "t0_s": 2384.8,
+   "t1_s": 2432.4,
+   "words": 144,
+   "text": "me tap you on the head when it come I'll tap you on the head when I stop bleeding how about that it's a horrible joke but it gets a laugh so I'll keep doing it now in the interest of fairness men in t",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 60,
+   "t0_s": 2432.92,
+   "t1_s": 2445.12,
+   "words": 34,
+   "text": "no to the man who cheered there I will my brothers I will get back to you in a second to the men who didn't cheer you [\u00a0__\u00a0] Liars you absolute full of [\u00a0__\u00a0]",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 61,
+   "t0_s": 2446.2,
+   "t1_s": 2459.24,
+   "words": 29,
+   "text": "Liars I know exactly what that silence is right you have sent dick pics but not to the person you're currently sat besides that is the Silence of Shame",
+   "pause_after_s": 0.96
+  },
+  {
+   "beat": 62,
+   "t0_s": 2460.2,
+   "t1_s": 2489.24,
+   "words": 88,
+   "text": "get rid of that shame boys there's nothing wrong with sending deck pics okay there's nothing wrong with send decks It's Perfectly Normal natural thing to do you like a girl you send her a picture of y",
+   "pause_after_s": 6.08
+  },
+  {
+   "beat": 63,
+   "t0_s": 2495.32,
+   "t1_s": 2579.68,
+   "words": 257,
+   "text": "off your deck now to the men in the room right now who are s there being like Jesus Christ L what an easy point to make what a pattering point to just get all of the women on your Sid slau oh my God o",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 64,
+   "t0_s": 2580.4,
+   "t1_s": 2590.52,
+   "words": 25,
+   "text": "surprise to me sending an unsolicited dickpick is the equivalent to walking up to a stranger's house and just sticking your dick through their letter",
+   "pause_after_s": 8.56
+  },
+  {
+   "beat": 65,
+   "t0_s": 2599.08,
+   "t1_s": 2662.82,
+   "words": 177,
+   "text": "box B what but they might suck it but they they might suck it how am I meant to know if they'll suck it unless I give them the option to suck it if there was another way I do it right fourth wall brea",
+   "pause_after_s": 5.03
+  },
+  {
+   "beat": 66,
+   "t0_s": 2667.85,
+   "t1_s": 2673.56,
+   "words": 3,
+   "text": "[Applause] You've Got",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 67,
+   "t0_s": 2674.44,
+   "t1_s": 2841.68,
+   "words": 471,
+   "text": "[Applause] Mail is he still out there what is he doing well the flag's up [Music] [Applause] now I understand sometimes when men say unsolicited dickpics they do so because they're [\u00a0__\u00a0] and it's abu",
+   "pause_after_s": 12.56
+  },
+  {
+   "beat": 68,
+   "t0_s": 2854.24,
+   "t1_s": 2857.16,
+   "words": 4,
+   "text": "I'll turn the flash",
+   "pause_after_s": 4.28
+  },
+  {
+   "beat": 69,
+   "t0_s": 2861.44,
+   "t1_s": 2873.51,
+   "words": 17,
+   "text": "on this is just her selecting Snapchat filters look when it opens up a Rainbow Falls [Applause]",
+   "pause_after_s": 1.21
+  },
+  {
+   "beat": 70,
+   "t0_s": 2874.72,
+   "t1_s": 2933.56,
+   "words": 162,
+   "text": "house half Sand Tech pcks of course I have of course I have of course I have of course I have of course I have of course of course I of of course I have what are you of course I have my phone has a ca",
+   "pause_after_s": 0.8
+  },
+  {
+   "beat": 71,
+   "t0_s": 2934.36,
+   "t1_s": 2973.92,
+   "words": 78,
+   "text": "somewhere even though it's a fall some how music is playing in the background where men send dickpics like they're trying to sell a used car just like this is what I see now you see what I see do you ",
+   "pause_after_s": 5.76
+  },
+  {
+   "beat": 72,
+   "t0_s": 2979.68,
+   "t1_s": 3058.04,
+   "words": 236,
+   "text": "like now to the people that don't send nudes I know I gave you a harm time earlier I was joking if you're not comfortable saying nudes don't send nudes your body your choice I absolutely respect that ",
+   "pause_after_s": 3.32
+  },
+  {
+   "beat": 73,
+   "t0_s": 3061.36,
+   "t1_s": 3100.8,
+   "words": 185,
+   "text": "one of my friends was what a there's a video of my friend Mass bang that was leaked online now he's not an idiot for this yeah is a bit funny I agree with you but what happened was he was talking to t",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 74,
+   "t0_s": 3101.44,
+   "t1_s": 3123.84,
+   "words": 74,
+   "text": "uh videos of women masturbating on webcam online they superimposed it into the thing that's who he thought he was doing it with trust got his dick out started masturbating filmed the entire thing afte",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 75,
+   "t0_s": 3124.6,
+   "t1_s": 3138.24,
+   "words": 28,
+   "text": "video of course I have he's one of my best friends I send him photos of it every day being like that's your face when you come [Applause]",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 76,
+   "t0_s": 3138.88,
+   "t1_s": 3306.12,
+   "words": 646,
+   "text": "ha it's another reason why I know I get called sociopath cuz I'll happily laugh at people in miserable situations but you've got to understand I'm not laughing at them being miserable the reason I mak",
+   "pause_after_s": 5.24
+  },
+  {
+   "beat": 77,
+   "t0_s": 3311.36,
+   "t1_s": 3477.28,
+   "words": 583,
+   "text": "job sorry I just I love trying to make police officers laugh because I'm white and I'm allowed to do that and uh no no no no no no you're not angry at the joke you're angry at the truth within the jok",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 78,
+   "t0_s": 3478.32,
+   "t1_s": 3541.08,
+   "words": 202,
+   "text": "so you know but but I was I've always been confident and I've always had stage presence so they ignored the fact that I couldn't sing and they gave me the leads in all the musicals and then when it ca",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 79,
+   "t0_s": 3543.12,
+   "t1_s": 3568.04,
+   "words": 91,
+   "text": "up now the reason I didn't remember the name of the person it wasn't because I didn't remember the person but it's because he had a nickname all the way through theater and they were using his full na",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 80,
+   "t0_s": 3568.64,
+   "t1_s": 3578.72,
+   "words": 28,
+   "text": "I don't think I've ever met a Jason in my life your best friend Jason I think I know if my bear oh deck biscuit yes of course",
+   "pause_after_s": 0.8
+  },
+  {
+   "beat": 81,
+   "t0_s": 3579.52,
+   "t1_s": 3598.04,
+   "words": 72,
+   "text": "sorry I go oh him I remember him tells about him all right he was nice I remember my first day at theater I didn't know anyone H so I cried that was my self-defense mechanism uh he took me under his w",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 82,
+   "t0_s": 3598.76,
+   "t1_s": 3607.8,
+   "words": 21,
+   "text": "rap then they asked a question that changed the tone of the whole afternoon how old did he tell you he",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 83,
+   "t0_s": 3609.84,
+   "t1_s": 3662.2,
+   "words": 161,
+   "text": "was I beg your pardon what [\u00a0__\u00a0] walk hunt what do you what do you mean how old did he tell what kind of question is that it was an 11 to 17 year old the grp so he must have been 16 or 17 what do you",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 84,
+   "t0_s": 3662.96,
+   "t1_s": 3717.84,
+   "words": 187,
+   "text": "no she says tell me about the yellow trousers and I was like oh [\u00a0__\u00a0] I remember the yellow trousers I don't know if you've ever had a memory just come out of nowhere and [\u00a0__\u00a0] hit you I was like oh",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 85,
+   "t0_s": 3720.76,
+   "t1_s": 3741.12,
+   "words": 57,
+   "text": "like did I do it like like I don't know it's the next thing just a video of me on your iPad being like see they fit like what is this she was like you said n man don't worry about it you'll see them t",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 86,
+   "t0_s": 3741.96,
+   "t1_s": 3754.08,
+   "words": 32,
+   "text": "that she goes can we proceed and I'm like absolutely we can proceed if it helps the investigation what's your next question Mr SL do you remember what you said July 17th",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 87,
+   "t0_s": 3754.8,
+   "t1_s": 3777.84,
+   "words": 30,
+   "text": "2004 yes really n he said hey Dan do you masturbate you said yeah sometimes he said what do you masturbate too you said your mom LOL and logged off",
+   "pause_after_s": 5.18
+  },
+  {
+   "beat": 88,
+   "t0_s": 3783.02,
+   "t1_s": 3786.44,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 89,
+   "t0_s": 3787.32,
+   "t1_s": 3818.48,
+   "words": 63,
+   "text": "I cannot commend the professionalism of this woman enough she didn't crack a [\u00a0__\u00a0] inch she said it with such a straight face that she must have practiced she must have her and her partner must have ",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 90,
+   "t0_s": 3819.96,
+   "t1_s": 3838.68,
+   "words": 63,
+   "text": "close you said you you made me laugh you did it that time ah [\u00a0__\u00a0] it we'll leave him in there I it took me 5 Seconds to realize what she said and then I died and I died on the floor crying with laug",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 91,
+   "t0_s": 3840.8,
+   "t1_s": 3875.76,
+   "words": 88,
+   "text": "leg she's like can we continue and I was like yes please this is the best day of my life Mr SLO do you remember what happened the weekend August 20th 2004 nah but I bet it was funny Friday night he sa",
+   "pause_after_s": 1.36
+  },
+  {
+   "beat": 92,
+   "t0_s": 3877.12,
+   "t1_s": 3909.24,
+   "words": 113,
+   "text": "I you forget how stupid and naive you are when you're young like that was I was 19 when I was being interviewed I was 13 when these conversations took place that's only a six-year difference but just ",
+   "pause_after_s": 3.84
+  },
+  {
+   "beat": 93,
+   "t0_s": 3913.08,
+   "t1_s": 3916.8,
+   "words": 3,
+   "text": "go this poor",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 94,
+   "t0_s": 3917.4,
+   "t1_s": 3953.0,
+   "words": 77,
+   "text": "pedophile he's always so close he's so close and I just slip away every time every time like like I know he's evil but he must be so frustrated it must be so annoying for him just sitting in the cinem",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 95,
+   "t0_s": 3953.68,
+   "t1_s": 3994.52,
+   "words": 145,
+   "text": "same I'm making these jokes I'm laughing she's listening to the joke she's not laughing she's like do you find this funny and I was like yes because you haven't told me what's going on all you've done",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 96,
+   "t0_s": 3996.16,
+   "t1_s": 4006.2,
+   "words": 15,
+   "text": "aedo and when I said Co te to pedo she cracked she went I went",
+   "pause_after_s": 1.92
+  },
+  {
+   "beat": 97,
+   "t0_s": 4008.12,
+   "t1_s": 4015.92,
+   "words": 23,
+   "text": "yeah her partner was like shh in the car in the car yes right it down of course right it down that's hysterical",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 98,
+   "t0_s": 4017.0,
+   "t1_s": 4084.8,
+   "words": 256,
+   "text": "I was like what did you mean what did you mean when you said how old did he tell me he was what does that question mean she goes well it the time he was at the with you he wasn't 17 years old he was 2",
+   "pause_after_s": 2.96
+  },
+  {
+   "beat": 99,
+   "t0_s": 4087.76,
+   "t1_s": 4176.04,
+   "words": 335,
+   "text": "catchphrase the interview goes on for about 3 hours alt together I've got to convince them I'm not lying or hiding anything H at the end of it they thank me for my patience and I thank them for the ro",
+   "pause_after_s": 4.6
+  },
+  {
+   "beat": 100,
+   "t0_s": 4180.64,
+   "t1_s": 4195.2,
+   "words": 33,
+   "text": "not but the question is am I a sociopath I don't think so but then again I wouldn't sociopaths tend to not know their sociopaths they also tend to hide in plain sight",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 101,
+   "t0_s": 4196.68,
+   "t1_s": 4366.01,
+   "words": 612,
+   "text": "I normally leave it up to the audience amongst yourselves talk after the show go grab a drink see if you think I'm a sociopath you got two choices yes I am no I'm not either yes I am a sociopath or no",
+   "pause_after_s": 7.03
+  },
+  {
+   "beat": 102,
+   "t0_s": 4373.04,
+   "t1_s": 4377.68,
+   "words": 6,
+   "text": "it so it's either that or",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 103,
+   "t0_s": 4378.56,
+   "t1_s": 4394.24,
+   "words": 29,
+   "text": "or I'm just a [\u00a0__\u00a0] and I know what I've been called more uh Austin you've been absolutely incredible thank you so much up and down your slash goodby",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 104,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 104
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

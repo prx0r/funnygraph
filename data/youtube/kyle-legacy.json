@@ -1,0 +1,38 @@
+{
+ "comedian_id": "kyle-legacy",
+ "name": "Kyle Legacy",
+ "clips": 1,
+ "total_views": 254,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "VDmhQzHENHc",
+  "title": "Comedian Dan Tiernan riffs a little different from the rest of us \ud83d\udc15\ud83e\udd23 Watch full episode #106 now \ud83d\udcfa",
+  "channel": "Kyle Legacy",
+  "views": 254,
+  "duration_s": 31,
+  "url": "https://www.youtube.com/watch?v=VDmhQzHENHc",
+  "r2_clip_key": "comedians/kyle-legacy/clips/kyle-legacy-vdmhqzhenhc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kyle-legacy/clips/kyle-legacy-vdmhqzhenhc.json"
+ },
+ "rows": [
+  {
+   "videoId": "VDmhQzHENHc",
+   "title": "Comedian Dan Tiernan riffs a little different from the rest of us \ud83d\udc15\ud83e\udd23 Watch full episode #106 now \ud83d\udcfa",
+   "channel": "Kyle Legacy",
+   "views": 254,
+   "likes": null,
+   "duration_s": 31,
+   "url": "https://www.youtube.com/watch?v=VDmhQzHENHc",
+   "n_words": 65,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "um what how long have we done here four fourteen minutes we got we got we're doing twenty fifty more we're doing fifteen we're coming up here yeah we're getting the lights we're fine and done we're go",
+   "r2_clip_key": "comedians/kyle-legacy/clips/kyle-legacy-vdmhqzhenhc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kyle-legacy/clips/kyle-legacy-vdmhqzhenhc.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

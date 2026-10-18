@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "theo-von",
+ "specials": [
+  {
+   "special_slug": "no-offense-2016",
+   "title": "Theo Von: No Offense (2016)",
+   "comedian": "Theo Von",
+   "url": "https://scrapsfromtheloft.com/comedy/theo-von-no-offense-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 10431,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nTheo Von: No Offense (2016) \u2013 Transcript\nPublished December 26, 2024\nSouthern comedian Theo Von offers up a twisted take on his dating mishaps, meeting Brad Pitt, chasing down fugitive chimpanzees and more.\n\nTheo Von: No Offense was recorded at the Civic Theatre in New Orleans, Louisiana.",
+   "r2_special_key": "comedians/theo-von/specials/no-offense-2016.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/theo-von/specials/no-offense-2016.json"
+  }
+ ],
+ "count": 1
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "mark-o-keeffe",
+ "name": "Mark O'Keeffe",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "H4f4IC2-XRo",
+  "title": "Artificial Intelligence Taking Our Jobs | Mark O'Keeffe | Craic Den #comedy #irish #standup #ai",
+  "channel": "@craicdencomedyclub",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=H4f4IC2-XRo",
+  "r2_clip_key": "comedians/mark-o-keeffe/clips/mark-o-keeffe-h4f4ic2-xro.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-o-keeffe/clips/mark-o-keeffe-h4f4ic2-xro.json"
+ },
+ "rows": [
+  {
+   "videoId": "H4f4IC2-XRo",
+   "title": "Artificial Intelligence Taking Our Jobs | Mark O'Keeffe | Craic Den #comedy #irish #standup #ai",
+   "channel": "@craicdencomedyclub",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=H4f4IC2-XRo",
+   "n_words": 105,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'm worried about AI, artificial intelligence, cuz I got a really smart friend and he said that AI is going to take a lot of our jobs. Is AI able to lie in the social welfare office? >> [laughter] >> ",
+   "r2_clip_key": "comedians/mark-o-keeffe/clips/mark-o-keeffe-h4f4ic2-xro.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-o-keeffe/clips/mark-o-keeffe-h4f4ic2-xro.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

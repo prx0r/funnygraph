@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,21 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
+  },
+  "bio": {
+    "wikidata_id": "Q5095381",
+    "dob": "1919-11-06",
+    "dod": "1985-01-29",
+    "birthplace": "Inverclyde",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "stand-up comedian",
+      "television actor",
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

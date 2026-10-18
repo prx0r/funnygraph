@@ -1,0 +1,66 @@
+{
+ "comedian_id": "hannah-magy",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "KKTlqrLAv-M",
+   "title": "Checking You (For Ticks)",
+   "channel": "Hannah Magy",
+   "publishedAt": "2026-07-06T21:10:23Z",
+   "duration_s": 104,
+   "views": 113,
+   "likes": 11,
+   "comedian_slug": "hannah-magy"
+  },
+  {
+   "videoId": "BcBA6SWN8MA",
+   "title": "\u201cRedheads Set\u201d - 5 Minute Clip",
+   "channel": "Hannah Magy",
+   "publishedAt": "2023-01-30T03:44:50Z",
+   "duration_s": 311,
+   "views": 278,
+   "likes": 4,
+   "comedian_slug": "hannah-magy"
+  },
+  {
+   "videoId": "HQal4uHs2Q4",
+   "title": "Standup Set \u201cRedheads\u201d",
+   "channel": "Hannah Magy",
+   "publishedAt": "2022-12-04T06:36:29Z",
+   "duration_s": 495,
+   "views": 198,
+   "likes": 3,
+   "comedian_slug": "hannah-magy"
+  },
+  {
+   "videoId": "ZlWDEhxn27g",
+   "title": "Character Burlesque: Lucy Deucy",
+   "channel": "Hannah Magy",
+   "publishedAt": "2022-11-12T02:03:40Z",
+   "duration_s": 280,
+   "views": 2118,
+   "likes": 31,
+   "comedian_slug": "hannah-magy"
+  },
+  {
+   "videoId": "MsZBYtnopZk",
+   "title": "Stand Up Set: Attention Seeking - Hannah Magy",
+   "channel": "Hannah Magy",
+   "publishedAt": "2022-10-27T18:44:14Z",
+   "duration_s": 300,
+   "views": 392,
+   "likes": 4,
+   "comedian_slug": "hannah-magy"
+  },
+  {
+   "videoId": "kWIzxPiiK_A",
+   "title": "Machine Memoirs: Jaffe & Magy @ The Annoyance",
+   "channel": "Hannah Magy",
+   "publishedAt": "2022-07-31T22:09:48Z",
+   "duration_s": 514,
+   "views": 168,
+   "likes": 2,
+   "comedian_slug": "hannah-magy"
+  }
+ ]
+}

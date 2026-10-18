@@ -80,12 +80,24 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q20974085",
+    "dob": "1990-10-27",
+    "dod": null,
+    "birthplace": "Bristol",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "television actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

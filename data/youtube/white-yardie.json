@@ -1,0 +1,38 @@
+{
+ "comedian_id": "white-yardie",
+ "name": "White Yardie",
+ "clips": 1,
+ "total_views": 32000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "IjVWrllSu8c",
+  "title": "Who\u2019s eating this ?",
+  "channel": "@WhiteYardie",
+  "views": 32000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=IjVWrllSu8c",
+  "r2_clip_key": "comedians/white-yardie/clips/white-yardie-ijvwrllsu8c.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/white-yardie/clips/white-yardie-ijvwrllsu8c.json"
+ },
+ "rows": [
+  {
+   "videoId": "IjVWrllSu8c",
+   "title": "Who\u2019s eating this ?",
+   "channel": "@WhiteYardie",
+   "views": 32000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=IjVWrllSu8c",
+   "n_words": 191,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Let's imagine together, okay? Let's imagine together that you are dating someone and for the first time you are invited to dinner at their home, and they can prepare a meal for you and serve it on a p",
+   "r2_clip_key": "comedians/white-yardie/clips/white-yardie-ijvwrllsu8c.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/white-yardie/clips/white-yardie-ijvwrllsu8c.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

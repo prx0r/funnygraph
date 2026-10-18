@@ -1,0 +1,38 @@
+{
+ "comedian_id": "dave-w",
+ "name": "Dave W",
+ "clips": 1,
+ "total_views": 687276,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "0z0ea3jAOUE",
+  "title": "Jethro's Norfolk Dyke Dish",
+  "channel": "Dave W",
+  "views": 687276,
+  "duration_s": 153,
+  "url": "https://www.youtube.com/watch?v=0z0ea3jAOUE",
+  "r2_clip_key": "comedians/dave-w/clips/dave-w-0z0ea3jaoue.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dave-w/clips/dave-w-0z0ea3jaoue.json"
+ },
+ "rows": [
+  {
+   "videoId": "0z0ea3jAOUE",
+   "title": "Jethro's Norfolk Dyke Dish",
+   "channel": "Dave W",
+   "views": 687276,
+   "likes": null,
+   "duration_s": 153,
+   "url": "https://www.youtube.com/watch?v=0z0ea3jAOUE",
+   "n_words": 133,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "This next example is one of my favorite moments on TV's naughtiest blunders. It stars Jim Davidson and the well-known West Country comedian Jethro, who was struggling to find the words to describe his",
+   "r2_clip_key": "comedians/dave-w/clips/dave-w-0z0ea3jaoue.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dave-w/clips/dave-w-0z0ea3jaoue.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

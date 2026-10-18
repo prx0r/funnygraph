@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "dylan-moran",
+ "specials": [
+  {
+   "special_slug": "off-the-hook-2015",
+   "title": "Dylan Moran: Off The Hook (2015) \u2013 Transcript",
+   "comedian": "Dylan Moran",
+   "url": "https://scrapsfromtheloft.com/comedy/dylan-moran-off-the-hook-2015-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 13043,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Ladies and gentlemen, will you please welcome to the stage Mr Dylan Moran. [CROWD CLAPPING] [CROWD CHEERING] Hey! Hello! Thank you! Hello, thank you very much for coming out, thank you for leaving your computer screens and all the arguments you were refining at home, I am very glad you came. Um, now",
+   "r2_special_key": "comedians/dylan-moran/specials/off-the-hook-2015.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dylan-moran/specials/off-the-hook-2015.json"
+  },
+  {
+   "special_slug": "like-totally-2006",
+   "title": "DYLAN MORAN: LIKE, TOTALLY\u2026 (2006) \u2013 Full Transcript",
+   "comedian": "Dylan Moran",
+   "url": "https://scrapsfromtheloft.com/comedy/dylan-moran-like-totally-2006-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 11138,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Ladies and gentlemen, please welcome to the stage Dylan Moran! Hello! Hello! Yes, yes\u2026hello. Hello, it\u2019s very nice to be\u2026and\u2026 You may as well be in London\u2026 while you`re being. Fantastic place. Cosmopolis. People from every corner of the Earth,\u2026 every creed, every religion, every culture come here to",
+   "r2_special_key": "comedians/dylan-moran/specials/like-totally-2006.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/dylan-moran/specials/like-totally-2006.json"
+  }
+ ],
+ "count": 2
+}

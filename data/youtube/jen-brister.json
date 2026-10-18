@@ -1,0 +1,38 @@
+{
+ "comedian_id": "jen-brister",
+ "name": "Jen Brister",
+ "clips": 1,
+ "total_views": 38000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "DEFgNGLgAns",
+  "title": "Watch Jen Brister \u2018Meaningless\u2019 on NextUp Comedy!",
+  "channel": "NextUp Comedy",
+  "views": 38000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=DEFgNGLgAns",
+  "r2_clip_key": "comedians/jen-brister/clips/jen-brister-defgnglgans.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jen-brister/clips/jen-brister-defgnglgans.json"
+ },
+ "rows": [
+  {
+   "videoId": "DEFgNGLgAns",
+   "title": "Watch Jen Brister \u2018Meaningless\u2019 on NextUp Comedy!",
+   "channel": "NextUp Comedy",
+   "views": 38000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=DEFgNGLgAns",
+   "n_words": 310,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "Mae 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n mynd i 'n myn",
+   "r2_clip_key": "comedians/jen-brister/clips/jen-brister-defgnglgans.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jen-brister/clips/jen-brister-defgnglgans.json",
+   "source_group": null
+  }
+ ]
+}

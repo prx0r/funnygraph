@@ -1,0 +1,38 @@
+{
+ "comedian_id": "fab-goualin",
+ "name": "Fab Goualin",
+ "clips": 1,
+ "total_views": 5400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "1cF7WUd_aRU",
+  "title": "Defrauding the Audience | Fab Goualin | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 5400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=1cF7WUd_aRU",
+  "r2_clip_key": "comedians/fab-goualin/clips/fab-goualin-1cf7wud_aru.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fab-goualin/clips/fab-goualin-1cf7wud_aru.json"
+ },
+ "rows": [
+  {
+   "videoId": "1cF7WUd_aRU",
+   "title": "Defrauding the Audience | Fab Goualin | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 5400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=1cF7WUd_aRU",
+   "n_words": 79,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What's your mother's maiden language? [laughter] Being French and Nigerian, I've always been really conflicted because on the one hand, as a French person, I've always really liked fine wine, good bre",
+   "r2_clip_key": "comedians/fab-goualin/clips/fab-goualin-1cf7wud_aru.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/fab-goualin/clips/fab-goualin-1cf7wud_aru.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -105,12 +105,24 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q16028659",
+    "dob": "1879-04-17",
+    "dod": "1972-07-21",
+    "birthplace": "Edinburgh",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "film director"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

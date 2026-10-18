@@ -1,0 +1,38 @@
+{
+ "comedian_id": "richard-todd",
+ "name": "Richard Todd",
+ "clips": 1,
+ "total_views": 2100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "goGbuOUlQ-U",
+  "title": "Body Politics | Richard Todd | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 2100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=goGbuOUlQ-U",
+  "r2_clip_key": "comedians/richard-todd/clips/richard-todd-gogbuoulq-u.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/richard-todd/clips/richard-todd-gogbuoulq-u.json"
+ },
+ "rows": [
+  {
+   "videoId": "goGbuOUlQ-U",
+   "title": "Body Politics | Richard Todd | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 2100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=goGbuOUlQ-U",
+   "n_words": 90,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Preferably the night shift. >> [laughter] >> I THINK YOUR BODY IS LIKE A FACTORY, RIGHT? AND YOU END UP WITH THIS CABAL of disgruntled employees all messaging the HR department in your head. >> [laugh",
+   "r2_clip_key": "comedians/richard-todd/clips/richard-todd-gogbuoulq-u.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/richard-todd/clips/richard-todd-gogbuoulq-u.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

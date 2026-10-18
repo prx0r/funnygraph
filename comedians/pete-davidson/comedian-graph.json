@@ -106,8 +106,18 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "3 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "turbo-fonzarelli-2024",
+      "alive-from-new-york-2020",
+      "smd-2016"
+    ],
+    "special_titles": [
+      "Pete Davidson: Turbo Fonzarelli (2024)",
+      "PETE DAVIDSON: ALIVE FROM NEW YORK (2020) \u2013 FULL TRANSCRIPT",
+      "PETE DAVIDSON: SMD (2016) \u2013 FULL TRANSCRIPT"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -298,12 +308,17 @@
     ]
   },
   "rating": {
-    "headline": 66.7,
-    "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "headline": 14.7,
+    "coverage": "PARTIAL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 30,
+        "pct": 14.7,
+        "sweep": [
+          29,
+          30
+        ]
       },
       "consensus": {
         "rank": 361,
@@ -323,8 +338,27 @@
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "interval": {
+      "lo": 29,
+      "hi": 30
+    },
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 3
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 26546,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

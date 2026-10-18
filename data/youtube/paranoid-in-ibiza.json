@@ -1,0 +1,38 @@
+{
+ "comedian_id": "paranoid-in-ibiza",
+ "name": "PARANOID IN IBIZA",
+ "clips": 1,
+ "total_views": 67000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "pih38YYeY4o",
+  "title": "PARANOID IN IBIZA | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 67000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=pih38YYeY4o",
+  "r2_clip_key": "comedians/paranoid-in-ibiza/clips/paranoid-in-ibiza-pih38yyey4o.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/paranoid-in-ibiza/clips/paranoid-in-ibiza-pih38yyey4o.json"
+ },
+ "rows": [
+  {
+   "videoId": "pih38YYeY4o",
+   "title": "PARANOID IN IBIZA | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 67000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=pih38YYeY4o",
+   "n_words": 405,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'm going to fall to pieces now. A new large house on the coast, on a hill. So what's up guys? Everyone starts laughing here. They all say: you're a dick, you're an amateur and all that, and then he s",
+   "r2_clip_key": "comedians/paranoid-in-ibiza/clips/paranoid-in-ibiza-pih38yyey4o.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/paranoid-in-ibiza/clips/paranoid-in-ibiza-pih38yyey4o.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

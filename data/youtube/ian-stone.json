@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ian-stone",
+ "name": "Ian Stone",
+ "clips": 1,
+ "total_views": 22000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "IIqeGCmEUMc",
+  "title": "British Comedy Rules | Ian Stone | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 22000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=IIqeGCmEUMc",
+  "r2_clip_key": "comedians/ian-stone/clips/ian-stone-iiqegcmeumc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ian-stone/clips/ian-stone-iiqegcmeumc.json"
+ },
+ "rows": [
+  {
+   "videoId": "IIqeGCmEUMc",
+   "title": "British Comedy Rules | Ian Stone | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 22000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=IIqeGCmEUMc",
+   "n_words": 79,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "That's why comedy works in Britain, right? Cuz things are And me and other comedians get up on stage and go, \"Hey, aren't things shit?\" And you all sit there and go, \"Yeah, they're shit.\" And we all h",
+   "r2_clip_key": "comedians/ian-stone/clips/ian-stone-iiqegcmeumc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ian-stone/clips/ian-stone-iiqegcmeumc.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

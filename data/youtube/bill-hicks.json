@@ -1,7 +1,7 @@
 {
  "comedian_id": "bill-hicks",
  "name": "Bill Hicks",
- "clips": 6,
+ "clips": 7,
  "total_views": 8419927,
  "total_likes": 141497,
  "avg_views": 1403321,
@@ -90,6 +90,25 @@
    "likes": 2800,
    "comments": 652,
    "duration_s": 144
+  },
+  {
+   "videoId": "NivJKUfa7Sw",
+   "title": "Weirdest Question",
+   "channel": "NextUp Comedy",
+   "views": 0,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=NivJKUfa7Sw",
+   "n_words": 253,
+   "words_timed": true,
+   "transcript_method": null,
+   "transcript_available": true,
+   "transcript_preview": "I'm eating I'm alone and I'm reading a book Wait for us to walk over to me Hey what are you reading for Is that like the weirdest question ever I have never ever been asked that You don't even know wh",
+   "r2_clip_key": "comedians/bill-hicks/clips/bill-hicks-nivjkufa7sw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/bill-hicks/clips/bill-hicks-nivjkufa7sw.json",
+   "source_group": null,
+   "source": "r2"
   }
- ]
+ ],
+ "r2_linked": true,
+ "r2_merged_at": "2026-10-18T16:05:04Z"
 }

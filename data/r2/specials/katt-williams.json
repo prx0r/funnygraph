@@ -1,0 +1,45 @@
+{
+ "comedian_slug": "katt-williams",
+ "specials": [
+  {
+   "special_slug": "live-2006",
+   "title": "Katt Williams: Live (2006) \u2013 Transcript",
+   "comedian": "Katt Williams",
+   "url": "https://scrapsfromtheloft.com/comedy/katt-williams-live-2006-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 12980,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[Police siren blaring] [Police radio chattering] [Crowd clamoring] CHRIS: Thank you. 100.9 the Wiz. Blazing hip hop and R and B. Jamming in the building right now. Man, it\u2019s just an honor to have this guy just stop by just to say hi and say what\u2019s up to Cincinnati. My man Katt Williams in the house.",
+   "r2_special_key": "comedians/katt-williams/specials/live-2006.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/katt-williams/specials/live-2006.json"
+  },
+  {
+   "special_slug": "great-america-2018",
+   "title": "Katt Williams: Great America (2018) \u2013 Transcript",
+   "comedian": "Katt Williams",
+   "url": "https://scrapsfromtheloft.com/comedy/katt-williams-great-america-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8586,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[announcer] You seen him on Pimpin\u2019 Pimpin\u2019. You seen him in American Hustle. You seen him in Friday After Next. He is single-handedly shutting the Internet down. Give it up for the king of underground comedy, Mr. Katt Williams! [audience cheering] [\u201cBad and Boujee\u201d playing on speakers]\n \u266a Smokin\u2019 o",
+   "r2_special_key": "comedians/katt-williams/specials/great-america-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/katt-williams/specials/great-america-2018.json"
+  },
+  {
+   "special_slug": "woke-foke-2024",
+   "title": "Katt Williams: Woke Foke (2024)",
+   "comedian": "Katt Williams",
+   "url": "https://scrapsfromtheloft.com/comedy/katt-williams-woke-foke-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 7808,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nKatt Williams: Woke Foke (2024) \u2013 Transcript\nPublished May 7, 2024\nTelling truths and spilling secrets, comedy legend Katt Williams lets loose in this no-holds-barred stand-up special.\n\n[hip-hop music playing]\n\n[indistinct chatter]\n\n[hip-hop music continues playing]\n\n[announcer] Live from",
+   "r2_special_key": "comedians/katt-williams/specials/woke-foke-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/katt-williams/specials/woke-foke-2024.json"
+  }
+ ],
+ "count": 3
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "louise-rogerson-bond",
+ "name": "Louise Rogerson-Bond",
+ "clips": 1,
+ "total_views": 270757,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "yQ6j-hZtfNE",
+  "title": "Peter Kay Sweating Cobs",
+  "channel": "Louise Rogerson-Bond",
+  "views": 270757,
+  "duration_s": 28,
+  "url": "https://www.youtube.com/watch?v=yQ6j-hZtfNE",
+  "r2_clip_key": "comedians/louise-rogerson-bond/clips/louise-rogerson-bond-yq6j-hztfne.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/louise-rogerson-bond/clips/louise-rogerson-bond-yq6j-hztfne.json"
+ },
+ "rows": [
+  {
+   "videoId": "yQ6j-hZtfNE",
+   "title": "Peter Kay Sweating Cobs",
+   "channel": "Louise Rogerson-Bond",
+   "views": 270757,
+   "likes": null,
+   "duration_s": 28,
+   "url": "https://www.youtube.com/watch?v=yQ6j-hZtfNE",
+   "n_words": 68,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Oh, it's too warm for me. Oh. Oh, it's warm. I like it warm, but I don't like it this warm. It's too warm. You know, there's warm and there's warm. Oh, I'm sweating cobs. What? Come cops. I'm ringing.",
+   "r2_clip_key": "comedians/louise-rogerson-bond/clips/louise-rogerson-bond-yq6j-hztfne.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/louise-rogerson-bond/clips/louise-rogerson-bond-yq6j-hztfne.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

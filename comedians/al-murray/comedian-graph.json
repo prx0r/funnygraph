@@ -28,7 +28,7 @@
     "legacy": 91.1,
     "legacy_era": 90.8,
     "audience": null,
-    "popularity": null,
+    "popularity": 81.7,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,51 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 14
+  },
+  "youtube": {
+    "clips": 14,
+    "total_views": 3580140,
+    "timed_clips": 14,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "brzmRtmFGp0",
+      "title": "Painfully Middle-Class Names | Al Murray | Live at The Bearcat  #standupcomedy #comedy #jokes",
+      "views": 884000,
+      "url": "https://www.youtube.com/watch?v=brzmRtmFGp0",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/al-murray/clips/al-murray-brzmrtmfgp0.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3455,
+    "special_words": 0,
+    "timed_clips": 14,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "bio": {
+    "wikidata_id": "Q4704500",
+    "dob": "1968-05-10",
+    "dod": null,
+    "birthplace": "Stewkley",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "comedian",
+      "screenwriter",
+      "radio personality",
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

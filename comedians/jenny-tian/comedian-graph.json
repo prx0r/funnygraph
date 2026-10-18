@@ -45,7 +45,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 34.5,
+    "popularity": 48.9,
     "theory": 12.5,
     "heat": null,
     "gap_value": null,
@@ -71,7 +71,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -127,5 +127,16 @@
     "via": "jim-norton",
     "sim": 0.075,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q126092015",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [
+      "comedian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

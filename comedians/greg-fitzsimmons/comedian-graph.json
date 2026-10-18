@@ -59,7 +59,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -85,7 +85,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -93,5 +93,19 @@
     "source": "url-guess-verified",
     "checked": "2026-10-17"
   },
-  "region": "us"
+  "region": "us",
+  "bio": {
+    "wikidata_id": "Q5605563",
+    "dob": "1966-04-05",
+    "dod": null,
+    "birthplace": "New York City",
+    "citizenship": "United States",
+    "occupations": [
+      "radio personality",
+      "podcaster",
+      "screenwriter",
+      "television producer"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

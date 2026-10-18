@@ -190,8 +190,34 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "14 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "live-iv-science-2010",
+      "out-of-england-2-2010",
+      "mortality-2025",
+      "armageddon-2023",
+      "humanity-2018",
+      "supernature-2022",
+      "2020-golden-globes-opening-monologue-scene",
+      "2020-golden-globes-opening-monologue-transcript",
+      "2016-golden-globes-opening-monologue-scene",
+      "2012-golden-globes-opening-monologue-scene",
+      "2016-golden-globes-opening-monologue",
+      "2012-golden-globes-opening-monologue",
+      "2011-golden-globes-opening-monologue-scene",
+      "2011-golden-globes-opening-monologue"
+    ],
+    "special_titles": [
+      "RICKY GERVAIS: LIVE IV \u2013 SCIENCE (2010) \u2013 Full Transcript",
+      "RICKY GERVAIS: OUT OF ENGLAND 2 (2010) \u2013 Full Transcript",
+      "Ricky Gervais: Mortality (2025)",
+      "Ricky Gervais: Armageddon (2023)",
+      "Ricky Gervais: Humanity (2018) | Transcript",
+      "Ricky Gervais: SuperNature (2022) | Transcript",
+      "Ricky Gervais: 2020 Golden Globes Opening Monologue Scene",
+      "RICKY GERVAIS: 2020 GOLDEN GLOBES OPENING MONOLOGUE [TRANSCRIPT]"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -438,12 +464,17 @@
     ]
   },
   "rating": {
-    "headline": 11.1,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 52.9,
+    "coverage": "FULL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 17,
+        "pct": 52.9,
+        "sweep": [
+          17,
+          17
+        ]
       },
       "consensus": {
         "rank": 176,
@@ -463,8 +494,11 @@
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "interval": {
+      "lo": 17,
+      "hi": 17
+    },
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "timing_profile": {
@@ -499,5 +533,21 @@
         "year": 2007
       }
     ]
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 14
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 78394,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

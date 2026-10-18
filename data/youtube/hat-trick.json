@@ -1,0 +1,38 @@
+{
+ "comedian_id": "hat-trick",
+ "name": "Hat Trick",
+ "clips": 1,
+ "total_views": 783396,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "0P-XaH8f9eE",
+  "title": "Frankie Boyle vs Celebrity Atheists - Room 101",
+  "channel": "Hat Trick Comedy",
+  "views": 783396,
+  "duration_s": 127,
+  "url": "https://www.youtube.com/watch?v=0P-XaH8f9eE",
+  "r2_clip_key": "comedians/hat-trick/clips/hat-trick-0p-xah8f9ee.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/hat-trick/clips/hat-trick-0p-xah8f9ee.json"
+ },
+ "rows": [
+  {
+   "videoId": "0P-XaH8f9eE",
+   "title": "Frankie Boyle vs Celebrity Atheists - Room 101",
+   "channel": "Hat Trick Comedy",
+   "views": 783396,
+   "likes": null,
+   "duration_s": 127,
+   "url": "https://www.youtube.com/watch?v=0P-XaH8f9eE",
+   "n_words": 271,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "okay so to Frankie celebrity atheist I am an atheist but I don't like celebrity atheists I was a very bad Catholic unless you include my attitude to condoms in which case I was an amazing Catholic but",
+   "r2_clip_key": "comedians/hat-trick/clips/hat-trick-0p-xah8f9ee.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/hat-trick/clips/hat-trick-0p-xah8f9ee.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

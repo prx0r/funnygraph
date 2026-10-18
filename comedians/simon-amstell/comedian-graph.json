@@ -1,0 +1,283 @@
+{
+  "schema": "pogtown.comedian.v1",
+  "comedian_id": "simon-amstell",
+  "name": "Simon Amstell",
+  "tier": "indie",
+  "note": "Indie-tier graph: R2 transcript-linked profile.",
+  "version": 2,
+  "created": "2026-10-18",
+  "annotator": "sync_r2_profiles.py",
+  "identity": {
+    "deal": "",
+    "premise": "",
+    "archetype": "indie_draft",
+    "awareness": "unknown",
+    "awareness_note": "",
+    "philosophy": {},
+    "dramatic_core": {},
+    "misinterpretation_rule": "",
+    "contradictions": [],
+    "status_model": {},
+    "expression": {},
+    "modulator_range": [],
+    "profile": {},
+    "operator_priors": {},
+    "preferred_theories": [],
+    "threads": [],
+    "problem_space": []
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 1
+  },
+  "sets": [
+    {
+      "id": "simon-amstell-do-nothing-live",
+      "special": "do-nothing-live",
+      "title": "Simon Amstell - Do Nothing Live",
+      "source": "r2:comedians/simon-amstell/specials/do-nothing-live.json",
+      "transcript_method": "youtube-auto-captions",
+      "words_timed": true,
+      "n_words": 9366,
+      "duration_s": 3629.1,
+      "timing_measured": {
+        "wpm": 155.1,
+        "pause_count": 170,
+        "pause_bins": {
+          "very_short": 27,
+          "short": 8,
+          "substantial": 9,
+          "topic": 126
+        },
+        "mean_pause_s": 2.243,
+        "punch_pauses_s": [
+          10.0,
+          3.08,
+          3.0,
+          3.0,
+          2.52,
+          2.2,
+          1.96,
+          1.88
+        ],
+        "max_pause_s": 13.71
+      },
+      "punch_candidates": [
+        {
+          "t_start_s": 39.47,
+          "pause_before_s": 10.0,
+          "fingerprint": "[Applause] hello thank you how are you"
+        },
+        {
+          "t_start_s": 54.12,
+          "pause_before_s": 1.68,
+          "fingerprint": "hello thank you how are you are"
+        },
+        {
+          "t_start_s": 71.64,
+          "pause_before_s": 1.48,
+          "fingerprint": "that nothing can be done about it"
+        },
+        {
+          "t_start_s": 87.52,
+          "pause_before_s": 1.2,
+          "fingerprint": "Joy it is a constant reminder and"
+        },
+        {
+          "t_start_s": 92.64,
+          "pause_before_s": 0.72,
+          "fingerprint": "reminder and so what I've had to"
+        },
+        {
+          "t_start_s": 109.52,
+          "pause_before_s": 2.2,
+          "fingerprint": "cry I think the problem comes from"
+        },
+        {
+          "t_start_s": 156.88,
+          "pause_before_s": 3.08,
+          "fingerprint": "people so she suggests about at about"
+        },
+        {
+          "t_start_s": 197.84,
+          "pause_before_s": 1.96,
+          "fingerprint": "memory which is living in the future"
+        },
+        {
+          "t_start_s": 211.24,
+          "pause_before_s": 3.0,
+          "fingerprint": "I think it comes from childhood when"
+        },
+        {
+          "t_start_s": 260.24,
+          "pause_before_s": 3.0,
+          "fingerprint": "reviews so did a deliberately bad drawing"
+        },
+        {
+          "t_start_s": 274.76,
+          "pause_before_s": 2.52,
+          "fingerprint": "sycophant so one day and I know"
+        },
+        {
+          "t_start_s": 294.12,
+          "pause_before_s": 1.88,
+          "fingerprint": "grandma I was only 11 I'm just"
+        }
+      ],
+      "beat_count": 139,
+      "provenance": "measured \u2014 R2 timed captions",
+      "ingested": "2026-10-18"
+    }
+  ],
+  "essay_seeds": [],
+  "provenance": {
+    "tier": "indie",
+    "rules_held": [
+      "stage persona only",
+      "no verbatim lines"
+    ]
+  },
+  "set_queue": {
+    "note": "1 full specials in R2 (1 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "do-nothing-live"
+    ],
+    "special_titles": [
+      "Simon Amstell - Do Nothing Live"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 9366,
+    "timed_clips": 0,
+    "timed_specials": 1,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "region": "uk",
+  "continent": "europe",
+  "r2_profiled": "2026-10-18",
+  "known_bits": [
+    {
+      "title": "do-nothing-live: [Applause] hello thank you how are you",
+      "why_it_works": "Long pause (10.0s) before this beat in Simon Amstell - Do Nothing Live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "simon-amstell-do-nothing-live",
+      "t_start_s": 39.47,
+      "pause_before_s": 10.0
+    },
+    {
+      "title": "do-nothing-live: people so she suggests about at about",
+      "why_it_works": "Long pause (3.08s) before this beat in Simon Amstell - Do Nothing Live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "simon-amstell-do-nothing-live",
+      "t_start_s": 156.88,
+      "pause_before_s": 3.08
+    },
+    {
+      "title": "do-nothing-live: I think it comes from childhood when",
+      "why_it_works": "Long pause (3.0s) before this beat in Simon Amstell - Do Nothing Live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "simon-amstell-do-nothing-live",
+      "t_start_s": 211.24,
+      "pause_before_s": 3.0
+    },
+    {
+      "title": "do-nothing-live: reviews so did a deliberately bad drawing",
+      "why_it_works": "Long pause (3.0s) before this beat in Simon Amstell - Do Nothing Live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "simon-amstell-do-nothing-live",
+      "t_start_s": 260.24,
+      "pause_before_s": 3.0
+    },
+    {
+      "title": "do-nothing-live: sycophant so one day and I know",
+      "why_it_works": "Long pause (2.52s) before this beat in Simon Amstell - Do Nothing Live. Measured punch candidate.",
+      "theory_links": [
+        "timing",
+        "pause_distribution"
+      ],
+      "set_id": "simon-amstell-do-nothing-live",
+      "t_start_s": 274.76,
+      "pause_before_s": 2.52
+    }
+  ],
+  "timing_profile": {
+    "measured": [
+      {
+        "set_id": "simon-amstell-do-nothing-live",
+        "wpm": 155.1,
+        "mean_pause_s": 2.243,
+        "punch_pauses_s": [
+          10.0,
+          3.08,
+          3.0,
+          3.0,
+          2.52
+        ],
+        "max_pause_s": 13.71
+      }
+    ],
+    "status": "measured on 1 set(s)"
+  },
+  "specials_rated": [
+    {
+      "special": "do-nothing-live",
+      "title": "Simon Amstell - Do Nothing Live",
+      "source": "r2:comedians/simon-amstell/specials/do-nothing-live.json",
+      "n_words": 9366,
+      "words_timed": true,
+      "analysis": "analysis/simon-amstell-do-nothing-live_analysis.json"
+    }
+  ],
+  "last_ingest": "2026-10-18",
+  "metrics": {
+    "legacy": null,
+    "legacy_era": null,
+    "audience": null,
+    "popularity": null,
+    "theory": 62.5,
+    "heat": null,
+    "gap_value": null,
+    "overrated": null,
+    "canon_lag": null
+  },
+  "rating": {
+    "headline": 62.5,
+    "coverage": "DISCOVERY",
+    "provisional": "theory-depth",
+    "boards": {
+      "consensus": {
+        "rank": null
+      },
+      "canon": {
+        "rank": null
+      },
+      "peoples": {
+        "rank": null
+      },
+      "era": {
+        "rank": null
+      }
+    },
+    "interval": null,
+    "updated": "2026-10-18T17:13:19Z",
+    "pipeline": "rate/v1"
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "hasan-minhaj",
+ "specials": [
+  {
+   "special_slug": "homecoming-king-2017",
+   "title": "Hasan Minhaj: Homecoming King (2017) \u2013 Transcript",
+   "comedian": "Hasan Minhaj",
+   "url": "https://scrapsfromtheloft.com/comedy/hasan-minhaj-homecoming-king-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 11200,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "[theme music: orchestral hip-hop] [crowd roars] What\u2019s up? Davis, what\u2019s up? I\u2019m home. I had to bring it back here. Netflix said, \u201cWhere do you want to do the special? LA, Chicago, New York?\u201d I was like, \u201cNah, son. Davis California.\u201d [cheering, whooping] This has, um\u2026 This has been a very good year ",
+   "r2_special_key": "comedians/hasan-minhaj/specials/homecoming-king-2017.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/hasan-minhaj/specials/homecoming-king-2017.json"
+  },
+  {
+   "special_slug": "off-with-his-head-2024",
+   "title": "Hasan Minhaj: Off with His Head (2024)",
+   "comedian": "Hasan Minhaj",
+   "url": "https://scrapsfromtheloft.com/comedy/hasan-minhaj-off-with-his-head-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8444,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nHasan Minhaj: Off with His Head (2024) \u2013 Transcript\nPublished October 22, 2024\nHasan Minhaj delivers an unapologetic stand-up set about midlife identity struggles, race relations, political divides \u2014 and that fact-checking scandal.\n\n[dramatic rap music playing]\n\n[audience cheering and app",
+   "r2_special_key": "comedians/hasan-minhaj/specials/off-with-his-head-2024.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/hasan-minhaj/specials/off-with-his-head-2024.json"
+  }
+ ],
+ "count": 2
+}

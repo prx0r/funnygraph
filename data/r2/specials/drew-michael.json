@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "drew-michael",
+ "specials": [
+  {
+   "special_slug": "red-blue-green-2021",
+   "title": "Drew Michael: Red Blue Green (2021) | Transcript",
+   "comedian": "Drew Michael",
+   "url": "https://scrapsfromtheloft.com/comedy/drew-michael-red-blue-green-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 9636,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "(EMOTIONAL MUSIC PLAYING) (MUSIC ENDS) DREW MICHAEL: It\u2019s nice to see you people. I have a hard time with people, so here we go. (AUDIENCE CHUCKLING) Well, it\u2019s always been hard for me to connect with people throughout my whole life, and I think there\u2019s, you know, a lot of reasons for that. Um, I ha",
+   "r2_special_key": "comedians/drew-michael/specials/red-blue-green-2021.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/drew-michael/specials/red-blue-green-2021.json"
+  },
+  {
+   "special_slug": "drew-michael-2018",
+   "title": "Drew Michael: Drew Michael (2018) | Transcript",
+   "comedian": "Drew Michael",
+   "url": "https://scrapsfromtheloft.com/comedy/drew-michael-drew-michael-2018-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 8259,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "\u201cThis is the latest I\u2019ve stayed up in a long time.\u201d \u201cYeah, me too.\u201d \u201cI\u2019m usually like a\u2026 Mm, like one a.m. max.\u201d \u201cOne a.m.?\u201d \u201cYeah.\u201d \u201cAfter that, what happens? You get cranky?\u201d \u201cYeah, I just, uh, I can\u2019t be around people anymore.\u201d \u201cYeah.\u201d \u201cIt\u2019s very rough for me to wanna\u201d \u201cWell, also, after one a.m.",
+   "r2_special_key": "comedians/drew-michael/specials/drew-michael-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/drew-michael/specials/drew-michael-2018.json"
+  }
+ ],
+ "count": 2
+}

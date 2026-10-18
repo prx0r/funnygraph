@@ -1,0 +1,55 @@
+{
+ "comedian_id": "amelia-crowley",
+ "name": "Amelia Crowley",
+ "clips": 2,
+ "total_views": 4566480,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "JA-3yNaHHS8",
+  "title": "Mean, Scary Girlfriend - SNL",
+  "channel": "Saturday Night Live",
+  "views": 4154343,
+  "duration_s": 178,
+  "url": "https://www.youtube.com/watch?v=JA-3yNaHHS8",
+  "r2_clip_key": "comedians/amelia-crowley/clips/amelia-crowley-ja-3ynahhs8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/amelia-crowley/clips/amelia-crowley-ja-3ynahhs8.json"
+ },
+ "rows": [
+  {
+   "videoId": "JA-3yNaHHS8",
+   "title": "Mean, Scary Girlfriend - SNL",
+   "channel": "Saturday Night Live",
+   "views": 4154343,
+   "likes": null,
+   "duration_s": 178,
+   "url": "https://www.youtube.com/watch?v=JA-3yNaHHS8",
+   "n_words": 81,
+   "words_timed": true,
+   "transcript_method": "youtube-manual-captions",
+   "transcript_available": true,
+   "transcript_preview": "-Babe, where do you want\nto eat tonight? -I'm good with anything. -Do you think\nI should get a haircut? -Sure, if you want to. -Which of these shirts\nshould I wear to dinner? -They're both so cute. -H",
+   "r2_clip_key": "comedians/amelia-crowley/clips/amelia-crowley-ja-3ynahhs8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/amelia-crowley/clips/amelia-crowley-ja-3ynahhs8.json",
+   "source_group": "shorts-discovery"
+  },
+  {
+   "videoId": "hsxvMC0Wlm4",
+   "title": "Amelia Dimoldenberg Monologue | SNL UK",
+   "channel": "Saturday Night Live UK",
+   "views": 412137,
+   "likes": null,
+   "duration_s": 183,
+   "url": "https://www.youtube.com/watch?v=hsxvMC0Wlm4",
+   "n_words": 443,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Ladies and gentlemen, Amelia Dimoldenberg. >> [cheering] >> It's so great to be here hosting Saturday Night Live UK. My name IS AMELIA DIMOLDENBERG. >> [cheering] >> YOU MIGHT KNOW ME FROM MY YOUTUBE ",
+   "r2_clip_key": "comedians/amelia-crowley/clips/amelia-crowley-hsxvmc0wlm4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/amelia-crowley/clips/amelia-crowley-hsxvmc0wlm4.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

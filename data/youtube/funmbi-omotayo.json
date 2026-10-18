@@ -1,0 +1,38 @@
+{
+ "comedian_id": "funmbi-omotayo",
+ "name": "Funmbi Omotayo",
+ "clips": 1,
+ "total_views": 34000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "JEhZe3t2cac",
+  "title": "Police ruin a moment | Funmbi Omotayo | Live at The Bearcat #comedy #standup #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 34000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=JEhZe3t2cac",
+  "r2_clip_key": "comedians/funmbi-omotayo/clips/funmbi-omotayo-jehze3t2cac.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/funmbi-omotayo/clips/funmbi-omotayo-jehze3t2cac.json"
+ },
+ "rows": [
+  {
+   "videoId": "JEhZe3t2cac",
+   "title": "Police ruin a moment | Funmbi Omotayo | Live at The Bearcat #comedy #standup #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 34000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=JEhZe3t2cac",
+   "n_words": 124,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "you tell your friends we're not all that bad. Cuz I had a flat tire, right? And the police pulled up. At first, I'm thinking, \"Oh my god, I really hope they don't think I'm trying to steal this tire r",
+   "r2_clip_key": "comedians/funmbi-omotayo/clips/funmbi-omotayo-jehze3t2cac.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/funmbi-omotayo/clips/funmbi-omotayo-jehze3t2cac.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,557 @@
+{
+ "comedian": "stewart_lee",
+ "source": "/tmp/opencode/stewart-lee-comedy-vehicle-dead-mouse.json",
+ "note": "r2:comedians/stewart-lee/specials/comedy-vehicle-dead-mouse.json method=youtube-auto-captions",
+ "audio_duration_s": 1720.09,
+ "timing": {
+  "word_count": 3678,
+  "duration_s": 1719.93,
+  "wpm": 128.3,
+  "pause_count": 78,
+  "pause_bins": {
+   "very_short": 22,
+   "short": 1,
+   "substantial": 4,
+   "topic": 51
+  },
+  "mean_pause_s": 2.149,
+  "median_pause_s": 1.2,
+  "punch_pauses_s": [
+   30.2,
+   8.28,
+   6.92,
+   5.64,
+   5.56,
+   5.4,
+   5.32,
+   5.32
+  ],
+  "max_pause_s": 30.2
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 49.84,
+   "pause_before_s": 2.76,
+   "fingerprint": "And I thought what an amazing cosmic"
+  },
+  {
+   "t_start_s": 85.12,
+   "pause_before_s": 0.84,
+   "fingerprint": "So, bit of fun, light-hearted routine that"
+  },
+  {
+   "t_start_s": 198.16,
+   "pause_before_s": 3.0,
+   "fingerprint": "throughout Scotland and the north generally. Don't"
+  },
+  {
+   "t_start_s": 203.92,
+   "pause_before_s": 1.16,
+   "fingerprint": "Don't write in. But um I think"
+  },
+  {
+   "t_start_s": 237.04,
+   "pause_before_s": 1.96,
+   "fingerprint": "We warned Gran about taunting that cat."
+  },
+  {
+   "t_start_s": 242.8,
+   "pause_before_s": 0.92,
+   "fingerprint": "Yeah. A bit of fun in it"
+  },
+  {
+   "t_start_s": 299.76,
+   "pause_before_s": 1.24,
+   "fingerprint": "It's the old nature nurture argument. >> It's"
+  },
+  {
+   "t_start_s": 307.76,
+   "pause_before_s": 3.4,
+   "fingerprint": ">> It's quite complicated, isn't it being you?"
+  },
+  {
+   "t_start_s": 413.76,
+   "pause_before_s": 1.56,
+   "fingerprint": "All our dads die. We all die."
+  },
+  {
+   "t_start_s": 426.0,
+   "pause_before_s": 0.76,
+   "fingerprint": "We're just meat being shoveled into a"
+  },
+  {
+   "t_start_s": 432.08,
+   "pause_before_s": 1.0,
+   "fingerprint": "You don't want to hear that on"
+  },
+  {
+   "t_start_s": 449.04,
+   "pause_before_s": 3.24,
+   "fingerprint": "I could do a sad, meaningful, award-winning"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 0.16,
+   "t1_s": 47.08,
+   "words": 150,
+   "text": "What I'm going to do now is I'm going to talk for 28 minutes on the subject of children's attitudes to death. Right now, I know this is quite a heavy subject. You can't go straight into it. So, I'm go",
+   "pause_after_s": 2.76
+  },
+  {
+   "beat": 1,
+   "t0_s": 49.84,
+   "t1_s": 84.28,
+   "words": 68,
+   "text": "And I thought what an amazing cosmic coincidence it was that God or nature or whatever you believe in had made Dar O'Brien exactly the perfect size to completely obscure Professor Brian Cox on one day",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 2,
+   "t0_s": 85.12,
+   "t1_s": 195.16,
+   "words": 325,
+   "text": "So, bit of fun, light-hearted routine that just to uh get us into the more serious uh material. It's not been without it problems though, that routine. A lot of the younger comics have been in uh crit",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 3,
+   "t0_s": 198.16,
+   "t1_s": 202.76,
+   "words": 6,
+   "text": "throughout Scotland and the north generally.",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 4,
+   "t0_s": 203.92,
+   "t1_s": 235.08,
+   "words": 76,
+   "text": "Don't write in. But um I think the first time that most of us learn about death is from the death of a pet such as a goldfish. And conventional wisdom says this helps prepare us for the death later on",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 5,
+   "t0_s": 237.04,
+   "t1_s": 241.88,
+   "words": 7,
+   "text": "We warned Gran about taunting that cat.",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 6,
+   "t0_s": 242.8,
+   "t1_s": 298.52,
+   "words": 150,
+   "text": "Yeah. A bit of fun in it that joke. bit of light-hearted fun easing us into the more serious body of the main routine. Again, not without its problems. A lot of the younger comics have been in critici",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 7,
+   "t0_s": 299.76,
+   "t1_s": 304.36,
+   "words": 6,
+   "text": "It's the old nature nurture argument.",
+   "pause_after_s": 3.4
+  },
+  {
+   "beat": 8,
+   "t0_s": 307.76,
+   "t1_s": 412.2,
+   "words": 314,
+   "text": ">> It's quite complicated, isn't it being you? >> It is. It's difficult. It's difficult and and people don't appreciate it. I mean, I if I wasn't me, I would hate me. And I am me and I hate me a bit. ",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 9,
+   "t0_s": 413.76,
+   "t1_s": 425.24,
+   "words": 10,
+   "text": "All our dads die. We all die. What are we?",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 10,
+   "t0_s": 426.0,
+   "t1_s": 431.08,
+   "words": 8,
+   "text": "We're just meat being shoveled into a grave.",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 11,
+   "t0_s": 432.08,
+   "t1_s": 445.8,
+   "words": 33,
+   "text": "You don't want to hear that on a night out. Sad, depressing, meaningful comedy. What a waste of time. I've only got one arm. [\u00a0__\u00a0] off. Back to New Zealand and shut up.",
+   "pause_after_s": 3.24
+  },
+  {
+   "beat": 12,
+   "t0_s": 449.04,
+   "t1_s": 496.2,
+   "words": 114,
+   "text": "I could do a sad, meaningful, award-winning comedy show. Loads of terrible things have happened to me. I've I'm deaf. 65,000 born again Christians tried to send me to prison. I've got irritable bowel ",
+   "pause_after_s": 5.32
+  },
+  {
+   "beat": 13,
+   "t0_s": 501.52,
+   "t1_s": 520.6,
+   "words": 43,
+   "text": "I think the first time that I learned about death was from the death of my pet mouse, which was given to me by my uncle when I was six. I say uncle. He was a man I met at a bus stop.",
+   "pause_after_s": 2.36
+  },
+  {
+   "beat": 14,
+   "t0_s": 522.96,
+   "t1_s": 530.76,
+   "words": 14,
+   "text": "But he said he was my uncle. And his pockets were full of mice.",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 15,
+   "t0_s": 533.76,
+   "t1_s": 561.16,
+   "words": 52,
+   "text": "At least he said they were mice. I mean, they squeaked. But you know, I love that mouse. And I I as a child I sort of imagine the mouse had some kind of relationship with me. This is a extract from my",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 16,
+   "t0_s": 562.24,
+   "t1_s": 567.4,
+   "words": 9,
+   "text": "Mom and I are a single parent family now.",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 17,
+   "t0_s": 568.48,
+   "t1_s": 597.0,
+   "words": 56,
+   "text": "Not that that matters because every night after school, I tell my mouse about my day, my worries, and my concerns. And he lies on the floor scratching and eating and making smells. And then he turns h",
+   "pause_after_s": 5.64
+  },
+  {
+   "beat": 18,
+   "t0_s": 602.64,
+   "t1_s": 659.72,
+   "words": 145,
+   "text": "Um, you know, looking looking back, I think that was a bit un unfair of the 8-year-old me. My my father was a a very funny man and he uh you know, I admired him enormously. He lived for the weekend an",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 19,
+   "t0_s": 662.24,
+   "t1_s": 677.88,
+   "words": 43,
+   "text": "It's those little pots of jam. I remember he loved those. No, he really loved these little He loved jam. He loved He loved jam. He did. He loved jam. He He absolutely loved jam. He loved all the diffe",
+   "pause_after_s": 6.92
+  },
+  {
+   "beat": 20,
+   "t0_s": 684.8,
+   "t1_s": 687.8,
+   "words": 1,
+   "text": "plain",
+   "pause_after_s": 3.32
+  },
+  {
+   "beat": 21,
+   "t0_s": 691.12,
+   "t1_s": 699.4,
+   "words": 18,
+   "text": "plain jam. He liked plain jam. He He liked jam, but he didn't really like the fruit element.",
+   "pause_after_s": 4.92
+  },
+  {
+   "beat": 22,
+   "t0_s": 704.32,
+   "t1_s": 784.76,
+   "words": 235,
+   "text": "The whole program really comes across as a sort of desperate attempt to convince people that you're a genius when you're not really. You're a sort of cross between a reasonably intelligent person and ",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 23,
+   "t0_s": 785.84,
+   "t1_s": 815.0,
+   "words": 80,
+   "text": "Okay, they're laughing at that. Do you think that's all right, that joke? I don't know. Because it's get laughs, but it sort of breaks the truth of the story, doesn't it? Do you know what I mean? I th",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 24,
+   "t0_s": 815.92,
+   "t1_s": 854.6,
+   "words": 89,
+   "text": "That's why it has to be publicly subsidized. Okay, I don't even agree with that joke, right? I just did it to get in with them, right? I don't even agree. God knows you don't need me to make the case ",
+   "pause_after_s": 5.32
+  },
+  {
+   "beat": 25,
+   "t0_s": 859.92,
+   "t1_s": 988.28,
+   "words": 399,
+   "text": "Lot of lot of non-movevers in the room there. see that kind of I can see along the back there sort of I don't need I don't need to be regarded with suspicion by members of my own audience for that for",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 26,
+   "t0_s": 988.96,
+   "t1_s": 1096.12,
+   "words": 345,
+   "text": "of which there can only be one winner, a 47year-old man with irritable bowel syndrome. >> There's a joke about the culture secretary, John Whittingale. >> Yeah. being such a philistine that if he saw ",
+   "pause_after_s": 8.28
+  },
+  {
+   "beat": 27,
+   "t0_s": 1104.4,
+   "t1_s": 1118.92,
+   "words": 26,
+   "text": "Today I came home from school, let myself in with the key from under the flower pot, and I saw that the mouse was obviously dead.",
+   "pause_after_s": 5.4
+  },
+  {
+   "beat": 28,
+   "t0_s": 1124.32,
+   "t1_s": 1136.6,
+   "words": 29,
+   "text": "In the serious confessional stand-up show, the laugh point is at the point where the comedian processes the tragedy into comedy, not at the point of the tragedy itself.",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 29,
+   "t0_s": 1137.84,
+   "t1_s": 1143.0,
+   "words": 11,
+   "text": ">> You know what your problem is? You're ahead of the curve.",
+   "pause_after_s": 4.2
+  },
+  {
+   "beat": 30,
+   "t0_s": 1147.2,
+   "t1_s": 1163.88,
+   "words": 39,
+   "text": "There was blood in the mouse's mouth, and his neck had got twisted as he tried to bite his way through a bar of his cage. I assumed he had been contented enough. I mean, he had a wheel,",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 31,
+   "t0_s": 1164.72,
+   "t1_s": 1178.12,
+   "words": 31,
+   "text": "but it appears my mouse had been so depressed that he had killed himself while trying to escape. Sometimes I wonder how well can we ever really say we know anyone.",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 32,
+   "t0_s": 1180.32,
+   "t1_s": 1184.2,
+   "words": 4,
+   "text": "Very wise little boy.",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 33,
+   "t0_s": 1186.08,
+   "t1_s": 1214.12,
+   "words": 42,
+   "text": "You know, now I'm older. I wonder is that what gets us all in the end? You know, a slow creeping realization of the sheer pointlessness of existence. Run. run on your wheel, on your treadmill, but you",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 34,
+   "t0_s": 1215.36,
+   "t1_s": 1221.72,
+   "words": 10,
+   "text": "Unsurprisingly, my pitch for the Fitness First advertising account was",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 35,
+   "t0_s": 1223.84,
+   "t1_s": 1242.44,
+   "words": 18,
+   "text": "rejected out of hand, as were all my other subsequent attempts. Fitness first. Run, jump, swim, cycle, die.",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 36,
+   "t0_s": 1244.48,
+   "t1_s": 1251.48,
+   "words": 7,
+   "text": "Fitness first, postponing the inevitable since 1993.",
+   "pause_after_s": 2.76
+  },
+  {
+   "beat": 37,
+   "t0_s": 1254.24,
+   "t1_s": 1263.08,
+   "words": 14,
+   "text": "Fitness first. A series of increasingly futile gestures in the laughing face of mortality.",
+   "pause_after_s": 3.32
+  },
+  {
+   "beat": 38,
+   "t0_s": 1266.4,
+   "t1_s": 1276.36,
+   "words": 19,
+   "text": "Fitness first. Why not book a one-to-one session with one of our fully qualified personal trainers and then die?",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 39,
+   "t0_s": 1278.08,
+   "t1_s": 1282.88,
+   "words": 6,
+   "text": "All rejected. Rejected. Out of hand.",
+   "pause_after_s": 1.2
+  },
+  {
+   "beat": 40,
+   "t0_s": 1284.08,
+   "t1_s": 1352.2,
+   "words": 163,
+   "text": "My childhood diary again. The same night. This is mom helped me bury the mouse in a sock in a shoe box in the back garden. And then she went out to night school. When my mom came home, she said a woma",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 41,
+   "t0_s": 1352.8,
+   "t1_s": 1382.84,
+   "words": 79,
+   "text": "The dead mouse looked exactly like Dave Hill from Slade. If Dave Hill from Slade had been dressed up in a full-size mouse costume, hung up in a massive sock, blow dried with a giant blow dryer, and ha",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 42,
+   "t0_s": 1384.24,
+   "t1_s": 1418.84,
+   "words": 67,
+   "text": "I came down the next morning and you know, you know what? Despite the so-called certainties of science, despite my cynicism, despite having been pronounced dead, buried, and exumed, hung in a sock, bl",
+   "pause_after_s": 4.2
+  },
+  {
+   "beat": 43,
+   "t0_s": 1423.04,
+   "t1_s": 1442.76,
+   "words": 35,
+   "text": "Maybe the alcohol killed it. Maybe it was hibernating and it came round and then died from alcohol poisoning. We'll never know. They don't do pathology reports for mice. There are no pathologists smal",
+   "pause_after_s": 5.56
+  },
+  {
+   "beat": 44,
+   "t0_s": 1448.32,
+   "t1_s": 1453.28,
+   "words": 6,
+   "text": "There are no nano pathologists. No.",
+   "pause_after_s": 1.04
+  },
+  {
+   "beat": 45,
+   "t0_s": 1454.32,
+   "t1_s": 1464.52,
+   "words": 8,
+   "text": "No. Nano. No. No. Nano. No. Nano pathologists.",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 46,
+   "t0_s": 1466.24,
+   "t1_s": 1487.96,
+   "words": 66,
+   "text": "I'll tell you why I've done that. Right. A lot of the kids, they've been on the internet and they're going, \"Oh, he's lost it. He's blown it. You know, he's so dead and old. His idea of a pop cultural",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 47,
+   "t0_s": 1490.88,
+   "t1_s": 1495.48,
+   "words": 7,
+   "text": "Ebanese are good, all that, you know.",
+   "pause_after_s": 2.36
+  },
+  {
+   "beat": 48,
+   "t0_s": 1497.84,
+   "t1_s": 1573.48,
+   "words": 144,
+   "text": "But it was a school day. We were already running late and there simply wasn't time to reberry the mouse with full ceremony in the garden. And so my mom took the lifeless body of my mouse, my best frie",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 49,
+   "t0_s": 1574.88,
+   "t1_s": 1578.68,
+   "words": 3,
+   "text": "free water bottle",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 50,
+   "t0_s": 1579.68,
+   "t1_s": 1592.83,
+   "words": 14,
+   "text": "with every fitness first membership until April and then this offer must end [Applause]",
+   "pause_after_s": 2.14
+  },
+  {
+   "beat": 51,
+   "t0_s": 1594.97,
+   "t1_s": 1600.69,
+   "words": 1,
+   "text": "[Music]",
+   "pause_after_s": 1.79
+  },
+  {
+   "beat": 52,
+   "t0_s": 1602.48,
+   "t1_s": 1626.28,
+   "words": 24,
+   "text": "to the So for a day. So here it is. Merry Christmas. Everybody's having fun. Look to the future now. It's only just beun.",
+   "pause_after_s": 0.87
+  },
+  {
+   "beat": 53,
+   "t0_s": 1627.15,
+   "t1_s": 1643.24,
+   "words": 1,
+   "text": "[Music]",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 54,
+   "t0_s": 1643.76,
+   "t1_s": 1664.92,
+   "words": 5,
+   "text": "I want to feel. [Music]",
+   "pause_after_s": 30.2
+  },
+  {
+   "beat": 55,
+   "t0_s": 1695.12,
+   "t1_s": 1698.12,
+   "words": 1,
+   "text": "Hey,",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 56,
+   "t0_s": 1698.8,
+   "t1_s": 1720.09,
+   "words": 2,
+   "text": "hey, hey. [Music]",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 57,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 57
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

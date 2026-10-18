@@ -1,0 +1,38 @@
+{
+ "comedian_id": "sam-o-leary",
+ "name": "Sam O'Leary",
+ "clips": 1,
+ "total_views": 871,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "rh2T17Xmszw",
+  "title": "Chris Takes a Call",
+  "channel": "Sam O'Leary",
+  "views": 871,
+  "duration_s": 166,
+  "url": "https://www.youtube.com/watch?v=rh2T17Xmszw",
+  "r2_clip_key": "comedians/sam-o-leary/clips/sam-o-leary-rh2t17xmszw.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sam-o-leary/clips/sam-o-leary-rh2t17xmszw.json"
+ },
+ "rows": [
+  {
+   "videoId": "rh2T17Xmszw",
+   "title": "Chris Takes a Call",
+   "channel": "Sam O'Leary",
+   "views": 871,
+   "likes": null,
+   "duration_s": 166,
+   "url": "https://www.youtube.com/watch?v=rh2T17Xmszw",
+   "n_words": 231,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I'll be super quick okay Amy's gone we just got time to take a quick call from our listenership obviously we've asked you to give us a call with your sleep related queries so we've got a caller on lin",
+   "r2_clip_key": "comedians/sam-o-leary/clips/sam-o-leary-rh2t17xmszw.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/sam-o-leary/clips/sam-o-leary-rh2t17xmszw.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

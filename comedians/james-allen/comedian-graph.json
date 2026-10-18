@@ -83,7 +83,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -112,5 +112,19 @@
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q15989799",
+    "dob": "1802-07-15",
+    "dod": "1897-06-26",
+    "birthplace": "Burton",
+    "citizenship": "United Kingdom of Great Britain and Ireland",
+    "occupations": [
+      "cleric",
+      "dean",
+      "dean",
+      "antiquarian"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

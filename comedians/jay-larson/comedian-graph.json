@@ -55,7 +55,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": 28.3,
+    "popularity": 13.3,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -81,7 +81,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "youtube_channel": {
@@ -123,5 +123,16 @@
     "via": "hans-kim",
     "sim": 0.091,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q24572253",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": "United States",
+    "occupations": [
+      "actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

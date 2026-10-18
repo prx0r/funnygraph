@@ -28,7 +28,8 @@
   },
   "discovery": {
     "discovered_from": [
-      "venue-roster:on-the-mic"
+      "venue-roster:on-the-mic",
+      "r2:comedy-specials"
     ],
     "discovery_note": "Mined from venue-roster:on-the-mic (registry/curated, no search).",
     "evidence": [
@@ -41,7 +42,9 @@
     "subs": "unknown (performer channel unregistered)",
     "bio_note": "Funmbi Omotayo is a stand up comedian with Nigerian roots, based in Hackney, London. He\u2019s appeared on television several times including the Frankie Boyle vehicle, Tramadol Nights (Ch4). Funmbi was awarded best newcomer at the Black Entertainment Comedy Awards in 2004. He became the Leicester Square Comedian Of The Year 2012. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. ",
     "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/funmbi-omotayo/"
+    "otm_url": "https://www.onthemic.co.uk/comedians_list/funmbi-omotayo/",
+    "r2_comedian": true,
+    "r2_clips": 1
   },
   "sets": [],
   "essay_seeds": [],
@@ -57,7 +60,7 @@
     "legacy": null,
     "legacy_era": null,
     "audience": null,
-    "popularity": null,
+    "popularity": 55.8,
     "theory": 0.0,
     "heat": null,
     "gap_value": null,
@@ -115,7 +118,30 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
-  }
+  },
+  "youtube": {
+    "clips": 1,
+    "total_views": 34000,
+    "timed_clips": 1,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "JEhZe3t2cac",
+      "title": "Police ruin a moment | Funmbi Omotayo | Live at The Bearcat #comedy #standup #funny #jokes",
+      "views": 34000,
+      "url": "https://www.youtube.com/watch?v=JEhZe3t2cac",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/funmbi-omotayo/clips/funmbi-omotayo-jehze3t2cac.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 124,
+    "special_words": 0,
+    "timed_clips": 1,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "continent": "europe",
+  "r2_profiled": "2026-10-18"
 }

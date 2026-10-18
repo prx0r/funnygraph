@@ -1,0 +1,72 @@
+{
+ "comedian_id": "breda-hegarty",
+ "name": "Breda Hegarty",
+ "clips": 3,
+ "total_views": 8400,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "2ERCFIz1uiI",
+  "title": "Tall Women | Breda Hegarty | Craic Den Comedy Club  #standupcomedy  #comedy #irish #funny #tall",
+  "channel": "@craicdencomedyclub",
+  "views": 4100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=2ERCFIz1uiI",
+  "r2_clip_key": "comedians/breda-hegarty/clips/breda-hegarty-2ercfiz1uii.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/breda-hegarty/clips/breda-hegarty-2ercfiz1uii.json"
+ },
+ "rows": [
+  {
+   "videoId": "2ERCFIz1uiI",
+   "title": "Tall Women | Breda Hegarty | Craic Den Comedy Club  #standupcomedy  #comedy #irish #funny #tall",
+   "channel": "@craicdencomedyclub",
+   "views": 4100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=2ERCFIz1uiI",
+   "n_words": 144,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I quite tall lady. Do we have any tall ladies in? She's about to talk to you. 5'10. Freak. >> [laughter] >> You might want to get yourself a few new friends. Oh god, we started something. I'm 5'8 or i",
+   "r2_clip_key": "comedians/breda-hegarty/clips/breda-hegarty-2ercfiz1uii.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/breda-hegarty/clips/breda-hegarty-2ercfiz1uii.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "bjWMMY5Xp8k",
+   "title": "English Woman Learns Irish | Breda Hegarty |Craic Den Comedy Club #irish #comedy #standupcomedy",
+   "channel": "@craicdencomedyclub",
+   "views": 2700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=bjWMMY5Xp8k",
+   "n_words": 197,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "In school in Ireland, when we were growing up, we did school through English, but there was one sentence we had to say in Irish. For the love of God, Patrick, there's a lot of pressure on you now. Do ",
+   "r2_clip_key": "comedians/breda-hegarty/clips/breda-hegarty-bjwmmy5xp8k.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/breda-hegarty/clips/breda-hegarty-bjwmmy5xp8k.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "39L7oquHWy4",
+   "title": "Someone Did What? | Breda Hegarty | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "views": 1600,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=39L7oquHWy4",
+   "n_words": 78,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Or um, cuz when I was growing up it's all about boy bands and the girl bands, you know? Um, cuz we had uh the boy bands, we had the Backstreet Boys. >> Everybody [singing] >> Yeah. >> I'll rock your b",
+   "r2_clip_key": "comedians/breda-hegarty/clips/breda-hegarty-39l7oquhwy4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/breda-hegarty/clips/breda-hegarty-39l7oquhwy4.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

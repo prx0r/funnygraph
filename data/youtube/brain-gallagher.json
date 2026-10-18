@@ -1,0 +1,38 @@
+{
+ "comedian_id": "brain-gallagher",
+ "name": "Brain Gallagher",
+ "clips": 1,
+ "total_views": 11000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "YAd260Uatik",
+  "title": "American Honeymoon In Ireland | Brain Gallagher | Craic Den Comedy Club #american #honeymoon #comedy",
+  "channel": "@craicdencomedyclub",
+  "views": 11000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=YAd260Uatik",
+  "r2_clip_key": "comedians/brain-gallagher/clips/brain-gallagher-yad260uatik.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/brain-gallagher/clips/brain-gallagher-yad260uatik.json"
+ },
+ "rows": [
+  {
+   "videoId": "YAd260Uatik",
+   "title": "American Honeymoon In Ireland | Brain Gallagher | Craic Den Comedy Club #american #honeymoon #comedy",
+   "channel": "@craicdencomedyclub",
+   "views": 11000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=YAd260Uatik",
+   "n_words": 96,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "New York, yeah. New York, why you in Ireland? Uh, honeymoon. Honeymoon, yes, when did you get married? Last September. Last September, okay, did you put off the honeymoon till the country fell into co",
+   "r2_clip_key": "comedians/brain-gallagher/clips/brain-gallagher-yad260uatik.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/brain-gallagher/clips/brain-gallagher-yad260uatik.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

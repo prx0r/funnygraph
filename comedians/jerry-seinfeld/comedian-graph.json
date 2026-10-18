@@ -156,8 +156,16 @@
     }
   ],
   "set_queue": {
-    "note": "0 sets measured. First ingest should be an observational one-liner-chain era special (Clean, I'm Telling You for the Last Time) or a modern monologue-list bit. Need word-timed ASR to fill timing_measured; until then the timing_profile below is pure hypothesis.",
-    "blocked_on": "YouTube access / owner-supplied audio"
+    "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "i-m-telling-you-for-the-last-time-1998",
+      "23-hours-to-kill-2020"
+    ],
+    "special_titles": [
+      "Jerry Seinfeld: I\u2019m Telling You for the Last Time (1998) \u2013 Transcript",
+      "Jerry Seinfeld: 23 Hours To Kill (2020) \u2013 Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -445,10 +453,10 @@
     "legacy": 97.6,
     "legacy_era": 95.4,
     "audience": 70.0,
-    "popularity": 71.7,
+    "popularity": 75.7,
     "theory": 50.0,
     "heat": null,
-    "gap_value": 0.017,
+    "gap_value": 0.057,
     "overrated": "accurately rated",
     "canon_lag": -0.276
   },
@@ -489,13 +497,13 @@
     ]
   },
   "rating": {
-    "headline": 44.4,
+    "headline": 70.6,
     "coverage": "FULL",
     "provisional": null,
     "boards": {
       "house": {
         "rank": 11,
-        "pct": 44.4,
+        "pct": 70.6,
         "sweep": [
           11,
           11
@@ -523,7 +531,7 @@
       "lo": 11,
       "hi": 11
     },
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -538,5 +546,21 @@
       "comedy"
     ],
     "source": "musicbrainz (name+comedy-tag)"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 2
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 17829,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

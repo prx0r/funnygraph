@@ -1,0 +1,38 @@
+{
+ "comedian_id": "marty-gleeson-stand-up",
+ "name": "Marty Gleeson Stand-Up",
+ "clips": 1,
+ "total_views": 213,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "MdLbZMCwPGA",
+  "title": "David Attenborough National Park | Marty Gleeson Stand-Up",
+  "channel": "Comedy Bloomers",
+  "views": 213,
+  "duration_s": 99,
+  "url": "https://www.youtube.com/watch?v=MdLbZMCwPGA",
+  "r2_clip_key": "comedians/marty-gleeson-stand-up/clips/marty-gleeson-stand-up-mdlbzmcwpga.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marty-gleeson-stand-up/clips/marty-gleeson-stand-up-mdlbzmcwpga.json"
+ },
+ "rows": [
+  {
+   "videoId": "MdLbZMCwPGA",
+   "title": "David Attenborough National Park | Marty Gleeson Stand-Up",
+   "channel": "Comedy Bloomers",
+   "views": 213,
+   "likes": null,
+   "duration_s": 99,
+   "url": "https://www.youtube.com/watch?v=MdLbZMCwPGA",
+   "n_words": 129,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "David, David Attenborough died at the age of 187. Gone too soon, David. David, thank you for everything. >> [laughter] >> But then they took his DNA to make more Davids David Attenboroughs and build a",
+   "r2_clip_key": "comedians/marty-gleeson-stand-up/clips/marty-gleeson-stand-up-mdlbzmcwpga.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/marty-gleeson-stand-up/clips/marty-gleeson-stand-up-mdlbzmcwpga.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

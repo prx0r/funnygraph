@@ -1,0 +1,38 @@
+{
+ "comedian_id": "flotation-tank-theory",
+ "name": "FLOTATION TANK THEORY",
+ "clips": 1,
+ "total_views": 15000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "HJGGBo0krGo",
+  "title": "FLOTATION TANK THEORY | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 15000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=HJGGBo0krGo",
+  "r2_clip_key": "comedians/flotation-tank-theory/clips/flotation-tank-theory-hjggbo0krgo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/flotation-tank-theory/clips/flotation-tank-theory-hjggbo0krgo.json"
+ },
+ "rows": [
+  {
+   "videoId": "HJGGBo0krGo",
+   "title": "FLOTATION TANK THEORY | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 15000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=HJGGBo0krGo",
+   "n_words": 287,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "If you could climb into a sensory deprivation chamber and live a perfect life, Yes. The theory is that you would be better off choosing real life. You would n't agree to the exchange, essentially. Wou",
+   "r2_clip_key": "comedians/flotation-tank-theory/clips/flotation-tank-theory-hjggbo0krgo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/flotation-tank-theory/clips/flotation-tank-theory-hjggbo0krgo.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

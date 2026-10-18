@@ -1,0 +1,1389 @@
+{
+ "comedian": "stewart_lee",
+ "source": "/tmp/opencode/stewart-lee-live-at-the-lowry.json",
+ "note": "r2:comedians/stewart-lee/specials/live-at-the-lowry.json method=youtube-auto-captions",
+ "audio_duration_s": 5407.57,
+ "timing": {
+  "word_count": 12478,
+  "duration_s": 5407.49,
+  "wpm": 138.5,
+  "pause_count": 222,
+  "pause_bins": {
+   "very_short": 51,
+   "short": 20,
+   "substantial": 19,
+   "topic": 132
+  },
+  "mean_pause_s": 1.922,
+  "median_pause_s": 1.01,
+  "punch_pauses_s": [
+   23.51,
+   14.44,
+   12.12,
+   11.56,
+   10.12,
+   9.08,
+   7.24,
+   7.08
+  ],
+  "max_pause_s": 23.51
+ },
+ "punch_candidates": [
+  {
+   "t_start_s": 11.71,
+   "pause_before_s": 2.86,
+   "fingerprint": "[Applause] [Music] It's always difficult to know"
+  },
+  {
+   "t_start_s": 73.04,
+   "pause_before_s": 0.84,
+   "fingerprint": "was Robert Powell nominated for a BAFTA"
+  },
+  {
+   "t_start_s": 83.44,
+   "pause_before_s": 2.44,
+   "fingerprint": "and he said know it isn't that"
+  },
+  {
+   "t_start_s": 116.32,
+   "pause_before_s": 3.0,
+   "fingerprint": "I said there's no point coming in"
+  },
+  {
+   "t_start_s": 130.96,
+   "pause_before_s": 6.04,
+   "fingerprint": "the Well, don't tell me to carry"
+  },
+  {
+   "t_start_s": 138.32,
+   "pause_before_s": 0.68,
+   "fingerprint": "okay the problem is you miss the"
+  },
+  {
+   "t_start_s": 158.08,
+   "pause_before_s": 2.2,
+   "fingerprint": "you can stay right but I don't"
+  },
+  {
+   "t_start_s": 198.64,
+   "pause_before_s": 1.32,
+   "fingerprint": "And what I do is I use"
+  },
+  {
+   "t_start_s": 214.32,
+   "pause_before_s": 1.32,
+   "fingerprint": "coming in late to me, right? It's"
+  },
+  {
+   "t_start_s": 227.76,
+   "pause_before_s": 1.32,
+   "fingerprint": "I'm not going back to that joke"
+  },
+  {
+   "t_start_s": 296.08,
+   "pause_before_s": 1.96,
+   "fingerprint": "or marry a mayfly. short lifespans they've"
+  },
+  {
+   "t_start_s": 300.8,
+   "pause_before_s": 1.0,
+   "fingerprint": "short lifespans they've got, haven't they, madam,"
+  }
+ ],
+ "beats": [
+  {
+   "beat": 0,
+   "t0_s": 0.08,
+   "t1_s": 8.85,
+   "words": 10,
+   "text": "The following program contains strong language and adult humor. [Music]",
+   "pause_after_s": 2.86
+  },
+  {
+   "beat": 1,
+   "t0_s": 11.71,
+   "t1_s": 72.2,
+   "words": 140,
+   "text": "[Applause] [Music] It's always difficult to know how to start a show. I've only ever written one decent opening routine. Uh, I wrote it in September 1989 and I'm going to open with it tonight without ",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 2,
+   "t0_s": 73.04,
+   "t1_s": 76.76,
+   "words": 3,
+   "text": "was Robert Powell",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 3,
+   "t0_s": 77.28,
+   "t1_s": 81.0,
+   "words": 4,
+   "text": "nominated for a BAFTA",
+   "pause_after_s": 2.44
+  },
+  {
+   "beat": 4,
+   "t0_s": 83.44,
+   "t1_s": 113.32,
+   "words": 72,
+   "text": "and he said know it isn't that I said can another guest he said yes I said is the question I was born in zero BC and I am commonly regarded as being the inventor of Christianity but which Jay am I and",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 5,
+   "t0_s": 116.32,
+   "t1_s": 124.92,
+   "words": 14,
+   "text": "I said there's no point coming in really now for I said there's no",
+   "pause_after_s": 6.04
+  },
+  {
+   "beat": 6,
+   "t0_s": 130.96,
+   "t1_s": 137.64,
+   "words": 12,
+   "text": "the Well, don't tell me to carry on. The problem is that",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 7,
+   "t0_s": 138.32,
+   "t1_s": 155.88,
+   "words": 55,
+   "text": "okay the problem is you miss the opening line right which ties in with the fi the final line of the thing creates a whole through line for the whole show and you miss the opening two jokes which set u",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 8,
+   "t0_s": 158.08,
+   "t1_s": 197.32,
+   "words": 93,
+   "text": "you can stay right but I don't want to don't want you laughing I don't want looking at you later on and seeing you going, \"This doesn't make sense.\" Cuz it does. Just you've not. You can't really come",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 9,
+   "t0_s": 198.64,
+   "t1_s": 213.0,
+   "words": 31,
+   "text": "And what I do is I use standup comedy as a sort of Trojan horse to deliver a literary art to places it's not really wanted. Like Sulford on a Monday",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 10,
+   "t0_s": 214.32,
+   "t1_s": 226.44,
+   "words": 38,
+   "text": "coming in late to me, right? It's a bit like thinking, \"Oh, I'll read Toltoy's War and Peace, but I'll rip out the first 10 chapters.\" And then you're going, \"Who the [\u00a0__\u00a0] are all these Russian peop",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 11,
+   "t0_s": 227.76,
+   "t1_s": 294.12,
+   "words": 191,
+   "text": "I'm not going back to that joke about the door now. What's the point? Forget it. Um, no. Well, you know, you should have people should get here on time. So, uh, it's always very difficult to know how ",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 12,
+   "t0_s": 296.08,
+   "t1_s": 299.8,
+   "words": 4,
+   "text": "or marry a mayfly.",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 13,
+   "t0_s": 300.8,
+   "t1_s": 319.88,
+   "words": 41,
+   "text": "short lifespans they've got, haven't they, madam, with the with your arms full. The mayfly has it's got a short lifespan. That's why you should be laughing at that. Don't come and see me if you don't ",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 14,
+   "t0_s": 320.88,
+   "t1_s": 330.76,
+   "words": 19,
+   "text": "More [\u00a0__\u00a0] pricks coming in late. But I've already done the bit I do when people come in late.",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 15,
+   "t0_s": 331.52,
+   "t1_s": 385.32,
+   "words": 161,
+   "text": "You can't really come in late to me. Cuz the thing about me is what are they laughing at? You don't know, do you? Cuz you weren't here. I'm not really a stand-up comedian. I'm more of a sort of litera",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 16,
+   "t0_s": 387.2,
+   "t1_s": 420.82,
+   "words": 103,
+   "text": "But she's gone. We got a new bloke, Steve Barklay, environment secretary. And what he needs to do, he needs to stop the uh the privatized water companies creaming off all the profits and pumping milli",
+   "pause_after_s": 0.78
+  },
+  {
+   "beat": 17,
+   "t0_s": 421.6,
+   "t1_s": 429.08,
+   "words": 8,
+   "text": "Don't clap. It's not Fergle Sharky's birthday party.",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 18,
+   "t0_s": 432.08,
+   "t1_s": 457.4,
+   "words": 92,
+   "text": "So that's all I've got on the tour anyway cuz they, you know, so I thought what can I do for the top of the show fun bit and I thought with the royal family that's ongoing, isn't it? And I was very so",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 19,
+   "t0_s": 458.56,
+   "t1_s": 488.68,
+   "words": 83,
+   "text": "I don't know what it's like here in uh Sulford, but down in London, the monarchist struggled to know how to grieve uh for the queen. And because she'd been in that little Paddington comedy sketch on C",
+   "pause_after_s": 6.36
+  },
+  {
+   "beat": 20,
+   "t0_s": 495.04,
+   "t1_s": 514.14,
+   "words": 40,
+   "text": "A lot of the monarchists, they left little Paddington bear dolls outside Buckingham Palace. That was all right. What happened to them? The royal footman gathered them up and they were given to Prince ",
+   "pause_after_s": 5.06
+  },
+  {
+   "beat": 21,
+   "t0_s": 519.2,
+   "t1_s": 537.08,
+   "words": 46,
+   "text": "You got a little Paddington Bear doll there in the in the grass by the swings. Next to that, some kind of stick or a scepter stuck into the ground. On top of that, the lid of an empty pizza express bo",
+   "pause_after_s": 5.16
+  },
+  {
+   "beat": 22,
+   "t0_s": 542.24,
+   "t1_s": 560.6,
+   "words": 47,
+   "text": "I submitted that joke to a Sunday newspaper and they said, \"We can't really print that. Can you rewrite it?\" So, I rewrote it. I put the royal footmen gather up the Paddington Bear dolls and give them",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 23,
+   "t0_s": 562.56,
+   "t1_s": 566.6,
+   "words": 5,
+   "text": "They said that's worse really",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 24,
+   "t0_s": 567.44,
+   "t1_s": 596.76,
+   "words": 71,
+   "text": "cuz of what's left unsaid. You know the suggestion Prince Andrew is sitting lying on silk and sheets in the royal apartments calling to the footmen beyond the door more Paddingtons. More Paddingtons n",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 25,
+   "t0_s": 598.48,
+   "t1_s": 752.92,
+   "words": 405,
+   "text": "So, uh, I was supposed to have a stand-up show on BBC 2 the night before the Queen's funeral on the Sunday night, and they canled it on the day cuz everyone was so worried, weren't they, about what wa",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 26,
+   "t0_s": 753.84,
+   "t1_s": 774.84,
+   "words": 45,
+   "text": "The problem started the next day, to be honest with the queen's funeral. I was sitting in patriotically trying to watch the news coverage with the kids. You know, the queen's decomposing body starts r",
+   "pause_after_s": 2.84
+  },
+  {
+   "beat": 27,
+   "t0_s": 777.68,
+   "t1_s": 789.8,
+   "words": 27,
+   "text": "I had to go and finish myself off in the shed and I haven't even got a shed. It's just sitting in the garden on a workbench.\"",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 28,
+   "t0_s": 790.48,
+   "t1_s": 821.96,
+   "words": 106,
+   "text": "Right, that's the end of the fun topical bit at the top of the show. It's not really of interest to me that sort of stuff. If I just do it cuz I'm sick of reading people going, \"The reason you don't s",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 29,
+   "t0_s": 822.64,
+   "t1_s": 927.0,
+   "words": 299,
+   "text": "So, so if you've seen me before, and uh I hope you have, as I said, you'll know. Uh I didn't really know what to do with this show, you know, normally I would take whatever the political through line ",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 30,
+   "t0_s": 928.96,
+   "t1_s": 951.0,
+   "words": 40,
+   "text": "That's right. That get turn around. Look at this bloke. That's supposed to be an example of outofdate 80s sexist comedy. Sir, not the first bit you've really enjoyed in our you get that bloke. Andrew ",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 31,
+   "t0_s": 952.16,
+   "t1_s": 1027.24,
+   "words": 195,
+   "text": "But of course today, loads of the best stand-ups are women. So let's change that definition. Standup comedy. One man or woman. Yeah. One microphone, one audience, pure, simple, classic. But if you've ",
+   "pause_after_s": 12.12
+  },
+  {
+   "beat": 32,
+   "t0_s": 1039.36,
+   "t1_s": 1045.08,
+   "words": 7,
+   "text": "Not against transgender people, but against magicians.",
+   "pause_after_s": 3.96
+  },
+  {
+   "beat": 33,
+   "t0_s": 1049.04,
+   "t1_s": 1063.32,
+   "words": 33,
+   "text": "Because before I met Fay Presto, Idy was assumed all magicians were just creepy old men with suspiciously young female assistants. But after I met Fay Presto, blah blah rhythm of a joke.",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 34,
+   "t0_s": 1064.64,
+   "t1_s": 1078.52,
+   "words": 29,
+   "text": "That's how jokes work. They're [\u00a0__\u00a0] aren't they? Jokes. I hate jokes. All jokes are the same with the words changed, aren't they? Do you know what I mean?",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 35,
+   "t0_s": 1080.56,
+   "t1_s": 1110.52,
+   "words": 75,
+   "text": "Pointless. I'm not going to write any more jokes. I'm going to come out here with a blackboard with a list of topics on it. I'm going to point at one of them and you can have a good laugh imagining wh",
+   "pause_after_s": 6.12
+  },
+  {
+   "beat": 36,
+   "t0_s": 1116.64,
+   "t1_s": 1171.13,
+   "words": 146,
+   "text": "So, there was a definition of standup comedy. But as well as a definition of standup comedy, there's something else you need to do a show, and that's some material. you're going to need some material ",
+   "pause_after_s": 23.51
+  },
+  {
+   "beat": 37,
+   "t0_s": 1194.64,
+   "t1_s": 1217.64,
+   "words": 52,
+   "text": "You know Hugh Fernie Whittingto he likes meat. In fact, in 1998, he actually cooked inette a human placenta live on channel 4, for which he was roundly criticized by the watchdog, who said he should a",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 38,
+   "t0_s": 1220.64,
+   "t1_s": 1267.08,
+   "words": 122,
+   "text": "so what I'm saying is, okay, this is me now, madam. I've stopped doing that character. This is what I'm saying is right if he's going to change tac about what he's writing about or any writer you got ",
+   "pause_after_s": 3.4
+  },
+  {
+   "beat": 39,
+   "t0_s": 1270.48,
+   "t1_s": 1279.8,
+   "words": 18,
+   "text": "But when JK Rowling writes thrillers for adults, she calls herself Robert Galbra, which is a man's name.",
+   "pause_after_s": 11.56
+  },
+  {
+   "beat": 40,
+   "t0_s": 1291.36,
+   "t1_s": 1300.36,
+   "words": 16,
+   "text": "I don't know where you think this is going. It's not [\u00a0__\u00a0] going anywhere near that.",
+   "pause_after_s": 2.28
+  },
+  {
+   "beat": 41,
+   "t0_s": 1302.64,
+   "t1_s": 1322.2,
+   "words": 60,
+   "text": "No, it's not worth it. No way. I've got I've got kids. I don't want the grief. Right. I know what you're thinking, madam. You're going It is about that. It's a clever double bluff. [\u00a0__\u00a0] is not about",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 42,
+   "t0_s": 1323.76,
+   "t1_s": 1350.04,
+   "words": 65,
+   "text": "So, what I'm saying is when JK Railing writes thrillers for adults, she calls herself Robert Galbra, which is a man's name. I've said, haven't I? I've said what part of it's not about that, do you kno",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 43,
+   "t0_s": 1350.56,
+   "t1_s": 1363.88,
+   "words": 42,
+   "text": "I I I mentioned this about 18 months ago. All hell broke loose. I didn't know I'm not on the internet, you know. A friend of mine rang me up from Ireland. She went, \"Oh, it's awful what's happened to ",
+   "pause_after_s": 2.68
+  },
+  {
+   "beat": 44,
+   "t0_s": 1366.56,
+   "t1_s": 1401.56,
+   "words": 108,
+   "text": "What's happened to me? And she said, \"Oh, have you not?\" I looked on the internet. There's all these people. Get him. Kill him. There's a funny little old man. He lives in a Martello tower. Have you s",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 45,
+   "t0_s": 1402.48,
+   "t1_s": 1439.64,
+   "words": 92,
+   "text": "Well, that's why this is not about that. It's not worth it. Right. So, what I'm saying is when JK Rowling, it's [\u00a0__\u00a0] not about sex. Stop. You knew it. I'm like, they put my home details on mumset. H",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 46,
+   "t0_s": 1440.4,
+   "t1_s": 1445.8,
+   "words": 10,
+   "text": "especially if there's a branch of Carluchio's on the way.",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 47,
+   "t0_s": 1447.76,
+   "t1_s": 1513.24,
+   "words": 165,
+   "text": "This is not about that cuz it's not worth the grief, right? So get over it. So what I'm saying is when JK Rowling writes thrillers for adults, she calls herself Robert Galbra, which is a man's name. S",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 48,
+   "t0_s": 1514.16,
+   "t1_s": 1527.24,
+   "words": 33,
+   "text": "So, what I'm saying is right, JK Rowling doesn't become a man when she writes her books for adults. She doesn't sit there in the morning with all women's genitals all over her",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 49,
+   "t0_s": 1528.56,
+   "t1_s": 1646.92,
+   "words": 304,
+   "text": "writing Harry Potter books for children, you know, writing about a moth that had a hat on and was in charge of a library or a dish that was ashamed of its memories. Have you read the Madam Like a Harr",
+   "pause_after_s": 6.44
+  },
+  {
+   "beat": 50,
+   "t0_s": 1653.36,
+   "t1_s": 1742.6,
+   "words": 197,
+   "text": "The thing about audience interaction, you have to know when to just walk away. Leave her alone. Okay, fine. It's a bit of fun. For [\u00a0__\u00a0] sake, you don't mind, do you? Would you read that? An ombudsma",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 51,
+   "t0_s": 1743.28,
+   "t1_s": 1843.72,
+   "words": 249,
+   "text": "and then and he knows that she's a man if she's right about things men are interested in, you know, like fuse boxes or who would win in a fight between a shark and a zombie. The laughter's fading away",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 52,
+   "t0_s": 1845.04,
+   "t1_s": 1867.48,
+   "words": 81,
+   "text": "these days people allowed to write about whatever they like aren't they? Irrespective of their gender. It was better in the old days. You knew where you were, didn't you, sir? You went in the bookshop",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 53,
+   "t0_s": 1868.16,
+   "t1_s": 1948.36,
+   "words": 236,
+   "text": "he could How interested are people from other parts of the country going to be in this? I don't think so. But um I don't live in Sulford. I don't want to know about it. talk about London like the othe",
+   "pause_after_s": 1.48
+  },
+  {
+   "beat": 54,
+   "t0_s": 1949.84,
+   "t1_s": 1971.4,
+   "words": 62,
+   "text": "So some material there 17 minutes of material there. Sometimes runs a bit longer that bit the JK Rowling bit didn't quite land like it usually does tonight. The beauty of that routine uh to me uh is t",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 55,
+   "t0_s": 1973.92,
+   "t1_s": 1976.92,
+   "words": 1,
+   "text": "So,",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 56,
+   "t0_s": 1977.6,
+   "t1_s": 2002.12,
+   "words": 48,
+   "text": "we're about halfway through now and so far we've seen a definition of stand-up comedy, haven't we? That was good. And then it was and then we saw and and then we saw some stand-up comedy being invente",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 57,
+   "t0_s": 2003.12,
+   "t1_s": 2026.84,
+   "words": 68,
+   "text": "and later on in the in the show, uh we're going to see something quite impressive actually. We're going to see how I am able to give stand-up comedy a genuine emotional weight and depth. And we're goi",
+   "pause_after_s": 7.08
+  },
+  {
+   "beat": 58,
+   "t0_s": 2033.92,
+   "t1_s": 2075.64,
+   "words": 128,
+   "text": "One of the great things about the way standup is delivered, you can address the audience directly, can't you? Can address the audience directly. People love that. Bald man with glasses there. Bald man",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 59,
+   "t0_s": 2076.16,
+   "t1_s": 2231.96,
+   "words": 382,
+   "text": "vainly waiting for the justice that will never come. That will never come. That just you can talk to the audience directly. People love that. What's that on man in the third row? What's that on your t",
+   "pause_after_s": 2.52
+  },
+  {
+   "beat": 60,
+   "t0_s": 2234.48,
+   "t1_s": 2248.76,
+   "words": 21,
+   "text": "It's a shame. It's a shame we're filming this cuz that's the shittest that's ever gone. [\u00a0__\u00a0] load of people insulting.",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 61,
+   "t0_s": 2249.36,
+   "t1_s": 2261.8,
+   "words": 28,
+   "text": "What's that? He says in desperation, \"You with a beard. What's that say?\" >> Explorer. You an explorer, are you? or do you not even know what that is?",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 62,
+   "t0_s": 2263.52,
+   "t1_s": 2291.64,
+   "words": 69,
+   "text": "It's great it towards the audience. People love it. There's um this is supposed to be sold out as well. There's a empty seat there. There's two there, three there rather unhelpfully in the front row. ",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 63,
+   "t0_s": 2292.48,
+   "t1_s": 2546.36,
+   "words": 674,
+   "text": "They're worried you're going to challenge them to a game of chess and it'll all be over. So yes, I'm improvising around an Ingmar Bourbon film. Yeah, it's what you get off me. So I don't know I know a",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 64,
+   "t0_s": 2546.88,
+   "t1_s": 2627.88,
+   "words": 216,
+   "text": "no one had addressed an audience directly like this before 2016. No one. And the first person ever to address an audience directly in 2016, it was Phoebe Wall Bridge, wasn't it? From the program Flea ",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 65,
+   "t0_s": 2629.04,
+   "t1_s": 2939.4,
+   "words": 820,
+   "text": "And it took a posh educated woman to come along and explain to them what they'd been doing cuz they didn't even understand what it was that they'd done. And it changed everything, didn't it? When Phoe",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 66,
+   "t0_s": 2943.28,
+   "t1_s": 2977.08,
+   "words": 83,
+   "text": "But I wasn't sure. Right. But the main thing is I was 21 years old. I'd done one gig and I was already thinking outside the box. Yeah. And if you've been coming to see me these last 35 years or so in ",
+   "pause_after_s": 5.0
+  },
+  {
+   "beat": 67,
+   "t0_s": 2982.08,
+   "t1_s": 2987.8,
+   "words": 9,
+   "text": "He'll have gone, \"Yeah, my favorite uh comedian actually",
+   "pause_after_s": 1.72
+  },
+  {
+   "beat": 68,
+   "t0_s": 2989.52,
+   "t1_s": 2994.68,
+   "words": 7,
+   "text": "uh it's a guy called Stu Lee.\"",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 69,
+   "t0_s": 2996.56,
+   "t1_s": 3004.6,
+   "words": 19,
+   "text": "No, you won't have heard of him because he's he's not on all the kind of [\u00a0__\u00a0] you watch.",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 70,
+   "t0_s": 3005.76,
+   "t1_s": 3122.44,
+   "words": 244,
+   "text": "Stuart Lee. Yeah, he's amazing. Ah, he's amazing. Stuart Lee. When you, you know, when you've seen Stuart Lee, you'll find you can't really watch other standup actors. Stuart Lee. No, he he's not been",
+   "pause_after_s": 1.16
+  },
+  {
+   "beat": 71,
+   "t0_s": 3123.6,
+   "t1_s": 3131.8,
+   "words": 13,
+   "text": "in the Cho Brothers or something. I don't know. But it's um so",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 72,
+   "t0_s": 3132.8,
+   "t1_s": 3189.88,
+   "words": 154,
+   "text": "Steuart Lee. Yeah, I've got tickets for him for at the Sulford Larry on Monday. So, uh you should come actually cuz Monday is a difficult night for for comedy. I think he's done too many dates there. ",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 73,
+   "t0_s": 3190.4,
+   "t1_s": 3196.76,
+   "words": 20,
+   "text": "It is, isn't it? There's never a cue for the ladies though, is there? At my shows, if you notice,",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 74,
+   "t0_s": 3198.0,
+   "t1_s": 3214.68,
+   "words": 52,
+   "text": "it's not my fault. I try to be inclusive. You see me. The problem is a lot of the women, wives, girlfriends, partners, they don't want to come and see me, right? Cuz the problem is a lot of the men th",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 75,
+   "t0_s": 3215.68,
+   "t1_s": 3225.64,
+   "words": 18,
+   "text": "So the wives, girlfriends, partners, grandmothers, they don't want to come and see another monotonous, passive aggressive man",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 76,
+   "t0_s": 3227.04,
+   "t1_s": 3237.56,
+   "words": 20,
+   "text": "just waffling on about things. But it's worse than at home, isn't it? Cuz it's coming through these massive speakers.",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 77,
+   "t0_s": 3238.24,
+   "t1_s": 3252.84,
+   "words": 28,
+   "text": "So you can't just go, \"That's very interesting, dear.\" Yes. I've just got to go in the garden, actually, cuz I think the hedgehog's fallen in its milk.",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 78,
+   "t0_s": 3254.96,
+   "t1_s": 3273.24,
+   "words": 73,
+   "text": "You have my sympathy, ladies. I know this is a c. I know. I know what it's like. You're trying to get ready for bed at night, aren't you? Trying to get in the shower or have a talk about the gas bill ",
+   "pause_after_s": 0.6
+  },
+  {
+   "beat": 79,
+   "t0_s": 3273.84,
+   "t1_s": 3277.24,
+   "words": 3,
+   "text": "And he's going.",
+   "pause_after_s": 3.89
+  },
+  {
+   "beat": 80,
+   "t0_s": 3281.13,
+   "t1_s": 3284.91,
+   "words": 1,
+   "text": "[Music]",
+   "pause_after_s": 2.69
+  },
+  {
+   "beat": 81,
+   "t0_s": 3287.6,
+   "t1_s": 3294.04,
+   "words": 7,
+   "text": "Oh god. [Music] Oh, he's a genius.",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 82,
+   "t0_s": 3295.04,
+   "t1_s": 3299.56,
+   "words": 8,
+   "text": "And so am I. Because I like him.",
+   "pause_after_s": 3.8
+  },
+  {
+   "beat": 83,
+   "t0_s": 3303.36,
+   "t1_s": 3338.36,
+   "words": 111,
+   "text": "And you're going, \"Are you watching that boring bloke again?\" He goes, \"No, not boring. Actually, you can't just watch a minute of it. You have to watch the whole 4 and 1/2 hours cuz it's all about st",
+   "pause_after_s": 3.0
+  },
+  {
+   "beat": 84,
+   "t0_s": 3341.36,
+   "t1_s": 3367.96,
+   "words": 105,
+   "text": "A woman came up to me in Edinburgh in August and she said, \"You know that bit you've got about JK Rowling and she said, \"I agree with you about that intellectually and morally.\" She said, \"But all the",
+   "pause_after_s": 6.04
+  },
+  {
+   "beat": 85,
+   "t0_s": 3374.0,
+   "t1_s": 3378.28,
+   "words": 8,
+   "text": "I said, \"I don't think that would work.",
+   "pause_after_s": 10.12
+  },
+  {
+   "beat": 86,
+   "t0_s": 3388.4,
+   "t1_s": 3417.64,
+   "words": 82,
+   "text": "You are supposed to talk to the audience. Now, I very nearly invented it, but I lost my nerve. And of course, uh, Phoebe Wallerbridge got there first. I don't resent that. I think it's, uh, better tha",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 87,
+   "t0_s": 3418.48,
+   "t1_s": 3526.32,
+   "words": 299,
+   "text": "But uh you are supposed to talk to the audience now. I Who Who's seen me before here? Any of you? Yeah. So, you've noticed tonight I'm addressing the audience a lot more directly than I normally would",
+   "pause_after_s": 6.96
+  },
+  {
+   "beat": 88,
+   "t0_s": 3533.28,
+   "t1_s": 3540.04,
+   "words": 13,
+   "text": "And this is the optimum point for bringing in this kind of material.",
+   "pause_after_s": 3.56
+  },
+  {
+   "beat": 89,
+   "t0_s": 3543.6,
+   "t1_s": 3570.76,
+   "words": 70,
+   "text": "About 20 minutes from the end, you bring in an emotionally manipulative subplot. And you normally find that gives you enough of a push just to carry the audience with you through to the end. If you've",
+   "pause_after_s": 0.68
+  },
+  {
+   "beat": 90,
+   "t0_s": 3571.44,
+   "t1_s": 3578.04,
+   "words": 13,
+   "text": "But yeah, it's been it's been a struggle in in adult life. I",
+   "pause_after_s": 2.44
+  },
+  {
+   "beat": 91,
+   "t0_s": 3580.48,
+   "t1_s": 3619.72,
+   "words": 92,
+   "text": "I suspect that I've had periods of undiagnosed depression. Certainly, I was fasted by my uh you know, and I um I found lockdown particularly difficult. I know a lot of us did. I I just lost it really.",
+   "pause_after_s": 7.24
+  },
+  {
+   "beat": 92,
+   "t0_s": 3626.96,
+   "t1_s": 3636.12,
+   "words": 21,
+   "text": "He said, \"We're doing this, are we?\" Seriously, [\u00a0__\u00a0] [\u00a0__\u00a0] Dr. the doctor joke. What's [\u00a0__\u00a0] wrong with you, you prick?",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 93,
+   "t0_s": 3637.2,
+   "t1_s": 3645.64,
+   "words": 13,
+   "text": "I've got impatience to see. And I said, \"Come on, return the ball,",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 94,
+   "t0_s": 3646.88,
+   "t1_s": 3666.68,
+   "words": 49,
+   "text": "doctor. Doctor, I think I'm depressed.\" He said, \"Well,\" he said, \"Whenever I'm depressed,\" he said, \"I cheer myself up by going to see the funniest comedian that there is, Steuart Lee.\" And I said, \"",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 95,
+   "t0_s": 3670.56,
+   "t1_s": 3675.48,
+   "words": 7,
+   "text": "Good joke that, I think. And then,",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 96,
+   "t0_s": 3677.44,
+   "t1_s": 3688.12,
+   "words": 27,
+   "text": "and he said, well, he said, \"You may have an undiagnosed neurodyiverse condition.\" He said, \"Most comedians have, and they've all been able to monetize it.\" Um,",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 97,
+   "t0_s": 3688.96,
+   "t1_s": 3733.96,
+   "words": 140,
+   "text": "he said, \"I'm going to ask you five questions that will tell me,\" he said, \"if that's the case.\" Now, I've got these five questions here. Um, and I'd like to read them out. People have seen me before,",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 98,
+   "t0_s": 3736.88,
+   "t1_s": 3748.92,
+   "words": 29,
+   "text": "I don't want to get back into all that. Okay, we are where we are. People knew what they were voting for and suggest otherwise is patronizing. I think",
+   "pause_after_s": 5.91
+  },
+  {
+   "beat": 99,
+   "t0_s": 3754.83,
+   "t1_s": 3757.91,
+   "words": 1,
+   "text": "[Applause]",
+   "pause_after_s": 1.05
+  },
+  {
+   "beat": 100,
+   "t0_s": 3758.96,
+   "t1_s": 3763.84,
+   "words": 8,
+   "text": "but um the problem is okay um I",
+   "pause_after_s": 0.88
+  },
+  {
+   "beat": 101,
+   "t0_s": 3764.72,
+   "t1_s": 3842.28,
+   "words": 244,
+   "text": "need to read this out but I can't play him because we we've the EU. The problem is uh I'm filming this, right? And um when you uh film it and then sell it on to uh a broadcaster, you have to pay a cle",
+   "pause_after_s": 2.2
+  },
+  {
+   "beat": 102,
+   "t0_s": 3844.48,
+   "t1_s": 3852.28,
+   "words": 15,
+   "text": "but I think if people had known that it would limit their access to jazz,",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 103,
+   "t0_s": 3853.12,
+   "t1_s": 3872.12,
+   "words": 34,
+   "text": "uh we may have seen some very different voting patterns, particularly in a lot of the hardcore leave voting towns, you know, like uh South Shields, Peterbr, Skunk thought they're all big jazz towns.",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 104,
+   "t0_s": 3872.96,
+   "t1_s": 3989.88,
+   "words": 314,
+   "text": "Scumthor's like New Orleans, isn't it? In the 50s, Paris after the war, you know, melody's drifting through every raw iron balcony. Um, so I can't play in the jazz because we've left the EU. The probl",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 105,
+   "t0_s": 3990.4,
+   "t1_s": 4268.44,
+   "words": 768,
+   "text": "Now we need this bit to work otherwise the last 10 minutes goes wrong. Right? So we're just going to talk you through it. So I will say imagine your jazz now. Sulford and then you all and at home you ",
+   "pause_after_s": 1.18
+  },
+  {
+   "beat": 106,
+   "t0_s": 4269.62,
+   "t1_s": 4314.04,
+   "words": 98,
+   "text": "[Applause] that was touching in do you think people at home, I'd still be doing that routine if it was normally received with that level of bafflement. That's normally flying out the traps. That's goi",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 107,
+   "t0_s": 4315.44,
+   "t1_s": 4337.24,
+   "words": 62,
+   "text": "It's cuz of stuff like that. That's what they like. It flatters their intelligence, the broad sheet newspaper critics. Cuz what I do is as close to being not funny at all as it's possible to be. And t",
+   "pause_after_s": 5.8
+  },
+  {
+   "beat": 108,
+   "t0_s": 4343.04,
+   "t1_s": 4381.88,
+   "words": 99,
+   "text": "So, we're going to read out the five questions from the doctor. Remember from earlier? Can you remember? Start your imaginary jazz now. In your in your head. Don't start humming it. I don't have to co",
+   "pause_after_s": 6.05
+  },
+  {
+   "beat": 109,
+   "t0_s": 4387.93,
+   "t1_s": 4413.0,
+   "words": 44,
+   "text": "[Applause] [\u00a0__\u00a0] [\u00a0__\u00a0] you. I [\u00a0__\u00a0] you. I find that genuinely a It's not the same routine. I am I am the most prolific standup there has ever been. I know I'm known for that. I've written more tha",
+   "pause_after_s": 2.68
+  },
+  {
+   "beat": 110,
+   "t0_s": 4415.68,
+   "t1_s": 4422.2,
+   "words": 11,
+   "text": "[\u00a0__\u00a0] [\u00a0__\u00a0] old towns every two years with a whole new",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 111,
+   "t0_s": 4423.76,
+   "t1_s": 4452.36,
+   "words": 62,
+   "text": "It's not the same rout. Admittedly, I work within very narrow stylistic tram lines. Tram lines. Yeah, you like that, don't you? But it's not. Admittedly, I did the same routine twice tonight, but the ",
+   "pause_after_s": 2.92
+  },
+  {
+   "beat": 112,
+   "t0_s": 4455.28,
+   "t1_s": 4467.08,
+   "words": 23,
+   "text": "It's not the same. And you can [\u00a0__\u00a0] off, right? Because I don't get any of the credit that I'm deserve. [\u00a0__\u00a0] off.",
+   "pause_after_s": 1.88
+  },
+  {
+   "beat": 113,
+   "t0_s": 4468.96,
+   "t1_s": 4474.52,
+   "words": 16,
+   "text": "Then he said, \"Do you find it hard to make friends and prefer to be on?\"",
+   "pause_after_s": 3.8
+  },
+  {
+   "beat": 114,
+   "t0_s": 4478.32,
+   "t1_s": 4497.48,
+   "words": 64,
+   "text": "We do, don't we? Person on their own. I don't care. I don't care. I don't got any friends. When I was going to get married, right, there was only two BS I felt I knew well enough to ask to be my best ",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 115,
+   "t0_s": 4498.56,
+   "t1_s": 4508.36,
+   "words": 17,
+   "text": "where he'd been told there would be free cannabis flavored jelly and he was 52 years old.",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 116,
+   "t0_s": 4510.0,
+   "t1_s": 4525.0,
+   "words": 59,
+   "text": "And the bloke who did do it, I am very grateful to him to this day. But I find I can't really talk to him anymore because I voted for remain and he voted for leave. And I don't know about you, but I f",
+   "pause_after_s": 1.0
+  },
+  {
+   "beat": 117,
+   "t0_s": 4526.0,
+   "t1_s": 4538.76,
+   "words": 30,
+   "text": "I'm 56. I've got coronary art disease. I'm deaf. I'm not I don't want to waste whatever time I've got left talking to someone I don't agree with about anything.",
+   "pause_after_s": 1.64
+  },
+  {
+   "beat": 118,
+   "t0_s": 4540.4,
+   "t1_s": 4546.36,
+   "words": 11,
+   "text": "Yeah. Then he That's right. One person clapping on their own.",
+   "pause_after_s": 1.96
+  },
+  {
+   "beat": 119,
+   "t0_s": 4548.32,
+   "t1_s": 4566.2,
+   "words": 58,
+   "text": "It's going to be a hard edit this, isn't it? It's been a lot of say it myself. There's been some good adlibs and improvisation. It's going to be a hard edit. Much easier, isn't it, to be like Jimmy Ca",
+   "pause_after_s": 2.76
+  },
+  {
+   "beat": 120,
+   "t0_s": 4568.96,
+   "t1_s": 4611.08,
+   "words": 120,
+   "text": "Then he said, remember this bit from earlier? He said, \"Do you have a very keen interest in certain subjects or activities bordering on obsessional?\" Well, I did win celebrity mastermind answering que",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 121,
+   "t0_s": 4611.84,
+   "t1_s": 4613.2,
+   "words": 8,
+   "text": "no, I don't like change and I I",
+   "pause_after_s": 0.64
+  },
+  {
+   "beat": 122,
+   "t0_s": 4613.84,
+   "t1_s": 4671.96,
+   "words": 216,
+   "text": "appreciate I'm very lucky to do this for a living, but that it's there are things that I struggle with. You know, when I do these shows in in London, I'll do a 350 seater for sort of five nights a wee",
+   "pause_after_s": 0.92
+  },
+  {
+   "beat": 123,
+   "t0_s": 4672.88,
+   "t1_s": 4697.32,
+   "words": 79,
+   "text": "Then the next night I'll be in Glasgow or somewhere, I go in there, I'm wearing this, I'm doing this, that's the same. But I go in the dress room, there's one chair, there's five cups, where's the ket",
+   "pause_after_s": 2.76
+  },
+  {
+   "beat": 124,
+   "t0_s": 4700.08,
+   "t1_s": 4708.92,
+   "words": 18,
+   "text": "And you sit out there, don't you? And you you look up at me and you envy me.",
+   "pause_after_s": 6.36
+  },
+  {
+   "beat": 125,
+   "t0_s": 4715.28,
+   "t1_s": 4736.84,
+   "words": 54,
+   "text": "Right, you listen to me, right? This is being filmed. This is being filmed. And I need this to work. I'm not going to tell you much anymore. I need this to work. There's about 10 minutes left and then",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 126,
+   "t0_s": 4737.68,
+   "t1_s": 4755.8,
+   "words": 41,
+   "text": "And you should and you should envy me cuz you know what I've got in the fridge in my hotel. Before I came here in London, I bought six 150 g uh packs of sliced mushrooms that were reduced at Sainsbury",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 127,
+   "t0_s": 4757.92,
+   "t1_s": 4781.0,
+   "words": 68,
+   "text": "and I boiled all them up. And then I've grilled some chicken and I've cut that up and I've made six equally and I've sized meals in little tubs that I kept from the Vietnamese takeaway and I've put 30",
+   "pause_after_s": 1.8
+  },
+  {
+   "beat": 128,
+   "t0_s": 4782.8,
+   "t1_s": 4787.32,
+   "words": 7,
+   "text": "So you should envy me. But I",
+   "pause_after_s": 1.4
+  },
+  {
+   "beat": 129,
+   "t0_s": 4788.72,
+   "t1_s": 4854.36,
+   "words": 150,
+   "text": "but I stand up here and I look out at you, Sulford, and I I envy you. I I envy you the simplicity of your humrum lives. Just the pleasures of the simpletons, the simple sulfur jobs of, you know, the t",
+   "pause_after_s": 1.08
+  },
+  {
+   "beat": 130,
+   "t0_s": 4855.44,
+   "t1_s": 4861.8,
+   "words": 2,
+   "text": "morning. Cheers.",
+   "pause_after_s": 9.08
+  },
+  {
+   "beat": 131,
+   "t0_s": 4870.88,
+   "t1_s": 4888.76,
+   "words": 30,
+   "text": "And at the end of the day, yeah, I'll see you tomorrow. Yeah. Yeah. I'll say it tomorrow. Yeah. I see I see it tomorrow. Yeah. I say to my",
+   "pause_after_s": 5.56
+  },
+  {
+   "beat": 132,
+   "t0_s": 4894.32,
+   "t1_s": 4899.64,
+   "words": 5,
+   "text": "And the next day, Tuesday,",
+   "pause_after_s": 0.84
+  },
+  {
+   "beat": 133,
+   "t0_s": 4900.48,
+   "t1_s": 4903.8,
+   "words": 2,
+   "text": "born in.",
+   "pause_after_s": 14.44
+  },
+  {
+   "beat": 134,
+   "t0_s": 4918.24,
+   "t1_s": 4930.28,
+   "words": 10,
+   "text": "And at the end of the day, see tomorrow see",
+   "pause_after_s": 4.36
+  },
+  {
+   "beat": 135,
+   "t0_s": 4934.64,
+   "t1_s": 4937.64,
+   "words": 1,
+   "text": "tomorrow.",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 136,
+   "t0_s": 4938.96,
+   "t1_s": 4942.92,
+   "words": 4,
+   "text": "I'll see you tomorrow.",
+   "pause_after_s": 3.88
+  },
+  {
+   "beat": 137,
+   "t0_s": 4946.8,
+   "t1_s": 4955.85,
+   "words": 5,
+   "text": "The next day, Wednesday [Music]",
+   "pause_after_s": 1.43
+  },
+  {
+   "beat": 138,
+   "t0_s": 4957.28,
+   "t1_s": 4973.16,
+   "words": 9,
+   "text": "morning. [Music] Yeah. Cheers. [Music] Morning. Yeah. Cheers. Yeah.",
+   "pause_after_s": 3.71
+  },
+  {
+   "beat": 139,
+   "t0_s": 4976.87,
+   "t1_s": 4984.53,
+   "words": 1,
+   "text": "[Music]",
+   "pause_after_s": 2.43
+  },
+  {
+   "beat": 140,
+   "t0_s": 4986.96,
+   "t1_s": 5000.44,
+   "words": 12,
+   "text": "It was cold in the night. Yeah, [Applause] [Music] cold all night.",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 141,
+   "t0_s": 5001.2,
+   "t1_s": 5008.52,
+   "words": 13,
+   "text": "And at the end of the day Yeah. I see it tomorrow. Yeah.",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 142,
+   "t0_s": 5009.04,
+   "t1_s": 5010.16,
+   "words": 5,
+   "text": "I see it tomorrow. Yeah.",
+   "pause_after_s": 2.96
+  },
+  {
+   "beat": 143,
+   "t0_s": 5013.12,
+   "t1_s": 5017.32,
+   "words": 8,
+   "text": "I'll see you tomorrow. Yeah. See you tomorrow.",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 144,
+   "t0_s": 5018.08,
+   "t1_s": 5021.08,
+   "words": 1,
+   "text": "Yeah.",
+   "pause_after_s": 1.05
+  },
+  {
+   "beat": 145,
+   "t0_s": 5022.13,
+   "t1_s": 5033.8,
+   "words": 7,
+   "text": "[Music] Yeah, a bit warmer tonight hopefully.",
+   "pause_after_s": 2.68
+  },
+  {
+   "beat": 146,
+   "t0_s": 5036.48,
+   "t1_s": 5046.12,
+   "words": 11,
+   "text": "A bit of a warmer night. Got God willing. Yeah. Yeah.",
+   "pause_after_s": 0.76
+  },
+  {
+   "beat": 147,
+   "t0_s": 5046.88,
+   "t1_s": 5074.08,
+   "words": 17,
+   "text": "And the next day, Thursday morning. Yeah. Cheers. Morning. Yeah. Cheers. Yeah. Morning. Morning. Yeah. Yeah. [Music]",
+   "pause_after_s": 0.72
+  },
+  {
+   "beat": 148,
+   "t0_s": 5074.8,
+   "t1_s": 5076.16,
+   "words": 6,
+   "text": "Did rain in the night. Yeah.",
+   "pause_after_s": 4.48
+  },
+  {
+   "beat": 149,
+   "t0_s": 5080.64,
+   "t1_s": 5088.92,
+   "words": 10,
+   "text": "No. [Music] because I was asleep. I was asleep. So,",
+   "pause_after_s": 1.32
+  },
+  {
+   "beat": 150,
+   "t0_s": 5090.24,
+   "t1_s": 5096.12,
+   "words": 14,
+   "text": ">> well, because when I went down in the morning, I could see it was",
+   "pause_after_s": 2.12
+  },
+  {
+   "beat": 151,
+   "t0_s": 5098.24,
+   "t1_s": 5135.0,
+   "words": 81,
+   "text": "at the end of the day. Yeah, I see. Yeah. Have a good Yeah, I see. Yeah, that's it. Yeah, have a tomorrow. Yeah, I Yeah. So, I see her. I see her. I see her. Yeah. I see. I see her. See you, mate. Yea",
+   "pause_after_s": 0.52
+  },
+  {
+   "beat": 152,
+   "t0_s": 5135.52,
+   "t1_s": 5162.28,
+   "words": 27,
+   "text": "And the next day, Friday. Yeah, it's Friday. Yeah. Yeah, it's Friday. Yeah, it's Friday. Yeah, it's Friday. Yeah, it's a Friday. Yeah, it's Friday. Yeah, Friday.",
+   "pause_after_s": 1.01
+  },
+  {
+   "beat": 153,
+   "t0_s": 5163.29,
+   "t1_s": 5197.96,
+   "words": 75,
+   "text": "[Music] party on, dude. But at the end of the day, have a good weekend. I'll see you on Monday. Have a good weekend. I'll see you on Monday. Have a good weekend. I'll see you on Monday. Have a good we",
+   "pause_after_s": 2.04
+  },
+  {
+   "beat": 154,
+   "t0_s": 5200.0,
+   "t1_s": 5230.36,
+   "words": 64,
+   "text": "Listen, uh, you don't fancy going for a quick drink after work, do you? Cuz No. Well, well, well, I can't go, actually. So, uh, and I didn't want to, so it doesn't matter. But you did want to, didn't ",
+   "pause_after_s": 5.08
+  },
+  {
+   "beat": 155,
+   "t0_s": 5235.44,
+   "t1_s": 5261.96,
+   "words": 32,
+   "text": "Your [\u00a0__\u00a0] life. Your [\u00a0__\u00a0] life. This is my life. pure simple classic. But listen to that. There's there's no laughs, are there? There's just a strange, tense atmosphere of hopeless despair.",
+   "pause_after_s": 1.56
+  },
+  {
+   "beat": 156,
+   "t0_s": 5263.52,
+   "t1_s": 5270.12,
+   "words": 20,
+   "text": "It's a bit like the kind of atmosphere you might get at the end of an award-winning piece of theater.",
+   "pause_after_s": 3.4
+  },
+  {
+   "beat": 157,
+   "t0_s": 5273.52,
+   "t1_s": 5295.08,
+   "words": 55,
+   "text": "But no, it's not it's not appropriate. It's end of a comedy show. So, we'll end on a laugh. We we will end on a laugh. I'll leave you with a final uh closing joke. I've only ever written one decent cl",
+   "pause_after_s": 0.56
+  },
+  {
+   "beat": 158,
+   "t0_s": 5295.64,
+   "t1_s": 5304.52,
+   "words": 2,
+   "text": "[Applause] So,",
+   "pause_after_s": 1.24
+  },
+  {
+   "beat": 159,
+   "t0_s": 5305.76,
+   "t1_s": 5319.4,
+   "words": 45,
+   "text": "I'm going to finish with it now without changing any of the now irrelevant personal details and then I'm going to go see you in a couple of years. So, I was talking to my granddad the other day. He's ",
+   "pause_after_s": 2.6
+  },
+  {
+   "beat": 160,
+   "t0_s": 5322.0,
+   "t1_s": 5407.57,
+   "words": 110,
+   "text": "but he was alive when I wrote this. I'm not sick, you know. So, I was talking to my granddad the other day. He's 94 years old. I said to him, \"Granddad, you are 94 years old. What in your experience h",
+   "pause_after_s": 0
+  }
+ ],
+ "beat_count": 161,
+ "gtvh_coverage": {
+  "classified": 0,
+  "total": 161
+ },
+ "provenance": "measured \u2014 word timestamps from scribe; GTVH code-only"
+}

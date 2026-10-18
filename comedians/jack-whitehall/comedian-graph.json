@@ -106,8 +106,18 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "3 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "settle-down-2024",
+      "at-large-2017",
+      "i-m-only-joking-2020"
+    ],
+    "special_titles": [
+      "Jack Whitehall: Settle Down (2024)",
+      "Jack Whitehall: At Large (2017) \u2013 Transcript",
+      "Jack Whitehall: I\u2019m Only Joking (2020) | Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -276,10 +286,10 @@
     "legacy": 67.6,
     "legacy_era": 21.3,
     "audience": 30.0,
-    "popularity": 91.2,
+    "popularity": 91.6,
     "theory": 37.5,
     "heat": null,
-    "gap_value": 0.612,
+    "gap_value": 0.616,
     "overrated": "massively overrated",
     "canon_lag": -0.376
   },
@@ -333,7 +343,7 @@
     "awards": []
   },
   "rating": {
-    "headline": 66.7,
+    "headline": 44.1,
     "coverage": "UNRANKED",
     "provisional": "type-prior",
     "boards": {
@@ -359,12 +369,43 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://www.jackwhitehall.com/",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_clips": 9,
+    "r2_specials": 3
+  },
+  "youtube": {
+    "clips": 9,
+    "total_views": 34044991,
+    "timed_clips": 9,
+    "r2_linked": true,
+    "top_clip": {
+      "videoId": "UIL9CiUDHp0",
+      "title": "Jennifer Lawrence Cannot Handle Jack Whitehall's Poop Story | The Graham Norton Show",
+      "views": 16687444,
+      "duration_s": 115,
+      "url": "https://www.youtube.com/watch?v=UIL9CiUDHp0",
+      "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/jack-whitehall/clips/jack-whitehall-uil9ciudhp0.json"
+    }
+  },
+  "transcripts": {
+    "clip_words": 3144,
+    "special_words": 30155,
+    "timed_clips": 9,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

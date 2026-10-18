@@ -1,0 +1,38 @@
+{
+ "comedian_id": "naomi-cooper",
+ "name": "Naomi Cooper",
+ "clips": 1,
+ "total_views": 11000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "fqXpFWaFtso",
+  "title": "Smug Married Friends | Naomi Cooper | Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "views": 11000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=fqXpFWaFtso",
+  "r2_clip_key": "comedians/naomi-cooper/clips/naomi-cooper-fqxpfwaftso.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/naomi-cooper/clips/naomi-cooper-fqxpfwaftso.json"
+ },
+ "rows": [
+  {
+   "videoId": "fqXpFWaFtso",
+   "title": "Smug Married Friends | Naomi Cooper | Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "views": 11000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=fqXpFWaFtso",
+   "n_words": 146,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Alleyway Simon. >> [laughter] >> My friends are very supportive. They know I know they're supportive cuz they say supportive things like, \"I think you're lucky, Nami, because I would have loved to hav",
+   "r2_clip_key": "comedians/naomi-cooper/clips/naomi-cooper-fqxpfwaftso.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/naomi-cooper/clips/naomi-cooper-fqxpfwaftso.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

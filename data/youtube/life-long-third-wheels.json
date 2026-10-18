@@ -1,0 +1,38 @@
+{
+ "comedian_id": "life-long-third-wheels",
+ "name": "Life Long Third Wheels!",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "PrcJIRbs8k4",
+  "title": "Life Long Third Wheels! - Jeff Scheen",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=PrcJIRbs8k4",
+  "r2_clip_key": "comedians/life-long-third-wheels/clips/life-long-third-wheels-prcjirbs8k4.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/life-long-third-wheels/clips/life-long-third-wheels-prcjirbs8k4.json"
+ },
+ "rows": [
+  {
+   "videoId": "PrcJIRbs8k4",
+   "title": "Life Long Third Wheels! - Jeff Scheen",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=PrcJIRbs8k4",
+   "n_words": 309,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I was an only child till I was 14. And, and any only children No, I'm alone again. >> [laughter] >> Just you? >> Just me. >> YOU'RE THE ONLY ONE. NOBODY [laughter] ELSE. IT'S NOT a family, right? It's",
+   "r2_clip_key": "comedians/life-long-third-wheels/clips/life-long-third-wheels-prcjirbs8k4.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/life-long-third-wheels/clips/life-long-third-wheels-prcjirbs8k4.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

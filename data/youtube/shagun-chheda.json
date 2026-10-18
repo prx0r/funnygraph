@@ -1,0 +1,38 @@
+{
+ "comedian_id": "shagun-chheda",
+ "name": "Shagun Chheda",
+ "clips": 1,
+ "total_views": 157,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "_j28Djt-JgQ",
+  "title": "Starbucks Name |  Shagun Chheda @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 157,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=_j28Djt-JgQ",
+  "r2_clip_key": "comedians/shagun-chheda/clips/shagun-chheda-j28djt-jgq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shagun-chheda/clips/shagun-chheda-j28djt-jgq.json"
+ },
+ "rows": [
+  {
+   "videoId": "_j28Djt-JgQ",
+   "title": "Starbucks Name |  Shagun Chheda @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 157,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=_j28Djt-JgQ",
+   "n_words": 64,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And I spent, I spent a few years in America, and when I go to Starbucks there and tell them my name is Shugun, very different response. They'd look me dead in the eye, pick up the cup, and confidently",
+   "r2_clip_key": "comedians/shagun-chheda/clips/shagun-chheda-j28djt-jgq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/shagun-chheda/clips/shagun-chheda-j28djt-jgq.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

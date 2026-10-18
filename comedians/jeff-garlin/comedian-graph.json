@@ -59,7 +59,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -85,8 +85,22 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
-  "region": "us"
+  "region": "us",
+  "bio": {
+    "wikidata_id": "Q983082",
+    "dob": "1962-06-05",
+    "dod": null,
+    "birthplace": "Chicago",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "film director",
+      "film producer",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

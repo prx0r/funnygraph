@@ -1,0 +1,56 @@
+{
+ "comedian_id": "greg-davies",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "HpGAsFY321E",
+   "title": "Viper 480xv Alarm",
+   "channel": "gregdavies",
+   "publishedAt": "2013-10-04T18:43:49Z",
+   "duration_s": 221,
+   "views": 1889,
+   "likes": 2,
+   "comedian_slug": "greg-davies"
+  },
+  {
+   "videoId": "hGyXMOx1fmU",
+   "title": "J404 EGU",
+   "channel": "gregdavies",
+   "publishedAt": "2010-04-13T19:47:07Z",
+   "duration_s": 293,
+   "views": 56,
+   "likes": 1,
+   "comedian_slug": "greg-davies"
+  },
+  {
+   "videoId": "WwUdMqNsmg0",
+   "title": "Greg 1995 Range Rover2",
+   "channel": "gregdavies",
+   "publishedAt": "2008-11-19T17:08:43Z",
+   "duration_s": 44,
+   "views": 122,
+   "likes": 0,
+   "comedian_slug": "greg-davies"
+  },
+  {
+   "videoId": "VzWMNhx_E-0",
+   "title": "Greg 1995 Range Rover3",
+   "channel": "gregdavies",
+   "publishedAt": "2008-11-19T17:02:55Z",
+   "duration_s": 44,
+   "views": 141,
+   "likes": 0,
+   "comedian_slug": "greg-davies"
+  },
+  {
+   "videoId": "E2jwRJ9kzwE",
+   "title": "Greg 1995 Range Rover1",
+   "channel": "gregdavies",
+   "publishedAt": "2008-11-19T16:56:39Z",
+   "duration_s": 44,
+   "views": 191,
+   "likes": 0,
+   "comedian_slug": "greg-davies"
+  }
+ ]
+}

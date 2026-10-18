@@ -1,0 +1,962 @@
+{
+ "comedian_id": "tommy-tiernan",
+ "specials": [
+  {
+   "videoId": "uFVqRXmGHjY",
+   "title": "Pete Doherty | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-06-13T11:28:09Z",
+   "duration_s": 1476,
+   "views": 49572,
+   "likes": 666,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "eTfZPN1M8Hc",
+   "title": "Paul Giamatti | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-05-19T13:48:34Z",
+   "duration_s": 1426,
+   "views": 139030,
+   "likes": 2488,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "lJwmHCR8NfY",
+   "title": "Chris Eubank | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-05-13T14:22:49Z",
+   "duration_s": 1579,
+   "views": 97125,
+   "likes": 1142,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": "man-on-fire-2017"
+  },
+  {
+   "videoId": "vL680cJlvQg",
+   "title": "David Gray | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-05-13T14:19:00Z",
+   "duration_s": 1343,
+   "views": 35653,
+   "likes": 527,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": "worst-daddy-in-the-world-2024"
+  },
+  {
+   "videoId": "zXGCZR28vqg",
+   "title": "S\u00e9amus and Breannd\u00e1n Begley | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-11-24T22:35:40Z",
+   "duration_s": 1248,
+   "views": 43974,
+   "likes": 442,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "IkXKZc0FQaA",
+   "title": "Bob Geldof | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-11-10T11:29:00Z",
+   "duration_s": 1382,
+   "views": 160563,
+   "likes": 1868,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "ktUz5NfjM2o",
+   "title": "Steve Coogan | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-10-31T14:00:29Z",
+   "duration_s": 1358,
+   "views": 343705,
+   "likes": 3469,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "2TF1fbCYOjw",
+   "title": "Roy Keane | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-09-18T06:44:30Z",
+   "duration_s": 2354,
+   "views": 1023169,
+   "likes": 6719,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "pJk-gxa8pfk",
+   "title": "Stephen Rea | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-09-10T22:42:51Z",
+   "duration_s": 1332,
+   "views": 81120,
+   "likes": 840,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": "filth-queen-2025"
+  },
+  {
+   "videoId": "o-5rGOzBgy8",
+   "title": "Brenda Fricker | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-09-10T22:21:16Z",
+   "duration_s": 1262,
+   "views": 187220,
+   "likes": 1951,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "iMv592xWTSg",
+   "title": "Michael D. Higgins | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-08-29T14:39:54Z",
+   "duration_s": 1249,
+   "views": 210712,
+   "likes": 2594,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": "drew-michael-2018"
+  },
+  {
+   "videoId": "HxKLrzUnpZc",
+   "title": "Adam Clayton | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-08-17T08:47:26Z",
+   "duration_s": 1392,
+   "views": 114989,
+   "likes": 1347,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "nA8SeMYy1cY",
+   "title": "A Whole Hour Of My Best Jokes | BEST OF TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-02-01T17:00:36Z",
+   "duration_s": 3779,
+   "views": 282451,
+   "likes": 2888,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": "a-whole-different-story-2015"
+  },
+  {
+   "videoId": "GNVGj2P5SGQ",
+   "title": "Reeling In The Years With Tommy Tiernan | BEST OF TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-08-31T16:00:10Z",
+   "duration_s": 1354,
+   "views": 28165,
+   "likes": 409,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "zhl2EqFrgnQ",
+   "title": "St Patrick's Day With Tommy Tiernan | BEST OF TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-03-17T17:00:49Z",
+   "duration_s": 1282,
+   "views": 69638,
+   "likes": 844,
+   "comedian_slug": "tommy-tiernan",
+   "matched_r2_special": null
+  }
+ ],
+ "clips": [
+  {
+   "videoId": "gTpZqG15XAM",
+   "title": "Weather for the Wise",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-12-09T18:33:17Z",
+   "duration_s": 154,
+   "views": 22736,
+   "likes": 800,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "hWN3sB6gq6s",
+   "title": "Tommy's New Substack: Standup Storytelling",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-12-07T08:19:08Z",
+   "duration_s": 126,
+   "views": 12963,
+   "likes": 489,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "54POWTZOB0A",
+   "title": "The difference between America and Ireland is\u2026  #shorts #standupcomedy",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-06-23T17:11:48Z",
+   "duration_s": 108,
+   "views": 322735,
+   "likes": 5301,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "JSHYEXZK7ws",
+   "title": "Give your madness a gallop\u2026 #shorts",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-06-13T11:50:55Z",
+   "duration_s": 114,
+   "views": 101880,
+   "likes": 1886,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "YtrmrSEDVtc",
+   "title": "I met the Pope last year\u2026 #shorts",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-06-10T21:06:02Z",
+   "duration_s": 40,
+   "views": 68640,
+   "likes": 899,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "As0MeiVFxQ8",
+   "title": "Seamus O'Rourke | The Tommy Tiernan Show",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2025-01-25T23:09:40Z",
+   "duration_s": 137,
+   "views": 39272,
+   "likes": 465,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "nAAe5XSfoPA",
+   "title": "Tommy Tried To Be A Priest | TOMMY TIERNAN  #comedy #shorts  #standups",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-06-17T14:33:06Z",
+   "duration_s": 60,
+   "views": 98926,
+   "likes": 2539,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "dQIDD7h-iEU",
+   "title": "I Love My Dog | TOMMY TIERNAN #shorts  #comedy #standupclips #standups #standupcomedy #tommytiernan",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-06-08T09:02:06Z",
+   "duration_s": 60,
+   "views": 141379,
+   "likes": 3517,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "aZzGGf7uA4E",
+   "title": "Women Love True Crime | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-06-08T08:38:48Z",
+   "duration_s": 45,
+   "views": 9074,
+   "likes": 233,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "WEm3MKwWZnw",
+   "title": "Women are mad for the true crime...  #comedy #standupcomedy #standup #tommytiernan",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-05-07T11:58:23Z",
+   "duration_s": 45,
+   "views": 81363,
+   "likes": 2165,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "rBI-EG0iB4E",
+   "title": "Tommy Tiernan\u2019s new comedy special, 'tomfoolery' streaming now",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2024-04-30T09:58:28Z",
+   "duration_s": 147,
+   "views": 23158,
+   "likes": 375,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "GkRFP_FHLkk",
+   "title": "It's My F**king Wedding Day | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-05-10T16:00:20Z",
+   "duration_s": 58,
+   "views": 43580,
+   "likes": 1709,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "CTv1UYfR0pw",
+   "title": "I've Fallen And I Can't Get Up | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-04-19T16:00:16Z",
+   "duration_s": 59,
+   "views": 68034,
+   "likes": 1823,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "VImydzf3D2w",
+   "title": "The Irish Sneer | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-04-05T16:00:18Z",
+   "duration_s": 40,
+   "views": 64524,
+   "likes": 1530,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "UNFiWCjZOxA",
+   "title": "Women Love Health Spas | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-03-29T16:00:17Z",
+   "duration_s": 55,
+   "views": 19329,
+   "likes": 614,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "tXUVaDVCvM0",
+   "title": "Can You Please Get Your Husband? | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-03-22T17:00:37Z",
+   "duration_s": 59,
+   "views": 91054,
+   "likes": 2711,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "hH7hOJEKECE",
+   "title": "It's Hard To Be A Woman | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-02-22T17:00:26Z",
+   "duration_s": 57,
+   "views": 42086,
+   "likes": 1126,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "8V9tMZappWo",
+   "title": "Every Irish Person Must Listen To The Angelus | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-02-08T17:00:05Z",
+   "duration_s": 60,
+   "views": 50131,
+   "likes": 1196,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "HaTf1I2Kva8",
+   "title": "Are You The Tooth Fairy Daddy? | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-01-25T17:00:18Z",
+   "duration_s": 56,
+   "views": 108650,
+   "likes": 2494,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "Ju3lAk7U6LQ",
+   "title": "An Audience Member Leaves Tommy's Show | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-01-11T17:00:11Z",
+   "duration_s": 49,
+   "views": 77188,
+   "likes": 1699,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "vcOxrxvOeXM",
+   "title": "The Male Contraceptive Pill | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2023-01-04T17:00:35Z",
+   "duration_s": 49,
+   "views": 15122,
+   "likes": 420,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "_AaseR_cnRA",
+   "title": "Whiskey Is Anger Trapped In A Glass | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-12-28T17:00:17Z",
+   "duration_s": 50,
+   "views": 254801,
+   "likes": 7014,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "3BzE9_cZWSk",
+   "title": "A Drunk Driver And His Drunken Fool | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-12-21T17:00:02Z",
+   "duration_s": 44,
+   "views": 58460,
+   "likes": 1815,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "wgQ5kEQSqZk",
+   "title": "We Stopped Drinking Tea! | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-12-14T16:00:23Z",
+   "duration_s": 47,
+   "views": 24213,
+   "likes": 830,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "RsZAZ7t7ODs",
+   "title": "A Children's Story But For Adults | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-12-07T16:00:12Z",
+   "duration_s": 60,
+   "views": 16023,
+   "likes": 399,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "w0emgCsM0ig",
+   "title": "What Is The Cork Accent? | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-11-30T16:00:22Z",
+   "duration_s": 57,
+   "views": 260924,
+   "likes": 4780,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "uYnpwcDTAnM",
+   "title": "I F**king Love My Dog | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-11-23T17:00:48Z",
+   "duration_s": 55,
+   "views": 38946,
+   "likes": 1426,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "BczG7-eC6Ek",
+   "title": "Welcome To Zambia, Tommy Tiernan | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-11-16T16:00:07Z",
+   "duration_s": 53,
+   "views": 103073,
+   "likes": 2290,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "lC0iABAMXDU",
+   "title": "How Dare You Call Me A Racist? | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-11-09T17:00:38Z",
+   "duration_s": 58,
+   "views": 20373,
+   "likes": 490,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "M3waXAQpTbw",
+   "title": "Don't Believe Lucozade Sport's \"Last 15 Minutes\" | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-11-02T16:00:20Z",
+   "duration_s": 59,
+   "views": 17867,
+   "likes": 442,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "gXqIwp5scy8",
+   "title": "The Current State Of The Economy | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-10-12T16:00:34Z",
+   "duration_s": 41,
+   "views": 19708,
+   "likes": 548,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "A84FZlZ8CYg",
+   "title": "Why Don't You Just Die Already | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-10-05T16:00:05Z",
+   "duration_s": 53,
+   "views": 15782,
+   "likes": 447,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "a-EltF-KbTM",
+   "title": "Tommy Tiernan Learned More From His Dog Than Jesus Christ | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-09-28T16:00:01Z",
+   "duration_s": 166,
+   "views": 29108,
+   "likes": 622,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "VAo5TuLHyco",
+   "title": "Living On Farmer Time | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-09-21T16:00:19Z",
+   "duration_s": 59,
+   "views": 20620,
+   "likes": 792,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "ZafuURjeHiU",
+   "title": "Understanding The Irish Accent | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-09-14T16:00:21Z",
+   "duration_s": 235,
+   "views": 38116,
+   "likes": 569,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "-7xyobrOkAQ",
+   "title": "When Your Teacher Hates You |\u00a0#shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-09-07T16:00:00Z",
+   "duration_s": 57,
+   "views": 149879,
+   "likes": 3041,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "WqVnBfyLVlw",
+   "title": "How To Become A Priest | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-08-24T16:00:14Z",
+   "duration_s": 58,
+   "views": 11759,
+   "likes": 318,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "OAAxGqTeSVo",
+   "title": "Start Asking The Simple Questions In Life | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-08-17T16:00:11Z",
+   "duration_s": 328,
+   "views": 30249,
+   "likes": 484,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "4qudftmdZPM",
+   "title": "Civilisation Doesn't Suit Irish People | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-08-10T15:00:03Z",
+   "duration_s": 244,
+   "views": 61434,
+   "likes": 1095,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "Ft2-Sa3lqD0",
+   "title": "How To Put Effort Into Your Marriage | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-07-27T16:00:14Z",
+   "duration_s": 502,
+   "views": 46404,
+   "likes": 618,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "u3MG1iIZZjQ",
+   "title": "Accent and Emergency | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-07-20T16:00:39Z",
+   "duration_s": 418,
+   "views": 2320878,
+   "likes": 21130,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "0XuUbLDS3mI",
+   "title": "We Need The Steroid Olympics | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-07-13T16:00:00Z",
+   "duration_s": 54,
+   "views": 25008,
+   "likes": 947,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "seZi7PGy7zo",
+   "title": "Tommy Tiernan Talking Out Of His What? | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-07-01T16:00:39Z",
+   "duration_s": 60,
+   "views": 10535,
+   "likes": 306,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "ZiJ6yd7zV4M",
+   "title": "We're All Kind Of Done With America | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-06-28T16:00:31Z",
+   "duration_s": 232,
+   "views": 28347,
+   "likes": 474,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "TR_9nmcHMFA",
+   "title": "A Typical U2 Concert | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-06-17T16:00:14Z",
+   "duration_s": 38,
+   "views": 9712,
+   "likes": 251,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "ntAz0Dcp3pU",
+   "title": "Jesus Goes To Ireland | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-06-10T16:00:41Z",
+   "duration_s": 40,
+   "views": 205729,
+   "likes": 4207,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "_XM3FCEE0gg",
+   "title": "Irish Mothers Will Kill You | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-06-03T16:00:33Z",
+   "duration_s": 60,
+   "views": 156132,
+   "likes": 3695,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "EeY9GLSLCrs",
+   "title": "We Need To Reintroduce Drink Driving | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-05-23T16:00:06Z",
+   "duration_s": 134,
+   "views": 10737,
+   "likes": 207,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "nHLDr8bOrGM",
+   "title": "The Relationship Between Ireland And Tea | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-05-19T16:00:24Z",
+   "duration_s": 311,
+   "views": 43269,
+   "likes": 628,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "NCpHHtCCs9k",
+   "title": "Tommy Tiernan HATES Getting Older | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-05-16T16:00:11Z",
+   "duration_s": 299,
+   "views": 28628,
+   "likes": 454,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "cNjNQ3rWpkA",
+   "title": "My Creepy Teacher Did What? | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-05-12T16:00:32Z",
+   "duration_s": 53,
+   "views": 12924,
+   "likes": 440,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "C72IPrSIxWQ",
+   "title": "When You Send Your Child To School In Ireland | #shorts | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-05-05T16:00:07Z",
+   "duration_s": 41,
+   "views": 90884,
+   "likes": 2602,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "vIaYblOZHq8",
+   "title": "Father Kevin Gets Depressed (Tommy Tiernan On Father Ted) | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-04-25T16:00:33Z",
+   "duration_s": 258,
+   "views": 38971,
+   "likes": 505,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "Iy3TMLTou3Q",
+   "title": "Irish People Shouldn't Go To Dubai | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-04-18T16:00:09Z",
+   "duration_s": 211,
+   "views": 54116,
+   "likes": 683,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "2rda_GXgdgM",
+   "title": "A Silly Irish Man Decides To Run A Marathon | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-04-11T16:00:49Z",
+   "duration_s": 213,
+   "views": 12148,
+   "likes": 254,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "D84A-ZN_y1U",
+   "title": "We're Not Supposed To Live FOREVER | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-04-04T16:00:08Z",
+   "duration_s": 225,
+   "views": 46051,
+   "likes": 711,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "-9zEZxD4arg",
+   "title": "Tommy Tiernan REGRETS His First Time | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-03-31T16:00:00Z",
+   "duration_s": 389,
+   "views": 18559,
+   "likes": 340,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "ES2X6CSiF8s",
+   "title": "Where Did All Of Ireland's Money Go? | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-03-24T17:00:14Z",
+   "duration_s": 280,
+   "views": 112038,
+   "likes": 1322,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "7ztoJl-YNT0",
+   "title": "Tommy Tiernan Would Shoot The Pope | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-03-21T17:00:04Z",
+   "duration_s": 218,
+   "views": 15521,
+   "likes": 281,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "eb_Ea8G1loU",
+   "title": "Irish Music Isn't The Same Anymore | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-02-28T17:00:45Z",
+   "duration_s": 294,
+   "views": 111561,
+   "likes": 1135,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "p4VfYQygYW0",
+   "title": "Emigrate To Ireland For Communion Money | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-02-24T17:00:39Z",
+   "duration_s": 268,
+   "views": 53385,
+   "likes": 743,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "KCn-QsL30Qw",
+   "title": "Every Athlete Is On Steroids | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-02-21T17:00:10Z",
+   "duration_s": 325,
+   "views": 38216,
+   "likes": 580,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "iP462PFU3_8",
+   "title": "Is Bono Even Irish Anymore? | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-02-17T17:00:35Z",
+   "duration_s": 292,
+   "views": 76025,
+   "likes": 961,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "16z-Lk0LfKo",
+   "title": "Explaining Irish Football (GAA) To Foreigners | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-02-07T17:00:04Z",
+   "duration_s": 195,
+   "views": 569857,
+   "likes": 5471,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "DTKzv2gEf48",
+   "title": "How I Ended Up In A Mental Hospital | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-02-03T17:00:09Z",
+   "duration_s": 380,
+   "views": 141924,
+   "likes": 1937,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "fWYDsH-hqBM",
+   "title": "Every Time Tommy Tiernan Says The F Word In Stray Sod | BEST OF TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-31T17:00:52Z",
+   "duration_s": 189,
+   "views": 7777,
+   "likes": 164,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "F0J6jJhvoIc",
+   "title": "The Men Who Stare At Tractors | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-24T17:00:18Z",
+   "duration_s": 331,
+   "views": 114324,
+   "likes": 1180,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "TgJAO_Xhpi8",
+   "title": "Tommy Tiernan Almost Became A Priest | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-20T17:00:34Z",
+   "duration_s": 299,
+   "views": 31897,
+   "likes": 490,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "Zp6H4Ajn8Rs",
+   "title": "Will The Real Jesus Christ Please Stand Up | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-17T17:00:33Z",
+   "duration_s": 292,
+   "views": 51660,
+   "likes": 757,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "oDq7_IxyllY",
+   "title": "A Typical Fight With An Irish Mother | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-13T17:00:37Z",
+   "duration_s": 338,
+   "views": 573132,
+   "likes": 8036,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "pTb1Cgl0Nps",
+   "title": "Tommy Tiernan Has Far Too Many Kids | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-10T17:00:40Z",
+   "duration_s": 283,
+   "views": 47245,
+   "likes": 689,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "hOlE6tLvXgU",
+   "title": "Irish Darkness Vs American Optimism | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-06T17:00:24Z",
+   "duration_s": 326,
+   "views": 221015,
+   "likes": 3125,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "9gnW_OoG3Tw",
+   "title": "Tommy Tiernan Was Useless At School | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2022-01-03T17:00:16Z",
+   "duration_s": 230,
+   "views": 74987,
+   "likes": 838,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "L7DmWpxuFjE",
+   "title": "Irish Stories Make No Sense In 2022 | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2021-12-30T17:00:27Z",
+   "duration_s": 480,
+   "views": 118072,
+   "likes": 1416,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "ArEjSZloDA8",
+   "title": "The Funeral Everyone Had To Go To | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2021-12-27T17:00:04Z",
+   "duration_s": 445,
+   "views": 519616,
+   "likes": 3620,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "Bq5-xwRD8xk",
+   "title": "Tommy Tiernan's Version Of The Bible | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2021-12-23T17:00:08Z",
+   "duration_s": 247,
+   "views": 38522,
+   "likes": 574,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "VVrERG277zY",
+   "title": "Tales From The West Of Ireland | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2021-12-16T10:29:56Z",
+   "duration_s": 480,
+   "views": 361425,
+   "likes": 3841,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "1rE4f_zpDdo",
+   "title": "An Irish Man's Relationship With The Drink | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2021-12-16T10:29:50Z",
+   "duration_s": 260,
+   "views": 155639,
+   "likes": 1565,
+   "comedian_slug": "tommy-tiernan"
+  },
+  {
+   "videoId": "Xw4V5VsAMi0",
+   "title": "Tommy's A Native Of Ireland, England And.....Africa? | TOMMY TIERNAN",
+   "channel": "Tommy Tiernan",
+   "publishedAt": "2021-12-16T10:29:48Z",
+   "duration_s": 395,
+   "views": 158488,
+   "likes": 1595,
+   "comedian_slug": "tommy-tiernan"
+  }
+ ]
+}

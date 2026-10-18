@@ -1,166 +1,1436 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "brent-weinbach",
-  "name": "Brent Weinbach",
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "brent-weinbach",
+ "name": "Brent Weinbach",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {},
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": []
+ },
+ "discovery": {
+  "discovered_from": [
+   "deadline-2026"
+  ],
+  "discovery_note": "Alt veteran (Andy Kaufman Award), Popular Culture 2025; no breakout: indie until canon evidence",
+  "bio_note": "Brent Weinbach is a stand up comedian based in Los Angeles, USA. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Brent Weinbach On The Mic Monday, July 14th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic updates. Website Content \u00a9 2018 - 2026 Martin Wal",
+  "otm_enriched": true,
+  "otm_url": "https://www.onthemic.co.uk/comedians_list/brent-weinbach/"
+ },
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
   "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {},
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": []
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 73.4,
+  "theory": 12.5,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "rating": {
+  "headline": 12.5,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "discovery": {
-    "discovered_from": [
-      "deadline-2026"
-    ],
-    "discovery_note": "Alt veteran (Andy Kaufman Award), Popular Culture 2025; no breakout: indie until canon evidence",
-    "bio_note": "Brent Weinbach is a stand up comedian based in Los Angeles, USA. PODCASTS INTERVIEWS MERCHANDISE LINKS Podcasts Interviews Merchandise Links Brent Weinbach On The Mic Monday, July 14th, 2014 READ INTERVIEW Sed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metusSed cursus eget risus non vestibulum. Sed in molestie elit, vitae condimentum justo. Aenean vulputate leo metus... We love to tell you about our new stuff. Subscribe to newsletter! Sign Up To Our Mailing List to hear about On The Mic updates. Website Content \u00a9 2018 - 2026 Martin Wal",
-    "otm_enriched": true,
-    "otm_url": "https://www.onthemic.co.uk/comedians_list/brent-weinbach/"
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UCw98-O5dJwfmnZKrblUiTLQ",
+  "handle": "brentweinbach",
+  "title": "BrentWeinbach",
+  "subs": 65200,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "variety",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-13",
+  "name_match_rate": 0.3,
+  "other_names": [
+   "Bacon Was Naked",
+   "Batteries Up",
+   "Brad's Pit",
+   "Chicks With Flicks",
+   "Cluck Eye Rash",
+   "Cool As Spice",
+   "Cool Stuff",
+   "Easter's Promises"
+  ]
+ },
+ "nearest_greats": [
+  {
+   "comedian_id": "patton-oswalt",
+   "sim": 0.073
   },
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
+  {
+   "comedian_id": "trevor-noah",
+   "sim": 0.072
   },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 49.7,
-    "theory": 12.5,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "rating": {
-    "headline": 12.5,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "youtube_channel": {
-    "id": "UCw98-O5dJwfmnZKrblUiTLQ",
-    "handle": "brentweinbach",
-    "title": "BrentWeinbach",
-    "subs": 65200,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "variety",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-13",
-    "name_match_rate": 0.3,
-    "other_names": [
-      "Bacon Was Naked",
-      "Batteries Up",
-      "Brad's Pit",
-      "Chicks With Flicks",
-      "Cluck Eye Rash",
-      "Cool As Spice",
-      "Cool Stuff",
-      "Easter's Promises"
-    ]
-  },
-  "nearest_greats": [
-    {
-      "comedian_id": "patton-oswalt",
-      "sim": 0.073
-    },
-    {
-      "comedian_id": "trevor-noah",
-      "sim": 0.072
-    },
-    {
-      "comedian_id": "michael-che",
-      "sim": 0.052
-    }
-  ],
-  "website": {
-    "url": "https://brentweinbach.com",
-    "source": "url-guess-verified",
-    "checked": "2026-10-17"
-  },
-  "known_bits": [
-    {
-      "title": "Key-change Christmas",
-      "why_it_works": "Plays Christmas songs in minor keys until they become melancholic Hanukkah songs: literalize applied to music theory; the joke is a proof. Absurdist precision, Fielder-adjacent. (Deadline 2026; hypothesis)",
-      "theory_links": [
-        "literalize",
-        "rigidify"
-      ],
-      "source": "deadline-2026",
-      "status": "hypothesis (press-described, unmeasured)"
-    }
-  ],
-  "style_tags": {
-    "humor_type": "observational",
-    "theories": [
-      "incongruity",
-      "bisociation"
-    ],
-    "via": "patton-oswalt",
-    "sim": 0.073,
-    "method": "inferred-from-nearest-king (resemblance, not measurement)"
-  },
-  "socials": {
-    "twitter": {
-      "url": "http://twitter.com/BrentWeinbach",
-      "source": "otm-profile"
-    },
-    "facebook": {
-      "url": "https://www.facebook.com/Brent-Weinbach-22280018295",
-      "source": "otm-profile"
-    },
-    "instagram": {
-      "url": "https://www.instagram.com/brentweinbachcomedy/",
-      "source": "otm-profile"
-    },
-    "tiktok": {
-      "url": "https://www.tiktok.com/@onthemicuk/",
-      "source": "otm-profile"
-    },
-    "youtube": {
-      "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
-      "source": "otm-profile"
-    }
+  {
+   "comedian_id": "michael-che",
+   "sim": 0.052
   }
+ ],
+ "website": {
+  "url": "https://brentweinbach.com",
+  "source": "url-guess-verified",
+  "checked": "2026-10-17"
+ },
+ "known_bits": [
+  {
+   "title": "Key-change Christmas",
+   "why_it_works": "Plays Christmas songs in minor keys until they become melancholic Hanukkah songs: literalize applied to music theory; the joke is a proof. Absurdist precision, Fielder-adjacent. (Deadline 2026; hypothesis)",
+   "theory_links": [
+    "literalize",
+    "rigidify"
+   ],
+   "source": "deadline-2026",
+   "status": "hypothesis (press-described, unmeasured)"
+  }
+ ],
+ "style_tags": {
+  "humor_type": "observational",
+  "theories": [
+   "incongruity",
+   "bisociation"
+  ],
+  "via": "patton-oswalt",
+  "sim": 0.073,
+  "method": "inferred-from-nearest-king (resemblance, not measurement)"
+ },
+ "socials": {
+  "twitter": {
+   "url": "http://twitter.com/BrentWeinbach",
+   "source": "otm-profile"
+  },
+  "facebook": {
+   "url": "https://www.facebook.com/Brent-Weinbach-22280018295",
+   "source": "otm-profile"
+  },
+  "instagram": {
+   "url": "https://www.instagram.com/brentweinbachcomedy/",
+   "source": "otm-profile"
+  },
+  "tiktok": {
+   "url": "https://www.tiktok.com/@onthemicuk/",
+   "source": "otm-profile"
+  },
+  "youtube": {
+   "url": "https://www.youtube.com/playlist?list=PLF645lSRavIiaDIwLnkIGgVAFnqGReSu_",
+   "source": "otm-profile"
+  }
+ },
+ "bio": {
+  "wikidata_id": "Q4961588",
+  "dob": null,
+  "dod": null,
+  "birthplace": "Los Angeles",
+  "citizenship": "United States",
+  "occupations": [
+   "actor"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "youtube_specials": [
+  {
+   "videoId": "X5BZQFNnmAc",
+   "title": "The Chicken Coop - Ep. 235: I'm Nut Goin' Nuts",
+   "duration_s": 3950,
+   "views": 1345,
+   "url": "https://www.youtube.com/watch?v=X5BZQFNnmAc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "XITeg1hj6Nc",
+   "title": "The Chicken Coop - Ep. 234: Spunk'd",
+   "duration_s": 5529,
+   "views": 1338,
+   "url": "https://www.youtube.com/watch?v=XITeg1hj6Nc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4g5YHyjuczg",
+   "title": "The Chicken Coop - Ep. 233: Nutcho Cheese",
+   "duration_s": 5395,
+   "views": 1532,
+   "url": "https://www.youtube.com/watch?v=4g5YHyjuczg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5Dm3Yo4o8hM",
+   "title": "The Chicken Coop - Ep. 232: Teacher and Pet",
+   "duration_s": 4183,
+   "views": 1390,
+   "url": "https://www.youtube.com/watch?v=5Dm3Yo4o8hM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "mY3XDYFREa0",
+   "title": "The Chicken Coop - Ep. 100: Food For Gimps",
+   "duration_s": 5456,
+   "views": 2167,
+   "url": "https://www.youtube.com/watch?v=mY3XDYFREa0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "LLzs-rovdUQ",
+   "title": "The Chicken Coop - Ep. 231: Bacon Was Naked",
+   "duration_s": 5490,
+   "views": 1744,
+   "url": "https://www.youtube.com/watch?v=LLzs-rovdUQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "wp7F6abgMjE",
+   "title": "The Chicken Coop - Ep. 230: Suit To Nut",
+   "duration_s": 4736,
+   "views": 1262,
+   "url": "https://www.youtube.com/watch?v=wp7F6abgMjE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SH4PaJRQfAA",
+   "title": "The Chicken Coop - Ep. 229: Can't Fart This Feeling",
+   "duration_s": 4587,
+   "views": 1520,
+   "url": "https://www.youtube.com/watch?v=SH4PaJRQfAA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "nC8yao16Vuk",
+   "title": "The Chicken Coop - Ep. 228: Never Mind Me Nards",
+   "duration_s": 4491,
+   "views": 640,
+   "url": "https://www.youtube.com/watch?v=nC8yao16Vuk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "oD7v8GUBuUI",
+   "title": "The Chicken Coop - Ep. 227: A Very Messy Episode",
+   "duration_s": 4349,
+   "views": 523,
+   "url": "https://www.youtube.com/watch?v=oD7v8GUBuUI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "w8dawEZItvg",
+   "title": "The Chicken Coop - Ep. 226: Truly Pen*s",
+   "duration_s": 3443,
+   "views": 634,
+   "url": "https://www.youtube.com/watch?v=w8dawEZItvg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dLqwoDppE8g",
+   "title": "The Chicken Coop - Ep. 225: Sega Diss System",
+   "duration_s": 3989,
+   "views": 714,
+   "url": "https://www.youtube.com/watch?v=dLqwoDppE8g",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "oxv9t1dmHis",
+   "title": "The Chicken Coop - Ep. 224: Searching For Sizzle Man",
+   "duration_s": 4885,
+   "views": 607,
+   "url": "https://www.youtube.com/watch?v=oxv9t1dmHis",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2UayTD5KcwU",
+   "title": "The Chicken Coop - Ep. 223: Encinobite Man",
+   "duration_s": 5119,
+   "views": 664,
+   "url": "https://www.youtube.com/watch?v=2UayTD5KcwU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NUH2bR7V4Cc",
+   "title": "The Chicken Coop - Ep. 222: Slash Friction",
+   "duration_s": 4551,
+   "views": 479,
+   "url": "https://www.youtube.com/watch?v=NUH2bR7V4Cc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "qsSNhB_obTA",
+   "title": "The Chicken Coop - Ep. 221: Highly Charged",
+   "duration_s": 4728,
+   "views": 514,
+   "url": "https://www.youtube.com/watch?v=qsSNhB_obTA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "y9oYnSEU_fo",
+   "title": "The Chicken Coop - Ep. 220: Wicked Geisha",
+   "duration_s": 4745,
+   "views": 551,
+   "url": "https://www.youtube.com/watch?v=y9oYnSEU_fo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PT85Fp9KLGY",
+   "title": "Chicken Coop After Show FREE-Briefs Ep. 219",
+   "duration_s": 4608,
+   "views": 532,
+   "url": "https://www.youtube.com/watch?v=PT85Fp9KLGY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DonRW2Kh9Ks",
+   "title": "The Chicken Coop - Ep. 219: Bird Watching",
+   "duration_s": 4165,
+   "views": 480,
+   "url": "https://www.youtube.com/watch?v=DonRW2Kh9Ks",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pjvKsWEHaF8",
+   "title": "The Chicken Coop - Ep. 218: And Moonhead as Himself",
+   "duration_s": 2953,
+   "views": 581,
+   "url": "https://www.youtube.com/watch?v=pjvKsWEHaF8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3Bu53prE1VA",
+   "title": "The Chicken Coop - Ep. 217: Wheel Of Chicken",
+   "duration_s": 5615,
+   "views": 657,
+   "url": "https://www.youtube.com/watch?v=3Bu53prE1VA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6PWD31W9TK8",
+   "title": "The Chicken Coop - Ep. 216: Little Nerd On The Prairie",
+   "duration_s": 5326,
+   "views": 617,
+   "url": "https://www.youtube.com/watch?v=6PWD31W9TK8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vZ-poRv4MYA",
+   "title": "The Chicken Coop - Ep. 215: A Pretty Decent Man",
+   "duration_s": 5921,
+   "views": 660,
+   "url": "https://www.youtube.com/watch?v=vZ-poRv4MYA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "6EBktu3WQEc",
+   "title": "The Chicken Coop - Ep. 214: Wet Myself",
+   "duration_s": 4212,
+   "views": 510,
+   "url": "https://www.youtube.com/watch?v=6EBktu3WQEc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "LV2feh0rpOo",
+   "title": "The Chicken Coop - Ep. 213: Is It Lovely There?",
+   "duration_s": 5747,
+   "views": 748,
+   "url": "https://www.youtube.com/watch?v=LV2feh0rpOo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xh7L5gdeqgU",
+   "title": "The Chicken Coop - Ep. 212: War Of The Worlds War II",
+   "duration_s": 3061,
+   "views": 449,
+   "url": "https://www.youtube.com/watch?v=xh7L5gdeqgU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Zx8jLS7QNqI",
+   "title": "The Chicken Coop - Ep. 211: Me",
+   "duration_s": 4753,
+   "views": 618,
+   "url": "https://www.youtube.com/watch?v=Zx8jLS7QNqI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "qa3bz4NNdv4",
+   "title": "The Chicken Coop - Ep. 210: Rubbers",
+   "duration_s": 3915,
+   "views": 533,
+   "url": "https://www.youtube.com/watch?v=qa3bz4NNdv4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "uRdiZZbF8EE",
+   "title": "The Chicken Coop - Ep. 209: Slobs N Crabs",
+   "duration_s": 5420,
+   "views": 668,
+   "url": "https://www.youtube.com/watch?v=uRdiZZbF8EE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1FRbrmMwWW0",
+   "title": "The Chicken Coop - Ep. 208: Egg Mon",
+   "duration_s": 4680,
+   "views": 541,
+   "url": "https://www.youtube.com/watch?v=1FRbrmMwWW0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8fpy83GyFaI",
+   "title": "The Chicken Coop - Ep. 207: Fools On Dates",
+   "duration_s": 4796,
+   "views": 668,
+   "url": "https://www.youtube.com/watch?v=8fpy83GyFaI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "uQbz1wPFV3E",
+   "title": "The Chicken Coop - Ep. 206: Shoehorns and Sock Hooks",
+   "duration_s": 5024,
+   "views": 685,
+   "url": "https://www.youtube.com/watch?v=uQbz1wPFV3E",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "1QqKDsmCil0",
+   "title": "The Chicken Coop - Ep. 205: Swayjak",
+   "duration_s": 4167,
+   "views": 551,
+   "url": "https://www.youtube.com/watch?v=1QqKDsmCil0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "PpasIC3w5O4",
+   "title": "The Chicken Coop - Ep. 204: True Hangout",
+   "duration_s": 3590,
+   "views": 550,
+   "url": "https://www.youtube.com/watch?v=PpasIC3w5O4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "XNH5zRfmzjg",
+   "title": "The Chicken Coop - Ep. 203: Beyond The Beads",
+   "duration_s": 4849,
+   "views": 619,
+   "url": "https://www.youtube.com/watch?v=XNH5zRfmzjg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dc1j-hoT3xY",
+   "title": "The Chicken Coop - Ep. 202: JC Purgatory",
+   "duration_s": 4378,
+   "views": 585,
+   "url": "https://www.youtube.com/watch?v=dc1j-hoT3xY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IxcTPaKf6nw",
+   "title": "The Chicken Coop - Ep. 201: Period Tights",
+   "duration_s": 5097,
+   "views": 631,
+   "url": "https://www.youtube.com/watch?v=IxcTPaKf6nw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "f5MwZ_NYvJU",
+   "title": "The Chicken Coop - Ep. 200: Episode 200!",
+   "duration_s": 4885,
+   "views": 684,
+   "url": "https://www.youtube.com/watch?v=f5MwZ_NYvJU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "KrAqN8qK1e4",
+   "title": "The Chicken Coop - Ep. 199: The Sicken Coop",
+   "duration_s": 4383,
+   "views": 546,
+   "url": "https://www.youtube.com/watch?v=KrAqN8qK1e4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Ytz-N4Gheyc",
+   "title": "The Chicken Coop - Ep. 198: Mall Of Jamiroquai",
+   "duration_s": 4747,
+   "views": 635,
+   "url": "https://www.youtube.com/watch?v=Ytz-N4Gheyc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Of6UuNxcoEI",
+   "title": "The Chicken Coop - Ep. 197: Dip Cassidy & the Chip-head Kid",
+   "duration_s": 4440,
+   "views": 619,
+   "url": "https://www.youtube.com/watch?v=Of6UuNxcoEI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2s8tOe4dbWA",
+   "title": "The Chicken Coop - Ep. 196: Jordy's Ash",
+   "duration_s": 4683,
+   "views": 644,
+   "url": "https://www.youtube.com/watch?v=2s8tOe4dbWA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ywAX_t-Z8kw",
+   "title": "The Chicken Coop - Ep. 195: Riptide Roar",
+   "duration_s": 4051,
+   "views": 504,
+   "url": "https://www.youtube.com/watch?v=ywAX_t-Z8kw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "QGT4ZffSXiI",
+   "title": "The Chicken Coop - Ep. 194: Montgomery Nard",
+   "duration_s": 4836,
+   "views": 646,
+   "url": "https://www.youtube.com/watch?v=QGT4ZffSXiI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "KyQmXKKJbyw",
+   "title": "The Chicken Coop - Ep. 193: Powdered Chowder",
+   "duration_s": 4876,
+   "views": 548,
+   "url": "https://www.youtube.com/watch?v=KyQmXKKJbyw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "OPsmn1mSuRg",
+   "title": "The Chicken Coop - Ep. 192: Body of Spice",
+   "duration_s": 2692,
+   "views": 426,
+   "url": "https://www.youtube.com/watch?v=OPsmn1mSuRg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "yGBe-er784U",
+   "title": "The Chicken Coop - Ep. 191: Stove Toppers",
+   "duration_s": 3947,
+   "views": 536,
+   "url": "https://www.youtube.com/watch?v=yGBe-er784U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ABVa-_zWem0",
+   "title": "The Chicken Coop - Ep. 190: Top Cruise",
+   "duration_s": 3961,
+   "views": 533,
+   "url": "https://www.youtube.com/watch?v=ABVa-_zWem0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EZG76sMyfJc",
+   "title": "The Chicken Coop - Ep. 189: In-of-Order",
+   "duration_s": 4590,
+   "views": 602,
+   "url": "https://www.youtube.com/watch?v=EZG76sMyfJc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HlpgXhqMOlE",
+   "title": "The Chicken Coop - Ep. 188: Champoo-poo",
+   "duration_s": 3639,
+   "views": 551,
+   "url": "https://www.youtube.com/watch?v=HlpgXhqMOlE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "AEMzPkcUToU",
+   "title": "The Chicken Coop - Ep. 187: Et Tu, Beautiful?",
+   "duration_s": 5006,
+   "views": 575,
+   "url": "https://www.youtube.com/watch?v=AEMzPkcUToU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WhVGafMY3vk",
+   "title": "The Chicken Coop - Ep. 186: Blurry Like The Wolf",
+   "duration_s": 4907,
+   "views": 646,
+   "url": "https://www.youtube.com/watch?v=WhVGafMY3vk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "c_YCtAjBv00",
+   "title": "The Chicken Coop - Ep. 185: The Pooture",
+   "duration_s": 5091,
+   "views": 649,
+   "url": "https://www.youtube.com/watch?v=c_YCtAjBv00",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rL2eBI_CmY8",
+   "title": "The Chicken Coop - Ep. 184: Supermarket Schwing",
+   "duration_s": 5440,
+   "views": 592,
+   "url": "https://www.youtube.com/watch?v=rL2eBI_CmY8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "bYQvaD4v_as",
+   "title": "The Chicken Coop - Ep. 183: Tapes Suzette",
+   "duration_s": 4371,
+   "views": 668,
+   "url": "https://www.youtube.com/watch?v=bYQvaD4v_as",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jiyzleBQDqo",
+   "title": "The Chicken Coop - Ep. 182: Leaf Toe Verse",
+   "duration_s": 4514,
+   "views": 617,
+   "url": "https://www.youtube.com/watch?v=jiyzleBQDqo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "OJela_nJoao",
+   "title": "The Chicken Coop - Ep. 181: Chowder Massage",
+   "duration_s": 4636,
+   "views": 553,
+   "url": "https://www.youtube.com/watch?v=OJela_nJoao",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jHdvfuhz10g",
+   "title": "The Chicken Coop - Ep. 180: Scatty",
+   "duration_s": 4787,
+   "views": 694,
+   "url": "https://www.youtube.com/watch?v=jHdvfuhz10g",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "_t3wCKcmtak",
+   "title": "The Chicken Coop - Ep. 179: Uncle and The Bunnymen",
+   "duration_s": 4486,
+   "views": 597,
+   "url": "https://www.youtube.com/watch?v=_t3wCKcmtak",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4MsKgDJ8py4",
+   "title": "The Chicken Coop - Ep. 178: Diaper Daddies",
+   "duration_s": 4009,
+   "views": 510,
+   "url": "https://www.youtube.com/watch?v=4MsKgDJ8py4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "LpzstdHL-7Y",
+   "title": "The Chicken Coop - Ep. 177: Page Boyz",
+   "duration_s": 5010,
+   "views": 603,
+   "url": "https://www.youtube.com/watch?v=LpzstdHL-7Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "knwdyeqw6O4",
+   "title": "The Chicken Coop - Ep. 176: Twister Injury",
+   "duration_s": 4604,
+   "views": 627,
+   "url": "https://www.youtube.com/watch?v=knwdyeqw6O4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sx2LtN07mLc",
+   "title": "The Chicken Coop - Ep. 175: Bugz 'n' Ouch",
+   "duration_s": 3214,
+   "views": 594,
+   "url": "https://www.youtube.com/watch?v=sx2LtN07mLc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ufkDVsoW8EU",
+   "title": "The Chicken Coop - Ep. 174: Shirt Plus Plus",
+   "duration_s": 4379,
+   "views": 674,
+   "url": "https://www.youtube.com/watch?v=ufkDVsoW8EU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "e5QmyCctAYE",
+   "title": "The Chicken Coop - Ep. 173: Shirts and Splatters",
+   "duration_s": 4325,
+   "views": 756,
+   "url": "https://www.youtube.com/watch?v=e5QmyCctAYE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-gSf9BfojWo",
+   "title": "The Chicken Coop - Ep. 172: Orange Stuff",
+   "duration_s": 3923,
+   "views": 765,
+   "url": "https://www.youtube.com/watch?v=-gSf9BfojWo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pYHLXFdiwEU",
+   "title": "The Chicken Coop - Ep. 171: Eyes Cream",
+   "duration_s": 4409,
+   "views": 774,
+   "url": "https://www.youtube.com/watch?v=pYHLXFdiwEU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "nGJfpUAY4UU",
+   "title": "The Chicken Coop - Ep. 170: More Burgers",
+   "duration_s": 4334,
+   "views": 872,
+   "url": "https://www.youtube.com/watch?v=nGJfpUAY4UU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Y7yNPt6WiH4",
+   "title": "The Chicken Coop - Ep. 169: Cool Stuff",
+   "duration_s": 4634,
+   "views": 882,
+   "url": "https://www.youtube.com/watch?v=Y7yNPt6WiH4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Oz0IFfGvhEs",
+   "title": "The Chicken Coop - Ep. 168: Pehtz",
+   "duration_s": 4848,
+   "views": 840,
+   "url": "https://www.youtube.com/watch?v=Oz0IFfGvhEs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "g_hxb1sm8s0",
+   "title": "The Chicken Coop - Ep. 167: Frenz",
+   "duration_s": 5162,
+   "views": 1089,
+   "url": "https://www.youtube.com/watch?v=g_hxb1sm8s0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "WUz4_j81Lko",
+   "title": "The Chicken Coop - Ep. 166: F-Day",
+   "duration_s": 4616,
+   "views": 1221,
+   "url": "https://www.youtube.com/watch?v=WUz4_j81Lko",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "wqzHoFpRF-Q",
+   "title": "The Chicken Coop - Ep. 165: Italianos",
+   "duration_s": 4396,
+   "views": 1350,
+   "url": "https://www.youtube.com/watch?v=wqzHoFpRF-Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "9pms_xTDtVc",
+   "title": "Brent Weinbach - POPULAR CULTURE (2025) FULL SPECIAL",
+   "duration_s": 3785,
+   "views": 159858,
+   "url": "https://www.youtube.com/watch?v=9pms_xTDtVc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "uuhHGH-34Jo",
+   "title": "The Chicken Coop - Ep. 161: Mayo",
+   "duration_s": 5218,
+   "views": 805,
+   "url": "https://www.youtube.com/watch?v=uuhHGH-34Jo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2lJNzxZyjIo",
+   "title": "The Chicken Coop - Ep. 160: Shrimpfinger",
+   "duration_s": 2900,
+   "views": 670,
+   "url": "https://www.youtube.com/watch?v=2lJNzxZyjIo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "51suefIpBrA",
+   "title": "The Chicken Coop - Ep. 159: Boorgers",
+   "duration_s": 4090,
+   "views": 670,
+   "url": "https://www.youtube.com/watch?v=51suefIpBrA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "pOpYbJs60b4",
+   "title": "The Chicken Coop - Ep. 158: Paasover",
+   "duration_s": 4220,
+   "views": 657,
+   "url": "https://www.youtube.com/watch?v=pOpYbJs60b4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "N-WNmbnYc6w",
+   "title": "The Chicken Coop - Ep. 157: My Name Is Bread",
+   "duration_s": 3771,
+   "views": 650,
+   "url": "https://www.youtube.com/watch?v=N-WNmbnYc6w",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "2P4Z6cquvgs",
+   "title": "The Chicken Coop - Ep. 156: Tricks and Dix",
+   "duration_s": 4184,
+   "views": 672,
+   "url": "https://www.youtube.com/watch?v=2P4Z6cquvgs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sFvAgIyrD1A",
+   "title": "The Chicken Coop - Ep. 155: Flow Werz",
+   "duration_s": 3965,
+   "views": 588,
+   "url": "https://www.youtube.com/watch?v=sFvAgIyrD1A",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "x3wRrj14wFo",
+   "title": "The Chicken Coop - Ep. 154: Green Stuff",
+   "duration_s": 4107,
+   "views": 666,
+   "url": "https://www.youtube.com/watch?v=x3wRrj14wFo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UikzWUdFjn8",
+   "title": "The Chicken Coop - Ep. 153: Band in the USA",
+   "duration_s": 4434,
+   "views": 577,
+   "url": "https://www.youtube.com/watch?v=UikzWUdFjn8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "_3P7Zg1o7dE",
+   "title": "The Chicken Coop - Ep. 152: Club Feetz",
+   "duration_s": 4537,
+   "views": 670,
+   "url": "https://www.youtube.com/watch?v=_3P7Zg1o7dE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "9ROyF1UD5eM",
+   "title": "The Chicken Coop - Ep. 151: Heart Shaped Thing",
+   "duration_s": 4575,
+   "views": 815,
+   "url": "https://www.youtube.com/watch?v=9ROyF1UD5eM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HD-RxJLNgnI",
+   "title": "The Chicken Coop - Ep. 150: Prez-On-Daze",
+   "duration_s": 4125,
+   "views": 677,
+   "url": "https://www.youtube.com/watch?v=HD-RxJLNgnI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UdcrudUiwSA",
+   "title": "The Chicken Coop - Ep. 149: V-Day",
+   "duration_s": 3832,
+   "views": 669,
+   "url": "https://www.youtube.com/watch?v=UdcrudUiwSA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "VM87ZAuX-h8",
+   "title": "The Chicken Coop - Ep. 148: Beds of Juice",
+   "duration_s": 4368,
+   "views": 740,
+   "url": "https://www.youtube.com/watch?v=VM87ZAuX-h8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Xv4g66Z28xg",
+   "title": "The Chicken Coop - Ep. 147: Port of Gall",
+   "duration_s": 3929,
+   "views": 662,
+   "url": "https://www.youtube.com/watch?v=Xv4g66Z28xg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dy7xGLznz-E",
+   "title": "The Chicken Coop - Ep. 146: Wonder Jelly",
+   "duration_s": 4606,
+   "views": 693,
+   "url": "https://www.youtube.com/watch?v=dy7xGLznz-E",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RQgfyuVyoRU",
+   "title": "The Chicken Coop - Ep. 145: Toes and Things",
+   "duration_s": 4328,
+   "views": 652,
+   "url": "https://www.youtube.com/watch?v=RQgfyuVyoRU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "S2TupR-DJSA",
+   "title": "The Chicken Coop - Ep. 144: Beyond Leftovers",
+   "duration_s": 3726,
+   "views": 689,
+   "url": "https://www.youtube.com/watch?v=S2TupR-DJSA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "J5K_pW0Mqao",
+   "title": "The Chicken Coop - Ep. 143: More Leftovers",
+   "duration_s": 3204,
+   "views": 743,
+   "url": "https://www.youtube.com/watch?v=J5K_pW0Mqao",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HdoDR94g134",
+   "title": "The Chicken Coop - Ep. 142: The Scorpion Wiping",
+   "duration_s": 4454,
+   "views": 817,
+   "url": "https://www.youtube.com/watch?v=HdoDR94g134",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "TKNR7a2dZKg",
+   "title": "The Chicken Coop - Ep. 141: More Toys",
+   "duration_s": 4836,
+   "views": 689,
+   "url": "https://www.youtube.com/watch?v=TKNR7a2dZKg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "zshYZXlEVbg",
+   "title": "The Chicken Coop - Ep. 140: Super Dickmann",
+   "duration_s": 4702,
+   "views": 882,
+   "url": "https://www.youtube.com/watch?v=zshYZXlEVbg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Hd-YZQZj3Dg",
+   "title": "The Chicken Coop - Ep. 139: Mein Gobble",
+   "duration_s": 4654,
+   "views": 721,
+   "url": "https://www.youtube.com/watch?v=Hd-YZQZj3Dg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "wa3aXSlLJ64",
+   "title": "The Chicken Coop - Ep. 138: Dear Diary Uhh...",
+   "duration_s": 4814,
+   "views": 709,
+   "url": "https://www.youtube.com/watch?v=wa3aXSlLJ64",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rM9o6JH6qdQ",
+   "title": "The Chicken Coop - Ep. 137: Vetted",
+   "duration_s": 5007,
+   "views": 727,
+   "url": "https://www.youtube.com/watch?v=rM9o6JH6qdQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZCwsP9CDhKs",
+   "title": "The Chicken Coop - Ep. 136: Hey Yourselves",
+   "duration_s": 4836,
+   "views": 834,
+   "url": "https://www.youtube.com/watch?v=ZCwsP9CDhKs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UP2YSYGxzPM",
+   "title": "The Chicken Coop - Ep. 135: Pumpkin Deeznuts",
+   "duration_s": 4917,
+   "views": 758,
+   "url": "https://www.youtube.com/watch?v=UP2YSYGxzPM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "VGsVoDmAdZ0",
+   "title": "The Chicken Coop - Ep. 134: Donald Sings!",
+   "duration_s": 2276,
+   "views": 632,
+   "url": "https://www.youtube.com/watch?v=VGsVoDmAdZ0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "c-QMi67b9n8",
+   "title": "The Chicken Coop - Ep. 133: Birthday Party",
+   "duration_s": 2231,
+   "views": 558,
+   "url": "https://www.youtube.com/watch?v=c-QMi67b9n8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "IUfSA_8SXiQ",
+   "title": "The Chicken Coop - Ep. 132: I Dare You",
+   "duration_s": 4288,
+   "views": 677,
+   "url": "https://www.youtube.com/watch?v=IUfSA_8SXiQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "SiXNgBi_sRY",
+   "title": "The Chicken Coop - Ep. 131: Basically Yogurt",
+   "duration_s": 4404,
+   "views": 722,
+   "url": "https://www.youtube.com/watch?v=SiXNgBi_sRY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3Yc1YL-QHYA",
+   "title": "The Chicken Coop - Ep. 130: Corn Again",
+   "duration_s": 3899,
+   "views": 704,
+   "url": "https://www.youtube.com/watch?v=3Yc1YL-QHYA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "BVwPFaqznog",
+   "title": "The Chicken Coop - Ep. 129: Corn",
+   "duration_s": 4903,
+   "views": 721,
+   "url": "https://www.youtube.com/watch?v=BVwPFaqznog",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "wdA-RqCR9uc",
+   "title": "The Chicken Coop - Ep. 128: Maps 'n' Things",
+   "duration_s": 3793,
+   "views": 617,
+   "url": "https://www.youtube.com/watch?v=wdA-RqCR9uc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "VLOXN_Nv5-4",
+   "title": "The Chicken Coop - Ep. 127: Going In To Labor",
+   "duration_s": 3587,
+   "views": 629,
+   "url": "https://www.youtube.com/watch?v=VLOXN_Nv5-4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "u2_GBAV-_80",
+   "title": "The Chicken Coop - Ep. 126: Caught Traveling",
+   "duration_s": 3868,
+   "views": 653,
+   "url": "https://www.youtube.com/watch?v=u2_GBAV-_80",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "piWP9WUOPo8",
+   "title": "The Chicken Coop - Ep. 125: Da Club",
+   "duration_s": 4242,
+   "views": 760,
+   "url": "https://www.youtube.com/watch?v=piWP9WUOPo8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "xOHYnlsMXpw",
+   "title": "The Chicken Coop - Ep. 124: Chick Tonight",
+   "duration_s": 4209,
+   "views": 658,
+   "url": "https://www.youtube.com/watch?v=xOHYnlsMXpw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "17RTAMO223Y",
+   "title": "The Chicken Coop - Ep. 123: Chick O' Lawt",
+   "duration_s": 4537,
+   "views": 768,
+   "url": "https://www.youtube.com/watch?v=17RTAMO223Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "AVAMBC0vRDc",
+   "title": "The Chicken Coop - Ep. 122: Billy",
+   "duration_s": 5006,
+   "views": 950,
+   "url": "https://www.youtube.com/watch?v=AVAMBC0vRDc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "8bU1tT7wn0c",
+   "title": "The Chicken Coop - Ep. 121: Feet Nutz",
+   "duration_s": 4103,
+   "views": 740,
+   "url": "https://www.youtube.com/watch?v=8bU1tT7wn0c",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "OIhs5dYppsY",
+   "title": "The Chicken Coop - Ep. 120: Pizza Delight",
+   "duration_s": 3027,
+   "views": 738,
+   "url": "https://www.youtube.com/watch?v=OIhs5dYppsY",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "A5FXL425Qs8",
+   "title": "The Chicken Coop - Ep. 119: Who Is It?",
+   "duration_s": 4869,
+   "views": 718,
+   "url": "https://www.youtube.com/watch?v=A5FXL425Qs8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ysk1mbOGncM",
+   "title": "The Chicken Coop - Ep. 118: Magic Ball",
+   "duration_s": 5466,
+   "views": 867,
+   "url": "https://www.youtube.com/watch?v=ysk1mbOGncM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "do9CYEQPIb0",
+   "title": "The Chicken Coop - Ep. 117: Travel",
+   "duration_s": 5012,
+   "views": 799,
+   "url": "https://www.youtube.com/watch?v=do9CYEQPIb0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-GtJPB6PyAA",
+   "title": "The Chicken Coop - Ep. 116: The Dirty Noodle",
+   "duration_s": 4467,
+   "views": 783,
+   "url": "https://www.youtube.com/watch?v=-GtJPB6PyAA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "5qZ_jmvGR70",
+   "title": "The Chicken Coop - Ep. 115: Party People",
+   "duration_s": 5019,
+   "views": 801,
+   "url": "https://www.youtube.com/watch?v=5qZ_jmvGR70",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NbFggjriSSA",
+   "title": "The Chicken Coop - Ep. 114: Powdered Drinks",
+   "duration_s": 4936,
+   "views": 874,
+   "url": "https://www.youtube.com/watch?v=NbFggjriSSA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "q4jqTSrcA8g",
+   "title": "The Chicken Coop - Ep. 113: Remember",
+   "duration_s": 4261,
+   "views": 802,
+   "url": "https://www.youtube.com/watch?v=q4jqTSrcA8g",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Qm5nnLxagFE",
+   "title": "The Chicken Coop - Ep. 112: Squirtbeds",
+   "duration_s": 3045,
+   "views": 748,
+   "url": "https://www.youtube.com/watch?v=Qm5nnLxagFE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Q64lOS-eFHQ",
+   "title": "The Chicken Coop - Ep. 111: Did You Beef?",
+   "duration_s": 3634,
+   "views": 770,
+   "url": "https://www.youtube.com/watch?v=Q64lOS-eFHQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "x29P327Efg0",
+   "title": "The Chicken Coop - Ep. 110: Because It Fits Right",
+   "duration_s": 5155,
+   "views": 895,
+   "url": "https://www.youtube.com/watch?v=x29P327Efg0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "XtucHoXoVSI",
+   "title": "The Chicken Coop - Ep. 109: Pro Wangs",
+   "duration_s": 4327,
+   "views": 796,
+   "url": "https://www.youtube.com/watch?v=XtucHoXoVSI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rPACGGuT02M",
+   "title": "The Chicken Coop - Ep. 108: Earth Thong",
+   "duration_s": 3990,
+   "views": 757,
+   "url": "https://www.youtube.com/watch?v=rPACGGuT02M",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "BOJSu1W-uXQ",
+   "title": "The Chicken Coop - Ep. 107: Taxipad",
+   "duration_s": 4174,
+   "views": 939,
+   "url": "https://www.youtube.com/watch?v=BOJSu1W-uXQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "Mbyv95CF63g",
+   "title": "The Chicken Coop - Ep. 106: Sun Stuff",
+   "duration_s": 3276,
+   "views": 721,
+   "url": "https://www.youtube.com/watch?v=Mbyv95CF63g",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "RgMTXzqlul4",
+   "title": "The Chicken Coop - Ep. 105: Easter's Promises",
+   "duration_s": 4352,
+   "views": 822,
+   "url": "https://www.youtube.com/watch?v=RgMTXzqlul4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dBzVKv5QeKg",
+   "title": "The Chicken Coop - Ep. 104: The 90s Shtinks",
+   "duration_s": 4724,
+   "views": 977,
+   "url": "https://www.youtube.com/watch?v=dBzVKv5QeKg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "HL_QVj-tWAM",
+   "title": "The Chicken Coop - Ep. 103: Cluck of the Eye Rash",
+   "duration_s": 4507,
+   "views": 863,
+   "url": "https://www.youtube.com/watch?v=HL_QVj-tWAM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7_s3CB7DXdM",
+   "title": "The Chicken Coop - Ep. 102: Batteries Up",
+   "duration_s": 4528,
+   "views": 897,
+   "url": "https://www.youtube.com/watch?v=7_s3CB7DXdM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "UOMEikz9VYk",
+   "title": "The Chicken Coop - Ep. 101: Womenz",
+   "duration_s": 5003,
+   "views": 931,
+   "url": "https://www.youtube.com/watch?v=UOMEikz9VYk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EcSIzX8-LiA",
+   "title": "The Chicken Coop - Ep. 99: Presi-Dental",
+   "duration_s": 4580,
+   "views": 1096,
+   "url": "https://www.youtube.com/watch?v=EcSIzX8-LiA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZK9zt4GkqHs",
+   "title": "The Chicken Coop - Ep. 98: Vegas",
+   "duration_s": 4691,
+   "views": 980,
+   "url": "https://www.youtube.com/watch?v=ZK9zt4GkqHs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "JYGpVvSQq0M",
+   "title": "The Chicken Coop - Ep. 97: Chicks With Flicks",
+   "duration_s": 4777,
+   "views": 1054,
+   "url": "https://www.youtube.com/watch?v=JYGpVvSQq0M",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "vMfRgpaajpo",
+   "title": "The Chicken Coop - Ep. 96: Cool As Spice",
+   "duration_s": 4259,
+   "views": 871,
+   "url": "https://www.youtube.com/watch?v=vMfRgpaajpo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "BZGxN54ZfV4",
+   "title": "The Chicken Coop - Ep. 95: Cameras and Scammeras",
+   "duration_s": 3953,
+   "views": 914,
+   "url": "https://www.youtube.com/watch?v=BZGxN54ZfV4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "tG8KNOz7XWU",
+   "title": "The Chicken Coop - Ep. 94: Weight",
+   "duration_s": 4697,
+   "views": 946,
+   "url": "https://www.youtube.com/watch?v=tG8KNOz7XWU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "19I7qR6K_Io",
+   "title": "The Chicken Coop - Ep. 93: Law Law Land",
+   "duration_s": 4402,
+   "views": 954,
+   "url": "https://www.youtube.com/watch?v=19I7qR6K_Io",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "THnU-XClf4I",
+   "title": "The Chicken Coop - Ep. 92: Talking Christmas",
+   "duration_s": 5566,
+   "views": 1176,
+   "url": "https://www.youtube.com/watch?v=THnU-XClf4I",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "0ljnFiZd1LE",
+   "title": "The Chicken Coop - Ep. 91: More Toyz",
+   "duration_s": 4666,
+   "views": 932,
+   "url": "https://www.youtube.com/watch?v=0ljnFiZd1LE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZpB_G5a7jPE",
+   "title": "The Chicken Coop - Ep. 90: Chickenpressions",
+   "duration_s": 4334,
+   "views": 1118,
+   "url": "https://www.youtube.com/watch?v=ZpB_G5a7jPE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "TldQsRhsQZs",
+   "title": "The Chicken Coop - Ep. 89: CARma Chameleon",
+   "duration_s": 4346,
+   "views": 1012,
+   "url": "https://www.youtube.com/watch?v=TldQsRhsQZs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3tReO2pKI0o",
+   "title": "The Chicken Coop - Ep. 88: Thanksgiving Meat",
+   "duration_s": 4318,
+   "views": 1037,
+   "url": "https://www.youtube.com/watch?v=3tReO2pKI0o",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lr_ECJ2PbMA",
+   "title": "The Chicken Coop - Ep. 87: Hose",
+   "duration_s": 4286,
+   "views": 990,
+   "url": "https://www.youtube.com/watch?v=lr_ECJ2PbMA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "NrR3MyaLekw",
+   "title": "The Chicken Coop - Ep. 86: Brad's Pit",
+   "duration_s": 5262,
+   "views": 1072,
+   "url": "https://www.youtube.com/watch?v=NrR3MyaLekw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "CeN9BHUunLE",
+   "title": "The Chicken Coop - Ep. 85: Spooky Night",
+   "duration_s": 3891,
+   "views": 961,
+   "url": "https://www.youtube.com/watch?v=CeN9BHUunLE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "4cdc6IHhXEo",
+   "title": "The Chicken Coop - Ep. 84: Scammer Demonstrates Tolerance",
+   "duration_s": 5301,
+   "views": 1369,
+   "url": "https://www.youtube.com/watch?v=4cdc6IHhXEo",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "k1KzEvNIwz4",
+   "title": "The Chicken Coop - Ep. 83: More Shooz",
+   "duration_s": 4454,
+   "views": 1046,
+   "url": "https://www.youtube.com/watch?v=k1KzEvNIwz4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sQPzIfo2co0",
+   "title": "The Chicken Coop - Ep. 82: Thigh Scream",
+   "duration_s": 5227,
+   "views": 1424,
+   "url": "https://www.youtube.com/watch?v=sQPzIfo2co0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "YeAwzFs2p9Y",
+   "title": "The Chicken Coop - Ep. 81: Phone Stuff",
+   "duration_s": 4471,
+   "views": 1335,
+   "url": "https://www.youtube.com/watch?v=YeAwzFs2p9Y",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "OcRKAAHRUUA",
+   "title": "The Chicken Coop - Ep. 80: Jimmy'zzz",
+   "duration_s": 4912,
+   "views": 1054,
+   "url": "https://www.youtube.com/watch?v=OcRKAAHRUUA",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "ZB76fqb6B-U",
+   "title": "The Chicken Coop - Ep. 79: Fall-Time Talkfest",
+   "duration_s": 4366,
+   "views": 999,
+   "url": "https://www.youtube.com/watch?v=ZB76fqb6B-U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "DwLyN_YhvFI",
+   "title": "The Chicken Coop - Ep. 78: \"Devry\"",
+   "duration_s": 5121,
+   "views": 1248,
+   "url": "https://www.youtube.com/watch?v=DwLyN_YhvFI",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 157
 }

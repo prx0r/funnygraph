@@ -1,0 +1,38 @@
+{
+ "comedian_id": "lush-shops",
+ "name": "Lush Shops",
+ "clips": 1,
+ "total_views": 370,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "9YEc3iK9KIk",
+  "title": "Dan Wild | Lush Shops",
+  "channel": "Hot Water Comedy Club",
+  "views": 370,
+  "duration_s": 159,
+  "url": "https://www.youtube.com/watch?v=9YEc3iK9KIk",
+  "r2_clip_key": "comedians/lush-shops/clips/lush-shops-9yec3ik9kik.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lush-shops/clips/lush-shops-9yec3ik9kik.json"
+ },
+ "rows": [
+  {
+   "videoId": "9YEc3iK9KIk",
+   "title": "Dan Wild | Lush Shops",
+   "channel": "Hot Water Comedy Club",
+   "views": 370,
+   "likes": null,
+   "duration_s": 159,
+   "url": "https://www.youtube.com/watch?v=9YEc3iK9KIk",
+   "n_words": 277,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "know what I hate more than anything in the world and my girlfriend comes home from work [\u00a0__\u00a0] hate it she's alright - birthday soon tomorrow or the next day I don't know I'll just wait till she gets ",
+   "r2_clip_key": "comedians/lush-shops/clips/lush-shops-9yec3ik9kik.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lush-shops/clips/lush-shops-9yec3ik9kik.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

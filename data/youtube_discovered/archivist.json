@@ -1,0 +1,134 @@
+{
+ "comedian_id": "archivist",
+ "specials": [
+  {
+   "videoId": "6ay_KMK7DEo",
+   "title": "Prey for the Hunter - 1992 VHS Full Movie",
+   "channel": "The Archivist",
+   "publishedAt": "2018-01-01T18:42:17Z",
+   "duration_s": 5230,
+   "views": 5078,
+   "likes": 26,
+   "comedian_slug": "archivist",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "wSDR6ymotHk",
+   "title": "Living Nightmare - 2001 DVD Full Horror Movie",
+   "channel": "The Archivist",
+   "publishedAt": "2017-07-27T18:28:26Z",
+   "duration_s": 5099,
+   "views": 6113,
+   "likes": 41,
+   "comedian_slug": "archivist",
+   "matched_r2_special": "saturday-night-news-with-george-carlin-11-10-1984"
+  },
+  {
+   "videoId": "ff3Rc57X6MU",
+   "title": "Mr  Henry's Wild & Wacky World 1 Why Should I - VHS Full Video",
+   "channel": "The Archivist",
+   "publishedAt": "2017-07-27T17:08:26Z",
+   "duration_s": 2191,
+   "views": 6692,
+   "likes": 12,
+   "comedian_slug": "archivist",
+   "matched_r2_special": "worst-daddy-in-the-world-2024"
+  },
+  {
+   "videoId": "3oMxr7uqUgM",
+   "title": "Psychomania - 1973 VHS Full Movie",
+   "channel": "The Archivist",
+   "publishedAt": "2017-07-26T20:54:53Z",
+   "duration_s": 5451,
+   "views": 13604,
+   "likes": 102,
+   "comedian_slug": "archivist",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "ryM7HkhoTdA",
+   "title": "Outlaw Prophet - 2001 Promotional VHS Full Movie",
+   "channel": "The Archivist",
+   "publishedAt": "2017-01-08T21:06:56Z",
+   "duration_s": 6213,
+   "views": 7431,
+   "likes": 32,
+   "comedian_slug": "archivist",
+   "matched_r2_special": null
+  },
+  {
+   "videoId": "72mJunPnsCc",
+   "title": "Mr. Henrey's Wild and Wacky World 5 - Don't Be A Bully",
+   "channel": "The Archivist",
+   "publishedAt": "2017-01-06T03:17:10Z",
+   "duration_s": 2356,
+   "views": 11201,
+   "likes": 18,
+   "comedian_slug": "archivist",
+   "matched_r2_special": "worst-daddy-in-the-world-2024"
+  },
+  {
+   "videoId": "mE8MYN2F_7k",
+   "title": "TNT Jackson - 1974 VHS Full Movie",
+   "channel": "The Archivist",
+   "publishedAt": "2017-01-04T16:34:51Z",
+   "duration_s": 4532,
+   "views": 13465,
+   "likes": 63,
+   "comedian_slug": "archivist",
+   "matched_r2_special": null
+  }
+ ],
+ "clips": [
+  {
+   "videoId": "nHeAieexxtc",
+   "title": "Goodbye 1984 - Vaperwave",
+   "channel": "The Archivist",
+   "publishedAt": "2018-10-24T17:24:16Z",
+   "duration_s": 319,
+   "views": 233,
+   "likes": 5,
+   "comedian_slug": "archivist"
+  },
+  {
+   "videoId": "cV3gknesB0A",
+   "title": "The Ritz - Vaperwave",
+   "channel": "The Archivist",
+   "publishedAt": "2018-10-15T13:37:20Z",
+   "duration_s": 566,
+   "views": 79,
+   "likes": 3,
+   "comedian_slug": "archivist"
+  },
+  {
+   "videoId": "g3pld6ai6cc",
+   "title": "Toonami Gundam Wing VHS Ad",
+   "channel": "The Archivist",
+   "publishedAt": "2017-02-02T14:32:06Z",
+   "duration_s": 140,
+   "views": 2852,
+   "likes": 36,
+   "comedian_slug": "archivist"
+  },
+  {
+   "videoId": "WB4jRhmtuB8",
+   "title": "Air America - 1990 VHS Preview",
+   "channel": "The Archivist",
+   "publishedAt": "2017-01-29T17:23:06Z",
+   "duration_s": 86,
+   "views": 427,
+   "likes": 1,
+   "comedian_slug": "archivist"
+  },
+  {
+   "videoId": "1UODZT_mZPI",
+   "title": "It's As Good As Saying Yes! - 1990 Anti-drug PSA",
+   "channel": "The Archivist",
+   "publishedAt": "2017-01-29T17:04:45Z",
+   "duration_s": 31,
+   "views": 205,
+   "likes": 4,
+   "comedian_slug": "archivist"
+  }
+ ]
+}

@@ -113,12 +113,25 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q3238414",
+    "dob": "1973-04-01",
+    "dod": null,
+    "birthplace": "Albany",
+    "citizenship": "United States",
+    "occupations": [
+      "actor",
+      "television actor",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

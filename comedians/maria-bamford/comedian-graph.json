@@ -149,8 +149,18 @@
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "3 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "weakness-is-the-brand-2020",
+      "old-baby-2017",
+      "the-special-special-special-2012"
+    ],
+    "special_titles": [
+      "MARIA BAMFORD: WEAKNESS IS THE BRAND (2020) \u2013 FULL TRANSCRIPT",
+      "MARIA BAMFORD: OLD BABY (2017) \u2013 FULL TRANSCRIPT",
+      "Maria Bamford: The Special Special Special! (2012)"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -422,12 +432,17 @@
     "paste_2017": 34
   },
   "rating": {
-    "headline": 42.5,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
+    "headline": 32.4,
+    "coverage": "FULL",
+    "provisional": null,
     "boards": {
       "house": {
-        "rank": null
+        "rank": 24,
+        "pct": 32.4,
+        "sweep": [
+          23,
+          26
+        ]
       },
       "consensus": {
         "rank": 117,
@@ -447,13 +462,32 @@
         "ref": true
       }
     },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "interval": {
+      "lo": 23,
+      "hi": 26
+    },
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://mariabamford.com",
     "source": "wikidata-P856",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 3
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 25034,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

@@ -2,11 +2,29 @@
  "note": "Joke-quality evidence from characters2 bit annotations (read live; nothing copied). mean_paper = calibrated paper score (laughter-fitted rubric). Type boards gated n>=200 bits. Mechanism weights = mean paper | op present.",
  "source": {
   "repo": "/root/characters2/theory",
-  "n_bits": 29617,
-  "n_ops_bits": 29617
+  "n_bits": 34551,
+  "n_ops_bits": 34551
  },
  "global_mean_paper": 0.0218,
  "comics": [
+  {
+   "comedian_id": "drew-micheal",
+   "name": "drew-micheal",
+   "humor_type": null,
+   "in_funnygraph": false,
+   "n_bits": 268,
+   "mean_paper": 0.0251,
+   "p90_paper": 0.039,
+   "mean_bv": 0.0779,
+   "mean_economy": 0.7922,
+   "mean_incongruity": 0.1729,
+   "mean_violation": 0.1282,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
   {
    "comedian_id": "george-carlin",
    "name": "George Carlin",
@@ -62,6 +80,24 @@
    "mean_hot_frac": 0.2017
   },
   {
+   "comedian_id": "neal-brennan",
+   "name": "Neal Brennan",
+   "humor_type": "dark-confessional",
+   "in_funnygraph": true,
+   "n_bits": 258,
+   "mean_paper": 0.0238,
+   "p90_paper": 0.036,
+   "mean_bv": 0.0439,
+   "mean_economy": 0.8006,
+   "mean_incongruity": 0.1787,
+   "mean_violation": 0.0827,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
    "comedian_id": "louis-ck",
    "name": "Louis C.K.",
    "humor_type": "dark-confessional",
@@ -98,6 +134,24 @@
    "mean_hot_frac": 0.2033
   },
   {
+   "comedian_id": "shane-gillis",
+   "name": "Shane Gillis",
+   "humor_type": "storytelling",
+   "in_funnygraph": true,
+   "n_bits": 296,
+   "mean_paper": 0.0232,
+   "p90_paper": 0.035,
+   "mean_bv": 0.0648,
+   "mean_economy": 0.8133,
+   "mean_incongruity": 0.1505,
+   "mean_violation": 0.1398,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
    "comedian_id": "dave-chappelle",
    "name": "Dave Chappelle",
    "humor_type": "storytelling",
@@ -114,6 +168,24 @@
    "ops_coverage": 0.148,
    "mean_laugh_pred": 0.0133,
    "mean_hot_frac": 0.2037
+  },
+  {
+   "comedian_id": "eric-andre",
+   "name": "Eric Andre",
+   "humor_type": "dark-confessional",
+   "in_funnygraph": true,
+   "n_bits": 293,
+   "mean_paper": 0.0229,
+   "p90_paper": 0.035,
+   "mean_bv": 0.0504,
+   "mean_economy": 0.8319,
+   "mean_incongruity": 0.0991,
+   "mean_violation": 0.1436,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
   },
   {
    "comedian_id": "john-mulaney",
@@ -134,6 +206,42 @@
    "mean_hot_frac": 0.2042
   },
   {
+   "comedian_id": "gary-gulman",
+   "name": "Gary Gulman",
+   "humor_type": "storytelling",
+   "in_funnygraph": true,
+   "n_bits": 208,
+   "mean_paper": 0.0228,
+   "p90_paper": 0.035,
+   "mean_bv": 0.0,
+   "mean_economy": 0.7879,
+   "mean_incongruity": 0.2106,
+   "mean_violation": 0.0229,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "ricky-gervais",
+   "name": "Ricky Gervais",
+   "humor_type": "provocateur",
+   "in_funnygraph": true,
+   "n_bits": 351,
+   "mean_paper": 0.0228,
+   "p90_paper": 0.033,
+   "mean_bv": 0.0139,
+   "mean_economy": 0.8052,
+   "mean_incongruity": 0.1578,
+   "mean_violation": 0.1194,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
    "comedian_id": "stewart-lee",
    "name": "Stewart Lee",
    "humor_type": "meta",
@@ -152,6 +260,42 @@
    "mean_hot_frac": 0.2045
   },
   {
+   "comedian_id": "adam-devine",
+   "name": "Adam Devine",
+   "humor_type": "dark-confessional",
+   "in_funnygraph": true,
+   "n_bits": 286,
+   "mean_paper": 0.0221,
+   "p90_paper": 0.035,
+   "mean_bv": 0.1443,
+   "mean_economy": 0.7231,
+   "mean_incongruity": 0.1735,
+   "mean_violation": 0.2616,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "tom-segura",
+   "name": "Tom Segura",
+   "humor_type": "dark-confessional",
+   "in_funnygraph": true,
+   "n_bits": 260,
+   "mean_paper": 0.0218,
+   "p90_paper": 0.032,
+   "mean_bv": 0.0412,
+   "mean_economy": 0.7758,
+   "mean_incongruity": 0.1225,
+   "mean_violation": 0.1018,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
    "comedian_id": "lenny-bruce",
    "name": "Lenny Bruce",
    "humor_type": "rant",
@@ -168,6 +312,96 @@
    "ops_coverage": 0.248,
    "mean_laugh_pred": 0.009,
    "mean_hot_frac": 0.2
+  },
+  {
+   "comedian_id": "maria-bamford",
+   "name": "Maria Bamford",
+   "humor_type": "character",
+   "in_funnygraph": true,
+   "n_bits": 259,
+   "mean_paper": 0.0215,
+   "p90_paper": 0.033,
+   "mean_bv": 0.0043,
+   "mean_economy": 0.7573,
+   "mean_incongruity": 0.1922,
+   "mean_violation": 0.058,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "trevor-noah",
+   "name": "Trevor Noah",
+   "humor_type": "observational",
+   "in_funnygraph": true,
+   "n_bits": 160,
+   "mean_paper": 0.0213,
+   "p90_paper": 0.033,
+   "mean_bv": 0.0,
+   "mean_economy": 0.7868,
+   "mean_incongruity": 0.1502,
+   "mean_violation": 0.008,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "tig-notaro",
+   "name": "Tig Notaro",
+   "humor_type": "clean-everyman",
+   "in_funnygraph": true,
+   "n_bits": 153,
+   "mean_paper": 0.021,
+   "p90_paper": 0.031,
+   "mean_bv": 0.0124,
+   "mean_economy": 0.7606,
+   "mean_incongruity": 0.1438,
+   "mean_violation": 0.0355,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "iliza-shlesinger",
+   "name": "Iliza Shlesinger",
+   "humor_type": "observational",
+   "in_funnygraph": true,
+   "n_bits": 267,
+   "mean_paper": 0.0209,
+   "p90_paper": 0.032,
+   "mean_bv": 0.02,
+   "mean_economy": 0.7118,
+   "mean_incongruity": 0.1852,
+   "mean_violation": 0.06,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "patton-oswalt",
+   "name": "Patton Oswalt",
+   "humor_type": "observational",
+   "in_funnygraph": true,
+   "n_bits": 331,
+   "mean_paper": 0.0207,
+   "p90_paper": 0.031,
+   "mean_bv": 0.0178,
+   "mean_economy": 0.7926,
+   "mean_incongruity": 0.1108,
+   "mean_violation": 0.1011,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
   },
   {
    "comedian_id": "robin-williams",
@@ -242,6 +476,78 @@
    "mean_hot_frac": 0.201
   },
   {
+   "comedian_id": "pete-davidson",
+   "name": "Pete Davidson",
+   "humor_type": "observational",
+   "in_funnygraph": true,
+   "n_bits": 265,
+   "mean_paper": 0.02,
+   "p90_paper": 0.03,
+   "mean_bv": 0.0582,
+   "mean_economy": 0.6953,
+   "mean_incongruity": 0.1491,
+   "mean_violation": 0.144,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "vir-das",
+   "name": "Vir Das",
+   "humor_type": "observational",
+   "in_funnygraph": true,
+   "n_bits": 379,
+   "mean_paper": 0.0198,
+   "p90_paper": 0.029,
+   "mean_bv": 0.0109,
+   "mean_economy": 0.7589,
+   "mean_incongruity": 0.1517,
+   "mean_violation": 0.0588,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "andrew-santino",
+   "name": "andrew-santino",
+   "humor_type": null,
+   "in_funnygraph": false,
+   "n_bits": 327,
+   "mean_paper": 0.0196,
+   "p90_paper": 0.029,
+   "mean_bv": 0.0377,
+   "mean_economy": 0.6576,
+   "mean_incongruity": 0.1997,
+   "mean_violation": 0.1205,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
+   "comedian_id": "marlon-wayans",
+   "name": "Marlon Wayans",
+   "humor_type": "dark-confessional",
+   "in_funnygraph": true,
+   "n_bits": 345,
+   "mean_paper": 0.0193,
+   "p90_paper": 0.03,
+   "mean_bv": 0.0997,
+   "mean_economy": 0.6841,
+   "mean_incongruity": 0.1137,
+   "mean_violation": 0.3314,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
+  },
+  {
    "comedian_id": "ron-white",
    "name": "Ron White",
    "humor_type": "dark-confessional",
@@ -294,6 +600,24 @@
    "ops_coverage": 0.124,
    "mean_laugh_pred": 0.012,
    "mean_hot_frac": 0.201
+  },
+  {
+   "comedian_id": "mike-epps",
+   "name": "Mike Epps",
+   "humor_type": "dark-confessional",
+   "in_funnygraph": true,
+   "n_bits": 228,
+   "mean_paper": 0.0176,
+   "p90_paper": 0.028,
+   "mean_bv": 0.0572,
+   "mean_economy": 0.6701,
+   "mean_incongruity": 0.0823,
+   "mean_violation": 0.2189,
+   "op_entropy": 0,
+   "top_op": null,
+   "ops_coverage": 0.0,
+   "mean_laugh_pred": null,
+   "mean_hot_frac": null
   },
   {
    "comedian_id": "kevin-hart",
@@ -358,11 +682,20 @@
    ]
   },
   "character": {
-   "n_measured": 2,
+   "n_measured": 3,
    "thin": false,
    "rows": [
     {
      "rank": 1,
+     "comedian_id": "maria-bamford",
+     "name": "Maria Bamford",
+     "mean_paper": 0.0215,
+     "p90_paper": 0.033,
+     "n_bits": 259,
+     "top_op": null
+    },
+    {
+     "rank": 2,
      "comedian_id": "robin-williams",
      "name": "Robin Williams",
      "mean_paper": 0.0207,
@@ -371,7 +704,7 @@
      "top_op": "repeat_variation"
     },
     {
-     "rank": 2,
+     "rank": 3,
      "comedian_id": "eddie-izzard",
      "name": "Eddie Izzard",
      "mean_paper": 0.0201,
@@ -382,11 +715,20 @@
    ]
   },
   "dark-confessional": {
-   "n_measured": 5,
+   "n_measured": 11,
    "thin": false,
    "rows": [
     {
      "rank": 1,
+     "comedian_id": "neal-brennan",
+     "name": "Neal Brennan",
+     "mean_paper": 0.0238,
+     "p90_paper": 0.036,
+     "n_bits": 258,
+     "top_op": null
+    },
+    {
+     "rank": 2,
      "comedian_id": "louis-ck",
      "name": "Louis C.K.",
      "mean_paper": 0.0237,
@@ -395,7 +737,43 @@
      "top_op": "split_knowledge"
     },
     {
-     "rank": 2,
+     "rank": 3,
+     "comedian_id": "eric-andre",
+     "name": "Eric Andre",
+     "mean_paper": 0.0229,
+     "p90_paper": 0.035,
+     "n_bits": 293,
+     "top_op": null
+    },
+    {
+     "rank": 4,
+     "comedian_id": "adam-devine",
+     "name": "Adam Devine",
+     "mean_paper": 0.0221,
+     "p90_paper": 0.035,
+     "n_bits": 286,
+     "top_op": null
+    },
+    {
+     "rank": 5,
+     "comedian_id": "tom-segura",
+     "name": "Tom Segura",
+     "mean_paper": 0.0218,
+     "p90_paper": 0.032,
+     "n_bits": 260,
+     "top_op": null
+    },
+    {
+     "rank": 6,
+     "comedian_id": "marlon-wayans",
+     "name": "Marlon Wayans",
+     "mean_paper": 0.0193,
+     "p90_paper": 0.03,
+     "n_bits": 345,
+     "top_op": null
+    },
+    {
+     "rank": 7,
      "comedian_id": "ron-white",
      "name": "Ron White",
      "mean_paper": 0.0193,
@@ -404,7 +782,7 @@
      "top_op": "split_knowledge"
     },
     {
-     "rank": 3,
+     "rank": 8,
      "comedian_id": "eddie-murphy",
      "name": "Eddie Murphy",
      "mean_paper": 0.0191,
@@ -413,7 +791,16 @@
      "top_op": "split_knowledge"
     },
     {
-     "rank": 4,
+     "rank": 9,
+     "comedian_id": "mike-epps",
+     "name": "Mike Epps",
+     "mean_paper": 0.0176,
+     "p90_paper": 0.028,
+     "n_bits": 228,
+     "top_op": null
+    },
+    {
+     "rank": 10,
      "comedian_id": "kevin-hart",
      "name": "Kevin Hart",
      "mean_paper": 0.0175,
@@ -422,7 +809,7 @@
      "top_op": "split_knowledge"
     },
     {
-     "rank": 5,
+     "rank": 11,
      "comedian_id": "richard-pryor",
      "name": "Richard Pryor",
      "mean_paper": 0.0174,
@@ -448,7 +835,7 @@
    ]
   },
   "observational": {
-   "n_measured": 2,
+   "n_measured": 6,
    "thin": false,
    "rows": [
     {
@@ -468,6 +855,57 @@
      "p90_paper": 0.037,
      "n_bits": 3233,
      "top_op": "split_knowledge"
+    },
+    {
+     "rank": 3,
+     "comedian_id": "iliza-shlesinger",
+     "name": "Iliza Shlesinger",
+     "mean_paper": 0.0209,
+     "p90_paper": 0.032,
+     "n_bits": 267,
+     "top_op": null
+    },
+    {
+     "rank": 4,
+     "comedian_id": "patton-oswalt",
+     "name": "Patton Oswalt",
+     "mean_paper": 0.0207,
+     "p90_paper": 0.031,
+     "n_bits": 331,
+     "top_op": null
+    },
+    {
+     "rank": 5,
+     "comedian_id": "pete-davidson",
+     "name": "Pete Davidson",
+     "mean_paper": 0.02,
+     "p90_paper": 0.03,
+     "n_bits": 265,
+     "top_op": null
+    },
+    {
+     "rank": 6,
+     "comedian_id": "vir-das",
+     "name": "Vir Das",
+     "mean_paper": 0.0198,
+     "p90_paper": 0.029,
+     "n_bits": 379,
+     "top_op": null
+    }
+   ]
+  },
+  "provocateur": {
+   "n_measured": 1,
+   "thin": true,
+   "rows": [
+    {
+     "rank": 1,
+     "comedian_id": "ricky-gervais",
+     "name": "Ricky Gervais",
+     "mean_paper": 0.0228,
+     "p90_paper": 0.033,
+     "n_bits": 351,
+     "top_op": null
     }
    ]
   },
@@ -514,11 +952,20 @@
    ]
   },
   "storytelling": {
-   "n_measured": 2,
+   "n_measured": 4,
    "thin": false,
    "rows": [
     {
      "rank": 1,
+     "comedian_id": "shane-gillis",
+     "name": "Shane Gillis",
+     "mean_paper": 0.0232,
+     "p90_paper": 0.035,
+     "n_bits": 296,
+     "top_op": null
+    },
+    {
+     "rank": 2,
      "comedian_id": "dave-chappelle",
      "name": "Dave Chappelle",
      "mean_paper": 0.023,
@@ -527,13 +974,22 @@
      "top_op": "split_knowledge"
     },
     {
-     "rank": 2,
+     "rank": 3,
      "comedian_id": "john-mulaney",
      "name": "John Mulaney",
      "mean_paper": 0.0229,
      "p90_paper": 0.034,
      "n_bits": 981,
      "top_op": "split_knowledge"
+    },
+    {
+     "rank": 4,
+     "comedian_id": "gary-gulman",
+     "name": "Gary Gulman",
+     "mean_paper": 0.0228,
+     "p90_paper": 0.035,
+     "n_bits": 208,
+     "top_op": null
     }
    ]
   }
@@ -549,25 +1005,25 @@
    "op": "juxtapose",
    "n_bits": 157,
    "mean_paper": 0.0265,
-   "lift_vs_global": 0.0047
+   "lift_vs_global": 0.0048
   },
   {
    "op": "status_invert",
    "n_bits": 391,
    "mean_paper": 0.0257,
-   "lift_vs_global": 0.0038
+   "lift_vs_global": 0.0039
   },
   {
    "op": "repeat_variation",
    "n_bits": 816,
    "mean_paper": 0.0239,
-   "lift_vs_global": 0.002
+   "lift_vs_global": 0.0021
   },
   {
    "op": "literalize_or_other",
    "n_bits": 58,
    "mean_paper": 0.0206,
-   "lift_vs_global": -0.0012
+   "lift_vs_global": -0.0011
   },
   {
    "op": "rigidify",
@@ -579,7 +1035,7 @@
    "op": "split_knowledge",
    "n_bits": 3011,
    "mean_paper": 0.0205,
-   "lift_vs_global": -0.0014
+   "lift_vs_global": -0.0013
   },
   {
    "op": "double_interpret",

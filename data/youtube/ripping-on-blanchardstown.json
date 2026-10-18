@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ripping-on-blanchardstown",
+ "name": "Ripping On Blanchardstown",
+ "clips": 1,
+ "total_views": 1500,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "BNEOqG0k0_M",
+  "title": "Damo Clark | Ripping On Blanchardstown #dublin #crowdwork #comedy",
+  "channel": "@craicdencomedyclub",
+  "views": 1500,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=BNEOqG0k0_M",
+  "r2_clip_key": "comedians/ripping-on-blanchardstown/clips/ripping-on-blanchardstown-bneoqg0k0-m.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ripping-on-blanchardstown/clips/ripping-on-blanchardstown-bneoqg0k0-m.json"
+ },
+ "rows": [
+  {
+   "videoId": "BNEOqG0k0_M",
+   "title": "Damo Clark | Ripping On Blanchardstown #dublin #crowdwork #comedy",
+   "channel": "@craicdencomedyclub",
+   "views": 1500,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=BNEOqG0k0_M",
+   "n_words": 76,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "what' you do Kev working e which one blanch oh you're on blanches to a you couldn't be that busy then I sell books come on is a little spot and I bet it's busy no that was your get act G like no man w",
+   "r2_clip_key": "comedians/ripping-on-blanchardstown/clips/ripping-on-blanchardstown-bneoqg0k0-m.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ripping-on-blanchardstown/clips/ripping-on-blanchardstown-bneoqg0k0-m.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "comedian_id": "ciara-barnes",
+ "name": "Ciara Barnes",
+ "clips": 1,
+ "total_views": 49,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "RNWNTp1MhTo",
+  "title": "Top Surgery Science | Ciara Barnes @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "views": 49,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=RNWNTp1MhTo",
+  "r2_clip_key": "comedians/ciara-barnes/clips/ciara-barnes-rnwntp1mhto.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ciara-barnes/clips/ciara-barnes-rnwntp1mhto.json"
+ },
+ "rows": [
+  {
+   "videoId": "RNWNTp1MhTo",
+   "title": "Top Surgery Science | Ciara Barnes @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "views": 49,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=RNWNTp1MhTo",
+   "n_words": 158,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And a little bit of a science lesson for you. Do you know that your nipples know which side of your body is which? Yeah. What? >> [laughter] >> My 80-year-old granddad didn't What? >> [laughter] >> Th",
+   "r2_clip_key": "comedians/ciara-barnes/clips/ciara-barnes-rnwntp1mhto.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/ciara-barnes/clips/ciara-barnes-rnwntp1mhto.json",
+   "source_group": "angel-shorts"
+  }
+ ]
+}

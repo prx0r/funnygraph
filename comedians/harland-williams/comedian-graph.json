@@ -73,7 +73,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -99,8 +99,22 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
-  "region": "us"
+  "region": "us",
+  "bio": {
+    "wikidata_id": "Q1275214",
+    "dob": "1962-11-14",
+    "dod": null,
+    "birthplace": "Toronto",
+    "citizenship": "Canada",
+    "occupations": [
+      "actor",
+      "film actor",
+      "television actor",
+      "voice actor"
+    ],
+    "source": "wikidata (CC0)"
+  }
 }

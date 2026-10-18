@@ -1,0 +1,38 @@
+{
+ "comedian_id": "cheers-to-that",
+ "name": "Cheers To That",
+ "clips": 1,
+ "total_views": 3700,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "e_vn-ValIUA",
+  "title": "No one can pull off that look. Luke Kidgell | Cheers To That",
+  "channel": "@ComedyExports",
+  "views": 3700,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=e_vn-ValIUA",
+  "r2_clip_key": "comedians/cheers-to-that/clips/cheers-to-that-e-vn-valiua.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cheers-to-that/clips/cheers-to-that-e-vn-valiua.json"
+ },
+ "rows": [
+  {
+   "videoId": "e_vn-ValIUA",
+   "title": "No one can pull off that look. Luke Kidgell | Cheers To That",
+   "channel": "@ComedyExports",
+   "views": 3700,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=e_vn-ValIUA",
+   "n_words": 93,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "one has ever, and I mean ever, looked good at the end of the night out. Their best friends always like slumped up against a brick wall in an alleyway. She's got nugget sauce dripping from her chin, ho",
+   "r2_clip_key": "comedians/cheers-to-that/clips/cheers-to-that-e-vn-valiua.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cheers-to-that/clips/cheers-to-that-e-vn-valiua.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

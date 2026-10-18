@@ -1,0 +1,38 @@
+{
+ "comedian_id": "toussaint-douglass",
+ "name": "Toussaint Douglass",
+ "clips": 1,
+ "total_views": 3100,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "vJIcJ2bXdEU",
+  "title": "Farmers Markets | Toussaint Douglass | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 3100,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=vJIcJ2bXdEU",
+  "r2_clip_key": "comedians/toussaint-douglass/clips/toussaint-douglass-vjicj2bxdeu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/toussaint-douglass/clips/toussaint-douglass-vjicj2bxdeu.json"
+ },
+ "rows": [
+  {
+   "videoId": "vJIcJ2bXdEU",
+   "title": "Farmers Markets | Toussaint Douglass | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 3100,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=vJIcJ2bXdEU",
+   "n_words": 120,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "H you middle class people love farmers markets. Shutney rub it against my gums. Caramelized red onions. [laughter] I've lost count number of farmers markets I've been dragged. You see one of these far",
+   "r2_clip_key": "comedians/toussaint-douglass/clips/toussaint-douglass-vjicj2bxdeu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/toussaint-douglass/clips/toussaint-douglass-vjicj2bxdeu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

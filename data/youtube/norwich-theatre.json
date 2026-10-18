@@ -1,0 +1,38 @@
+{
+ "comedian_id": "norwich-theatre",
+ "name": "Norwich Theatre",
+ "clips": 1,
+ "total_views": 315,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "pLdD_CV8PhQ",
+  "title": "Chaperone | Austentatious: An Improvised Jane Austen Novel | Norwich Theatre",
+  "channel": "Norwich Theatre",
+  "views": 315,
+  "duration_s": 26,
+  "url": "https://www.youtube.com/watch?v=pLdD_CV8PhQ",
+  "r2_clip_key": "comedians/norwich-theatre/clips/norwich-theatre-pldd_cv8phq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/norwich-theatre/clips/norwich-theatre-pldd_cv8phq.json"
+ },
+ "rows": [
+  {
+   "videoId": "pLdD_CV8PhQ",
+   "title": "Chaperone | Austentatious: An Improvised Jane Austen Novel | Norwich Theatre",
+   "channel": "Norwich Theatre",
+   "views": 315,
+   "likes": null,
+   "duration_s": 26,
+   "url": "https://www.youtube.com/watch?v=pLdD_CV8PhQ",
+   "n_words": 39,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I would have you stay. It's a lot of mixed messages, brother. >> Oh, you wanted to be alone, Miss Granger. >> It would not be seen me, George. >> Oh. Oh, chaperone. Yeah, good track. >> Miss Granger, ",
+   "r2_clip_key": "comedians/norwich-theatre/clips/norwich-theatre-pldd_cv8phq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/norwich-theatre/clips/norwich-theatre-pldd_cv8phq.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

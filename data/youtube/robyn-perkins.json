@@ -1,0 +1,55 @@
+{
+ "comedian_id": "robyn-perkins",
+ "name": "ROBYN PERKINS",
+ "clips": 2,
+ "total_views": 1473,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "uYAGJw4pKpc",
+  "title": "ROBYN PERKINS - COMEDY TO ESTATE AGENTS",
+  "channel": "@BigBellyComedy",
+  "views": 1400,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=uYAGJw4pKpc",
+  "r2_clip_key": "comedians/robyn-perkins/clips/robyn-perkins-uyagjw4pkpc.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/robyn-perkins/clips/robyn-perkins-uyagjw4pkpc.json"
+ },
+ "rows": [
+  {
+   "videoId": "uYAGJw4pKpc",
+   "title": "ROBYN PERKINS - COMEDY TO ESTATE AGENTS",
+   "channel": "@BigBellyComedy",
+   "views": 1400,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=uYAGJw4pKpc",
+   "n_words": 142,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I heard that you guys are all estate agents. [cheering] >> All of them cheering and then the four other people going, \"Oh, [laughter] and you're from uh the really nice estate agency I heard called Fo",
+   "r2_clip_key": "comedians/robyn-perkins/clips/robyn-perkins-uyagjw4pkpc.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/robyn-perkins/clips/robyn-perkins-uyagjw4pkpc.json",
+   "source_group": "web-discovered"
+  },
+  {
+   "videoId": "r_g3gLoMmMk",
+   "title": "ROBYN PERKINS - TWERK INSTRUCTIONS",
+   "channel": "@BigBellyComedy",
+   "views": 73,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=r_g3gLoMmMk",
+   "n_words": 167,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "[cheering] >> How do we know each other? We're at class. We used to go to twerk. You used to twerk together? I did not know there was a twerking school. Like you're like exercising and just kind of ge",
+   "r2_clip_key": "comedians/robyn-perkins/clips/robyn-perkins-r-g3glommmk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/robyn-perkins/clips/robyn-perkins-r-g3glommmk.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

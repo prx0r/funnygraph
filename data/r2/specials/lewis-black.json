@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "lewis-black",
+ "specials": [
+  {
+   "special_slug": "tragically-i-need-you-2023",
+   "title": "Lewis Black: Tragically, I Need You (2023)",
+   "comedian": "Lewis Black",
+   "url": "https://scrapsfromtheloft.com/comedy/lewis-black-tragically-i-need-you-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8535,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nLewis Black: Tragically, I Need You (2023) \u2013 Transcript\nPublished January 13, 2024\nLewis Black discusses pandemic life, vaccine skepticism, and the importance of human connection, humorously stating he needs his audience despite not always liking them\n\nLewis Black: Tragically, I Need You ",
+   "r2_special_key": "comedians/lewis-black/specials/tragically-i-need-you-2023.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lewis-black/specials/tragically-i-need-you-2023.json"
+  },
+  {
+   "special_slug": "black-to-the-future-2016",
+   "title": "LEWIS BLACK: BLACK TO THE FUTURE (2016) \u2013 Full Transcript",
+   "comedian": "Lewis Black",
+   "url": "https://scrapsfromtheloft.com/comedy/lewis-black-black-future-2016-full-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 5403,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "ANNOUNCER: Ladies and gentlemen, please put your hands together for the one and only, Mr. Lewis Black! [APPLAUSE] A survey from Public Policy Polling revealed recently that 13% of potential voters would prefer to have a giant meteor crash into the Earth and destroy civilization than to see either Hi",
+   "r2_special_key": "comedians/lewis-black/specials/black-to-the-future-2016.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/lewis-black/specials/black-to-the-future-2016.json"
+  }
+ ],
+ "count": 2
+}

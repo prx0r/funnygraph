@@ -1,0 +1,38 @@
+{
+ "comedian_id": "malinda-perera",
+ "name": "Malinda Perera",
+ "clips": 1,
+ "total_views": 20000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "6VBwuTCYzMo",
+  "title": "Irish Way Of Body Shaming | Malinda Perera | Craic Den Comedy Club | #standupcomedy #irish",
+  "channel": "@craicdencomedyclub",
+  "views": 20000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=6VBwuTCYzMo",
+  "r2_clip_key": "comedians/malinda-perera/clips/malinda-perera-6vbwutcyzmo.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/malinda-perera/clips/malinda-perera-6vbwutcyzmo.json"
+ },
+ "rows": [
+  {
+   "videoId": "6VBwuTCYzMo",
+   "title": "Irish Way Of Body Shaming | Malinda Perera | Craic Den Comedy Club | #standupcomedy #irish",
+   "channel": "@craicdencomedyclub",
+   "views": 20000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=6VBwuTCYzMo",
+   "n_words": 72,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "Irish people, if you're in the audience, you also do body shaming in a little bit, but in a cheeky way. You know, it's like you would look at a fat person and go like, \"Ah, sure. Look, you can afford ",
+   "r2_clip_key": "comedians/malinda-perera/clips/malinda-perera-6vbwutcyzmo.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/malinda-perera/clips/malinda-perera-6vbwutcyzmo.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

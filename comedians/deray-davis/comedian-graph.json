@@ -94,8 +94,14 @@
     }
   ],
   "set_queue": {
-    "note": "harvest captions or link transcript for measured depth",
-    "blocked_on": "captions/audio"
+    "note": "1 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "how-to-act-black-2017"
+    ],
+    "special_titles": [
+      "Deray Davis: How To Act Black (2017) \u2013 Transcript"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "essay_seeds": [
     {
@@ -293,9 +299,9 @@
     }
   ],
   "rating": {
-    "headline": 38.9,
+    "headline": 17.5,
     "coverage": "UNRANKED",
-    "provisional": "type-prior",
+    "provisional": "neighbor-latent",
     "boards": {
       "house": {
         "rank": null
@@ -319,12 +325,28 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://deraydavis.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
-  }
+  },
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 1
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 10907,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

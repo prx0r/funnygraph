@@ -36,7 +36,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -62,7 +62,21 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
+  },
+  "bio": {
+    "wikidata_id": "Q2907778",
+    "dob": "1928-06-01",
+    "dod": "2003-12-29",
+    "birthplace": "Beckenham",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "actor",
+      "comedian",
+      "television presenter",
+      "film actor"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

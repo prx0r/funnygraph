@@ -122,12 +122,24 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "region": "uk",
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q5106349",
+    "dob": "1955-08-09",
+    "dod": null,
+    "birthplace": "Coleshill",
+    "citizenship": "United Kingdom",
+    "occupations": [
+      "association football player",
+      "association football coach"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

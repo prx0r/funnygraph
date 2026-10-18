@@ -1,0 +1,38 @@
+{
+ "comedian_id": "rip-the-mons",
+ "name": "RIP THE MONS",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "afZKKVpFVFM",
+  "title": "RIP THE MONS | Hot Water\u2019s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=afZKKVpFVFM",
+  "r2_clip_key": "comedians/rip-the-mons/clips/rip-the-mons-afzkkvpfvfm.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rip-the-mons/clips/rip-the-mons-afzkkvpfvfm.json"
+ },
+ "rows": [
+  {
+   "videoId": "afZKKVpFVFM",
+   "title": "RIP THE MONS | Hot Water\u2019s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=afZKKVpFVFM",
+   "n_words": 47,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "What did that together zen and the man z that moment that z kids that too late thick z yeah z judge and z k pa that the face waiting that stop grass Oh what? Oh my god. Stop in class. No wonder kids f",
+   "r2_clip_key": "comedians/rip-the-mons/clips/rip-the-mons-afzkkvpfvfm.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/rip-the-mons/clips/rip-the-mons-afzkkvpfvfm.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

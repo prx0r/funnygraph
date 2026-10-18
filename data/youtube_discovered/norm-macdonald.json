@@ -1,0 +1,76 @@
+{
+ "comedian_id": "norm-macdonald",
+ "specials": [],
+ "clips": [
+  {
+   "videoId": "20KSyePv2bI",
+   "title": "Quarantined with Norm Macdonald (ft. Bob Saget)",
+   "channel": "Norm Macdonald",
+   "publishedAt": "2020-03-31T20:27:19Z",
+   "duration_s": 476,
+   "views": 570340,
+   "likes": 13774,
+   "comedian_slug": "norm-macdonald"
+  },
+  {
+   "videoId": "rrhux_CZGRE",
+   "title": "Norm Macdonald's Bat Song",
+   "channel": "Norm Macdonald",
+   "publishedAt": "2020-03-29T19:08:23Z",
+   "duration_s": 122,
+   "views": 298903,
+   "likes": 13006,
+   "comedian_slug": "norm-macdonald"
+  },
+  {
+   "videoId": "ACHujT0nw6g",
+   "title": "Quarantined with Norm Macdonald (ft. Josh Gardner)",
+   "channel": "Norm Macdonald",
+   "publishedAt": "2020-03-27T19:54:14Z",
+   "duration_s": 379,
+   "views": 202740,
+   "likes": 8084,
+   "comedian_slug": "norm-macdonald"
+  },
+  {
+   "videoId": "jnnxXYo7MDw",
+   "title": "Quarantined with Norm Macdonald (ft. Chevy Chase)",
+   "channel": "Norm Macdonald",
+   "publishedAt": "2020-03-25T20:20:43Z",
+   "duration_s": 550,
+   "views": 667803,
+   "likes": 19091,
+   "comedian_slug": "norm-macdonald"
+  },
+  {
+   "videoId": "u8xZQnAnOoE",
+   "title": "Quarantined with Norm Macdonald (ft. Adam Eget)",
+   "channel": "Norm Macdonald",
+   "publishedAt": "2020-03-21T21:14:18Z",
+   "duration_s": 389,
+   "views": 661826,
+   "likes": 28741,
+   "comedian_slug": "norm-macdonald"
+  },
+  {
+   "videoId": "hoYUX3gqZs4",
+   "title": "Norm Macdonald does standup about coronavirus pt. 2",
+   "channel": "Norm Macdonald",
+   "publishedAt": "2020-03-15T01:14:00Z",
+   "duration_s": 223,
+   "views": 1447513,
+   "likes": 25374,
+   "comedian_slug": "norm-macdonald"
+  },
+  {
+   "videoId": "-skA4GhVX7k",
+   "title": "Norm Macdonald does standup about coronavirus",
+   "channel": "Norm Macdonald",
+   "publishedAt": "2020-03-14T02:27:47Z",
+   "duration_s": 334,
+   "views": 4278100,
+   "likes": 71945,
+   "comedian_slug": "norm-macdonald"
+  }
+ ]
+}

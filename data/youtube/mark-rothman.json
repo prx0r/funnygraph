@@ -1,0 +1,38 @@
+{
+ "comedian_id": "mark-rothman",
+ "name": "Mark Rothman",
+ "clips": 1,
+ "total_views": 3000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "nUF_Bc3fRUU",
+  "title": "Mark Rothman - Reform Voters Bet Booed - Wait for the occupation reveal. \ud83d\udce6",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 3000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=nUF_Bc3fRUU",
+  "r2_clip_key": "comedians/mark-rothman/clips/mark-rothman-nuf-bc3fruu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-rothman/clips/mark-rothman-nuf-bc3fruu.json"
+ },
+ "rows": [
+  {
+   "videoId": "nUF_Bc3fRUU",
+   "title": "Mark Rothman - Reform Voters Bet Booed - Wait for the occupation reveal. \ud83d\udce6",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 3000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=nUF_Bc3fRUU",
+   "n_words": 374,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "No. Yeah. Turns out this bar is actually the cheapest bar in the whole of the West End, everybody. Cheapest. It's cheaper than Wetherspoons. >> [cheering] >> Yeah. Well, also an even bigger [\u00a0__\u00a0] Now",
+   "r2_clip_key": "comedians/mark-rothman/clips/mark-rothman-nuf-bc3fruu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/mark-rothman/clips/mark-rothman-nuf-bc3fruu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

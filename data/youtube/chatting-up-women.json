@@ -1,0 +1,38 @@
+{
+ "comedian_id": "chatting-up-women",
+ "name": "Chatting Up Women",
+ "clips": 1,
+ "total_views": 368994,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "l2xLAi2kPho",
+  "title": "Chatting Up Women - John Bishop's Britain - BBC",
+  "channel": "BBC",
+  "views": 368994,
+  "duration_s": 81,
+  "url": "https://www.youtube.com/watch?v=l2xLAi2kPho",
+  "r2_clip_key": "comedians/chatting-up-women/clips/chatting-up-women-l2xlai2kpho.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chatting-up-women/clips/chatting-up-women-l2xlai2kpho.json"
+ },
+ "rows": [
+  {
+   "videoId": "l2xLAi2kPho",
+   "title": "Chatting Up Women - John Bishop's Britain - BBC",
+   "channel": "BBC",
+   "views": 368994,
+   "likes": null,
+   "duration_s": 81,
+   "url": "https://www.youtube.com/watch?v=l2xLAi2kPho",
+   "n_words": 208,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "there's one thing that always happens particularly when you've been married for a while or you've lived with a woman for a while and that's when you get the opportunity to go away on a stag do or a ma",
+   "r2_clip_key": "comedians/chatting-up-women/clips/chatting-up-women-l2xlai2kpho.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/chatting-up-women/clips/chatting-up-women-l2xlai2kpho.json",
+   "source_group": "big-names-shorts"
+  }
+ ]
+}

@@ -1,431 +1,526 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "mark-normand",
-  "name": "Mark Normand",
-  "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
-  "version": 2,
-  "created": "2026-10-16",
-  "annotator": "mimo-v2.5",
-  "identity": {
-    "deal": "Page-to-stage machine who tests every angle live, flips the premise when it stalls, and never lets the setup get precious.",
-    "premise": "A New York comic who works jokes out loud the way a mechanic works an engine \u2014 in public, at speed, with the hood up.",
-    "archetype": "page_to_stage",
-    "awareness": "semi",
-    "awareness_note": "Semi: the work is visible; he lets you see the gears while pretending they're not there.",
-    "philosophy": {
-      "ontology": "A joke is a living thing that dies if you overthink it.",
-      "epistemology": "The crowd tells you what's true; your job is to listen fast.",
-      "axiology": "Punchlines over profundity; the laugh is the point.",
-      "causality": "If it doesn't connect, flip it \u2014 don't force it.",
-      "agency": "Anyone can write; almost nobody rewrites in public."
-    },
-    "dramatic_core": {
-      "want": "the next laugh, not the perfect hour",
-      "fear": "the precious bit that never gets tested",
-      "need": "to be seen as a real comic's comic",
-      "self_model": "a guy with a notebook and no dignity",
-      "blind_spots": [
-        "the volume can drown the best angle",
-        "the 'workin it out' persona can become an excuse"
-      ]
-    },
-    "misinterpretation_rule": "Treats every premise as unfinished business until the room proves otherwise; failure is data, not defeat.",
-    "contradictions": [
-      "the hardest-working guy with the most casual act",
-      "the roast-adjacent killer who loves a silly premise",
-      "the podcast machine who still needs the room"
-    ],
-    "status_model": {
-      "desired_status": "the guy still doing sets at 1am",
-      "felt_status": "a comic among comics, which is the only status he wants"
-    },
-    "expression": {
-      "default_register": "fast-page-to-stage",
-      "emotional_restraint": "medium \u2014 the grin after a kill",
-      "tells": [
-        "the 'this is new' warning",
-        "the mid-bit flip",
-        "the laugh at his own audacity"
-      ]
-    },
-    "modulator_range": [
-      "page-to-stage",
-      "roast-goblin",
-      "silly-premise",
-      "dark-turn",
-      "crowd-work"
-    ],
-    "profile": {
-      "energy": 0.8,
-      "pace": "fast, no wasted breath, flip on a dime",
-      "gesture_frequency": 0.5,
-      "punchline_hold_ms": 500
-    },
-    "operator_priors": {
-      "rigidify": 0.3,
-      "literalize": 0.45,
-      "double_interpret": 0.55,
-      "status_invert": 0.45,
-      "character_violation": 0.4,
-      "status": "hypothesis from specials + clips"
-    },
-    "preferred_theories": [
-      "incongruity",
-      "status_reversal",
-      "benign_violation"
-    ],
-    "threads": [
-      "the joke as a live animal",
-      "the flip as a first-class move",
-      "New York as a bit factory",
-      "the roast as a love language",
-      "working it out in public"
-    ],
-    "problem_space": [
-      "joke craft as a visible process",
-      "the podcast industrial complex",
-      "the open-mic economy of attention"
-    ],
-    "style_thesis": "Page-to-stage engine: works jokes out loud the way a mechanic works an engine \u2014 in public, at speed, with the hood up. The flip is a first-class move: if the angle stalls, invert it (complaint \u2192 advantage, fear \u2192 welcome). The volume is the work ethic made audible."
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "mark-normand",
+ "name": "Mark Normand",
+ "note": "STAGE PERSONA graph for the 'Why is X Funny?' video series. Graph-only. 0 sets measured \u2014 all hypothesis. Public persona only, no biography.",
+ "version": 2,
+ "created": "2026-10-16",
+ "annotator": "mimo-v2.5",
+ "identity": {
+  "deal": "Page-to-stage machine who tests every angle live, flips the premise when it stalls, and never lets the setup get precious.",
+  "premise": "A New York comic who works jokes out loud the way a mechanic works an engine \u2014 in public, at speed, with the hood up.",
+  "archetype": "page_to_stage",
+  "awareness": "semi",
+  "awareness_note": "Semi: the work is visible; he lets you see the gears while pretending they're not there.",
+  "philosophy": {
+   "ontology": "A joke is a living thing that dies if you overthink it.",
+   "epistemology": "The crowd tells you what's true; your job is to listen fast.",
+   "axiology": "Punchlines over profundity; the laugh is the point.",
+   "causality": "If it doesn't connect, flip it \u2014 don't force it.",
+   "agency": "Anyone can write; almost nobody rewrites in public."
   },
-  "engine": {
-    "voice_clone_id": null,
-    "delivery_archetype": "page_to_stage",
-    "archetype_def": null,
-    "measured_acoustics": null,
-    "jev_state": {
-      "status": "NOT RUN"
-    },
-    "world_transfer_proven": null
+  "dramatic_core": {
+   "want": "the next laugh, not the perfect hour",
+   "fear": "the precious bit that never gets tested",
+   "need": "to be seen as a real comic's comic",
+   "self_model": "a guy with a notebook and no dignity",
+   "blind_spots": [
+    "the volume can drown the best angle",
+    "the 'workin it out' persona can become an excuse"
+   ]
   },
-  "sets": [
-    {
-      "set_id": "mark-normand_mark-normand-don-t-be-yourself-2017-transcript",
-      "title": "Mark Normand Don T Be Yourself 2017 Transcript",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/mark-normand/mark-normand-don-t-be-yourself-2017-transcript.txt",
-        "format": "plain txt",
-        "words": 6664
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    },
-    {
-      "set_id": "mark-normand_mark-normand-stand-up-the-tonight-show-starring-ji",
-      "title": "Mark Normand Stand Up The Tonight Show Starring Jimmy Fallon 2019 Full",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt",
-        "format": "plain txt",
-        "words": 777
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    },
-    {
-      "set_id": "mark-normand_ark-ormand-on-t-e-ourself-2017-ranscript",
-      "title": "Ark Ormand On T E Ourself 2017 Ranscript",
-      "status": "transcript-linked (synthetic timing until ASR)",
-      "transcript": {
-        "path": "transcripts/mark-normand/ark-ormand-on-t-e-ourself-2017-ranscript.txt",
-        "format": "plain txt",
-        "words": 6664
-      },
-      "timing_measured": null,
-      "note": "from HF comedy-transcripts (scrapsfromtheloft)"
-    }
+  "misinterpretation_rule": "Treats every premise as unfinished business until the room proves otherwise; failure is data, not defeat.",
+  "contradictions": [
+   "the hardest-working guy with the most casual act",
+   "the roast-adjacent killer who loves a silly premise",
+   "the podcast machine who still needs the room"
   ],
-  "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+  "status_model": {
+   "desired_status": "the guy still doing sets at 1am",
+   "felt_status": "a comic among comics, which is the only status he wants"
   },
-  "timing_profile": {
-    "measured": null,
-    "hypothesis": "page_to_stage cadence \u2014 hypothesize from specials.",
-    "doctrine_hypothesis": "Fast, no wasted breath, flip on a dime. The 'this is new' warning is a timing device \u2014 the room leans in because it might fail. The mid-bit flip is the form: the premise is never precious."
+  "expression": {
+   "default_register": "fast-page-to-stage",
+   "emotional_restraint": "medium \u2014 the grin after a kill",
+   "tells": [
+    "the 'this is new' warning",
+    "the mid-bit flip",
+    "the laugh at his own audacity"
+   ]
   },
-  "gtvh_profile": {
-    "SO": "",
-    "LM": "",
-    "TA": "",
-    "NS": "",
-    "note": "authored hypothesis"
-  },
-  "theory_links": {
-    "internal": [
-      {
-        "id": "gtvh",
-        "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
-        "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "attardo-pause-taxonomy",
-        "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
-        "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "dpv",
-        "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
-        "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "incongruity",
-        "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
-        "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "benign_violation",
-        "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
-        "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "status_reversal",
-        "cite": "Roger & Duffy / status theory of humor",
-        "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "split_knowledge",
-        "cite": "Veatch 1978 \u2014 theory of joking relationships",
-        "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
-        "applies_to": "primary move / timing / structure"
-      },
-      {
-        "id": "escalation",
-        "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
-        "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
-        "applies_to": "primary move / timing / structure"
-      }
-    ],
-    "external": [
-      {
-        "id": "standup4ai",
-        "cite": "StandUp4AI dataset (EMNLP 2025)",
-        "use": "future laugh-position ground truth"
-      },
-      {
-        "id": "tic-talk",
-        "cite": "TIC-TALK (CHum 2026)",
-        "use": "future cross-comedian timing normalization"
-      }
-    ]
-  },
-  "essay_seeds": [
-    {
-      "id": "mark-normand-essay-01",
-      "title": "Why is Mark Normand funny? The page to stage engine",
-      "thesis": "Treats every premise as unfinished business until the room proves otherwise; failure is data, not defeat.",
-      "evidence": [
-        "identity.misinterpretation_rule",
-        "known_bits",
-        "identity.operator_priors",
-        "timing_profile.doctrine_hypothesis"
-      ],
-      "outline": [
-        "the deal in one sentence",
-        "the misinterpretation rule as engine",
-        "2-3 signature bits dissected",
-        "timing doctrine",
-        "what makes this persona impossible to copy"
-      ],
-      "status": "seed \u2014 ready to draft"
-    },
-    {
-      "id": "mark-normand-bit-01",
-      "title": "Mark Normand: 'The joke as a live animal' \u2014 how the bit works",
-      "thesis": "Tests the premise live, reads the reaction, commits or flips. The room is watching the process AND the product \u2014 the transparency is the charm. The flip (when it works) is funnier than the original because the room saw the work.",
-      "evidence": [
-        "known_bits[0]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    },
-    {
-      "id": "mark-normand-bit-02",
-      "title": "Mark Normand: 'The flip as a first-class move' \u2014 how the bit works",
-      "thesis": "When the jealous-angle stalls, flip to the opposite stance. The room laughs at the audacity of the flip as much as the new angle. The process is visible; the visibility is the trust mechanism.",
-      "evidence": [
-        "known_bits[1]",
-        "theory_links"
-      ],
-      "outline": [
-        "the setup",
-        "the mechanism",
-        "why the room laughs",
-        "the theory link",
-        "what this reveals about the engine"
-      ],
-      "status": "seed"
-    }
+  "modulator_range": [
+   "page-to-stage",
+   "roast-goblin",
+   "silly-premise",
+   "dark-turn",
+   "crowd-work"
   ],
-  "provenance": {
-    "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines",
-      "0 sets = all hypothesis"
-    ],
-    "sets_observed": 0,
-    "next": "ingest a signature-era set; measure timing; refine priors",
-    "theory_applied": true,
-    "deepened": "2026-10-16",
-    "transcripts_linked": [
-      "transcripts/mark-normand/mark-normand-don-t-be-yourself-2017-transcript.txt",
-      "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt",
-      "transcripts/mark-normand/ark-ormand-on-t-e-ourself-2017-ranscript.txt"
-    ]
+  "profile": {
+   "energy": 0.8,
+   "pace": "fast, no wasted breath, flip on a dime",
+   "gesture_frequency": 0.5,
+   "punchline_hold_ms": 500
   },
-  "known_bits": [
-    {
-      "title": "The joke as a live animal",
-      "why_it_works": "Tests the premise live, reads the reaction, commits or flips. The room is watching the process AND the product \u2014 the transparency is the charm. The flip (when it works) is funnier than the original because the room saw the work.",
-      "theory_links": [
-        "garden_path",
-        "benign_violation"
-      ]
-    },
-    {
-      "title": "The flip as a first-class move",
-      "why_it_works": "When the jealous-angle stalls, flip to the opposite stance. The room laughs at the audacity of the flip as much as the new angle. The process is visible; the visibility is the trust mechanism.",
-      "theory_links": [
-        "status_reversal",
-        "incongruity"
-      ]
-    }
+  "operator_priors": {
+   "rigidify": 0.3,
+   "literalize": 0.45,
+   "double_interpret": 0.55,
+   "status_invert": 0.45,
+   "character_violation": 0.4,
+   "status": "hypothesis from specials + clips"
+  },
+  "preferred_theories": [
+   "incongruity",
+   "status_reversal",
+   "benign_violation"
   ],
-  "generation": {
-    "id": "tens",
-    "label": "Tens Netflix/podcast",
-    "span": "2010s",
-    "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
-    "scene": "club",
-    "breakthrough": "2010s club \u2192 Soup to Nuts 2017"
+  "threads": [
+   "the joke as a live animal",
+   "the flip as a first-class move",
+   "New York as a bit factory",
+   "the roast as a love language",
+   "working it out in public"
+  ],
+  "problem_space": [
+   "joke craft as a visible process",
+   "the podcast industrial complex",
+   "the open-mic economy of attention"
+  ],
+  "style_thesis": "Page-to-stage engine: works jokes out loud the way a mechanic works an engine \u2014 in public, at speed, with the hood up. The flip is a first-class move: if the angle stalls, invert it (complaint \u2192 advantage, fear \u2192 welcome). The volume is the work ethic made audible."
+ },
+ "engine": {
+  "voice_clone_id": null,
+  "delivery_archetype": "page_to_stage",
+  "archetype_def": null,
+  "measured_acoustics": null,
+  "jev_state": {
+   "status": "NOT RUN"
   },
-  "bio": {
-    "wikidata_id": "Q58062048",
-    "dob": "1983-09-18",
-    "dod": null,
-    "birthplace": "New Orleans",
-    "citizenship": "United States",
-    "occupations": [
-      "comedian",
-      "stand-up comedian",
-      "television actor",
-      "actor"
-    ],
-    "source": "wikidata (CC0)"
+  "world_transfer_proven": null
+ },
+ "sets": [
+  {
+   "set_id": "mark-normand_mark-normand-don-t-be-yourself-2017-transcript",
+   "title": "Mark Normand Don T Be Yourself 2017 Transcript",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/mark-normand/mark-normand-don-t-be-yourself-2017-transcript.txt",
+    "format": "plain txt",
+    "words": 6664
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
   },
-  "humor_type": {
-    "primary": "crowd-improv",
-    "secondary": "observational",
-    "scores": {
-      "crowd-improv": 0.5,
-      "observational": 0.17,
-      "roast": 0.17
-    },
-    "method": "archetype+theories+transcript"
+  {
+   "set_id": "mark-normand_mark-normand-stand-up-the-tonight-show-starring-ji",
+   "title": "Mark Normand Stand Up The Tonight Show Starring Jimmy Fallon 2019 Full",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt",
+    "format": "plain txt",
+    "words": 777
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
   },
-  "netflix_viewership": {
-    "hours": 6700000,
-    "views": 7400000,
-    "specials": 2,
-    "source": "What We Watched 2023H1-2026H1"
-  },
-  "metrics": {
-    "legacy": 18.8,
-    "legacy_era": 42.3,
-    "audience": null,
-    "popularity": 71.6,
-    "theory": 50.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
-  },
-  "tier": "king",
-  "region": "us",
-  "continent": "north-america",
-  "modes": {
-    "signature": "crowd-improv",
-    "signature_title": "page-to-stage machine",
-    "repertoire": {
-      "crowd-improv": 0.54,
-      "roast": 0.36,
-      "observational": 0.09
-    },
-    "n_modes": 2
-  },
-  "style": {
-    "words": 19483,
-    "profanity_rate": 0.0045,
-    "question_rate": 0.261,
-    "i_rate": 0.047,
-    "vocab_div": 0.077,
-    "avg_sent_len": 8.3,
-    "top_words": [
-      "laughter",
-      "well",
-      "people",
-      "want",
-      "come",
-      "good",
-      "guys",
-      "time",
-      "some",
-      "goes",
-      "applause",
-      "love"
-    ]
-  },
-  "recognition": {
-    "awards": []
-  },
-  "rating": {
-    "headline": 77.8,
-    "coverage": "UNRANKED",
-    "provisional": "neighbor-latent",
-    "boards": {
-      "house": {
-        "rank": null
-      },
-      "consensus": {
-        "rank": 337,
-        "ref": true
-      },
-      "canon": {
-        "rank": 318,
-        "ref": true
-      },
-      "peoples": {
-        "rank": null,
-        "wr": null,
-        "ref": true
-      },
-      "era": {
-        "rank": 240,
-        "ref": true
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
-  },
-  "website": {
-    "url": "https://marknormandcomedy.com",
-    "source": "wikidata-P856",
-    "checked": "2026-10-17"
+  {
+   "set_id": "mark-normand_ark-ormand-on-t-e-ourself-2017-ranscript",
+   "title": "Ark Ormand On T E Ourself 2017 Ranscript",
+   "status": "transcript-linked (synthetic timing until ASR)",
+   "transcript": {
+    "path": "transcripts/mark-normand/ark-ormand-on-t-e-ourself-2017-ranscript.txt",
+    "format": "plain txt",
+    "words": 6664
+   },
+   "timing_measured": null,
+   "note": "from HF comedy-transcripts (scrapsfromtheloft)"
   }
+ ],
+ "set_queue": {
+  "note": "2 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+  "r2_specials": [
+   "don-t-be-yourself-2017",
+   "soup-to-nuts-2023"
+  ],
+  "special_titles": [
+   "Mark Normand: Don\u2019t Be Yourself (2017) \u2013 Transcript",
+   "Mark Normand: Soup to Nuts (2023)"
+  ],
+  "blocked_on": "ingest (r2 specials are transcript-linked)"
+ },
+ "timing_profile": {
+  "measured": null,
+  "hypothesis": "page_to_stage cadence \u2014 hypothesize from specials.",
+  "doctrine_hypothesis": "Fast, no wasted breath, flip on a dime. The 'this is new' warning is a timing device \u2014 the room leans in because it might fail. The mid-bit flip is the form: the premise is never precious."
+ },
+ "gtvh_profile": {
+  "SO": "",
+  "LM": "",
+  "TA": "",
+  "NS": "",
+  "note": "authored hypothesis"
+ },
+ "theory_links": {
+  "internal": [
+   {
+    "id": "gtvh",
+    "cite": "Attardo & Raskin \u2014 General Theory of Verbal Humor",
+    "claim": "Joke = {SO, LM, SI, TA, NS, LA}. Technique and Narrative Strategy shape how the mechanism is staged.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "attardo-pause-taxonomy",
+    "cite": "Attardo & Pickering 2011 \u2014 Timing in the performance of jokes",
+    "claim": "Punch lines preceded by substantial pauses (0.6-0.8s+); timing = pause distribution + speech rate.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "dpv",
+    "cite": "arxiv 2605.00143 \u2014 Timing is Everything: Temporal Scaffolding of Semantic Surprise in Humor",
+    "claim": "Temporal features substantially outweigh semantic incongruity for audience appreciation; timing GATES cognitive access.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "incongruity",
+    "cite": "Shultz / Suls \u2014 incongruity-resolution theory",
+    "claim": "Humor from the detection and resolution of an incongruity between expected and actual.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "benign_violation",
+    "cite": "McGraw & Warren 2010 \u2014 Benign Violation Theory",
+    "claim": "Something is funny when it is a violation (wrong, threatening, unsettling) AND benign (safe, acceptable, play-framed).",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "status_reversal",
+    "cite": "Roger & Duffy / status theory of humor",
+    "claim": "Humor often involves the fall of status or the reversal of a status hierarchy.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "split_knowledge",
+    "cite": "Veatch 1978 \u2014 theory of joking relationships",
+    "claim": "Audience and performer share knowledge the persona pretends not to have; the laugh is the alliance signal.",
+    "applies_to": "primary move / timing / structure"
+   },
+   {
+    "id": "escalation",
+    "cite": "Norrick 2004 \u2014 Co-operative principle in conversational joking",
+    "claim": "Humor escalates by building on prior material, violating cooperative expectations of relevance/quantity.",
+    "applies_to": "primary move / timing / structure"
+   }
+  ],
+  "external": [
+   {
+    "id": "standup4ai",
+    "cite": "StandUp4AI dataset (EMNLP 2025)",
+    "use": "future laugh-position ground truth"
+   },
+   {
+    "id": "tic-talk",
+    "cite": "TIC-TALK (CHum 2026)",
+    "use": "future cross-comedian timing normalization"
+   }
+  ]
+ },
+ "essay_seeds": [
+  {
+   "id": "mark-normand-essay-01",
+   "title": "Why is Mark Normand funny? The page to stage engine",
+   "thesis": "Treats every premise as unfinished business until the room proves otherwise; failure is data, not defeat.",
+   "evidence": [
+    "identity.misinterpretation_rule",
+    "known_bits",
+    "identity.operator_priors",
+    "timing_profile.doctrine_hypothesis"
+   ],
+   "outline": [
+    "the deal in one sentence",
+    "the misinterpretation rule as engine",
+    "2-3 signature bits dissected",
+    "timing doctrine",
+    "what makes this persona impossible to copy"
+   ],
+   "status": "seed \u2014 ready to draft"
+  },
+  {
+   "id": "mark-normand-bit-01",
+   "title": "Mark Normand: 'The joke as a live animal' \u2014 how the bit works",
+   "thesis": "Tests the premise live, reads the reaction, commits or flips. The room is watching the process AND the product \u2014 the transparency is the charm. The flip (when it works) is funnier than the original because the room saw the work.",
+   "evidence": [
+    "known_bits[0]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  },
+  {
+   "id": "mark-normand-bit-02",
+   "title": "Mark Normand: 'The flip as a first-class move' \u2014 how the bit works",
+   "thesis": "When the jealous-angle stalls, flip to the opposite stance. The room laughs at the audacity of the flip as much as the new angle. The process is visible; the visibility is the trust mechanism.",
+   "evidence": [
+    "known_bits[1]",
+    "theory_links"
+   ],
+   "outline": [
+    "the setup",
+    "the mechanism",
+    "why the room laughs",
+    "the theory link",
+    "what this reveals about the engine"
+   ],
+   "status": "seed"
+  }
+ ],
+ "provenance": {
+  "persona": "authored from public reputation + specials + podcast presence (no verbatim bits)",
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines",
+   "0 sets = all hypothesis"
+  ],
+  "sets_observed": 0,
+  "next": "ingest a signature-era set; measure timing; refine priors",
+  "theory_applied": true,
+  "deepened": "2026-10-16",
+  "transcripts_linked": [
+   "transcripts/mark-normand/mark-normand-don-t-be-yourself-2017-transcript.txt",
+   "transcripts/mark-normand/mark-normand-stand-up-the-tonight-show-starring-jimmy-fallon-2019-full.txt",
+   "transcripts/mark-normand/ark-ormand-on-t-e-ourself-2017-ranscript.txt"
+  ]
+ },
+ "known_bits": [
+  {
+   "title": "The joke as a live animal",
+   "why_it_works": "Tests the premise live, reads the reaction, commits or flips. The room is watching the process AND the product \u2014 the transparency is the charm. The flip (when it works) is funnier than the original because the room saw the work.",
+   "theory_links": [
+    "garden_path",
+    "benign_violation"
+   ]
+  },
+  {
+   "title": "The flip as a first-class move",
+   "why_it_works": "When the jealous-angle stalls, flip to the opposite stance. The room laughs at the audacity of the flip as much as the new angle. The process is visible; the visibility is the trust mechanism.",
+   "theory_links": [
+    "status_reversal",
+    "incongruity"
+   ]
+  }
+ ],
+ "generation": {
+  "id": "tens",
+  "label": "Tens Netflix/podcast",
+  "span": "2010s",
+  "note": "Netflix specials arms race, podcast empires, YouTube-native breakouts.",
+  "scene": "club",
+  "breakthrough": "2010s club \u2192 Soup to Nuts 2017"
+ },
+ "bio": {
+  "wikidata_id": "Q58062048",
+  "dob": "1983-09-18",
+  "dod": null,
+  "birthplace": "New Orleans",
+  "citizenship": "United States",
+  "occupations": [
+   "comedian",
+   "stand-up comedian",
+   "television actor",
+   "actor"
+  ],
+  "source": "wikidata (CC0)"
+ },
+ "humor_type": {
+  "primary": "crowd-improv",
+  "secondary": "observational",
+  "scores": {
+   "crowd-improv": 0.5,
+   "observational": 0.17,
+   "roast": 0.17
+  },
+  "method": "archetype+theories+transcript"
+ },
+ "netflix_viewership": {
+  "hours": 6700000,
+  "views": 7400000,
+  "specials": 2,
+  "source": "What We Watched 2023H1-2026H1"
+ },
+ "metrics": {
+  "legacy": 18.8,
+  "legacy_era": 42.3,
+  "audience": null,
+  "popularity": 80.9,
+  "theory": 50.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "tier": "king",
+ "region": "us",
+ "continent": "north-america",
+ "modes": {
+  "signature": "crowd-improv",
+  "signature_title": "page-to-stage machine",
+  "repertoire": {
+   "crowd-improv": 0.54,
+   "roast": 0.36,
+   "observational": 0.09
+  },
+  "n_modes": 2
+ },
+ "style": {
+  "words": 19483,
+  "profanity_rate": 0.0045,
+  "question_rate": 0.261,
+  "i_rate": 0.047,
+  "vocab_div": 0.077,
+  "avg_sent_len": 8.3,
+  "top_words": [
+   "laughter",
+   "well",
+   "people",
+   "want",
+   "come",
+   "good",
+   "guys",
+   "time",
+   "some",
+   "goes",
+   "applause",
+   "love"
+  ]
+ },
+ "recognition": {
+  "awards": []
+ },
+ "rating": {
+  "headline": 51.5,
+  "coverage": "UNRANKED",
+  "provisional": "global-prior",
+  "boards": {
+   "house": {
+    "rank": null
+   },
+   "consensus": {
+    "rank": 337,
+    "ref": true
+   },
+   "canon": {
+    "rank": 318,
+    "ref": true
+   },
+   "peoples": {
+    "rank": null,
+    "wr": null,
+    "ref": true
+   },
+   "era": {
+    "rank": 240,
+    "ref": true
+   }
+  },
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "website": {
+  "url": "https://marknormandcomedy.com",
+  "source": "wikidata-P856",
+  "checked": "2026-10-17"
+ },
+ "discovery": {
+  "discovered_from": [
+   "r2:comedy-specials"
+  ],
+  "r2_comedian": true,
+  "r2_specials": 2
+ },
+ "transcripts": {
+  "clip_words": 0,
+  "special_words": 18362,
+  "timed_clips": 0,
+  "timed_specials": 0,
+  "r2_source": "r2:comedy-specials",
+  "synced": "2026-10-18"
+ },
+ "r2_profiled": "2026-10-18",
+ "youtube_specials": [
+  {
+   "videoId": "bksMJIAnS3g",
+   "title": "Shane Gillis & Mark Normand BEST MOMENTS on KillTony Ep 565 | Fan Made Compilation",
+   "duration_s": 1254,
+   "views": 14722,
+   "url": "https://www.youtube.com/watch?v=bksMJIAnS3g",
+   "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json",
+   "r2_special_slug": "don-t-be-yourself-2017",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "-tPhUmPnbsY",
+   "title": "Mark Normand on Preston & Steve in Philly!! (Full Interview)",
+   "duration_s": 2166,
+   "views": 15258,
+   "url": "https://www.youtube.com/watch?v=-tPhUmPnbsY",
+   "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json",
+   "r2_special_slug": "don-t-be-yourself-2017",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "ImXfjNZ493c",
+   "title": "Mark Normand Best Moments on Are You Garbage!! w/ Kevin Ryan & H. Foley",
+   "duration_s": 1850,
+   "views": 14903,
+   "url": "https://www.youtube.com/watch?v=ImXfjNZ493c",
+   "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json",
+   "r2_special_slug": "don-t-be-yourself-2017",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "IXSy52UcmPA",
+   "title": "Page to Stage Episode 2 | Mark Normand Writes a Clean Joke!! (Full Episode)",
+   "duration_s": 1623,
+   "views": 288801,
+   "url": "https://www.youtube.com/watch?v=IXSy52UcmPA",
+   "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json",
+   "r2_special_slug": "don-t-be-yourself-2017",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "TsG0fIajDAs",
+   "title": "UNRELEASED Mark Normand Set from 2012!!!!!!!! LIVE at the Oneonta Theatre",
+   "duration_s": 1551,
+   "views": 13901,
+   "url": "https://www.youtube.com/watch?v=TsG0fIajDAs",
+   "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json",
+   "r2_special_slug": "don-t-be-yourself-2017",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "QFWjd9EQSdM",
+   "title": "Mark Normand | Best Moments on Dr. Phil LIVE!",
+   "duration_s": 3413,
+   "views": 14460,
+   "url": "https://www.youtube.com/watch?v=QFWjd9EQSdM",
+   "r2_special_key": "comedians/mark-normand/specials/don-t-be-yourself-2017.json",
+   "r2_special_slug": "don-t-be-yourself-2017",
+   "transcript_linked": true
+  },
+  {
+   "videoId": "_sFu5ejKHkk",
+   "title": "Pushing Boulder: A Mark-umentary",
+   "duration_s": 4362,
+   "views": 534315,
+   "url": "https://www.youtube.com/watch?v=_sFu5ejKHkk",
+   "transcript_linked": false
+  }
+ ],
+ "youtube_specials_count": 7
 }

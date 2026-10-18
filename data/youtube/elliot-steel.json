@@ -1,0 +1,38 @@
+{
+ "comedian_id": "elliot-steel",
+ "name": "Elliot Steel",
+ "clips": 1,
+ "total_views": 7300,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "RNOU5MVrsn8",
+  "title": "I'm A bit Fascist | Elliot Steel | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "views": 7300,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=RNOU5MVrsn8",
+  "r2_clip_key": "comedians/elliot-steel/clips/elliot-steel-rnou5mvrsn8.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/elliot-steel/clips/elliot-steel-rnou5mvrsn8.json"
+ },
+ "rows": [
+  {
+   "videoId": "RNOU5MVrsn8",
+   "title": "I'm A bit Fascist | Elliot Steel | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "views": 7300,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=RNOU5MVrsn8",
+   "n_words": 204,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I've come a bit disillusioned with democracy and and as a I know one warns you about this when you're a white man. And they should. They don't They don't warn you about the fascism that you start agre",
+   "r2_clip_key": "comedians/elliot-steel/clips/elliot-steel-rnou5mvrsn8.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/elliot-steel/clips/elliot-steel-rnou5mvrsn8.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

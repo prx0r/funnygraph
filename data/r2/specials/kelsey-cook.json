@@ -1,0 +1,32 @@
+{
+ "comedian_slug": "kelsey-cook",
+ "specials": [
+  {
+   "special_slug": "the-hustler-2023",
+   "title": "Kelsey Cook: The Hustler (2023)",
+   "comedian": "Kelsey Cook",
+   "url": "https://scrapsfromtheloft.com/comedy/kelsey-cook-the-hustler-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 8816,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nKelsey Cook: The Hustler (2023) \u2013 Transcript\nPublished February 11, 2024\nKelsey Cook humorously explores dating, divorce, and self-discovery, blending candid observations with personal anecdotes\n\nPremiered March 10, 2023\n\nIn \u201cThe Hustler,\u201d premiered on March 10, 2023, Kelsey Cook delivers",
+   "r2_special_key": "comedians/kelsey-cook/specials/the-hustler-2023.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kelsey-cook/specials/the-hustler-2023.json"
+  },
+  {
+   "special_slug": "happy-hour-2026",
+   "title": "Kelsey Cook: Happy Hour (2026)",
+   "comedian": "Kelsey Cook",
+   "url": "https://scrapsfromtheloft.com/comedy/kelsey-cook-happy-hour-transcript/",
+   "source": "scrapsfromtheloft",
+   "n_words": 7715,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Transcript\nKelsey Cook: Happy Hour (2026) \u2013 Transcript\nPublished August 19, 2026\nKelsey Cook\u2019s Netflix special Happy Hour blends observational comedy about her 30s with heavy topics. She covers everything from airplane bathroom mishaps to her mother\u2019s battle with dementia.\n\nPlatformNetflix\n\nKelsey C",
+   "r2_special_key": "comedians/kelsey-cook/specials/happy-hour-2026.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kelsey-cook/specials/happy-hour-2026.json"
+  }
+ ],
+ "count": 2
+}

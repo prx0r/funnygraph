@@ -1,0 +1,38 @@
+{
+ "comedian_id": "philip-simon",
+ "name": "Philip Simon",
+ "clips": 1,
+ "total_views": 12000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "1TVcJWimuEA",
+  "title": "Worst Wedding Present Ever | Philip Simon | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "views": 12000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=1TVcJWimuEA",
+  "r2_clip_key": "comedians/philip-simon/clips/philip-simon-1tvcjwimuea.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/philip-simon/clips/philip-simon-1tvcjwimuea.json"
+ },
+ "rows": [
+  {
+   "videoId": "1TVcJWimuEA",
+   "title": "Worst Wedding Present Ever | Philip Simon | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "views": 12000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=1TVcJWimuEA",
+   "n_words": 67,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "When you get married, you've got to get presents for each other. Did you know that? What she got me was a card that just said, \"Good luck in your new job.\" [laughter] She actually doubled down on her ",
+   "r2_clip_key": "comedians/philip-simon/clips/philip-simon-1tvcjwimuea.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/philip-simon/clips/philip-simon-1tvcjwimuea.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

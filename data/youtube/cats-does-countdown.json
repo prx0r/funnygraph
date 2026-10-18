@@ -1,0 +1,38 @@
+{
+ "comedian_id": "cats-does-countdown",
+ "name": "Cats Does Countdown",
+ "clips": 1,
+ "total_views": 30106,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "VJgQnhmXLtE",
+  "title": "Spencer Jones - \"Bricks and Morter\" | Cats Does Countdown",
+  "channel": "Chuffed to Bits",
+  "views": 30106,
+  "duration_s": 106,
+  "url": "https://www.youtube.com/watch?v=VJgQnhmXLtE",
+  "r2_clip_key": "comedians/cats-does-countdown/clips/cats-does-countdown-vjgqnhmxlte.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cats-does-countdown/clips/cats-does-countdown-vjgqnhmxlte.json"
+ },
+ "rows": [
+  {
+   "videoId": "VJgQnhmXLtE",
+   "title": "Spencer Jones - \"Bricks and Morter\" | Cats Does Countdown",
+   "channel": "Chuffed to Bits",
+   "views": 30106,
+   "likes": null,
+   "duration_s": 106,
+   "url": "https://www.youtube.com/watch?v=VJgQnhmXLtE",
+   "n_words": 251,
+   "words_timed": true,
+   "transcript_method": "cloudflare-whisper",
+   "transcript_available": true,
+   "transcript_preview": "Hey it's coming Hey it's coming That's got to stay can do it I can do it I can do it I can do it Mae 'n gweithio mae 'n gweithio mae 'n gweithio mae 'n gweithio mae 'n gweithio mae 'n gweithio mae 'n ",
+   "r2_clip_key": "comedians/cats-does-countdown/clips/cats-does-countdown-vjgqnhmxlte.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/cats-does-countdown/clips/cats-does-countdown-vjgqnhmxlte.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

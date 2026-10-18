@@ -81,7 +81,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "nearest_greats": [
@@ -114,5 +114,14 @@
     "via": "hans-kim",
     "sim": 0.082,
     "method": "inferred-from-nearest-king (resemblance, not measurement)"
+  },
+  "bio": {
+    "wikidata_id": "Q110434695",
+    "dob": null,
+    "dod": null,
+    "birthplace": null,
+    "citizenship": null,
+    "occupations": [],
+    "source": "wikidata (CC0)"
   }
 }

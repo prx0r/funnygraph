@@ -160,8 +160,26 @@
     }
   ],
   "set_queue": {
-    "note": "For 'Why is X Funny?' \u2014 ingest 1-2 signature-era sets, ASR + word-timed.",
-    "blocked_on": "audio access"
+    "note": "7 full specials in R2 (0 timed). Ready for analyze_set \u2192 known_bits + timing_measured.",
+    "r2_specials": [
+      "deadbeat-hero-2004",
+      "no-refunds-2007",
+      "before-turning-the-gun-on-himself-2012",
+      "beer-hall-putsch-2013",
+      "no-refunds-2007-trascrizione-italiana",
+      "fear-of-an-empty-bed",
+      "fear-of-an-empty-bed-transcript"
+    ],
+    "special_titles": [
+      "DOUG STANHOPE: DEADBEAT HERO (2004) \u2013 Transcript",
+      "Doug Stanhope: No Refunds (2007)",
+      "DOUG STANHOPE: BEFORE TURNING THE GUN ON HIMSELF (2012) \u2013 Transcript",
+      "Doug Stanhope: Beer Hall Putsch (2013) \u2013 Transcript",
+      "DOUG STANHOPE: NO REFUNDS (2007) \u2013 Trascrizione italiana",
+      "Doug Stanhope: Fear Of An Empty Bed",
+      "DOUG STANHOPE: FEAR OF AN EMPTY BED [TRANSCRIPT]"
+    ],
+    "blocked_on": "ingest (r2 specials are transcript-linked)"
   },
   "timing_profile": {
     "measured": null,
@@ -407,7 +425,7 @@
     ]
   },
   "rating": {
-    "headline": 91.5,
+    "headline": 95.5,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -433,7 +451,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
@@ -458,5 +476,21 @@
         "expose_self_blindness"
       ]
     }
-  ]
+  ],
+  "discovery": {
+    "discovered_from": [
+      "r2:comedy-specials"
+    ],
+    "r2_comedian": true,
+    "r2_specials": 7
+  },
+  "transcripts": {
+    "clip_words": 0,
+    "special_words": 52879,
+    "timed_clips": 0,
+    "timed_specials": 0,
+    "r2_source": "r2:comedy-specials",
+    "synced": "2026-10-18"
+  },
+  "r2_profiled": "2026-10-18"
 }

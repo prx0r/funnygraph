@@ -1,0 +1,38 @@
+{
+ "comedian_id": "best-docs-network",
+ "name": "Best Docs Network",
+ "clips": 1,
+ "total_views": 298,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "jE4gVTRMwPk",
+  "title": "Meet The Doctor: Urologist Dr. Christopher Cantrill",
+  "channel": "Best Docs Network",
+  "views": 298,
+  "duration_s": 68,
+  "url": "https://www.youtube.com/watch?v=jE4gVTRMwPk",
+  "r2_clip_key": "comedians/best-docs-network/clips/best-docs-network-je4gvtrmwpk.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/best-docs-network/clips/best-docs-network-je4gvtrmwpk.json"
+ },
+ "rows": [
+  {
+   "videoId": "jE4gVTRMwPk",
+   "title": "Meet The Doctor: Urologist Dr. Christopher Cantrill",
+   "channel": "Best Docs Network",
+   "views": 298,
+   "likes": null,
+   "duration_s": 68,
+   "url": "https://www.youtube.com/watch?v=jE4gVTRMwPk",
+   "n_words": 190,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "urology focuses on the surgical and medical diseases of the urinary tract system and male reproductive organs dr. Christopher Cantrell is a urologist here in the San Antonio area now let's meet the do",
+   "r2_clip_key": "comedians/best-docs-network/clips/best-docs-network-je4gvtrmwpk.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/best-docs-network/clips/best-docs-network-je4gvtrmwpk.json",
+   "source_group": "shorts-discovery"
+  }
+ ]
+}

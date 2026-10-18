@@ -37,7 +37,7 @@
     "canon_lag": null
   },
   "rating": {
-    "headline": 52.8,
+    "headline": 51.5,
     "coverage": "UNRANKED",
     "provisional": "global-prior",
     "boards": {
@@ -63,12 +63,26 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {
     "url": "https://gilbertgottfried.com",
     "source": "url-guess-verified",
     "checked": "2026-10-17"
+  },
+  "bio": {
+    "wikidata_id": "Q221464",
+    "dob": "1955-02-28",
+    "dod": "2022-04-12",
+    "birthplace": "Coney Island",
+    "citizenship": "United States",
+    "occupations": [
+      "stand-up comedian",
+      "actor",
+      "director",
+      "television producer"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

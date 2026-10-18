@@ -1,117 +1,376 @@
 {
-  "schema": "pogtown.comedian.v1",
-  "comedian_id": "uncle-lazer",
-  "name": "Uncle Lazer",
+ "schema": "pogtown.comedian.v1",
+ "comedian_id": "uncle-lazer",
+ "name": "Uncle Lazer",
+ "tier": "indie",
+ "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
+ "version": 1,
+ "created": "2026-10-17",
+ "annotator": "indie.py",
+ "identity": {
+  "deal": "",
+  "premise": "",
+  "archetype": "indie_draft",
+  "awareness": "unknown",
+  "awareness_note": "",
+  "philosophy": {},
+  "dramatic_core": {},
+  "misinterpretation_rule": "",
+  "contradictions": [],
+  "status_model": {},
+  "expression": {},
+  "modulator_range": [],
+  "profile": {},
+  "operator_priors": {
+   "status_reversal": 0.102,
+   "identity_contradiction": 0.755,
+   "self_awareness": 0.665,
+   "specificity": 0.88,
+   "escalation": 0.27,
+   "garden_path": 0.755,
+   "benign_violation": 0.895
+  },
+  "preferred_theories": [],
+  "threads": [],
+  "problem_space": [],
+  "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
+ },
+ "discovery": {
+  "discovered_from": [
+   "kill-tony-minutes"
+  ],
+  "discovery_note": "",
+  "kt_appearances": 2
+ },
+ "theory_score": null,
+ "nearest_greats": [],
+ "sets": [],
+ "essay_seeds": [],
+ "provenance": {
   "tier": "indie",
-  "note": "Indie-tier graph: discovery + theory-scored from material. Promote to king by filling bio/sets/ratings.",
-  "version": 1,
-  "created": "2026-10-17",
-  "annotator": "indie.py",
-  "identity": {
-    "deal": "",
-    "premise": "",
-    "archetype": "indie_draft",
-    "awareness": "unknown",
-    "awareness_note": "",
-    "philosophy": {},
-    "dramatic_core": {},
-    "misinterpretation_rule": "",
-    "contradictions": [],
-    "status_model": {},
-    "expression": {},
-    "modulator_range": [],
-    "profile": {},
-    "operator_priors": {
-      "status_reversal": 0.102,
-      "identity_contradiction": 0.755,
-      "self_awareness": 0.665,
-      "specificity": 0.88,
-      "escalation": 0.27,
-      "garden_path": 0.755,
-      "benign_violation": 0.895
-    },
-    "preferred_theories": [],
-    "threads": [],
-    "problem_space": [],
-    "operator_priors_status": "measured-kt-jezv: judge-aggregated over 20 mechanism reads (10 ops); judge-measured, not transcript-measured"
+  "rules_held": [
+   "stage persona only",
+   "no verbatim lines"
+  ]
+ },
+ "metrics": {
+  "legacy": null,
+  "legacy_era": null,
+  "audience": null,
+  "popularity": 87.8,
+  "theory": 0.0,
+  "heat": null,
+  "gap_value": null,
+  "overrated": null,
+  "canon_lag": null
+ },
+ "humor_type": {
+  "primary": "unclassified",
+  "scores": {},
+  "method": "none"
+ },
+ "rating": {
+  "headline": 0.0,
+  "coverage": "DISCOVERY",
+  "provisional": "theory-depth",
+  "boards": {
+   "consensus": {
+    "rank": null
+   },
+   "canon": {
+    "rank": null
+   },
+   "peoples": {
+    "rank": null
+   },
+   "era": {
+    "rank": null
+   }
   },
-  "discovery": {
-    "discovered_from": [
-      "kill-tony-minutes"
-    ],
-    "discovery_note": "",
-    "kt_appearances": 2
+  "interval": null,
+  "updated": "2026-10-18T17:13:19Z",
+  "pipeline": "rate/v1"
+ },
+ "youtube_channel": {
+  "id": "UClovHhKRjGE5_vcwhzFocDw",
+  "handle": "unclelazer",
+  "title": "Uncle Lazer",
+  "subs": 86600,
+  "via": "handle-guess",
+  "source": "discover.py --guess-handles (verified, no search)",
+  "status": "variety",
+  "checked": "2026-10-17",
+  "clips": 100,
+  "newest_upload": "2026-10-10",
+  "name_match_rate": 0.38,
+  "other_names": [
+   "Filming Jackass",
+   "Guerilla Gonzo",
+   "Haunted New Orleans",
+   "Heidi Regina",
+   "How Uncle Lazer",
+   "Kim Congdon",
+   "Koe Wetzel",
+   "Lindsay Lee"
+  ]
+ },
+ "youtube_specials": [
+  {
+   "videoId": "BpzPomaUZuM",
+   "title": "NFL\u2019s Best Uniform Match Up? | Lazer's Locks Ep 6 | Presented by Underdog Sports",
+   "duration_s": 2519,
+   "views": 989,
+   "url": "https://www.youtube.com/watch?v=BpzPomaUZuM",
+   "transcript_linked": false
   },
-  "theory_score": null,
-  "nearest_greats": [],
-  "sets": [],
-  "essay_seeds": [],
-  "provenance": {
-    "tier": "indie",
-    "rules_held": [
-      "stage persona only",
-      "no verbatim lines"
-    ]
+  {
+   "videoId": "01IZmrmJHSM",
+   "title": "Week 5 will decide the NFL | Lazer's Locks Ep 5 | Presented by Underdog Sports",
+   "duration_s": 2783,
+   "views": 1279,
+   "url": "https://www.youtube.com/watch?v=01IZmrmJHSM",
+   "transcript_linked": false
   },
-  "metrics": {
-    "legacy": null,
-    "legacy_era": null,
-    "audience": null,
-    "popularity": 65.5,
-    "theory": 0.0,
-    "heat": null,
-    "gap_value": null,
-    "overrated": null,
-    "canon_lag": null
+  {
+   "videoId": "YSZ6L0TjED0",
+   "title": "Haunted in New Orleans | The Drunk Uncles Podcast Ep 135 | Presented by Jerkmate",
+   "duration_s": 3454,
+   "views": 43551,
+   "url": "https://www.youtube.com/watch?v=YSZ6L0TjED0",
+   "transcript_linked": false
   },
-  "humor_type": {
-    "primary": "unclassified",
-    "scores": {},
-    "method": "none"
+  {
+   "videoId": "KZZy6VKdAHw",
+   "title": "Nicolas Cage joins the Podcast | The Drunk Uncles Podcast Ep 134 | Presented by Jerkmate",
+   "duration_s": 2762,
+   "views": 12010,
+   "url": "https://www.youtube.com/watch?v=KZZy6VKdAHw",
+   "transcript_linked": false
   },
-  "rating": {
-    "headline": 0.0,
-    "coverage": "DISCOVERY",
-    "provisional": "theory-depth",
-    "boards": {
-      "consensus": {
-        "rank": null
-      },
-      "canon": {
-        "rank": null
-      },
-      "peoples": {
-        "rank": null
-      },
-      "era": {
-        "rank": null
-      }
-    },
-    "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
-    "pipeline": "rate/v1"
+  {
+   "videoId": "UzU9GvgqN9A",
+   "title": "NFL Week 3 Best Spread Bets | Lazer's Locks Ep 4 | Presented by Underdog Sports",
+   "duration_s": 2692,
+   "views": 1310,
+   "url": "https://www.youtube.com/watch?v=UzU9GvgqN9A",
+   "transcript_linked": false
   },
-  "youtube_channel": {
-    "id": "UClovHhKRjGE5_vcwhzFocDw",
-    "handle": "unclelazer",
-    "title": "Uncle Lazer",
-    "subs": 86600,
-    "via": "handle-guess",
-    "source": "discover.py --guess-handles (verified, no search)",
-    "status": "variety",
-    "checked": "2026-10-17",
-    "clips": 100,
-    "newest_upload": "2026-10-10",
-    "name_match_rate": 0.38,
-    "other_names": [
-      "Filming Jackass",
-      "Guerilla Gonzo",
-      "Haunted New Orleans",
-      "Heidi Regina",
-      "How Uncle Lazer",
-      "Kim Congdon",
-      "Koe Wetzel",
-      "Lindsay Lee"
-    ]
+  {
+   "videoId": "xFl0rcyGWm0",
+   "title": "30 Minutes with Uncle Lazer | Presented by GaS Digital | Full Special",
+   "duration_s": 2125,
+   "views": 176674,
+   "url": "https://www.youtube.com/watch?v=xFl0rcyGWm0",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "EyNApN3XCjI",
+   "title": "Roasting Professional Athletes | The Drunk Uncles Podcast Ep 133 | Presented by Jerkmate",
+   "duration_s": 4110,
+   "views": 6609,
+   "url": "https://www.youtube.com/watch?v=EyNApN3XCjI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "J1FWxDdb2Hk",
+   "title": "Losing $8,000 on Ohio State | Lazer's Locks Ep 3 | Presented by Underdog Sports",
+   "duration_s": 2306,
+   "views": 1595,
+   "url": "https://www.youtube.com/watch?v=J1FWxDdb2Hk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "dfaYH825BHg",
+   "title": "Winning a Kill Tony Golden Ticket | The Drunk Uncles Podcast Ep 132 | Presented by Jerkmate",
+   "duration_s": 3696,
+   "views": 10898,
+   "url": "https://www.youtube.com/watch?v=dfaYH825BHg",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "eHtSVmsWp-A",
+   "title": "NFL Week 1 & Partying with John Daly | Lazer's Locks Ep 2 | Presented by Underdog Sports",
+   "duration_s": 1778,
+   "views": 1407,
+   "url": "https://www.youtube.com/watch?v=eHtSVmsWp-A",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "XB5b2leAiN4",
+   "title": "Winning Millions in Vegas | The Drunk Uncles Podcast Ep 131 | Presented by Jerkmate",
+   "duration_s": 3192,
+   "views": 6238,
+   "url": "https://www.youtube.com/watch?v=XB5b2leAiN4",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "mtdQVpFMr_Q",
+   "title": "Betting Locks for NFL & Futures | Lazer's Locks Ep 1 | Presented by Underdog Sports",
+   "duration_s": 2143,
+   "views": 1243,
+   "url": "https://www.youtube.com/watch?v=mtdQVpFMr_Q",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "9MXjcdAZXis",
+   "title": "Data Centers are Destroying Texas | The Drunk Uncles Podcast Ep 130 | Presented by Jerkmate",
+   "duration_s": 2875,
+   "views": 11005,
+   "url": "https://www.youtube.com/watch?v=9MXjcdAZXis",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "I1Jd8hHa5BI",
+   "title": "Guerilla Gonzo | The Drunk Uncles Podcast Ep 129 | Presented by Jerkmate",
+   "duration_s": 4585,
+   "views": 12894,
+   "url": "https://www.youtube.com/watch?v=I1Jd8hHa5BI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "rug4YGx4JJM",
+   "title": "Modeling to Politics | The Drunk Uncles Podcast Ep 128 | Presented by Jerkmate",
+   "duration_s": 3879,
+   "views": 7548,
+   "url": "https://www.youtube.com/watch?v=rug4YGx4JJM",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "7bOB1WZ4PF8",
+   "title": "Dedrick Flynn First Day Out | The Drunk Uncles Podcast Ep 127 | Presented by Jerkmate",
+   "duration_s": 3578,
+   "views": 11378,
+   "url": "https://www.youtube.com/watch?v=7bOB1WZ4PF8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "V5rUV-pY5Bc",
+   "title": "Tripping for Over a Day! | The Drunk Uncles Podcast Ep 126 | Presented by Jerkmate",
+   "duration_s": 3764,
+   "views": 2157,
+   "url": "https://www.youtube.com/watch?v=V5rUV-pY5Bc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "9rnFbEAhNVc",
+   "title": "Hunting with CMA Stars w/ Fowl Life TV | The Drunk Uncles Podcast Ep 125 | Presented by Jerkmate",
+   "duration_s": 4786,
+   "views": 2371,
+   "url": "https://www.youtube.com/watch?v=9rnFbEAhNVc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "R8r9qTqptvU",
+   "title": "Go Fly a Kite w/ Tim Butterly | The Drunk Uncles Podcast Ep 124 | Presented by Jerkmate",
+   "duration_s": 6384,
+   "views": 5704,
+   "url": "https://www.youtube.com/watch?v=R8r9qTqptvU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "TNMKP3-61Uk",
+   "title": "Fake Ghost Hunters w/ Lindsey Cennamo | The Drunk Uncles Podcast Ep 123 | Presented by Jerkmate",
+   "duration_s": 3595,
+   "views": 8457,
+   "url": "https://www.youtube.com/watch?v=TNMKP3-61Uk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "c1lQf5FfmTI",
+   "title": "Chaos of a Comedy Festival Joke Wrld | The Drunk Uncles Podcast Ep 122 | Presented by Jerkmate",
+   "duration_s": 3742,
+   "views": 3080,
+   "url": "https://www.youtube.com/watch?v=c1lQf5FfmTI",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "LyQerBOdd6U",
+   "title": "Filming Jackass w/ Rachel Wolfson | The Drunk Uncles Podcast Ep 121 | Presented by Jerkmate",
+   "duration_s": 2536,
+   "views": 11054,
+   "url": "https://www.youtube.com/watch?v=LyQerBOdd6U",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "-h1tkRFfSDk",
+   "title": "Bryan Callen | The Drunk Uncle Podcast Ep. 120 | Presented by Jerkmate",
+   "duration_s": 4623,
+   "views": 6343,
+   "url": "https://www.youtube.com/watch?v=-h1tkRFfSDk",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "OEsmPcmcySU",
+   "title": "Cameron Leedy | The Drunk Uncle Podcast Ep. 119 | Presented by Jerkmate",
+   "duration_s": 3215,
+   "views": 1416,
+   "url": "https://www.youtube.com/watch?v=OEsmPcmcySU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "eKri8CTosYQ",
+   "title": "Ross Patterson | The Drunk Uncle Podcast Ep. 118 | Presented by Jerkmate",
+   "duration_s": 3900,
+   "views": 4693,
+   "url": "https://www.youtube.com/watch?v=eKri8CTosYQ",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "lYzinTxvqh8",
+   "title": "Kim Congdon | The Drunk Uncle Podcast Ep. 117 | Presented by Jerkmate",
+   "duration_s": 3762,
+   "views": 12993,
+   "url": "https://www.youtube.com/watch?v=lYzinTxvqh8",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "jy1C4YLDOxE",
+   "title": "Gerard Michaels | The Drunk Uncle Podcast Ep. 116 | Presented by Jerkmate",
+   "duration_s": 4278,
+   "views": 2804,
+   "url": "https://www.youtube.com/watch?v=jy1C4YLDOxE",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "3denQUmSbzs",
+   "title": "Collin Sledge | The Drunk Uncle Podcast Ep. 115 | Presented by Jerkmate",
+   "duration_s": 3238,
+   "views": 3592,
+   "url": "https://www.youtube.com/watch?v=3denQUmSbzs",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "uqkdxDCMhqc",
+   "title": "Lindsay Lee | The Drunk Uncle Podcast Ep. 114 | Presented by Jerkmate",
+   "duration_s": 3442,
+   "views": 28913,
+   "url": "https://www.youtube.com/watch?v=uqkdxDCMhqc",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "sueNnDEu_Dw",
+   "title": "Rocker Stiener | The Drunk Uncle Podcast Ep. 113 | Presented by Jerkmate",
+   "duration_s": 3672,
+   "views": 9818,
+   "url": "https://www.youtube.com/watch?v=sueNnDEu_Dw",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "a7rr13vxAhU",
+   "title": "The Fold | The Drunk Uncle Podcast Ep. 112 | Presented by Jerkmate",
+   "duration_s": 3852,
+   "views": 12083,
+   "url": "https://www.youtube.com/watch?v=a7rr13vxAhU",
+   "transcript_linked": false
+  },
+  {
+   "videoId": "O7SdIC7mgjA",
+   "title": "Heidi Regina | The Drunk Uncle Podcast Ep. 111 | Presented by Jerkmate",
+   "duration_s": 3749,
+   "views": 63492,
+   "url": "https://www.youtube.com/watch?v=O7SdIC7mgjA",
+   "transcript_linked": false
   }
+ ],
+ "youtube_specials_count": 32
 }

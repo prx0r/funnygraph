@@ -1,0 +1,38 @@
+{
+ "comedian_id": "both-ends",
+ "name": "Both ends?",
+ "clips": 1,
+ "total_views": 15000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "7d5jdDfcIIA",
+  "title": "Both ends? - Matt Green at The 99 Club #standupcomedy  #comedy #funny #crowdwork #norway",
+  "channel": "@MattGreenComedy",
+  "views": 15000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=7d5jdDfcIIA",
+  "r2_clip_key": "comedians/both-ends/clips/both-ends-7d5jddfciia.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/both-ends/clips/both-ends-7d5jddfciia.json"
+ },
+ "rows": [
+  {
+   "videoId": "7d5jdDfcIIA",
+   "title": "Both ends? - Matt Green at The 99 Club #standupcomedy  #comedy #funny #crowdwork #norway",
+   "channel": "@MattGreenComedy",
+   "views": 15000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=7d5jdDfcIIA",
+   "n_words": 52,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And where are you from in the back? Norway. Norway, lovely. Yeah, which part of Norway? Um both ends. Both ends? >> [laughter] >> Did you answer a different question to the one I asked? >> [laughter] ",
+   "r2_clip_key": "comedians/both-ends/clips/both-ends-7d5jddfciia.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/both-ends/clips/both-ends-7d5jddfciia.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

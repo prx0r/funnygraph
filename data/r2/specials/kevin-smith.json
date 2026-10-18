@@ -1,0 +1,19 @@
+{
+ "comedian_slug": "kevin-smith",
+ "specials": [
+  {
+   "special_slug": "silent-but-deadly-2018",
+   "title": "KEVIN SMITH: SILENT BUT DEADLY (2018) \u2013 Full Transcript",
+   "comedian": "Kevin Smith",
+   "url": "https://scrapsfromtheloft.com/comedy/kevin-smith-silent-but-deadly-transcript/",
+   "source": "scrapsfromtheloft-csv",
+   "n_words": 11968,
+   "words_timed": false,
+   "transcript_method": "published-transcript",
+   "transcript_preview": "Hey, man, I\u2019m Kevin Smith. And moments after we shot the show you\u2019re about to watch, I came into this room downstairs at the theater in Glendale, and had a massive heart attack. They talk about, like, \u201cI killed onstage. I died onstage.\u201d I thought I killed that night, and I came backstage and almost ",
+   "r2_special_key": "comedians/kevin-smith/specials/silent-but-deadly-2018.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/kevin-smith/specials/silent-but-deadly-2018.json"
+  }
+ ],
+ "count": 1
+}

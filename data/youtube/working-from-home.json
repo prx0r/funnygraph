@@ -1,0 +1,38 @@
+{
+ "comedian_id": "working-from-home",
+ "name": "Working From Home",
+ "clips": 1,
+ "total_views": 3800,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "txA4WXBQYMQ",
+  "title": "Working From Home - Geoff Norcott - Live at The Bearcat  #comedy #standup #funny #bearcatcomedy",
+  "channel": "@BearcatComedyClub",
+  "views": 3800,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=txA4WXBQYMQ",
+  "r2_clip_key": "comedians/working-from-home/clips/working-from-home-txa4wxbqymq.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/working-from-home/clips/working-from-home-txa4wxbqymq.json"
+ },
+ "rows": [
+  {
+   "videoId": "txA4WXBQYMQ",
+   "title": "Working From Home - Geoff Norcott - Live at The Bearcat  #comedy #standup #funny #bearcatcomedy",
+   "channel": "@BearcatComedyClub",
+   "views": 3800,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=txA4WXBQYMQ",
+   "n_words": 184,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "And I know there's going to be a lot of working from homers in, okay? You're already on day four of your weekend. Um >> [laughter] >> They're so defensive, by the way. They're so cuz they it made thei",
+   "r2_clip_key": "comedians/working-from-home/clips/working-from-home-txa4wxbqymq.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/working-from-home/clips/working-from-home-txa4wxbqymq.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

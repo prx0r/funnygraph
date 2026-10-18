@@ -331,7 +331,7 @@
     "legacy": 95.9,
     "legacy_era": 94.7,
     "audience": null,
-    "popularity": 86.2,
+    "popularity": 96.2,
     "theory": 50.0,
     "heat": null,
     "gap_value": null,
@@ -352,7 +352,7 @@
     "n_modes": 3
   },
   "rating": {
-    "headline": 61.1,
+    "headline": 60.4,
     "coverage": "UNRANKED",
     "provisional": "neighbor-latent",
     "boards": {
@@ -378,7 +378,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "website": {

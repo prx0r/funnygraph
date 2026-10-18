@@ -84,7 +84,7 @@
       }
     },
     "interval": null,
-    "updated": "2026-10-17T19:15:40Z",
+    "updated": "2026-10-18T17:13:19Z",
     "pipeline": "rate/v1"
   },
   "socials": {
@@ -118,5 +118,19 @@
   "humor_type": {
     "primary": null,
     "method": "unclassified (OTM directory entry, no material)"
+  },
+  "bio": {
+    "wikidata_id": "Q95034",
+    "dob": "1882-02-15",
+    "dod": "1942-05-29",
+    "birthplace": "Philadelphia",
+    "citizenship": "United States",
+    "occupations": [
+      "stage actor",
+      "film actor",
+      "actor",
+      "screenwriter"
+    ],
+    "source": "wikidata (CC0)"
   }
 }

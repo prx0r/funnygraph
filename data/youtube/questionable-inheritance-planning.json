@@ -1,0 +1,38 @@
+{
+ "comedian_id": "questionable-inheritance-planning",
+ "name": "Questionable Inheritance Planning",
+ "clips": 1,
+ "total_views": 10000,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "1E8mVKOpu1k",
+  "title": "Questionable Inheritance Planning - Scott Bennett - Live at The Bearcat  #standupcomedy #comedy",
+  "channel": "@BearcatComedyClub",
+  "views": 10000,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=1E8mVKOpu1k",
+  "r2_clip_key": "comedians/questionable-inheritance-planning/clips/questionable-inheritance-planning-1e8mvkopu1k.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/questionable-inheritance-planning/clips/questionable-inheritance-planning-1e8mvkopu1k.json"
+ },
+ "rows": [
+  {
+   "videoId": "1E8mVKOpu1k",
+   "title": "Questionable Inheritance Planning - Scott Bennett - Live at The Bearcat  #standupcomedy #comedy",
+   "channel": "@BearcatComedyClub",
+   "views": 10000,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=1E8mVKOpu1k",
+   "n_words": 144,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I still worry about my parents now. They're in their 70s. They just talk about death. It's a cracking day round there now. >> [laughter] >> My mom will open the door and just go, \"Not long now.\" \"CAN ",
+   "r2_clip_key": "comedians/questionable-inheritance-planning/clips/questionable-inheritance-planning-1e8mvkopu1k.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/questionable-inheritance-planning/clips/questionable-inheritance-planning-1e8mvkopu1k.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}

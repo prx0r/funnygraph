@@ -1,0 +1,38 @@
+{
+ "comedian_id": "josie-long",
+ "name": "Josie Long",
+ "clips": 1,
+ "total_views": 4200,
+ "r2_linked": true,
+ "r2_metadata_synced": "2026-10-18T16:01:46Z",
+ "source": "r2:comedy-specials",
+ "top_clip": {
+  "videoId": "mUplG3boXGU",
+  "title": "Josie Long | The Stand Comedy Club Podcast",
+  "channel": "@TheStandComedyClub",
+  "views": 4200,
+  "duration_s": null,
+  "url": "https://www.youtube.com/watch?v=mUplG3boXGU",
+  "r2_clip_key": "comedians/josie-long/clips/josie-long-muplg3boxgu.json",
+  "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/josie-long/clips/josie-long-muplg3boxgu.json"
+ },
+ "rows": [
+  {
+   "videoId": "mUplG3boXGU",
+   "title": "Josie Long | The Stand Comedy Club Podcast",
+   "channel": "@TheStandComedyClub",
+   "views": 4200,
+   "likes": null,
+   "duration_s": null,
+   "url": "https://www.youtube.com/watch?v=mUplG3boXGU",
+   "n_words": 196,
+   "words_timed": true,
+   "transcript_method": "youtube-auto-captions",
+   "transcript_available": true,
+   "transcript_preview": "I was thinking about this with my friend because we were playing a game where we were like, \"If you had unlimited money, what would you do?\" And then we started being like, \"Well, I'd have to give it ",
+   "r2_clip_key": "comedians/josie-long/clips/josie-long-muplg3boxgu.json",
+   "transcript_url": "https://954612afb5a97bb15dddcdc70176813d.r2.cloudflarestorage.com/comedy-specials/comedians/josie-long/clips/josie-long-muplg3boxgu.json",
+   "source_group": "web-discovered"
+  }
+ ]
+}
