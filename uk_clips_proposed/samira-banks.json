@@ -1,0 +1,44 @@
+{
+ "comedian_id": "samira-banks",
+ "name": "SAMIRA BANKS",
+ "clips": 1,
+ "total_views": 90,
+ "total_likes": 0,
+ "avg_views": 90,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "oqmBq3AQi0c",
+  "title": "SAMIRA BANKS - MIXED RACE CONDOM",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 90,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 46.6,
+  "r2_clip": "comedians/samira-banks/clips/samira-banks-oqmbq3aqi0c.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "oqmBq3AQi0c",
+   "title": "SAMIRA BANKS - MIXED RACE CONDOM",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 90,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 46.6,
+   "r2_clip": "comedians/samira-banks/clips/samira-banks-oqmbq3aqi0c.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

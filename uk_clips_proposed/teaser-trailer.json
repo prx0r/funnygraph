@@ -1,0 +1,44 @@
+{
+ "comedian_id": "teaser-trailer",
+ "name": "Teaser Trailer",
+ "clips": 1,
+ "total_views": 5244276,
+ "total_likes": 0,
+ "avg_views": 5244276,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "TE5v3U79i6s",
+  "title": "IS THIS THING ON? | Teaser Trailer | Searchlight Pictures",
+  "channel": "SearchlightPictures",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 5244276,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 127.2,
+  "r2_clip": "comedians/teaser-trailer/clips/teaser-trailer-te5v3u79i6s.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "TE5v3U79i6s",
+   "title": "IS THIS THING ON? | Teaser Trailer | Searchlight Pictures",
+   "channel": "SearchlightPictures",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5244276,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 127.2,
+   "r2_clip": "comedians/teaser-trailer/clips/teaser-trailer-te5v3u79i6s.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

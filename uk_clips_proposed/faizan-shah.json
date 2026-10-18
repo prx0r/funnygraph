@@ -1,0 +1,44 @@
+{
+ "comedian_id": "faizan-shah",
+ "name": "FAIZAN SHAH",
+ "clips": 1,
+ "total_views": 2200,
+ "total_likes": 0,
+ "avg_views": 2200,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Ovsxza_LX1s",
+  "title": "FAIZAN SHAH - GREGGS SHARES",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2200,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 40.6,
+  "r2_clip": "comedians/faizan-shah/clips/faizan-shah-ovsxza-lx1s.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Ovsxza_LX1s",
+   "title": "FAIZAN SHAH - GREGGS SHARES",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2200,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 40.6,
+   "r2_clip": "comedians/faizan-shah/clips/faizan-shah-ovsxza-lx1s.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

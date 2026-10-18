@@ -1,0 +1,44 @@
+{
+ "comedian_id": "michael-mcintyre-showman",
+ "name": "Michael McIntyre: SHOWMAN",
+ "clips": 1,
+ "total_views": 132891,
+ "total_likes": 0,
+ "avg_views": 132891,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "5JrUlE8U3eg",
+  "title": "Touring in New Zealand | Michael McIntyre: SHOWMAN | Netflix",
+  "channel": "Comedy Centre",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 132891,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 167.7,
+  "r2_clip": "comedians/michael-mcintyre-showman/clips/michael-mcintyre-showman-5jrule8u3eg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "5JrUlE8U3eg",
+   "title": "Touring in New Zealand | Michael McIntyre: SHOWMAN | Netflix",
+   "channel": "Comedy Centre",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 132891,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 167.7,
+   "r2_clip": "comedians/michael-mcintyre-showman/clips/michael-mcintyre-showman-5jrule8u3eg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

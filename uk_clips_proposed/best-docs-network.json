@@ -1,0 +1,44 @@
+{
+ "comedian_id": "best-docs-network",
+ "name": "Best Docs Network",
+ "clips": 1,
+ "total_views": 298,
+ "total_likes": 0,
+ "avg_views": 298,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "jE4gVTRMwPk",
+  "title": "Meet The Doctor: Urologist Dr. Christopher Cantrill",
+  "channel": "Best Docs Network",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 298,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 63.3,
+  "r2_clip": "comedians/best-docs-network/clips/best-docs-network-je4gvtrmwpk.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "jE4gVTRMwPk",
+   "title": "Meet The Doctor: Urologist Dr. Christopher Cantrill",
+   "channel": "Best Docs Network",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 298,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 63.3,
+   "r2_clip": "comedians/best-docs-network/clips/best-docs-network-je4gvtrmwpk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

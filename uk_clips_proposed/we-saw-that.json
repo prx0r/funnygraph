@@ -1,0 +1,60 @@
+{
+ "comedian_id": "we-saw-that",
+ "name": "We Saw That",
+ "clips": 2,
+ "total_views": 107000,
+ "total_likes": 0,
+ "avg_views": 53500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "-0P2gr1LNmA",
+  "title": "Pronounce That | We Saw That LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 75000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 51.1,
+  "r2_clip": "comedians/we-saw-that/clips/we-saw-that--0p2gr1lnma.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "HFDUC0IFGR0",
+   "title": "Google Is Racist | We Saw That LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 32000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 55.6,
+   "r2_clip": "comedians/we-saw-that/clips/we-saw-that-hfduc0ifgr0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "-0P2gr1LNmA",
+   "title": "Pronounce That | We Saw That LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 75000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 51.1,
+   "r2_clip": "comedians/we-saw-that/clips/we-saw-that--0p2gr1lnma.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

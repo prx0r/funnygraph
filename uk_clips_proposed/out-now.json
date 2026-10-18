@@ -1,0 +1,44 @@
+{
+ "comedian_id": "out-now",
+ "name": "Out Now!",
+ "clips": 1,
+ "total_views": 26340,
+ "total_likes": 0,
+ "avg_views": 26340,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "AQqbh1GqDXw",
+  "title": "Sarah Millican: Late Bloomer - New Stand-Up Special | Out Now!",
+  "channel": "Sarah Millican",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 26340,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 60.5,
+  "r2_clip": "comedians/out-now/clips/out-now-aqqbh1gqdxw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "AQqbh1GqDXw",
+   "title": "Sarah Millican: Late Bloomer - New Stand-Up Special | Out Now!",
+   "channel": "Sarah Millican",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 26340,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 60.5,
+   "r2_clip": "comedians/out-now/clips/out-now-aqqbh1gqdxw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

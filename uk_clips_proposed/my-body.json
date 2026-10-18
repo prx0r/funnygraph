@@ -1,0 +1,44 @@
+{
+ "comedian_id": "my-body",
+ "name": "My Body",
+ "clips": 1,
+ "total_views": 62296,
+ "total_likes": 0,
+ "avg_views": 62296,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "83CZQ38xSXU",
+  "title": "My Body - Greg Davies DVD clip",
+  "channel": "Avalon Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 62296,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 176.7,
+  "r2_clip": "comedians/my-body/clips/my-body-83czq38xsxu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "83CZQ38xSXU",
+   "title": "My Body - Greg Davies DVD clip",
+   "channel": "Avalon Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 62296,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 176.7,
+   "r2_clip": "comedians/my-body/clips/my-body-83czq38xsxu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

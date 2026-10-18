@@ -1,0 +1,44 @@
+{
+ "comedian_id": "sexy-ninja-turtles",
+ "name": "Sexy Ninja Turtles",
+ "clips": 1,
+ "total_views": 8400,
+ "total_likes": 0,
+ "avg_views": 8400,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "EWtQKv8tdw4",
+  "title": "Aoife Dunne | Sexy Ninja Turtles  #standupcomedy #comedy #ireland",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 8400,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 57.2,
+  "r2_clip": "comedians/sexy-ninja-turtles/clips/sexy-ninja-turtles-ewtqkv8tdw4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "EWtQKv8tdw4",
+   "title": "Aoife Dunne | Sexy Ninja Turtles  #standupcomedy #comedy #ireland",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 8400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 57.2,
+   "r2_clip": "comedians/sexy-ninja-turtles/clips/sexy-ninja-turtles-ewtqkv8tdw4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

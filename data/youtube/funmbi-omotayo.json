@@ -1,0 +1,45 @@
+{
+ "comedian_id": "funmbi-omotayo",
+ "name": "Funmbi Omotayo",
+ "channels": {},
+ "clips": 1,
+ "total_views": 34000,
+ "total_likes": 0,
+ "avg_views": 34000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "JEhZe3t2cac",
+  "title": "Police ruin a moment | Funmbi Omotayo | Live at The Bearcat #comedy #standup #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 34000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 51.0,
+  "r2_clip": "comedians/funmbi-omotayo/clips/funmbi-omotayo-jehze3t2cac.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "JEhZe3t2cac",
+   "title": "Police ruin a moment | Funmbi Omotayo | Live at The Bearcat #comedy #standup #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 34000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 51.0,
+   "r2_clip": "comedians/funmbi-omotayo/clips/funmbi-omotayo-jehze3t2cac.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

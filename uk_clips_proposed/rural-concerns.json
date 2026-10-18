@@ -1,0 +1,44 @@
+{
+ "comedian_id": "rural-concerns",
+ "name": "Rural Concerns",
+ "clips": 1,
+ "total_views": 80,
+ "total_likes": 0,
+ "avg_views": 80,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "r4vC82Grbsk",
+  "title": "Trailer | Rural Concerns",
+  "channel": "Chris Cantrill",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 80,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 111.4,
+  "r2_clip": "comedians/rural-concerns/clips/rural-concerns-r4vc82grbsk.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "r4vC82Grbsk",
+   "title": "Trailer | Rural Concerns",
+   "channel": "Chris Cantrill",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 80,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 111.4,
+   "r2_clip": "comedians/rural-concerns/clips/rural-concerns-r4vc82grbsk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

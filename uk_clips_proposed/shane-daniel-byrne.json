@@ -1,0 +1,44 @@
+{
+ "comedian_id": "shane-daniel-byrne",
+ "name": "Shane Daniel Byrne",
+ "clips": 1,
+ "total_views": 4900,
+ "total_likes": 0,
+ "avg_views": 4900,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "aC7k4MmiW_A",
+  "title": "Homophobic Aussies | Shane Daniel Byrne | #standupcomedy #crowdwork #comedy",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 4900,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 101.6,
+  "r2_clip": "comedians/shane-daniel-byrne/clips/shane-daniel-byrne-ac7k4mmiw-a.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "aC7k4MmiW_A",
+   "title": "Homophobic Aussies | Shane Daniel Byrne | #standupcomedy #crowdwork #comedy",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4900,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 101.6,
+   "r2_clip": "comedians/shane-daniel-byrne/clips/shane-daniel-byrne-ac7k4mmiw-a.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

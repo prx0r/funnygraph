@@ -1,0 +1,44 @@
+{
+ "comedian_id": "ciara-barnes",
+ "name": "Ciara Barnes",
+ "clips": 1,
+ "total_views": 49,
+ "total_likes": 0,
+ "avg_views": 49,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "RNWNTp1MhTo",
+  "title": "Top Surgery Science | Ciara Barnes @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 49,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 56.4,
+  "r2_clip": "comedians/ciara-barnes/clips/ciara-barnes-rnwntp1mhto.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "RNWNTp1MhTo",
+   "title": "Top Surgery Science | Ciara Barnes @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 49,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 56.4,
+   "r2_clip": "comedians/ciara-barnes/clips/ciara-barnes-rnwntp1mhto.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "questionable-inheritance-planning",
+ "name": "Questionable Inheritance Planning",
+ "clips": 1,
+ "total_views": 10000,
+ "total_likes": 0,
+ "avg_views": 10000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "1E8mVKOpu1k",
+  "title": "Questionable Inheritance Planning - Scott Bennett - Live at The Bearcat  #standupcomedy #comedy",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 10000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 50.2,
+  "r2_clip": "comedians/questionable-inheritance-planning/clips/questionable-inheritance-planning-1e8mvkopu1k.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "1E8mVKOpu1k",
+   "title": "Questionable Inheritance Planning - Scott Bennett - Live at The Bearcat  #standupcomedy #comedy",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 50.2,
+   "r2_clip": "comedians/questionable-inheritance-planning/clips/questionable-inheritance-planning-1e8mvkopu1k.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

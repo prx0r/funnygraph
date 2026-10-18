@@ -1,0 +1,44 @@
+{
+ "comedian_id": "ikea-didn-t-like-this",
+ "name": "IKEA didn't like this",
+ "clips": 1,
+ "total_views": 16000,
+ "total_likes": 0,
+ "avg_views": 16000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "8oULROI-vF4",
+  "title": "IKEA didn't like this - Don Biswas - Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 16000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 25.6,
+  "r2_clip": "comedians/ikea-didn-t-like-this/clips/ikea-didn-t-like-this-8oulroi-vf4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "8oULROI-vF4",
+   "title": "IKEA didn't like this - Don Biswas - Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 16000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 25.6,
+   "r2_clip": "comedians/ikea-didn-t-like-this/clips/ikea-didn-t-like-this-8oulroi-vf4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

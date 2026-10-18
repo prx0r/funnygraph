@@ -1,0 +1,45 @@
+{
+ "comedian_id": "bennett-arron",
+ "name": "Bennett Arron",
+ "channels": {},
+ "clips": 1,
+ "total_views": 7100,
+ "total_likes": 0,
+ "avg_views": 7100,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Kzllp9bWVbo",
+  "title": "Slow audience member | Bennett Arron | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 7100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 32.1,
+  "r2_clip": "comedians/bennett-arron/clips/bennett-arron-kzllp9bwvbo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Kzllp9bWVbo",
+   "title": "Slow audience member | Bennett Arron | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 7100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 32.1,
+   "r2_clip": "comedians/bennett-arron/clips/bennett-arron-kzllp9bwvbo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

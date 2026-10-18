@@ -1,0 +1,61 @@
+{
+ "comedian_id": "andrew-bird",
+ "name": "Andrew Bird",
+ "channels": {},
+ "clips": 2,
+ "total_views": 100000,
+ "total_likes": 0,
+ "avg_views": 50000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "LzW_inhS1GI",
+  "title": "Dubai Ex-Pats Return Home | Andrew Bird | Live at The Bearcat  #standupcomedy #comedy #jokes  #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 84000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 37.0,
+  "r2_clip": "comedians/andrew-bird/clips/andrew-bird-lzw_inhs1gi.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "FrTd1IWxaWc",
+   "title": "Arresting Prince Andrew | Andrew Bird | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 16000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 23.4,
+   "r2_clip": "comedians/andrew-bird/clips/andrew-bird-frtd1iwxawc.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "LzW_inhS1GI",
+   "title": "Dubai Ex-Pats Return Home | Andrew Bird | Live at The Bearcat  #standupcomedy #comedy #jokes  #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 84000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 37.0,
+   "r2_clip": "comedians/andrew-bird/clips/andrew-bird-lzw_inhs1gi.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

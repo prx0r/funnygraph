@@ -1,0 +1,45 @@
+{
+ "comedian_id": "maria-shehata",
+ "name": "Maria Shehata",
+ "channels": {},
+ "clips": 1,
+ "total_views": 95,
+ "total_likes": 0,
+ "avg_views": 95,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "f5FPVMnhCjA",
+  "title": "Meeting New People | Maria Shehata @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 95,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 49.4,
+  "r2_clip": "comedians/maria-shehata/clips/maria-shehata-f5fpvmnhcja.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "f5FPVMnhCjA",
+   "title": "Meeting New People | Maria Shehata @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 95,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 49.4,
+   "r2_clip": "comedians/maria-shehata/clips/maria-shehata-f5fpvmnhcja.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

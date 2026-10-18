@@ -1,0 +1,44 @@
+{
+ "comedian_id": "flotation-tank-theory",
+ "name": "FLOTATION TANK THEORY",
+ "clips": 1,
+ "total_views": 15000,
+ "total_likes": 0,
+ "avg_views": 15000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "HJGGBo0krGo",
+  "title": "FLOTATION TANK THEORY | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 15000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 97.9,
+  "r2_clip": "comedians/flotation-tank-theory/clips/flotation-tank-theory-hjggbo0krgo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "HJGGBo0krGo",
+   "title": "FLOTATION TANK THEORY | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 15000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 97.9,
+   "r2_clip": "comedians/flotation-tank-theory/clips/flotation-tank-theory-hjggbo0krgo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

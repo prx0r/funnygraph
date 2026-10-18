@@ -1,0 +1,44 @@
+{
+ "comedian_id": "katie-norris",
+ "name": "Katie Norris",
+ "clips": 1,
+ "total_views": 243,
+ "total_likes": 0,
+ "avg_views": 243,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "NDjcicJBQ_4",
+  "title": "James William Acaster!",
+  "channel": "Katie Norris - Topic",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 243,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 171.4,
+  "r2_clip": "comedians/katie-norris/clips/katie-norris-ndjcicjbq_4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "NDjcicJBQ_4",
+   "title": "James William Acaster!",
+   "channel": "Katie Norris - Topic",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 243,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 171.4,
+   "r2_clip": "comedians/katie-norris/clips/katie-norris-ndjcicjbq_4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

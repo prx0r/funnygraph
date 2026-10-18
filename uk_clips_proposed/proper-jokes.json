@@ -1,0 +1,44 @@
+{
+ "comedian_id": "proper-jokes",
+ "name": "Proper Jokes",
+ "clips": 1,
+ "total_views": 967461,
+ "total_likes": 0,
+ "avg_views": 967461,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Vw5I59zDpHQ",
+  "title": "Proper Jokes | Peter Kay: Live At The Bolton Albert Halls",
+  "channel": "Peter Kay",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 967461,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 147.2,
+  "r2_clip": "comedians/proper-jokes/clips/proper-jokes-vw5i59zdphq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Vw5I59zDpHQ",
+   "title": "Proper Jokes | Peter Kay: Live At The Bolton Albert Halls",
+   "channel": "Peter Kay",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 967461,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 147.2,
+   "r2_clip": "comedians/proper-jokes/clips/proper-jokes-vw5i59zdphq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

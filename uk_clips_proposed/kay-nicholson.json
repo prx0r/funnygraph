@@ -1,0 +1,44 @@
+{
+ "comedian_id": "kay-nicholson",
+ "name": "Kay Nicholson",
+ "clips": 1,
+ "total_views": 74000,
+ "total_likes": 0,
+ "avg_views": 74000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "N1Tj5QHt4AQ",
+  "title": "Dolly Parton | Kay Nicholson LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 74000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 79.4,
+  "r2_clip": "comedians/kay-nicholson/clips/kay-nicholson-n1tj5qht4aq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "N1Tj5QHt4AQ",
+   "title": "Dolly Parton | Kay Nicholson LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 74000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 79.4,
+   "r2_clip": "comedians/kay-nicholson/clips/kay-nicholson-n1tj5qht4aq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

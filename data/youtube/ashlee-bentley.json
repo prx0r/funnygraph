@@ -1,0 +1,45 @@
+{
+ "comedian_id": "ashlee-bentley",
+ "name": "Ashlee Bentley",
+ "channels": {},
+ "clips": 1,
+ "total_views": 28000,
+ "total_likes": 0,
+ "avg_views": 28000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "wFqUArKhT5M",
+  "title": "Coming Out Story | Ashlee Bentley | Craic Den Comedy Club #bi #comedy #irish #funny",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 28000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 58.7,
+  "r2_clip": "comedians/ashlee-bentley/clips/ashlee-bentley-wfquarkht5m.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "wFqUArKhT5M",
+   "title": "Coming Out Story | Ashlee Bentley | Craic Den Comedy Club #bi #comedy #irish #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 28000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 58.7,
+   "r2_clip": "comedians/ashlee-bentley/clips/ashlee-bentley-wfquarkht5m.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

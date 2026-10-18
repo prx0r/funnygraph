@@ -1,0 +1,44 @@
+{
+ "comedian_id": "louis-theroux-s-new-doc",
+ "name": "LOUIS THEROUX'S NEW DOC?",
+ "clips": 1,
+ "total_views": 6700,
+ "total_likes": 0,
+ "avg_views": 6700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "gxENyHmLV9I",
+  "title": "LOUIS THEROUX'S NEW DOC? | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 76.2,
+  "r2_clip": "comedians/louis-theroux-s-new-doc/clips/louis-theroux-s-new-doc-gxenyhmlv9i.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "gxENyHmLV9I",
+   "title": "LOUIS THEROUX'S NEW DOC? | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 76.2,
+   "r2_clip": "comedians/louis-theroux-s-new-doc/clips/louis-theroux-s-new-doc-gxenyhmlv9i.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

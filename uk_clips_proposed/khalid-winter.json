@@ -1,0 +1,44 @@
+{
+ "comedian_id": "khalid-winter",
+ "name": "Khalid Winter",
+ "clips": 1,
+ "total_views": 169,
+ "total_likes": 0,
+ "avg_views": 169,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "N3RYkKAWnw4",
+  "title": "Smart Dumb Friends | Khalid Winter @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 169,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 54.4,
+  "r2_clip": "comedians/khalid-winter/clips/khalid-winter-n3rykkawnw4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "N3RYkKAWnw4",
+   "title": "Smart Dumb Friends | Khalid Winter @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 169,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 54.4,
+   "r2_clip": "comedians/khalid-winter/clips/khalid-winter-n3rykkawnw4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

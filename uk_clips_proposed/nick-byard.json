@@ -1,0 +1,44 @@
+{
+ "comedian_id": "nick-byard",
+ "name": "Nick Byard",
+ "clips": 1,
+ "total_views": 146,
+ "total_likes": 0,
+ "avg_views": 146,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Y3vhysvyVh8",
+  "title": "Going back to Church | Nick Byard @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 146,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 34.6,
+  "r2_clip": "comedians/nick-byard/clips/nick-byard-y3vhysvyvh8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Y3vhysvyVh8",
+   "title": "Going back to Church | Nick Byard @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 146,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 34.6,
+   "r2_clip": "comedians/nick-byard/clips/nick-byard-y3vhysvyvh8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

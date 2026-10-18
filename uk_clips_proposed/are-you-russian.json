@@ -1,0 +1,44 @@
+{
+ "comedian_id": "are-you-russian",
+ "name": "“Are You Russian?”",
+ "clips": 1,
+ "total_views": 4400,
+ "total_likes": 0,
+ "avg_views": 4400,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "O1H1fK4kRrg",
+  "title": "Gar Murran | “Are You Russian?” #comedy #crowdwork #standupcomedy #irishcomedy",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 4400,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 55.7,
+  "r2_clip": "comedians/are-you-russian/clips/are-you-russian-o1h1fk4krrg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "O1H1fK4kRrg",
+   "title": "Gar Murran | “Are You Russian?” #comedy #crowdwork #standupcomedy #irishcomedy",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 55.7,
+   "r2_clip": "comedians/are-you-russian/clips/are-you-russian-o1h1fk4krrg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

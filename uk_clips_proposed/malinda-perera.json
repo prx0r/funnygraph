@@ -1,0 +1,44 @@
+{
+ "comedian_id": "malinda-perera",
+ "name": "Malinda Perera",
+ "clips": 1,
+ "total_views": 20000,
+ "total_likes": 0,
+ "avg_views": 20000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "6VBwuTCYzMo",
+  "title": "Irish Way Of Body Shaming | Malinda Perera | Craic Den Comedy Club | #standupcomedy #irish",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 20000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 18.4,
+  "r2_clip": "comedians/malinda-perera/clips/malinda-perera-6vbwutcyzmo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "6VBwuTCYzMo",
+   "title": "Irish Way Of Body Shaming | Malinda Perera | Craic Den Comedy Club | #standupcomedy #irish",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 20000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 18.4,
+   "r2_clip": "comedians/malinda-perera/clips/malinda-perera-6vbwutcyzmo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "amused-moose",
+ "name": "Amused Moose",
+ "clips": 1,
+ "total_views": 6673,
+ "total_likes": 0,
+ "avg_views": 6673,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "bKtZ_LnAuSA",
+  "title": "Amused Moose Archive 2007 - Jack Whitehall. (Click Subscribe for updates)",
+  "channel": "Amused Moose",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6673,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 135.2,
+  "r2_clip": "comedians/amused-moose/clips/amused-moose-bktz_lnausa.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "bKtZ_LnAuSA",
+   "title": "Amused Moose Archive 2007 - Jack Whitehall. (Click Subscribe for updates)",
+   "channel": "Amused Moose",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6673,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 135.2,
+   "r2_clip": "comedians/amused-moose/clips/amused-moose-bktz_lnausa.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

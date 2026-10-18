@@ -1,0 +1,44 @@
+{
+ "comedian_id": "cormac-sinnot",
+ "name": "Cormac Sinnot",
+ "clips": 1,
+ "total_views": 4800,
+ "total_likes": 0,
+ "avg_views": 4800,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "zDdayuiQBkk",
+  "title": "Late Milestones | Cormac Sinnot | Craic Den Comedy Club | #comedy #irish #standupcomedy #jokes",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 4800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 51.5,
+  "r2_clip": "comedians/cormac-sinnot/clips/cormac-sinnot-zddayuiqbkk.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "zDdayuiQBkk",
+   "title": "Late Milestones | Cormac Sinnot | Craic Den Comedy Club | #comedy #irish #standupcomedy #jokes",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 51.5,
+   "r2_clip": "comedians/cormac-sinnot/clips/cormac-sinnot-zddayuiqbkk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

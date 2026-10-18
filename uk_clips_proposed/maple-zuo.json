@@ -1,0 +1,44 @@
+{
+ "comedian_id": "maple-zuo",
+ "name": "MAPLE ZUO",
+ "clips": 1,
+ "total_views": 7300,
+ "total_likes": 0,
+ "avg_views": 7300,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "nbF4EUf0UsU",
+  "title": "MAPLE ZUO - ASIANS DON'T RAISIN",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 7300,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 16.1,
+  "r2_clip": "comedians/maple-zuo/clips/maple-zuo-nbf4euf0usu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "nbF4EUf0UsU",
+   "title": "MAPLE ZUO - ASIANS DON'T RAISIN",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 7300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 16.1,
+   "r2_clip": "comedians/maple-zuo/clips/maple-zuo-nbf4euf0usu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

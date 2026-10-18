@@ -1,0 +1,44 @@
+{
+ "comedian_id": "economy-sorted",
+ "name": "ECONOMY? SORTED",
+ "clips": 1,
+ "total_views": 14000,
+ "total_likes": 0,
+ "avg_views": 14000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Xne6C3FzvCI",
+  "title": "ECONOMY? SORTED | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 14000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 67.6,
+  "r2_clip": "comedians/economy-sorted/clips/economy-sorted-xne6c3fzvci.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Xne6C3FzvCI",
+   "title": "ECONOMY? SORTED | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 14000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 67.6,
+   "r2_clip": "comedians/economy-sorted/clips/economy-sorted-xne6c3fzvci.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

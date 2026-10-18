@@ -1,0 +1,44 @@
+{
+ "comedian_id": "shagun-chheda",
+ "name": "Shagun Chheda",
+ "clips": 1,
+ "total_views": 157,
+ "total_likes": 0,
+ "avg_views": 157,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "_j28Djt-JgQ",
+  "title": "Starbucks Name |  Shagun Chheda @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 157,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 23.0,
+  "r2_clip": "comedians/shagun-chheda/clips/shagun-chheda-j28djt-jgq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "_j28Djt-JgQ",
+   "title": "Starbucks Name |  Shagun Chheda @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 157,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 23.0,
+   "r2_clip": "comedians/shagun-chheda/clips/shagun-chheda-j28djt-jgq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

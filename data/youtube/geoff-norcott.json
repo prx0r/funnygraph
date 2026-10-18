@@ -1,0 +1,61 @@
+{
+ "comedian_id": "geoff-norcott",
+ "name": "Geoff Norcott",
+ "channels": {},
+ "clips": 2,
+ "total_views": 97000,
+ "total_likes": 0,
+ "avg_views": 48500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "vkqZFITFLag",
+  "title": "Well that didn’t go as planned 🫣",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 54000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 70.0,
+  "r2_clip": "comedians/geoff-norcott/clips/geoff-norcott-vkqzfitflag.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "8Ma4az_kJT4",
+   "title": "Watch Geoff Norcott’s full comedy special, Basic Bloke, by hitting that ‘JOIN’ button. 🎥😎",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 43000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 50.0,
+   "r2_clip": "comedians/geoff-norcott/clips/geoff-norcott-8ma4az-kjt4.json",
+   "transcript": true,
+   "source_group": "nextup"
+  },
+  {
+   "videoId": "vkqZFITFLag",
+   "title": "Well that didn’t go as planned 🫣",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 54000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 70.0,
+   "r2_clip": "comedians/geoff-norcott/clips/geoff-norcott-vkqzfitflag.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

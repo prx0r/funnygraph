@@ -1,0 +1,44 @@
+{
+ "comedian_id": "fighting-fears-in-greece",
+ "name": "FIGHTING FEARS IN GREECE",
+ "clips": 1,
+ "total_views": 15000,
+ "total_likes": 0,
+ "avg_views": 15000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "MXY3gEtyeYM",
+  "title": "FIGHTING FEARS IN GREECE | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 15000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 97.7,
+  "r2_clip": "comedians/fighting-fears-in-greece/clips/fighting-fears-in-greece-mxy3getyeym.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "MXY3gEtyeYM",
+   "title": "FIGHTING FEARS IN GREECE | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 15000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 97.7,
+   "r2_clip": "comedians/fighting-fears-in-greece/clips/fighting-fears-in-greece-mxy3getyeym.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

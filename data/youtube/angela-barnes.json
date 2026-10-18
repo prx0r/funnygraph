@@ -1,0 +1,45 @@
+{
+ "comedian_id": "angela-barnes",
+ "name": "Angela Barnes",
+ "channels": {},
+ "clips": 1,
+ "total_views": 22000,
+ "total_likes": 0,
+ "avg_views": 22000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Vsfz2cVemc8",
+  "title": "Sending all you 40-somethings our condolences 💐",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 22000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 56.6,
+  "r2_clip": "comedians/angela-barnes/clips/angela-barnes-vsfz2cvemc8.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "Vsfz2cVemc8",
+   "title": "Sending all you 40-somethings our condolences 💐",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 22000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 56.6,
+   "r2_clip": "comedians/angela-barnes/clips/angela-barnes-vsfz2cvemc8.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

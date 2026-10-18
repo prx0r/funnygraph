@@ -1,0 +1,45 @@
+{
+ "comedian_id": "josh-jones",
+ "name": "Josh Jones",
+ "channels": {},
+ "clips": 1,
+ "total_views": 27000,
+ "total_likes": 0,
+ "avg_views": 27000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "f7gzpOZmtYo",
+  "title": "Oh Gran 😆",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 27000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 35.4,
+  "r2_clip": "comedians/josh-jones/clips/josh-jones-f7gzpozmtyo.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "f7gzpOZmtYo",
+   "title": "Oh Gran 😆",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 27000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 35.4,
+   "r2_clip": "comedians/josh-jones/clips/josh-jones-f7gzpozmtyo.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

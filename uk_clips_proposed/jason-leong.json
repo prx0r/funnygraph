@@ -1,0 +1,44 @@
+{
+ "comedian_id": "jason-leong",
+ "name": "Jason Leong",
+ "clips": 1,
+ "total_views": 1783843,
+ "total_likes": 0,
+ "avg_views": 1783843,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "CKr0soIf4jA",
+  "title": "Hong Kong People Are Beautifully Rude",
+  "channel": "Jason Leong",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1783843,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 129.9,
+  "r2_clip": "comedians/jason-leong/clips/jason-leong-ckr0soif4ja.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "CKr0soIf4jA",
+   "title": "Hong Kong People Are Beautifully Rude",
+   "channel": "Jason Leong",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1783843,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 129.9,
+   "r2_clip": "comedians/jason-leong/clips/jason-leong-ckr0soif4ja.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "british-pride-prejudice",
+ "name": "British Pride (& Prejudice)",
+ "clips": 1,
+ "total_views": 29000,
+ "total_likes": 0,
+ "avg_views": 29000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "LsFOV7W0dpY",
+  "title": "British Pride (& Prejudice) - Jack Channell - Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 29000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 31.5,
+  "r2_clip": "comedians/british-pride-prejudice/clips/british-pride-prejudice-lsfov7w0dpy.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "LsFOV7W0dpY",
+   "title": "British Pride (& Prejudice) - Jack Channell - Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 29000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 31.5,
+   "r2_clip": "comedians/british-pride-prejudice/clips/british-pride-prejudice-lsfov7w0dpy.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

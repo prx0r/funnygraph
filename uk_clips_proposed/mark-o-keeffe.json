@@ -1,0 +1,44 @@
+{
+ "comedian_id": "mark-o-keeffe",
+ "name": "Mark O'Keeffe",
+ "clips": 1,
+ "total_views": 10000,
+ "total_likes": 0,
+ "avg_views": 10000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "H4f4IC2-XRo",
+  "title": "Artificial Intelligence Taking Our Jobs | Mark O'Keeffe | Craic Den #comedy #irish #standup #ai",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 10000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 48.5,
+  "r2_clip": "comedians/mark-o-keeffe/clips/mark-o-keeffe-h4f4ic2-xro.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "H4f4IC2-XRo",
+   "title": "Artificial Intelligence Taking Our Jobs | Mark O'Keeffe | Craic Den #comedy #irish #standup #ai",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 48.5,
+   "r2_clip": "comedians/mark-o-keeffe/clips/mark-o-keeffe-h4f4ic2-xro.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

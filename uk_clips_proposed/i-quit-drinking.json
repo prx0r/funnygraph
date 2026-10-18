@@ -1,0 +1,44 @@
+{
+ "comedian_id": "i-quit-drinking",
+ "name": "I Quit Drinking",
+ "clips": 1,
+ "total_views": 16000,
+ "total_likes": 0,
+ "avg_views": 16000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "8Z6NDqrN8tI",
+  "title": "I Quit Drinking - Stephanie Laing - Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 16000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 27.9,
+  "r2_clip": "comedians/i-quit-drinking/clips/i-quit-drinking-8z6ndqrn8ti.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "8Z6NDqrN8tI",
+   "title": "I Quit Drinking - Stephanie Laing - Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 16000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 27.9,
+   "r2_clip": "comedians/i-quit-drinking/clips/i-quit-drinking-8z6ndqrn8ti.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

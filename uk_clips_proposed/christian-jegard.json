@@ -1,0 +1,44 @@
+{
+ "comedian_id": "christian-jegard",
+ "name": "Christian Jegard",
+ "clips": 1,
+ "total_views": 368,
+ "total_likes": 0,
+ "avg_views": 368,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "GbeeSyXF14k",
+  "title": "\"Bad Times\" 🎶😂 | Christian Jegard | Live at The Bearcat  #comedy #standup #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 368,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 43.3,
+  "r2_clip": "comedians/christian-jegard/clips/christian-jegard-gbeesyxf14k.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "GbeeSyXF14k",
+   "title": "\"Bad Times\" 🎶😂 | Christian Jegard | Live at The Bearcat  #comedy #standup #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 368,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 43.3,
+   "r2_clip": "comedians/christian-jegard/clips/christian-jegard-gbeesyxf14k.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

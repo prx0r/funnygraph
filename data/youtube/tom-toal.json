@@ -1,0 +1,61 @@
+{
+ "comedian_id": "tom-toal",
+ "name": "TOM TOAL",
+ "channels": {},
+ "clips": 2,
+ "total_views": 6100,
+ "total_likes": 0,
+ "avg_views": 3050,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "FLwQlDzlfbc",
+  "title": "TOM TOAL - FANUARY",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 4100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 29.5,
+  "r2_clip": "comedians/tom-toal/clips/tom-toal-flwqldzlfbc.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "FLwQlDzlfbc",
+   "title": "TOM TOAL - FANUARY",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 29.5,
+   "r2_clip": "comedians/tom-toal/clips/tom-toal-flwqldzlfbc.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "gUHiq2zLajw",
+   "title": "TOM TOAL - FIGHT CLUB",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 56.0,
+   "r2_clip": "comedians/tom-toal/clips/tom-toal-guhiq2zlajw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

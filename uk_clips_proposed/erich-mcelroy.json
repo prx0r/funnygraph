@@ -1,0 +1,44 @@
+{
+ "comedian_id": "erich-mcelroy",
+ "name": "Erich McElroy",
+ "clips": 1,
+ "total_views": 6800,
+ "total_likes": 0,
+ "avg_views": 6800,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "yAD515_daG0",
+  "title": "UK vs US School | Erich McElroy | Live at The Bearcat  #standupcomedy #comedian #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 45.4,
+  "r2_clip": "comedians/erich-mcelroy/clips/erich-mcelroy-yad515_dag0.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "yAD515_daG0",
+   "title": "UK vs US School | Erich McElroy | Live at The Bearcat  #standupcomedy #comedian #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 45.4,
+   "r2_clip": "comedians/erich-mcelroy/clips/erich-mcelroy-yad515_dag0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

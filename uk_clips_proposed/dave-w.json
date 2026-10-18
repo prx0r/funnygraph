@@ -1,0 +1,44 @@
+{
+ "comedian_id": "dave-w",
+ "name": "Dave W",
+ "clips": 1,
+ "total_views": 687276,
+ "total_likes": 0,
+ "avg_views": 687276,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "0z0ea3jAOUE",
+  "title": "Jethro's Norfolk Dyke Dish",
+  "channel": "Dave W",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 687276,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 150.2,
+  "r2_clip": "comedians/dave-w/clips/dave-w-0z0ea3jaoue.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "0z0ea3jAOUE",
+   "title": "Jethro's Norfolk Dyke Dish",
+   "channel": "Dave W",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 687276,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 150.2,
+   "r2_clip": "comedians/dave-w/clips/dave-w-0z0ea3jaoue.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

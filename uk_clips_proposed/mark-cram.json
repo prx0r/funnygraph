@@ -1,0 +1,44 @@
+{
+ "comedian_id": "mark-cram",
+ "name": "MARK CRAM",
+ "clips": 1,
+ "total_views": 1500,
+ "total_likes": 0,
+ "avg_views": 1500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "OsY9mzFszXw",
+  "title": "MARK CRAM - MINISTRY OF JUSTICE",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1500,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 40.6,
+  "r2_clip": "comedians/mark-cram/clips/mark-cram-osy9mzfszxw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "OsY9mzFszXw",
+   "title": "MARK CRAM - MINISTRY OF JUSTICE",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1500,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 40.6,
+   "r2_clip": "comedians/mark-cram/clips/mark-cram-osy9mzfszxw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

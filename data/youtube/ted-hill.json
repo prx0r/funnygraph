@@ -1,0 +1,45 @@
+{
+ "comedian_id": "ted-hill",
+ "name": "Ted Hill",
+ "channels": {},
+ "clips": 1,
+ "total_views": 13000,
+ "total_likes": 0,
+ "avg_views": 13000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "s8M7xP1uI_I",
+  "title": "Watch Ted Hill ‘All The Presidents Man’ on NextUp Comedy now! #standuplive #standupcomedy",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 13000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 25.6,
+  "r2_clip": "comedians/ted-hill/clips/ted-hill-s8m7xp1ui-i.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "s8M7xP1uI_I",
+   "title": "Watch Ted Hill ‘All The Presidents Man’ on NextUp Comedy now! #standuplive #standupcomedy",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 13000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 25.6,
+   "r2_clip": "comedians/ted-hill/clips/ted-hill-s8m7xp1ui-i.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

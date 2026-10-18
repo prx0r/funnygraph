@@ -1,0 +1,44 @@
+{
+ "comedian_id": "marty-gleeson-post-match",
+ "name": "Marty Gleeson post-match",
+ "clips": 1,
+ "total_views": 1407,
+ "total_likes": 0,
+ "avg_views": 1407,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "ICDU3OFXTt8",
+  "title": "BTV: RD 17 | Marty Gleeson post-match",
+  "channel": "Essendon Football Club",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1407,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 97.9,
+  "r2_clip": "comedians/marty-gleeson-post-match/clips/marty-gleeson-post-match-icdu3ofxtt8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "ICDU3OFXTt8",
+   "title": "BTV: RD 17 | Marty Gleeson post-match",
+   "channel": "Essendon Football Club",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1407,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 97.9,
+   "r2_clip": "comedians/marty-gleeson-post-match/clips/marty-gleeson-post-match-icdu3ofxtt8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

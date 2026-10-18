@@ -1,0 +1,60 @@
+{
+ "comedian_id": "andrew-dorman",
+ "name": "Andrew Dorman",
+ "clips": 2,
+ "total_views": 10100,
+ "total_likes": 0,
+ "avg_views": 5050,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "cT1noOVHfCI",
+  "title": "Failed Drivers Test 3 Times ?! | Andrew Dorman | Craic Den Comedy Club | #fail #driver #funny",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 7500,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 74.3,
+  "r2_clip": "comedians/andrew-dorman/clips/andrew-dorman-ct1noovhfci.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "cT1noOVHfCI",
+   "title": "Failed Drivers Test 3 Times ?! | Andrew Dorman | Craic Den Comedy Club | #fail #driver #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 7500,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 74.3,
+   "r2_clip": "comedians/andrew-dorman/clips/andrew-dorman-ct1noovhfci.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "KBvEDl86NSM",
+   "title": "Irish History Lesson | Andrew Dorman | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2600,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 52.5,
+   "r2_clip": "comedians/andrew-dorman/clips/andrew-dorman-kbvedl86nsm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

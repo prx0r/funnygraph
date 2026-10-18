@@ -1,0 +1,44 @@
+{
+ "comedian_id": "being-santa",
+ "name": "Being Santa",
+ "clips": 1,
+ "total_views": 21000,
+ "total_likes": 0,
+ "avg_views": 21000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "3RUp3YWnKH8",
+  "title": "Being Santa - Rudi Lickwood - Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 21000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 44.1,
+  "r2_clip": "comedians/being-santa/clips/being-santa-3rup3ywnkh8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "3RUp3YWnKH8",
+   "title": "Being Santa - Rudi Lickwood - Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 21000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 44.1,
+   "r2_clip": "comedians/being-santa/clips/being-santa-3rup3ywnkh8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

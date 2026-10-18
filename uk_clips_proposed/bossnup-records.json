@@ -1,0 +1,44 @@
+{
+ "comedian_id": "bossnup-records",
+ "name": "BOSSnUP Records",
+ "clips": 1,
+ "total_views": 39444519,
+ "total_likes": 0,
+ "avg_views": 39444519,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "hlXlMQc_22o",
+  "title": "A Different Angle That We Didnt See Will Smith And Chris Rock At The Oscars",
+  "channel": "BOSSnUP Records",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 39444519,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 38.5,
+  "r2_clip": "comedians/bossnup-records/clips/bossnup-records-hlxlmqc_22o.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "hlXlMQc_22o",
+   "title": "A Different Angle That We Didnt See Will Smith And Chris Rock At The Oscars",
+   "channel": "BOSSnUP Records",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 39444519,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 38.5,
+   "r2_clip": "comedians/bossnup-records/clips/bossnup-records-hlxlmqc_22o.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

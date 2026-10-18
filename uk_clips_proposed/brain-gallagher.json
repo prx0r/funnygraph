@@ -1,0 +1,44 @@
+{
+ "comedian_id": "brain-gallagher",
+ "name": "Brain Gallagher",
+ "clips": 1,
+ "total_views": 11000,
+ "total_likes": 0,
+ "avg_views": 11000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "YAd260Uatik",
+  "title": "American Honeymoon In Ireland | Brain Gallagher | Craic Den Comedy Club #american #honeymoon #comedy",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 11000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 29.2,
+  "r2_clip": "comedians/brain-gallagher/clips/brain-gallagher-yad260uatik.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "YAd260Uatik",
+   "title": "American Honeymoon In Ireland | Brain Gallagher | Craic Den Comedy Club #american #honeymoon #comedy",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 11000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 29.2,
+   "r2_clip": "comedians/brain-gallagher/clips/brain-gallagher-yad260uatik.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

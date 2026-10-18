@@ -1,0 +1,45 @@
+{
+ "comedian_id": "nathan-cassidy",
+ "name": "Nathan Cassidy",
+ "channels": {},
+ "clips": 1,
+ "total_views": 228,
+ "total_likes": 0,
+ "avg_views": 228,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "52CiCWZrL-0",
+  "title": "ISH Edinburgh Comedy Awards Ceremony highlights",
+  "channel": "Nathan Cassidy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 228,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 139.7,
+  "r2_clip": "comedians/nathan-cassidy/clips/nathan-cassidy-52cicwzrl-0.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "52CiCWZrL-0",
+   "title": "ISH Edinburgh Comedy Awards Ceremony highlights",
+   "channel": "Nathan Cassidy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 228,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 139.7,
+   "r2_clip": "comedians/nathan-cassidy/clips/nathan-cassidy-52cicwzrl-0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

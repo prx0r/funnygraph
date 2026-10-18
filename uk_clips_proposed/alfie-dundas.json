@@ -1,0 +1,44 @@
+{
+ "comedian_id": "alfie-dundas",
+ "name": "Alfie Dundas",
+ "clips": 1,
+ "total_views": 6700,
+ "total_likes": 0,
+ "avg_views": 6700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "YMZ564Ytg-Q",
+  "title": "This Family Has Secrets| Alfie Dundas | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 72.4,
+  "r2_clip": "comedians/alfie-dundas/clips/alfie-dundas-ymz564ytg-q.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "YMZ564Ytg-Q",
+   "title": "This Family Has Secrets| Alfie Dundas | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 72.4,
+   "r2_clip": "comedians/alfie-dundas/clips/alfie-dundas-ymz564ytg-q.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

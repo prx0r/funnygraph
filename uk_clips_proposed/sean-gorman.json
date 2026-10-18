@@ -1,0 +1,60 @@
+{
+ "comedian_id": "sean-gorman",
+ "name": "SEAN GORMAN",
+ "clips": 2,
+ "total_views": 30900,
+ "total_likes": 0,
+ "avg_views": 15450,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "vinBmZtC9_U",
+  "title": "SEAN GORMAN - SHOWERED TOGETHER",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 27000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 47.1,
+  "r2_clip": "comedians/sean-gorman/clips/sean-gorman-vinbmztc9-u.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "vinBmZtC9_U",
+   "title": "SEAN GORMAN - SHOWERED TOGETHER",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 27000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 47.1,
+   "r2_clip": "comedians/sean-gorman/clips/sean-gorman-vinbmztc9-u.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "crVVAMZOvLk",
+   "title": "Trying For A Baby | Sean Gorman | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 3900,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 30.2,
+   "r2_clip": "comedians/sean-gorman/clips/sean-gorman-crvvamzovlk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

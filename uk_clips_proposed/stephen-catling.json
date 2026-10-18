@@ -1,0 +1,44 @@
+{
+ "comedian_id": "stephen-catling",
+ "name": "Stephen Catling",
+ "clips": 1,
+ "total_views": 12000,
+ "total_likes": 0,
+ "avg_views": 12000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "6nR55WehJe4",
+  "title": "Maybe They Were Right | Stephen Catling | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 12000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 24.3,
+  "r2_clip": "comedians/stephen-catling/clips/stephen-catling-6nr55wehje4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "6nR55WehJe4",
+   "title": "Maybe They Were Right | Stephen Catling | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 12000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 24.3,
+   "r2_clip": "comedians/stephen-catling/clips/stephen-catling-6nr55wehje4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

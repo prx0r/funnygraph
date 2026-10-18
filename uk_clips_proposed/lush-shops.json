@@ -1,0 +1,44 @@
+{
+ "comedian_id": "lush-shops",
+ "name": "Lush Shops",
+ "clips": 1,
+ "total_views": 370,
+ "total_likes": 0,
+ "avg_views": 370,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "9YEc3iK9KIk",
+  "title": "Dan Wild | Lush Shops",
+  "channel": "Hot Water Comedy Club",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 370,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 150.4,
+  "r2_clip": "comedians/lush-shops/clips/lush-shops-9yec3ik9kik.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "9YEc3iK9KIk",
+   "title": "Dan Wild | Lush Shops",
+   "channel": "Hot Water Comedy Club",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 370,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 150.4,
+   "r2_clip": "comedians/lush-shops/clips/lush-shops-9yec3ik9kik.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

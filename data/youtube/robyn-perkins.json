@@ -1,0 +1,61 @@
+{
+ "comedian_id": "robyn-perkins",
+ "name": "ROBYN PERKINS",
+ "channels": {},
+ "clips": 2,
+ "total_views": 1473,
+ "total_likes": 0,
+ "avg_views": 736,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "uYAGJw4pKpc",
+  "title": "ROBYN PERKINS - COMEDY TO ESTATE AGENTS",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1400,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 56.5,
+  "r2_clip": "comedians/robyn-perkins/clips/robyn-perkins-uyagjw4pkpc.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "uYAGJw4pKpc",
+   "title": "ROBYN PERKINS - COMEDY TO ESTATE AGENTS",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 56.5,
+   "r2_clip": "comedians/robyn-perkins/clips/robyn-perkins-uyagjw4pkpc.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "r_g3gLoMmMk",
+   "title": "ROBYN PERKINS - TWERK INSTRUCTIONS",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 73,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 80.9,
+   "r2_clip": "comedians/robyn-perkins/clips/robyn-perkins-r-g3glommmk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

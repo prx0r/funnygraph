@@ -1,0 +1,44 @@
+{
+ "comedian_id": "anyone-else",
+ "name": "ANYONE ELSE?",
+ "clips": 1,
+ "total_views": 10000,
+ "total_likes": 0,
+ "avg_views": 10000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "JtGB-WvlqgA",
+  "title": "ANYONE ELSE? | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 10000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 76.7,
+  "r2_clip": "comedians/anyone-else/clips/anyone-else-jtgb-wvlqga.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "JtGB-WvlqgA",
+   "title": "ANYONE ELSE? | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 76.7,
+   "r2_clip": "comedians/anyone-else/clips/anyone-else-jtgb-wvlqga.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

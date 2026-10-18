@@ -1,0 +1,44 @@
+{
+ "comedian_id": "hazel-donovan",
+ "name": "Hazel Donovan",
+ "clips": 1,
+ "total_views": 17000,
+ "total_likes": 0,
+ "avg_views": 17000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "n33hVZusPDw",
+  "title": "Things Mums Shouldn't Say | Hazel Donovan | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 17000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 47.2,
+  "r2_clip": "comedians/hazel-donovan/clips/hazel-donovan-n33hvzuspdw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "n33hVZusPDw",
+   "title": "Things Mums Shouldn't Say | Hazel Donovan | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 17000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 47.2,
+   "r2_clip": "comedians/hazel-donovan/clips/hazel-donovan-n33hvzuspdw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

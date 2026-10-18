@@ -1,0 +1,44 @@
+{
+ "comedian_id": "cheryl-hurst",
+ "name": "Cheryl Hurst",
+ "clips": 1,
+ "total_views": 432,
+ "total_likes": 0,
+ "avg_views": 432,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "kJRAxUw3jJ4",
+  "title": "Girl Math | Cheryl Hurst @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 432,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 67.5,
+  "r2_clip": "comedians/cheryl-hurst/clips/cheryl-hurst-kjraxuw3jj4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "kJRAxUw3jJ4",
+   "title": "Girl Math | Cheryl Hurst @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 432,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 67.5,
+   "r2_clip": "comedians/cheryl-hurst/clips/cheryl-hurst-kjraxuw3jj4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

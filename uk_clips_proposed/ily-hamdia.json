@@ -1,0 +1,44 @@
+{
+ "comedian_id": "ily-hamdia",
+ "name": "Ily Hamdia",
+ "clips": 1,
+ "total_views": 134,
+ "total_likes": 0,
+ "avg_views": 134,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "4wNqViJUgm8",
+  "title": "The West Country | Ily Hamdia @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 134,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 29.8,
+  "r2_clip": "comedians/ily-hamdia/clips/ily-hamdia-4wnqvijugm8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "4wNqViJUgm8",
+   "title": "The West Country | Ily Hamdia @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 134,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 29.8,
+   "r2_clip": "comedians/ily-hamdia/clips/ily-hamdia-4wnqvijugm8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

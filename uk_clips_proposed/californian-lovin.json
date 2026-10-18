@@ -1,0 +1,44 @@
+{
+ "comedian_id": "californian-lovin",
+ "name": "Californian Lovin'",
+ "clips": 1,
+ "total_views": 2200,
+ "total_likes": 0,
+ "avg_views": 2200,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "-q5REzzIu6I",
+  "title": "Patser Murray | Californian Lovin'",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2200,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 35.4,
+  "r2_clip": "comedians/californian-lovin/clips/californian-lovin-q5rezziu6i.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "-q5REzzIu6I",
+   "title": "Patser Murray | Californian Lovin'",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2200,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 35.4,
+   "r2_clip": "comedians/californian-lovin/clips/californian-lovin-q5rezziu6i.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

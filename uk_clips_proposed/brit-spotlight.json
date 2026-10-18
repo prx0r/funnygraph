@@ -1,0 +1,44 @@
+{
+ "comedian_id": "brit-spotlight",
+ "name": "Brit Spotlight",
+ "clips": 1,
+ "total_views": 48,
+ "total_likes": 0,
+ "avg_views": 48,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "ocZWl0jdulU",
+  "title": "Edinburgh Fringe Awards: The Comedy Stars Who Could Take Home the Top Prize in 2026",
+  "channel": "Brit Spotlight",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 48,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 148.9,
+  "r2_clip": "comedians/brit-spotlight/clips/brit-spotlight-oczwl0jdulu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "ocZWl0jdulU",
+   "title": "Edinburgh Fringe Awards: The Comedy Stars Who Could Take Home the Top Prize in 2026",
+   "channel": "Brit Spotlight",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 48,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 148.9,
+   "r2_clip": "comedians/brit-spotlight/clips/brit-spotlight-oczwl0jdulu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

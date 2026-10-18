@@ -1,0 +1,44 @@
+{
+ "comedian_id": "pencil-d-ck",
+ "name": "Pencil D*ck",
+ "clips": 1,
+ "total_views": 813,
+ "total_likes": 0,
+ "avg_views": 813,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "xUpD1DYd5Ek",
+  "title": "Pencil D*ck | Damo Clark & Jack Hester | Craic Den Comedy Club #comedy #standup #funny",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 813,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 74.2,
+  "r2_clip": "comedians/pencil-d-ck/clips/pencil-d-ck-xupd1dyd5ek.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "xUpD1DYd5Ek",
+   "title": "Pencil D*ck | Damo Clark & Jack Hester | Craic Den Comedy Club #comedy #standup #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 813,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 74.2,
+   "r2_clip": "comedians/pencil-d-ck/clips/pencil-d-ck-xupd1dyd5ek.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,45 @@
+{
+ "comedian_id": "alex-kitson",
+ "name": "Alex Kitson",
+ "channels": {},
+ "clips": 1,
+ "total_views": 29,
+ "total_likes": 0,
+ "avg_views": 29,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "CbmDyKsOOGA",
+  "title": "Trust Your Gut | Alex Kitson @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 29,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 20.2,
+  "r2_clip": "comedians/alex-kitson/clips/alex-kitson-cbmdyksooga.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "CbmDyKsOOGA",
+   "title": "Trust Your Gut | Alex Kitson @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 29,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 20.2,
+   "r2_clip": "comedians/alex-kitson/clips/alex-kitson-cbmdyksooga.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

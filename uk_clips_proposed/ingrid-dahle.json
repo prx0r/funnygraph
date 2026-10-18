@@ -1,0 +1,44 @@
+{
+ "comedian_id": "ingrid-dahle",
+ "name": "Ingrid Dahle",
+ "clips": 1,
+ "total_views": 18000,
+ "total_likes": 0,
+ "avg_views": 18000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "YxHU1nIeEWo",
+  "title": "British Drinking Culture | Ingrid Dahle | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 18000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 33.0,
+  "r2_clip": "comedians/ingrid-dahle/clips/ingrid-dahle-yxhu1nieewo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "YxHU1nIeEWo",
+   "title": "British Drinking Culture | Ingrid Dahle | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 18000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 33.0,
+   "r2_clip": "comedians/ingrid-dahle/clips/ingrid-dahle-yxhu1nieewo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

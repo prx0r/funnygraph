@@ -1,0 +1,44 @@
+{
+ "comedian_id": "michael-shafar",
+ "name": "Michael Shafar",
+ "clips": 1,
+ "total_views": 13000,
+ "total_likes": 0,
+ "avg_views": 13000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "h-fP25JvjjI",
+  "title": "Crocs VS Guns | Michael Shafar | Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 13000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 42.0,
+  "r2_clip": "comedians/michael-shafar/clips/michael-shafar-h-fp25jvjji.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "h-fP25JvjjI",
+   "title": "Crocs VS Guns | Michael Shafar | Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 13000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 42.0,
+   "r2_clip": "comedians/michael-shafar/clips/michael-shafar-h-fp25jvjji.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

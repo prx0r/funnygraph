@@ -1,0 +1,44 @@
+{
+ "comedian_id": "john-bishop-is-ukrainian",
+ "name": "John Bishop Is Ukrainian?",
+ "clips": 1,
+ "total_views": 88664,
+ "total_likes": 0,
+ "avg_views": 88664,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "v4fDzwcysII",
+  "title": "John Bishop Is Ukrainian? | The Graham Norton Show",
+  "channel": "The Graham Norton Show",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 88664,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 95.7,
+  "r2_clip": "comedians/john-bishop-is-ukrainian/clips/john-bishop-is-ukrainian-v4fdzwcysii.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "v4fDzwcysII",
+   "title": "John Bishop Is Ukrainian? | The Graham Norton Show",
+   "channel": "The Graham Norton Show",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 88664,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 95.7,
+   "r2_clip": "comedians/john-bishop-is-ukrainian/clips/john-bishop-is-ukrainian-v4fdzwcysii.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "creamy-guiness",
+ "name": "CREAMY GUINESS",
+ "clips": 1,
+ "total_views": 9700,
+ "total_likes": 0,
+ "avg_views": 9700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "XMKvcy9ISuU",
+  "title": "CREAMY GUINESS | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 9700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 62.1,
+  "r2_clip": "comedians/creamy-guiness/clips/creamy-guiness-xmkvcy9isuu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "XMKvcy9ISuU",
+   "title": "CREAMY GUINESS | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 9700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 62.1,
+   "r2_clip": "comedians/creamy-guiness/clips/creamy-guiness-xmkvcy9isuu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

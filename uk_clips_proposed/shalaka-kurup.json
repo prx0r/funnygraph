@@ -1,0 +1,44 @@
+{
+ "comedian_id": "shalaka-kurup",
+ "name": "SHALAKA KURUP",
+ "clips": 1,
+ "total_views": 22000,
+ "total_likes": 0,
+ "avg_views": 22000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "F-skCbblWoQ",
+  "title": "SHALAKA KURUP - TRAIN MAN",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 22000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 59.5,
+  "r2_clip": "comedians/shalaka-kurup/clips/shalaka-kurup-f-skcbblwoq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "F-skCbblWoQ",
+   "title": "SHALAKA KURUP - TRAIN MAN",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 22000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 59.5,
+   "r2_clip": "comedians/shalaka-kurup/clips/shalaka-kurup-f-skcbblwoq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

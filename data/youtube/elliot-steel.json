@@ -1,0 +1,45 @@
+{
+ "comedian_id": "elliot-steel",
+ "name": "Elliot Steel",
+ "channels": {},
+ "clips": 1,
+ "total_views": 7300,
+ "total_likes": 0,
+ "avg_views": 7300,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "RNOU5MVrsn8",
+  "title": "I'm A bit Fascist | Elliot Steel | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 7300,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 85.5,
+  "r2_clip": "comedians/elliot-steel/clips/elliot-steel-rnou5mvrsn8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "RNOU5MVrsn8",
+   "title": "I'm A bit Fascist | Elliot Steel | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 7300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 85.5,
+   "r2_clip": "comedians/elliot-steel/clips/elliot-steel-rnou5mvrsn8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

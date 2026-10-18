@@ -1,0 +1,44 @@
+{
+ "comedian_id": "brian-gallagher",
+ "name": "Brian Gallagher",
+ "clips": 1,
+ "total_views": 1700,
+ "total_likes": 0,
+ "avg_views": 1700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "hL_p0oJSKPY",
+  "title": "Massage Therapy School | Brian Gallagher | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 63.2,
+  "r2_clip": "comedians/brian-gallagher/clips/brian-gallagher-hl-p0ojskpy.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "hL_p0oJSKPY",
+   "title": "Massage Therapy School | Brian Gallagher | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 63.2,
+   "r2_clip": "comedians/brian-gallagher/clips/brian-gallagher-hl-p0ojskpy.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

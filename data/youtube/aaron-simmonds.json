@@ -1,0 +1,45 @@
+{
+ "comedian_id": "aaron-simmonds",
+ "name": "Aaron Simmonds",
+ "channels": {},
+ "clips": 1,
+ "total_views": 3100,
+ "total_likes": 0,
+ "avg_views": 3100,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "kzP1GoR_UxU",
+  "title": "Competitive Relations | Aaron Simmonds LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 3100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 57.9,
+  "r2_clip": "comedians/aaron-simmonds/clips/aaron-simmonds-kzp1gor_uxu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "kzP1GoR_UxU",
+   "title": "Competitive Relations | Aaron Simmonds LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 3100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 57.9,
+   "r2_clip": "comedians/aaron-simmonds/clips/aaron-simmonds-kzp1gor_uxu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

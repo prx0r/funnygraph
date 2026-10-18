@@ -1,0 +1,44 @@
+{
+ "comedian_id": "rip-the-mons",
+ "name": "RIP THE MONS",
+ "clips": 1,
+ "total_views": 10000,
+ "total_likes": 0,
+ "avg_views": 10000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "afZKKVpFVFM",
+  "title": "RIP THE MONS | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 10000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 5.0,
+  "r2_clip": "comedians/rip-the-mons/clips/rip-the-mons-afzkkvpfvfm.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "afZKKVpFVFM",
+   "title": "RIP THE MONS | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 5.0,
+   "r2_clip": "comedians/rip-the-mons/clips/rip-the-mons-afzkkvpfvfm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

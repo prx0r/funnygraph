@@ -1,0 +1,44 @@
+{
+ "comedian_id": "rich-hall",
+ "name": "Rich Hall",
+ "clips": 1,
+ "total_views": 12000,
+ "total_likes": 0,
+ "avg_views": 12000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "jamx4vPSWqU",
+  "title": "Health Advice for Dummies | Rich Hall | Live at The Bearcat  #standupcomedy #comedy  #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 12000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 41.5,
+  "r2_clip": "comedians/rich-hall/clips/rich-hall-jamx4vpswqu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "jamx4vPSWqU",
+   "title": "Health Advice for Dummies | Rich Hall | Live at The Bearcat  #standupcomedy #comedy  #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 12000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 41.5,
+   "r2_clip": "comedians/rich-hall/clips/rich-hall-jamx4vpswqu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

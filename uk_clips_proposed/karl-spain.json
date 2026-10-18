@@ -1,0 +1,60 @@
+{
+ "comedian_id": "karl-spain",
+ "name": "Karl Spain",
+ "clips": 2,
+ "total_views": 41000,
+ "total_likes": 0,
+ "avg_views": 20500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "9Ya0dxNOoUQ",
+  "title": "Irish Chinese | Karl Spain | Craic Den Comedy Club #standupcomedy #funny #comedy",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 30000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 36.6,
+  "r2_clip": "comedians/karl-spain/clips/karl-spain-9ya0dxnoouq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "e5CkHYQ4Vtw",
+   "title": "I Am The Penguin | Karl Spain | Craic Den Comedy Club | #comedy #standup #standupcomedy",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 11000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 48.3,
+   "r2_clip": "comedians/karl-spain/clips/karl-spain-e5ckhyq4vtw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "9Ya0dxNOoUQ",
+   "title": "Irish Chinese | Karl Spain | Craic Den Comedy Club #standupcomedy #funny #comedy",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 30000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 36.6,
+   "r2_clip": "comedians/karl-spain/clips/karl-spain-9ya0dxnoouq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

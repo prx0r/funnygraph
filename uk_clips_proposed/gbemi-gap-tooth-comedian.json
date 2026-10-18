@@ -1,0 +1,44 @@
+{
+ "comedian_id": "gbemi-gap-tooth-comedian",
+ "name": "Gbemi (Gap Tooth Comedian)",
+ "clips": 1,
+ "total_views": 3700,
+ "total_likes": 0,
+ "avg_views": 3700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Jk9SgzmwzOA",
+  "title": "This Crowd is Scarred | Gbemi (Gap Tooth Comedian)  | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 3700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 47.2,
+  "r2_clip": "comedians/gbemi-gap-tooth-comedian/clips/gbemi-gap-tooth-comedian-jk9sgzmwzoa.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Jk9SgzmwzOA",
+   "title": "This Crowd is Scarred | Gbemi (Gap Tooth Comedian)  | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 3700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 47.2,
+   "r2_clip": "comedians/gbemi-gap-tooth-comedian/clips/gbemi-gap-tooth-comedian-jk9sgzmwzoa.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

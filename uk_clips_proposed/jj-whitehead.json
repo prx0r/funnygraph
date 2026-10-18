@@ -1,0 +1,44 @@
+{
+ "comedian_id": "jj-whitehead",
+ "name": "JJ Whitehead",
+ "clips": 1,
+ "total_views": 698,
+ "total_likes": 0,
+ "avg_views": 698,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Uba5tCNVOpU",
+  "title": "Woman on Top | JJ Whitehead | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 698,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 24.9,
+  "r2_clip": "comedians/jj-whitehead/clips/jj-whitehead-uba5tcnvopu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Uba5tCNVOpU",
+   "title": "Woman on Top | JJ Whitehead | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 698,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 24.9,
+   "r2_clip": "comedians/jj-whitehead/clips/jj-whitehead-uba5tcnvopu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

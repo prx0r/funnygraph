@@ -1,0 +1,44 @@
+{
+ "comedian_id": "fiona-frawley",
+ "name": "Fiona Frawley",
+ "clips": 1,
+ "total_views": 2900,
+ "total_likes": 0,
+ "avg_views": 2900,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "qtJcqt4WTUI",
+  "title": "You Don't Like Your Kids?! | Fiona Frawley | Craic Den ComedyClub  #standupcomedy  #comedy #parents",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2900,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 63.2,
+  "r2_clip": "comedians/fiona-frawley/clips/fiona-frawley-qtjcqt4wtui.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "qtJcqt4WTUI",
+   "title": "You Don't Like Your Kids?! | Fiona Frawley | Craic Den ComedyClub  #standupcomedy  #comedy #parents",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2900,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 63.2,
+   "r2_clip": "comedians/fiona-frawley/clips/fiona-frawley-qtjcqt4wtui.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

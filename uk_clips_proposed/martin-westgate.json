@@ -1,0 +1,44 @@
+{
+ "comedian_id": "martin-westgate",
+ "name": "Martin Westgate",
+ "clips": 1,
+ "total_views": 18000,
+ "total_likes": 0,
+ "avg_views": 18000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "ZhQFQ1xJiMk",
+  "title": "Greatest Giraffe Joke Ever! | Martin Westgate | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 18000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 10.2,
+  "r2_clip": "comedians/martin-westgate/clips/martin-westgate-zhqfq1xjimk.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "ZhQFQ1xJiMk",
+   "title": "Greatest Giraffe Joke Ever! | Martin Westgate | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 18000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 10.2,
+   "r2_clip": "comedians/martin-westgate/clips/martin-westgate-zhqfq1xjimk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

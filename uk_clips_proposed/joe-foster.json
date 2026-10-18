@@ -1,0 +1,60 @@
+{
+ "comedian_id": "joe-foster",
+ "name": "Joe Foster",
+ "clips": 2,
+ "total_views": 6423,
+ "total_likes": 0,
+ "avg_views": 3212,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "YqdeafAvYsI",
+  "title": "Modern Ghost Stories | Joe Foster | Live at The Bearcat #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6300,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 42.0,
+  "r2_clip": "comedians/joe-foster/clips/joe-foster-yqdeafavysi.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "YqdeafAvYsI",
+   "title": "Modern Ghost Stories | Joe Foster | Live at The Bearcat #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 42.0,
+   "r2_clip": "comedians/joe-foster/clips/joe-foster-yqdeafavysi.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "xMyh_w1mmFM",
+   "title": "Proud Smokers | Joe Foster @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 123,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 62.6,
+   "r2_clip": "comedians/joe-foster/clips/joe-foster-xmyh-w1mmfm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

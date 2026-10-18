@@ -1,0 +1,44 @@
+{
+ "comedian_id": "danny-scott",
+ "name": "DANNY SCOTT",
+ "clips": 1,
+ "total_views": 2400,
+ "total_likes": 0,
+ "avg_views": 2400,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "4efhIsV4eF8",
+  "title": "DANNY SCOTT - BIG BOY",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2400,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 36.4,
+  "r2_clip": "comedians/danny-scott/clips/danny-scott-4efhisv4ef8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "4efhIsV4eF8",
+   "title": "DANNY SCOTT - BIG BOY",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 36.4,
+   "r2_clip": "comedians/danny-scott/clips/danny-scott-4efhisv4ef8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

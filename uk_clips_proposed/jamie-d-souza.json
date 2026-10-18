@@ -1,0 +1,44 @@
+{
+ "comedian_id": "jamie-d-souza",
+ "name": "JAMIE D'SOUZA",
+ "clips": 1,
+ "total_views": 520,
+ "total_likes": 0,
+ "avg_views": 520,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "qOJF36ANpg0",
+  "title": "JAMIE D'SOUZA - BIG BELLY BULEMIA",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 520,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 12.4,
+  "r2_clip": "comedians/jamie-d-souza/clips/jamie-d-souza-qojf36anpg0.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "qOJF36ANpg0",
+   "title": "JAMIE D'SOUZA - BIG BELLY BULEMIA",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 520,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 12.4,
+   "r2_clip": "comedians/jamie-d-souza/clips/jamie-d-souza-qojf36anpg0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

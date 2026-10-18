@@ -1,0 +1,44 @@
+{
+ "comedian_id": "his-dark-material",
+ "name": "HIS DARK MATERIAL",
+ "clips": 1,
+ "total_views": 319291,
+ "total_likes": 0,
+ "avg_views": 319291,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "CJurYs12ay4",
+  "title": "Jimmy Carr on Holocaust & Jehovah's Witnesses Joke | HIS DARK MATERIAL",
+  "channel": "Comedy Centre",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 319291,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 112.8,
+  "r2_clip": "comedians/his-dark-material/clips/his-dark-material-cjurys12ay4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "CJurYs12ay4",
+   "title": "Jimmy Carr on Holocaust & Jehovah's Witnesses Joke | HIS DARK MATERIAL",
+   "channel": "Comedy Centre",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 319291,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 112.8,
+   "r2_clip": "comedians/his-dark-material/clips/his-dark-material-cjurys12ay4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

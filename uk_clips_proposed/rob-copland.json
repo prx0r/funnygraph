@@ -1,0 +1,60 @@
+{
+ "comedian_id": "rob-copland",
+ "name": "ROB COPLAND",
+ "clips": 2,
+ "total_views": 10400,
+ "total_likes": 0,
+ "avg_views": 5200,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "TcTdv7wv6vI",
+  "title": "ROB COPLAND - NEW STAGE",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 8700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 46.9,
+  "r2_clip": "comedians/rob-copland/clips/rob-copland-tctdv7wv6vi.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "fZNHU2gTYaA",
+   "title": "ROB COPLAND - ANOTHER NEW STAGE",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 80.6,
+   "r2_clip": "comedians/rob-copland/clips/rob-copland-fznhu2gtyaa.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "TcTdv7wv6vI",
+   "title": "ROB COPLAND - NEW STAGE",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 8700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 46.9,
+   "r2_clip": "comedians/rob-copland/clips/rob-copland-tctdv7wv6vi.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

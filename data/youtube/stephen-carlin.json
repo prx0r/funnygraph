@@ -1,0 +1,45 @@
+{
+ "comedian_id": "stephen-carlin",
+ "name": "Stephen Carlin",
+ "channels": {},
+ "clips": 1,
+ "total_views": 6700,
+ "total_likes": 0,
+ "avg_views": 6700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "YcXffy5D2yM",
+  "title": "Solving Scottish Obesity | Stephen Carlin | Live at The Bearcat  #standupcomedy #comedy #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 18.4,
+  "r2_clip": "comedians/stephen-carlin/clips/stephen-carlin-ycxffy5d2ym.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "YcXffy5D2yM",
+   "title": "Solving Scottish Obesity | Stephen Carlin | Live at The Bearcat  #standupcomedy #comedy #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 18.4,
+   "r2_clip": "comedians/stephen-carlin/clips/stephen-carlin-ycxffy5d2ym.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

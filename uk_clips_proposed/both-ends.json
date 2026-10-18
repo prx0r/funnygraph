@@ -1,0 +1,44 @@
+{
+ "comedian_id": "both-ends",
+ "name": "Both ends?",
+ "clips": 1,
+ "total_views": 15000,
+ "total_likes": 0,
+ "avg_views": 15000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "7d5jdDfcIIA",
+  "title": "Both ends? - Matt Green at The 99 Club #standupcomedy  #comedy #funny #crowdwork #norway",
+  "channel": "@MattGreenComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 15000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 24.0,
+  "r2_clip": "comedians/both-ends/clips/both-ends-7d5jddfciia.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "7d5jdDfcIIA",
+   "title": "Both ends? - Matt Green at The 99 Club #standupcomedy  #comedy #funny #crowdwork #norway",
+   "channel": "@MattGreenComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 15000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 24.0,
+   "r2_clip": "comedians/both-ends/clips/both-ends-7d5jddfciia.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

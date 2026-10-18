@@ -1,0 +1,45 @@
+{
+ "comedian_id": "sam-nicoresti",
+ "name": "Sam Nicoresti",
+ "channels": {},
+ "clips": 1,
+ "total_views": 847,
+ "total_likes": 0,
+ "avg_views": 847,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "myRRv69Bb-A",
+  "title": "Edinburgh Comedy Awards 2025 -  Best Comedy Show winner Sam Nicoresti",
+  "channel": "Edinburgh Comedy Awards",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 847,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 114.2,
+  "r2_clip": "comedians/sam-nicoresti/clips/sam-nicoresti-myrrv69bb-a.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "myRRv69Bb-A",
+   "title": "Edinburgh Comedy Awards 2025 -  Best Comedy Show winner Sam Nicoresti",
+   "channel": "Edinburgh Comedy Awards",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 847,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 114.2,
+   "r2_clip": "comedians/sam-nicoresti/clips/sam-nicoresti-myrrv69bb-a.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

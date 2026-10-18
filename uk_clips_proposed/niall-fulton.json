@@ -1,0 +1,44 @@
+{
+ "comedian_id": "niall-fulton",
+ "name": "Niall Fulton",
+ "clips": 1,
+ "total_views": 58,
+ "total_likes": 0,
+ "avg_views": 58,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "wQb953mE8i0",
+  "title": "Chris Thorburn Profile",
+  "channel": "Niall Fulton",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 58,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 158.8,
+  "r2_clip": "comedians/niall-fulton/clips/niall-fulton-wqb953me8i0.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "wQb953mE8i0",
+   "title": "Chris Thorburn Profile",
+   "channel": "Niall Fulton",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 58,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 158.8,
+   "r2_clip": "comedians/niall-fulton/clips/niall-fulton-wqb953me8i0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

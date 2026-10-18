@@ -1,0 +1,44 @@
+{
+ "comedian_id": "winner-stays-on",
+ "name": "WINNER STAYS ON",
+ "clips": 1,
+ "total_views": 11000,
+ "total_likes": 0,
+ "avg_views": 11000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "-sdtcJ2YtUQ",
+  "title": "WINNER STAYS ON | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 11000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 100.1,
+  "r2_clip": "comedians/winner-stays-on/clips/winner-stays-on-sdtcj2ytuq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "-sdtcJ2YtUQ",
+   "title": "WINNER STAYS ON | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 11000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 100.1,
+   "r2_clip": "comedians/winner-stays-on/clips/winner-stays-on-sdtcj2ytuq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

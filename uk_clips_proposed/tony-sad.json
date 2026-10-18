@@ -1,0 +1,44 @@
+{
+ "comedian_id": "tony-sad",
+ "name": "TONY SAD",
+ "clips": 1,
+ "total_views": 11000,
+ "total_likes": 0,
+ "avg_views": 11000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Ak9m6kNwGJ8",
+  "title": "TONY SAD | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 11000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 44.3,
+  "r2_clip": "comedians/tony-sad/clips/tony-sad-ak9m6knwgj8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Ak9m6kNwGJ8",
+   "title": "TONY SAD | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 11000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 44.3,
+   "r2_clip": "comedians/tony-sad/clips/tony-sad-ak9m6knwgj8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

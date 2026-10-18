@@ -1,0 +1,45 @@
+{
+ "comedian_id": "prince-abdi",
+ "name": "PRINCE ABDI",
+ "channels": {},
+ "clips": 1,
+ "total_views": 2400,
+ "total_likes": 0,
+ "avg_views": 2400,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "5FbG1zPzRZg",
+  "title": "PRINCE ABDI - WALK OUT",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2400,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 24.2,
+  "r2_clip": "comedians/prince-abdi/clips/prince-abdi-5fbg1zpzrzg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "5FbG1zPzRZg",
+   "title": "PRINCE ABDI - WALK OUT",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 24.2,
+   "r2_clip": "comedians/prince-abdi/clips/prince-abdi-5fbg1zpzrzg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

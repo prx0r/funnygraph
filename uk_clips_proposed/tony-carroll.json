@@ -1,0 +1,44 @@
+{
+ "comedian_id": "tony-carroll",
+ "name": "Tony Carroll",
+ "clips": 1,
+ "total_views": 10000,
+ "total_likes": 0,
+ "avg_views": 10000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "9P6pIalQzlM",
+  "title": "Encore Gone Wrong | Tony Carroll LIVE at Hot Water Comedy Club",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 10000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 55.7,
+  "r2_clip": "comedians/tony-carroll/clips/tony-carroll-9p6pialqzlm.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "9P6pIalQzlM",
+   "title": "Encore Gone Wrong | Tony Carroll LIVE at Hot Water Comedy Club",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 55.7,
+   "r2_clip": "comedians/tony-carroll/clips/tony-carroll-9p6pialqzlm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

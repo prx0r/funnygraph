@@ -1,6 +1,6 @@
 {
  "comedian_id": "ali-woods",
- "name": "Ali Woods",
+ "name": "ALI WOODS",
  "channels": {
   "UCkZ7E_ER0rPLFMrkqlfihcA": {
    "subs": 1,
@@ -8,12 +8,76 @@
    "channel": "aliwoods"
   }
  },
- "clips": 0,
- "total_views": 0,
+ "clips": 3,
+ "total_views": 1500,
  "total_likes": 0,
- "avg_views": 0,
+ "avg_views": 500,
  "like_rate": 0.0,
- "top_clip": null,
- "rows": [],
- "method": "registry-uploads (no search)"
+ "top_clip": {
+  "videoId": "LIQVLoz1eBQ",
+  "title": "ALI WOODS - FALLING ASLEEP",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1500,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 43.3,
+  "r2_clip": "comedians/ali-woods/clips/ali-woods-liqvloz1ebq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "LIQVLoz1eBQ",
+   "title": "ALI WOODS - FALLING ASLEEP",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1500,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 43.3,
+   "r2_clip": "comedians/ali-woods/clips/ali-woods-liqvloz1ebq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "_QzEmV10xY8",
+   "title": "At The Moment FULL SPECIAL",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 4469.0,
+   "r2_clip": "comedians/ali-woods/clips/ali-woods-qzemv10xy8.json",
+   "transcript": true,
+   "source_group": "nextup"
+  },
+  {
+   "videoId": "r8ky4Zz_Zls",
+   "title": "Craziest Party Story",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 534.3,
+   "r2_clip": "comedians/ali-woods/clips/ali-woods-r8ky4zz-zls.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
 }

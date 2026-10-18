@@ -1,0 +1,60 @@
+{
+ "comedian_id": "gar-murran",
+ "name": "Gar Murran",
+ "clips": 2,
+ "total_views": 8700,
+ "total_likes": 0,
+ "avg_views": 4350,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "YSOERr6H5XA",
+  "title": "Arriving Late | Gar Murran | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 90.2,
+  "r2_clip": "comedians/gar-murran/clips/gar-murran-ysoerr6h5xa.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "YSOERr6H5XA",
+   "title": "Arriving Late | Gar Murran | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 90.2,
+   "r2_clip": "comedians/gar-murran/clips/gar-murran-ysoerr6h5xa.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "dSPwsqzNwug",
+   "title": "Get a New Daddy | Gar Murran | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1900,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 78.0,
+   "r2_clip": "comedians/gar-murran/clips/gar-murran-dspwsqznwug.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

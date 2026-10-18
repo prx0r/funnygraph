@@ -1,0 +1,60 @@
+{
+ "comedian_id": "rory-o-hanlon",
+ "name": "Rory O'Hanlon",
+ "clips": 2,
+ "total_views": 10300,
+ "total_likes": 0,
+ "avg_views": 5150,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "kzMB_-3xnIY",
+  "title": "American Teacher | Rory O'Hanlon | Craic Den Comedy Club #ireland #comedy #american #funny",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 31.0,
+  "r2_clip": "comedians/rory-o-hanlon/clips/rory-o-hanlon-kzmb-3xniy.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "kzMB_-3xnIY",
+   "title": "American Teacher | Rory O'Hanlon | Craic Den Comedy Club #ireland #comedy #american #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 31.0,
+   "r2_clip": "comedians/rory-o-hanlon/clips/rory-o-hanlon-kzmb-3xniy.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "LyV2uoAg8W0",
+   "title": "Irish Doctors in Australia | Rory O Hanlon | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 36.6,
+   "r2_clip": "comedians/rory-o-hanlon/clips/rory-o-hanlon-lyv2uoag8w0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

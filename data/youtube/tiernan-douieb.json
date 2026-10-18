@@ -1,0 +1,45 @@
+{
+ "comedian_id": "tiernan-douieb",
+ "name": "Tiernan Douieb",
+ "channels": {},
+ "clips": 1,
+ "total_views": 1075,
+ "total_likes": 0,
+ "avg_views": 1075,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "eS9JS9bnaN0",
+  "title": "Tiernan Douieb - British Values",
+  "channel": "Tiernan Douieb",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1075,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 57.8,
+  "r2_clip": "comedians/tiernan-douieb/clips/tiernan-douieb-es9js9bnan0.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "eS9JS9bnaN0",
+   "title": "Tiernan Douieb - British Values",
+   "channel": "Tiernan Douieb",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1075,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 57.8,
+   "r2_clip": "comedians/tiernan-douieb/clips/tiernan-douieb-es9js9bnan0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

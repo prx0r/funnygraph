@@ -1,0 +1,44 @@
+{
+ "comedian_id": "dead-men-talking",
+ "name": "Dead Men Talking",
+ "clips": 1,
+ "total_views": 290,
+ "total_likes": 0,
+ "avg_views": 290,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "LugeriNX4-c",
+  "title": "PATREON EP 73 IS OUT NOW",
+  "channel": "Dead Men Talking",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 290,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 69.0,
+  "r2_clip": "comedians/dead-men-talking/clips/dead-men-talking-lugerinx4-c.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "LugeriNX4-c",
+   "title": "PATREON EP 73 IS OUT NOW",
+   "channel": "Dead Men Talking",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 290,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 69.0,
+   "r2_clip": "comedians/dead-men-talking/clips/dead-men-talking-lugerinx4-c.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,45 @@
+{
+ "comedian_id": "shappi-khorsandi",
+ "name": "Shappi Khorsandi",
+ "channels": {},
+ "clips": 1,
+ "total_views": 10000,
+ "total_likes": 0,
+ "avg_views": 10000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "qkqjeqgSydA",
+  "title": "Midlife Crisis Perks | Shappi Khorsandi | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 10000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 37.7,
+  "r2_clip": "comedians/shappi-khorsandi/clips/shappi-khorsandi-qkqjeqgsyda.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "qkqjeqgSydA",
+   "title": "Midlife Crisis Perks | Shappi Khorsandi | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 37.7,
+   "r2_clip": "comedians/shappi-khorsandi/clips/shappi-khorsandi-qkqjeqgsyda.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

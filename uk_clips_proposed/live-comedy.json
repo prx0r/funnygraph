@@ -1,0 +1,44 @@
+{
+ "comedian_id": "live-comedy",
+ "name": "Live Comedy",
+ "clips": 1,
+ "total_views": 543294,
+ "total_likes": 0,
+ "avg_views": 543294,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "gEavqc6kPQg",
+  "title": "Russell Howard Proves That English Accents Aren't Sexy | Live Comedy",
+  "channel": "Avalon Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 543294,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 176.3,
+  "r2_clip": "comedians/live-comedy/clips/live-comedy-geavqc6kpqg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "gEavqc6kPQg",
+   "title": "Russell Howard Proves That English Accents Aren't Sexy | Live Comedy",
+   "channel": "Avalon Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 543294,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 176.3,
+   "r2_clip": "comedians/live-comedy/clips/live-comedy-geavqc6kpqg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "norwich-theatre",
+ "name": "Norwich Theatre",
+ "clips": 1,
+ "total_views": 315,
+ "total_likes": 0,
+ "avg_views": 315,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "pLdD_CV8PhQ",
+  "title": "Chaperone | Austentatious: An Improvised Jane Austen Novel | Norwich Theatre",
+  "channel": "Norwich Theatre",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 315,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 25.6,
+  "r2_clip": "comedians/norwich-theatre/clips/norwich-theatre-pldd_cv8phq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "pLdD_CV8PhQ",
+   "title": "Chaperone | Austentatious: An Improvised Jane Austen Novel | Norwich Theatre",
+   "channel": "Norwich Theatre",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 315,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 25.6,
+   "r2_clip": "comedians/norwich-theatre/clips/norwich-theatre-pldd_cv8phq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

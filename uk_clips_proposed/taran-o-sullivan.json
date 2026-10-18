@@ -1,0 +1,44 @@
+{
+ "comedian_id": "taran-o-sullivan",
+ "name": "Taran O'Sullivan",
+ "clips": 1,
+ "total_views": 921,
+ "total_likes": 0,
+ "avg_views": 921,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "-C2ooDqYP9M",
+  "title": "Going Down Town | Taran O'Sullivan | Craic Den Comedy Club |  #standupcomedy #comedy #funny #jokes",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 921,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 24.4,
+  "r2_clip": "comedians/taran-o-sullivan/clips/taran-o-sullivan-c2oodqyp9m.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "-C2ooDqYP9M",
+   "title": "Going Down Town | Taran O'Sullivan | Craic Den Comedy Club |  #standupcomedy #comedy #funny #jokes",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 921,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 24.4,
+   "r2_clip": "comedians/taran-o-sullivan/clips/taran-o-sullivan-c2oodqyp9m.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

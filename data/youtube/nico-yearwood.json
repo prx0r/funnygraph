@@ -1,0 +1,45 @@
+{
+ "comedian_id": "nico-yearwood",
+ "name": "Nico Yearwood",
+ "channels": {},
+ "clips": 1,
+ "total_views": 2800,
+ "total_likes": 0,
+ "avg_views": 2800,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "uSylcECqzIg",
+  "title": "Hating on Spanish Food | Nico Yearwood | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 87.8,
+  "r2_clip": "comedians/nico-yearwood/clips/nico-yearwood-usylcecqzig.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "uSylcECqzIg",
+   "title": "Hating on Spanish Food | Nico Yearwood | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 87.8,
+   "r2_clip": "comedians/nico-yearwood/clips/nico-yearwood-usylcecqzig.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

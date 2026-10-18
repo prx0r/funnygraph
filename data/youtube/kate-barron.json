@@ -1,0 +1,45 @@
+{
+ "comedian_id": "kate-barron",
+ "name": "Kate Barron",
+ "channels": {},
+ "clips": 1,
+ "total_views": 35,
+ "total_likes": 0,
+ "avg_views": 35,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "9o6J6LtDxHY",
+  "title": "Contact Lenses for Who?! Kate Barron #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 35,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 83.6,
+  "r2_clip": "comedians/kate-barron/clips/kate-barron-9o6j6ltdxhy.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "9o6J6LtDxHY",
+   "title": "Contact Lenses for Who?! Kate Barron #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 35,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 83.6,
+   "r2_clip": "comedians/kate-barron/clips/kate-barron-9o6j6ltdxhy.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

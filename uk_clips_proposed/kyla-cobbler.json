@@ -1,0 +1,44 @@
+{
+ "comedian_id": "kyla-cobbler",
+ "name": "Kyla Cobbler",
+ "clips": 1,
+ "total_views": 2400,
+ "total_likes": 0,
+ "avg_views": 2400,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "LDf9JtMsk1U",
+  "title": "Man Drinks Breast Milk | Kyla Cobbler | Craic Den Comedy Club Dublin | #comedy #crowdwork #standup",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2400,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 97.1,
+  "r2_clip": "comedians/kyla-cobbler/clips/kyla-cobbler-ldf9jtmsk1u.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "LDf9JtMsk1U",
+   "title": "Man Drinks Breast Milk | Kyla Cobbler | Craic Den Comedy Club Dublin | #comedy #crowdwork #standup",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 97.1,
+   "r2_clip": "comedians/kyla-cobbler/clips/kyla-cobbler-ldf9jtmsk1u.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

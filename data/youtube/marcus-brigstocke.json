@@ -1,0 +1,61 @@
+{
+ "comedian_id": "marcus-brigstocke",
+ "name": "Marcus Brigstocke",
+ "channels": {},
+ "clips": 2,
+ "total_views": 177000,
+ "total_likes": 0,
+ "avg_views": 88500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "FeDCBRaXzvI",
+  "title": "Marcus Brigstock Trump Circus",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 155000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 273.1,
+  "r2_clip": "comedians/marcus-brigstocke/clips/marcus-brigstocke-fedcbraxzvi.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "0juKVdmughs",
+   "title": "Boarding School Revenge | Marcus Brigstocke | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 22000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 40.5,
+   "r2_clip": "comedians/marcus-brigstocke/clips/marcus-brigstocke-0jukvdmughs.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "FeDCBRaXzvI",
+   "title": "Marcus Brigstock Trump Circus",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 155000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 273.1,
+   "r2_clip": "comedians/marcus-brigstocke/clips/marcus-brigstocke-fedcbraxzvi.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

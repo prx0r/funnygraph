@@ -1,0 +1,44 @@
+{
+ "comedian_id": "men-s-mental-health",
+ "name": "Men's Mental Health",
+ "clips": 1,
+ "total_views": 254000,
+ "total_likes": 0,
+ "avg_views": 254000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "nW3NTwOHRDo",
+  "title": "Men's Mental Health - Elliot Steele  - Live at The Bearcat  #comedy #standupcomedy #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 254000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 59.3,
+  "r2_clip": "comedians/men-s-mental-health/clips/men-s-mental-health-nw3ntwohrdo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "nW3NTwOHRDo",
+   "title": "Men's Mental Health - Elliot Steele  - Live at The Bearcat  #comedy #standupcomedy #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 254000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 59.3,
+   "r2_clip": "comedians/men-s-mental-health/clips/men-s-mental-health-nw3ntwohrdo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

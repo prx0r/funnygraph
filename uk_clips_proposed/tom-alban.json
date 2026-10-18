@@ -1,0 +1,44 @@
+{
+ "comedian_id": "tom-alban",
+ "name": "Tom Alban",
+ "clips": 1,
+ "total_views": 6900,
+ "total_likes": 0,
+ "avg_views": 6900,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "KeHUeYLAZQs",
+  "title": "Diagnosed as a Millennial | Tom Alban | Live at The Bearcat #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 6900,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 39.1,
+  "r2_clip": "comedians/tom-alban/clips/tom-alban-kehueylazqs.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "KeHUeYLAZQs",
+   "title": "Diagnosed as a Millennial | Tom Alban | Live at The Bearcat #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6900,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 39.1,
+   "r2_clip": "comedians/tom-alban/clips/tom-alban-kehueylazqs.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

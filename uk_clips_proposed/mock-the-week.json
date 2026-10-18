@@ -1,0 +1,60 @@
+{
+ "comedian_id": "mock-the-week",
+ "name": "Mock The Week",
+ "clips": 2,
+ "total_views": 73353,
+ "total_likes": 0,
+ "avg_views": 36676,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "TiqFJ95bYNY",
+  "title": "Greg Davies On His Teaching Experience | Mock The Week",
+  "channel": "Mock The Week",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 50703,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 108.7,
+  "r2_clip": "comedians/mock-the-week/clips/mock-the-week-tiqfj95byny.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "TiqFJ95bYNY",
+   "title": "Greg Davies On His Teaching Experience | Mock The Week",
+   "channel": "Mock The Week",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 50703,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 108.7,
+   "r2_clip": "comedians/mock-the-week/clips/mock-the-week-tiqfj95byny.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "TMB9uTepmZQ",
+   "title": "Greg Davies Real Strange Father Christmas Story | Mock The Week",
+   "channel": "Mock The Week",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 22650,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 142.6,
+   "r2_clip": "comedians/mock-the-week/clips/mock-the-week-tmb9utepmzq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

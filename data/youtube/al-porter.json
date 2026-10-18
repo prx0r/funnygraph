@@ -1,0 +1,45 @@
+{
+ "comedian_id": "al-porter",
+ "name": "Al Porter",
+ "channels": {},
+ "clips": 1,
+ "total_views": 961,
+ "total_likes": 0,
+ "avg_views": 961,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "XRMvflV_AMQ",
+  "title": "You’re Such An ‘Emily’ | Al Porter | #standupcomedy #crowdwork #funny",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 961,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 76.3,
+  "r2_clip": "comedians/al-porter/clips/al-porter-xrmvflv-amq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "XRMvflV_AMQ",
+   "title": "You’re Such An ‘Emily’ | Al Porter | #standupcomedy #crowdwork #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 961,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 76.3,
+   "r2_clip": "comedians/al-porter/clips/al-porter-xrmvflv-amq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

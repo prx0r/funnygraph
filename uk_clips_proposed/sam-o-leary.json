@@ -1,0 +1,44 @@
+{
+ "comedian_id": "sam-o-leary",
+ "name": "Sam O'Leary",
+ "clips": 1,
+ "total_views": 871,
+ "total_likes": 0,
+ "avg_views": 871,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "rh2T17Xmszw",
+  "title": "Chris Takes a Call",
+  "channel": "Sam O'Leary",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 871,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 163.7,
+  "r2_clip": "comedians/sam-o-leary/clips/sam-o-leary-rh2t17xmszw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "rh2T17Xmszw",
+   "title": "Chris Takes a Call",
+   "channel": "Sam O'Leary",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 871,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 163.7,
+   "r2_clip": "comedians/sam-o-leary/clips/sam-o-leary-rh2t17xmszw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

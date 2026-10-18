@@ -1,0 +1,45 @@
+{
+ "comedian_id": "jason-byrne",
+ "name": "Jason Byrne",
+ "channels": {},
+ "clips": 1,
+ "total_views": 21000,
+ "total_likes": 0,
+ "avg_views": 21000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "G-6dW-JAw1A",
+  "title": "Sounds like an episode of Derry Girls 😆",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 21000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 120.1,
+  "r2_clip": "comedians/jason-byrne/clips/jason-byrne-g-6dw-jaw1a.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "G-6dW-JAw1A",
+   "title": "Sounds like an episode of Derry Girls 😆",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 21000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 120.1,
+   "r2_clip": "comedians/jason-byrne/clips/jason-byrne-g-6dw-jaw1a.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

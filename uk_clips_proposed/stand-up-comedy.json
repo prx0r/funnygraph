@@ -1,0 +1,44 @@
+{
+ "comedian_id": "stand-up-comedy",
+ "name": "Stand Up Comedy",
+ "clips": 1,
+ "total_views": 1700,
+ "total_likes": 0,
+ "avg_views": 1700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "0-Y9OYcO-6s",
+  "title": "Phillip Reiss | Stand Up Comedy | A Sign of the Times",
+  "channel": "@phillipreiss",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 11.6,
+  "r2_clip": "comedians/stand-up-comedy/clips/stand-up-comedy-0-y9oyco-6s.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "0-Y9OYcO-6s",
+   "title": "Phillip Reiss | Stand Up Comedy | A Sign of the Times",
+   "channel": "@phillipreiss",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 11.6,
+   "r2_clip": "comedians/stand-up-comedy/clips/stand-up-comedy-0-y9oyco-6s.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

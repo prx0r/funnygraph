@@ -1,0 +1,60 @@
+{
+ "comedian_id": "jason-manford-muddle-class",
+ "name": "Jason Manford: Muddle Class",
+ "clips": 2,
+ "total_views": 24268,
+ "total_likes": 0,
+ "avg_views": 12134,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "8KgEQBvfPm4",
+  "title": "When Parents Become Grandparents | Jason Manford: Muddle Class",
+  "channel": "Jason Manford",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 20035,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 98.9,
+  "r2_clip": "comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-8kgeqbvfpm4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "ZtJ4eznjmdQ",
+   "title": "Core Childhood Memories Unlocked | Jason Manford: Muddle Class",
+   "channel": "Jason Manford",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4233,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 177.3,
+   "r2_clip": "comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-ztj4eznjmdq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "8KgEQBvfPm4",
+   "title": "When Parents Become Grandparents | Jason Manford: Muddle Class",
+   "channel": "Jason Manford",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 20035,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 98.9,
+   "r2_clip": "comedians/jason-manford-muddle-class/clips/jason-manford-muddle-class-8kgeqbvfpm4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

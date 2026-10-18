@@ -1,0 +1,44 @@
+{
+ "comedian_id": "russell-s-greatest-heckle-yet",
+ "name": "Russell's Greatest Heckle Yet",
+ "clips": 1,
+ "total_views": 100650,
+ "total_likes": 0,
+ "avg_views": 100650,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "AA7WBKN6IOU",
+  "title": "Russell's Greatest Heckle Yet | Russell Howard Stands Up to the World",
+  "channel": "Russell Howard",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 100650,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 102.7,
+  "r2_clip": "comedians/russell-s-greatest-heckle-yet/clips/russell-s-greatest-heckle-yet-aa7wbkn6iou.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "AA7WBKN6IOU",
+   "title": "Russell's Greatest Heckle Yet | Russell Howard Stands Up to the World",
+   "channel": "Russell Howard",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 100650,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 102.7,
+   "r2_clip": "comedians/russell-s-greatest-heckle-yet/clips/russell-s-greatest-heckle-yet-aa7wbkn6iou.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

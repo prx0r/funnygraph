@@ -1,0 +1,44 @@
+{
+ "comedian_id": "drunk-aircraft-mechanics",
+ "name": "Drunk Aircraft Mechanics",
+ "clips": 1,
+ "total_views": 813,
+ "total_likes": 0,
+ "avg_views": 813,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "RVJOKYwXnnM",
+  "title": "Damo Clark | Drunk Aircraft Mechanics #crowdwork #comedy #standup",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 813,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 47.7,
+  "r2_clip": "comedians/drunk-aircraft-mechanics/clips/drunk-aircraft-mechanics-rvjokywxnnm.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "RVJOKYwXnnM",
+   "title": "Damo Clark | Drunk Aircraft Mechanics #crowdwork #comedy #standup",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 813,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 47.7,
+   "r2_clip": "comedians/drunk-aircraft-mechanics/clips/drunk-aircraft-mechanics-rvjokywxnnm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

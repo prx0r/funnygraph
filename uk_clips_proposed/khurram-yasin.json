@@ -1,0 +1,44 @@
+{
+ "comedian_id": "khurram-yasin",
+ "name": "Khurram Yasin",
+ "clips": 1,
+ "total_views": 293228,
+ "total_likes": 0,
+ "avg_views": 293228,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "tZrCMM8SJ14",
+  "title": "Jason Manford Liverpool",
+  "channel": "Khurram Yasin",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 293228,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 83.6,
+  "r2_clip": "comedians/khurram-yasin/clips/khurram-yasin-tzrcmm8sj14.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "tZrCMM8SJ14",
+   "title": "Jason Manford Liverpool",
+   "channel": "Khurram Yasin",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 293228,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 83.6,
+   "r2_clip": "comedians/khurram-yasin/clips/khurram-yasin-tzrcmm8sj14.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

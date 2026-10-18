@@ -1,0 +1,44 @@
+{
+ "comedian_id": "edwin-junior",
+ "name": "EDWIN JUNIOR",
+ "clips": 1,
+ "total_views": 89,
+ "total_likes": 0,
+ "avg_views": 89,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "b_qoZvE9Mps",
+  "title": "EDWIN JUNIOR - PERVERT IN AUDIENCE",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 89,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 37.7,
+  "r2_clip": "comedians/edwin-junior/clips/edwin-junior-b-qozve9mps.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "b_qoZvE9Mps",
+   "title": "EDWIN JUNIOR - PERVERT IN AUDIENCE",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 89,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 37.7,
+   "r2_clip": "comedians/edwin-junior/clips/edwin-junior-b-qozve9mps.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

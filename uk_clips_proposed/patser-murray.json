@@ -1,0 +1,60 @@
+{
+ "comedian_id": "patser-murray",
+ "name": "Patser Murray",
+ "clips": 2,
+ "total_views": 6500,
+ "total_likes": 0,
+ "avg_views": 3250,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "mGhizsMqkAs",
+  "title": "English Hecklers | Patser Murray | Craic Den Comedy Club #standup #comedy #irish #hecklers #dublin",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 3700,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 24.7,
+  "r2_clip": "comedians/patser-murray/clips/patser-murray-mghizsmqkas.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "mGhizsMqkAs",
+   "title": "English Hecklers | Patser Murray | Craic Den Comedy Club #standup #comedy #irish #hecklers #dublin",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 3700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 24.7,
+   "r2_clip": "comedians/patser-murray/clips/patser-murray-mghizsmqkas.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "8qdeAO_O5QM",
+   "title": "St Patrick Was Welsh | Patser Murray | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 84.1,
+   "r2_clip": "comedians/patser-murray/clips/patser-murray-8qdeao-o5qm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

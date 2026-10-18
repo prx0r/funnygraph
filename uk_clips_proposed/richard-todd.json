@@ -1,0 +1,44 @@
+{
+ "comedian_id": "richard-todd",
+ "name": "Richard Todd",
+ "clips": 1,
+ "total_views": 2100,
+ "total_likes": 0,
+ "avg_views": 2100,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "goGbuOUlQ-U",
+  "title": "Body Politics | Richard Todd | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 52.6,
+  "r2_clip": "comedians/richard-todd/clips/richard-todd-gogbuoulq-u.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "goGbuOUlQ-U",
+   "title": "Body Politics | Richard Todd | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 52.6,
+   "r2_clip": "comedians/richard-todd/clips/richard-todd-gogbuoulq-u.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

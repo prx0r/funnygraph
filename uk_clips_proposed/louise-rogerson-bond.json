@@ -1,0 +1,44 @@
+{
+ "comedian_id": "louise-rogerson-bond",
+ "name": "Louise Rogerson-Bond",
+ "clips": 1,
+ "total_views": 270757,
+ "total_likes": 0,
+ "avg_views": 270757,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "yQ6j-hZtfNE",
+  "title": "Peter Kay Sweating Cobs",
+  "channel": "Louise Rogerson-Bond",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 270757,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 29.0,
+  "r2_clip": "comedians/louise-rogerson-bond/clips/louise-rogerson-bond-yq6j-hztfne.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "yQ6j-hZtfNE",
+   "title": "Peter Kay Sweating Cobs",
+   "channel": "Louise Rogerson-Bond",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 270757,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 29.0,
+   "r2_clip": "comedians/louise-rogerson-bond/clips/louise-rogerson-bond-yq6j-hztfne.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

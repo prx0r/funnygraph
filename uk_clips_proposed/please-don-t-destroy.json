@@ -1,0 +1,44 @@
+{
+ "comedian_id": "please-don-t-destroy",
+ "name": "Please Don’t Destroy",
+ "clips": 1,
+ "total_views": 2499817,
+ "total_likes": 0,
+ "avg_views": 2499817,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Y6IUuxM_qlw",
+  "title": "Please Don’t Destroy - Three Normal Goths - SNL",
+  "channel": "Saturday Night Live",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2499817,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 141.7,
+  "r2_clip": "comedians/please-don-t-destroy/clips/please-don-t-destroy-y6iuuxm_qlw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Y6IUuxM_qlw",
+   "title": "Please Don’t Destroy - Three Normal Goths - SNL",
+   "channel": "Saturday Night Live",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2499817,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 141.7,
+   "r2_clip": "comedians/please-don-t-destroy/clips/please-don-t-destroy-y6iuuxm_qlw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

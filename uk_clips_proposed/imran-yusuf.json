@@ -1,0 +1,44 @@
+{
+ "comedian_id": "imran-yusuf",
+ "name": "Imran Yusuf",
+ "clips": 1,
+ "total_views": 12000,
+ "total_likes": 0,
+ "avg_views": 12000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "3SA9PcY2hk0",
+  "title": "Farage, Brexit & Jesus | Imran Yusuf | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 12000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 40.8,
+  "r2_clip": "comedians/imran-yusuf/clips/imran-yusuf-3sa9pcy2hk0.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "3SA9PcY2hk0",
+   "title": "Farage, Brexit & Jesus | Imran Yusuf | Live at The Bearcat  #standupcomedy #comedy #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 12000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 40.8,
+   "r2_clip": "comedians/imran-yusuf/clips/imran-yusuf-3sa9pcy2hk0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

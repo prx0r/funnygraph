@@ -1,0 +1,45 @@
+{
+ "comedian_id": "aurie-styla",
+ "name": "Aurie Styla",
+ "channels": {},
+ "clips": 1,
+ "total_views": 4930,
+ "total_likes": 0,
+ "avg_views": 4930,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Pzr7G4uAU7g",
+  "title": "Testing Gen Z in The Old Ways! 😂😂",
+  "channel": "Aurie Styla",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 4930,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 180.6,
+  "r2_clip": "comedians/aurie-styla/clips/aurie-styla-pzr7g4uau7g.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Pzr7G4uAU7g",
+   "title": "Testing Gen Z in The Old Ways! 😂😂",
+   "channel": "Aurie Styla",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4930,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 180.6,
+   "r2_clip": "comedians/aurie-styla/clips/aurie-styla-pzr7g4uau7g.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

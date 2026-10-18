@@ -1,0 +1,44 @@
+{
+ "comedian_id": "british-comedy-guide",
+ "name": "British Comedy Guide",
+ "clips": 1,
+ "total_views": 1494371,
+ "total_likes": 0,
+ "avg_views": 1494371,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "5zsdZB93t-8",
+  "title": "Russell Howard gets slammed by an audience member",
+  "channel": "British Comedy Guide",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1494371,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 66.9,
+  "r2_clip": "comedians/british-comedy-guide/clips/british-comedy-guide-5zsdzb93t-8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "5zsdZB93t-8",
+   "title": "Russell Howard gets slammed by an audience member",
+   "channel": "British Comedy Guide",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1494371,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 66.9,
+   "r2_clip": "comedians/british-comedy-guide/clips/british-comedy-guide-5zsdzb93t-8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

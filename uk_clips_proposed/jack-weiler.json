@@ -1,0 +1,44 @@
+{
+ "comedian_id": "jack-weiler",
+ "name": "Jack Weiler",
+ "clips": 1,
+ "total_views": 17000,
+ "total_likes": 0,
+ "avg_views": 17000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "ammnntW0tps",
+  "title": "My Homophobic Therapist | Jack Weiler| Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 17000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 37.0,
+  "r2_clip": "comedians/jack-weiler/clips/jack-weiler-ammnntw0tps.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "ammnntW0tps",
+   "title": "My Homophobic Therapist | Jack Weiler| Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 17000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 37.0,
+   "r2_clip": "comedians/jack-weiler/clips/jack-weiler-ammnntw0tps.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

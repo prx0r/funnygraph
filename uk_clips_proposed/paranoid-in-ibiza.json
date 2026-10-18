@@ -1,0 +1,44 @@
+{
+ "comedian_id": "paranoid-in-ibiza",
+ "name": "PARANOID IN IBIZA",
+ "clips": 1,
+ "total_views": 67000,
+ "total_likes": 0,
+ "avg_views": 67000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "pih38YYeY4o",
+  "title": "PARANOID IN IBIZA | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 67000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 113.4,
+  "r2_clip": "comedians/paranoid-in-ibiza/clips/paranoid-in-ibiza-pih38yyey4o.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "pih38YYeY4o",
+   "title": "PARANOID IN IBIZA | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 67000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 113.4,
+   "r2_clip": "comedians/paranoid-in-ibiza/clips/paranoid-in-ibiza-pih38yyey4o.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

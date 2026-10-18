@@ -1,0 +1,60 @@
+{
+ "comedian_id": "peter-flanagan",
+ "name": "Peter Flanagan",
+ "clips": 2,
+ "total_views": 31200,
+ "total_likes": 0,
+ "avg_views": 15600,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "MkSAzoEwFBg",
+  "title": "Outrageous Immigration Joke | Peter Flanagan | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 26000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 25.9,
+  "r2_clip": "comedians/peter-flanagan/clips/peter-flanagan-mksazoewfbg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Ipo3je6a7k4",
+   "title": "India vs Britain | Peter Flanagan | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5200,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 63.8,
+   "r2_clip": "comedians/peter-flanagan/clips/peter-flanagan-ipo3je6a7k4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "MkSAzoEwFBg",
+   "title": "Outrageous Immigration Joke | Peter Flanagan | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 26000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 25.9,
+   "r2_clip": "comedians/peter-flanagan/clips/peter-flanagan-mksazoewfbg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

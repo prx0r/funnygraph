@@ -1,0 +1,44 @@
+{
+ "comedian_id": "new-p-rn-category",
+ "name": "New P*rn Category",
+ "clips": 1,
+ "total_views": 3200,
+ "total_likes": 0,
+ "avg_views": 3200,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "6ha_kTrZvp4",
+  "title": "New P*rn Category - Tatiana Frank",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 3200,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 76.2,
+  "r2_clip": "comedians/new-p-rn-category/clips/new-p-rn-category-6ha-ktrzvp4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "6ha_kTrZvp4",
+   "title": "New P*rn Category - Tatiana Frank",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 3200,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 76.2,
+   "r2_clip": "comedians/new-p-rn-category/clips/new-p-rn-category-6ha-ktrzvp4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

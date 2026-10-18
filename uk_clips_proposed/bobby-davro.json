@@ -1,0 +1,60 @@
+{
+ "comedian_id": "bobby-davro",
+ "name": "Bobby Davro",
+ "clips": 2,
+ "total_views": 2698000,
+ "total_likes": 0,
+ "avg_views": 1349000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "SzybD0sbwnY",
+  "title": "Brutal Prince Andrew Jokes | Bobby Davro | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2500000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 33.5,
+  "r2_clip": "comedians/bobby-davro/clips/bobby-davro-szybd0sbwny.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "KzHPDycQjpE",
+   "title": "Bobby's Still Got It | Bobby Davro | Live at The Bearcat  #standupcomedy #comedian #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 198000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 34.1,
+   "r2_clip": "comedians/bobby-davro/clips/bobby-davro-kzhpdycqjpe.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "SzybD0sbwnY",
+   "title": "Brutal Prince Andrew Jokes | Bobby Davro | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2500000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 33.5,
+   "r2_clip": "comedians/bobby-davro/clips/bobby-davro-szybd0sbwny.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

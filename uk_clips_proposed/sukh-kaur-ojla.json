@@ -1,0 +1,44 @@
+{
+ "comedian_id": "sukh-kaur-ojla",
+ "name": "Sukh Kaur Ojla",
+ "clips": 1,
+ "total_views": 33000,
+ "total_likes": 0,
+ "avg_views": 33000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "dwZESMKwU_0",
+  "title": "Legend has it he’s still waiting for that roti 😔 (Sukh Kaur Ojla: The Aunty Years)",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 33000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 81.4,
+  "r2_clip": "comedians/sukh-kaur-ojla/clips/sukh-kaur-ojla-dwzesmkwu-0.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "dwZESMKwU_0",
+   "title": "Legend has it he’s still waiting for that roti 😔 (Sukh Kaur Ojla: The Aunty Years)",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 33000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 81.4,
+   "r2_clip": "comedians/sukh-kaur-ojla/clips/sukh-kaur-ojla-dwzesmkwu-0.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

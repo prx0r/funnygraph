@@ -1,0 +1,44 @@
+{
+ "comedian_id": "urooj-ashfaq",
+ "name": "Urooj Ashfaq",
+ "clips": 1,
+ "total_views": 5387,
+ "total_likes": 0,
+ "avg_views": 5387,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "C6ETg-ntQIc",
+  "title": "Catch Urooj Ashfaq Live at Arré Siren | 10th & 11th Mar in Mumbai | Tickets on BookMyShow",
+  "channel": "Arré",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 5387,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 44.3,
+  "r2_clip": "comedians/urooj-ashfaq/clips/urooj-ashfaq-c6etg-ntqic.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "C6ETg-ntQIc",
+   "title": "Catch Urooj Ashfaq Live at Arré Siren | 10th & 11th Mar in Mumbai | Tickets on BookMyShow",
+   "channel": "Arré",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5387,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 44.3,
+   "r2_clip": "comedians/urooj-ashfaq/clips/urooj-ashfaq-c6etg-ntqic.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

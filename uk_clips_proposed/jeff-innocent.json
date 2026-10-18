@@ -1,0 +1,44 @@
+{
+ "comedian_id": "jeff-innocent",
+ "name": "Jeff Innocent",
+ "clips": 1,
+ "total_views": 36000,
+ "total_likes": 0,
+ "avg_views": 36000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "0IvW79b84wg",
+  "title": "Grandad Fashion Tips | Jeff Innocent | Live at The Bearcat #standupcomedy  #comedy #funny #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 36000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 53.1,
+  "r2_clip": "comedians/jeff-innocent/clips/jeff-innocent-0ivw79b84wg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "0IvW79b84wg",
+   "title": "Grandad Fashion Tips | Jeff Innocent | Live at The Bearcat #standupcomedy  #comedy #funny #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 36000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 53.1,
+   "r2_clip": "comedians/jeff-innocent/clips/jeff-innocent-0ivw79b84wg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

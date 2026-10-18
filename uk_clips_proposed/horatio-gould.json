@@ -1,0 +1,44 @@
+{
+ "comedian_id": "horatio-gould",
+ "name": "Horatio Gould",
+ "clips": 1,
+ "total_views": 1100,
+ "total_likes": 0,
+ "avg_views": 1100,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "RwGmmeCLhEg",
+  "title": "Sydney Sweeney Scandal | Horatio Gould | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 59.4,
+  "r2_clip": "comedians/horatio-gould/clips/horatio-gould-rwgmmeclheg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "RwGmmeCLhEg",
+   "title": "Sydney Sweeney Scandal | Horatio Gould | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 59.4,
+   "r2_clip": "comedians/horatio-gould/clips/horatio-gould-rwgmmeclheg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

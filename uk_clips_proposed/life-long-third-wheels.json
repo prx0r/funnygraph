@@ -1,0 +1,44 @@
+{
+ "comedian_id": "life-long-third-wheels",
+ "name": "Life Long Third Wheels!",
+ "clips": 1,
+ "total_views": 10000,
+ "total_likes": 0,
+ "avg_views": 10000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "PrcJIRbs8k4",
+  "title": "Life Long Third Wheels! - Jeff Scheen",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 10000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 113.2,
+  "r2_clip": "comedians/life-long-third-wheels/clips/life-long-third-wheels-prcjirbs8k4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "PrcJIRbs8k4",
+   "title": "Life Long Third Wheels! - Jeff Scheen",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 113.2,
+   "r2_clip": "comedians/life-long-third-wheels/clips/life-long-third-wheels-prcjirbs8k4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

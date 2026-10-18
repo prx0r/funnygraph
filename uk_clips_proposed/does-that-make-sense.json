@@ -1,0 +1,44 @@
+{
+ "comedian_id": "does-that-make-sense",
+ "name": "Does That Make Sense?",
+ "clips": 1,
+ "total_views": 5100,
+ "total_likes": 0,
+ "avg_views": 5100,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "uisxiYwQVFg",
+  "title": "Does That Make Sense? - Addy Van Der Borgh - Live at The Bearcat  #comedy #standupcomedy #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 5100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 45.2,
+  "r2_clip": "comedians/does-that-make-sense/clips/does-that-make-sense-uisxiywqvfg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "uisxiYwQVFg",
+   "title": "Does That Make Sense? - Addy Van Der Borgh - Live at The Bearcat  #comedy #standupcomedy #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 45.2,
+   "r2_clip": "comedians/does-that-make-sense/clips/does-that-make-sense-uisxiywqvfg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "vega-lupina",
+ "name": "Vega Lupina",
+ "clips": 1,
+ "total_views": 371041,
+ "total_likes": 0,
+ "avg_views": 371041,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "f8Micrt3hDw",
+  "title": "Taskmaster S9E7 - Greg's Surprise for Ed Gamble",
+  "channel": "Vega Lupina",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 371041,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 90.7,
+  "r2_clip": "comedians/vega-lupina/clips/vega-lupina-f8micrt3hdw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "f8Micrt3hDw",
+   "title": "Taskmaster S9E7 - Greg's Surprise for Ed Gamble",
+   "channel": "Vega Lupina",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 371041,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 90.7,
+   "r2_clip": "comedians/vega-lupina/clips/vega-lupina-f8micrt3hdw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

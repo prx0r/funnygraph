@@ -1,0 +1,44 @@
+{
+ "comedian_id": "dave-landau",
+ "name": "Dave Landau",
+ "clips": 1,
+ "total_views": 17000,
+ "total_likes": 0,
+ "avg_views": 17000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "1DEfFHzjNN8",
+  "title": "Dave Landau is A Prison 10. Watch now on NextUp Comedy! #standupcomedy #comedy #davelandau #standup",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 17000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 35.7,
+  "r2_clip": "comedians/dave-landau/clips/dave-landau-1deffhzjnn8.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "1DEfFHzjNN8",
+   "title": "Dave Landau is A Prison 10. Watch now on NextUp Comedy! #standupcomedy #comedy #davelandau #standup",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 17000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 35.7,
+   "r2_clip": "comedians/dave-landau/clips/dave-landau-1deffhzjnn8.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

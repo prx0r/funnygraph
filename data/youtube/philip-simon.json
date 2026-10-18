@@ -1,0 +1,45 @@
+{
+ "comedian_id": "philip-simon",
+ "name": "Philip Simon",
+ "channels": {},
+ "clips": 1,
+ "total_views": 12000,
+ "total_likes": 0,
+ "avg_views": 12000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "1TVcJWimuEA",
+  "title": "Worst Wedding Present Ever | Philip Simon | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 12000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 26.1,
+  "r2_clip": "comedians/philip-simon/clips/philip-simon-1tvcjwimuea.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "1TVcJWimuEA",
+   "title": "Worst Wedding Present Ever | Philip Simon | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 12000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 26.1,
+   "r2_clip": "comedians/philip-simon/clips/philip-simon-1tvcjwimuea.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

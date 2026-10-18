@@ -1,0 +1,61 @@
+{
+ "comedian_id": "nick-elleray",
+ "name": "Nick Elleray",
+ "channels": {},
+ "clips": 2,
+ "total_views": 177000,
+ "total_likes": 0,
+ "avg_views": 88500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "yHANe9xKYTk",
+  "title": "Quit Drinking, Still Poor! | Nick Elleray | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 167000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 43.9,
+  "r2_clip": "comedians/nick-elleray/clips/nick-elleray-yhane9xkytk.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "K5q9xtQ6xaE",
+   "title": "Dating Younger Women | Nick Elleray | Live at The Bearcat  #standupcomedy #comedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 10000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 36.4,
+   "r2_clip": "comedians/nick-elleray/clips/nick-elleray-k5q9xtq6xae.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "yHANe9xKYTk",
+   "title": "Quit Drinking, Still Poor! | Nick Elleray | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 167000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 43.9,
+   "r2_clip": "comedians/nick-elleray/clips/nick-elleray-yhane9xkytk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

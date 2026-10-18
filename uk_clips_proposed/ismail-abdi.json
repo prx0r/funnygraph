@@ -1,0 +1,44 @@
+{
+ "comedian_id": "ismail-abdi",
+ "name": "Ismail Abdi",
+ "clips": 1,
+ "total_views": 5200,
+ "total_likes": 0,
+ "avg_views": 5200,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "D_CA6pzXU7A",
+  "title": "The only black kid in school| Ismail Abdi | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 5200,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 29.0,
+  "r2_clip": "comedians/ismail-abdi/clips/ismail-abdi-d-ca6pzxu7a.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "D_CA6pzXU7A",
+   "title": "The only black kid in school| Ismail Abdi | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5200,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 29.0,
+   "r2_clip": "comedians/ismail-abdi/clips/ismail-abdi-d-ca6pzxu7a.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "roman-harris",
+ "name": "ROMAN HARRIS",
+ "clips": 1,
+ "total_views": 1300,
+ "total_likes": 0,
+ "avg_views": 1300,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "GVlWQrtuRPs",
+  "title": "ROMAN HARRIS - POETRY PICK UP LINE",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1300,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 47.8,
+  "r2_clip": "comedians/roman-harris/clips/roman-harris-gvlwqrturps.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "GVlWQrtuRPs",
+   "title": "ROMAN HARRIS - POETRY PICK UP LINE",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 47.8,
+   "r2_clip": "comedians/roman-harris/clips/roman-harris-gvlwqrturps.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

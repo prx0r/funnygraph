@@ -1,0 +1,60 @@
+{
+ "comedian_id": "john-lynn",
+ "name": "John Lynn",
+ "clips": 2,
+ "total_views": 2800,
+ "total_likes": 0,
+ "avg_views": 1400,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "kqXjPwHSjwQ",
+  "title": "Did It Again John Boy | John Lynn | Craic Den Comedy Club",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 75.4,
+  "r2_clip": "comedians/john-lynn/clips/john-lynn-kqxjpwhsjwq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "kqXjPwHSjwQ",
+   "title": "Did It Again John Boy | John Lynn | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 75.4,
+   "r2_clip": "comedians/john-lynn/clips/john-lynn-kqxjpwhsjwq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "JrHZv9_OiAk",
+   "title": "Vintage Pubes | John Lynn | Craic Den Comedy Club",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 85.9,
+   "r2_clip": "comedians/john-lynn/clips/john-lynn-jrhzv9-oiak.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "russell-howard-s-good-news",
+ "name": "Russell Howard's good news",
+ "clips": 1,
+ "total_views": 1212173,
+ "total_likes": 0,
+ "avg_views": 1212173,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "AlcPgOZpZFM",
+  "title": "Russell Howard's good news - Ain't nobody got time for that",
+  "channel": "RusselHowardCentral",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1212173,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 110.6,
+  "r2_clip": "comedians/russell-howard-s-good-news/clips/russell-howard-s-good-news-alcpgozpzfm.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "AlcPgOZpZFM",
+   "title": "Russell Howard's good news - Ain't nobody got time for that",
+   "channel": "RusselHowardCentral",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1212173,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 110.6,
+   "r2_clip": "comedians/russell-howard-s-good-news/clips/russell-howard-s-good-news-alcpgozpzfm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

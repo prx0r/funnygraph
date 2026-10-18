@@ -1,0 +1,44 @@
+{
+ "comedian_id": "frances-keyton",
+ "name": "FRANCES KEYTON",
+ "clips": 1,
+ "total_views": 126,
+ "total_likes": 0,
+ "avg_views": 126,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "FidzjOrK6KY",
+  "title": "FRANCES KEYTON - VAGINA MUSEUM",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 126,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 30.1,
+  "r2_clip": "comedians/frances-keyton/clips/frances-keyton-fidzjork6ky.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "FidzjOrK6KY",
+   "title": "FRANCES KEYTON - VAGINA MUSEUM",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 126,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 30.1,
+   "r2_clip": "comedians/frances-keyton/clips/frances-keyton-fidzjork6ky.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

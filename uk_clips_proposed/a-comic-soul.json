@@ -1,0 +1,44 @@
+{
+ "comedian_id": "a-comic-soul",
+ "name": "A Comic Soul",
+ "clips": 1,
+ "total_views": 27085,
+ "total_likes": 0,
+ "avg_views": 27085,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "OJofi1MTQXM",
+  "title": "Busted By The Weed Skills - Kevin Bridges",
+  "channel": "A Comic Soul",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 27085,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 121.6,
+  "r2_clip": "comedians/a-comic-soul/clips/a-comic-soul-ojofi1mtqxm.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "OJofi1MTQXM",
+   "title": "Busted By The Weed Skills - Kevin Bridges",
+   "channel": "A Comic Soul",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 27085,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 121.6,
+   "r2_clip": "comedians/a-comic-soul/clips/a-comic-soul-ojofi1mtqxm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

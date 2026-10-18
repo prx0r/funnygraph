@@ -1,0 +1,44 @@
+{
+ "comedian_id": "hating-on-messi",
+ "name": "Hating on Messi",
+ "clips": 1,
+ "total_views": 18000,
+ "total_likes": 0,
+ "avg_views": 18000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Zsp8erxrYm4",
+  "title": "Hating on Messi | | Top Secret Comedy Club",
+  "channel": "@TheTopSecretComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 18000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 27.7,
+  "r2_clip": "comedians/hating-on-messi/clips/hating-on-messi-zsp8erxrym4.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Zsp8erxrYm4",
+   "title": "Hating on Messi | | Top Secret Comedy Club",
+   "channel": "@TheTopSecretComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 18000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 27.7,
+   "r2_clip": "comedians/hating-on-messi/clips/hating-on-messi-zsp8erxrym4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

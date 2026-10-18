@@ -1,0 +1,44 @@
+{
+ "comedian_id": "cats-does-countdown",
+ "name": "Cats Does Countdown",
+ "clips": 1,
+ "total_views": 30106,
+ "total_likes": 0,
+ "avg_views": 30106,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "VJgQnhmXLtE",
+  "title": "Spencer Jones - \"Bricks and Morter\" | Cats Does Countdown",
+  "channel": "Chuffed to Bits",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 30106,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 103.4,
+  "r2_clip": "comedians/cats-does-countdown/clips/cats-does-countdown-vjgqnhmxlte.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "VJgQnhmXLtE",
+   "title": "Spencer Jones - \"Bricks and Morter\" | Cats Does Countdown",
+   "channel": "Chuffed to Bits",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 30106,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 103.4,
+   "r2_clip": "comedians/cats-does-countdown/clips/cats-does-countdown-vjgqnhmxlte.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

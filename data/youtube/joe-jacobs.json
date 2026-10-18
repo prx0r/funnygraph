@@ -1,0 +1,45 @@
+{
+ "comedian_id": "joe-jacobs",
+ "name": "Joe Jacobs",
+ "channels": {},
+ "clips": 1,
+ "total_views": 7900,
+ "total_likes": 0,
+ "avg_views": 7900,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "MAX-X48bMjw",
+  "title": "Modern Relationship Nonsense | Joe Jacobs | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 7900,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 28.2,
+  "r2_clip": "comedians/joe-jacobs/clips/joe-jacobs-max-x48bmjw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "MAX-X48bMjw",
+   "title": "Modern Relationship Nonsense | Joe Jacobs | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 7900,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 28.2,
+   "r2_clip": "comedians/joe-jacobs/clips/joe-jacobs-max-x48bmjw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "official-trailer-hd",
+ "name": "Official Trailer [HD]",
+ "clips": 1,
+ "total_views": 81077,
+ "total_likes": 0,
+ "avg_views": 81077,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "vwVyAYc0Qig",
+  "title": "Greg Davies: You Magnificent Beast | Official Trailer [HD] | Netflix",
+  "channel": "Netflix",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 81077,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 53.1,
+  "r2_clip": "comedians/official-trailer-hd/clips/official-trailer-hd-vwvyayc0qig.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "vwVyAYc0Qig",
+   "title": "Greg Davies: You Magnificent Beast | Official Trailer [HD] | Netflix",
+   "channel": "Netflix",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 81077,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 53.1,
+   "r2_clip": "comedians/official-trailer-hd/clips/official-trailer-hd-vwvyayc0qig.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

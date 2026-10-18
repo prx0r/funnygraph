@@ -1,0 +1,44 @@
+{
+ "comedian_id": "arielle-souma",
+ "name": "Arielle Souma",
+ "clips": 1,
+ "total_views": 180,
+ "total_likes": 0,
+ "avg_views": 180,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "VlBZCJTGQ9g",
+  "title": "50 Years Old | Arielle Souma @ Angel Comedy Club London | #standupcomedy",
+  "channel": "@angelcomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 180,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 22.3,
+  "r2_clip": "comedians/arielle-souma/clips/arielle-souma-vlbzcjtgq9g.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "VlBZCJTGQ9g",
+   "title": "50 Years Old | Arielle Souma @ Angel Comedy Club London | #standupcomedy",
+   "channel": "@angelcomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 180,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 22.3,
+   "r2_clip": "comedians/arielle-souma/clips/arielle-souma-vlbzcjtgq9g.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

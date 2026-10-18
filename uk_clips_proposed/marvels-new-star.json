@@ -1,0 +1,44 @@
+{
+ "comedian_id": "marvels-new-star",
+ "name": "MARVELS NEW STAR?",
+ "clips": 1,
+ "total_views": 13000,
+ "total_likes": 0,
+ "avg_views": 13000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "5NOD77H6Jwo",
+  "title": "MARVELS NEW STAR? | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 13000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 105.2,
+  "r2_clip": "comedians/marvels-new-star/clips/marvels-new-star-5nod77h6jwo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "5NOD77H6Jwo",
+   "title": "MARVELS NEW STAR? | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 13000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 105.2,
+   "r2_clip": "comedians/marvels-new-star/clips/marvels-new-star-5nod77h6jwo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

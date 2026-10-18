@@ -1,0 +1,44 @@
+{
+ "comedian_id": "shawn-uyosa",
+ "name": "Shawn Uyosa",
+ "clips": 1,
+ "total_views": 1800,
+ "total_likes": 0,
+ "avg_views": 1800,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "vOBjiogaPCY",
+  "title": "Guns | Shawn Uyosa | Craic Den Comedy Club | #america #comedy #standupcomedy #funny #irish",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 45.1,
+  "r2_clip": "comedians/shawn-uyosa/clips/shawn-uyosa-vobjiogapcy.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "vOBjiogaPCY",
+   "title": "Guns | Shawn Uyosa | Craic Den Comedy Club | #america #comedy #standupcomedy #funny #irish",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 45.1,
+   "r2_clip": "comedians/shawn-uyosa/clips/shawn-uyosa-vobjiogapcy.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

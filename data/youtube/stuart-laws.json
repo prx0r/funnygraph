@@ -1,0 +1,45 @@
+{
+ "comedian_id": "stuart-laws",
+ "name": "Stuart Laws",
+ "channels": {},
+ "clips": 1,
+ "total_views": 212,
+ "total_likes": 0,
+ "avg_views": 212,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "JUTBG7OPRio",
+  "title": "GIANT Gummy Bears TRUTH | Stuart Laws | Sketch comedy",
+  "channel": "Stuart Laws",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 212,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 154.2,
+  "r2_clip": "comedians/stuart-laws/clips/stuart-laws-jutbg7oprio.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "JUTBG7OPRio",
+   "title": "GIANT Gummy Bears TRUTH | Stuart Laws | Sketch comedy",
+   "channel": "Stuart Laws",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 212,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 154.2,
+   "r2_clip": "comedians/stuart-laws/clips/stuart-laws-jutbg7oprio.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "jack-shortall",
+ "name": "Jack Shortall",
+ "clips": 1,
+ "total_views": 12000,
+ "total_likes": 0,
+ "avg_views": 12000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "WtCb7ICUNmc",
+  "title": "Irish Boarding School | Jack Shortall | Craic Den Comedy Club #standupcomedy #irish #comedy #standup",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 12000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 42.4,
+  "r2_clip": "comedians/jack-shortall/clips/jack-shortall-wtcb7icunmc.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "WtCb7ICUNmc",
+   "title": "Irish Boarding School | Jack Shortall | Craic Den Comedy Club #standupcomedy #irish #comedy #standup",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 12000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 42.4,
+   "r2_clip": "comedians/jack-shortall/clips/jack-shortall-wtcb7icunmc.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

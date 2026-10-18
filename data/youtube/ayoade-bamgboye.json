@@ -1,0 +1,45 @@
+{
+ "comedian_id": "ayoade-bamgboye",
+ "name": "Ayoade Bamgboye",
+ "channels": {},
+ "clips": 1,
+ "total_views": 177000,
+ "total_likes": 0,
+ "avg_views": 177000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "694YH_YLELA",
+  "title": "Send this to your twin to thank them 👯 (Ayoade Bamgboye: Swings and Roundabouts)",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 177000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 77.2,
+  "r2_clip": "comedians/ayoade-bamgboye/clips/ayoade-bamgboye-694yh-ylela.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "694YH_YLELA",
+   "title": "Send this to your twin to thank them 👯 (Ayoade Bamgboye: Swings and Roundabouts)",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 177000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 77.2,
+   "r2_clip": "comedians/ayoade-bamgboye/clips/ayoade-bamgboye-694yh-ylela.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

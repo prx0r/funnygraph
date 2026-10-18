@@ -1,0 +1,44 @@
+{
+ "comedian_id": "kyle-legacy",
+ "name": "Kyle Legacy",
+ "clips": 1,
+ "total_views": 254,
+ "total_likes": 0,
+ "avg_views": 254,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "VDmhQzHENHc",
+  "title": "Comedian Dan Tiernan riffs a little different from the rest of us 🐕🤣 Watch full episode #106 now 📺",
+  "channel": "Kyle Legacy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 254,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 32.3,
+  "r2_clip": "comedians/kyle-legacy/clips/kyle-legacy-vdmhqzhenhc.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "VDmhQzHENHc",
+   "title": "Comedian Dan Tiernan riffs a little different from the rest of us 🐕🤣 Watch full episode #106 now 📺",
+   "channel": "Kyle Legacy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 254,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 32.3,
+   "r2_clip": "comedians/kyle-legacy/clips/kyle-legacy-vdmhqzhenhc.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

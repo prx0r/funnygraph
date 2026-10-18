@@ -1,0 +1,44 @@
+{
+ "comedian_id": "david-rose",
+ "name": "DAVID ROSE",
+ "clips": 1,
+ "total_views": 285,
+ "total_likes": 0,
+ "avg_views": 285,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "VO3ST-mYCUo",
+  "title": "DAVID ROSE - UNFORTUNATE CIRCUMCISION",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 285,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 48.4,
+  "r2_clip": "comedians/david-rose/clips/david-rose-vo3st-mycuo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "VO3ST-mYCUo",
+   "title": "DAVID ROSE - UNFORTUNATE CIRCUMCISION",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 285,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 48.4,
+   "r2_clip": "comedians/david-rose/clips/david-rose-vo3st-mycuo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

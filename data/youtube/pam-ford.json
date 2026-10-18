@@ -1,0 +1,45 @@
+{
+ "comedian_id": "pam-ford",
+ "name": "PAM FORD",
+ "channels": {},
+ "clips": 1,
+ "total_views": 754,
+ "total_likes": 0,
+ "avg_views": 754,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "8wftvYk8NRw",
+  "title": "PAM FORD - GILLET OR GILLET",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 754,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 14.6,
+  "r2_clip": "comedians/pam-ford/clips/pam-ford-8wftvyk8nrw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "8wftvYk8NRw",
+   "title": "PAM FORD - GILLET OR GILLET",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 754,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 14.6,
+   "r2_clip": "comedians/pam-ford/clips/pam-ford-8wftvyk8nrw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

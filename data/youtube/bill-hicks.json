@@ -1,10 +1,11 @@
 {
  "comedian_id": "bill-hicks",
  "name": "Bill Hicks",
- "clips": 6,
+ "channels": {},
+ "clips": 7,
  "total_views": 8419927,
  "total_likes": 141497,
- "avg_views": 1403321,
+ "avg_views": 1202847,
  "like_rate": 0.01681,
  "top_clip": {
   "videoId": "Emlq_4imaik",
@@ -90,6 +91,23 @@
    "likes": 2800,
    "comments": 652,
    "duration_s": 144
+  },
+  {
+   "videoId": "NivJKUfa7Sw",
+   "title": "Weirdest Question",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 0,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 118.9,
+   "r2_clip": "comedians/bill-hicks/clips/bill-hicks-nivjkufa7sw.json",
+   "transcript": true,
+   "source_group": "nextup"
   }
- ]
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
 }

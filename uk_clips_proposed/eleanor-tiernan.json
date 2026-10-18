@@ -1,0 +1,44 @@
+{
+ "comedian_id": "eleanor-tiernan",
+ "name": "Eleanor Tiernan",
+ "clips": 1,
+ "total_views": 2300,
+ "total_likes": 0,
+ "avg_views": 2300,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "qirBdZ8T-aU",
+  "title": "Eleanor Tiernan | Blowing Up A Petrol Station #standupcomedy #story #irishcomedy",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2300,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 60.6,
+  "r2_clip": "comedians/eleanor-tiernan/clips/eleanor-tiernan-qirbdz8t-au.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "qirBdZ8T-aU",
+   "title": "Eleanor Tiernan | Blowing Up A Petrol Station #standupcomedy #story #irishcomedy",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 60.6,
+   "r2_clip": "comedians/eleanor-tiernan/clips/eleanor-tiernan-qirbdz8t-au.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

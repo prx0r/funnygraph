@@ -1,0 +1,60 @@
+{
+ "comedian_id": "mel-giedroyc-unforgivable",
+ "name": "Mel Giedroyc: Unforgivable",
+ "clips": 2,
+ "total_views": 20040,
+ "total_likes": 0,
+ "avg_views": 10020,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "LJ4a-gOm9xc",
+  "title": "Lara Ricote Becomes A Cheese Pun | Mel Giedroyc: Unforgivable | Dave",
+  "channel": "U&Laughs",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 16554,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 109.6,
+  "r2_clip": "comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-lj4a-gom9xc.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "IyO5bpz7eL4",
+   "title": "Dan Tiernan CONFESSES To His Sister | Mel Giedroyc: Unforgivable | U&Dave",
+   "channel": "U&Laughs",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 3486,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 161.7,
+   "r2_clip": "comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-iyo5bpz7el4.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "LJ4a-gOm9xc",
+   "title": "Lara Ricote Becomes A Cheese Pun | Mel Giedroyc: Unforgivable | Dave",
+   "channel": "U&Laughs",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 16554,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 109.6,
+   "r2_clip": "comedians/mel-giedroyc-unforgivable/clips/mel-giedroyc-unforgivable-lj4a-gom9xc.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

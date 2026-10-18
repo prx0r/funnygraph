@@ -1,0 +1,45 @@
+{
+ "comedian_id": "adam-rowe",
+ "name": "Adam Rowe",
+ "channels": {},
+ "clips": 1,
+ "total_views": 5898,
+ "total_likes": 0,
+ "avg_views": 5898,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "npMXigw3riI",
+  "title": "Adam Rowe | You're Not Posh",
+  "channel": "Hot Water Comedy Club",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 5898,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 116.8,
+  "r2_clip": "comedians/adam-rowe/clips/adam-rowe-npmxigw3rii.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "npMXigw3riI",
+   "title": "Adam Rowe | You're Not Posh",
+   "channel": "Hot Water Comedy Club",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5898,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 116.8,
+   "r2_clip": "comedians/adam-rowe/clips/adam-rowe-npmxigw3rii.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

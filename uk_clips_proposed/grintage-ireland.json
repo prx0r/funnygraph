@@ -1,0 +1,44 @@
+{
+ "comedian_id": "grintage-ireland",
+ "name": "Grintage Ireland",
+ "clips": 1,
+ "total_views": 107474,
+ "total_likes": 0,
+ "avg_views": 107474,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "x7aO5sRkt5M",
+  "title": "John Bishop on Hurling | Grintage Ireland",
+  "channel": "Grintage Ireland",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 107474,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 75.6,
+  "r2_clip": "comedians/grintage-ireland/clips/grintage-ireland-x7ao5srkt5m.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "x7aO5sRkt5M",
+   "title": "John Bishop on Hurling | Grintage Ireland",
+   "channel": "Grintage Ireland",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 107474,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 75.6,
+   "r2_clip": "comedians/grintage-ireland/clips/grintage-ireland-x7ao5srkt5m.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

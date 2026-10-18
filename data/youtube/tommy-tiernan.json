@@ -8,11 +8,11 @@
    "channel": "Tommy Tiernan"
   }
  },
- "clips": 100,
- "total_views": 15038186,
+ "clips": 101,
+ "total_views": 15227186,
  "total_likes": 194916,
- "avg_views": 150381,
- "like_rate": 0.01296,
+ "avg_views": 150764,
+ "like_rate": 0.0128,
  "top_clip": {
   "videoId": "u3MG1iIZZjQ",
   "title": "Accent and Emergency | TOMMY TIERNAN",
@@ -146,7 +146,7 @@
   },
   {
    "videoId": "54POWTZOB0A",
-   "title": "The difference between America and Ireland is\u2026  #shorts #standupcomedy",
+   "title": "The difference between America and Ireland is…  #shorts #standupcomedy",
    "channel": "Tommy Tiernan",
    "channelId": "UCWfX0nD5LDx0rvxHUWWWQUw",
    "channel_subs": 62400,
@@ -367,7 +367,7 @@
   },
   {
    "videoId": "-7xyobrOkAQ",
-   "title": "When Your Teacher Hates You |\u00a0#shorts | TOMMY TIERNAN",
+   "title": "When Your Teacher Hates You | #shorts | TOMMY TIERNAN",
    "channel": "Tommy Tiernan",
    "channelId": "UCWfX0nD5LDx0rvxHUWWWQUw",
    "channel_subs": 62400,
@@ -562,7 +562,7 @@
   },
   {
    "videoId": "JSHYEXZK7ws",
-   "title": "Give your madness a gallop\u2026 #shorts",
+   "title": "Give your madness a gallop… #shorts",
    "channel": "Tommy Tiernan",
    "channelId": "UCWfX0nD5LDx0rvxHUWWWQUw",
    "channel_subs": 62400,
@@ -783,7 +783,7 @@
   },
   {
    "videoId": "YtrmrSEDVtc",
-   "title": "I met the Pope last year\u2026 #shorts",
+   "title": "I met the Pope last year… #shorts",
    "channel": "Tommy Tiernan",
    "channelId": "UCWfX0nD5LDx0rvxHUWWWQUw",
    "channel_subs": 62400,
@@ -1004,7 +1004,7 @@
   },
   {
    "videoId": "zXGCZR28vqg",
-   "title": "S\u00e9amus and Breannd\u00e1n Begley | The Tommy Tiernan Show",
+   "title": "Séamus and Breanndán Begley | The Tommy Tiernan Show",
    "channel": "Tommy Tiernan",
    "channelId": "UCWfX0nD5LDx0rvxHUWWWQUw",
    "channel_subs": 62400,
@@ -1264,7 +1264,7 @@
   },
   {
    "videoId": "jsTOJHXiCEw",
-   "title": "Se\u00e1n Boylan | The Tommy Tiernan Show",
+   "title": "Seán Boylan | The Tommy Tiernan Show",
    "channel": "Tommy Tiernan",
    "channelId": "UCWfX0nD5LDx0rvxHUWWWQUw",
    "channel_subs": 62400,
@@ -1326,7 +1326,23 @@
    "likes": 830,
    "comments": 6,
    "duration_s": 47
+  },
+  {
+   "videoId": "XpDMJbcsUps",
+   "title": "Tommy Tiernan Drunk Driving",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 189000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 115.8,
+   "r2_clip": "comedians/tommy-tiernan/clips/tommy-tiernan-xpdmjbcsups.json",
+   "transcript": true,
+   "source_group": "nextup"
   }
  ],
- "method": "registry-uploads (no search)"
+ "method": "uk-clips-harvest (transcript-first)"
 }

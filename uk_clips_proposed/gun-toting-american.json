@@ -1,0 +1,44 @@
+{
+ "comedian_id": "gun-toting-american",
+ "name": "Gun Toting American",
+ "clips": 1,
+ "total_views": 5300,
+ "total_likes": 0,
+ "avg_views": 5300,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "8929zCK-gYk",
+  "title": "Shawn Uyosa | Gun Toting American #standupcomedy #american #shotgun #comedy #crowdwork",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 5300,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 38.1,
+  "r2_clip": "comedians/gun-toting-american/clips/gun-toting-american-8929zck-gyk.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "8929zCK-gYk",
+   "title": "Shawn Uyosa | Gun Toting American #standupcomedy #american #shotgun #comedy #crowdwork",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 38.1,
+   "r2_clip": "comedians/gun-toting-american/clips/gun-toting-american-8929zck-gyk.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

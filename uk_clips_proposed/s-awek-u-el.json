@@ -1,0 +1,44 @@
+{
+ "comedian_id": "s-awek-u-el",
+ "name": "Sławek \"żużel\"",
+ "clips": 1,
+ "total_views": 117186,
+ "total_likes": 0,
+ "avg_views": 117186,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "HpzXlZ0R-lA",
+  "title": "Jason Manford about Football Manager (english subtitles)",
+  "channel": "Sławek \"żużel\"",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 117186,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 165.9,
+  "r2_clip": "comedians/s-awek-u-el/clips/s-awek-u-el-hpzxlz0r-la.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "HpzXlZ0R-lA",
+   "title": "Jason Manford about Football Manager (english subtitles)",
+   "channel": "Sławek \"żużel\"",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 117186,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 165.9,
+   "r2_clip": "comedians/s-awek-u-el/clips/s-awek-u-el-hpzxlz0r-la.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

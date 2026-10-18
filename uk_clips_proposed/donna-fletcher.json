@@ -1,0 +1,44 @@
+{
+ "comedian_id": "donna-fletcher",
+ "name": "Donna Fletcher",
+ "clips": 1,
+ "total_views": 1100,
+ "total_likes": 0,
+ "avg_views": 1100,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "nla_hU1-s2A",
+  "title": "Unsolicited D**k Pics | Donna Fletcher | Craic Den Comedy Club | #dating #datingapps #comedy #irish",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 85.8,
+  "r2_clip": "comedians/donna-fletcher/clips/donna-fletcher-nla-hu1-s2a.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "nla_hU1-s2A",
+   "title": "Unsolicited D**k Pics | Donna Fletcher | Craic Den Comedy Club | #dating #datingapps #comedy #irish",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 85.8,
+   "r2_clip": "comedians/donna-fletcher/clips/donna-fletcher-nla-hu1-s2a.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

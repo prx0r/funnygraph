@@ -1,0 +1,44 @@
+{
+ "comedian_id": "gbemi-oladipo",
+ "name": "Gbemi Oladipo",
+ "clips": 1,
+ "total_views": 4500,
+ "total_likes": 0,
+ "avg_views": 4500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "wiZ_026llzM",
+  "title": "Extreme Parent Outsourcing | Gbemi Oladipo | Live at The Bearcat  #standupcomedy #nigeria #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 4500,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 52.5,
+  "r2_clip": "comedians/gbemi-oladipo/clips/gbemi-oladipo-wiz_026llzm.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "wiZ_026llzM",
+   "title": "Extreme Parent Outsourcing | Gbemi Oladipo | Live at The Bearcat  #standupcomedy #nigeria #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4500,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 52.5,
+   "r2_clip": "comedians/gbemi-oladipo/clips/gbemi-oladipo-wiz_026llzm.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

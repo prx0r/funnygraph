@@ -1,0 +1,44 @@
+{
+ "comedian_id": "it-was-his-thing",
+ "name": "IT WAS HIS \"THING\"?!",
+ "clips": 1,
+ "total_views": 7300,
+ "total_likes": 0,
+ "avg_views": 7300,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "AA89ynoWsF8",
+  "title": "IT WAS HIS \"THING\"?! | Hot Water’s Green Room Shorts",
+  "channel": "@HotWaterComedyClubLiverpool",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 7300,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 64.7,
+  "r2_clip": "comedians/it-was-his-thing/clips/it-was-his-thing-aa89ynowsf8.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "AA89ynoWsF8",
+   "title": "IT WAS HIS \"THING\"?! | Hot Water’s Green Room Shorts",
+   "channel": "@HotWaterComedyClubLiverpool",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 7300,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 64.7,
+   "r2_clip": "comedians/it-was-his-thing/clips/it-was-his-thing-aa89ynowsf8.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

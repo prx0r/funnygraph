@@ -1,0 +1,44 @@
+{
+ "comedian_id": "patrick-mcdonnell",
+ "name": "Patrick McDonnell",
+ "clips": 1,
+ "total_views": 4100,
+ "total_likes": 0,
+ "avg_views": 4100,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "0BHzZuAIzcQ",
+  "title": "Michael Jackson | Patrick McDonnell | Craic Den Comedy Club  #standupcomedy #irish #comedy #michael",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 4100,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 43.7,
+  "r2_clip": "comedians/patrick-mcdonnell/clips/patrick-mcdonnell-0bhzzuaizcq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "0BHzZuAIzcQ",
+   "title": "Michael Jackson | Patrick McDonnell | Craic Den Comedy Club  #standupcomedy #irish #comedy #michael",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 4100,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 43.7,
+   "r2_clip": "comedians/patrick-mcdonnell/clips/patrick-mcdonnell-0bhzzuaizcq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

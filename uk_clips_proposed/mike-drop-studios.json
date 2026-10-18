@@ -1,0 +1,44 @@
+{
+ "comedian_id": "mike-drop-studios",
+ "name": "Mike Drop Studios",
+ "clips": 1,
+ "total_views": 219,
+ "total_likes": 0,
+ "avg_views": 219,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "s0r7jyap5BU",
+  "title": "Schools out with Dan Tiernan & Molly McGuinness Trailer",
+  "channel": "Mike Drop Studios",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 219,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 36.2,
+  "r2_clip": "comedians/mike-drop-studios/clips/mike-drop-studios-s0r7jyap5bu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "s0r7jyap5BU",
+   "title": "Schools out with Dan Tiernan & Molly McGuinness Trailer",
+   "channel": "Mike Drop Studios",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 219,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 36.2,
+   "r2_clip": "comedians/mike-drop-studios/clips/mike-drop-studios-s0r7jyap5bu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

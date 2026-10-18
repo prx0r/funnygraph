@@ -1,0 +1,44 @@
+{
+ "comedian_id": "luke-hall",
+ "name": "LUKE HALL",
+ "clips": 1,
+ "total_views": 5000,
+ "total_likes": 0,
+ "avg_views": 5000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Ga-r7wFoiXU",
+  "title": "LUKE HALL - HEIGHTS OF DATING",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 5000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 26.3,
+  "r2_clip": "comedians/luke-hall/clips/luke-hall-ga-r7wfoixu.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Ga-r7wFoiXU",
+   "title": "LUKE HALL - HEIGHTS OF DATING",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 5000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 26.3,
+   "r2_clip": "comedians/luke-hall/clips/luke-hall-ga-r7wfoixu.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

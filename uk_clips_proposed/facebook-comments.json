@@ -1,0 +1,44 @@
+{
+ "comedian_id": "facebook-comments",
+ "name": "Facebook Comments",
+ "clips": 1,
+ "total_views": 34000,
+ "total_likes": 0,
+ "avg_views": 34000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "EDAlnbGMVfw",
+  "title": "Facebook Comments - John Mann - Live at the Bearcat  #comedy #standupcomedy #jokes #funny",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 34000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 32.1,
+  "r2_clip": "comedians/facebook-comments/clips/facebook-comments-edalnbgmvfw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "EDAlnbGMVfw",
+   "title": "Facebook Comments - John Mann - Live at the Bearcat  #comedy #standupcomedy #jokes #funny",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 34000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 32.1,
+   "r2_clip": "comedians/facebook-comments/clips/facebook-comments-edalnbgmvfw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

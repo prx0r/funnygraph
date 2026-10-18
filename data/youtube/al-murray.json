@@ -1,0 +1,45 @@
+{
+ "comedian_id": "al-murray",
+ "name": "Al Murray",
+ "channels": {},
+ "clips": 1,
+ "total_views": 884000,
+ "total_likes": 0,
+ "avg_views": 884000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "brzmRtmFGp0",
+  "title": "Painfully Middle-Class Names | Al Murray | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 884000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 26.7,
+  "r2_clip": "comedians/al-murray/clips/al-murray-brzmrtmfgp0.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "brzmRtmFGp0",
+   "title": "Painfully Middle-Class Names | Al Murray | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 884000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 26.7,
+   "r2_clip": "comedians/al-murray/clips/al-murray-brzmrtmfgp0.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

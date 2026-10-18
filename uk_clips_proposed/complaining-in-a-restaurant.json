@@ -1,0 +1,44 @@
+{
+ "comedian_id": "complaining-in-a-restaurant",
+ "name": "Complaining In A Restaurant",
+ "clips": 1,
+ "total_views": 1357179,
+ "total_likes": 0,
+ "avg_views": 1357179,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "2Urw9g6DwqY",
+  "title": "Complaining In A Restaurant | Peter Kay: The Tour That Didn't Tour Tour",
+  "channel": "Peter Kay",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1357179,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 161.2,
+  "r2_clip": "comedians/complaining-in-a-restaurant/clips/complaining-in-a-restaurant-2urw9g6dwqy.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "2Urw9g6DwqY",
+   "title": "Complaining In A Restaurant | Peter Kay: The Tour That Didn't Tour Tour",
+   "channel": "Peter Kay",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1357179,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 161.2,
+   "r2_clip": "comedians/complaining-in-a-restaurant/clips/complaining-in-a-restaurant-2urw9g6dwqy.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

@@ -1,0 +1,44 @@
+{
+ "comedian_id": "emma-doran",
+ "name": "Emma Doran",
+ "clips": 1,
+ "total_views": 2800,
+ "total_likes": 0,
+ "avg_views": 2800,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "_Yh7mG71oZI",
+  "title": "English ‘Professional Policing’ | Emma Doran | #comedy #funny #police",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 2800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 122.8,
+  "r2_clip": "comedians/emma-doran/clips/emma-doran-yh7mg71ozi.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "_Yh7mG71oZI",
+   "title": "English ‘Professional Policing’ | Emma Doran | #comedy #funny #police",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 2800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 122.8,
+   "r2_clip": "comedians/emma-doran/clips/emma-doran-yh7mg71ozi.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

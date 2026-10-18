@@ -1,0 +1,44 @@
+{
+ "comedian_id": "working-from-home",
+ "name": "Working From Home",
+ "clips": 1,
+ "total_views": 3800,
+ "total_likes": 0,
+ "avg_views": 3800,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "txA4WXBQYMQ",
+  "title": "Working From Home - Geoff Norcott - Live at The Bearcat  #comedy #standup #funny #bearcatcomedy",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 3800,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 50.0,
+  "r2_clip": "comedians/working-from-home/clips/working-from-home-txa4wxbqymq.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "txA4WXBQYMQ",
+   "title": "Working From Home - Geoff Norcott - Live at The Bearcat  #comedy #standup #funny #bearcatcomedy",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 3800,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 50.0,
+   "r2_clip": "comedians/working-from-home/clips/working-from-home-txa4wxbqymq.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

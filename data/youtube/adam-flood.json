@@ -1,0 +1,45 @@
+{
+ "comedian_id": "adam-flood",
+ "name": "ADAM FLOOD",
+ "channels": {},
+ "clips": 1,
+ "total_views": 1400,
+ "total_likes": 0,
+ "avg_views": 1400,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "PGoWV6QjVEA",
+  "title": "ADAM FLOOD - THREE BABY DADDIES",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1400,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 89.8,
+  "r2_clip": "comedians/adam-flood/clips/adam-flood-pgowv6qjvea.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "PGoWV6QjVEA",
+   "title": "ADAM FLOOD - THREE BABY DADDIES",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 89.8,
+   "r2_clip": "comedians/adam-flood/clips/adam-flood-pgowv6qjvea.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

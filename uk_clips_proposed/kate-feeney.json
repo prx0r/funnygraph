@@ -1,0 +1,60 @@
+{
+ "comedian_id": "kate-feeney",
+ "name": "Kate Feeney",
+ "clips": 2,
+ "total_views": 12700,
+ "total_likes": 0,
+ "avg_views": 6350,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "aD7jeasAo8g",
+  "title": "Gay Vibes | Kate Feeney |  #standup #comedy #gay #funny",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 11000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 34.8,
+  "r2_clip": "comedians/kate-feeney/clips/kate-feeney-ad7jeasao8g.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "aD7jeasAo8g",
+   "title": "Gay Vibes | Kate Feeney |  #standup #comedy #gay #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 11000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 34.8,
+   "r2_clip": "comedians/kate-feeney/clips/kate-feeney-ad7jeasao8g.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "huUy5wbe100",
+   "title": "Straight & Gay Couples | Kate Feeney | #standupcomedy #comedy #gay #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1700,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 58.6,
+   "r2_clip": "comedians/kate-feeney/clips/kate-feeney-huuy5wbe100.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

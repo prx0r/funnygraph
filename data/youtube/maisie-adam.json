@@ -1,0 +1,45 @@
+{
+ "comedian_id": "maisie-adam",
+ "name": "Maisie Adam",
+ "channels": {},
+ "clips": 1,
+ "total_views": 41000,
+ "total_likes": 0,
+ "avg_views": 41000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "J0v8WfPmEYI",
+  "title": "This could quite possible be one of my proudest achievements | Maisie Adam",
+  "channel": "@MaisieAdamComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 41000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 100.8,
+  "r2_clip": "comedians/maisie-adam/clips/maisie-adam-j0v8wfpmeyi.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "J0v8WfPmEYI",
+   "title": "This could quite possible be one of my proudest achievements | Maisie Adam",
+   "channel": "@MaisieAdamComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 41000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 100.8,
+   "r2_clip": "comedians/maisie-adam/clips/maisie-adam-j0v8wfpmeyi.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

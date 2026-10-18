@@ -1,0 +1,44 @@
+{
+ "comedian_id": "farah-sharp",
+ "name": "FARAH SHARP",
+ "clips": 1,
+ "total_views": 91,
+ "total_likes": 0,
+ "avg_views": 91,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "zDq73XmP0Gg",
+  "title": "FARAH SHARP - SMEAR TEST",
+  "channel": "@BigBellyComedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 91,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 57.1,
+  "r2_clip": "comedians/farah-sharp/clips/farah-sharp-zdq73xmp0gg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "zDq73XmP0Gg",
+   "title": "FARAH SHARP - SMEAR TEST",
+   "channel": "@BigBellyComedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 91,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 57.1,
+   "r2_clip": "comedians/farah-sharp/clips/farah-sharp-zdq73xmp0gg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

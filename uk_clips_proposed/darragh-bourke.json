@@ -1,0 +1,44 @@
+{
+ "comedian_id": "darragh-bourke",
+ "name": "Darragh Bourke",
+ "clips": 1,
+ "total_views": 19000,
+ "total_likes": 0,
+ "avg_views": 19000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "-Ie58oQYGfg",
+  "title": "Irish VS English Goodbye | Darragh Bourke | Craic Den Comedy Club| #comedy #standup #Irish #English",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 19000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 39.4,
+  "r2_clip": "comedians/darragh-bourke/clips/darragh-bourke-ie58oqygfg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "-Ie58oQYGfg",
+   "title": "Irish VS English Goodbye | Darragh Bourke | Craic Den Comedy Club| #comedy #standup #Irish #English",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 19000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 39.4,
+   "r2_clip": "comedians/darragh-bourke/clips/darragh-bourke-ie58oqygfg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

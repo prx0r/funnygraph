@@ -1,0 +1,44 @@
+{
+ "comedian_id": "susie-mccabe",
+ "name": "Susie McCabe",
+ "clips": 1,
+ "total_views": 21000,
+ "total_likes": 0,
+ "avg_views": 21000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "QrO7s4zlKy8",
+  "title": "In menopausal Scottish women we trust 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 21000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 68.6,
+  "r2_clip": "comedians/susie-mccabe/clips/susie-mccabe-qro7s4zlky8.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "QrO7s4zlKy8",
+   "title": "In menopausal Scottish women we trust 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 21000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 68.6,
+   "r2_clip": "comedians/susie-mccabe/clips/susie-mccabe-qro7s4zlky8.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

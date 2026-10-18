@@ -1,0 +1,45 @@
+{
+ "comedian_id": "rachel-parris",
+ "name": "Rachel Parris",
+ "channels": {},
+ "clips": 1,
+ "total_views": 13000,
+ "total_likes": 0,
+ "avg_views": 13000,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "mqacqF6v3HQ",
+  "title": "And that’s modern feminism for ya 💅🏼",
+  "channel": "NextUp Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 13000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 34.3,
+  "r2_clip": "comedians/rachel-parris/clips/rachel-parris-mqacqf6v3hq.json",
+  "transcript": true,
+  "source_group": "nextup"
+ },
+ "rows": [
+  {
+   "videoId": "mqacqF6v3HQ",
+   "title": "And that’s modern feminism for ya 💅🏼",
+   "channel": "NextUp Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 13000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 34.3,
+   "r2_clip": "comedians/rachel-parris/clips/rachel-parris-mqacqf6v3hq.json",
+   "transcript": true,
+   "source_group": "nextup"
+  }
+ ],
+ "method": "uk-clips-harvest (transcript-first)"
+}

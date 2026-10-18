@@ -1,0 +1,44 @@
+{
+ "comedian_id": "hat-trick",
+ "name": "Hat Trick",
+ "clips": 1,
+ "total_views": 783396,
+ "total_likes": 0,
+ "avg_views": 783396,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "0P-XaH8f9eE",
+  "title": "Frankie Boyle vs Celebrity Atheists - Room 101",
+  "channel": "Hat Trick Comedy",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 783396,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 121.8,
+  "r2_clip": "comedians/hat-trick/clips/hat-trick-0p-xah8f9ee.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "0P-XaH8f9eE",
+   "title": "Frankie Boyle vs Celebrity Atheists - Room 101",
+   "channel": "Hat Trick Comedy",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 783396,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 121.8,
+   "r2_clip": "comedians/hat-trick/clips/hat-trick-0p-xah8f9ee.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

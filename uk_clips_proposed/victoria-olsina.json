@@ -1,0 +1,44 @@
+{
+ "comedian_id": "victoria-olsina",
+ "name": "Victoria Olsina",
+ "clips": 1,
+ "total_views": 47,
+ "total_likes": 0,
+ "avg_views": 47,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "Pdo5TYHSLKg",
+  "title": "What British People Know About Argentina | Victoria Olsina",
+  "channel": "Comedy Bloomers",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 47,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 15.9,
+  "r2_clip": "comedians/victoria-olsina/clips/victoria-olsina-pdo5tyhslkg.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "Pdo5TYHSLKg",
+   "title": "What British People Know About Argentina | Victoria Olsina",
+   "channel": "Comedy Bloomers",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 47,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 15.9,
+   "r2_clip": "comedians/victoria-olsina/clips/victoria-olsina-pdo5tyhslkg.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

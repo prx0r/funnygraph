@@ -1,0 +1,44 @@
+{
+ "comedian_id": "trevor-bickles",
+ "name": "Trevor Bickles",
+ "clips": 1,
+ "total_views": 223,
+ "total_likes": 0,
+ "avg_views": 223,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "K7tMlUwnGIw",
+  "title": "March 2022 @The stand up club London",
+  "channel": "Trevor Bickles",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 223,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 59.3,
+  "r2_clip": "comedians/trevor-bickles/clips/trevor-bickles-k7tmluwngiw.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "K7tMlUwnGIw",
+   "title": "March 2022 @The stand up club London",
+   "channel": "Trevor Bickles",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 223,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 59.3,
+   "r2_clip": "comedians/trevor-bickles/clips/trevor-bickles-k7tmluwngiw.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

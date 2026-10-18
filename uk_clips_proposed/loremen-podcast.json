@@ -1,0 +1,44 @@
+{
+ "comedian_id": "loremen-podcast",
+ "name": "Loremen Podcast",
+ "clips": 1,
+ "total_views": 1029,
+ "total_likes": 0,
+ "avg_views": 1029,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "ra9qJfrLSls",
+  "title": "Chris Cantrill takes you to a haunted tree... Field Report",
+  "channel": "Loremen Podcast",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1029,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 123.5,
+  "r2_clip": "comedians/loremen-podcast/clips/loremen-podcast-ra9qjfrlsls.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "ra9qJfrLSls",
+   "title": "Chris Cantrill takes you to a haunted tree... Field Report",
+   "channel": "Loremen Podcast",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1029,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 123.5,
+   "r2_clip": "comedians/loremen-podcast/clips/loremen-podcast-ra9qjfrlsls.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

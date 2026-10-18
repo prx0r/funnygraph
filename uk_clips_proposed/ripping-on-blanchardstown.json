@@ -1,0 +1,44 @@
+{
+ "comedian_id": "ripping-on-blanchardstown",
+ "name": "Ripping On Blanchardstown",
+ "clips": 1,
+ "total_views": 1500,
+ "total_likes": 0,
+ "avg_views": 1500,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "BNEOqG0k0_M",
+  "title": "Damo Clark | Ripping On Blanchardstown #dublin #crowdwork #comedy",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 1500,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 35.0,
+  "r2_clip": "comedians/ripping-on-blanchardstown/clips/ripping-on-blanchardstown-bneoqg0k0-m.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "BNEOqG0k0_M",
+   "title": "Damo Clark | Ripping On Blanchardstown #dublin #crowdwork #comedy",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 1500,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 35.0,
+   "r2_clip": "comedians/ripping-on-blanchardstown/clips/ripping-on-blanchardstown-bneoqg0k0-m.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

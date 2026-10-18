@@ -1,0 +1,44 @@
+{
+ "comedian_id": "frankie-boyle-banned-joke",
+ "name": "Frankie Boyle Banned Joke",
+ "clips": 1,
+ "total_views": 333265,
+ "total_likes": 0,
+ "avg_views": 333265,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "HtefgX-ZQYo",
+  "title": "Frankie Boyle Banned Joke - Mock the week",
+  "channel": "1prjnnam",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 333265,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 34.1,
+  "r2_clip": "comedians/frankie-boyle-banned-joke/clips/frankie-boyle-banned-joke-htefgx-zqyo.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "HtefgX-ZQYo",
+   "title": "Frankie Boyle Banned Joke - Mock the week",
+   "channel": "1prjnnam",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 333265,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 34.1,
+   "r2_clip": "comedians/frankie-boyle-banned-joke/clips/frankie-boyle-banned-joke-htefgx-zqyo.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

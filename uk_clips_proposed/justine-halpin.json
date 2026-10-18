@@ -1,0 +1,44 @@
+{
+ "comedian_id": "justine-halpin",
+ "name": "Justine Halpin",
+ "clips": 1,
+ "total_views": 655,
+ "total_likes": 0,
+ "avg_views": 655,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "N_ts4k1T3jU",
+  "title": "Female Anatomy | Justine Halpin | Craic Den Comedy Club #ireland #irish #standup #comedy #funny",
+  "channel": "@craicdencomedyclub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 655,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 54.0,
+  "r2_clip": "comedians/justine-halpin/clips/justine-halpin-n-ts4k1t3ju.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "N_ts4k1T3jU",
+   "title": "Female Anatomy | Justine Halpin | Craic Den Comedy Club #ireland #irish #standup #comedy #funny",
+   "channel": "@craicdencomedyclub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 655,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 54.0,
+   "r2_clip": "comedians/justine-halpin/clips/justine-halpin-n-ts4k1t3ju.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}

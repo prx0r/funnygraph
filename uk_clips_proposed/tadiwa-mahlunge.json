@@ -1,0 +1,60 @@
+{
+ "comedian_id": "tadiwa-mahlunge",
+ "name": "Tadiwa Mahlunge",
+ "clips": 2,
+ "total_views": 17400,
+ "total_likes": 0,
+ "avg_views": 8700,
+ "like_rate": 0.0,
+ "top_clip": {
+  "videoId": "tiKzvbWMe6A",
+  "title": "His Girlfriend Said What?! | Tadiwa Mahlunge | Live at The Bearcat  #standupcomedy #comedy #jokes",
+  "channel": "@BearcatComedyClub",
+  "channelId": null,
+  "channel_subs": null,
+  "bracket": null,
+  "publishedAt": null,
+  "views": 11000,
+  "likes": 0,
+  "comments": 0,
+  "duration_s": 33.6,
+  "r2_clip": "comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-tikzvbwme6a.json",
+  "transcript": true,
+  "source_group": "youtube"
+ },
+ "rows": [
+  {
+   "videoId": "tiKzvbWMe6A",
+   "title": "His Girlfriend Said What?! | Tadiwa Mahlunge | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 11000,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 33.6,
+   "r2_clip": "comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-tikzvbwme6a.json",
+   "transcript": true,
+   "source_group": "youtube"
+  },
+  {
+   "videoId": "9IQ2s4Gcy3c",
+   "title": "Recently Moved to Croydon | Tadiwa Mahlunge | Live at The Bearcat  #standupcomedy #comedy #jokes",
+   "channel": "@BearcatComedyClub",
+   "channelId": null,
+   "channel_subs": null,
+   "bracket": null,
+   "publishedAt": null,
+   "views": 6400,
+   "likes": 0,
+   "comments": 0,
+   "duration_s": 31.1,
+   "r2_clip": "comedians/tadiwa-mahlunge/clips/tadiwa-mahlunge-9iq2s4gcy3c.json",
+   "transcript": true,
+   "source_group": "youtube"
+  }
+ ],
+ "method": "uk-clips-harvest (graph pending)"
+}
